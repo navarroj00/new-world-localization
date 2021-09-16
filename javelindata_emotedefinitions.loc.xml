@@ -1,0 +1,69 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="emote_2fingers">{playerName} shows two fingers</string>
+	<string key="emote_2thumbsup">{playerName} gives the thumbs up</string>
+	<string key="emote_apol1">{playerName} apologizes for their grievous mistake</string>
+	<string key="emote_beckon">{playerName} beckons you over</string>
+	<string key="emote_bow">{playerName} bows</string>
+	<string key="emote_cheer">{playerName} cheers</string>
+	<string key="emote_chestpound">{playerName} pounds their chest</string>
+	<string key="emote_chinscrape">{playerName} is not amused</string>
+	<string key="emote_clap">{playerName} claps</string>
+	<string key="emote_coin_heads" comment="The top side of a coin">heads</string>
+	<string key="emote_coin_tails" comment="The bottom side of a coin">tails</string>
+	<string key="emote_cointoss" comment="{coinResult} will be replaced with the tag emote_coin_heads or emote_coin_tails. They are also defined in this file.">{playerName} flipped a coin and it lands on {coinResult}</string>
+	<string key="emote_cry1">{playerName} is crying</string>
+	<string key="emote_cry3">{playerName} can't contain their sorrow</string>
+	<string key="emote_dance1">{playerName} dances</string>
+	<string key="emote_diceroll" comment="{diceResult} is a number from 1 to 6">{playerName} rolls a {diceResult}</string>
+	<string key="emote_eyesonyou">{playerName} has their eyes on you</string>
+	<string key="emote_farmerblow">{playerName} blows their nose</string>
+	<string key="emote_fingerwag">{playerName} warns not to do that</string>
+	<string key="emote_fistbump">{playerName} bumps their fist</string>
+	<string key="emote_fistshake">{playerName} shakes their fist</string>
+	<string key="emote_flex1">{playerName} flexes</string>
+	<string key="emote_flex2">{playerName} flexes</string>
+	<string key="emote_flex3">{playerName} wants you to look at their arms.  Aren't they great?</string>
+	<string key="emote_forearmjerk">{playerName} is dissatisfied</string>
+	<string key="emote_golfclap">{playerName} golf claps</string>
+	<string key="emote_goodbye">{playerName} waves goodbye</string>
+	<string key="emote_hi">{playerName} says Hi</string>
+	<string key="emote_highfive">{playerName} high Fives</string>
+	<string key="emote_impatient">{playerName} is waiting…</string>
+	<string key="emote_laugh1">{playerName} laughs</string>
+	<string key="emote_laugh2">{playerName} laughs at you</string>
+	<string key="emote_loudpoint">{playerName} points over there</string>
+	<string key="emote_no">{playerName} says no</string>
+	<string key="emote_nodeal">{playerName} doesn't like that</string>
+	<string key="emote_overhere">{playerName} wants you over here</string>
+	<string key="emote_pray">{playerName} prays</string>
+	<string key="emote_pushups">{playerName} does some pushups</string>
+	<string key="emote_revel">{playerName} likes it a lot</string>
+	<string key="emote_rockpaperscissors">{playerName} plays rock paper scissors</string>
+	<string key="emote_shhh">{playerName} shushes</string>
+	<string key="emote_shrug">{playerName} shrugs</string>
+	<string key="emote_sillywalk1">{playerName} walks in a silly manner</string>
+	<string key="emote_sit" comment="comment">{playerName} sits</string>
+	<string key="emote_slowclap">{playerName} slow claps</string>
+	<string key="emote_surrender">{playerName} surrenders</string>
+	<string key="emote_throatslit">{playerName} makes a threatening motion</string>
+	<string key="emote_thumbsdown">{playerName} gives the thumbs down</string>
+	<string key="emote_thumbsside">{playerName} is undecided</string>
+	<string key="emote_thumbsup">{playerName} gives the thumbs up</string>
+	<string key="emote_wave">{playerName} waves</string>
+	<string key="emote_whistle">{playerName} whistles</string>
+	<string key="emote_firework1">{playerName} lit a Chrysanthemum Rocket</string>
+	<string key="emote_firework2">{playerName} lit a 2 Rocket</string>
+	<string key="emote_firework3">{playerName} lit a 3 Rocket</string>
+	<string key="emote_firework4">{playerName} lit a 4 Rocket</string>
+	<string key="emote_firework5">{playerName} lit a 5 Rocket</string>
+	<string key="emote_blowkiss">{playerName} blows a kiss</string>
+	<string key="emote_ahoy">{playerName} strikes a pose</string>
+	<string key="emote_fingerwag">{playerName} says no no no</string>
+	<string key="ui_emote_BlowKiss">Blow Kiss</string>
+	<string key="ui_emote_PiratePose">Pirate Pose</string>
+	<string key="ui_emote_FingerWag">Finger Wag</string>
+	<string key="ui_emote_BlowKiss_description">Blow Kiss Mote</string>
+	<string key="ui_emote_PiratePose_description">Pirate Pose Emote</string>
+	<string key="ui_emote_FingerWag_description">Finger Wag Emote</string>
+</resources>
+
