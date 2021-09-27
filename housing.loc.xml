@@ -25,6 +25,7 @@
 	<string key="ui_fast_travel_popup_confirm">Would you like to fast travel to this location?</string>
 	<string key="ui_inn_recall_popup_confirm">Would you like to recall to this inn?</string>
 	<string key="ui_inn_recall_from_esc_popup_confirm">Would you like to recall to the inn located in {territoryName}?</string>
+	<string key="ui_watchtower_recall_from_esc_popup_confirm">Would you like to recall to the watchtower located in {territoryName}?</string>
 	<string key="ui_house_recall_popup_confirm">Would you like to recall to your house?</string>
 	<string key="ui_fast_travel_reset_popup">Reset cooldown?</string>
 	<string key="ui_fast_travel_reset_popup_confirm">Would you like to reset cooldown?</string>
@@ -157,6 +158,7 @@
 	<string key="ui_inn_checked_in">{territoryName} is now your new recall point.</string>
 	<string key="ui_active_home_point_fail">Failed to check in</string>
 	<string key="ui_inn_fast_travel">Recall to Inn</string>
+	<string key="ui_watchtower_fast_travel">Recall to Watchtower</string>
 	<string key="ui_inn_fast_travel_notavailable">Can Recall In : {time}</string>
 	<string key="ui_inn">Inn</string>
 	<string key="ui_inn_header">{territoryName} Inn.</string>

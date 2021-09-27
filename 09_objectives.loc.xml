@@ -255,7 +255,7 @@
 	<string key="0904_0501_encroachingcorruption_start_prompt" speaker="UI - Player Prompt">N/A</string>
 	<string key="0904_0501_encroachingcorruption_proposal" speaker="n/a">N/A</string>
 	<string key="0904_0501_encroachingcorruption_incomplete" speaker="n/a">N/A</string>
-	<string key="0904_0501_TalktoConstable" speaker="UI - tracker text">Report back to Constable Oakes</string>
+	<string key="0904_0501_TalktoConstable" speaker="UI - tracker text">Consult with Constable Oakes for an update on Corruption</string>
 	<string key="0904_0501_encroachingcorruption_complete" speaker="Constable Oakes - First Light" name="OverseerOakes" VO="0904_0501_encroachingcorruption_complete" VO_Status="Needs Recording" dialogue-next="@0904_0501_encroachingcorruption_complete_next">Excellent timing. I was just about to dispatch someone to find out what had become of you.\n\nWere the reports true then? Pockets of Corruption manifesting closer to the settlement?</string>
 	<string key="0904_0501_encroachingcorruption_complete_next_prompt" speaker="UI - Player Prompt">"Yes, but I destroyed them."</string>
 	<string key="0904_0501_encroachingcorruption_complete_next" speaker="Constable Oakes - First Light" name="OverseerOakes" VO="0904_0501_encroachingcorruption_complete_next" VO_Status="Needs Recording" dialogue-next="@0904_0501_encroachingcorruption_complete_next2" dialogue-prompt="@0904_0501_encroachingcorruption_complete_next_prompt">Well done. You've bought us more time, at the very least. Be careful now, lest I come to depend on you.\n\nOf course, I would suggest you consider purchasing a home here. It will be much easier to return when you head out again.</string>

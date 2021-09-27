@@ -1262,6 +1262,7 @@
 	<string key="DyeA001_MasterName">TEST Dye</string>
 	<string key="DyeA002_MasterName">Grass Green Dye</string>
 	<string key="DyeA003_MasterName">Key Lime Dye</string>
+	<string key="DyeA004_MasterName" rel_version="Dyes_Launch">PrimeBlue Dye</string>
 	<string key="DyeA005_MasterName">Baby Blue Dye</string>
 	<string key="DyeA007_MasterName">Mustard Dye</string>
 	<string key="DyeA008_MasterName">Pale Yellow Dye</string>
@@ -1278,9 +1279,20 @@
 	<string key="DyeA019_MasterName">Light Gray Dye</string>
 	<string key="DyeA020_MasterName">WarBlue Dye</string>
 	<string key="DyeA021_MasterName">WarRed Dye</string>
+	<string key="DyeA022_MasterName" rel_version="Dyes_Launch">AmazonOrange Dye</string>
 	<string key="DyeA024_MasterName">Black Dye</string>
 	<string key="DyeA025_MasterName">White Dye</string>
 	<string key="DyeA026_MasterName">Red Dye</string>
+	<string key="DyeA030_MasterName" rel_version="Dyes_Launch">Sublime Bone Dye</string>
+	<string key="DyeA032_MasterName" rel_version="Dyes_Launch">Bleached Coffee Dye</string>
+	<string key="DyeA034_MasterName" rel_version="Dyes_Launch">Blood Dye</string>
+	<string key="DyeA036_MasterName" rel_version="Dyes_Launch">Viola Dye</string>
+	<string key="DyeA038_MasterName" rel_version="Dyes_Launch">Burnt Sienna Dye</string>
+	<string key="DyeA043_MasterName" rel_version="Dyes_Launch">Forest Green Dye</string>
+	<string key="DyeA047_MasterName" rel_version="Dyes_Launch">Tradewind Dye</string>
+	<string key="DyeA049_MasterName" rel_version="Dyes_Launch">Blued Steel Dye</string>
+	<string key="DyeA052_MasterName" rel_version="Dyes_Launch">Spring Grape Dye</string>
+	<string key="DyeA057_MasterName" rel_version="Dyes_Launch">Lavender Dye</string>
 	<string key="DyeB100_MasterName">Frozen Basalt Dye</string>
 	<string key="DyeB101_MasterName">Crumbled Rock Dye</string>
 	<string key="DyeB102_MasterName">Dove Gray Dye</string>
@@ -17356,6 +17368,8 @@
 	<string key="CraterLight2_MasterName">Fey Flame</string>
 	<string key="CraterSwitch1_MasterName">Ancient Device</string>
 	<string key="CraterSwitch2_MasterName">Ancient Device</string>
+	<string key="CrescentFang_Description" rel_version="New_World_Launch">"With a bite as fearsome as the world serpent's."</string>
+	<string key="CrescentFang_MasterName" rel_version="New_World_Launch">Crescent Fang</string>
 	<string key="Crook_Fragments_Description">Ancient Fragments that are part of the Ancient Crook.</string>
 	<string key="Crook_Fragments_MasterName">Crook Fragments</string>
 	<string key="Crowns_T0_Description">Cash money. Used to pay taxes on land for protection.</string>
@@ -17448,6 +17462,8 @@
 	<string key="DragonGloryT2_MasterName">Dragonglory Leaf</string>
 	<string key="DragonGloryT3_Description">Its alchemical properties are especially useful in potion crafting.</string>
 	<string key="DragonGloryT3_MasterName">Dragonglory Flower</string>
+	<string key="DragonsCoil_Description" rel_version="New_World_Launch">"The serpents of yore slither eternally with scales of steel."</string>
+	<string key="DragonsCoil_MasterName" rel_version="New_World_Launch">Dragon's Coil</string>
 	<string key="Drink1T2_Description">USE: Provides Basic Health Recovery and Minor Stamina Recovery for 30 minutes.</string>
 	<string key="Drink1T2_MasterName">Barley Brew</string>
 	<string key="Drink1T3_Description">USE: Provides Basic Health Recovery and Major Stamina Recovery for 30 minutes.</string>
@@ -20133,6 +20149,8 @@
 	<string key="HornT2_MasterName">Jagged Horn</string>
 	<string key="HornT3_Description">Crafting item with an attunement to the Stamina Recovery perk.</string>
 	<string key="HornT3_MasterName">Pristine Horn</string>
+	<string key="HowlatDawn_Description" rel_version="New_World_Launch">"A scream in the witching hour."</string>
+	<string key="HowlatDawn_MasterName" rel_version="New_World_Launch">Howl at Dawn</string>
 	<string key="Imbue_DEBUG_Description">USE: Functional Imbue for Debugging. Lasts 60 seconds. 10 uses.</string>
 	<string key="Imbue_DEBUG_MasterName">Debug Imbue</string>
 	<string key="ImbueBleedT1_Description">USE: Adds a moderate amount of Wound buildup to a weapon. Wounded players have greatly reduced stamina regeneration.  Coating lasts 5 minutes, 5 melee hits, or 5 ranged shots.</string>
@@ -22175,6 +22193,36 @@
 	<string key="RubyT4_MasterName">Pristine Ruby</string>
 	<string key="RuinTest_Description">Tier 3 Dwelling. Enclosed. Can have respawn points, storage, and cooking attachments.</string>
 	<string key="RuinTest_MasterName">Cabin</string>
+	<string key="RunicBearChest_Description" rel_version="New_World_Launch">"Don the mantle of the mighty cave bear."</string>
+	<string key="RunicBearChest_MasterName" rel_version="New_World_Launch">Runic Bear Chestpiece</string>
+	<string key="RunicBearFeet_Description" rel_version="New_World_Launch">"Don the mantle of the mighty cave bear."</string>
+	<string key="RunicBearFeet_MasterName" rel_version="New_World_Launch">Runic Bear Boots</string>
+	<string key="RunicBearHands_Description" rel_version="New_World_Launch">"Don the mantle of the mighty cave bear."</string>
+	<string key="RunicBearHands_MasterName" rel_version="New_World_Launch">Runic Bear Gloves</string>
+	<string key="RunicBearHead_Description" rel_version="New_World_Launch">"Don the mantle of the mighty cave bear."</string>
+	<string key="RunicBearHead_MasterName" rel_version="New_World_Launch">Runic Bear Headpiece</string>
+	<string key="RunicBearLegs_Description" rel_version="New_World_Launch">"Don the mantle of the mighty cave bear."</string>
+	<string key="RunicBearLegs_MasterName" rel_version="New_World_Launch">Runic Bear Leggings</string>
+	<string key="RunicFoxChest_Description" rel_version="New_World_Launch">"Mischief follows the fox."</string>
+	<string key="RunicFoxChest_MasterName" rel_version="New_World_Launch">Runic Fox Chestpiece</string>
+	<string key="RunicFoxFeet_Description" rel_version="New_World_Launch">"Mischief follows the fox."</string>
+	<string key="RunicFoxFeet_MasterName" rel_version="New_World_Launch">Runic Fox Boots</string>
+	<string key="RunicFoxHands_Description" rel_version="New_World_Launch">"Mischief follows the fox."</string>
+	<string key="RunicFoxHands_MasterName" rel_version="New_World_Launch">Runic Fox Gloves</string>
+	<string key="RunicFoxHead_Description" rel_version="New_World_Launch">"Mischief follows the fox."</string>
+	<string key="RunicFoxHead_MasterName" rel_version="New_World_Launch">Runic Fox Headpiece</string>
+	<string key="RunicFoxLegs_Description" rel_version="New_World_Launch">"Mischief follows the fox."</string>
+	<string key="RunicFoxLegs_MasterName" rel_version="New_World_Launch">Runic Fox Leggings</string>
+	<string key="RunicJackalChest_Description" rel_version="New_World_Launch">"There are horns for drinking and horns for wearing. One needs both."</string>
+	<string key="RunicJackalChest_MasterName" rel_version="New_World_Launch">Runic Jackal Chestpiece</string>
+	<string key="RunicJackalFeet_Description" rel_version="New_World_Launch">"There are horns for drinking and horns for wearing. One needs both."</string>
+	<string key="RunicJackalFeet_MasterName" rel_version="New_World_Launch">Runic Jackal Boots</string>
+	<string key="RunicJackalHands_Description" rel_version="New_World_Launch">"There are horns for drinking and horns for wearing. One needs both."</string>
+	<string key="RunicJackalHands_MasterName" rel_version="New_World_Launch">Runic Jackal Gloves</string>
+	<string key="RunicJackalHead_Description" rel_version="New_World_Launch">"There are horns for drinking and horns for wearing. One needs both."</string>
+	<string key="RunicJackalHead_MasterName" rel_version="New_World_Launch">Runic Jackal Headpiece</string>
+	<string key="RunicJackalLegs_Description" rel_version="New_World_Launch">"There are horns for drinking and horns for wearing. One needs both."</string>
+	<string key="RunicJackalLegs_MasterName" rel_version="New_World_Launch">Runic Jackal Leggings</string>
 	<string key="RunicThreadT5_Description">Magical thread that has been inscribed with runes.</string>
 	<string key="RunicThreadT5_MasterName">Runic Thread</string>
 	<string key="SaltpeterT1_Description">Raw Resource used in crafting.</string>
@@ -22678,6 +22726,8 @@
 	<string key="TurretRepeaterT1_MasterName">Repeater Turret Tier 1</string>
 	<string key="TurretRepeaterT2_MasterName">Repeater Turret Tier 2</string>
 	<string key="TurretRepeaterT3_MasterName">Repeater Turret Tier 3</string>
+	<string key="TwinWolves_Description" rel_version="New_World_Launch">"Their howl grows ever closer."</string>
+	<string key="TwinWolves_MasterName" rel_version="New_World_Launch">Twin Wolves</string>
 	<string key="Unarmed_Description">Unarmed</string>
 	<string key="Unarmed_MasterName">Unarmed</string>
 	<string key="VegetableCookedT1_Description">USE: Provides Basic Health Recovery for 30 minutes.</string>
@@ -22781,6 +22831,18 @@
 	<string key="WolfEssenceT2_MasterName">Vial of Wolf Essence</string>
 	<string key="WolfEssenceT3_Description">Crafting item with an attunement to the Beast Bane perk.</string>
 	<string key="WolfEssenceT3_MasterName">Draught of Wolf Essence</string>
+	<string key="WoodsmanChest_Description" rel_version="New_World_Launch">Thick enough to keep out the rain.</string>
+	<string key="WoodsmanChest_MasterName" rel_version="New_World_Launch">Woodsman's Coat</string>
+	<string key="WoodsmanFeet_Description" rel_version="New_World_Launch">Hardened leathers may be uncomfortable, but you'll be glad of it if you ever stub your toe on a log.</string>
+	<string key="WoodsmanFeet_MasterName" rel_version="New_World_Launch">Woodsman's Shoes</string>
+	<string key="WoodsmanHands_Description" rel_version="New_World_Launch">Thick leathers prevent splinters.</string>
+	<string key="WoodsmanHands_MasterName" rel_version="New_World_Launch">Woodsman's Gloves</string>
+	<string key="WoodsmanHatchet_Description" rel_version="New_World_Launch">Proper work requires proper tools. Unfortunately, this axe is neither.</string>
+	<string key="WoodsmanHatchet_MasterName" rel_version="New_World_Launch">Woodsman's Hatchet</string>
+	<string key="WoodsmanHead_Description" rel_version="New_World_Launch">Proper work requires proper tools. Unfortunately, this axe is neither.</string>
+	<string key="WoodsmanHead_MasterName" rel_version="New_World_Launch">Woodsman's Headdress</string>
+	<string key="WoodsmanLegs_Description" rel_version="New_World_Launch">Flexible materials make swinging with your back easier.</string>
+	<string key="WoodsmanLegs_MasterName" rel_version="New_World_Launch">Woodsman's Trousers</string>
 	<string key="WoodT1_Description">Raw Resource used in crafting. Can be refined.</string>
 	<string key="WoodT1_MasterName">Green Wood</string>
 	<string key="WoodT4_Description">Raw Resource used in crafting. Can be refined.</string>
@@ -24057,12 +24119,16 @@
 	<string key="2hmusketdungeon11t5_mastername">Naga Corrupted Musket</string>
 	<string key="2hmusketdungeon11t5_description">Is this power worth the creeping sensation that evil is invading your flesh as you hold it?</string>
 	<string key="mediumchest_spriggant5_description">Spriggan Coat</string>
+	<string key="twitchpiratefeet_mastername" rel_version="New_World_Launch">Swashbuckler Shoes</string>
+	<string key="twitchpiratefeet_description" rel_version="New_World_Launch">"If dead men tell no tales, who will speak of your glory?"</string>
 	<string key="crate of furniture">Crate of Furniture</string>
 	<string key="salvage for furniture">Salvage for Furniture</string>
 	<string key="ringt5_ringofbloodyvalentine _mastername">Bloody Valentine's Ring</string>
 	<string key="lightfeet_spriggant5_description">Feels like you're walking on air. Brittle decayed air that's been sealed in a tomb for 400 years.</string>
 	<string key="lighthands_spriggant5_description">These gloves make a strange sound as you flex you fingers in them.</string>
 	<string key="heavyhands_dynastywarriort5_description">Dynasty Gauntlets</string>
+	<string key="gravestakes_mastername" rel_version="New_World_Launch">Gravestakes</string>
+	<string key="gravestakes_description" rel_version="New_World_Launch">"When you gamble everything… even your soul."</string>
 	<string key="2hwarhammercrafteddungeon11t5_mastername">Forged Naga Corrupted Warhammer</string>
 	<string key="2hwarhammercrafteddungeon11t5_description">Human hands crafted this copy of a warhammer found in the expedition near Shattered Mountain.</string>
 	<string key="2hspearancient2ancestralt5_mastername">Ancestral Spear</string>
@@ -24083,6 +24149,8 @@
 	<string key="blessedwater_description">"I suppose you could drink it, but if this eternal life is a curse... better not risk it."</string>
 	<string key="invasion claim">Invasion Claim</string>
 	<string key="mediumfeet_dynastymusketeert5_description">Ornate shoes perfect for bracing your feet while firing a gun.</string>
+	<string key="twitchpiratehead_mastername" rel_version="New_World_Launch">Swashbuckler Hat</string>
+	<string key="twitchpiratehead_description" rel_version="New_World_Launch">"If dead men tell no tales, who will speak of your glory?"</string>
 	<string key="1hthrowingaxe_legacyt5_description">Legacy Hatchet</string>
 	<string key="2hbowcrafteddungeon11t5_mastername">Forged Naga Corrupted Bow</string>
 	<string key="2hbowcrafteddungeon11t5_description">Is this power worth the creeping sensation that evil is invading your flesh as you hold it?</string>
@@ -24138,8 +24206,8 @@
 	<string key="mediumhead_dynastymusketeert5_description">"The shape, I'm told, is representative of the moon."</string>
 	<string key="1hkiteshieldancient2ancestralt5_mastername">Ancestral Kite Shield</string>
 	<string key="1hkiteshieldancient2ancestralt5_description">"Did ancient people have kites? I suppose they could still have kite shields and call them something else."</string>
-	<string key="twitchpiratehands_mastername">Twich Pirate Gloves</string>
-	<string key="twitchpiratehands_description">You would swear the actions per minute your fingers can perform is higher while wearing these.</string>
+	<string key="twitchpiratehands_mastername">Swashbuckler Gloves</string>
+	<string key="twitchpiratehands_description">"If dead men tell no tales, who will speak of your glory?"</string>
 	<string key="2hstafflife_soulcrystalstafft5_mastername">Soul Crystal Life Staff</string>
 	<string key="2hstafffire_blisteringheatt4_description">The handle gets a little too warm when you cast a lot of spells in a row with this staff.</string>
 	<string key="2hlifestaffprimevalt5_mastername">Primordial Life Staff</string>
@@ -24172,8 +24240,8 @@
 	<string key="pearlcutt1_mastername">Cut Flawed Pearl</string>
 	<string key="pearlcutt4_mastername">Cut Pristine Pearl</string>
 	<string key="amulett2_mysteryspendant _mastername">Mysterious Pendant</string>
-	<string key="twitchpiratechest_mastername">Twitch Pirate Coat</string>
-	<string key="twitchpiratechest_description">"I don't subscribe to the pirate stereotypes as a rule, but I do like parrots."</string>
+	<string key="twitchpiratechest_mastername">Swashbuckler Coat</string>
+	<string key="twitchpiratechest_description">"If dead men tell no tales, who will speak of your glory?"</string>
 	<string key="2hbowdungeon11t5_mastername">Naga Corrupted Bow</string>
 	<string key="2hbowdungeon11t5_description">Is this power worth the creeping sensation that evil is invading your flesh as you hold it?</string>
 	<string key="eternalicet1_mastername">Eternal Ice</string>
@@ -24206,6 +24274,8 @@
 	<string key="war camp">War Camp</string>
 	<string key="2hstafflife_staffofduplicitiousintentt4_mastername">Duplicitous Intent</string>
 	<string key="2hstafffire_channelersfirestafft3_description">Channeler's Fire Staff</string>
+	<string key="twitchpiratelegs_mastername" rel_version="New_World_Launch">Swashbuckler Leggings</string>
+	<string key="twitchpiratelegs_description" rel_version="New_World_Launch">"If dead men tell no tales, who will speak of your glory?"</string>
 	<string key="2htowershieldcrafteddungeon11t5_mastername">Forged Naga Corruypted Tower Shield</string>
 	<string key="2htowershieldcrafteddungeon11t5_description">Human hands crafted this copy of a tower shield found in the expedition near Shattered Mountain.</string>
 	<string key="respawn point for pvp attackers.">Respawn point for pvp attackers.</string>
@@ -25714,6 +25784,94 @@
 	<string key="lightchest_clotht5var1_description">The quality of material humans can produce never ceases to amaze.</string>
 	<string key="lighthead_clotht5var1_mastername">Finely-woven Hat</string>
 	<string key="lighthead_clotht5var1_description">The quality of material humans can produce never ceases to amaze.</string>
+	<string key="Skin_Monster_GreatAxe_MasterName" rel_version="New_World_Launch">Pharaoh's Curse</string>
+	<string key="Skin_Monster_GreatAxe_Description" rel_version="New_World_Launch">"Long lost beneath the desert sands, now free to wreak its havoc.“</string>
+	<string key="Skin_Monster_LifeStaff_MasterName" rel_version="New_World_Launch">Black Widow Staff</string>
+	<string key="Skin_Monster_LifeStaff_Description" rel_version="New_World_Launch">"Its kiss giveth life, its sting taketh it away."</string>
+	<string key="Skin_Monster_WarHammer_MasterName" rel_version="New_World_Launch">Frankenstein Hammer</string>
+	<string key="Skin_Monster_WarHammer_Description" rel_version="New_World_Launch">"The spark of life descends from the heavens."</string>
+	<string key="Skin_Monster_Musket_MasterName" rel_version="New_World_Launch">Crimson Bloodlock</string>
+	<string key="Skin_Monster_Musket_Description" rel_version="New_World_Launch">"A bite worse than its bark."</string>
+	<string key="Skin_AnglesDemon_FireStaff_MasterName" rel_version="New_World_Launch">Fire and Brimstone</string>
+	<string key="Skin_AnglesDemon_FireStaff_Description" rel_version="New_World_Launch">“Tormented hellfire crackles within.”</string>
+	<string key="Skin_AnglesDemon_LifeStaff_MasterName" rel_version="New_World_Launch">Harmonic Restoration</string>
+	<string key="Skin_AnglesDemon_LifeStaff_Description" rel_version="New_World_Launch">“A staff imbued with restorative primordial forces.”</string>
+	<string key="Skin_AnglesDemon_WarHammer_MasterName" rel_version="New_World_Launch">Destroyer's Wrath</string>
+	<string key="Skin_AnglesDemon_WarHammer_Description" rel_version="New_World_Launch">“Leave cursed retribution in your wake.”</string>
+	<string key="Skin_AnglesDemon_Spear_MasterName" rel_version="New_World_Launch">Divine Vengeance</string>
+	<string key="Skin_AnglesDemon_Spear_Description" rel_version="New_World_Launch">“A lance blessed to maintain the balance of light and darkness.”</string>
+	<string key="Skin_WarHammer_Vinespun_MasterName" rel_version="New_World_Launch">Mosshandle</string>
+	<string key="Skin_WarHammer_Vinespun_Description" rel_version="New_World_Launch">"The hammer pulses with the life it has taken from this world."</string>
+	<string key="Skin_ShieldT_Vinespun_MasterName" rel_version="New_World_Launch">Garden Wall</string>
+	<string key="Skin_ShieldT_Vinespun_Description" rel_version="New_World_Launch">"A guard as mighty and florid as a palace garden wall."</string>
+	<string key="Skin_Spear_Vinespun_MasterName" rel_version="New_World_Launch">Lush Armament</string>
+	<string key="Skin_Spear_Vinespun_Description" rel_version="New_World_Launch">"The holes in the tip make the sounds of leaves rustling when thrown."</string>
+	<string key="Skin_Rapier_Vinespun_MasterName" rel_version="New_World_Launch">Floral Flourish</string>
+	<string key="Skin_Rapier_Vinespun_Description" rel_version="New_World_Launch">"Those of supple wrist find a florid friend in this."</string>
+	<string key="Skin_ShieldR_Vinespun_MasterName" rel_version="New_World_Launch">Gaia Disc</string>
+	<string key="Skin_ShieldR_Vinespun_Description" rel_version="New_World_Launch">"A blossoming bulwark for defending against all blows."</string>
+	<string key="Skin_Bow_Vinespun_MasterName" rel_version="New_World_Launch">Vinespin</string>
+	<string key="Skin_Bow_Vinespun_Description" rel_version="New_World_Launch">"Strung with reinforced vines, this bow is as virid as it is deadly."</string>
+	<string key="Skin_Firestaff_Vinespun_MasterName" rel_version="New_World_Launch">Raven's Revenge</string>
+	<string key="Skin_Firestaff_Vinespun_Description" rel_version="New_World_Launch">"When this raven soars onto the battlefield, only destruction is left in its wake."</string>
+	<string key="Skin_GreatAxe_Vinespun_MasterName" rel_version="New_World_Launch">Greengrip</string>
+	<string key="Skin_GreatAxe_Vinespun_Description" rel_version="New_World_Launch">"Evergreen is the weapon that can cut down wilderness and foes."</string>
+	<string key="Skin_Hatchet_Vinespun_MasterName" rel_version="New_World_Launch">Vibrant Cleaver</string>
+	<string key="Skin_Hatchet_Vinespun_Description" rel_version="New_World_Launch">"Hack and slash through the vegetation of Aeternum in style."</string>
+	<string key="Skin_IceGaunt_Vinespun_MasterName" rel_version="New_World_Launch">Hoarfrost Hand</string>
+	<string key="Skin_IceGaunt_Vinespun_Description" rel_version="New_World_Launch">"Inscribed with frost runes, this gauntlet chills anything it touches."</string>
+	<string key="Skin_ShieldK_Vinespun_MasterName" rel_version="New_World_Launch">Lavender Blossom</string>
+	<string key="Skin_ShieldK_Vinespun_Description" rel_version="New_World_Launch">"Protection against attacks both physical and on one's fashion."</string>
+	<string key="Skin_Lifestaff_Vinespun_MasterName" rel_version="New_World_Launch">Pearlescence</string>
+	<string key="Skin_Lifestaff_Vinespun_Description" rel_version="New_World_Launch">"Purple and shimmering, a pearl of widsom and mercy descends into the fray."</string>
+	<string key="Skin_Longsword_Vinespun_MasterName" rel_version="New_World_Launch">Verdant Clutch</string>
+	<string key="Skin_Longsword_Vinespun_Description" rel_version="New_World_Launch">"The perfect weapon to cut the rot out of someone's heart."</string>
+	<string key="Skin_Musket_Vinespun_MasterName" rel_version="New_World_Launch">Gloomshot</string>
+	<string key="Skin_Musket_Vinespun_Description" rel_version="New_World_Launch">"Inflicts a sense of doom upon all its shots pierce."</string>
+	<string key="Skin_GreatAxe_FenrirsFury_MasterName" rel_version="New_World_Launch">Fenrir's Fury</string>
+	<string key="Skin_GreatAxe_FenrirsFury_Description" rel_version="New_World_Launch">"A fitting tribute to the beast of slaughter."</string>
+	<string key="Skin_Bow_RobinHood_MasterName" rel_version="New_World_Launch">Robin Hood Bow</string>
+	<string key="Skin_Bow_RobinHood_Description" rel_version="New_World_Launch">"To split an arrow in two is one thing, to split an enemy is another."</string>
+	<string key="Skin_LightHead_Demon_MasterName" rel_version="New_World_Launch">Cambion Husk Helm</string>
+	<string key="Skin_LightHead_Demon_Description" rel_version="New_World_Launch">“Crafted from the infernal union of human and demon.”</string>
+	<string key="Skin_LightChest_Demon_MasterName" rel_version="New_World_Launch">Cambion Husk Coat</string>
+	<string key="Skin_LightChest_Demon_Description" rel_version="New_World_Launch">“Crafted from the infernal union of human and demon.”</string>
+	<string key="Skin_LightHands_Demon_MasterName" rel_version="New_World_Launch">Cambion Husk Gloves</string>
+	<string key="Skin_LightHands_Demon_Description" rel_version="New_World_Launch">“Crafted from the infernal union of human and demon.”</string>
+	<string key="Skin_LightLegs_Demon_MasterName" rel_version="New_World_Launch">Cambion Husk Pants</string>
+	<string key="Skin_LightLegs_Demon_Description" rel_version="New_World_Launch">“Crafted from the infernal union of human and demon.”</string>
+	<string key="Skin_LightFeet_Demon_MasterName" rel_version="New_World_Launch">Cambion Husk Shoes</string>
+	<string key="Skin_LightFeet_Demon_Description" rel_version="New_World_Launch">“Crafted from the infernal union of human and demon.”</string>
+	<string key="Skin_MediumHead_Angel_MasterName" rel_version="New_World_Launch">Aegis of Providence Helm</string>
+	<string key="Skin_MediumHead_Angel_Description" rel_version="New_World_Launch">“Cast out evil with fury and righteous light.”</string>
+	<string key="Skin_MediumChest_Angel_MasterName" rel_version="New_World_Launch">Aegis of Providence Coat</string>
+	<string key="Skin_MediumChest_Angel_Description" rel_version="New_World_Launch">“Cast out evil with fury and righteous light.”</string>
+	<string key="Skin_MediumHands_Angel_MasterName" rel_version="New_World_Launch">Aegis of Providence Gloves</string>
+	<string key="Skin_MediumHands_Angel_Description" rel_version="New_World_Launch">“Cast out evil with fury and righteous light.”</string>
+	<string key="Skin_MediumLegs_Angel_MasterName" rel_version="New_World_Launch">Aegis of Providence Pants</string>
+	<string key="Skin_MediumLegs_Angel_Description" rel_version="New_World_Launch">“Cast out evil with fury and righteous light.”</string>
+	<string key="Skin_MediumFeet_Angel_MasterName" rel_version="New_World_Launch">Aegis of Providence Shoes</string>
+	<string key="Skin_MediumFeet_Angel_Description" rel_version="New_World_Launch">“Cast out evil with fury and righteous light.”</string>
+	<string key="Skin_HeavyHead_Angel_MasterName" rel_version="New_World_Launch">Righteous Guardian Helm</string>
+	<string key="Skin_HeavyHead_Angel_Description" rel_version="New_World_Launch">"Strike foes down with divine vengeance."</string>
+	<string key="Skin_HeavyChest_Angel_MasterName" rel_version="New_World_Launch">Righteous Guardian Coat</string>
+	<string key="Skin_HeavyChest_Angel_Description" rel_version="New_World_Launch">"Strike foes down with divine vengeance."</string>
+	<string key="Skin_HeavyHands_Angel_MasterName" rel_version="New_World_Launch">Righteous Guardian Gloves</string>
+	<string key="Skin_HeavyHands_Angel_Description" rel_version="New_World_Launch">"Strike foes down with divine vengeance."</string>
+	<string key="Skin_HeavyLegs_Angel_MasterName" rel_version="New_World_Launch">Righteous Guardian Pants</string>
+	<string key="Skin_HeavyLegs_Angel_Description" rel_version="New_World_Launch">"Strike foes down with divine vengeance."</string>
+	<string key="Skin_HeavyFeet_Angel_MasterName" rel_version="New_World_Launch">Righteous Guardian Shoes</string>
+	<string key="Skin_HeavyFeet_Angel_Description" rel_version="New_World_Launch">"Strike foes down with divine vengeance."</string>
+	<string key="Skin_Head_RobinHood_MasterName" rel_version="New_World_Launch">Robin Hood Helm</string>
+	<string key="Skin_Head_RobinHood_Description" rel_version="New_World_Launch">"One last thing before you go… your purse."</string>
+	<string key="Skin_Chest_RobinHood_MasterName" rel_version="New_World_Launch">Robin Hood Coat</string>
+	<string key="Skin_Chest_RobinHood_Description" rel_version="New_World_Launch">"One last thing before you go… your purse."</string>
+	<string key="Skin_Hands_RobinHood_MasterName" rel_version="New_World_Launch">Robin Hood Gloves</string>
+	<string key="Skin_Hands_RobinHood_Description" rel_version="New_World_Launch">"One last thing before you go… your purse."</string>
+	<string key="Skin_Legs_RobinHood_MasterName" rel_version="New_World_Launch">Robin Hood Pants</string>
+	<string key="skin_Legs_RobinHood_Description" rel_version="New_World_Launch">"One last thing before you go… your purse."</string>
+	<string key="Skin_Feet_RobinHood_MasterName" rel_version="New_World_Launch">Robin Hood Shoes</string>
+	<string key="Skin_Feet_RobinHood_Description" rel_version="New_World_Launch">"One last thing before you go… your purse."</string>
 	<string key="2hwarhammerlostelitet4_mastername">Weighty Argument</string>
 	<string key="2hwarhammerlostelitet4_description">"When every statement must make an impact."</string>
 	<string key="1hkiteshieldlostelitet4_mastername">Ruthless Sanctuary</string>
@@ -25742,6 +25900,26 @@
 	<string key="2hspearlostelitet4_description">"An crude yet efficient offense, wrought of cruel iron."</string>
 	<string key="2hbowlostelitet4_mastername">Iron Briar</string>
 	<string key="2hbowlostelitet4_description">"The graceful curves of the swept design fail to belie the malign intent."</string>
+	<string key="Skin_Chest_WoodsmanAlt2_MasterName" rel_version="New_World_Launch">Verdant Trapper Coat</string>
+	<string key="Skin_Chest_WoodsmanAlt2_Description" rel_version="New_World_Launch">Cloaked in the furs of the wood, the trapper melds into their surroundings.</string>
+	<string key="Skin_Feet_WoodsmanAlt2_MasterName" rel_version="New_World_Launch">Verdant Trapper Boots</string>
+	<string key="Skin_Feet_WoodsmanAlt2_Description" rel_version="New_World_Launch">Cloaked in the furs of the wood, the trapper melds into their surroundings.</string>
+	<string key="Skin_Hands_WoodsmanAlt2_MasterName" rel_version="New_World_Launch">Verdant Trapper Gloves</string>
+	<string key="Skin_Hands_WoodsmanAlt2_Description" rel_version="New_World_Launch">Cloaked in the furs of the wood, the trapper melds into their surroundings.</string>
+	<string key="Skin_Head_WoodsmanAlt2_MasterName" rel_version="New_World_Launch">Verdant Trapper Hat</string>
+	<string key="Skin_Head_WoodsmanAlt2_Description" rel_version="New_World_Launch">Cloaked in the furs of the wood, the trapper melds into their surroundings.</string>
+	<string key="Skin_Legs_WoodsmanAlt2_MasterName" rel_version="New_World_Launch">Verdant Trapper Pants</string>
+	<string key="Skin_Legs_WoodsmanAlt2_Description" rel_version="New_World_Launch">Cloaked in the furs of the wood, the trapper melds into their surroundings.</string>
+	<string key="Skin_Chest_SpecialCorruptedVar1_MasterName" rel_version="New_World_Launch">Golden Rage Coat</string>
+	<string key="Skin_Chest_SpecialCorruptedVar1_Description" rel_version="New_World_Launch">Formed in the molten-hot forges of the Great Cleave this avatar of hatred rises, gold and glittering.</string>
+	<string key="Skin_Feet_SpecialCorruptedVar1_MasterName" rel_version="New_World_Launch">Golden Rage Boots</string>
+	<string key="Skin_Feet_SpecialCorruptedVar1_Description" rel_version="New_World_Launch">Formed in the molten-hot forges of the Great Cleave this avatar of hatred rises, gold and glittering.</string>
+	<string key="Skin_Hands_SpecialCorruptedVar1_MasterName" rel_version="New_World_Launch">Golden Rage Gloves</string>
+	<string key="Skin_Hands_SpecialCorruptedVar1_Description" rel_version="New_World_Launch">Formed in the molten-hot forges of the Great Cleave this avatar of hatred rises, gold and glittering.</string>
+	<string key="Skin_Head_SpecialCorruptedVar1_MasterName" rel_version="New_World_Launch">Golden Rage Helm</string>
+	<string key="Skin_Head_SpecialCorruptedVar1_Description" rel_version="New_World_Launch">Formed in the molten-hot forges of the Great Cleave this avatar of hatred rises, gold and glittering.</string>
+	<string key="Skin_Legs_SpecialCorruptedVar1_MasterName" rel_version="New_World_Launch">Golden Rage Greeves</string>
+	<string key="Skin_Legs_SpecialCorruptedVar1_Description" rel_version="New_World_Launch">Formed in the molten-hot forges of the Great Cleave this avatar of hatred rises, gold and glittering.</string>
 	<string key="Skin_Head_HideHelmet_MasterName">Hide Headgear</string>
 	<string key="Skin_Head_HideHelmet_Description">Let none deny your beautiful hair... or lack thereof.</string>
 	<string key="0829_0801_CrimsonClaw">Crimson Claw</string>
@@ -25760,6 +25938,46 @@
 	<string key="0825_0803_Meal_Description">A scrumptious meal made of different kinds of seasoned meats.</string>
 	<string key="0825_0801_CookingTools">Shu-Song's Cooking Tools</string>
 	<string key="0825_0801_CookingTools_Description">A collection of knives and ingredients that Shu-Song needs to work his culinary magic.</string>
+	<string key="Skin_Monster_VampireHead_MasterName" rel_version="New_World_Launch">Bloodthirsty Count Top Hat</string>
+	<string key="Skin_Monster_VampireHead_Description" rel_version="New_World_Launch">"It's easier to hide any spills if you wear red, my friend."</string>
+	<string key="Skin_Monster_VampireChest_MasterName" rel_version="New_World_Launch">Bloodthirsty Count Waistcoat</string>
+	<string key="Skin_Monster_VampireChest_Description" rel_version="New_World_Launch">"It's easier to hide any spills if you wear red, my friend."</string>
+	<string key="Skin_Monster_VampireLegs_MasterName" rel_version="New_World_Launch">Bloodthirsty Count Pantaloons</string>
+	<string key="Skin_Monster_VampireLegs_Description" rel_version="New_World_Launch">"It's easier to hide any spills if you wear red, my friend."</string>
+	<string key="Skin_Monster_VampireHands_MasterName" rel_version="New_World_Launch">Bloodthirsty Count Gloves</string>
+	<string key="Skin_Monster_VampireHands_Description" rel_version="New_World_Launch">"It's easier to hide any spills if you wear red, my friend."</string>
+	<string key="Skin_Monster_VampireFeet_MasterName" rel_version="New_World_Launch">Bloodthirsty Count Boots</string>
+	<string key="Skin_Monster_VampireFeet_Description" rel_version="New_World_Launch">"It's easier to hide any spills if you wear red, my friend."</string>
+	<string key="Skin_Monster_MummyHead_MasterName" rel_version="New_World_Launch">Shroud of the Pharaoh Head Bandages</string>
+	<string key="Skin_Monster_MummyHead_Description" rel_version="New_World_Launch">"For a musty relic contained for thousands of years, it doesn't smell as bad as I thought."</string>
+	<string key="Skin_Monster_MummyChest_MasterName" rel_version="New_World_Launch">Shroud of the Pharaoh Chest Bandages</string>
+	<string key="Skin_Monster_MummyChest_Description" rel_version="New_World_Launch">"For a musty relic contained for thousands of years, it doesn't smell as bad as I thought."</string>
+	<string key="Skin_Monster_MummyLegs_MasterName" rel_version="New_World_Launch">Shroud of the Pharaoh Leg Bandages</string>
+	<string key="Skin_Monster_MummyLegs_Description" rel_version="New_World_Launch">"For a musty relic contained for thousands of years, it doesn't smell as bad as I thought."</string>
+	<string key="Skin_Monster_MummyHands_MasterName" rel_version="New_World_Launch">Shroud of the Pharaoh Hand Bandages</string>
+	<string key="Skin_Monster_MummyHands_Description" rel_version="New_World_Launch">"For a musty relic contained for thousands of years, it doesn't smell as bad as I thought."</string>
+	<string key="Skin_Monster_MummyFeet_MasterName" rel_version="New_World_Launch">Shroud of the Pharaoh Foot Bandages</string>
+	<string key="Skin_Monster_MummyFeet_Description" rel_version="New_World_Launch">"For a musty relic contained for thousands of years, it doesn't smell as bad as I thought."</string>
+	<string key="Skin_Monster_SkeletonHead_MasterName" rel_version="New_World_Launch">Skeletal Chevalier Crown</string>
+	<string key="Skin_Monster_SkeletonHead_Description" rel_version="New_World_Launch">Sinister and sepulchral, armies of bone heed his summons.</string>
+	<string key="Skin_Monster_SkeletonChest_MasterName" rel_version="New_World_Launch">Skeletal Chevalier Breastplate</string>
+	<string key="Skin_Monster_SkeletonChest_Description" rel_version="New_World_Launch">Sinister and sepulchral, armies of bone heed his summons.</string>
+	<string key="Skin_Monster_SkeletonLegs_MasterName" rel_version="New_World_Launch">Skeletal Chevalier Cuisses</string>
+	<string key="Skin_Monster_SkeletonLegs_Description" rel_version="New_World_Launch">Sinister and sepulchral, armies of bone heed his summons.</string>
+	<string key="Skin_Monster_SkeletonHands_MasterName" rel_version="New_World_Launch">Skeletal Chevalier Gauntlets</string>
+	<string key="Skin_Monster_SkeletonHands_Description" rel_version="New_World_Launch">Sinister and sepulchral, armies of bone heed his summons.</string>
+	<string key="Skin_Monster_SkeletonFeet_MasterName" rel_version="New_World_Launch">Skeletal Chevalier Greaves</string>
+	<string key="Skin_Monster_SkeletonFeet_Description" rel_version="New_World_Launch">Sinister and sepulchral, armies of bone heed his summons.</string>
+	<string key="Skin_Mask_AngryEarth_MasterName" rel_version="New_World_Launch">Elemental Mask</string>
+	<string key="Skin_Mask_AngryEarth_Description" rel_version="New_World_Launch">Energy currents run through this piece of facial wear giving the wearer the apperance of being a little more magical than they really are.</string>
+	<string key="Skin_Mask_Demon_MasterName" rel_version="New_World_Launch">Demon Mask</string>
+	<string key="Skin_Mask_Demon_Description" rel_version="New_World_Launch">Even though it's made of wood this mask makes you think of rock...</string>
+	<string key="Skin_Mask_PlagueDoctor_MasterName" rel_version="New_World_Launch">Plague Doctor Mask</string>
+	<string key="Skin_Mask_PlagueDoctor_Description" rel_version="New_World_Launch">"When fear overtakes the land, his services find high demand.“</string>
+	<string key="Skin_Mask_HalfWooden_MasterName" rel_version="New_World_Launch">Elusive One Mask</string>
+	<string key="Skin_Mask_HalfWooden_Description" rel_version="New_World_Launch">"The mysterious stranger, hardly glimpsed yet never forgotten.“</string>
+	<string key="Skin_Monster_Rapier_MasterName" rel_version="New_World_Launch">Skeletal Rapier</string>
+	<string key="Skin_Monster_Rapier_Description" rel_version="New_World_Launch">A fearsome beast, now lost to time, donated the bones that form this insidious blade.</string>
 	<string key="CorruptedNodule_DisplayName">Corruption Nodule</string>
 	<string key="Truffle_DisplayName">Delicious Truffle</string>
 	<string key="0425_0101_Truffle">Delicious Truffle</string>

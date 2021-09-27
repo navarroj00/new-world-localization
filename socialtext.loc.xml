@@ -69,6 +69,7 @@
 	<string key="ui_voip_input_device_failed">VOIP Input Device Failed</string>
 	<string key="ui_voip_output_device_failed">VOIP Output Device Failed</string>
 	<string key="ui_voip_channel_joined">VOIP Joined Channel</string>
+	<string key="ui_voip_registration_restricted">Proximity VOIP Disabled - Account Too Young or Locked</string>
 	<string key="trade_quantity">Quantity</string>
 	<string key="trade_title">Available for Trade.</string>
 	<string key="trade_total">Total</string>

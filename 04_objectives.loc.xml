@@ -263,7 +263,7 @@
 	<string key="0404_0501_encroachingcorruption_start_prompt" speaker="UI - Player Prompt">N/A</string>
 	<string key="0404_0501_encroachingcorruption_proposal" speaker="n/a">N/A</string>
 	<string key="0404_0501_encroachingcorruption_incomplete" speaker="n/a">N/A</string>
-	<string key="0404_0501_TalktoConstable" speaker="UI - tracker text">Report back to Constable Maecia</string>
+	<string key="0404_0501_TalktoConstable" speaker="UI - tracker text">Consult with Constable Maecia for an update on Corruption</string>
 	<string key="0404_0501_encroachingcorruption_complete" speaker="Constable Maecia - Everfall" name="OverseerMaecia" VO="0404_0501_encroachingcorruption_complete" VO_Status="Needs Recording" dialogue-next="@0404_0501_encroachingcorruption_complete_next">Oh, thank the stars you've returned! These Corruption breaches are opening up as fast as we can close them.\n\nDid you find it bubbling up from the ground as well?</string>
 	<string key="0404_0501_encroachingcorruption_complete_next_prompt" speaker="UI - Player Prompt">"Yes, but I destroyed them."</string>
 	<string key="0404_0501_encroachingcorruption_complete_next" speaker="Constable Maecia - Everfall" name="OverseerMaecia" VO="0404_0501_encroachingcorruption_complete_next" VO_Status="Needs Recording" dialogue-next="@0404_0501_encroachingcorruption_complete_next2" dialogue-prompt="@0404_0501_encroachingcorruption_complete_next_prompt">You've come through for us again, a real champion for Everfall it feels like we have with you.\n\nYou should consider buying a home here! It'll make it easier to return after you head out again.</string>

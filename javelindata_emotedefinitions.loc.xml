@@ -60,10 +60,10 @@
 	<string key="emote_ahoy">{playerName} strikes a pose</string>
 	<string key="emote_fingerwag">{playerName} says no no no</string>
 	<string key="ui_emote_BlowKiss">Blow Kiss</string>
-	<string key="ui_emote_PiratePose">Pirate Pose</string>
+	<string key="ui_emote_PiratePose">Pirate Stance</string>
 	<string key="ui_emote_FingerWag">Finger Wag</string>
-	<string key="ui_emote_BlowKiss_description">Blow Kiss Mote</string>
-	<string key="ui_emote_PiratePose_description">Pirate Pose Emote</string>
+	<string key="ui_emote_BlowKiss_description">Blow Kiss</string>
+	<string key="ui_emote_PiratePose_description">"Your treasure fleets will soon be mine."</string>
 	<string key="ui_emote_FingerWag_description">Finger Wag Emote</string>
 </resources>
 

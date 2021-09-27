@@ -26,7 +26,7 @@
 	<string key="ui_featured">Featured Deals</string>
 	<string key="ui_show_purchased">Show Unlocked</string>
 	<string key="ui_sort_by">Sort by :</string>
-	<string key="ui_add_more_fictional_currency" rel_version="Feature_MTX">Add More &lt;img src="lyshineui/images/mtx/icon_mtx_currency_drop_shadow" scale="3" yOffset="10"&gt;&lt;/img&gt;</string>
+	<string key="ui_add_more_fictional_currency" rel_version="Feature_MTX">Add More &lt;img src="lyshineui/images/mtx/icon_mtx_currency" scale="2.8" yOffset="10"&gt;&lt;/img&gt;</string>
 	<string key="ui_discount_off">{number} &lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;off&lt;/font&gt;</string>
 	<string key="ui_discount_off_bold">{number} &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;off&lt;/font&gt;</string>
 	<string key="ui_marks_of_fortune" rel_version="Feature_MTX">Marks of Fortune</string>
@@ -51,6 +51,7 @@
 	<string key="reward_type_inventory_item" rel_version="Feature_MTX">Item</string>
 	<string key="reward_type_extra" rel_version="Feature_MTX">Extra</string>
 	<string key="reward_type_entitlement" rel_version="Feature_MTX">ENTITLEMENT</string>
+	<string key="reward_type_marks_of_fortune" rel_version="Feature_MTX">Marks of Fortune</string>
 	<string key="entitlement_included" rel_version="Feature_MTX">Included</string>
 	<string key="ui_account_bound" rel_version="Feature_MTX">Account bound (Non-tradeable)</string>
 	<string key="ui_account_bound_tooltip" rel_version="Feature_MTX">Items are bound to your account (can be used on all of your characters). Items cannot be discarded, traded, or sold at the trading post.\n\n&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;Consumables :&lt;/font&gt; Consumables have limited usage and using one on a specific character depletes the count across the account. For example, if you have five dyes and use one on a character, you will now have four dyes if you log onto a different character under the same account.</string>
@@ -84,9 +85,10 @@
 	<string key="reward_type_tooltip_guildcrest" rel_version="Feature_MTX">You can use this crest image in company screen.</string>
 	<string key="reward_type_tooltip_housing_item" rel_version="Feature_MTX">You can place this housing item in Housing decoration mode when you are in your house.</string>
 	<string key="reward_type_tooltip_player_title" rel_version="Feature_MTX">You can apply a title in Charactrers menu and then “Change title”.</string>
-	<string key="reward_type_tooltip_inventory_item" rel_version="Feature_MTX">Insert how to use this item.</string>
-	<string key="reward_type_tooltip_extra" rel_version="Feature_MTX">Insert how to use this product.</string>
-	<string key="reward_type_tooltip_entitlement" rel_version="Feature_MTX">Insert how to use this product.</string>
+	<string key="reward_type_tooltip_inventory_item" rel_version="Feature_MTX">Use this item in Inventory.</string>
+	<string key="reward_type_tooltip_extra" rel_version="Feature_MTX">This product is an extra.</string>
+	<string key="reward_type_tooltip_entitlement" rel_version="Feature_MTX">This product is an entitlement.</string>
+	<string key="reward_type_tooltip_marks_of_fortune" rel_version="Feature_MTX">You can use this currency in the store menu to purchase a product.</string>
 	<string key="ui_crest_disclaimer" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Notice:&lt;/font&gt; Company Crests can only be used if you are the governor (creator) of the company.</string>
 	<string key="ui_disabled_default_title" rel_version="Feature_MTX">Content Unavailable</string>
 	<string key="ui_disabled_default_description" rel_version="Feature_MTX">This content is currently unavailable.</string>
@@ -126,8 +128,195 @@
 	<string key="ui_notification_unlock_desc">Items have been added to your account.</string>
 	<string key="ui_notification_unlock_title">Unlocked!</string>
 	<string key="ui_view_item">View Items</string>
+	<string key="runic_jackal_name" rel_version="New_World_Launch">Runic Jackal</string>
+	<string key="crescent_fang_name" rel_version="New_World_Launch">Crescent Fang</string>
+	<string key="arm_flex_name" rel_version="New_World_Launch">Arm Flex</string>
+	<string key="sublimebone_dye_name" rel_version="New_World_Launch">Sublime Bone</string>
+	<string key="Icon_Crest_Pack_Merriment_name" rel_version="New_World_Launch">Merriment Crest Pack</string>
+	<string key="EntitlementSkin_Medium_Angel_name" rel_version="New_World_Launch">Aegis of Providence</string>
+	<string key="EntitlementSkin_AnglesDemon_WarHammer_name" rel_version="New_World_Launch">Destroyer’s Wrath</string>
+	<string key="galaxy_rabbit_name" rel_version="New_World_Launch">Celestial Hare</string>
+	<string key="eyesonyou_name" rel_version="New_World_Launch">Eyes on You</string>
+	<string key="Icon_Crest_Pack_Smugglers_name" rel_version="New_World_Launch">Smugglers Crest Pack</string>
+	<string key="runic_jackal_description" rel_version="New_World_Launch">"There are horns for drinking and horns for wearing. One needs both." Armor Skin Set</string>
+	<string key="crescent_fang_description" rel_version="New_World_Launch">"With a bite as fearsome as the world serpent's." Hatchet Weapon skin</string>
+	<string key="arm_flex_description" rel_version="New_World_Launch">"Show your strength." Emote</string>
+	<string key="sublimebone_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
+	<string key="Icon_Crest_Pack_Merriment_description" rel_version="New_World_Launch">"Raise a glass to your brave companions!" Company Crest Pack</string>
+	<string key="EntitlementSkin_Medium_Angel_description" rel_version="New_World_Launch">“Cast out evil with fury and righteous light.” Armor Skin Set</string>
+	<string key="EntitlementSkin_AnglesDemon_WarHammer_description" rel_version="New_World_Launch">“Leave cursed retribution in your wake.” War Hammer Weapon Skin</string>
+	<string key="galaxy_rabbit_description" rel_version="New_World_Launch">"Brimming with awe, the vast expanse of the universe resides within the fur of this rabbit. And if you pet them, you might just feel it too." Celestial Hare House Pet</string>
+	<string key="eyesonyou_description" rel_version="New_World_Launch">"Eternal Vigilance." Emote</string>
+	<string key="Icon_Crest_Pack_Smugglers_description" rel_version="New_World_Launch">"Darkness shrouds our most lucrative ventures." Company Crest Pack</string>
 	<string key="ui_store_unavailable">We're sorry, the store is down for a bit of maintenance right now. Please try again later.</string>
+	<string key="fenrirsfury_name" rel_version="New_World_Launch">Fenrir's Fury</string>
+	<string key="fenrirsfury_description" rel_version="New_World_Launch">"A fitting tribute to the beast of slaughter." Great Axe Weapon Skin</string>
+	<string key="EntitlementSkin_Light_Demon_name" rel_version="New_World_Launch">Cambion Husk</string>
+	<string key="twitch_pirate_itemskin_name" rel_version="New_World_Launch">Swashbuckler</string>
+	<string key="EntitlementSkin_Heavy_Angel_name" rel_version="New_World_Launch">Righteous Guardian</string>
+	<string key="twitch_robinhood_itemskin_name" rel_version="New_World_Launch">Robin Hood</string>
+	<string key="runic_bear_name" rel_version="New_World_Launch">Runic Bear</string>
+	<string key="runic_fox_name" rel_version="New_World_Launch">Runic Fox</string>
+	<string key="EntitlementSkin_SpecialCorruptedVar1_name" rel_version="New_World_Launch">Golden Rage</string>
+	<string key="Icon_Crest_Pack_AnimalHead_name" rel_version="New_World_Launch">Animal Head Crest Pack</string>
+	<string key="Icon_Crest_Pack_FullDeck_name" rel_version="New_World_Launch">Card Suit Crest Pack</string>
+	<string key="Icon_Crest_Pack_Gesture_name" rel_version="New_World_Launch">Gesture Crest Pack</string>
+	<string key="twitch_pirate_crestpack_name" rel_version="New_World_Launch">Pirate Crest Pack</string>
+	<string key="Icon_Crest_Pack_RobinHood_name" rel_version="New_World_Launch">Robin Hood Crest Pack</string>
+	<string key="Icon_Crest_Pack_WeaponMaster_name" rel_version="New_World_Launch">Weapon Master Crest Pack</string>
+	<string key="primeblue_dye_name" rel_version="New_World_Launch">Prime Gaming Blue</string>
+	<string key="amazonorange_dye_name" rel_version="New_World_Launch">Amazon Orange</string>
+	<string key="bleached_cofee_dye_name" rel_version="New_World_Launch">Bleached Coffee</string>
+	<string key="blood_dye_name" rel_version="New_World_Launch">Blood</string>
+	<string key="viola_dye_name" rel_version="New_World_Launch">Viola</string>
+	<string key="burntsienna_dye_name" rel_version="New_World_Launch">Burnt Sienna</string>
+	<string key="forestgreen_dye_name" rel_version="New_World_Launch">Forest Green</string>
+	<string key="tradewind_dye_name" rel_version="New_World_Launch">Tradewind</string>
+	<string key="bluedsteel_dye_name" rel_version="New_World_Launch">Blued Steel</string>
+	<string key="springgrape_dye_name" rel_version="New_World_Launch">Spring Grape</string>
+	<string key="lavender_dye_name" rel_version="New_World_Launch">Lavender</string>
+	<string key="twitch_robinhood_emote_blowkiss_name" rel_version="New_World_Launch">Blow Kiss</string>
+	<string key="coin_toss_name" rel_version="New_World_Launch">Coin Toss</string>
+	<string key="applause_name" rel_version="New_World_Launch">Courteous Applause</string>
+	<string key="twitch_robinhood_emote_fingerwag_name" rel_version="New_World_Launch">Finger Wag</string>
+	<string key="twitch_pirate_emote_piratestance_name" rel_version="New_World_Launch">Pirate Stance</string>
+	<string key="twitch_pirate_emote_throat_name" rel_version="New_World_Launch">Throat Slit</string>
+	<string key="thumbs_name" rel_version="New_World_Launch">Thumbs Up, Down, Sideways</string>
+	<string key="dragons_coil_name" rel_version="New_World_Launch">Dragon's Coil</string>
+	<string key="EntitlementSkin_AnglesDemon_Spear_name" rel_version="New_World_Launch">Divine Vengeance</string>
+	<string key="EntitlementSkin_AnglesDemon_FireStaff_name" rel_version="New_World_Launch">Fire &amp; Brimstone</string>
+	<string key="twitch_pirate_weapon_sword_name" rel_version="New_World_Launch">Grave Stakes</string>
+	<string key="EntitlementSkin_AnglesDemon_LifeStaff_name" rel_version="New_World_Launch">Harmonic Restoration</string>
+	<string key="howl_at_dawn_name" rel_version="New_World_Launch">Howl at Dawn</string>
+	<string key="twin_wolves_name" rel_version="New_World_Launch">Twin Wolves</string>
+	<string key="Bundle_Decor_Pirate_name" rel_version="New_World_Launch">Pirate Housing Decor Bundle</string>
+	<string key="EntitlementSkin_Light_Demon_description" rel_version="New_World_Launch">“Crafted from the infernal union of human and demon.” Armor Skin Set</string>
+	<string key="twitch_pirate_itemskin_description" rel_version="New_World_Launch">"If dead men tell no tales, who will speak of your glory?" Apparel Skin Set</string>
+	<string key="EntitlementSkin_Heavy_Angel_description" rel_version="New_World_Launch">"Strike foes down with divine vengeance." Armor Skin Set</string>
+	<string key="twitch_robinhood_itemskin_description" rel_version="New_World_Launch">"One last thing before you go… your purse." Apparel Skin Set</string>
+	<string key="runic_bear_description" rel_version="New_World_Launch">"Don the mantle of the mighty cave bear." Armor Skin Set</string>
+	<string key="runic_fox_description" rel_version="New_World_Launch">"Mischief follows the fox." Armor Skin Set</string>
+	<string key="EntitlementSkin_SpecialCorruptedVar1_description" rel_version="New_World_Launch">"Formed in the molten-hot forges of the Great Cleave, this avatar of the hatred rises, gold and glittering." Apparel Skin Set</string>
+	<string key="Icon_Crest_Pack_AnimalHead_description" rel_version="New_World_Launch">"Tap into the spirit of the animal." Company Crest Pack</string>
+	<string key="Icon_Crest_Pack_FullDeck_description" rel_version="New_World_Launch">"Never reveal your hand until the gold is on the table." Company Crest Pack</string>
+	<string key="Icon_Crest_Pack_Gesture_description" rel_version="New_World_Launch">"You say so much, when you say nothing at all." Company Crest Pack</string>
+	<string key="twitch_pirate_crestpack_description" rel_version="New_World_Launch">"Heave ho, ye scurvy dogs!" Company Crest Pack</string>
+	<string key="Icon_Crest_Pack_RobinHood_description" rel_version="New_World_Launch">"The forest belongs to your merry men." Company Crest Pack</string>
+	<string key="Icon_Crest_Pack_WeaponMaster_description" rel_version="New_World_Launch">"Blade or bow, axe or musket? The journeyman survives, the master flourishes." Company Crest Pack</string>
+	<string key="primeblue_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
+	<string key="amazonorange_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
+	<string key="bleached_cofee_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
+	<string key="blood_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
+	<string key="viola_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
+	<string key="burntsienna_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
+	<string key="forestgreen_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
+	<string key="tradewind_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
+	<string key="bluedsteel_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
+	<string key="springgrape_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
+	<string key="lavender_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
+	<string key="twitch_robinhood_emote_blowkiss_description" rel_version="New_World_Launch">"A gesture of courtly love." Emote</string>
+	<string key="coin_toss_description" rel_version="New_World_Launch">"A flip of the coin." Emote</string>
+	<string key="applause_description" rel_version="New_World_Launch">"A job well done!" Emote</string>
+	<string key="twitch_robinhood_emote_fingerwag_description" rel_version="New_World_Launch">"No, no no, not today!" Emote</string>
+	<string key="twitch_pirate_emote_piratestance_description" rel_version="New_World_Launch">"Your treasure fleets will soon be mine." Emote</string>
+	<string key="twitch_pirate_emote_throat_description" rel_version="New_World_Launch">"The mark of the brigand." Emote</string>
+	<string key="thumbs_description" rel_version="New_World_Launch">"Approval, disapproval, withholding judgment." Emotes</string>
+	<string key="dragons_coil_description" rel_version="New_World_Launch">"The serpents of yore slither eternally with scales of steel." Shield Weapon Skin</string>
+	<string key="EntitlementSkin_AnglesDemon_Spear_description" rel_version="New_World_Launch">“A lance blessed to maintain the balance of light and darkness.” Spear Weapon Skin</string>
+	<string key="EntitlementSkin_AnglesDemon_FireStaff_description" rel_version="New_World_Launch">“Tormented hellfire crackles within.” Fire Staff Weapon Skin</string>
+	<string key="twitch_pirate_weapon_sword_description" rel_version="New_World_Launch">"When you gamble everything… even your soul." Sword Weapon Skin</string>
+	<string key="EntitlementSkin_AnglesDemon_LifeStaff_description" rel_version="New_World_Launch">“A staff imbued with restorative primordial forces.” Life Staff Weapon Skin</string>
+	<string key="howl_at_dawn_description" rel_version="New_World_Launch">"A scream in the witching hour." Sword Weapon Skin</string>
+	<string key="twin_wolves_description" rel_version="New_World_Launch">"Their howl grows ever closer." War Hammer Weapon Skin</string>
+	<string key="Bundle_Decor_Pirate_description" rel_version="New_World_Launch">"Treacherous waters can yield great treasure." Pirate Housing Decor Set</string>
 	<string key="ui_no_featured_deal">There is no featured deal at this time.\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;&lt;font color="#ffffff"&gt;B R O W S E  S T O R E&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_no_featured_deal_store">There is no featured deal at this time.\nBrowse the store using the tabs on the left!</string>
+	<string key="Marks_Of_Fortune_5000_name" rel_version="New_World_Launch">Marks of Fortune Pouch</string>
+	<string key="Marks_Of_Fortune_11000_name" rel_version="New_World_Launch">Marks of Fortune Stack</string>
+	<string key="Marks_Of_Fortune_23000_name" rel_version="New_World_Launch">Marks of Fortune Pile</string>
+	<string key="Marks_Of_Fortune_40250_name" rel_version="New_World_Launch">Marks of Fortune Purse</string>
+	<string key="Marks_Of_Fortune_60000_name" rel_version="New_World_Launch">Marks of Fortune Chest</string>
+	<string key="Marks_Of_Fortune_5000_description" rel_version="New_World_Launch">Marks of Fortune Currency Pack</string>
+	<string key="Marks_Of_Fortune_11000_description" rel_version="New_World_Launch">Marks of Fortune Currency Pack</string>
+	<string key="Marks_Of_Fortune_23000_description" rel_version="New_World_Launch">Marks of Fortune Currency Pack</string>
+	<string key="Marks_Of_Fortune_40250_description" rel_version="New_World_Launch">Marks of Fortune Currency Pack</string>
+	<string key="Marks_Of_Fortune_60000_description" rel_version="New_World_Launch">Marks of Fortune Currency Pack</string>
+	<string key="ui_crestforeground_08" rel_version="New_World_Launch">Wolf's Head</string>
+	<string key="ui_crestforeground_23" rel_version="New_World_Launch">Frosty Mug</string>
+	<string key="ui_crestforeground_35" rel_version="New_World_Launch">Bull's Head</string>
+	<string key="ui_crestforeground_42" rel_version="New_World_Launch">Cheers</string>
+	<string key="ui_crestforeground_53" rel_version="New_World_Launch">Hearts</string>
+	<string key="ui_crestforeground_54" rel_version="New_World_Launch">Spades</string>
+	<string key="ui_crestforeground_55" rel_version="New_World_Launch">Clubs</string>
+	<string key="ui_crestforeground_56" rel_version="New_World_Launch">Diamonds</string>
+	<string key="ui_crestforeground_90" rel_version="New_World_Launch">Crossed Pistols</string>
+	<string key="ui_crestforeground_96" rel_version="New_World_Launch">Crest Emblem</string>
+	<string key="ui_crestforeground_97" rel_version="New_World_Launch">Crest Emblem</string>
+	<string key="ui_crestforeground_98" rel_version="New_World_Launch">Crest Emblem</string>
+	<string key="ui_crestforeground_99" rel_version="New_World_Launch">Turkey Dinner</string>
+	<string key="ui_crestforeground_100" rel_version="New_World_Launch">Pilgrim Hat</string>
+	<string key="ui_crestforeground_101" rel_version="New_World_Launch">Axe x Musket</string>
+	<string key="ui_crestforeground_102" rel_version="New_World_Launch">Compass Rose</string>
+	<string key="ui_crestforeground_103" rel_version="New_World_Launch">Ship's Anchor</string>
+	<string key="ui_crestforeground_104" rel_version="New_World_Launch">Buccaneer</string>
+	<string key="ui_crestforeground_142" rel_version="New_World_Launch">Bandit</string>
+	<string key="ui_crestforeground_144" rel_version="New_World_Launch">Smuggler's Crest</string>
+	<string key="ui_crestforeground_145" rel_version="New_World_Launch">Chef's Hat</string>
+	<string key="ui_crestforeground_149" rel_version="New_World_Launch">King's Hart</string>
+	<string key="ui_crestforeground_155" rel_version="New_World_Launch">Coat of Arms</string>
+	<string key="ui_crestforeground_157" rel_version="New_World_Launch">Rich &amp; Poor</string>
+	<string key="ui_crestforeground_160" rel_version="New_World_Launch">Bear's Head</string>
+	<string key="ui_crestforeground_162" rel_version="New_World_Launch">Lion's Head</string>
+	<string key="ui_crestforeground_170" rel_version="New_World_Launch">Snake's Head</string>
+	<string key="ui_crestforeground_178" rel_version="New_World_Launch">Kaboom</string>
+	<string key="ui_crestforeground_179" rel_version="New_World_Launch">Merchant's Mark</string>
+	<string key="ui_crestforeground_184" rel_version="New_World_Launch">Rockin Horns</string>
+	<string key="ui_crestforeground_187" rel_version="New_World_Launch">Heart Hands</string>
+	<string key="ui_crestforeground_191" rel_version="New_World_Launch">L for Love</string>
+	<string key="ui_crestforeground_200" rel_version="New_World_Launch">Bow Master</string>
+	<string key="ui_crestforeground_201" rel_version="New_World_Launch">Fire Staff Master</string>
+	<string key="ui_crestforeground_202" rel_version="New_World_Launch">Battle Axe Master</string>
+	<string key="ui_crestforeground_203" rel_version="New_World_Launch">Hatchet Master</string>
+	<string key="ui_crestforeground_204" rel_version="New_World_Launch">Life Staff Master</string>
+	<string key="ui_crestforeground_205" rel_version="New_World_Launch">Musket Master</string>
+	<string key="ui_crestforeground_206" rel_version="New_World_Launch">Fortess</string>
+	<string key="ui_crestforeground_207" rel_version="New_World_Launch">Spear Master</string>
+	<string key="ui_crestforeground_208" rel_version="New_World_Launch">War Hammer Mastery</string>
+	<string key="Bundle_Decor_Spooky2021_name" rel_version="New_World_Launch">Haunted Housing Decor Bundle</string>
+	<string key="Bundle_Decor_Spooky2021_description" rel_version="New_World_Launch">"As if the Corrupted weren't scary enough…" Housing Decor Set</string>
+	<string key="Pet_Ghost_Dog_name" rel_version="New_World_Launch">Puppergeist</string>
+	<string key="Pet_Ghost_Dog_description" rel_version="New_World_Launch">"A canine so faithful they don't require a physical form to be there for you. Plus, no allergies or shedding!" House Pet</string>
+	<string key="Pet_BlackTiger_name" rel_version="New_World_Launch">Black Tiger</string>
+	<string key="Pet_BlackTiger_description" rel_version="New_World_Launch">"Neither light nor color can escape the deep darkness of its fur. But do you know what can? Love! And this big kitty needs lots of it." House Pet</string>
+	<string key="Monster_GreatAxe_name" rel_version="New_World_Launch">Pharaoh's Curse</string>
+	<string key="Monster_GreatAxe_description" rel_version="New_World_Launch">"Long lost beneath the desert sands, now free to wreak its havoc.“ Great Axe Weapon Skin</string>
+	<string key="Monster_LifeStaff_name" rel_version="New_World_Launch">Black Widow Staff</string>
+	<string key="Monster_LifeStaff_description" rel_version="New_World_Launch">"Its kiss giveth life, its sting taketh it away." Life Staff Weapon Skin</string>
+	<string key="Monster_WarHammer_name" rel_version="New_World_Launch">Frankenstein Hammer</string>
+	<string key="Monster_WarHammer_description" rel_version="New_World_Launch">"The spark of life descends from the heavens." War Hammer Weapon Skin</string>
+	<string key="Monster_Musket_name" rel_version="New_World_Launch">Crimson Bloodlock</string>
+	<string key="Monster_Musket_description" rel_version="New_World_Launch">"A bite worse than its bark." Musket Weapon Skin</string>
+	<string key="Monster_Rapier_name" rel_version="New_World_Launch">Skeletal Rapier</string>
+	<string key="Monster_Rapier_description" rel_version="New_World_Launch">"A fearsome beast, now lost to time, donated the bones that form this insidious blade." Rapier Weapon Skin</string>
+	<string key="Mask_AngryEarth_name" rel_version="New_World_Launch">Elemental Mask</string>
+	<string key="Mask_AngryEarth_description" rel_version="New_World_Launch">"Energy currents run through this piece of facial wear giving the wearer the apperance of being a little more magical than they really are." Mask Skin</string>
+	<string key="Mask_Demon_name" rel_version="New_World_Launch">Demon Mask</string>
+	<string key="Mask_Demon_description" rel_version="New_World_Launch">"Even though it's made of wood this mask makes you think of rock…" Mask Skin</string>
+	<string key="Mask_PlagueDoctor_name" rel_version="New_World_Launch">Plague Doctor Mask</string>
+	<string key="Mask_PlagueDoctor_description" rel_version="New_World_Launch">"When fear overtakes the land, his services find high demand.“ Mask Skin</string>
+	<string key="Mask_HalfWooden_name" rel_version="New_World_Launch">Elusive One Mask</string>
+	<string key="Mask_HalfWooden_description" rel_version="New_World_Launch">"The mysterious stranger, hardly glimpsed yet never forgotten.“ Mask Skin</string>
+	<string key="Apparel_Monster_Vampire_name" rel_version="New_World_Launch">Bloodthirsty Count</string>
+	<string key="Apparel_Monster_Vampire_description" rel_version="New_World_Launch">"It's easier to hide any spills if you wear red, my friend." Apparel Skin Set</string>
+	<string key="Apparel_Monster_Mummy_name" rel_version="New_World_Launch">Shroud of the Pharaoh</string>
+	<string key="Apparel_Monster_Mummy_description" rel_version="New_World_Launch">"For a musty relic contained for thousands of years, it doesn't smell as bad as I thought." Apparel Skin Set</string>
+	<string key="Apparel_Monster_Skeleton_name" rel_version="New_World_Launch">Skeletal Chevalier</string>
+	<string key="Apparel_Monster_Skeleton_description" rel_version="New_World_Launch">"Sinister and sepulchral, armies of bone heed his summons." Apparel Skin Set</string>
+	<string key="Emote_Whistle_name" rel_version="New_World_Launch">Whistle</string>
+	<string key="Emote_Whistle_description" rel_version="New_World_Launch">"For summoning dogs, companions, or any combination thereof." Emote</string>
+	<string key="Emote_Pray_name" rel_version="New_World_Launch">Pray</string>
+	<string key="Emote_Pray_description" rel_version="New_World_Launch">"Prostrate thyself before a higher power." Emote</string>
+	<string key="Housing_Happy_Pumpkin_description">"The miscreant ne’er-do-well was happily damned and damnably happy. You’d smile too if you fooled the Devil himself!" Housing Decoration</string>
+	<string key="Housing_Happy_Pumpkin_name">Scapegrace Jack’s Happy Lantern</string>
 </resources>
 

@@ -264,7 +264,7 @@
 	<string key="1204_0501_encroachingcorruption_start_prompt" speaker="UI - Player Prompt">N/A</string>
 	<string key="1204_0501_encroachingcorruption_proposal" speaker="n/a">N/A</string>
 	<string key="1204_0501_encroachingcorruption_incomplete" speaker="n/a">N/A</string>
-	<string key="1204_0501_TalktoConstable" speaker="UI - tracker text">Report back to Constable Saville</string>
+	<string key="1204_0501_TalktoConstable" speaker="UI - tracker text">Consult with Constable Saville for an update on Corruption</string>
 	<string key="1204_0501_encroachingcorruption_complete" speaker="Constable Saville - Monarch's Bluffs" name="OverseerSaville" VO="1204_0501_encroachingcorruption_complete" VO_Status="Needs Recording" dialogue-next="@1204_0501_encroachingcorruption_complete_next">I hope you're returning with good tidings - I've had just about all of the bad kind I can take.\n\nIs it true - were there new manifestations of Corruption near the settlement?</string>
 	<string key="1204_0501_encroachingcorruption_complete_next_prompt" speaker="UI - Player Prompt">"Yes, but I destroyed them."</string>
 	<string key="1204_0501_encroachingcorruption_complete_next" speaker="Constable Saville - Monarch's Bluffs" name="OverseerSaville" VO="1204_0501_encroachingcorruption_complete_next" VO_Status="Needs Recording" dialogue-next="@1204_0501_encroachingcorruption_complete_next2" dialogue-prompt="@1204_0501_encroachingcorruption_complete_next_prompt">I suppose that's a relief, then. I feel sorry for the other settlements if they don't have someone like you around.\n\nYou should consider buying a home here in the Bluffs. It'll make it easier to return after you head out again.</string>

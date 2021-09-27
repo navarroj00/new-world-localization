@@ -1255,7 +1255,7 @@
 	<string key="PerkID_Ability_IceGauntlet_UnendingThaw_Name">Unending Thaw</string>
 	<string key="PerkID_Ability_IceGauntlet_UnendingThaw_Description">Frost effects remains on enemies for 2 seconds after exiting Ice Storm.</string>
 	<string key="PerkID_Ability_IceGauntlet_IcedRefresh_Name">Iced Refresh</string>
-	<string key="PerkID_Ability_IceGauntlet_IcedRefresh_Description">Reduce all Ice cooldowns on a killing blow by {[GlobalAbilityTable.GlobalPerk_Ability_IceGauntlet_IcedRefresh.CooldownTimer * -100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Ability_IceGauntlet_IcedRefresh_Description">A killing blow with Ice Spike's Major Spike will reduce all Ice cooldowns by {[GlobalAbilityTable.GlobalPerk_Ability_IceGauntlet_IcedRefresh.CooldownTimer * -100 * {perkMultiplier}]}%.</string>
 	<string key="PerkID_Ability_IceGauntlet_DeadlyFrost_Name">Deadly Frost</string>
 	<string key="PerkID_Ability_IceGauntlet_DeadlyFrost_Description">Frigid Showers ability will cause damage to enemies with Frostbite.</string>
 	<string key="PerkID_Ability_IceGauntlet_PylonBurst_Name">Pylon Burst</string>
