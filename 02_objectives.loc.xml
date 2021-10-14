@@ -324,7 +324,7 @@
 	<string key="98_M_0001_RankUp_description">Earn Faction Reputation and challenge for the rank of Gladiator</string>
 	<string key="98_M_0001_RankUp_factionhandoff">Complete missions from the Faction Board, then report to the local Magistrate</string>
 	<string key="98_M_Reach_NextMarauderRank">Earn Faction Reputation to face the Trial for your next Rank</string>
-	<string key="98_M_0001_CompleteTrial_Gladiator">Travel to Cutlass Keys and complete the Trial of the Gladiator</string>
+	<string key="98_M_0001_CompleteTrial_Gladiator">Travel to Cutlass Keys and complete the Trial of the Gladiator\n(Recommended Level: 25)</string>
 	<string key="98_M_0102_RankUp_title">Marauder Advancement: Ravager</string>
 	<string key="98_M_0102_RankUp_description">Earn Faction Reputation and challenge for the rank of Ravager</string>
 	<string key="98_M_0102_CompleteTrial_Ravager">Travel to Weaver's Fen and complete the Trial of the Ravager</string>
@@ -388,7 +388,7 @@
 	<string key="98_S_0001_RankUp_description">Earn Faction Reputation and vie for the rank of Scrivener</string>
 	<string key="98_S_0001_RankUp_factionhandoff">Complete missions from the Faction Board, then report to the local Magistrate</string>
 	<string key="98_S_Reach_NextSyndicateRank">Earn Faction Reputation to face the Trial for your next Rank</string>
-	<string key="98_S_0001_CompleteTrial_Scrivener">Travel to Brightwood and complete the Trial of the Scrivener</string>
+	<string key="98_S_0001_CompleteTrial_Scrivener">Travel to Brightwood and complete the Trial of the Scrivener\n(Recommended Level: 25)</string>
 	<string key="98_S_0102_RankUp_title">Syndicate Advancement: Chronicler</string>
 	<string key="98_S_0102_RankUp_description">Earn Faction Reputation and vie for the rank of Chronicler</string>
 	<string key="98_S_0102_CompleteTrial_Chronicler">Travel to Weaver's Fen and complete the Trial of the Chronicler</string>
@@ -449,7 +449,7 @@
 	<string key="98_C_0001_RankUp_description">Earn Faction Reputation and prove yourself worthy of the rank of Templar</string>
 	<string key="98_C_0001_RankUp_factionhandoff">Complete missions from the Faction Board, then report to the local Magistrate</string>
 	<string key="98_C_Reach_NextCovenantRank">Earn Faction Reputation to face the Trial for your next Rank</string>
-	<string key="98_C_0001_CompleteTrial_Templar">Travel to Brightwood and complete the Trial of the Templar</string>
+	<string key="98_C_0001_CompleteTrial_Templar">Travel to Brightwood and complete the Trial of the Templar\n(Recommended Level: 25)</string>
 	<string key="98_C_0102_RankUp_title">Covenant Advancement: Excubitor</string>
 	<string key="98_C_0102_RankUp_description">Earn Faction Reputation and prove yourself worthy of the rank of Excubitor</string>
 	<string key="98_C_0102_CompleteTrial_Excubitor">Travel to Weaver's Fen and complete the Trial of the Excubitor</string>
@@ -536,22 +536,22 @@
 	<string key="0205_0102_02_Breastplate_title">Embrace the Fight</string>
 	<string key="0205_0102_02_Breastplate_description">Collect Stalwart Rivets from The Golden Princess, Evershine Polish from Gelida Pillars, and Hammered Metal from Acedia Bastion. Then visit a Tier 3 Forge to craft the Battle's Embrace Breastplate.</string>
 	<string key="0205_0102_02_Breastplate_task_01">Handed the recipe.</string>
-	<string key="0205_0102_02_Breastplate_task_02" comment="The Golden Princess">Travel to {POITags} in Restless Shore to collect </string>
+	<string key="0205_0102_02_Breastplate_task_02" comment="The Golden Princess">Travel to {POITags} in Restless Shore to collect</string>
 	<string key="0205_0102_02_Breastplate_task_03" comment="Stalwart Rivets">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_02_Breastplate_task_04" comment="Gelida Pillars">Travel to {POITags} in Great Cleave to collect </string>
+	<string key="0205_0102_02_Breastplate_task_04" comment="Gelida Pillars">Travel to {POITags} in Great Cleave to collect</string>
 	<string key="0205_0102_02_Breastplate_task_05" comment="Evershine Polish">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_02_Breastplate_task_06" comment="Acedia Bastion">Travel to {POITags} in Great Cleave to collect </string>
+	<string key="0205_0102_02_Breastplate_task_06" comment="Acedia Bastion">Travel to {POITags} in Great Cleave to collect</string>
 	<string key="0205_0102_02_Breastplate_task_07" comment="Hammered Metal">Collect {itemName} from {targetName} enemies</string>
 	<string key="0205_0102_02_Breastplate_task_08">Visit a Forge</string>
 	<string key="0205_0102_02_Breastplate_task_09">Craft the {itemName}</string>
 	<string key="0205_0102_03_Greaves_title">Grievous Blows</string>
 	<string key="0205_0102_03_Greaves_description">Collect Reforged Plating from Fort Damnation, Baneseed Oil from Propus, and Attuned Starmetal from Olympus. Then visit a Tier 3 Forge to craft the Battle's Embrace Greaves.</string>
 	<string key="0205_0102_03_Greaves_task_01">Handed the recipe.</string>
-	<string key="0205_0102_03_Greaves_task_02" comment="Fort Damnation">Travel to {POITags} in Restless Shore to collect </string>
+	<string key="0205_0102_03_Greaves_task_02" comment="Fort Damnation">Travel to {POITags} in Restless Shore to collect</string>
 	<string key="0205_0102_03_Greaves_task_03" comment="Reforged Plating">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_03_Greaves_task_04" comment="Propus">Travel to {POITags} in Mourningdale to collect </string>
+	<string key="0205_0102_03_Greaves_task_04" comment="Propus">Travel to {POITags} in Mourningdale to collect</string>
 	<string key="0205_0102_03_Greaves_task_05" comment="Baneseed Oil">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_03_Greaves_task_06" comment="Olympus">Travel to {POITags} in Mourningdale to collect </string>
+	<string key="0205_0102_03_Greaves_task_06" comment="Olympus">Travel to {POITags} in Mourningdale to collect</string>
 	<string key="0205_0102_03_Greaves_task_07" comment="Attuned Starmetal">Collect {itemName} from {targetName} enemies</string>
 	<string key="0205_0102_03_Greaves_task_08">Visit a Forge</string>
 	<string key="0205_0102_03_Greaves_task_09">Craft the {itemName}</string>

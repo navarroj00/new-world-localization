@@ -113,6 +113,8 @@
 	<string key="mm_loginservices_location_BEACH9080">You are queueing for a starting area...</string>
 	<string key="mm_loginservices_location_BEACH9009">You are queueing for a starting area...</string>
 	<string key="mm_loginservices_location_BEACH9021">You are queueing for a starting area...</string>
+	<string key="mm_loginservices_leave_queue_title">Leave Queue</string>
+	<string key="mm_loginservices_leave_queue_message">Are you sure you want to leave the queue?</string>
 	<string key="mm_invalidname_length">Invalid name length.</string>
 	<string key="mm_invalidname_minlength">This name is too short.</string>
 	<string key="mm_invalidname_maxlength">This name is too long.</string>
@@ -181,6 +183,7 @@
 	<string key="mm_rejected_Client_Kicked_CSLockout">Your account is currently locked. Please reach out to customer service for more information.</string>
 	<string key="mm_rejected_Client_Kicked_Unknown">You have been kicked from the game</string>
 	<string key="mm_authresult_Authorized">Success</string>
+	<string key="mm_charactertransferdisabled">Character transfer is temporarily disabled on this world. Please try a different world.</string>
 	<string key="mm_characterCreateDisabled">Character creation temporarily disabled on this server to avoid over population</string>
 	<string key="mm_authresult_Denied_ClaimConnectionTicketFailed">Failed to claim connection ticket.</string>
 	<string key="mm_authresult_Denied_HubNotReady">Server is not ready for gameplay. Retrying...</string>
@@ -214,7 +217,7 @@
 	<string key="mm_waitingforaoi_message">Connecting to server, please wait...</string>
 	<string key="mm_waitingforspawnpoint_title">Waiting to join…</string>
 	<string key="mm_waitingforspawnpoint_message">Searching for capacity, please wait...</string>
-	<string key="mm_world_character_limit">At world character limit</string>
+	<string key="mm_world_character_limit">You can only have 1 character in a World Set.</string>
 	<string key="confirm_buy_unequippable">Cannot equip</string>
 	<string key="confirm_buy_unequippable_body">You currently cannot equip this item. Continue?</string>
 	<string key="lt_1_title">Claiming</string>
@@ -406,5 +409,6 @@
 	<string key="error_banned">{message}\n\nReason:[{reason}]</string>
 	<string key="error_perm_ban">Permenant Ban</string>
 	<string key="error_temp_ban">Temporary Ban</string>
+	<string key="error_world_select_server_down">You cannot select a world while it is in maintenance.</string>
 </resources>
 
