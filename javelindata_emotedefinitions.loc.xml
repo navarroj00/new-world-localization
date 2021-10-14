@@ -65,5 +65,7 @@
 	<string key="ui_emote_BlowKiss_description">Blow Kiss</string>
 	<string key="ui_emote_PiratePose_description">"Your treasure fleets will soon be mine."</string>
 	<string key="ui_emote_FingerWag_description">Finger Wag Emote</string>
+	<string key="ui_emote_Impatient" rel_version="Emote_Impatient">Waiting</string>
+	<string key="ui_emote_Impatient_description" rel_version="Emote_Impatient">"We don't have all eternity... or wait, do we?"</string>
 </resources>
 

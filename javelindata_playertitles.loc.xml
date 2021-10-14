@@ -712,5 +712,9 @@
 	<string key="ui_playertitle_no_title_description" note="UI Label">Apply this to not display any title.</string>
 	<string key="ui_playertitle_addendum_accounttype" note="UI Label">\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular.font" color = "#ffffff"&gt;This title is usable by any character in your account.&lt;/font&gt;</string>
 	<string key="ui_playertitle_addendum_charactertype" note="UI Label">\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular.font" color = "#ffffff"&gt;This title cannot be used for other characters in your account.&lt;/font&gt;</string>
+	<string key="ui_playertitle_special_stoic" rel_version="Feature_Titles">The Stoic</string>
+	<string key="ui_playertitle_special_stoic_SHE" rel_version="Feature_Titles">The Stoic</string>
+	<string key="ui_playertitle_special_stoic_THEY" rel_version="Feature_Titles">The Stoic</string>
+	<string key="ui_playertitle_stoic_description" rel_version="Feature_Titles">Showed solid resolve in the face of epic wait times.</string>
 </resources>
 

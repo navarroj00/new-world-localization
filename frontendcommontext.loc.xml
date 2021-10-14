@@ -178,13 +178,14 @@
 	<string key="mm_rejected_Client_Kicked_BannedOffensiveCompanyName">Offensive company name</string>
 	<string key="mm_rejected_Client_Kicked_OffensiveCompanyName">Offensive company name</string>
 	<string key="mm_rejected_Client_Kicked_BannedSuspectedFraud">Suspected fraud behavior</string>
-	<string key="mm_rejected_Client_Kicked_EasyAntiCheat">Not authorized to continue playing.</string>
+	<string key="mm_rejected_Client_Kicked_EasyAntiCheat">Login Blocked: Suspicious Software or Corrupted Install Detected</string>
 	<string key="mm_rejected_Client_Kicked_BannedCSLockout">Your account is currently locked. Please reach out to customer service for more information.</string>
 	<string key="mm_rejected_Client_Kicked_CSLockout">Your account is currently locked. Please reach out to customer service for more information.</string>
 	<string key="mm_rejected_Client_Kicked_Unknown">You have been kicked from the game</string>
 	<string key="mm_authresult_Authorized">Success</string>
 	<string key="mm_charactertransferdisabled">Character transfer is temporarily disabled on this world. Please try a different world.</string>
 	<string key="mm_characterCreateDisabled">Character creation temporarily disabled on this server to avoid over population</string>
+	<string key="mm_charactertransferdisabled">Character transfer is temporarily disabled on this world. Please try a different world.</string>
 	<string key="mm_authresult_Denied_ClaimConnectionTicketFailed">Failed to claim connection ticket.</string>
 	<string key="mm_authresult_Denied_HubNotReady">Server is not ready for gameplay. Retrying...</string>
 	<string key="mm_authresult_Denied_CapacityLimitReached">The servers are busy at this time. Please try again later.</string>

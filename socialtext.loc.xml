@@ -181,6 +181,7 @@
 	<string key="ui_friends_confirm_invite_title">Confirm Friend Invite</string>
 	<string key="ui_friends_invite_blocked_player">Are you sure you want to unblock this player and send them a friend invite?</string>
 	<string key="ui_maxfriendsreached">You can only have {maxFriends} friends.</string>
+	<string key="ui_invalidfriend">The specified player is no longer valid.</string>
 	<string key="ui_sendguildinvite">Send Company Invite</string>
 	<string key="ui_guild">Company</string>
 	<string key="ui_war_declared_chat_notification">{guild1} has declared war on {guild2} for control of {territoryName}!</string>
