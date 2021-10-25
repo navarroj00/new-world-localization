@@ -163,6 +163,7 @@
 	<string key="ui_p2ptrading_failmessage_transactionfailure_transactionaborted">Transaction aborted.</string>
 	<string key="ui_p2ptrading_failmessage_transactionfailure_tradecanceled">Trade canceled.</string>
 	<string key="ui_p2ptrading_failmessage_somethingwentwrong">Something went wrong.</string>
+	<string key="ui_p2ptrading_failmessage_atmaxcurrency">One or more players will exceed coin cap.</string>
 	<string key="ui_p2ptrading_trade_completed">Trade completed.</string>
 	<string key="ui_invite_to_group">Invite to Group</string>
 	<string key="ui_invite_to_guild">Invite to Company</string>

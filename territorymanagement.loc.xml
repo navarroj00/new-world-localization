@@ -230,6 +230,7 @@
 	<string key="ui_fortressinfo_defenderlabel">(defending)</string>
 	<string key="ui_fortressinfo_invasionattackername">The Corrupted</string>
 	<string key="ui_fortressinfo_timetodeclare">Time to Declare War:</string>
+	<string key="ui_fortressinfo_timetodeclare_paused_invasion">Paused (Invasion)</string>
 	<string key="ui_fortressinfo_conflictdescription">You will &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;no longer earn Influence&lt;/font&gt; in this territory until War has been resolved. (All other Faction Mission rewards like XP and Coin are still available.)\n\nIf multiple Companies that contributed influence declare war, a random one will be selected.</string>
 	<string key="ui_fortressinfo_noconflict">Territory Not In Conflict</string>
 	<string key="ui_fortressinfo_contributionnotrequired">No company has contributed enough influence yet, so any company would be eligible to declare war.</string>
