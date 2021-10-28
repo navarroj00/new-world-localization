@@ -411,5 +411,7 @@
 	<string key="error_perm_ban">Permenant Ban</string>
 	<string key="error_temp_ban">Temporary Ban</string>
 	<string key="error_world_select_server_down">You cannot select a world while it is in maintenance.</string>
+	<string key="error_loading_assets_title">Game Asset Loading Error</string>
+	<string key="error_loading_assets_message">Error loading game assets! Please check your installation.</string>
 </resources>
 
