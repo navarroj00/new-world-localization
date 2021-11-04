@@ -23722,9 +23722,9 @@
 	<string key="OR_FoodSpeed">Zephyr Cakes</string>
 	<string key="OR_FoodSpeed_Description">Gives a movement speed bonus. (10%)</string>
 	<string key="OR_FoodPvP">Battle Bread</string>
-	<string key="OR_FoodPvP_Description">Gives damage bonus vs. enemy players. (10%)</string>
+	<string key="OR_FoodPvP_Description">Increase damage and absorption against enemy players by 15%. Your health slowly recovers while under these effects.</string>
 	<string key="OR_FoodPvE">Monster Slayer's Stew</string>
-	<string key="OR_FoodPvE_Description">Gives damage bonus vs. PvE creatures. (15%)</string>
+	<string key="OR_FoodPvE_Description">Increase damage and absorption against non-player enemies by 15%. Your health slowly recovers while under these effects.</string>
 	<string key="OR_SummonStoneBear">Ursine Summoning Stone</string>
 	<string key="OR_SummonStoneBear_Description">Summons a Bear Guardian.</string>
 	<string key="OR_SummonStoneWraiths">Wraith Summoning Stone</string>

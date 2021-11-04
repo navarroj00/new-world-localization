@@ -206,6 +206,8 @@
 	<string key="@ui_house_items_refunded_title">House Items refunded</string>
 	<string key="@ui_house_items_refunded_single_message">Due to changes in {settlement} a house item has been returned to your inventory.</string>
 	<string key="@ui_house_items_refunded_multiple_message">Due to changes in {settlement} {count} house items have been returned to your inventory.</string>
+	<string key="ui_house_compensation_title">Housing Compensation</string>
+	<string key="ui_house_compensation_message_JAV141577">Due to incorrect messaging around taxes for first time homebuyers, you have been granted {amount} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; as a homebuyer. We hope you continue to enjoy New World and your house.</string>
 	<string key="ui_house_type_items">Items</string>
 	<string key="ui_house_type_items_limits">Up to {numPets} {petPluralOrSingle}, {numLights} {lightPluralOrSingle}, and {numStorage} {storagePluralOrSingle}.</string>
 	<string key="ui_house_type_pet_singular">pet</string>

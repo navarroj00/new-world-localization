@@ -2411,5 +2411,8 @@
 	<string key="ui_auto_pin_toggle_label">Auto-Pin</string>
 	<string key="ui_number_range">{lowNumber} - {highNumber}</string>
 	<string key="ui_recommended_level_range">Recommended Level: {lowNumber} - {highNumber}</string>
+	<string key="ui_cannot_trade_currency_blocked">Can't trade currency until you're level {level} and your account is older than {hoursNeeded} hours</string>
+	<string key="ui_cannot_chat_global_blocked">Can't chat in this channel until your account is older than {hoursNeeded} hours</string>
+	<string key="ui_complete_quests_to_unlock">Complete quests in settlement to unlock</string>
 </resources>
 

@@ -164,6 +164,7 @@
 	<string key="ui_p2ptrading_failmessage_transactionfailure_tradecanceled">Trade canceled.</string>
 	<string key="ui_p2ptrading_failmessage_somethingwentwrong">Something went wrong.</string>
 	<string key="ui_p2ptrading_failmessage_atmaxcurrency">One or more players will exceed coin cap.</string>
+	<string key="ui_p2ptrading_failmessage_dont_meet_requirements">You must be level 10 and have an account older than 3 days to trade things away.</string>
 	<string key="ui_p2ptrading_trade_completed">Trade completed.</string>
 	<string key="ui_invite_to_group">Invite to Group</string>
 	<string key="ui_invite_to_guild">Invite to Company</string>

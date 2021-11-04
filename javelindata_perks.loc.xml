@@ -1363,7 +1363,7 @@
 	<string key="PerkID_Armor_ResistBlight_Name">Blight Resistance</string>
 	<string key="PerkID_Armor_ResistBlight_Description">+{[AffixStatDataTable.Affix_Armor_ResistBlight.RESBlight * {perkMultiplier}]} Blight Resistance.</string>
 	<string key="PerkID_Armor_DefCritDmg_Name">Resilient</string>
-	<string key="PerkID_Armor_DefCritDmg_Description">Critical hits deal {[GlobalAbilityTable.Global_Armor_DefCritDmg.BaseDamageReduction * 100 * {perkMultiplier}]}% less damage to you.</string>
+	<string key="PerkID_Armor_DefCritDmg_Description">Critical hits deal {[GlobalAbilityTable.Global_Armor_DefCritDmg.CritDamageReduction * 100 * {perkMultiplier}]}% less damage to you.</string>
 	<string key="PerkID_Armor_Durability_Name">Reinforced</string>
 	<string key="PerkID_Armor_Durability_Description">+{[AffixStatDataTable.Affix_Armor_Durability.DurabilityMod * 100 * {perkMultiplier}]}% Durability increase.</string>
 	<string key="PerkID_Armor_DurCC_Name">Freedom</string>
