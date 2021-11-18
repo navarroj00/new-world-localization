@@ -61,8 +61,8 @@
 	<string key="inv_equipLoadSlow">Heavy</string>
 	<string key="inv_equipLoadOverburdened">Over-Equipped</string>
 	<string key="inv_equipLoadTooltip">The combined weight of your equipped armor and shield determines your Equip Load. Each Equip Load offers a unique dodge and other bonuses.</string>
-	<string key="inv_equipLoadFastTooltip">While wearing light armor, your dodge is a quick roll that covers a lot of distance. You deal 20% bonus damage and healing.</string>
-	<string key="inv_equipLoadNormalTooltip">While wearing medium weight armor, your dodge is a quick hop. You deal 10% bonus damage and healing. Crowd control debuffs you apply last 10% longer.</string>
+	<string key="inv_equipLoadFastTooltip">While wearing light armor, your dodge is a quick roll that covers a lot of distance. You deal 20% bonus damage and {[Type_StatusEffectData.EquipLoad_HealingBonus_Light.HealScalingValueMultiplier * 100]}% bonus healing.</string>
+	<string key="inv_equipLoadNormalTooltip">While wearing medium weight armor, your dodge is a quick hop. You deal 10% bonus damage and 15% bonus healing. Crowd control debuffs you apply last 10% longer.</string>
 	<string key="inv_equipLoadSlowTooltip">While wearing heavy armor, your dodge is a slow sidestep. Your block stability is increased by 15% and crowd control debuffs you apply last 20% longer.</string>
 	<string key="inv_equipLoadOverburdenedTooltip">When you exceed your maximum Equip Load, you cannot dodge, sprint or use abilities. You should unequip some items.</string>
 	<string key="inv_equipLoadEncumberedTooltip">You are carrying too much in your inventory. While encumbered, it doesn't matter what your Equip Load is. You cannot sprint or dodge and lose more stamina while blocking. You should remove some items from your bag.</string>
@@ -78,6 +78,7 @@
 	<string key="inv_does_not_meet_weapon_requirements">Insufficient attributes</string>
 	<string key="inv_encumbranceAttackNotification">Too encumbered to attack</string>
 	<string key="inv_insufficientManaNotification">Insufficient Mana</string>
+	<string key="inv_OutOfRangeNotification">Target Out Of Range</string>
 	<string key="inv_compareTo">Compare with {location}</string>
 	<string key="inv_additionalItems">{count} additional items</string>
 	<string key="inv_repairparts_quantity">{count} Repair Parts</string>
@@ -124,6 +125,8 @@
 	<string key="ui_currency_totreasury">To Your Company Treasury</string>
 	<string key="ui_new_primary_tool_set">New Primary {gatheringType} Tool Set</string>
 	<string key="ui_storage_is_full">Storage is Full</string>
+	<string key="ui_storage_is_empty">Storage is Empty</string>
+	<string key="ui_retrieving_storage">Retrieving Storage Data</string>
 	<string key="ui_split_stack">Split Stack</string>
 	<string key="ui_set_quantity">Set quantity</string>
 	<string key="ui_drag_new_stack">Drag new stack</string>
@@ -159,5 +162,6 @@
 	<string key="ui_Constitution_short">CON</string>
 	<string key="ui_loot_bag_1_item">1 item</string>
 	<string key="ui_loot_bag_items">{amount} items</string>
+	<string key="tutorial_salvage_items">Salvage your weapons, armor, and tools for &lt;font color="#ffea00"&gt;Repair parts&lt;/font&gt;.</string>
 </resources>
 

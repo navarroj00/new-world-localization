@@ -28,6 +28,7 @@
 	<string key="ui_duel_failmessage_fasttravelchanneling">You can not send Duel invites while a participant is channeling fast travel.</string>
 	<string key="ui_duel_failmessage_generic">You can not send Duel invites at this time.</string>
 	<string key="ui_duel_failmessage_eligibility_failed">You are no longer eligible to accept this invite.</string>
+	<string key="ui_duel_failmessage_throttled">You can not send a Duel invite right now. Please wait and try again.</string>
 	<string key="ui_duel_failmessage_system_error">Duel invitation failed.</string>
 	<string key="ui_duel_failmessage_target_pendinginvite">{playerName} has a pending Duel invite.</string>
 	<string key="ui_duel_failmessage_target_notaccepting">{playerName} is not accepting Duel invites.</string>
@@ -68,13 +69,16 @@
 	<string key="ui_duel_accepted">Duel Accepted</string>
 	<string key="ui_duel_starts_in">Duel starts in...</string>
 	<string key="ui_duel_start">DUEL!</string>
+	<string key="ui_duel_start_message">Your duel has started.</string>
 	<string key="ui_duel_victory">Victory!</string>
 	<string key="ui_duel_victory_message">You won the duel.</string>
 	<string key="ui_duel_defeat">Defeat!</string>
 	<string key="ui_duel_defeat_message">You lost the duel.</string>
 	<string key="ui_duel_ended">Duel Ended</string>
 	<string key="ui_duel_resolution_draw">Draw</string>
+	<string key="ui_duel_resolution_draw_message">Your duel ended in a draw.</string>
 	<string key="ui_duel_resolution_interference">Interference</string>
+	<string key="ui_duel_resolution_interference_message">Your duel was interfered.</string>
 	<string key="ui_outpost_rush_title">Outpost Rush</string>
 	<string key="ui_outpost_rush_invite_status">Accept to join the battle!</string>
 	<string key="ui_outpost_rush_signup_title">OUTPOST RUSH</string>
@@ -132,6 +136,8 @@
 	<string key="ui_outpost_rush_match_started_desc">Capture Outposts to score {value}</string>
 	<string key="ui_outpost_rush_score_to_win">{value} to win</string>
 	<string key="ui_outpost_rush_leave">Leave Outpost Rush</string>
+	<string key="ui_outpost_rush_leave_queue_title">Leave Outpost Rush Queue?</string>
+	<string key="ui_outpost_rush_leave_queue_desc">Are you sure you want to leave the Outpost Rush queue?</string>
 	<string key="ui_outpost_rush_leave_title">Leave Outpost Rush?</string>
 	<string key="ui_outpost_rush_leave_desc">Are you sure you want to leave Outpost Rush?</string>
 	<string key="ui_outpost_rush_leave_desc_time">Are you sure you want to leave Outpost Rush?\nYou will be unable to queue for Outpost Rush again for {time}.</string>

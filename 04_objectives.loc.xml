@@ -78,11 +78,11 @@
 	<string key="0425_0101_truffles_title" speaker="UI - Journal - Quest  Title">Truffle Fever</string>
 	<string key="0425_0101_truffles_desc" speaker="UI - Journal - Quest  Description">Collect any Truffles you can find in the forest and bring them to Hapless Howe in the settlement. Look for any Herbs or Berries you can gather as well.</string>
 	<string key="0425_0101_truffles_start_prompt" speaker="UI -Player Prompt">"Why would they do that?"</string>
-	<string key="0425_0101_truffles_proposal" speaker="Hapless Howe" VO="0425_0101_truffles_proposal" VO_Status="Needs Recording" dialogue-next="@0425_0101_truffles_proposal_next">How should I know? Do I look like some kind of "boar-mind-reader"? Not me. I'm just a simple Traveling Herbalist.\n\nTell you this much, however, the beasts have ruined me for the season.</string>
+	<string key="0425_0101_truffles_proposal" speaker="Hapless Howe" VO="0425_0101_truffles_proposal" VO_Status="Recorded" dialogue-next="@0425_0101_truffles_proposal_next">How should I know? Do I look like some kind of "boar-mind-reader"? Not me. I'm just a simple Traveling Herbalist.\n\nTell you this much, however, the beasts have ruined me for the season.</string>
 	<string key="0425_0101_truffles_proposal_next_prompt" speaker="UI -Player Prompt">"Any way I can help?"</string>
-	<string key="0425_0101_truffles_proposal_next" speaker="Hapless Howe" VO="0425_0101_truffles_proposal_next" VO_Status="Needs Recording" dialogue-prompt="@0425_0101_truffles_proposal_next_prompt">You mean… you'd help old Hapless Howe? Why yes! You're a saint! Take my sickle, hunt up some Truffles, and bring them to the settlement.\n\nGather any herbs or berries you see for yourself as well - they'll fetch a gold or two at the Trading Post!</string>
-	<string key="0425_0101_truffles_incomplete" speaker="Hapless Howe" VO="0425_0101_truffles_incomplete" VO_Status="Needs Recording">Sad days are these when a traveling Herbalist has to rely on the goodwill of a stranger to make ends meet.\n\nBut if you'll bring me some truffles in the settlement, I'll have a little something for you.</string>
-	<string key="0425_0101_truffles_complete" speaker="Hapless Howe" VO="0425_0101_truffles_complete" VO_Status="Needs Recording">Here's my new friend, right here! All the truffles I lost and then some! I hope it wasn't too hard!\n\nKeep that sickle for your troubles, and if you make a habit of Harvesting herbs and such, we'll cross paths again, no doubt.</string>
+	<string key="0425_0101_truffles_proposal_next" speaker="Hapless Howe" VO="0425_0101_truffles_proposal_next" VO_Status="Recorded" dialogue-prompt="@0425_0101_truffles_proposal_next_prompt">You mean… you'd help old Hapless Howe? Why yes! You're a saint! Take my sickle, hunt up some Truffles, and bring them to the settlement.\n\nGather any herbs or berries you see for yourself as well - they'll fetch a gold or two at the Trading Post!</string>
+	<string key="0425_0101_truffles_incomplete" speaker="Hapless Howe" VO="0425_0101_truffles_incomplete" VO_Status="Recorded">Sad days are these when a traveling Herbalist has to rely on the goodwill of a stranger to make ends meet.\n\nBut if you'll bring me some truffles in the settlement, I'll have a little something for you.</string>
+	<string key="0425_0101_truffles_complete" speaker="Hapless Howe" VO="0425_0101_truffles_complete" VO_Status="Recorded">Here's my new friend, right here! All the truffles I lost and then some! I hope it wasn't too hard!\n\nKeep that sickle for your troubles, and if you make a habit of Harvesting herbs and such, we'll cross paths again, no doubt.</string>
 	<string key="0425_0101_truffles_gather_truffle" speaker="UI">Gather {itemName}s around the marked area</string>
 	<string key="0425_0101_truffles_optional_gather_hyssop" speaker="UI">(Optional) Gather Herbs or Berries</string>
 	<string key="0425_0101_truffles_equip_sickle" speaker="UI">Equip the Sickle from Herbalist Howe</string>
@@ -163,11 +163,11 @@
 	<string key="0405_0101_craftforartificer_start_prompt" speaker="UI - Player Prompt">"A little nervous, but she's alright."</string>
 	<string key="0405_0101_craftforartificer_proposal" comment="female" speaker="Artificer Petrowski - Everfall" name="ArtificerPetrowski" VO="Artificer_0405_0101_craftforartificer_ProposalResponse" VO_Status="Recorded">Very well, looking at what you refined here, you might have some talent.\n\nLet's find out then, shall we? Here's a satchel of ore - smelt it and then try your hand at the forge.</string>
 	<string key="0405_0101_craftforartificer_incomplete" comment="female" speaker="Artificer Petrowski - Everfall" name="ArtificerPetrowski" VO="Artificer_0405_0101_craftforartificer_InProgResponse" VO_Status="Recorded">You have the materials. There's the forge. Nothing more to say.</string>
-	<string key="0405_0101_craftforartificer_objective_desc" comment="female" speaker="UI - Journal - Quest  Description">Visit the forge and craft an Iron Long Sword, and then show your work to Artificer Petrowski.</string>
+	<string key="0405_0101_craftforartificer_objective_desc" comment="female" speaker="UI - Journal - Quest  Description">Visit the forge and craft an Iron Longsword, and then show your work to Artificer Petrowski.</string>
 	<string key="0405_0101_craftforartificer_complete_availaible_response" comment="female" speaker="Artificer Petrowski - Everfall" name="ArtificerPetrowski" VO="Artificer_0405_0101_craftforartificer_AvailResponse" VO_Status="Recorded">Hmmph! Let me see this stick of metal you've produced.\n\nIndeed, it appears to be satisfactory… for a novice.</string>
-	<string key="0405_0101_d_01_task" speaker="UI">Iron Ore</string>
+	<string key="0405_0101_d_01_task" speaker="UI">Gather Iron Ore</string>
 	<string key="0405_0101_d_02_task" speaker="UI">Craft {itemName}s at the Smelter</string>
-	<string key="0405_0101_d_03_task" speaker="UI">Craft an {itemName} at the Forge</string>
+	<string key="0405_0101_d_03_task" speaker="UI">Craft an Iron Longsword at the Forge</string>
 	<string key="0405_0102_campingunlock_objective_title" speaker="UI">Fancypants</string>
 	<string key="0405_0102_campingunlock_start_prompt" speaker="UI - Player Prompt">"Anything else you need?"</string>
 	<string key="0405_0102_campingunlock_proposal" comment="female referring to male" speaker="Artificer Petrowski - Everfall" name="ArtificerPetrowski" VO="Artificer_0405_0102_campingunlock_ProposalResponse" VO_Status="Recorded">Before you stray too far, I suggest introducing yourself to Survivalist Lee. \n\nI call him 'fancypants.' You'll have to ask him why.</string>
@@ -180,12 +180,24 @@
 	<string key="0403_0201_survivalistquest_start_prompt" speaker="UI - Player Prompt">"I can handle myself."</string>
 	<string key="0403_0201_survivalistquest_proposal" comment="male, he/him" speaker="Survivalist Lee - Everfall" name="SurvivalistLee" VO="Survivalist_0403_0201_survivalistquest_ProposalResponse" VO_Status="Recorded" dialogue-next="@0403_0201_survivalistquest_proposal_next">Of course you can, but I say a good warrior's got to test themselves every day.\n\nMaybe even venture out alone into the wilds of Aeternum.</string>
 	<string key="0403_0201_survivalistquest_proposal_prompt" speaker="UI - Player Prompt">"I wouldn't hesitate to do that."</string>
-	<string key="0403_0201_survivalistquest_proposal_next" comment="male, he/him" speaker="Survivalist Lee - Everfall" name="SurvivalistLee" VO="Survivalist_0403_0201_survivalistquest_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0403_0201_survivalistquest_proposal_prompt">Exactly, see? That's why I'd ask a favor of you. \n\nCollecting fine wolf fur for a blanket, so maybe you set up camp out there and do some hunting for old 'fancypants.' What do you say?</string>
+	<string key="0403_0201_survivalistquest_proposal_next" comment="male, he/him" speaker="Survivalist Lee - Everfall" name="SurvivalistLee" VO="Survivalist_0403_0201_survivalistquest_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0403_0201_survivalistquest_proposal_prompt">Exactly, see? That's why I'd ask a favor of you. \n\nCollecting fine wolf fur for a blanket, so maybe you set up camp out there and do some hunting for good old 'fancypants.' What do you say?</string>
 	<string key="0403_0201_survivalistquest_incomplete" comment="male, he/him" speaker="Survivalist Lee - Everfall" name="SurvivalistLee" VO="Survivalist_0403_0201_survivalistquest_InProgResponse" VO_Status="Recorded">Be careful outside these walls, friend. There's things out there more dangerous than wolves, that's for sure.</string>
 	<string key="0403_0201_survivalistquest_objective_desc" comment="male, he/him" speaker="UI - Journal - Quest  Description">Set up camp outside the settlement and hunt Crawtick and Midnight Wolves to collect Fine Fur. Return to Survivalist Lee in the Everfall Settlement when your hunt is complete.</string>
 	<string key="0403_0201_survivalistquest_complete_availaible_response" comment="male, he/him" speaker="Survivalist Lee - Everfall" name="SurvivalistLee" VO="Survivalist_0403_0201_survivalistquest_AvailResponse" VO_Status="Recorded">Now who's strutting around all fancy-like! \n\nI suspect you got some wolf fur in your pack, too. Yes, yes, this will do nicely.</string>
 	<string key="0403_0201_CoarseWolf" speaker="UI">Defeat {targetName} to collect {itemName}</string>
 	<string key="0403_0201_open_camp" speaker="UI">Make camp to set a respawn point in the wild (default: [Y])</string>
+	<string key="0403_0201_V2_makeCamp" speaker="UI">Make camp to set a respawn point in the wild (default: [Y])</string>
+	<string key="0403_0201_V2_TaskGoToPOITag_den_40226" speaker="UI">Collect musk from the wolves of {POITags}</string>
+	<string key="0403_0201_V2_TaskHaveAndReturnItems" speaker="UI">Slay {targetName} for {itemName}</string>
+	<string key="0403_0201_V2_TaskGoToPOITag_den_40230" speaker="UI">Continue to {POITags} in search of the finest of furs</string>
+	<string key="0403_0201_V2_TaskInteract_LureAlpha_Optional" speaker="UI">(Optional) Place the musk to lure out the Alpha of the Midnight Den</string>
+	<string key="0403_0201_V2_TaskInteract_KillContribution_Alpha_Hidden" speaker="UI">Slay {targetName}</string>
+	<string key="0403_0201_V2_TaskHaveAndReturnItems_FineAlphaFur" comment="itemname = &quot;Fine Alpha Fur&quot;, targetname = &quot;Ol' Grey&quot;" speaker="UI">Survive the wolves' assault and claim {itemName} from {targetName}</string>
+	<string key="0403_0201_V2_Enc_Stage_01" speaker="UI">Place the musk to lure the alpha</string>
+	<string key="0403_0201_V2_Enc_Stage_02" speaker="UI">Hold out against the guardians of the Midnight Den</string>
+	<string key="0403_0201_V2_Enc_Stage_02_Intermission" speaker="UI">Intermission</string>
+	<string key="0403_0201_V2_Enc_Stage_03" speaker="UI">Defeat Ol' Grey</string>
+	<string key="0403_0201_ObjectName" speaker="UI - Placed Object">Rival Pack Musk</string>
 	<string key="0403_0102_returntomagistrate_objective_title" speaker="UI - Journal - Quest  Title">Report for Duty</string>
 	<string key="0403_0102_returntomagistrate_start_prompt" speaker="UI - Player Prompt">"I know exactly what you mean."</string>
 	<string key="0403_0102_returntomagistrate_proposal" comment="female" speaker="Survivalist Lee - Everfall" name="SurvivalistLee" VO="Survivalist_0403_0202_returntomagistrate_ProposalResponse" VO_Status="Recorded">But for today, that may not be an option for either of us.\n\nSergeant-Major Magistrate Clark wants you to report for duty, soldier. Ignore him if you want. I won't snitch.</string>
@@ -264,11 +276,11 @@
 	<string key="0404_0501_encroachingcorruption_proposal" speaker="n/a">N/A</string>
 	<string key="0404_0501_encroachingcorruption_incomplete" speaker="n/a">N/A</string>
 	<string key="0404_0501_TalktoConstable" speaker="UI - tracker text">Consult with Constable Maecia for an update on Corruption</string>
-	<string key="0404_0501_encroachingcorruption_complete" speaker="Constable Maecia - Everfall" name="OverseerMaecia" VO="0404_0501_encroachingcorruption_complete" VO_Status="Needs Recording" dialogue-next="@0404_0501_encroachingcorruption_complete_next">Oh, thank the stars you've returned! These Corruption breaches are opening up as fast as we can close them.\n\nDid you find it bubbling up from the ground as well?</string>
+	<string key="0404_0501_encroachingcorruption_complete" speaker="Constable Maecia - Everfall" name="OverseerMaecia" VO="0404_0501_encroachingcorruption_complete" VO_Status="Recorded" dialogue-next="@0404_0501_encroachingcorruption_complete_next">Oh, thank the stars you've returned! These Corruption breaches are opening up as fast as we can close them.\n\nDid you find it bubbling up from the ground as well?</string>
 	<string key="0404_0501_encroachingcorruption_complete_next_prompt" speaker="UI - Player Prompt">"Yes, but I destroyed them."</string>
-	<string key="0404_0501_encroachingcorruption_complete_next" speaker="Constable Maecia - Everfall" name="OverseerMaecia" VO="0404_0501_encroachingcorruption_complete_next" VO_Status="Needs Recording" dialogue-next="@0404_0501_encroachingcorruption_complete_next2" dialogue-prompt="@0404_0501_encroachingcorruption_complete_next_prompt">You've come through for us again, a real champion for Everfall it feels like we have with you.\n\nYou should consider buying a home here! It'll make it easier to return after you head out again.</string>
+	<string key="0404_0501_encroachingcorruption_complete_next" speaker="Constable Maecia - Everfall" name="OverseerMaecia" VO="0404_0501_encroachingcorruption_complete_next" VO_Status="Recorded" dialogue-next="@0404_0501_encroachingcorruption_complete_next2" dialogue-prompt="@0404_0501_encroachingcorruption_complete_next_prompt">You've come through for us again, a real champion for Everfall it feels like we have with you.\n\nYou should consider buying a home here! It'll make it easier to return after you head out again.</string>
 	<string key="0404_0501_encroachingcorruption_complete_next2_prompt">"I'm heading out again?"</string>
-	<string key="0404_0501_encroachingcorruption_complete_next2" speaker="Constable Maecia - Everfall" name="OverseerMaecia" VO="0404_0501_encroachingcorruption_complete_next2" VO_Status="Needs Recording" dialogue-prompt="@0404_0501_encroachingcorruption_complete_next2_prompt">Hope so. That crazy old man who knew about Corruption - I heard he's got a fishing shack in Monarch's Bluffs.\n\nIt's a hike, but he might know something. Talk to the Innkeep before you go - they need a favor out that way too.</string>
+	<string key="0404_0501_encroachingcorruption_complete_next2" speaker="Constable Maecia - Everfall" name="OverseerMaecia" VO="0404_0501_encroachingcorruption_complete_next2" VO_Status="Recorded" dialogue-prompt="@0404_0501_encroachingcorruption_complete_next2_prompt">Hope so. That crazy old man who knew about Corruption - I heard he's got a fishing shack in Monarch's Bluffs.\n\nIt's a hike, but he might know something. Talk to the Innkeep before you go - they need a favor out that way too.</string>
 	<string key="0404_0501_encroachingcorruption_interact_nodes" speaker="UI - tracker text">Search the listed areas and eliminate any signs of Corruption:</string>
 	<string key="0404_0501_encroachingcorruption_nodeA" speaker="UI - tracker text">North of Arcturus Tower</string>
 	<string key="0404_0501_encroachingcorruption_nodeB" speaker="UI - tracker text">Near the Salt Hollow</string>
@@ -303,6 +315,8 @@
 	<string key="0410_0407_d_01_Task_GoTo" speaker="UI">Confront Master Henry and the Lost Pirates at {POITags} for Survivalist Lee</string>
 	<string key="0410_0407_d_02_Task_Kill" speaker="UI">Defeat Lost Stonetooth Pirates</string>
 	<string key="0410_0407_d_03_Task_Kill" speaker="UI">Defeat {targetName} on the river docks</string>
+	<string key="0410_0407_d_04_Task_Goto" speaker="UI">Travel to {POITags}</string>
+	<string key="0410_0407_d_05_Task_Kill" speaker="UI">Defeat Lost Longshadow Pirates</string>
 	<string key="0410_0407_e_Incomplete" comment="female" speaker="Survivalist Lee - Everfall" name="SurvivalistLee" VO="Survivalist_0410_0407_OpeningSupply_InProgResponse" VO_Status="Recorded">Master Henry and his Lost Pirates are still menacing the east roads. Something needs to be done.</string>
 	<string key="0410_0407_f_Complete" comment="female" speaker="Survivalist Lee - Everfall" name="SurvivalistLee" VO="Survivalist_0410_0407_OpeningSupply_AvailResponse" VO_Status="Recorded">Haha! You gave Master Henry the what for, didn't you? Let's hope that bastard stays down.\n\nLeave it to me to tell old Tekla. I appreciate your help, friend!</string>
 	<string key="0410_0408_a_Title" speaker="UI">Reclaiming What Was Lost</string>
@@ -350,6 +364,7 @@
 	<string key="0402_0413_d_01_Task_Goto" speaker="UI">Recover the Medicinals at {POITags}</string>
 	<string key="0402_0413_d_02_Task_Kill" speaker="UI">Defeat {targetName}</string>
 	<string key="0402_0413_d_03_Task_GatherChest" speaker="UI">Search chests for {itemName} at {POITags}</string>
+	<string key="0402_0413_d_04_Task_Kill" speaker="UI">Defeat Withered at {POITags}</string>
 	<string key="0403_0405_a_Title" speaker="UI">Ancient Contemplations</string>
 	<string key="0403_0405_b_Description" speaker="UI">Defeat Ancient Guardians at Achernar in Monarch's Bluffs and return to William Heron in the Everfall Settlement.</string>
 	<string key="0403_0405_c_start_prompt" speaker="UI - Player Prompt">"Don't you research this kind of thing?"</string>
@@ -380,6 +395,7 @@
 	<string key="0404_0403_c_Proposal_next" speaker="Artificer Petrowski - Everfall" name="ArtificerPetrowski" VO="Artificer_0404_0403_WhatCameBefore_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0404_0403_c_Proposal_prompt">Yes. The 'friend' I spoke of before - Audrey Kelleher - she was more than a friend. I gave her my brooch.\n\nRecover the brooch from the Kelleher Farmstead and give it to Odnell. Maybe I will give him a chance.</string>
 	<string key="0404_0403_d_01_Task_GoTo" speaker="UI">Recover Tekla's Brooch from {POITags}</string>
 	<string key="0404_0403_d_02_Task_KillToken" speaker="UI">Search chests in {POITags} to find Tekla's Brooch</string>
+	<string key="0404_0403_d_03_Task_Kill" speaker="UI">Defeat Withered at {POITags}</string>
 	<string key="0404_0403_e_Incomplete" speaker="Artificer Petrowski - Everfall" name="ArtificerPetrowski" VO="Artificer_0404_0403_WhatCameBefore_InProgResponse" VO_Status="Recorded">Audrey kept my brooch somewhere safe at the Kelleher Farmstead. \n\nOf course it could be anywhere on the grounds now.</string>
 	<string key="0404_0403_f_Complete" speaker="Survivalist Lee - Everfall" name="SurvivalistLee" VO="Artificer_0404_0403_WhatCameBefore_AvailResponse" VO_Status="Recorded" dialogue-next="@0404_0403_f_Complete_next">Hello there, my rambunctious friend! What news do you have?\n\nA brooch, eh? It is…very pretty, but why give it to me?</string>
 	<string key="0404_0403_f_Complete_prompt" speaker="UI - Player Prompt">"Tekla wants you to have it."</string>
@@ -406,6 +422,7 @@
 	<string key="0402_0502_f_Complete_next" comment="male" speaker="Magistrate Clark - Everfall" name="MagistrateClark" VO="Magistrate_0402_0502_Tainting_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@0402_0502_f_Complete_prompt">It did. Now I just need to find someone to coat the settlement walls in Bilemouth Bile. \n\nSomeone else, that is. You have done enough. The entire settlement is in your debt.</string>
 	<string key="0402_0502_d_01_Task" speaker="UI">Sabotage the Corrupted Forces' food supply at {POITags}</string>
 	<string key="0402_0502_d_02_Task" speaker="UI">Deposit the Bile-Soaked Meat into Gruel Barrels</string>
+	<string key="0402_0502_d_04_Task_Kill" speaker="UI">Defeat Corrupted at {POITags}</string>
 	<string key="0411_0409_a_Title" speaker="UI">Stars as Our Guide</string>
 	<string key="0411_0409_b_Description" speaker="UI">Search chests at Ancient Lookouts Lupus, Norma, and Leo. Report back to William Heron in the Everfall Settlement when your task is complete.</string>
 	<string key="0411_0409_c_start_prompt" speaker="UI - Player Prompt">"Is that a compliment?"</string>
@@ -505,5 +522,7 @@
 	<string key="0411_0414_c_Proposal_next" speaker="William Heron - Everfall" name="WilliamHeron" VO="Stranger_0411_0414_Shattered_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0411_0414_c_Proposal_prompt">The ledger speaks of a Starstone Diadem, apparently an artifact from the Ancient ruling class.\n\nThe power of such a thing would only be surpassed by its value to my research. Recover the Diadem for me, and I will give you its equivalent in exchange.</string>
 	<string key="0411_0414_e_Incomplete" speaker="William Heron - Everfall" name="WilliamHeron" VO="Stranger_0411_0414_Shattered_InProgResponse" VO_Status="Recorded">Oh, the possibilities! We could be unearthing an artifact that helps us fight the Corrupted, or at the very least gives us insight into the Ancients. \n\nPlease, make haste to the Shattered Obelisk so you might obtain this Diadem of power.</string>
 	<string key="0411_0414_f_Complete" speaker="William Heron - Everfall" name="WilliamHeron" VO="Stranger_0411_0414_Shattered_AvailResponse" VO_Status="Recorded">This is truly a momentous find. This Starstone Diadem seems to have denoted an Ancient Guardian of incredibly high ranking, a ruler of some sort! \n\nA regent, perhaps? Oh, I simply must get to studying it further.</string>
+	<string key="0424_0108_YetiRuneTitle" speaker="UI">Winter Warrior</string>
+	<string key="0424_0108_YetiRuneDescritpion" speaker="UI">Place the runestone halves on the altar to summon the Winter Warrior</string>
 </resources>
 

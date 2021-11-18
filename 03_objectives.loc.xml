@@ -298,7 +298,7 @@
 	<string key="0320_0107_Requiem_objective_title" speaker="UI - Journal - Quest  Title" quest_id="0320_0107_Requiem">Requiem for the Lost</string>
 	<string key="0320_0107_Requiem_objective_desc" speaker="UI - Journal - Quest  Description" quest_id="0320_0107_Requiem">Temporary forms made immortal and pinned to the earth in sorrow. The faithless turn their back on the path.</string>
 	<string key="0320_0108_Passepied_objective_title" speaker="UI - Journal - Quest  Title" quest_id="0320_0108_Passepied">Passepied de la Tour</string>
-	<string key="0320_0108_Passepied_objective_desc" speaker="UI - Journal - Quest  Description" quest_id="0320_0108_Passepied">In the heart of the craters, the soul of Aeternum, climb towards the sky. Peak into the mirror and learn the ways of those that defend the tower.</string>
+	<string key="0320_0108_Passepied_objective_desc" speaker="UI - Journal - Quest  Description" quest_id="0320_0108_Passepied">In the heart of the craters, the soul of Aeternum, climb towards the sky. Peek into the mirror and learn the ways of those that defend the tower.</string>
 	<string key="0320_0109_Sonata_objective_title" speaker="UI - Journal - Quest  Title" quest_id="0320_0109_Sonata">Sonata of the Shattered</string>
 	<string key="0320_0109_Sonata_objective_desc" speaker="UI - Journal - Quest  Description" quest_id="0320_0109_Sonata">Dive into the belly of the beast, and the heart of Corruption. Though light may cast out the darkness, it in turn casts a shadow.</string>
 	<string key="0320_0102_d_01_container_Prelude_task_01" comment="POI = &quot;Mangled Heights&quot; (Region)" speaker="UI" quest_id="0320_0102_Prelude">Ascend into the {POITags} in search of Corrupted Wood shards</string>
@@ -310,8 +310,8 @@
 	<string key="0320_0104_d_01_container_Scherzo_task_01" comment="POI = &quot;Eridanus&quot;" speaker="UI" quest_id="0320_0104_Scherzo">Venture to {POITags} to collect Fragrant Incense</string>
 	<string key="0320_0104_d_02_container_Scherzo_task_02" comment="target= Eridanite Greenshaper" speaker="UI" quest_id="0320_0104_Scherzo">Defeat {targetName} for Shaman's Fragrant Incense</string>
 	<string key="0320_0104_d_02_container_Scherzo_task_03" comment="target=Eridanite" speaker="UI" quest_id="0320_0104_Scherzo">Defeat {targetName} Dryads</string>
-	<string key="0320_0105_d_01_container_Shanty_task_01" comment="POI = &quot;Stone Skull Fort&quot;" speaker="UI" quest_id="0320_0105_Shanty">Procure Stone Skull Port Wine from {POITags}</string>
-	<string key="0320_0105_d_02_container_Shanty_task_02" comment="target=Skullworm" speaker="UI" quest_id="0320_0105_Shanty">Collect Stone Skull Port Wine from {targetName} Pirates</string>
+	<string key="0320_0105_d_01_container_Shanty_task_01" comment="POI = &quot;Stone Skull Fort&quot;" speaker="UI" quest_id="0320_0105_Shanty">Procure Stone Skull Port from {POITags}</string>
+	<string key="0320_0105_d_02_container_Shanty_task_02" comment="target=Skullworm" speaker="UI" quest_id="0320_0105_Shanty">Collect Stone Skull Port from {targetName} Pirates</string>
 	<string key="0320_0105_d_02_container_Shanty_task_03" comment="target=Skullworm" speaker="UI" quest_id="0320_0105_Shanty">Defeat {targetName} Pirates</string>
 	<string key="0320_0106_d_01_container_Zarabanda_task_01" comment="POI = &quot;Scorpius&quot;" speaker="UI" quest_id="0320_0106_Zarabanda">Brave {POITags} for a Corrupted Runestone</string>
 	<string key="0320_0106_d_02_container_Zarabanda_task_02" comment="S'ylanx the Unseen" speaker="UI" quest_id="0320_0106_Zarabanda">Defeat {targetName} for his Corrupted Runestone</string>
@@ -527,7 +527,7 @@
 	<string key="0325_0101_RL_04_objective_desc" speaker="UI">Kill Corrupted on the way to gather S'ylanx the Unseen's frozen, twisted heart to make a core for the gauntlet.</string>
 	<string key="0325_0101_RL_05_objective_desc" speaker="UI">Gather Frostforged Grips to make up the hand of the gauntlet from the Corrupted of Caminus.</string>
 	<string key="0325_0101_RL_06_objective_desc" speaker="UI">Gather Everbite Ectoplasm from the wraiths of frigid Periville, their cold everlasting in undeath.</string>
-	<string key="0325_0101_RL_07_objective_desc" speaker="UI">Gather Icy Shot from the Skullworm Pirates of Stoneskull Fort, a special ammunition they keep on them for inflicting maximum pain.</string>
+	<string key="0325_0101_RL_07_objective_desc" speaker="UI">Gather Icy Shot from the Skullworm Pirates of Stone Skull Fort, a special ammunition they keep on them for inflicting maximum pain.</string>
 	<string key="0325_0101_RL_08_objective_desc" speaker="UI">Defeat Dryads and their leader Parthenocissus for his Frostbitten Vine that will wrap around the core of the gauntlet.</string>
 	<string key="0325_0101_RL_start_prompt" speaker="UI – Player Prompt">"You aren't just talking about the weather..."</string>
 	<string key="0325_0101_RL_00_proposal" speaker="Ranger Heatly - Great Cleave" name="RangerHeatley" gender="f" VO="Ranger_0325_0101_RL_00_ProposalResponse" VO_Status="Recorded" dialogue-next="@0325_0101_RL_00_proposal_next">Just think of it, holding the power of a snowstorm in one's hand. \n\nThere's a weapon that allows for this and more, the gauntlet Rimelash. With it you can freeze enemies and shatter their frozen forms.</string>

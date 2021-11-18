@@ -435,11 +435,6 @@
 	<string key="2hWarhammerT3_RecipeName">Steel War Hammer</string>
 	<string key="2hWarhammerT4_RecipeName">Starmetal War Hammer</string>
 	<string key="2hWarhammerT5_RecipeName">Orichalcum War Hammer</string>
-	<string key="1hClubT1_RecipeName">Wood Club</string>
-	<string key="1hClubT2_RecipeName">Iron Mace</string>
-	<string key="1hClubT3_RecipeName">Steel Mace</string>
-	<string key="1hClubT4_RecipeName">Starmetal Mace</string>
-	<string key="1hClubT5_RecipeName">Orichalcum Mace</string>
 	<string key="2hClubT1_RecipeName">Flint Greatclub</string>
 	<string key="2hClubT2_RecipeName">Iron Greathammer</string>
 	<string key="2hClubT3_RecipeName">Steel Greathammer</string>
@@ -488,10 +483,6 @@
 	<string key="2hFishingPoleT4_RecipeName">Ironwood Fishing Pole</string>
 	<string key="2hFishingPoleT5_RecipeName">Wyrdwood Fishing Pole</string>
 	<string key="OhTorchT1_RecipeName">Torch</string>
-	<string key="1hCelestialGauntlet_HealT2_RecipeName">Iron Celestial Gauntlet</string>
-	<string key="1hCelestialGauntlet_HealT3_RecipeName">Steel Celestial Gauntlet</string>
-	<string key="1hCelestialGauntlet_HealT4_RecipeName">Starmetal Celestial Gauntlet</string>
-	<string key="1hCelestialGauntlet_HealT5_RecipeName">Orichalcum Celestial Gauntlet</string>
 	<string key="2hElementalStaff_FireT2_RecipeName">Iron Fire Staff</string>
 	<string key="2hElementalStaff_FireT3_RecipeName">Steel Fire Staff</string>
 	<string key="2hElementalStaff_FireT4_RecipeName">Starmetal Fire Staff</string>
@@ -1287,11 +1278,9 @@
 	<string key="House_Settler_Table02_C_RecipeName">Oak Large Table</string>
 	<string key="House_Settler_Table02_D_RecipeName">Mahogany Large Table</string>
 	<string key="Dye1_RecipeName">Forest Green Dye</string>
-	<string key="Dye2_RecipeName">Grass Green Dye</string>
-	<string key="Dye3_RecipeName">Key Lime Dye</string>
+	<string key="Dye3_RecipeName" rel_version="Entitlements_November">Key Lime Dye</string>
 	<string key="Dye4_RecipeName">Royal Blue Dye</string>
 	<string key="Dye5_RecipeName">Baby Blue Dye</string>
-	<string key="Dye6_RecipeName">Gold Dye</string>
 	<string key="Dye7_RecipeName">Mustard Dye</string>
 	<string key="Dye8_RecipeName">Pale Yellow Dye</string>
 	<string key="Dye9_RecipeName">Sienna Orange Dye</string>
@@ -1308,11 +1297,11 @@
 	<string key="Dye20_RecipeName">War Blue</string>
 	<string key="Dye21_RecipeName">War Red</string>
 	<string key="Dye22_RecipeName">Amazon Orange</string>
-	<string key="Dye23_RecipeName">Twitch Purple</string>
+	<string key="Dye23_RecipeName" rel_version="Entitlements_November">Twitch Purple</string>
 	<string key="Dye24_RecipeName">Black</string>
 	<string key="Dye25_RecipeName">White</string>
 	<string key="Dye26_RecipeName">Red</string>
-	<string key="Dye27_RecipeName">Ship Gray</string>
+	<string key="Dye27_RecipeName" rel_version="Entitlements_November">Ship Gray</string>
 	<string key="Dye28_RecipeName">Frozen Basalt</string>
 	<string key="Dye29_RecipeName">Crumbled Rock Coal</string>
 	<string key="Dye30_RecipeName">Scarpa Flow</string>
@@ -1321,13 +1310,11 @@
 	<string key="Dye33_RecipeName">Murky</string>
 	<string key="Dye34_RecipeName">Natural Gray</string>
 	<string key="Dye35_RecipeName">Gunsmoke</string>
-	<string key="Dye36_RecipeName">Blemished Pearl</string>
 	<string key="Dye37_RecipeName">Sublime Bone</string>
 	<string key="Dye38_RecipeName">Detritus</string>
 	<string key="Dye39_RecipeName">Saddle Brown</string>
 	<string key="Dye40_RecipeName">Tarnished Obsidian</string>
 	<string key="Dye41_RecipeName">Dark Tan</string>
-	<string key="Dye42_RecipeName">Sandalwood</string>
 	<string key="Dye43_RecipeName">Forest Lichen</string>
 	<string key="Dye44_RecipeName">Russet Brown</string>
 	<string key="Dye45_RecipeName">Dust</string>
@@ -1340,7 +1327,6 @@
 	<string key="Dye52_RecipeName">Dazzling Coral</string>
 	<string key="Dye53_RecipeName">Paradise Vermillion</string>
 	<string key="Dye54_RecipeName">Amaranth</string>
-	<string key="Dye55_RecipeName">Rouge</string>
 	<string key="Dye56_RecipeName">Viola</string>
 	<string key="Dye57_RecipeName">Rose Stone</string>
 	<string key="Dye58_RecipeName">Tumbleweed</string>
@@ -1359,37 +1345,32 @@
 	<string key="Dye71_RecipeName">Cinnamon</string>
 	<string key="Dye72_RecipeName">Shadow Moss</string>
 	<string key="Dye73_RecipeName">Buttered Rum</string>
-	<string key="Dye74_RecipeName">Silt</string>
+	<string key="Dye74_RecipeName" rel_version="Entitlements_November">Silt</string>
 	<string key="Dye75_RecipeName">Raw Sienna</string>
 	<string key="Dye76_RecipeName">Delicate Sand</string>
 	<string key="Dye77_RecipeName">Harvest Barley</string>
 	<string key="Dye78_RecipeName">Grit</string>
-	<string key="Dye79_RecipeName">Blond</string>
 	<string key="Dye80_RecipeName">Twine</string>
 	<string key="Dye81_RecipeName">Verdun Green</string>
-	<string key="Dye82_RecipeName">Swamp Graass</string>
+	<string key="Dye82_RecipeName">Swamp Grass</string>
 	<string key="Dye83_RecipeName">Autumn Moss</string>
 	<string key="Dye84_RecipeName">Warm Slime</string>
-	<string key="Dye85_RecipeName">Sushi Green</string>
 	<string key="Dye86_RecipeName">Avocado</string>
 	<string key="Dye87_RecipeName">Tropical Mist</string>
-	<string key="Dye88_RecipeName">Key Lime</string>
+	<string key="Dye88_RecipeName" rel_version="Entitlements_November">Key Lime</string>
 	<string key="Dye89_RecipeName">Forest Green</string>
-	<string key="Dye90_RecipeName">Green Grass</string>
 	<string key="Dye91_RecipeName">Tarnished Jade</string>
 	<string key="Dye92_RecipeName">Pesto</string>
 	<string key="Dye93_RecipeName">Wedgewood</string>
-	<string key="Dye94_RecipeName">Mantis</string>
 	<string key="Dye95_RecipeName">Smokey Malachite</string>
 	<string key="Dye96_RecipeName">Viridian Green</string>
 	<string key="Dye97_RecipeName">Tranquil Willow</string>
 	<string key="Dye98_RecipeName">Deep Sea Green</string>
 	<string key="Dye99_RecipeName">Mineral Green</string>
-	<string key="Dye100_RecipeName">Angelic Satin</string>
 	<string key="Dye101_RecipeName">Castle Aquamarine</string>
 	<string key="Dye102_RecipeName">Soft Cyan</string>
 	<string key="Dye103_RecipeName">Tradewind</string>
-	<string key="Dye104_RecipeName">Hidden Stream</string>
+	<string key="Dye104_RecipeName" rel_version="Entitlements_November">Hidden Stream</string>
 	<string key="Dye105_RecipeName">Pale Cobalt</string>
 	<string key="Dye106_RecipeName">Juniper</string>
 	<string key="Dye107_RecipeName">Starlight</string>
@@ -1397,8 +1378,6 @@
 	<string key="Dye109_RecipeName">Blued Steel</string>
 	<string key="Dye110_RecipeName">Comet</string>
 	<string key="Dye111_RecipeName">Aurora Blue</string>
-	<string key="Dye112_RecipeName">Supreme Sapphire</string>
-	<string key="Dye113_RecipeName">Fierce Cobalt</string>
 	<string key="Dye114_RecipeName">Elderberry</string>
 	<string key="Dye115_RecipeName">Berry Pit</string>
 	<string key="Dye116_RecipeName">Coarse Amethyst</string>
@@ -1406,10 +1385,8 @@
 	<string key="Dye118_RecipeName">Butterfly Wing</string>
 	<string key="Dye119_RecipeName">Sovereign Purple</string>
 	<string key="Dye120_RecipeName">Cool Violet</string>
-	<string key="Dye121_RecipeName">Tranquil Blossom</string>
 	<string key="Dye122_RecipeName">Burnished Lilac</string>
-	<string key="Dye123_RecipeName">Deep Velvet</string>
-	<string key="Dye124_RecipeName">Crushed Berry</string>
+	<string key="Dye123_RecipeName" rel_version="Entitlements_November">Deep Velvet</string>
 	<string key="Dye125_RecipeName">Harsh Violet</string>
 	<string key="Dye126_RecipeName">Putrid Plum</string>
 	<string key="Dye127_RecipeName">Daisy Pink</string>

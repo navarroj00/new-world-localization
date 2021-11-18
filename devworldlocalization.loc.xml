@@ -42,5 +42,14 @@
 	<string key="7405_Artificer_desc">Windsward NPC</string>
 	<string key="7504_Overseer_desc">Windsward NPC</string>
 	<string key="7505_Artificer_desc">Windsward NPC</string>
+	<string key="7400_LoreNoteTest">Object Name</string>
+	<string key="NPC_DefaultDialogue_7400_00_LoreNote">Default Dialogue</string>
+	<string key="7400_LoreNote">Object Name</string>
+	<string key="7506_Spawn">Spawned Guy</string>
+	<string key="7507_Swap">Swapped Guy</string>
+	<string key="NPC_DefaultDialogue_7506_00_Spawn">Welcome to Spawn Town! Would you like to hear a joke?</string>
+	<string key="NPC_Topic_7506_00_Spawn_Prompt">Sure... why not!</string>
+	<string key="NPC_Topic_7506_00_Spawn_Dialogue">Why did the mushroom have so many friends?</string>
+	<string key="NPC_DefaultDialogue_7507_00_Swap">Because I'm a Fun Guy!</string>
 </resources>
 

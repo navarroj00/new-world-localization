@@ -65,7 +65,7 @@
 	<string key="ui_territory_settlement_upgrade_tier_2">Village</string>
 	<string key="ui_territory_settlement_upgrade_tier_3">Town</string>
 	<string key="ui_territory_settlement_upgrade_tier_4">City</string>
-	<string key="ui_territory_settlement_upgrade_tier_5">Capitol</string>
+	<string key="ui_territory_settlement_upgrade_tier_5">Capital</string>
 	<string key="ui_available_buffs">Available Buffs</string>
 	<string key="ui_territory_fort_upgrade_tier_1">Fort</string>
 	<string key="ui_territory_fort_upgrade_tier_2">Bastion</string>
@@ -101,6 +101,8 @@
 	<string key="ui_leaving_settlement_no_inn">Not Checked in</string>
 	<string key="ui_leaving_settlement_inn_elsewhere">You are leaving without checking in to the inn, current inn is at {territoryName} {distance}</string>
 	<string key="ui_cancel_town_project">Cancel This Town Project</string>
+	<string key="ui_cancel_on_cooldown">Can Cancel in {time}</string>
+	<string key="ui_start_on_cooldown">Can Start New Project in {time}</string>
 	<string key="ui_cancel_project_title">Are you sure?</string>
 	<string key="ui_cancel_project_desc">Are you sure you want to cancel this project? The progress made so far will be lost.</string>
 	<string key="ui_replace_project_desc">Warning: Are you sure you want to replace the active project? Progress will be lost for the active project of this type.</string>
@@ -180,6 +182,7 @@
 	<string key="ui_encounter_signupbutton_war">Sign up at a war board</string>
 	<string key="ui_encounter_signupDesc_war">Sign up for this war at\n&lt;font color='#f1ede2'&gt;a War board&lt;/font&gt; in this town.</string>
 	<string key="ui_encounter_signupDesc_invasion">Sign up for this invasion at\n&lt;font color='#f1ede2'&gt;a War board&lt;/font&gt; in this town.</string>
+	<string key="ui_encounter_signupDesc_invasion_minlevel">&lt;font color="#ff6363"&gt;Minimum level: {level}&lt;/font&gt;</string>
 	<string key="ui_encounter_signupbutton_invasion">Sign up at a war board</string>
 	<string key="ui_encounter_viewstatusbutton_war">View Army</string>
 	<string key="ui_encounter_viewstatusbutton_invasion">View Army</string>
@@ -532,7 +535,7 @@
 	<string key="ui_no_project_active">There is no active town project.\n&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;The governing company needs to start a new town project!&lt;/font&gt;</string>
 	<string key="ui_view_current_goal">View Current Goal</string>
 	<string key="ui_governorsdesk">Governor's Desk</string>
-	<string key="ui_governorsdesk_desc">The governoring company can set tax rates for this territory and pay upkeeps here.</string>
+	<string key="ui_governorsdesk_desc">The governing company can set tax rates for this territory and pay upkeep here.</string>
 	<string key="ui_upkeep_tooltip">If the governing company doesn't pay the upkeep on time, &lt;font color="#e8a015"&gt;a random part of this territory will get downgraded.&lt;/font&gt;</string>
 	<string key="ui_payroll_title">Company Payroll Statement</string>
 	<string key="ui_payroll_tooltip">The governing company earns coin from taxes and fees.</string>
@@ -573,11 +576,12 @@
 	<string key="ui_town_project_allCompleted">100% &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Completed&lt;/font&gt;</string>
 	<string key="ui_territory_standing_no_bonuses">You don't have any bonuses in {territory}.</string>
 	<string key="ui_territory_standing_upgrade_description_generic">Gain SOME ABILITY in {territory}.</string>
-	<string key="ui_territory_standing_upgrade_description_increase_stat">Increase &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt; by &lt;font color='#e1ddd4'&gt;{value}&lt;/font&gt; in {territory}.</string>
-	<string key="ui_territory_standing_upgrade_description_increase_rate">Earn &lt;font color='#e1ddd4'&gt;{value}&lt;/font&gt; more &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt; while in {territory}.</string>
-	<string key="ui_territory_standing_upgrade_description_increase_stat_no_territory">Increase &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt; by &lt;font color='#e1ddd4'&gt;{value}&lt;/font&gt;.</string>
-	<string key="ui_territory_standing_upgrade_description_decrease_stat">Decrease &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt; by &lt;font color='#e1ddd4'&gt;{value}&lt;/font&gt; in {territory}.</string>
+	<string key="ui_territory_standing_upgrade_description_increase_stat">Increase &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt; in {territory}.</string>
+	<string key="ui_territory_standing_upgrade_description_increase_rate">Earn more &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt; while in {territory}.</string>
+	<string key="ui_territory_standing_upgrade_description_increase_stat_no_territory">Increase &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt;.</string>
+	<string key="ui_territory_standing_upgrade_description_decrease_stat">Decrease &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt; in {territory}.</string>
 	<string key="ui_territory_standing_upgrade_description_own_house">You can own a house in {territory}.</string>
+	<string key="ui_territory_standing_upgrade_value">&lt;font color='#e1ddd4'&gt; ({current}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/arrow_right" xPadding="8" scale="0.8" yOffset="-0.4"&gt;&lt;/img&gt;&lt;font color='#e1ddd4'&gt;{value})&lt;/font&gt;</string>
 	<string key="ui_territory_standing_upgrade_category_generic">Some Category</string>
 	<string key="ui_territory_standing_upgrade_category_reputation">Faction Tokens</string>
 	<string key="ui_territory_standing_upgrade_category_housepoint">House Items</string>
@@ -635,6 +639,7 @@
 	<string key="ui_new_mission">A new mission will be\navailable soon</string>
 	<string key="ui_mission_canceled">Mission canceled</string>
 	<string key="ui_territory_influence">Territory Influence</string>
+	<string key="ui_territory_governed_by_label">This Territory is Governed by</string>
 	<string key="ui_AlwaysAvailableProjectId">Town Upkeep</string>
 	<string key="lifestyle_title_LumberJackSpiritProjectId">Activate Lumberjack's Spirit</string>
 	<string key="lifestyle_title_MinersResolveProjectId">Activate Miner's Resolve</string>

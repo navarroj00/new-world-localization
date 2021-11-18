@@ -94,7 +94,7 @@
 	<string key="ui_town_project_expired_chat">Town Project '{title}' expired in Territory {territory}.</string>
 	<string key="ui_town_project_cancelled_chat">Town Project '{title}' is cancelled in {territory}.</string>
 	<string key="ui_town_project_completed_chat">Town Project '{title}' is completed in {territory}.</string>
-	<string key="ui_territory_downgraded_chat">{structure} was downgraded in {territoryName}.</string>
+	<string key="ui_territory_downgraded_chat">{structure} downgraded in {territoryName}.</string>
 	<string key="ui_territory_downgraded_banner">{territoryName}:\n{structure} downgraded.</string>
 	<string key="ui_trade_skill_level">{name} increased to {level}!</string>
 	<string key="ui_war_declared_on_territory">War Declared on {territory}\nYour company now has {time} to also declare war</string>

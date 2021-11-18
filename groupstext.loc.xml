@@ -52,6 +52,7 @@
 	<string key="ui_cannotinviteinraid" comment="">You cannot invite someone during War.</string>
 	<string key="ui_cannotinvitein_pvp_wrong_faction" comment="">Must be in same faction for PvP group.</string>
 	<string key="ui_cannotleavegroup_in_arena" comment="">You cannot leave your group while in an Arena.</string>
+	<string key="ui_cannotleavegroup_in_war" comment="">You cannot leave your group while in a War.</string>
 	<string key="ui_cannotleavegroup_in_dungeon" comment="">You cannot leave your group while in an Expedition.</string>
 	<string key="ui_cannotjoingroup_in_arena" comment="">You cannot join a different group while in an Arena.</string>
 	<string key="ui_cannotjoingroup_in_dungeon" comment="">You cannot join a different group while in an Expedition.</string>
@@ -73,6 +74,7 @@
 	<string key="ui_fromplayerjoinedgrouperrormessage" comment="">Invite Removed: {playerName} joined another group</string>
 	<string key="ui_toplayerjoinedgrouperrormessage" comment="">Invite Failed: {playerName} joined another group</string>
 	<string key="ui_grouptoplayerisinftueerrormessage" comment="">{playerName} cannot receive invites at this time.</string>
+	<string key="ui_grouptoplayerisinstreamermodeerrormessage" comment="">{playerName} is in do not disturb mode.</string>
 	<string key="ui_groupinvitetimedouterrormessage" comment="">{playerName}&apos;s group invite timed out.</string>
 	<string key="ui_groupinvitetimedoutraid" comment="">Group invite timed out.</string>
 	<string key="ui_invitetogroup" comment="">Invite to Group</string>

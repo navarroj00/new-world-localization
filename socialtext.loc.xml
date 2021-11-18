@@ -45,6 +45,7 @@
 	<string key="ui_enter_recipient">Enter Player Name</string>
 	<string key="ui_error_whisper_block">Unblock / unmute recipient to send whisper</string>
 	<string key="ui_error_whisper_no_recipient">Unable to find whisper recipient</string>
+	<string key="ui_error_whisper_streamermodeblock" comment="Sent whisper to a player with streamer mode enabled">Message not sent. {playerName} has do not disturb mode enabled.</string>
 	<string key="ui_invalidguildname">Invalid Company Name</string>
 	<string key="ui_guildname_invalid_characters">Unable to change company name - contains invalid characters</string>
 	<string key="ui_guildname_too_long">Unable to change company name - invalid length</string>
@@ -147,6 +148,7 @@
 	<string key="ui_p2ptrading_failmessage_target_event">{playerName} is in a war/invasion/boss fight.</string>
 	<string key="ui_p2ptrading_failmessage_target_level">{playerName} is not level {level}.</string>
 	<string key="ui_p2ptrading_failmessage_target_generic">{playerName} cannot receive Trade invitations right now.</string>
+	<string key="ui_p2ptrading_failmessage_throttled">You can not send a Trade invite right now. Please wait and try again.</string>
 	<string key="ui_p2ptrading_failmessage_additem_maximum">Maximum number of items exceeded.</string>
 	<string key="ui_p2ptrading_failmessage_additem_restricted">This item not tradable.</string>
 	<string key="ui_p2ptrading_failmessage_additem_bound">This item is bound to you and cannot be traded.</string>
@@ -155,6 +157,7 @@
 	<string key="ui_p2ptrading_failmessage_offerupdate_maxitemsexceeded">Maximum number of items exceeded.</string>
 	<string key="ui_p2ptrading_failmessage_offerupdate_invalidcoinamount">Invalid coin amount.</string>
 	<string key="ui_p2ptrading_failmessage_offerupdate_tradealreadyconfirmed">Trade has already been confirmed.</string>
+	<string key="ui_p2ptrading_failmessage_offerupdate_cannotreceiveitems">Inventory full - cannot receive current offered items.</string>
 	<string key="ui_p2ptrading_failmessage_tradeconfirmation_bothplayersnotlockedin">Both players have not locked in.</string>
 	<string key="ui_p2ptrading_failmessage_tradeconfirmation_confirmedtoosoon">Trade has been confirmed too soon.</string>
 	<string key="ui_p2ptrading_failmessage_transactionfailure_bothplayersnotconfirmed">Both players have not confirmed the trade.</string>
@@ -162,10 +165,16 @@
 	<string key="ui_p2ptrading_failmessage_transactionfailure_failedtoremoveitemsorcoin">Failed to remove items or coin.</string>
 	<string key="ui_p2ptrading_failmessage_transactionfailure_transactionaborted">Transaction aborted.</string>
 	<string key="ui_p2ptrading_failmessage_transactionfailure_tradecanceled">Trade canceled.</string>
+	<string key="ui_p2ptrading_failmessage_playersoutofrange">Player no longer in range.</string>
 	<string key="ui_p2ptrading_failmessage_somethingwentwrong">Something went wrong.</string>
 	<string key="ui_p2ptrading_failmessage_atmaxcurrency">One or more players will exceed coin cap.</string>
 	<string key="ui_p2ptrading_failmessage_dont_meet_requirements">You must be level 10 and have an account older than 3 days to trade things away.</string>
 	<string key="ui_p2ptrading_trade_completed">Trade completed.</string>
+	<string key="ui_p2ptrading_overflow_title">Inventory Full</string>
+	<string key="ui_p2ptrading_overflow_message">Some of the items you received didn't fit in your inventory and were dropped on the ground.</string>
+	<string key="ui_p2ptrading_inventory_full_warning">Your inventory is full or close to full.\nYou may not be able to accept incoming items.</string>
+	<string key="ui_failmessage_economylocked">Your account has been restricted and you cannot trade at this time.</string>
+	<string key="ui_failmessage_othereconomylocked">This player can't receive items or coin at this time.</string>
 	<string key="ui_invite_to_group">Invite to Group</string>
 	<string key="ui_invite_to_guild">Invite to Company</string>
 	<string key="ui_acceptfriendinvite">Accept Friend Invite</string>

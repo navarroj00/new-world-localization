@@ -6,7 +6,7 @@
 	<string key="0204_0101_UndyingAppetite_proposal_next" speaker="Head Cleric Pennyfather" name="HeadClericPennyfather" gender="F" quest_id="0204_0101_UndyingAppetite" VO="Overseer_0204_0101_UndyingAppetite_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0204_0101_UndyingAppetite_proposal_prompt">Perhaps. Herbalist Lau came here within the last decade, and she believes the land itself may be cursed.\n\nIf you can gather her soil samples from some of the northern towns, she can test her theory. It would be most appreciated.</string>
 	<string key="0204_0101_UndyingAppetite_description" speaker="UI - Journal - Quest  Description" quest_id="0204_0101_UndyingAppetite">Search the old farms in north Brightwood for evidence of what may have caused the land to become cursed. Talk to Herbalist Lau in the Brightwood Settlement when the task is complete.</string>
 	<string key="0204_0101_UndyingAppetite_incomplete" speaker="Head Cleric Pennyfather" gender="M" quest_id="0204_0101_UndyingAppetite">Be wary of the Lost wandering around among those old farms. They can be quite dangerous in numbers.</string>
-	<string key="0204_0101_UndyingAppetite_complete" speaker="Herbalist Lau - Brightwood" gender="M" quest_id="0204_0101_UndyingAppetite" VO="Overseer_0204_0101_UndyingAppetite_AvailResponse" VO_Status="Recorded" dialogue-next="@0204_0101_UndyingAppetite_complete_next">Oh, hi there! Are you the one the Head Cleric sent out to collect soil samples from the northern townships?\n\nAh, perfect. Thank you! I'm Herbalist Lau, and you are?</string>
+	<string key="0204_0101_UndyingAppetite_complete" speaker="Herbalist Lau - Brightwood" name="HerbalistLau" gender="M" quest_id="0204_0101_UndyingAppetite" VO="Overseer_0204_0101_UndyingAppetite_AvailResponse" VO_Status="Recorded" dialogue-next="@0204_0101_UndyingAppetite_complete_next">Oh, hi there! Are you the one the Head Cleric sent out to collect soil samples from the northern townships?\n\nAh, perfect. Thank you! I'm Herbalist Lau, and you are?</string>
 	<string key="0204_0101_UndyingAppetite_complete_prompt" speaker="UI - Player Prompt">"I'm {playerName}."</string>
 	<string key="0204_0101_UndyingAppetite_complete_next" speaker="Herbalist Lau - Brightwood" name="HerbalistLau" gender="M" quest_id="0204_0101_UndyingAppetite" VO="Overseer_0204_0101_UndyingAppetite_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@0204_0101_UndyingAppetite_complete_prompt">Yes, let's see - you found these bone fragments in the ground there?\n\nNot entirely surprising around this old territory, but these other items... I wonder.</string>
 	<string key="0204_0101_d_01_Task_Goto" speaker="UI" quest_id="0204_0101_UndyingAppetite">Collect Soil Samples from {POITags}</string>
@@ -22,7 +22,7 @@
 	<string key="0202_0101_BlindingLight_proposal_prompt2" speaker="UI - Player Prompt">"I'm {playerName} and yes, I'll help."</string>
 	<string key="0202_0101_BlindingLight_proposal_next2" speaker="Justiciar Farrell - Brightwood" name="JusticiarFarrell" gender="F" quest_id="0202_0101_BlindingLight" VO="Magistrate_0202_0101_BlindingLight_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@0202_0101_BlindingLight_proposal_prompt2">Perfect. First thing we need is the tools the Inquisitors had at their disposal.\n\nInquisitor Lucia was the bane of the soulless... until she lost her own. Destroy her and reclaim her tools. She'd want it this way.</string>
 	<string key="0202_0101_BlindingLight_description" speaker="UI - Journal - Quest  Description" quest_id="0202_0101_BlindingLight">Destroy the feared Inquisitor Lucia and recover her tools. Talk to Justiciar Farrell in the Brightwood Settlement when the task is complete.</string>
-	<string key="0202_0101_BlindingLight_incomplete" speaker="Justiciar Farrell - Brightwood" name="JusticiarFarrell" gender="F" quest_id="0202_0101_BlindingLight" VO="Magistrate_0202_0101_BlindingLight_InProgResponse" VO_Status="Recorded">Inquisitor Lucia's talent for purging the soulless made her particularly dangerous when she became Lost.\n\nI'd exercise extreme caution.</string>
+	<string key="0202_0101_BlindingLight_incomplete" speaker="Justiciar Farrell - Brightwood" name="JusticiarFarrell" gender="F" quest_id="0202_0101_BlindingLight">Inquisitor Lucia's talent for purging the soulless made her particularly dangerous when she became Lost.\n\nI'd exercise extreme caution.</string>
 	<string key="0202_0101_BlindingLight_complete" speaker="Justiciar Farrell - Brightwood" name="JusticiarFarrell" gender="F" quest_id="0202_0101_BlindingLight" VO="Magistrate_0202_0101_BlindingLight_AvailResponse" VO_Status="Recorded">Look at this - the legendary Inquisitor Lucia is down and you've recovered the tools of her trade.\n\nThese implements will help us in our campaign, {playerName}. You've done well.</string>
 	<string key="0202_0101_d_01_Task_Goto" speaker="UI" quest_id="0202_0101_BlindingLight">Search for Inquisitor Lucia at {POITags}</string>
 	<string key="0202_0101_d_02_Task_Fetch" speaker="UI" quest_id="0202_0101_BlindingLight">Collect {itemName} at {POITags}</string>
@@ -123,12 +123,12 @@
 	<string key="0204_0103_IsleofMadness_proposal" speaker="Head Cleric Pennyfather" name="HeadClericPennyfather" gender="M" quest_id="0204_0103_IsleofMadness" VO="Overseer_0204_0103_IsleofMadness_ProposalResponse" VO_Status="Recorded" dialogue-next="@0204_0103_IsleofMadness_proposal_next">Azoth. Don't you see? By grinding up the bones of the Lost and perhaps even others, they sowed the earth with azoth.\n\nIt helped their crops, but at what cost? Think of the suffering it caused - of course the land is cursed.</string>
 	<string key="0204_0103_IsleofMadness_proposal_prompt" speaker="UI - Player Prompt">"Is there anything we can do?"</string>
 	<string key="0204_0103_IsleofMadness_proposal_next" speaker="Head Cleric Pennyfather" name="HeadClericPennyfather" gender="M" quest_id="0204_0103_IsleofMadness" VO="Overseer_0204_0103_IsleofMadness_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0204_0103_IsleofMadness_proposal_prompt">The earliest humans here were governed from Brightwood Isle, by… a name of Archminister Havelock.\n\nThe isle is a bad place, but perhaps by destroying Havelock and studying his scrolls, we might earn some redemption for Brightwood.</string>
-	<string key="0204_0103_IsleofMadness_description" speaker="UI - Journal - Quest  Description" quest_id="0204_0103_IsleofMadness">Destroy Archminster Havelock on Brightwood Isle and collect his writings. Talk to Head Cleric Pennyfather in the Brightwood Settlement when the task is done.</string>
+	<string key="0204_0103_IsleofMadness_description" speaker="UI - Journal - Quest  Description" quest_id="0204_0103_IsleofMadness">Destroy Archminister Havelock on Brightwood Isle and collect his writings. Talk to Head Cleric Pennyfather in the Brightwood Settlement when the task is done.</string>
 	<string key="0204_0103_IsleofMadness_incomplete" speaker="Head Cleric Pennyfather" gender="M" quest_id="0204_0103_IsleofMadness">Brightwood Isle is a source of terrible darkness in the center of Lake Genevieve. \n\nGo there if you dare to face Archminister Havelock, but I fear for your safety.</string>
 	<string key="0204_0103_IsleofMadness_complete" speaker="Head Cleric Pennyfather" name="HeadClericPennyfather" gender="M" quest_id="0204_0103_IsleofMadness" VO="Overseer_0204_0103_IsleofMadness_AvailResponse" VO_Status="Recorded" dialogue-next="@0204_0103_IsleofMadness_complete_next">Strange, the moment you did the deed, I sensed it. I think we all did, though some might not have realized it.\n\nBut I do believe Havelock's fall may have restored some long-lost light to these lands.</string>
 	<string key="0204_0103_IsleofMadness_complete_prompt" speaker="UI - Player Prompt">"Is that everything then?"</string>
 	<string key="0204_0103_IsleofMadness_complete_next" speaker="Head Cleric Pennyfather" name="HeadClericPennyfather" gender="M" quest_id="0204_0103_IsleofMadness" VO="Overseer_0204_0103_IsleofMadness_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@0204_0103_IsleofMadness_complete_prompt">It's never everything on Aeternum, is it? This is a drama without end.\n\nI will study Havelock's writing, though I can see it's mostly madness. No, not everything, but I think Havelock's legacy is finally gone.</string>
-	<string key="0204_0103_d_01_Task_Goto" speaker="UI" quest_id="0204_0103_IsleofMadness">Journey to {POITags} and Destroy Archminster Havelock</string>
+	<string key="0204_0103_d_01_Task_Goto" speaker="UI" quest_id="0204_0103_IsleofMadness">Journey to {POITags} and Destroy Archminister Havelock</string>
 	<string key="0204_0103_d_02_Task_Fetch" speaker="UI" quest_id="0204_0103_IsleofMadness">Collect {itemName} from chests at {POITags}</string>
 	<string key="0204_0103_d_03_Task_Kill" comment="The Alchemist" speaker="UI" quest_id="0204_0103_IsleofMadness">Destroy {targetName}</string>
 	<string key="0204_0103_d_04_Task_KillToken" speaker="UI" quest_id="0204_0103_IsleofMadness">Defeat Alchemical Enemies and collect {itemName}s</string>
@@ -153,22 +153,22 @@
 	<string key="0230_0201_bellyofcorrupted_title" speaker="UI - Quest Title">Belly of the Corrupted</string>
 	<string key="0230_0201_bellyofcorrupted_description" speaker="UI - Quest Description">Sabotage the food supply chain for the Corrupted at Reida's Burrow. Talk to Ranger Shui Tijong in Brightwood when the task is done.</string>
 	<string key="0230_0201_bellyofcorrupted_start_prompt" speaker="UI - Player Prompt">"We can't allow that."</string>
-	<string key="0230_0201_bellyofcorrupted_proposal" speaker="Ranger Shui Tijong - Brightwood" dialogue-next="@0230_0201_bellyofcorrupted_proposal_next">My thoughts exactly - we can warn the settlement later.  We must strike hard and fast.\n\nI have been watching the Corrupted forces' movements since they arrived.</string>
+	<string key="0230_0201_bellyofcorrupted_proposal" speaker="Ranger Shui Tijong - Brightwood" name="ShuiTijong" VO_Status="Needs Recording" dialogue-next="@0230_0201_bellyofcorrupted_proposal_next">My thoughts exactly - we can warn the settlement later.  We must strike hard and fast.\n\nI have been watching the Corrupted forces' movements since they arrived.</string>
 	<string key="0230_0201_bellyofcorrupted_proposal_prompt" speaker="UI - Player Prompt">"Have you seen any patterns?"</string>
-	<string key="0230_0201_bellyofcorrupted_proposal_next" speaker="Ranger Shui Tijong - Brightwood" dialogue-prompt="@0230_0201_bellyofcorrupted_proposal_prompt">Yes. They seized this area to use it as a critical part of their supply chain for food and weapons.\n\nAn army marches on its belly, so let's strike their food supplies first, and destroy their hunters.</string>
-	<string key="0230_0201_bellyofcorrupted_incomplete" speaker="Ranger Shui Tijong - Brightwood">If we destroy the hunters and claim all their ration, the Corrupted forces' supply lines will be in dire straits.</string>
-	<string key="0230_0201_bellyofcorrupted_complete" speaker="Ranger Shui Tijong - Brightwood">Well done, friend. With their rations stolen and their hunters compromised, the Corrupted will be hungry.\n\nHungry soldiers are desparate soldiers and desparate soldiers are sloppy.</string>
+	<string key="0230_0201_bellyofcorrupted_proposal_next" speaker="Ranger Shui Tijong - Brightwood" name="ShuiTijong" VO_Status="Needs Recording" dialogue-prompt="@0230_0201_bellyofcorrupted_proposal_prompt">Yes. They seized this area to use it as a critical part of their supply chain for food and weapons.\n\nAn army marches on its belly, so let's strike their food supplies first, and destroy their hunters.</string>
+	<string key="0230_0201_bellyofcorrupted_incomplete" speaker="Ranger Shui Tijong - Brightwood" name="ShuiTijong" VO_Status="Needs Recording">If we destroy the hunters and claim all their ration, the Corrupted forces' supply lines will be in dire straits.</string>
+	<string key="0230_0201_bellyofcorrupted_complete" speaker="Ranger Shui Tijong - Brightwood" name="ShuiTijong" VO_Status="Needs Recording">Well done, friend. With their rations stolen and their hunters compromised, the Corrupted will be hungry.\n\nHungry soldiers are desparate soldiers and desparate soldiers are sloppy.</string>
 	<string key="0230_0201_goto" speaker="UI">Sabotage the Corrupted Supply Chain at {POITags}</string>
 	<string key="0230_0201_kill_hunters" speaker="UI">Defeat {targetName}</string>
 	<string key="0230_0201_loot_butcher" speaker="UI">Collect {itemName} from {targetName}</string>
 	<string key="0230_0202_infernalarmaments_title" speaker="UI - Quest Title">Infernal Armaments</string>
 	<string key="0230_0202_infernalarmaments_description" speaker="UI - Quest Description">Assault the Corrupted Forces' weapon-making operations at the Iron Fields. Talk to Ranger Shui Tijong in Brightwood when the task is complete.</string>
 	<string key="0230_0202_infernalarmaments_start_prompt" speaker="UI - Player Prompt">"That seems to work."</string>
-	<string key="0230_0202_infernalarmaments_proposal" speaker="Ranger Shui Tijong - Brightwood" dialogue-next="@0230_0202_infernalarmaments_proposal_next">The main thrust of the Corrupted operations here is the mission to supply their forces with armaments.\n\nThey have a start-to-finish process under way, mining the ore and forging the weapons.</string>
+	<string key="0230_0202_infernalarmaments_proposal" speaker="Ranger Shui Tijong - Brightwood" name="ShuiTijong" VO_Status="Needs Recording" dialogue-next="@0230_0202_infernalarmaments_proposal_next">The main thrust of the Corrupted operations here is the mission to supply their forces with armaments.\n\nThey have a start-to-finish process under way, mining the ore and forging the weapons.</string>
 	<string key="0230_0202_infernalarmaments_proposal_prompt" speaker="UI - Player Prompt">"Where are they most vulnerable?"</string>
-	<string key="0230_0202_infernalarmaments_proposal_next" speaker="Ranger Shui Tijong - Brightwood" dialogue-prompt="@0230_0202_infernalarmaments_proposal_prompt">The core of the operation is here in the mines, but it is well-defended.\n\nI suggest you target the Iron Fields to the north; that is where they are stockpiling weapons. Good luck.</string>
-	<string key="0230_0202_infernalarmaments_incomplete" speaker="Ranger Shui Tijong - Brightwood">The Iron Fields is where the Corrupted forces' weaponmaking operations is most vulnerable.\n\nStrike there and they will not soon recover.</string>
-	<string key="0230_0202_infernalarmaments_complete" speaker="Ranger Shui Tijong - Brightwood">Did you manage to get the weapons? Excellent, excellent. Let me see...\n\nThese are… very well-made weapons for the Corrupted. How… oh no, it can't be! Master Smith McCoy?</string>
+	<string key="0230_0202_infernalarmaments_proposal_next" speaker="Ranger Shui Tijong - Brightwood" name="ShuiTijong" VO_Status="Needs Recording" dialogue-prompt="@0230_0202_infernalarmaments_proposal_prompt">The core of the operation is here in the mines, but it is well-defended.\n\nI suggest you target the Iron Fields to the north; that is where they are stockpiling weapons. Good luck.</string>
+	<string key="0230_0202_infernalarmaments_incomplete" speaker="Ranger Shui Tijong - Brightwood" name="ShuiTijong" VO_Status="Needs Recording">The Iron Fields is where the Corrupted forces' weaponmaking operations is most vulnerable.\n\nStrike there and they will not soon recover.</string>
+	<string key="0230_0202_infernalarmaments_complete" speaker="Ranger Shui Tijong - Brightwood" name="ShuiTijong" VO_Status="Needs Recording">Did you manage to get the weapons? Excellent, excellent. Let me see...\n\nThese are… very well-made weapons for the Corrupted. How… oh no, it can't be! Master Smith McCoy?</string>
 	<string key="0230_0202_goto" speaker="UI">Steal Corrupted Weapons from {POITags}</string>
 	<string key="0230_0202_kill_mercs" speaker="UI">Defeat {targetName}</string>
 	<string key="0230_0202_kill_miners" speaker="UI">Defeat {targetName}</string>
@@ -176,164 +176,164 @@
 	<string key="0230_0203_blacksmithbetrayer_title" speaker="UI - Quest Title">Blacksmith Betrayer</string>
 	<string key="0230_0203_blacksmithbetrayer_description" speaker="UI - Quest Description">Destroy Master Smith McCoy who's running Corlew's Mining Operations, and reclaim McCoy's Weapon Designs. Talk to Ranger Shui Tijong in Brightwood when the task is done.</string>
 	<string key="0230_0203_blacksmithbetrayer_start_prompt" speaker="UI - Player Prompt">"Do you know where he is?"</string>
-	<string key="0230_0203_blacksmithbetrayer_proposal" speaker="Ranger Shui Tijong - Brightwood" dialogue-next="@0230_0203_blacksmithbetrayer_proposal_next">There can be no doubt - McCoy is the one leading this operation in Corlew's Mine.\n\nI fear with him in charge, our efforts will prove to have been only a minor setback for the Corrupted.</string>
-	<string key="0230_0203_blacksmithbetrayer_proposal_prompt">"Then let's take out McCoy."</string>
-	<string key="0230_0203_blacksmithbetrayer_proposal_next" speaker="Ranger Shui Tijong - Brightwood" dialogue-prompt="@0230_0203_blacksmithbetrayer_proposal_prompt">A direct assault on Corlew's mine? You are a brave soul, my friend, though perhaps a little insane.\n\nVery well, then. Take out Master Smith McCoy and make sure to reclaim any of his designs. Be careful.</string>
-	<string key="0230_0203_blacksmithbetrayer_incomplete" speaker="Ranger Shui Tijong - Brightwood">Though I worry about what resistance you meet fighting your way in, I have to admit, taking out Master Smith McCoy quickly does seem wise.</string>
-	<string key="0230_0203_blacksmithbetrayer_complete" speaker="Ranger Shui Tijong - Brightwood">Is McCoy down then? Ah, and his designs? Excellent! This will disrupt the Corrupted's supply chain.\n\nI salute your courage, Warrior, and your valor. There are few who could do what you have done.</string>
+	<string key="0230_0203_blacksmithbetrayer_proposal" speaker="Ranger Shui Tijong - Brightwood" name="ShuiTijong" VO_Status="Needs Recording" dialogue-next="@0230_0203_blacksmithbetrayer_proposal_next">There can be no doubt - McCoy is the one leading this operation in Corlew's Mine.\n\nI fear with him in charge, our efforts will prove to have been only a minor setback for the Corrupted.</string>
+	<string key="0230_0203_blacksmithbetrayer_proposal_prompt" speaker="UI - Player Prompt">"Then let's take out McCoy."</string>
+	<string key="0230_0203_blacksmithbetrayer_proposal_next" speaker="Ranger Shui Tijong - Brightwood" name="ShuiTijong" VO_Status="Needs Recording" dialogue-prompt="@0230_0203_blacksmithbetrayer_proposal_prompt">A direct assault on Corlew's mine? You are a brave soul, my friend, though perhaps a little insane.\n\nVery well, then. Take out Master Smith McCoy and make sure to reclaim any of his designs. Be careful.</string>
+	<string key="0230_0203_blacksmithbetrayer_incomplete" speaker="Ranger Shui Tijong - Brightwood" name="ShuiTijong" VO_Status="Needs Recording">Though I worry about what resistance you meet fighting your way in, I have to admit, taking out Master Smith McCoy quickly does seem wise.</string>
+	<string key="0230_0203_blacksmithbetrayer_complete" speaker="Ranger Shui Tijong - Brightwood" name="ShuiTijong" VO_Status="Needs Recording">Is McCoy down then? Ah, and his designs? Excellent! This will disrupt the Corrupted's supply chain.\n\nI salute your courage, Warrior, and your valor. There are few who could do what you have done.</string>
 	<string key="0230_0203_goto" speaker="UI">Sabotage Master Smith McCoy's Operation at {POITags}</string>
 	<string key="0230_0203_loot_chests" speaker="UI">Reclaim {itemName} from chests in {POITags}</string>
 	<string key="0230_0203_kill_mccoy" speaker="UI">Destroy {targetName} to disrupt the Corrupted's weapon supply</string>
-	<string key="0231_0201_placeEasel1">Scout Northern Greyvale for a waterfall</string>
-	<string key="0231_0201_placeEasel2">Scout South of Greyvale for a waterfall</string>
-	<string key="0231_0201_placeEasel3">Scout North of Lake Genevieve for a waterfall</string>
+	<string key="0231_0201_placeEasel1" speaker="UI - Tracker Text">Scout Northern Greyvale for a waterfall</string>
+	<string key="0231_0201_placeEasel2" speaker="UI - Tracker Text">Scout South of Greyvale for a waterfall</string>
+	<string key="0231_0201_placeEasel3" speaker="UI - Tracker Text">Scout North of Lake Genevieve for a waterfall</string>
 	<string key="0231_0201_locationscout_title" speaker="UI">Location Scout</string>
-	<string key="0231_0201_locationscout_description">Search for vibrant waterfalls for Wolcott to paint and place an easel at each one. Talk to Painter Wolcott in Brightwood when the task is done.</string>
-	<string key="0231_0201_locationscout_start_prompt">"You don’t have time?"</string>
-	<string key="0231_0201_locationscout_proposal" dialogue-next="@0231_0201_locationscout_proposal_next">Sadly, I don’t have time to both find all the beautiful locations and paint them. Searching cannot be rushed, and it takes me so long to get my paints arranged just how I like them. \n\nBut perhaps you could help!</string>
-	<string key="0231_0201_locationscout_proposal_prompt">"What do you mean?</string>
-	<string key="0231_0201_locationscout_proposal_next" dialogue-prompt="@0231_0201_locationscout_proposal_prompt">You could go and find the most beautiful locations for me to paint. \n\nYou will save me a lot of time if you set up an easel at each waterfall you find, then come back and tell me about them. It will be perfect!</string>
-	<string key="0231_0201_locationscout_incomplete">I need some inspiration, something that jumps out of the landscape and onto a canvas! \n\nGo on, I'm counting on you to find it!</string>
-	<string key="0231_0201_locationscout_complete" dialogue-next="@0231_0201_locationscout_complete_next">Marvelous! The rushing water, the way the sunlight glints through the trees. Yes, yes! I can work with this.</string>
-	<string key="0231_0201_locationscout_complete_prompt">"What will you do now?"</string>
-	<string key="0231_0201_locationscout_complete_next" dialogue-prompt="@0231_0201_locationscout_complete_prompt">Now that you’ve marked these locations in my map, I have to get my paints in order. \n\nIt wouldn't do to get all ready to start, only to be missing the correct shade of blue.</string>
-	<string key="0231_0202_placeEasel1">Scout Southern Greyvale for a waterfall</string>
-	<string key="0231_0202_placeEasel2">Scout Northern Greyvale for a waterfall</string>
-	<string key="0231_0202_placeEasel3">Scout Western Greyvale for a waterfall</string>
-	<string key="0231_0202_eyeforreflection_title">Eye for Reflection</string>
+	<string key="0231_0201_locationscout_description" speaker="UI - Quest Description">Search for vibrant waterfalls for Wolcott to paint and place an easel at each one. Talk to Painter Wolcott in Brightwood when the task is done.</string>
+	<string key="0231_0201_locationscout_start_prompt" speaker="UI - Player Prompt">"You don’t have time?"</string>
+	<string key="0231_0201_locationscout_proposal" speaker="Painter Pietr Wolcott - Brightwood" name="PietrWolcott" VO_Status="Needs Recording" dialogue-next="@0231_0201_locationscout_proposal_next">Sadly, I don’t have time to both find all the beautiful locations and paint them. Searching cannot be rushed, and it takes me so long to get my paints arranged just how I like them. \n\nBut perhaps you could help!</string>
+	<string key="0231_0201_locationscout_proposal_prompt" speaker="UI - Player Prompt">"What do you mean?</string>
+	<string key="0231_0201_locationscout_proposal_next" speaker="Painter Pietr Wolcott - Brightwood" name="PietrWolcott" VO_Status="Needs Recording" dialogue-prompt="@0231_0201_locationscout_proposal_prompt">You could go and find the most beautiful locations for me to paint. \n\nYou will save me a lot of time if you set up an easel at each waterfall you find, then come back and tell me about them. It will be perfect!</string>
+	<string key="0231_0201_locationscout_incomplete" speaker="Painter Pietr Wolcott - Brightwood" name="PietrWolcott" VO_Status="Needs Recording">I need some inspiration, something that jumps out of the landscape and onto a canvas! \n\nGo on, I'm counting on you to find it!</string>
+	<string key="0231_0201_locationscout_complete" speaker="Painter Pietr Wolcott - Brightwood" name="PietrWolcott" VO_Status="Needs Recording" dialogue-next="@0231_0201_locationscout_complete_next">Marvelous! The rushing water, the way the sunlight glints through the trees. Yes, yes! I can work with this.</string>
+	<string key="0231_0201_locationscout_complete_prompt" speaker="UI - Player Prompt">"What will you do now?"</string>
+	<string key="0231_0201_locationscout_complete_next" speaker="Painter Pietr Wolcott - Brightwood" name="PietrWolcott" VO_Status="Needs Recording" dialogue-prompt="@0231_0201_locationscout_complete_prompt">Now that you’ve marked these locations in my map, I have to get my paints in order. \n\nIt wouldn't do to get all ready to start, only to be missing the correct shade of blue.</string>
+	<string key="0231_0202_placeEasel1" speaker="UI - Tracker Text">Scout Southern Greyvale for a waterfall</string>
+	<string key="0231_0202_placeEasel2" speaker="UI - Tracker Text">Scout Northern Greyvale for a waterfall</string>
+	<string key="0231_0202_placeEasel3" speaker="UI - Tracker Text">Scout Western Greyvale for a waterfall</string>
+	<string key="0231_0202_eyeforreflection_title" speaker="UI - Quest Title">Eye for Reflection</string>
 	<string key="0231_0202_eyeforreflection_description">Search for dynamic waterfalls for Wolcott to paint and place an easel at each one. Talk to Painter Wolcott in Brightwood when the task is done.</string>
-	<string key="0231_0202_eyeforreflection_start_prompt">"The power?"</string>
-	<string key="0231_0202_eyeforreflection_proposal" dialogue-next="@0231_0202_eyeforreflection_proposal_next">How dynamic it makes an image. How alive you feel when seeing it. How it moves, even when still. \n\nI can already tell these waterfalls will be best sellers. I’m going to need more locations!</string>
-	<string key="0231_0202_eyeforreflection_proposal_prompt">"More waterfalls?"</string>
-	<string key="0231_0202_eyeforreflection_proposal_next" dialogue-prompt="@0231_0202_eyeforreflection_proposal_prompt">Yes! There are so many located in Greyvale. It is a painter’s paradise. \n\nI could use your discerning eye to find more waterfalls for my paintings.</string>
-	<string key="0231_0202_eyeforreflection_incomplete">You were such help before that I need your help again. \n\nSearch for energetic waterfalls I can use as reference.</string>
-	<string key="0231_0202_eyeforreflection_complete" dialogue-next="@0231_0202_eyeforreflection_complete_next">These are magnificent! Thank you for marking their locations on my map. I can only hope my waterfall paintings are able to compete with what is already out there.</string>
-	<string key="0231_0202_eyeforreflection_complete_prompt">"What do you mean?"</string>
-	<string key="0231_0202_eyeforreflection_complete_next" dialogue-prompt="@0231_0202_eyeforreflection_complete_prompt">I’m not the only landscape painter on Aeternum. Painter Cole is already famous for her ‘Bear in Meadow’ and ‘Mountain Dawn’ paintings which are popular in the settlements.</string>
-	<string key="0231_0203_placeEasel1">Scout Central Greyvale for a lake</string>
-	<string key="0231_0203_placeEasel2">Scout Northern Greyvale for a lake</string>
-	<string key="0231_0203_placeEasel3">Scout Eastern Greyvale for a lake</string>
-	<string key="0231_0203_wolcottsmasterpiece_title">Wolcott's Masterpiece</string>
-	<string key="0231_0203_wolcottsmasterpiece_description">Search for picturesque lakes for Wolcott to paint and place an easel at each one. Talk to Painter Wolcott in Brightwood when the task is done.</string>
-	<string key="0231_0203_wolcottsmasterpiece_start_prompt">"There are some nice lakes around here."</string>
-	<string key="0231_0203_wolcottsmasterpiece_proposal" dialogue-next="@0231_0203_wolcottsmasterpiece_proposal_next">I’ve decided that my next collection of paintings will be of the local lakes. \n\nSomething restful to the eye, and calming to the soul. They are certain to be popular!</string>
-	<string key="0231_0203_wolcottsmasterpiece_proposal_prompt">"What about the waterfalls?"</string>
-	<string key="0231_0203_wolcottsmasterpiece_proposal_next" dialogue-prompt="@0231_0203_wolcottsmasterpiece_proposal_prompt">I’ll paint them too! I need to paint all of them in order to keep up with that overachiever Cole. \n\nPlease find three inspiring lakes where you can place my easel.</string>
-	<string key="0231_0203_wolcottsmasterpiece_incomplete">The waterfalls you found before were just lovely. \n\nNow I need three lakes for my next paintings!</string>
-	<string key="0231_0203_wolcottsmasterpiece_complete" dialogue-next="@0231_0203_wolcottsmasterpiece_complete_next">Superb! The locations you have chosen fit perfectly within the landscape, like a slice of sky fallen to the ground. \n\nPainting these lakes will be a joy. And Cole hasn’t painted anything like them yet!</string>
-	<string key="0231_0203_wolcottsmasterpiece_complete_prompt">"She hasn’t?"</string>
-	<string key="0231_0203_wolcottsmasterpiece_complete_next" dialogue-prompt="@0231_0203_wolcottsmasterpiece_complete_prompt">No, I will be the first to paint these lakes! Soon my name will be known as the painter of lakes and waterfalls. \n\nThank you for marking these in my map. I can’t wait to get to work!</string>
+	<string key="0231_0202_eyeforreflection_start_prompt" speaker="UI - Player Prompt">"The power?"</string>
+	<string key="0231_0202_eyeforreflection_proposal" speaker="Painter Pietr Wolcott - Brightwood" name="PietrWolcott" VO_Status="Needs Recording" dialogue-next="@0231_0202_eyeforreflection_proposal_next">How dynamic it makes an image. How alive you feel when seeing it. How it moves, even when still. \n\nI can already tell these waterfalls will be best sellers. I’m going to need more locations!</string>
+	<string key="0231_0202_eyeforreflection_proposal_prompt" speaker="UI - Player Prompt">"More waterfalls?"</string>
+	<string key="0231_0202_eyeforreflection_proposal_next" speaker="Painter Pietr Wolcott - Brightwood" name="PietrWolcott" VO_Status="Needs Recording" dialogue-prompt="@0231_0202_eyeforreflection_proposal_prompt">Yes! There are so many located in Greyvale. It is a painter’s paradise. \n\nI could use your discerning eye to find more waterfalls for my paintings.</string>
+	<string key="0231_0202_eyeforreflection_incomplete" speaker="Painter Pietr Wolcott - Brightwood" name="PietrWolcott" VO_Status="Needs Recording">You were such help before that I need your help again. \n\nSearch for energetic waterfalls I can use as reference.</string>
+	<string key="0231_0202_eyeforreflection_complete" speaker="Painter Pietr Wolcott - Brightwood" name="PietrWolcott" VO_Status="Needs Recording" dialogue-next="@0231_0202_eyeforreflection_complete_next">These are magnificent! Thank you for marking their locations on my map. I can only hope my waterfall paintings are able to compete with what is already out there.</string>
+	<string key="0231_0202_eyeforreflection_complete_prompt" speaker="UI - Player Prompt">"What do you mean?"</string>
+	<string key="0231_0202_eyeforreflection_complete_next" speaker="Painter Pietr Wolcott - Brightwood" name="PietrWolcott" VO_Status="Needs Recording" dialogue-prompt="@0231_0202_eyeforreflection_complete_prompt">I’m not the only landscape painter on Aeternum. Painter Cole is already famous for her ‘Bear in Meadow’ and ‘Mountain Dawn’ paintings which are popular in the settlements.</string>
+	<string key="0231_0203_placeEasel1" speaker="UI - Tracker Text">Scout Central Greyvale for a lake</string>
+	<string key="0231_0203_placeEasel2" speaker="UI - Tracker Text">Scout Northern Greyvale for a lake</string>
+	<string key="0231_0203_placeEasel3" speaker="UI - Tracker Text">Scout Eastern Greyvale for a lake</string>
+	<string key="0231_0203_wolcottsmasterpiece_title" speaker="UI - Quest Title">Wolcott's Masterpiece</string>
+	<string key="0231_0203_wolcottsmasterpiece_description" speaker="UI - Quest Description">Search for picturesque lakes for Wolcott to paint and place an easel at each one. Talk to Painter Wolcott in Brightwood when the task is done.</string>
+	<string key="0231_0203_wolcottsmasterpiece_start_prompt" speaker="UI - Player Prompt">"There are some nice lakes around here."</string>
+	<string key="0231_0203_wolcottsmasterpiece_proposal" speaker="Painter Pietr Wolcott - Brightwood" name="PietrWolcott" VO_Status="Needs Recording" dialogue-next="@0231_0203_wolcottsmasterpiece_proposal_next">I’ve decided that my next collection of paintings will be of the local lakes. \n\nSomething restful to the eye, and calming to the soul. They are certain to be popular!</string>
+	<string key="0231_0203_wolcottsmasterpiece_proposal_prompt" speaker="UI - Player Prompt">"What about the waterfalls?"</string>
+	<string key="0231_0203_wolcottsmasterpiece_proposal_next" speaker="Painter Pietr Wolcott - Brightwood" name="PietrWolcott" VO_Status="Needs Recording" dialogue-prompt="@0231_0203_wolcottsmasterpiece_proposal_prompt">I’ll paint them too! I need to paint all of them in order to keep up with that overachiever Cole. \n\nPlease find three inspiring lakes where you can place my easel.</string>
+	<string key="0231_0203_wolcottsmasterpiece_incomplete" speaker="Painter Pietr Wolcott - Brightwood" name="PietrWolcott" VO_Status="Needs Recording">The waterfalls you found before were just lovely. \n\nNow I need three lakes for my next paintings!</string>
+	<string key="0231_0203_wolcottsmasterpiece_complete" speaker="Painter Pietr Wolcott - Brightwood" name="PietrWolcott" VO_Status="Needs Recording" dialogue-next="@0231_0203_wolcottsmasterpiece_complete_next">Superb! The locations you have chosen fit perfectly within the landscape, like a slice of sky fallen to the ground. \n\nPainting these lakes will be a joy. And Cole hasn’t painted anything like them yet!</string>
+	<string key="0231_0203_wolcottsmasterpiece_complete_prompt" speaker="UI - Player Prompt">"She hasn’t?"</string>
+	<string key="0231_0203_wolcottsmasterpiece_complete_next" speaker="Painter Pietr Wolcott - Brightwood" name="PietrWolcott" VO_Status="Needs Recording" dialogue-prompt="@0231_0203_wolcottsmasterpiece_complete_prompt">No, I will be the first to paint these lakes! Soon my name will be known as the painter of lakes and waterfalls. \n\nThank you for marking these in my map. I can’t wait to get to work!</string>
 	<string key="0232_0201_asimpletea_title" speaker="UI - Quest Title">A Simple Tea</string>
 	<string key="0232_0201_asimpletea_description" speaker="UI - Quest Description">Fight the Bronzeroot Dryads of the Green Defile for the Undefiled Tea Leaves and bring them back to Naturalist Khunbish in Brightwood.</string>
 	<string key="0232_0201_asimpletea_start_prompt" speaker="UI - Player Prompt">"What do you need?"</string>
-	<string key="0232_0201_asimpletea_proposal" speaker="Naturalist Yargui Khunbish - Brightwood" dialogue-next="@0232_0201_asimpletea_proposal_next">The soullessness of the Lost has ravaged Brightwood for centuries. Some say the land is cursed.\n\nBut the Angry Earth thrive down there, despite all the death around them.</string>
-	<string key="0232_0201_asimpletea_proposal_prompt">"What's their secret?"</string>
-	<string key="0232_0201_asimpletea_proposal_next" speaker="Naturalist Yargui Khunbish - Brightwood" dialogue-prompt="@0232_0201_asimpletea_proposal_prompt">The Angry Earth have many secrets, but the one I seek to know is related to a tea they drink.\n\nThe Bronzeroot of the Defile - they carry special tea leaves. Get some for me, and I will be in your debt.</string>
-	<string key="0232_0201_asimpletea_incomplete" speaker="Naturalist Yargui Khunbish - Brightwood">The Bronzeroot of the Green Defile carry these special tea leaves.\n\nCollect some for me, and I will reward you.</string>
-	<string key="0232_0201_asimpletea_complete" speaker="Naturalist Yargui Khunbish - Brightwood">Ah, do you have them, then? Yes, these leaves are perfect!\n\nThe tea I can brew from these leaves, well, I am not even sure of all of its properties.</string>
+	<string key="0232_0201_asimpletea_proposal" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording" dialogue-next="@0232_0201_asimpletea_proposal_next">The soullessness of the Lost has ravaged Brightwood for centuries. Some say the land is cursed.\n\nBut the Angry Earth thrive down there, despite all the death around them.</string>
+	<string key="0232_0201_asimpletea_proposal_prompt" speaker="UI - Player Prompt">"What's their secret?"</string>
+	<string key="0232_0201_asimpletea_proposal_next" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording" dialogue-prompt="@0232_0201_asimpletea_proposal_prompt">The Angry Earth have many secrets, but the one I seek to know is related to a tea they drink.\n\nThe Bronzeroot of the Defile - they carry special tea leaves. Get some for me, and I will be in your debt.</string>
+	<string key="0232_0201_asimpletea_incomplete" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording">The Bronzeroot of the Green Defile carry these special tea leaves.\n\nCollect some for me, and I will reward you.</string>
+	<string key="0232_0201_asimpletea_complete" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording">Ah, do you have them, then? Yes, these leaves are perfect!\n\nThe tea I can brew from these leaves, well, I am not even sure of all of its properties.</string>
 	<string key="0232_0201_goto" speaker="UI">Venture into the {POITags}</string>
 	<string key="0232_0201_d_02_Task_Gather_postrekhin_leaves" speaker="UI">Defeat {targetName} Dryads to collect {itemName}</string>
 	<string key="0232_0202_hiddensecrets_title" speaker="UI - Quest Title">Sweet Secrets</string>
 	<string key="0232_0202_hiddensecrets_description" speaker="UI - Quest Description">Find Lush Sugarsap from the Trees in Lush Hideaway and bring them back to Naturalist Khunbish in Brightwood so that she can drink the tea she's brewing.</string>
 	<string key="0232_0202_hiddensecrets_start_prompt" speaker="UI - Player Prompt">"A little honey should do the trick."</string>
-	<string key="0232_0202_hiddensecrets_proposal" speaker="Naturalist Yargui Khunbish - Brightwood" dialogue-next="@0232_0202_hiddensecrets_proposal_next">No, I have sworn not to partake in the sweet product of the Apoidea.\n\nThe trees from the south caverns will yield Lush Sugarsap, but the Angry Earth there are very protective.</string>
-	<string key="0232_0202_hiddensecrets_proposal_prompt">"You want me to go for you?"</string>
-	<string key="0232_0202_hiddensecrets_proposal_next" speaker="Naturalist Yargui Khunbish - Brightwood" dialogue-prompt="@0232_0202_hiddensecrets_proposal_prompt">Yes, if you are willing to venture into the Lush Hideaway and collect some Lush Sugarsap, I will double your reward.\n\nTry to harm as few of the Angry Earth as possible - they act only from instinct.</string>
-	<string key="0232_0202_hiddensecrets_incomplete" speaker="Naturalist Yargui Khunbish - Brightwood">It is not the Wyrdwood trees I speak of but the regular trees in the cavern that will yield the Lush Sugarsap.\n\nThank you for your help.</string>
-	<string key="0232_0202_hiddensecrets_complete" speaker="Naturalist Yargui Khunbish - Brightwood">There! Please tell me you were able to get the Lush Sugarsap! Yes, this will do!\n\nNow, at least I will be able to drink this tea, assuming I have what I need to brew it.</string>
+	<string key="0232_0202_hiddensecrets_proposal" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording" dialogue-next="@0232_0202_hiddensecrets_proposal_next">No, I have sworn not to partake in the sweet product of the Apoidea.\n\nThe trees from the south caverns will yield Lush Sugarsap, but the Angry Earth there are very protective.</string>
+	<string key="0232_0202_hiddensecrets_proposal_prompt" speaker="UI - Player Prompt">"You want me to go for you?"</string>
+	<string key="0232_0202_hiddensecrets_proposal_next" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording" dialogue-prompt="@0232_0202_hiddensecrets_proposal_prompt">Yes, if you are willing to venture into the Lush Hideaway and collect some Lush Sugarsap, I will double your reward.\n\nTry to harm as few of the Angry Earth as possible - they act only from instinct.</string>
+	<string key="0232_0202_hiddensecrets_incomplete" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording">It is not the Wyrdwood trees I speak of but the regular trees in the cavern that will yield the Lush Sugarsap.\n\nThank you for your help.</string>
+	<string key="0232_0202_hiddensecrets_complete" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording">There! Please tell me you were able to get the Lush Sugarsap! Yes, this will do!\n\nNow, at least I will be able to drink this tea, assuming I have what I need to brew it.</string>
 	<string key="0232_0202_goto" speaker="UI">Collect Lush Sugarsap in {POITags}</string>
 	<string key="0232_0202_loot_treesap" speaker="UI">Harvest {itemName} from the Young Trees in {POITags}</string>
 	<string key="0232_0203_verdantadelphia_title" speaker="UI - Quest Title">Verdant Adelphia</string>
 	<string key="0232_0203_verdantadelphia_description" speaker="UI - Quest Description">Collect Adelphian Tubers from the Verdant Cavern and bring them to Naturalist Khunbish in Brightwood so she can finally make her tea.</string>
 	<string key="0232_0203_verdantadelphia_start_prompt" speaker="UI - Player Prompt">"Let me guess - you need something else?"</string>
-	<string key="0232_0203_verdantadelphia_proposal" speaker="Naturalist Yargui Khunbish - Brightwood" dialogue-next="@0232_0203_verdantadelphia_proposal_next">I do, though I fear I have imposed on you enough, traveler. \n\nIf the Angry Earth weren't so cruel, I would not be in such a position. They hoard their secrets even from their allies.</string>
-	<string key="0232_0203_verdantadelphia_proposal_prompt">"Are you considered an ally?"</string>
-	<string key="0232_0203_verdantadelphia_proposal_next" speaker="Naturalist Yargui Khunbish - Brightwood" dialogue-next="@0232_0203_verdantadelphia_proposal_next2" dialogue-prompt="@0232_0203_verdantadelphia_proposal_prompt">There are some few of us on Aeternum who have enjoyed the Angry Earth's trust, though I lost their favor many years ago.\n\nSince then, I have spent every moment hoping to regain it.</string>
-	<string key="0232_0203_verdantadelphia_proposal_prompt2">"Is that what this tea is for?"</string>
-	<string key="0232_0203_verdantadelphia_proposal_next2" speaker="Naturalist Yargui Khunbish - Brightwood" dialogue-prompt="@0232_0203_verdantadelphia_proposal_prompt2">Yes. I suppose there is no harm in telling you the truth. To complete the tea I need Adelphian Tubers.\n\nThey are carried by the Shamans in the Verdant Cavern. Get them, and I will be redeemed.</string>
-	<string key="0232_0203_verdantadelphia_incomplete" speaker="Naturalist Yargui Khunbish - Brightwood">None of this would be necessary if they would just allow me back into the fold. This tea, and those Adelphian Tubers, are now the only way.</string>
-	<string key="0232_0203_verdantadelphia_complete" speaker="Naturalist Yargui Khunbish - Brightwood">Did you defeat the Shamans? Aha! The tubers! This is the last ingredient!\n\nNow, I can finally brew the magical tea which will redeem me to the Angry Earth.</string>
+	<string key="0232_0203_verdantadelphia_proposal" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording" dialogue-next="@0232_0203_verdantadelphia_proposal_next">I do, though I fear I have imposed on you enough, traveler. \n\nIf the Angry Earth weren't so cruel, I would not be in such a position. They hoard their secrets even from their allies.</string>
+	<string key="0232_0203_verdantadelphia_proposal_prompt" speaker="UI - Player Prompt">"Are you considered an ally?"</string>
+	<string key="0232_0203_verdantadelphia_proposal_next" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording" dialogue-next="@0232_0203_verdantadelphia_proposal_next2" dialogue-prompt="@0232_0203_verdantadelphia_proposal_prompt">There are some few of us on Aeternum who have enjoyed the Angry Earth's trust, though I lost their favor many years ago.\n\nSince then, I have spent every moment hoping to regain it.</string>
+	<string key="0232_0203_verdantadelphia_proposal_prompt2" speaker="UI - Player Prompt">"Is that what this tea is for?"</string>
+	<string key="0232_0203_verdantadelphia_proposal_next2" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording" dialogue-prompt="@0232_0203_verdantadelphia_proposal_prompt2">Yes. I suppose there is no harm in telling you the truth. To complete the tea I need Adelphian Tubers.\n\nThey are carried by the Shamans in the Verdant Cavern. Get them, and I will be redeemed.</string>
+	<string key="0232_0203_verdantadelphia_incomplete" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording">None of this would be necessary if they would just allow me back into the fold. This tea, and those Adelphian Tubers, are now the only way.</string>
+	<string key="0232_0203_verdantadelphia_complete" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording">Did you defeat the Shamans? Aha! The tubers! This is the last ingredient!\n\nNow, I can finally brew the magical tea which will redeem me to the Angry Earth.</string>
 	<string key="0232_0203_goto" speaker="UI">Collect Adelphian Tubers in {POITags}</string>
 	<string key="0232_0203_loot_tubers" speaker="UI">Defeat {targetName} and collect {itemName} in the {POITags}</string>
 	<string key="0232_0204_azothtreeachene_title" speaker="UI - Quest Title">Azoth Tree Achene (Elite)</string>
 	<string key="0232_0204_azothtreeachene_description" speaker="UI - Quest Description">Defeat the Angry Earth Leader Ceran at the Azoth Tree and collect his Achene. Talk to Naturalist Khunbish in Brightwood when the task is done.</string>
 	<string key="0232_0204_azothtreeachene_start_prompt" speaker="UI - Player Prompt">"Go ahead then. I'm listening."</string>
-	<string key="0232_0204_azothtreeachene_proposal" speaker="Naturalist Yargui Khunbish - Brightwood" dialogue-next="@0232_0204_azothtreeachene_proposal_next">It was the leader of the Angry Earth in this region who cast me out - a Dryad Archer named Ceran.\n\nEven with the tea you have give me, he might just cast me out again.</string>
-	<string key="0232_0204_azothtreeachene_proposal_prompt">"You want me to fight him?"</string>
-	<string key="0232_0204_azothtreeachene_proposal_next" speaker="Naturalist Yargui Khunbish - Brightwood" dialogue-prompt="@0232_0204_azothtreeachene_proposal_prompt">Yes, though to be honest, I suspect even you will have difficulty.\n\nIf you will destroy him and bring me his Achene, I will give you reward you with my finest possessions.</string>
-	<string key="0232_0204_azothtreeachene_incomplete" speaker="Naturalist Yargui Khunbish - Brightwood">Destroy Ceran and bring me his Achene, and then, I will be able to walk among the Angry Earth again.</string>
-	<string key="0232_0204_azothtreeachene_complete" speaker="Naturalist Yargui Khunbish - Brightwood" dialogue-next="@0232_0204_azothtreeachene_complete_next">Ceran is gone. I can sense it. You have done well, more than you know - you have restored the true order here.\n\nI am sorry I could not tell you the whole truth before.</string>
-	<string key="0232_0204_azothtreeachene_complete_prompt">"What is the whole truth?"</string>
-	<string key="0232_0204_azothtreeachene_complete_next" speaker="Naturalist Yargui Khunbish - Brightwood" dialogue-prompt="@0232_0204_azothtreeachene_complete_prompt">The truth is that I was guardian of the Azoth Tree until Ceran drove me away.\n\nWith this tea, I can assume my proper form, and with Ceran gone, I can assume my proper place. Thank you, human.</string>
+	<string key="0232_0204_azothtreeachene_proposal" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording" dialogue-next="@0232_0204_azothtreeachene_proposal_next">It was the leader of the Angry Earth in this region who cast me out - a Dryad Archer named Ceran.\n\nEven with the tea you have give me, he might just cast me out again.</string>
+	<string key="0232_0204_azothtreeachene_proposal_prompt" speaker="UI - Player Prompt">"You want me to fight him?"</string>
+	<string key="0232_0204_azothtreeachene_proposal_next" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording" dialogue-prompt="@0232_0204_azothtreeachene_proposal_prompt">Yes, though to be honest, I suspect even you will have difficulty.\n\nIf you will destroy him and bring me his Achene, I will reward you with finery.</string>
+	<string key="0232_0204_azothtreeachene_incomplete" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording">Destroy Ceran and bring me his Achene, and then, I will be able to walk among the Angry Earth again.</string>
+	<string key="0232_0204_azothtreeachene_complete" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording" dialogue-next="@0232_0204_azothtreeachene_complete_next">Ceran is gone. I can sense it. You have done well, more than you know - you have restored the true order here.\n\nI am sorry I could not tell you the whole truth before.</string>
+	<string key="0232_0204_azothtreeachene_complete_prompt" speaker="UI - Player Prompt">"What is the whole truth?"</string>
+	<string key="0232_0204_azothtreeachene_complete_next" speaker="Naturalist Yargui Khunbish - Brightwood" name="YarguiKhunbish" VO_Status="Needs Recording" dialogue-prompt="@0232_0204_azothtreeachene_complete_prompt">The truth is that I was guardian of the Azoth Tree until Ceran drove me away.\n\nWith this tea, I can assume my proper form, and with Ceran gone, I can assume my proper place. Thank you, human.</string>
 	<string key="0232_0204_goto" speaker="UI">Defeat the Angry Earth Leader at the {POITags}</string>
 	<string key="0232_0204_loot_achene_from_ceran" speaker="UI">Defeat {targetName} and collect {itemName}</string>
 	<string key="0233_0201_bearcohabitation_title" speaker="UI - Quest Title">Bear Co-Habitation</string>
 	<string key="0233_0201_bearcohabitation_description" speaker="UI - Quest Description">Help Hunter Hutchison in Brightwood get vengeance against some savage bears in Greyvale that destroyed his family.</string>
 	<string key="0233_0201_bearcohabitation_start_prompt" speaker="UI - Player Prompt">"You don't live there any more?"</string>
-	<string key="0233_0201_bearcohabitation_proposal" speaker="Holt Hutchison - Brightwood" dialogue-next="@0233_0201_bearcohabitation_proposal_next">No. They don't want me. They've made that painfully clear.\n\nMy wife Susan and I lived among them for decades, in perfect harmony. Until a few months ago.</string>
-	<string key="0233_0201_bearcohabitation_proposal_prompt">"What happened?"</string>
-	<string key="0233_0201_bearcohabitation_proposal_next" speaker="Holt Hutchison - Brightwood" dialogue-prompt="@0233_0201_bearcohabitation_proposal_prompt">One day they turned on us, tore us both apart and feasted on our flesh. Susan… she became Lost after that.\n\nDon't why I'm still here, except maybe for revenge. In fact, destroy a few of the beasts for me, and I'll reward you.</string>
-	<string key="0233_0201_bearcohabitation_incomplete" speaker="Holt Hutchison - Brightwood">I still can't get over it. Out of nowhere, they just turned on us.\n\nHelp me get my vengeance, and I'll be in your debt.</string>
-	<string key="0233_0201_bearcohabitation_complete" speaker="Holt Hutchison - Brightwood">I heard those bastards snarling and growling all the way down here.\n\nWe're only giving them what they deserve.</string>
+	<string key="0233_0201_bearcohabitation_proposal" speaker="Holt Hutchison - Brightwood" name="HoltHutchison" VO_Status="Needs Recording" dialogue-next="@0233_0201_bearcohabitation_proposal_next">No. They don't want me. They've made that painfully clear.\n\nMy wife Susan and I lived among them for decades, in perfect harmony. Until a few months ago.</string>
+	<string key="0233_0201_bearcohabitation_proposal_prompt" speaker="UI - Player Prompt">"What happened?"</string>
+	<string key="0233_0201_bearcohabitation_proposal_next" speaker="Holt Hutchison - Brightwood" name="HoltHutchison" VO_Status="Needs Recording" dialogue-prompt="@0233_0201_bearcohabitation_proposal_prompt">One day they turned on us, tore us both apart and feasted on our flesh. Susan… she became Lost after that.\n\nDon't know why I'm still here, except for revenge. In fact, destroy a few of the beasts for me, and I'll reward you.</string>
+	<string key="0233_0201_bearcohabitation_incomplete" speaker="Holt Hutchison - Brightwood" name="HoltHutchison" VO_Status="Needs Recording">I still can't get over it. Out of nowhere, they just turned on us.\n\nHelp me get my vengeance, and I'll be in your debt.</string>
+	<string key="0233_0201_bearcohabitation_complete" speaker="Holt Hutchison - Brightwood" name="HoltHutchison" VO_Status="Needs Recording">I heard those bastards snarling and growling all the way down here.\n\nWe're only giving them what they deserve.</string>
 	<string key="0233_0201_kill_bears" speaker="UI">Destroy {targetName} in {POITags}</string>
 	<string key="0233_0202_papabear_title" speaker="UI - Quest Title">Papa Bear (Elite)</string>
 	<string key="0233_0202_papabear_description" speaker="UI - Quest Description">Hunter Hutchison has asked you to destroy Gren, the massive bear who killed his wife, and reclaim his wife's ring. Bring the ring back to Hunter Hutchinson in Brightwood.</string>
 	<string key="0233_0202_papabear_start_prompt" speaker="UI - Player Prompt">"Any family anywhere?"</string>
-	<string key="0233_0202_papabear_proposal" speaker="Holt Hutchison - Brightwood" dialogue-next="@0233_0202_papabear_proposal_next">Nah, Susan and these bears are the only real family I ever had.\n\nLiving out there, foraging for honey, hibernating… it's the only life I know, the only place I feel at home.</string>
-	<string key="0233_0202_papabear_proposal_prompt">"Maybe you should stay then."</string>
-	<string key="0233_0202_papabear_proposal_next" speaker="Holt Hutchison - Brightwood" dialogue-prompt="@0233_0202_papabear_proposal_prompt">Angry as I am, it's the only thing that feels right. I guess I could try.\n\nIt was the patriarch, Gren, that turned on us. If you can destroy Gren and recover Susan's ring, I might have a chance. Be careful, though.</string>
-	<string key="0233_0202_papabear_incomplete" speaker="Holt Hutchison - Brightwood">It was that monster Gren that ate my sweet wife.\n\nDestroy him, and then I can return to the family, those I have left.</string>
-	<string key="0233_0202_papabear_complete" speaker="Holt Hutchison - Brightwood">It's done then? That monstrosity of a bear gone? You're brave soul, and a hardy one too.\n\nAll right, I'll work up the nerve and go back home. If they turn on me again, I don't know. Guess I'll end up like Susan.</string>
+	<string key="0233_0202_papabear_proposal" speaker="Holt Hutchison - Brightwood" name="HoltHutchison" VO_Status="Needs Recording" dialogue-next="@0233_0202_papabear_proposal_next">Nah, Susan and these bears are the only real family I ever had.\n\nLiving out there, foraging for honey, hibernating… it's the only life I know, the only place I feel at home.</string>
+	<string key="0233_0202_papabear_proposal_prompt" speaker="UI - Player Prompt">"Maybe you should stay then."</string>
+	<string key="0233_0202_papabear_proposal_next" speaker="Holt Hutchison - Brightwood" name="HoltHutchison" VO_Status="Needs Recording" dialogue-prompt="@0233_0202_papabear_proposal_prompt">Angry as I am, it's the only thing that feels right. I guess I could try.\n\nIt was the patriarch, Gren, that turned on us. If you can destroy Gren and recover Susan's ring, I might have a chance. Be careful, though.</string>
+	<string key="0233_0202_papabear_incomplete" speaker="Holt Hutchison - Brightwood" name="HoltHutchison" VO_Status="Needs Recording">It was that monster Gren that ate my sweet wife.\n\nDestroy him, and then I can return to the family, those I have left.</string>
+	<string key="0233_0202_papabear_complete" speaker="Holt Hutchison - Brightwood" name="HoltHutchison" VO_Status="Needs Recording">It's done then? That monstrosity of a bear gone? You're brave soul, and a hardy one too.\n\nAll right, I'll work up the nerve and go back home. If they turn on me again, I don't know. Guess I'll end up like Susan.</string>
 	<string key="0233_0202_goto" speaker="UI">Track down the Alpha Bear at {POITags}</string>
 	<string key="0233_0202_loot_ring_from_gren" speaker="UI">Defeat {targetName} and collect {itemName}</string>
 	<string key="0234_0201_memoriesofanotherlife_title" speaker="UI - Quest Title">Memories of Another Life</string>
 	<string key="0234_0201_memoriesofanotherlife_description" speaker="UI - Quest Description">Megara Pantazis lived in the Walsham area many decades ago. She's asked you to retrieve her mementos from the town and return them to her in Brightwood so she can relive her past.</string>
 	<string key="0234_0201_memoriesofanotherlife_start_prompt" speaker="UI - Player Prompt">"What happened?"</string>
-	<string key="0234_0201_memoriesofanotherlife_proposal" speaker="Megara Pantazis - Brightwood" dialogue-next="@0234_0201_memoriesofanotherlife_proposal_next">The town of Walsham fell to the Lost… it's been more years than I can count, now.\n\nBelieve it or not, the wedding was on this very spot -  a moment I never want to forget. He was the love of my life, you know.</string>
-	<string key="0234_0201_memoriesofanotherlife_proposal_prompt">"He's become a Lost now?"</string>
-	<string key="0234_0201_memoriesofanotherlife_proposal_next" speaker="Megara Pantazis - Brightwood" dialogue-prompt="@0234_0201_memoriesofanotherlife_proposal_prompt">Yes, he fell to despair. I had too much pride for that - I picked up and started over, many times since.\n\nNow, I just want those memories. If you venture into town; I'd love you to recover some of my old keepsakes.</string>
-	<string key="0234_0201_memoriesofanotherlife_incomplete" speaker="Megara Pantazis - Brightwood">Those years in Walsham were the best I had.\n\nIf you could recover those Mementos, it would mean a lot.</string>
-	<string key="0234_0201_memoriesofanotherlife_complete" speaker="Megara Pantazis - Brightwood">Well, look at these! You found all my old mementos.\n\nIt's sad, isn’t it? Or it should be. But for some reason, it's only reminding me of all the good times we had.</string>
+	<string key="0234_0201_memoriesofanotherlife_proposal" speaker="Megara Pantazis - Brightwood" name="MegaraPantazis" VO_Status="Needs Recording" dialogue-next="@0234_0201_memoriesofanotherlife_proposal_next">The town of Walsham fell to the Lost… it's been more years than I can count, now.\n\nBelieve it or not, the wedding was on this very spot -  a moment I never want to forget. He was the love of my life, you know.</string>
+	<string key="0234_0201_memoriesofanotherlife_proposal_prompt" speaker="UI - Player Prompt">"He's become a Lost now?"</string>
+	<string key="0234_0201_memoriesofanotherlife_proposal_next" speaker="Megara Pantazis - Brightwood" name="MegaraPantazis" VO_Status="Needs Recording" dialogue-prompt="@0234_0201_memoriesofanotherlife_proposal_prompt">Yes, he fell to despair. I had too much pride for that - I picked up and started over, many times since.\n\nNow, I just want those memories. If you venture into town; I'd love you to recover some of my old keepsakes.</string>
+	<string key="0234_0201_memoriesofanotherlife_incomplete" speaker="Megara Pantazis - Brightwood" name="MegaraPantazis" VO_Status="Needs Recording">Those years in Walsham were the best I had.\n\nIf you could recover those Mementos, it would mean a lot.</string>
+	<string key="0234_0201_memoriesofanotherlife_complete" speaker="Megara Pantazis - Brightwood" name="MegaraPantazis" VO_Status="Needs Recording">Well, look at these! You found all my old mementos.\n\nIt's sad, isn’t it? Or it should be. But for some reason, it's only reminding me of all the good times we had.</string>
 	<string key="0234_0201_goto" speaker="UI">Search for Megara's Mementos in {POITags}</string>
 	<string key="0234_0201_loot_mementos" speaker="UI">Search for {itemName} in chests in {POITags}</string>
 	<string key="0234_0202_homenomore_title" speaker="UI - Quest Title">Home No More</string>
 	<string key="0234_0202_homenomore_description" speaker="UI - Quest Description">Megara Pantazis has decided she wants to join the love of her life as a Lost. She's asked you to find her journal in Marcel's Hamlet and bring it to her in Brightwood so that she might read it and despair.</string>
 	<string key="0234_0202_homenomore_start_prompt" speaker="UI - Player Prompt">"What are you saying?"</string>
-	<string key="0234_0202_homenomore_proposal" speaker="Megara Pantazis - Brightwood" dialogue-next="@0234_0202_homenomore_proposal_next">What I'm saying is that I've spent all these years trying to keep my chin up, rallying for life.\n\nMeanwhile, the love of my life is Lost, and soon, even forgotten. I've decided I want to join him.</string>
-	<string key="0234_0202_homenomore_proposal_prompt">"And how will you manage that?"</string>
-	<string key="0234_0202_homenomore_proposal_next" speaker="Megara Pantazis - Brightwood" dialogue-prompt="@0234_0202_homenomore_proposal_prompt">By demoralizing myself. I had hoped these mementos would do the trick, but apparently not.\n\nIf you're willing, I left an old journal in our home in Marcel's Hamlet. Those were hard times. The journal should do the trick.</string>
-	<string key="0234_0202_homenomore_incomplete" speaker="Megara Pantazis - Brightwood">I kept the journal for years and years, when our love was forbidden, and then after.\n\nThe journal will get me there - I feel certain.</string>
-	<string key="0234_0202_homenomore_complete" speaker="Megara Pantazis - Brightwood">Is that it? Oh good gods, look at that old thing. Tattered and weathered, but still in one piece.\n\nLet me read it, this should bring back all that despair I felt then. This is the way I'll rejoin my love.</string>
+	<string key="0234_0202_homenomore_proposal" speaker="Megara Pantazis - Brightwood" name="MegaraPantazis" VO_Status="Needs Recording" dialogue-next="@0234_0202_homenomore_proposal_next">What I'm saying is that I've spent all these years trying to keep my chin up, rallying for life.\n\nMeanwhile, the love of my life is Lost, and soon, even forgotten. I've decided I want to join him.</string>
+	<string key="0234_0202_homenomore_proposal_prompt" speaker="UI - Player Prompt">"And how will you manage that?"</string>
+	<string key="0234_0202_homenomore_proposal_next" speaker="Megara Pantazis - Brightwood" name="MegaraPantazis" VO_Status="Needs Recording" dialogue-prompt="@0234_0202_homenomore_proposal_prompt">By demoralizing myself. I had hoped these mementos would do the trick, but apparently not.\n\nIf you're willing, I left an old journal in our home in Marcel's Hamlet. Those were hard times. The journal should do the trick.</string>
+	<string key="0234_0202_homenomore_incomplete" speaker="Megara Pantazis - Brightwood" name="MegaraPantazis" VO_Status="Needs Recording">I kept the journal for years and years, when our love was forbidden, and then after.\n\nThe journal will get me there - I feel certain.</string>
+	<string key="0234_0202_homenomore_complete" speaker="Megara Pantazis - Brightwood" name="MegaraPantazis" VO_Status="Needs Recording">Is that it? Oh good gods, look at that old thing. Tattered and weathered, but still in one piece.\n\nLet me read it, this should bring back all that despair I felt then. This is the way I'll rejoin my love.</string>
 	<string key="0234_0202_goto" speaker="UI">Search for Megara's Journal at {POITags}</string>
 	<string key="0234_0202_loot_journal" speaker="UI">Search for {itemName} In chests in {POITags}</string>
 	<string key="0234_0203_tildeathdouspart_title" speaker="UI - Quest Title">Til Death do us Part (Elite)</string>
 	<string key="0234_0203_tildeathdouspart_description" speaker="UI - Quest Description">Megara Pantazis has admitted the love of her life was actually Pastor Walsham. She's asked you be sure nothing of his human nature remains before she joins him as a Lost. Talk to her in Brightwood when the task is complete.</string>
 	<string key="0234_0203_tildeathdouspart_start_prompt" speaker="UI - Player Prompt">"When what truth came out?"</string>
-	<string key="0234_0203_tildeathdouspart_proposal" speaker="Megara Pantazis - Brightwood" dialogue-next="@0234_0203_tildeathdouspart_proposal_next">The truth about my true love. I didn't tell you the whole story before.\n\nThe wedding that took place here, it wasn't where I married my true love, it was where I met him.</string>
-	<string key="0234_0203_tildeathdouspart_proposal_prompt">"Whose wedding was it?"</string>
-	<string key="0234_0203_tildeathdouspart_proposal_next" speaker="Megara Pantazis - Brightwood" dialogue-next="@0234_0203_tildeathdouspart_proposal_next2" dialogue-prompt="@0234_0203_tildeathdouspart_proposal_prompt">Oh, it was mine, but that man was as dull as dirt - Aulus - he came from the Legion with me.\n\nPastor Walsham was the one who married us - he's the one who became the love of my life.</string>
-	<string key="0234_0203_tildeathdouspart_proposal_prompt2">"And you want to join him as a Lost?"</string>
-	<string key="0234_0203_tildeathdouspart_proposal_next2" speaker="Megara Pantazis - Brightwood" dialogue-prompt="@0234_0203_tildeathdouspart_proposal_prompt2">Precisely, but I'm afraid this journal isn't doing the trick either.\n\nLet's try this - go and find my love, my true love, Pastor Walsham. Defeat him and bring me something of his. That should break me.</string>
-	<string key="0234_0203_tildeathdouspart_incomplete" speaker="Megara Pantazis - Brightwood">My love was a formidable man in life. I suspect he will be difficult to defeat. Do take care.</string>
-	<string key="0234_0203_tildeathdouspart_complete" speaker="Megara Pantazis - Brightwood" dialogue-next="@0234_0203_tildeathdouspart_complete_next">Did you see him? Did he seem miserable as a Lost, or actually at peace?\n\nOh, I do so want to join him. What did you find, though? What's this?</string>
-	<string key="0234_0203_tildeathdouspart_complete_prompt">"A letter addressed to you."</string>
-	<string key="0234_0203_tildeathdouspart_complete_next" speaker="Megara Pantazis - Brightwood" dialogue-prompt="@0234_0203_tildeathdouspart_complete_prompt">Let me see then.. Oh, he says he couldn't bear it. He chose to become Lost to avoid facing me.\n\nApparently, he was going to end it... the shame, and so forth. The coward. Well, I think you've convinced me to live. Thank you.</string>
+	<string key="0234_0203_tildeathdouspart_proposal" speaker="Megara Pantazis - Brightwood" name="MegaraPantazis" VO_Status="Needs Recording" dialogue-next="@0234_0203_tildeathdouspart_proposal_next">The truth about my true love. I didn't tell you the whole story before.\n\nThe wedding that took place here, it wasn't where I married my true love, it was where I met him.</string>
+	<string key="0234_0203_tildeathdouspart_proposal_prompt" speaker="UI - Player Prompt">"Whose wedding was it?"</string>
+	<string key="0234_0203_tildeathdouspart_proposal_next" speaker="Megara Pantazis - Brightwood" name="MegaraPantazis" VO_Status="Needs Recording" dialogue-next="@0234_0203_tildeathdouspart_proposal_next2" dialogue-prompt="@0234_0203_tildeathdouspart_proposal_prompt">Oh, it was mine, but that man was as dull as dirt - Aulus - he came from the Legion with me.\n\nPastor Walsham was the one who married us - he's the one who became the love of my life.</string>
+	<string key="0234_0203_tildeathdouspart_proposal_prompt2" speaker="UI - Player Prompt">"And you want to join him as a Lost?"</string>
+	<string key="0234_0203_tildeathdouspart_proposal_next2" speaker="Megara Pantazis - Brightwood" name="MegaraPantazis" VO_Status="Needs Recording" dialogue-prompt="@0234_0203_tildeathdouspart_proposal_prompt2">Precisely, but I'm afraid this journal isn't doing the trick either.\n\nLet's try this - go and find my love, my true love, Pastor Walsham. Defeat him and bring me something of his. That should break me.</string>
+	<string key="0234_0203_tildeathdouspart_incomplete" speaker="Megara Pantazis - Brightwood" name="MegaraPantazis" VO_Status="Needs Recording">My love was a formidable man in life. I suspect he will be difficult to defeat. Do take care.</string>
+	<string key="0234_0203_tildeathdouspart_complete" speaker="Megara Pantazis - Brightwood" name="MegaraPantazis" VO_Status="Needs Recording" dialogue-next="@0234_0203_tildeathdouspart_complete_next">Did you see him? Did he seem miserable as a Lost, or actually at peace?\n\nOh, I do so want to join him. What did you find, though? What's this?</string>
+	<string key="0234_0203_tildeathdouspart_complete_prompt" speaker="UI - Player Prompt">"A letter addressed to you."</string>
+	<string key="0234_0203_tildeathdouspart_complete_next" speaker="Megara Pantazis - Brightwood" name="MegaraPantazis" VO_Status="Needs Recording" dialogue-prompt="@0234_0203_tildeathdouspart_complete_prompt">Let me see then.. Oh, he says he couldn't bear it. He chose to become Lost to avoid facing me.\n\nApparently, he was going to end it... the shame, and so forth. The coward. Well, I think you've convinced me to live. Thank you.</string>
 	<string key="0234_0203_goto" speaker="UI">Confront Pastor Walsham at the Walsham Congregation</string>
 	<string key="0234_0203_loot_goodbye" speaker="UI">Defeat {targetName} and collect {itemName}</string>
-	<string key="98_M_0001_RankUp_title">Marauder Advancement: Gladiator</string>
-	<string key="98_M_0001_RankUp_description">Earn Faction Reputation and challenge for the rank of Gladiator</string>
-	<string key="98_M_0001_RankUp_factionhandoff">Complete missions from the Faction Board, then report to the local Magistrate</string>
-	<string key="98_M_Reach_NextMarauderRank">Earn Faction Reputation to face the Trial for your next Rank</string>
-	<string key="98_M_0001_CompleteTrial_Gladiator">Travel to Cutlass Keys and complete the Trial of the Gladiator\n(Recommended Level: 25)</string>
-	<string key="98_M_0102_RankUp_title">Marauder Advancement: Ravager</string>
-	<string key="98_M_0102_RankUp_description">Earn Faction Reputation and challenge for the rank of Ravager</string>
-	<string key="98_M_0102_CompleteTrial_Ravager">Travel to Weaver's Fen and complete the Trial of the Ravager</string>
-	<string key="98_M_0203_RankUp_title">Marauder Advancement: Destroyer</string>
-	<string key="98_M_0203_RankUp_description">Earn Faction Reputation and challenge for the rank of Destroyer</string>
-	<string key="98_M_0203_CompleteTrial_Destroyer">Travel to Restless Shore and complete the Trial of the Destroyer</string>
-	<string key="98_M_0304_RankUp_title">Marauder Advancement: Commander</string>
-	<string key="98_M_0304_RankUp_description">Earn Faction Reputation and challenge for the rank of Commander</string>
-	<string key="98_M_0304_CompleteTrial_Commander">Travel to Ebonscale Reach and complete the Trial of the Commander</string>
+	<string key="98_M_0001_RankUp_title" speaker="UI - Quest Title">Marauder Advancement: Gladiator</string>
+	<string key="98_M_0001_RankUp_description" speaker="UI - Tracker Text">Earn enough Faction Reputation to qualify for the rank of Gladiator and then complete the Trial of the Gladiator Quest from the Faction Representative in Cutlass Keys.</string>
+	<string key="98_M_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Complete missions from the Faction Board, then report to the local Magistrate</string>
+	<string key="98_M_Reach_NextMarauderRank" speaker="UI - Tracker Text">Earn Faction Reputation to face the Trial for your next Rank</string>
+	<string key="98_M_0001_CompleteTrial_Gladiator" speaker="UI - Tracker Text">Travel to Cutlass Keys and complete the Trial of the Gladiator\n(Recommended Level: 25)</string>
+	<string key="98_M_0102_RankUp_title" speaker="UI - Quest Title">Marauder Advancement: Ravager</string>
+	<string key="98_M_0102_RankUp_description" speaker="UI - Tracker Text">Earn enough Faction Reputation to qualify for the rank of Ravager and then complete the Trial of the Ravager Quest from the Faction Representative in Weaver's Fen.</string>
+	<string key="98_M_0102_CompleteTrial_Ravager" speaker="UI - Tracker Text">Travel to Weaver's Fen and complete the Trial of the Ravager\n(Recommended Level: 35)</string>
+	<string key="98_M_0203_RankUp_title" speaker="UI - Quest Title">Marauder Advancement: Destroyer</string>
+	<string key="98_M_0203_RankUp_description" speaker="UI - Tracker Text">Earn enough Faction Reputation to qualify for the rank of Destroyer and then complete the Trial of the Destroyer Quest from the Faction Representative in Restless Shore.</string>
+	<string key="98_M_0203_CompleteTrial_Destroyer" speaker="UI - Tracker Text">Travel to Restless Shore and complete the Trial of the Destroyer\n(Recommended Level: 49)</string>
+	<string key="98_M_0304_RankUp_title" speaker="UI - Quest Title">Marauder Advancement: Commander</string>
+	<string key="98_M_0304_RankUp_description" speaker="UI - Tracker Text">Earn enough Faction Reputation to qualify for the rank of Commander and then complete the Trial of the Commander Quest from the Faction Representative in Ebonscale Reach.</string>
+	<string key="98_M_0304_CompleteTrial_Commander" speaker="UI - Tracker Text">Travel to Ebonscale Reach and complete the Trial of the Commander\n(Recommended Level: 60)</string>
 	<string key="98_M_01_combatprowess_title" speaker="UI - Quest Title">Trial of the Gladiator</string>
 	<string key="98_M_01_combatprowess_description" speaker="UI - Quest Description">Defeat the Lost Pirate Hamidou to prove you're worthy to advance to the rank of Gladiator. Talk to Ravager Silas in Cutlass Keys when the task is complete.</string>
 	<string key="98_M_01_combatprowess_start_prompt" speaker="UI - Player Prompt">"Can't be too hard. You made it."</string>
@@ -384,22 +384,22 @@
 	<string key="98_M_03_darkvengeance_complete" speaker="Commander Hartford - Ebonscale" name="CommanderHartford" gender="M" VO="Commander_98_M_03_darkvengeance_AvailResponse" VO_Status="Recorded">I know that can't have been pleasant. We must honor the memory of what Silas aspired to, rather than what she became.\n\nOn a much brighter note, I am proud to bestow on you the title of 'Commander'.</string>
 	<string key="98_M_03_darkvengeance_goto_POI" speaker="UI">Defeat the Corrupted Ravager Silas in {POITags} to earn the rank of Commander</string>
 	<string key="98_M_03_darkvengeance_killtarget_defeat_AI" speaker="UI">Defeat {targetName}</string>
-	<string key="98_S_0001_RankUp_title">Syndicate Advancement: Scrivener</string>
-	<string key="98_S_0001_RankUp_description">Earn Faction Reputation and vie for the rank of Scrivener</string>
-	<string key="98_S_0001_RankUp_factionhandoff">Complete missions from the Faction Board, then report to the local Magistrate</string>
-	<string key="98_S_Reach_NextSyndicateRank">Earn Faction Reputation to face the Trial for your next Rank</string>
-	<string key="98_S_0001_CompleteTrial_Scrivener">Travel to Brightwood and complete the Trial of the Scrivener\n(Recommended Level: 25)</string>
-	<string key="98_S_0102_RankUp_title">Syndicate Advancement: Chronicler</string>
-	<string key="98_S_0102_RankUp_description">Earn Faction Reputation and vie for the rank of Chronicler</string>
-	<string key="98_S_0102_CompleteTrial_Chronicler">Travel to Weaver's Fen and complete the Trial of the Chronicler</string>
-	<string key="98_S_0203_RankUp_title">Syndicate Advancement: Cabalist</string>
-	<string key="98_S_0203_RankUp_description">Earn Faction Reputation and vie for the rank of Cabalist</string>
-	<string key="98_S_0203_CompleteTrial_Cabalist">Travel to Mourningdale and complete the Trial of the Cabalist</string>
-	<string key="98_S_0304_RankUp_title">Syndicate Advancement: Alchemist</string>
-	<string key="98_S_0304_RankUp_description">Earn Faction Reputation and vie for the rank of Alchemist</string>
-	<string key="98_S_0304_CompleteTrial_Alchemist">Travel to Reekwater and complete the Trial of the Alchemist</string>
+	<string key="98_S_0001_RankUp_title" speaker="UI - Quest Title">Syndicate Advancement: Scrivener</string>
+	<string key="98_S_0001_RankUp_description" speaker="UI - Tracker Text">Earn enough Faction Reputation to qualify for the rank of Scrivener and then complete the Trial of the Scrivener Quest from the Faction Representative in Brightwood.</string>
+	<string key="98_S_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Complete missions from the Faction Board, then report to the local Magistrate</string>
+	<string key="98_S_Reach_NextSyndicateRank" speaker="UI - Tracker Text">Earn Faction Reputation to face the Trial for your next Rank</string>
+	<string key="98_S_0001_CompleteTrial_Scrivener" speaker="UI - Tracker Text">Travel to Brightwood and complete the Trial of the Scrivener\n(Recommended Level: 25)</string>
+	<string key="98_S_0102_RankUp_title" speaker="UI - Quest Title">Syndicate Advancement: Chronicler</string>
+	<string key="98_S_0102_RankUp_description" speaker="UI - Tracker Text">Earn enough Faction Reputation to qualify for the rank of Chronicler and then complete the Trial of the ChroniclerQuest from the Faction Representative in Weaver's Fen.</string>
+	<string key="98_S_0102_CompleteTrial_Chronicler" speaker="UI - Tracker Text">Travel to Weaver's Fen and complete the Trial of the Chronicler\n(Recommended Level: 35)</string>
+	<string key="98_S_0203_RankUp_title" speaker="UI - Quest Title">Syndicate Advancement: Cabalist</string>
+	<string key="98_S_0203_RankUp_description" speaker="UI - Tracker Text">Earn enough Faction Reputation to qualify for the rank of Cabalist and then complete the Trial of the Cabalist Quest from the Faction Representative in Mourningdale.</string>
+	<string key="98_S_0203_CompleteTrial_Cabalist" speaker="UI - Tracker Text">Travel to Mourningdale and complete the Trial of the Cabalist\n(Recommended Level: 49)</string>
+	<string key="98_S_0304_RankUp_title" speaker="UI - Quest Title">Syndicate Advancement: Alchemist</string>
+	<string key="98_S_0304_RankUp_description" speaker="UI - Tracker Text">Earn enough Faction Reputation to qualify for the rank of Alchemist and then complete the Trial of the Alchemist Quest from the Faction Representative in Reekwater.</string>
+	<string key="98_S_0304_CompleteTrial_Alchemist" speaker="UI - Tracker Text">Travel to Reekwater and complete the Trial of the Alchemist\n(Recommended Level: 60)</string>
 	<string key="98_S_01_theexperiment_title" speaker="UI - Quest Title">Trial of the Scrivener</string>
-	<string key="98_S_01_theexperiment_description" speaker="UI - Quest Description">Defeat Lost Gheist Malikor and use the Psychokinetic Absorber to capture any soul remnants to earn the rank of Scrivener. Talk to Scrivener Krockes in Brightwood when the talk is complete.</string>
+	<string key="98_S_01_theexperiment_description" speaker="UI - Quest Description">Defeat Lost Gheist Malikor and use the Psychokinetic Absorber to capture any soul remnants to earn the rank of Scrivener. Talk to Scrivener Krockes in Brightwood when the task is complete.</string>
 	<string key="98_S_01_theexperiment_start_prompt" speaker="UI - Player Prompt">"I am. What must I do?"</string>
 	<string key="98_S_01_theexperiment_proposal" speaker="Scrivener Krockes - Brightwood" name="AlchemistKrockes" gender="M" VO="Alchemist_98_S_01_theexperiment_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_S_01_theexperiment_proposal_next">You have arrived at the perfect moment, for I am ready to test my new Psychokinetic Absorber.\n\nDid you know that some of the Lost still have traces of their souls?</string>
 	<string key="98_S_01_theexperiment_proposal_prompt" speaker="UI - Player Prompt">"Are you sure about that?"</string>
@@ -445,20 +445,20 @@
 	<string key="98_S_03_lostnotlost_killtarget_defeat_AI" speaker="UI">Defeat {targetName}</string>
 	<string key="98_S_03_lostnotlost_collect_IO" speaker="UI">Collect the Psychokinetic Absorber</string>
 	<string key="98_S_03_lostnotlost_destroy_item" speaker="UI">Destroy the Psychokinetic Absorber with the aid of the Dryads</string>
-	<string key="98_C_0001_RankUp_title">Covenant Advancement: Templar</string>
-	<string key="98_C_0001_RankUp_description">Earn Faction Reputation and prove yourself worthy of the rank of Templar</string>
-	<string key="98_C_0001_RankUp_factionhandoff">Complete missions from the Faction Board, then report to the local Magistrate</string>
-	<string key="98_C_Reach_NextCovenantRank">Earn Faction Reputation to face the Trial for your next Rank</string>
-	<string key="98_C_0001_CompleteTrial_Templar">Travel to Brightwood and complete the Trial of the Templar\n(Recommended Level: 25)</string>
-	<string key="98_C_0102_RankUp_title">Covenant Advancement: Excubitor</string>
-	<string key="98_C_0102_RankUp_description">Earn Faction Reputation and prove yourself worthy of the rank of Excubitor</string>
-	<string key="98_C_0102_CompleteTrial_Excubitor">Travel to Weaver's Fen and complete the Trial of the Excubitor</string>
-	<string key="98_C_0203_RankUp_title">Covenant Advancement: Lumen</string>
-	<string key="98_C_0203_RankUp_description">Earn Faction Reputation and prove yourself worthy of the rank of Lumen</string>
-	<string key="98_C_0203_CompleteTrial_Lumen">Travel to Great Cleave and complete the Trial of the Lumen</string>
-	<string key="98_C_0304_RankUp_title">Covenant Advancement: Adjudicator</string>
-	<string key="98_C_0304_RankUp_description">Earn Faction Reputation and prove yourself worthy of the rank of Adjudicator</string>
-	<string key="98_C_0304_CompleteTrial_Adjudicator">Travel to Shattered Mountain and complete the Trial of the Adjudicator</string>
+	<string key="98_C_0001_RankUp_title" speaker="UI - Quest Title">Covenant Advancement: Templar</string>
+	<string key="98_C_0001_RankUp_description" speaker="UI - Tracker Text">Earn enough Faction Reputation to qualify for the rank of Templar and then complete the Trial of the Templar Quest from the Faction Representative in Brightwood.</string>
+	<string key="98_C_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Complete missions from the Faction Board, then report to the local Magistrate</string>
+	<string key="98_C_Reach_NextCovenantRank" speaker="UI - Tracker Text">Earn Faction Reputation to face the Trial for your next Rank</string>
+	<string key="98_C_0001_CompleteTrial_Templar" speaker="UI - Tracker Text">Travel to Brightwood and complete the Trial of the Templar\n(Recommended Level: 25)</string>
+	<string key="98_C_0102_RankUp_title" speaker="UI - Quest Title">Covenant Advancement: Excubitor</string>
+	<string key="98_C_0102_RankUp_description" speaker="UI - Tracker Text">Earn enough Faction Reputation to qualify for the rank of Excubitor and then complete the Trial of the Excubitor Quest from the Faction Representative in Weaver's Fen.</string>
+	<string key="98_C_0102_CompleteTrial_Excubitor" speaker="UI - Tracker Text">Travel to Weaver's Fen and complete the Trial of the Excubitor\n(Recommended Level: 35)</string>
+	<string key="98_C_0203_RankUp_title" speaker="UI - Quest Title">Covenant Advancement: Lumen</string>
+	<string key="98_C_0203_RankUp_description" speaker="UI - Tracker Text">Earn enough Faction Reputation to qualify for the rank of Lumen and then complete the Trial of the Lumen Quest from the Faction Representative in Great Cleave.</string>
+	<string key="98_C_0203_CompleteTrial_Lumen" speaker="UI - Tracker Text">Travel to Great Cleave and complete the Trial of the Lumen\n(Recommended Level: 49)</string>
+	<string key="98_C_0304_RankUp_title" speaker="UI - Quest Title">Covenant Advancement: Adjudicator</string>
+	<string key="98_C_0304_RankUp_description" speaker="UI - Tracker Text">Earn enough Faction Reputation to qualify for the rank of Adjudicator and then complete the Trial of the Adjudicator Quest from the Faction Representative in Shattered Mountain.</string>
+	<string key="98_C_0304_CompleteTrial_Adjudicator" speaker="UI - Tracker Text">Travel to Shattered Mountain and complete the Trial of the Adjudicator\n(Recommended Level: 60)</string>
 	<string key="98_C_01_theapostate_title" speaker="UI - Quest Title">Trial of the Templar</string>
 	<string key="98_C_01_theapostate_description" speaker="UI - Quest Description">Track down the missing Covenant Initiate Bremen Luca and attempt to discover what happened to him to advance to the rank of Templar. Talk to Templar Roose in Brightwood when the task is complete.</string>
 	<string key="98_C_01_theapostate_start_prompt" speaker="UI - Player Prompt">"I am ready. What do I do?"</string>
@@ -508,75 +508,75 @@
 	<string key="0205_0102_Battles_Embrace_Gear_title" speaker="UI - Quest Title">Battle's Embrace</string>
 	<string key="0205_0102_Battles_Embrace_Gear_description" speaker="UI - Quest Description" gender="F">Recover the patterns and components needed to craft the Battle's Embrace Armor. Talk to Justiciar Sobol in Brightwood when the task is complete.</string>
 	<string key="0205_0102_Battles_Embrace_Gear_start_prompt" speaker="UI - Player Prompt">"Nothing worth doing is easy."</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal" speaker="Justiciar Sobol - Brightwood" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_ProposalResponse" VO_Status="Recorded" dialogue-next="@0205_0102_Battles_Embrace_Gear_proposal_next">True, true. But I've heard of something that could help against the troubles.\n\nLegendary armor that makes the wearer into a veritable fortress!</string>
+	<string key="0205_0102_Battles_Embrace_Gear_proposal" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_ProposalResponse" VO_Status="Recorded" dialogue-next="@0205_0102_Battles_Embrace_Gear_proposal_next">True, true. But I've heard of something that could help against the troubles.\n\nLegendary armor that makes the wearer into a veritable fortress!</string>
 	<string key="0205_0102_Battles_Embrace_Gear_proposal_prompt" speaker="UI - Player Prompt">"What is it?"</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal_next" speaker="Justiciar Sobol - Brightwood" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_CompleteNext" VO_Status="Recorded" dialogue-next="@0205_0102_Battles_Embrace_Gear_proposal_next2" dialogue-prompt="@0205_0102_Battles_Embrace_Gear_proposal_prompt">Battle's Embrace. It was once worn by a powerful commander, who marched against the Corrupted and beat them back to Shattered Mountain.\n\nBut then the commander, and the armor, vanish from the tale.</string>
+	<string key="0205_0102_Battles_Embrace_Gear_proposal_next" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_CompleteNext" VO_Status="Recorded" dialogue-next="@0205_0102_Battles_Embrace_Gear_proposal_next2" dialogue-prompt="@0205_0102_Battles_Embrace_Gear_proposal_prompt">Battle's Embrace. It was once worn by a powerful commander, who marched against the Corrupted and beat them back to Shattered Mountain.\n\nBut then the commander, and the armor, vanish from the tale.</string>
 	<string key="0205_0102_Battles_Embrace_Gear_proposal_prompt2" speaker="UI - Player Prompt">"No one knows where it is?"</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal_next2" speaker="Justiciar Sobol - Brightwood" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@0205_0102_Battles_Embrace_Gear_proposal_prompt2">No, the legends are hazy on what happened after the commander reached Shattered Mountain.\n\nAll that is left are the patterns used to make the armor. With these, and some materials, the armor could be reforged.</string>
+	<string key="0205_0102_Battles_Embrace_Gear_proposal_next2" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@0205_0102_Battles_Embrace_Gear_proposal_prompt2">No, the legends are hazy on what happened after the commander reached Shattered Mountain.\n\nAll that is left are the patterns used to make the armor. With these, and some materials, the armor could be reforged.</string>
 	<string key="0205_0102_Battles_Embrace_Gear_incomplete" speaker="Justiciar Sobol - Brightwood" gender="F">Keep alert for any of the materials needed to craft Battle's Embrace.\n\nWearing that armor is sure to inspire an entire generation of new warriors to fight against the Corrupted.</string>
-	<string key="0205_0102_Battles_Embrace_Gear_complete" speaker="Justiciar Sobol - Brightwood" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_AvailResponse" VO_Status="Recorded" dialogue-next="@0205_0102_Battles_Embrace_Gear_complete_next">Do my eyes deceive me? You found all the materials to craft Battle's Embrace?\n\nYes, yes! To think, I get to see this legendary armor in action!</string>
+	<string key="0205_0102_Battles_Embrace_Gear_complete" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_AvailResponse" VO_Status="Recorded" dialogue-next="@0205_0102_Battles_Embrace_Gear_complete_next">Do my eyes deceive me? You found all the materials to craft Battle's Embrace?\n\nYes, yes! To think, I get to see this legendary armor in action!</string>
 	<string key="0205_0102_Battles_Embrace_Gear_complete_prompt" speaker="UI - Player Prompt">"Does it look as the legends say?"</string>
-	<string key="0205_0102_Battles_Embrace_Gear_complete_next" speaker="Justiciar Sobol - Brightwood" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_CompleteNext3" VO_Status="Recorded" dialogue-prompt="@0205_0102_Battles_Embrace_Gear_complete_prompt">Yes! It's everything I hoped! May it hold you in its embrace, protecting you from the battles that surely lie ahead.\n\nI'll have quite the tale to share tonight - Battle's Embrace has returned!</string>
-	<string key="0205_0102_01_container_Battles_Embrace_questComplete_1">Complete Quest: Best Foot Forward</string>
-	<string key="0205_0102_02_container_Battles_Embrace_questComplete_2">Complete Quest: Embrace the Fight</string>
-	<string key="0205_0102_03_container_Battles_Embrace_questComplete_3">Complete Quest: Grievous Blows</string>
-	<string key="0205_0102_04_container_Battles_Embrace_questComplete_4">Complete Quest: Running the Gauntlet</string>
-	<string key="0205_0102_05_container_Battles_Embrace_questComplete_5">Complete Quest: Ahead of the Rest</string>
-	<string key="0205_0102_01_Boots_title">Best Foot Forward</string>
+	<string key="0205_0102_Battles_Embrace_Gear_complete_next" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_CompleteNext3" VO_Status="Recorded" dialogue-prompt="@0205_0102_Battles_Embrace_Gear_complete_prompt">Yes! It's everything I hoped! May it hold you in its embrace, protecting you from the battles that surely lie ahead.\n\nI'll have quite the tale to share tonight - Battle's Embrace has returned!</string>
+	<string key="0205_0102_01_container_Battles_Embrace_questComplete_1" speaker="UI - Tracker Text">Complete Quest: Best Foot Forward</string>
+	<string key="0205_0102_02_container_Battles_Embrace_questComplete_2" speaker="UI - Tracker Text">Complete Quest: Embrace the Fight</string>
+	<string key="0205_0102_03_container_Battles_Embrace_questComplete_3" speaker="UI - Tracker Text">Complete Quest: Grievous Blows</string>
+	<string key="0205_0102_04_container_Battles_Embrace_questComplete_4" speaker="UI - Tracker Text">Complete Quest: Running the Gauntlet</string>
+	<string key="0205_0102_05_container_Battles_Embrace_questComplete_5" speaker="UI - Tracker Text">Complete Quest: Ahead of the Rest</string>
+	<string key="0205_0102_01_Boots_title" speaker="UI - Quest Title">Best Foot Forward</string>
 	<string key="0205_0102_01_Boots_description">Collect Stout Fenton Hides from Fenton Hamlet, Treated Hobnails from Cayo de la Muerte, and Restless Metal Bands from Festering Flotsam. Then visit a Tier 3 Forge to craft the Battle's Embrace Boots.</string>
-	<string key="0205_0102_01_Boots_task_01">Handed the recipe.</string>
-	<string key="0205_0102_01_Boots_task_02" comment="Fenton Hamlet">Travel to {POITags} in Weaver's Fen to collect Stout Fenton Hides</string>
-	<string key="0205_0102_01_Boots_task_03" comment="Stout Fenton Hides">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_01_Boots_task_04" comment="Cayo de la Muerte">Travel to the {POITags} in Cutlass Keys to collect Treated Hobnails</string>
-	<string key="0205_0102_01_Boots_task_05" comment="Treated Hobnails">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_01_Boots_task_06" comment="Festering Flotsam">Travel to {POITags} in Restless Shore to collect Restless Metal Bands</string>
-	<string key="0205_0102_01_Boots_task_07" comment="Restless Metal Bands">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_01_Boots_task_08">Visit a Forge</string>
-	<string key="0205_0102_01_Boots_task_09">Craft the {itemName}</string>
-	<string key="0205_0102_02_Breastplate_title">Embrace the Fight</string>
-	<string key="0205_0102_02_Breastplate_description">Collect Stalwart Rivets from The Golden Princess, Evershine Polish from Gelida Pillars, and Hammered Metal from Acedia Bastion. Then visit a Tier 3 Forge to craft the Battle's Embrace Breastplate.</string>
-	<string key="0205_0102_02_Breastplate_task_01">Handed the recipe.</string>
-	<string key="0205_0102_02_Breastplate_task_02" comment="The Golden Princess">Travel to {POITags} in Restless Shore to collect</string>
-	<string key="0205_0102_02_Breastplate_task_03" comment="Stalwart Rivets">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_02_Breastplate_task_04" comment="Gelida Pillars">Travel to {POITags} in Great Cleave to collect</string>
-	<string key="0205_0102_02_Breastplate_task_05" comment="Evershine Polish">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_02_Breastplate_task_06" comment="Acedia Bastion">Travel to {POITags} in Great Cleave to collect</string>
-	<string key="0205_0102_02_Breastplate_task_07" comment="Hammered Metal">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_02_Breastplate_task_08">Visit a Forge</string>
-	<string key="0205_0102_02_Breastplate_task_09">Craft the {itemName}</string>
-	<string key="0205_0102_03_Greaves_title">Grievous Blows</string>
+	<string key="0205_0102_01_Boots_task_01" speaker="UI - Tracker Text">Handed the recipe.</string>
+	<string key="0205_0102_01_Boots_task_02" comment="Fenton Hamlet" speaker="UI - Tracker Text">Travel to {POITags} in Weaver's Fen to collect Stout Fenton Hides</string>
+	<string key="0205_0102_01_Boots_task_03" comment="Stout Fenton Hides" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0205_0102_01_Boots_task_04" comment="Cayo de la Muerte" speaker="UI - Tracker Text">Travel to the {POITags} in Cutlass Keys to collect Treated Hobnails</string>
+	<string key="0205_0102_01_Boots_task_05" comment="Treated Hobnails" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0205_0102_01_Boots_task_06" comment="Festering Flotsam" speaker="UI - Tracker Text">Travel to {POITags} in Restless Shore to collect Restless Metal Bands</string>
+	<string key="0205_0102_01_Boots_task_07" comment="Restless Metal Bands" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0205_0102_01_Boots_task_08" speaker="UI - Tracker Text">Visit a Forge</string>
+	<string key="0205_0102_01_Boots_task_09" speaker="UI - Tracker Text">Craft the {itemName}</string>
+	<string key="0205_0102_02_Breastplate_title" speaker="UI - Quest Title">Embrace the Fight</string>
+	<string key="0205_0102_02_Breastplate_description" speaker="UI - Tracker Text">Collect Stalwart Rivets from The Golden Princess, Evershine Polish from Gelida Pillars, and Hammered Metal from Acedia Bastion. Then visit a Tier 3 Forge to craft the Battle's Embrace Breastplate.</string>
+	<string key="0205_0102_02_Breastplate_task_01" speaker="UI - Tracker Text">Handed the recipe.</string>
+	<string key="0205_0102_02_Breastplate_task_02" comment="The Golden Princess" speaker="UI - Tracker Text">Travel to {POITags} in Restless Shore to collect Stalwart Rivets</string>
+	<string key="0205_0102_02_Breastplate_task_03" comment="Stalwart Rivets" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0205_0102_02_Breastplate_task_04" comment="Gelida Pillars" speaker="UI - Tracker Text">Travel to {POITags} in Great Cleave to collect Evershine Polish</string>
+	<string key="0205_0102_02_Breastplate_task_05" comment="Evershine Polish" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0205_0102_02_Breastplate_task_06" comment="Acedia Bastion" speaker="UI - Tracker Text">Travel to {POITags} in Great Cleave to collect Hammered Metal</string>
+	<string key="0205_0102_02_Breastplate_task_07" comment="Hammered Metal" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0205_0102_02_Breastplate_task_08" speaker="UI - Tracker Text">Visit a Forge</string>
+	<string key="0205_0102_02_Breastplate_task_09" speaker="UI - Tracker Text">Craft the {itemName}</string>
+	<string key="0205_0102_03_Greaves_title" speaker="UI - Quest Title">Grievous Blows</string>
 	<string key="0205_0102_03_Greaves_description">Collect Reforged Plating from Fort Damnation, Baneseed Oil from Propus, and Attuned Starmetal from Olympus. Then visit a Tier 3 Forge to craft the Battle's Embrace Greaves.</string>
-	<string key="0205_0102_03_Greaves_task_01">Handed the recipe.</string>
-	<string key="0205_0102_03_Greaves_task_02" comment="Fort Damnation">Travel to {POITags} in Restless Shore to collect</string>
-	<string key="0205_0102_03_Greaves_task_03" comment="Reforged Plating">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_03_Greaves_task_04" comment="Propus">Travel to {POITags} in Mourningdale to collect</string>
-	<string key="0205_0102_03_Greaves_task_05" comment="Baneseed Oil">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_03_Greaves_task_06" comment="Olympus">Travel to {POITags} in Mourningdale to collect</string>
-	<string key="0205_0102_03_Greaves_task_07" comment="Attuned Starmetal">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_03_Greaves_task_08">Visit a Forge</string>
-	<string key="0205_0102_03_Greaves_task_09">Craft the {itemName}</string>
-	<string key="0205_0102_04_Gauntlets_title">Running the Gauntlet</string>
-	<string key="0205_0102_04_Gauntlets_description">Collect Refined Balefire from Svikin's Stand, Flexible Mesh from Vela, and Essence of Power from Litheltop. Then visit a Tier 3 Forge to craft the Battle's Embrace Gauntlets.</string>
-	<string key="0205_0102_04_Gauntlets_task_01">Handed the recipe.</string>
-	<string key="0205_0102_04_Gauntlets_task_02" comment="Svikin's Stand">Travel to {POITags} in Great Cleave to collect Refined Balefire</string>
-	<string key="0205_0102_04_Gauntlets_task_03" comment="Refined Balefire">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_04_Gauntlets_task_04" comment="Vela">Travel to {POITags} in Edengrove to collect Flexible Mesh</string>
-	<string key="0205_0102_04_Gauntlets_task_05" comment="Flexible Mesh">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_04_Gauntlets_task_06" comment="Litheltop">Travel to {POITags} in Mourningdale to collect Essence of Power</string>
-	<string key="0205_0102_04_Gauntlets_task_07" comment="Essence of Power">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_04_Gauntlets_task_08">Visit a Forge</string>
-	<string key="0205_0102_04_Gauntlets_task_09">Craft the {itemName}</string>
-	<string key="0205_0102_05_Helm_title">Ahead of the Rest</string>
-	<string key="0205_0102_05_Helm_description">Collect Rugged Varnish from Nettlevex, Shards of Battle from Lower Slag Mine, and Heavy Padding from Upper Slag Mine. Then visit a Tier 3 Forge to craft the Battle's Embrace Helm.</string>
-	<string key="0205_0102_05_Helm_task_01">Handed the recipe.</string>
-	<string key="0205_0102_05_Helm_task_02" comment="Nettlevex">Travel to {POITags} in Edengrove to collect Rugged Varnish</string>
-	<string key="0205_0102_05_Helm_task_03" comment="Rugged Varnish">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_05_Helm_task_04" comment="Lower Slag Mine">Travel to {POITags} in Edengrove to collect Shards of Battle</string>
-	<string key="0205_0102_05_Helm_task_05" comment="Shards of Battle">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_05_Helm_task_06" comment="Upper Slag Mine">Travel to {POITags} in Edengrove to collect Heavy Padding</string>
-	<string key="0205_0102_05_Helm_task_07" comment="Heavy Padding">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_05_Helm_task_08">Visit a Forge</string>
-	<string key="0205_0102_05_Helm_task_09">Craft the {itemName}</string>
+	<string key="0205_0102_03_Greaves_task_01" speaker="UI - Tracker Text">Handed the recipe.</string>
+	<string key="0205_0102_03_Greaves_task_02" comment="Fort Damnation" speaker="UI - Tracker Text">Travel to {POITags} in Restless Shore to collect Reforged Plating</string>
+	<string key="0205_0102_03_Greaves_task_03" comment="Reforged Plating" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0205_0102_03_Greaves_task_04" comment="Propus" speaker="UI - Tracker Text">Travel to {POITags} in Mourningdale to collect Baneseed Oil</string>
+	<string key="0205_0102_03_Greaves_task_05" comment="Baneseed Oil" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0205_0102_03_Greaves_task_06" comment="Olympus" speaker="UI - Tracker Text">Travel to {POITags} in Mourningdale to collect Attuned Starmetal</string>
+	<string key="0205_0102_03_Greaves_task_07" comment="Attuned Starmetal" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0205_0102_03_Greaves_task_08" speaker="UI - Tracker Text">Visit a Forge</string>
+	<string key="0205_0102_03_Greaves_task_09" speaker="UI - Tracker Text">Craft the {itemName}</string>
+	<string key="0205_0102_04_Gauntlets_title" speaker="UI - Quest Title">Running the Gauntlet</string>
+	<string key="0205_0102_04_Gauntlets_description" speaker="UI - Quest Description">Collect Refined Balefire from Svikin's Stand, Flexible Mesh from Vela, and Essence of Power from Litheltop. Then visit a Tier 3 Forge to craft the Battle's Embrace Gauntlets.</string>
+	<string key="0205_0102_04_Gauntlets_task_01" speaker="UI - Tracker Text">Handed the recipe.</string>
+	<string key="0205_0102_04_Gauntlets_task_02" comment="Svikin's Stand" speaker="UI - Tracker Text">Travel to {POITags} in Great Cleave to collect Refined Balefire</string>
+	<string key="0205_0102_04_Gauntlets_task_03" comment="Refined Balefire" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0205_0102_04_Gauntlets_task_04" comment="Vela" speaker="UI - Tracker Text">Travel to {POITags} in Edengrove to collect Flexible Mesh</string>
+	<string key="0205_0102_04_Gauntlets_task_05" comment="Flexible Mesh" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0205_0102_04_Gauntlets_task_06" comment="Litheltop" speaker="UI - Tracker Text">Travel to {POITags} in Mourningdale to collect Essence of Power</string>
+	<string key="0205_0102_04_Gauntlets_task_07" comment="Essence of Power" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0205_0102_04_Gauntlets_task_08" speaker="UI - Tracker Text">Visit a Forge</string>
+	<string key="0205_0102_04_Gauntlets_task_09" speaker="UI - Tracker Text">Craft the {itemName}</string>
+	<string key="0205_0102_05_Helm_title" speaker="UI - Quest Title">Ahead of the Rest</string>
+	<string key="0205_0102_05_Helm_description" speaker="UI - Quest Description">Collect Rugged Varnish from Nettlevex, Shards of Battle from Lower Slag Mine, and Heavy Padding from Upper Slag Mine. Then visit a Tier 3 Forge to craft the Battle's Embrace Helm.</string>
+	<string key="0205_0102_05_Helm_task_01" speaker="UI - Tracker Text">Handed the recipe.</string>
+	<string key="0205_0102_05_Helm_task_02" comment="Nettlevex" speaker="UI - Tracker Text">Travel to {POITags} in Edengrove to collect Rugged Varnish</string>
+	<string key="0205_0102_05_Helm_task_03" comment="Rugged Varnish" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0205_0102_05_Helm_task_04" comment="Lower Slag Mine" speaker="UI - Tracker Text">Travel to {POITags} in Edengrove to collect Shards of Battle</string>
+	<string key="0205_0102_05_Helm_task_05" comment="Shards of Battle" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0205_0102_05_Helm_task_06" comment="Upper Slag Mine" speaker="UI - Tracker Text">Travel to {POITags} in Edengrove to collect Heavy Padding</string>
+	<string key="0205_0102_05_Helm_task_07" comment="Heavy Padding" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0205_0102_05_Helm_task_08" speaker="UI - Tracker Text">Visit a Forge</string>
+	<string key="0205_0102_05_Helm_task_09" speaker="UI - Tracker Text">Craft the {itemName}</string>
 	<string key="0204_0104_Executioner_title" speaker="UI - Quest Title">Executioner</string>
 	<string key="0204_0104_Executioner_description" speaker="UI - Quest Description">Acquire Bucaneer's Plank from Stone Skull Fort, Hangman's Binding from Wayward Mounds, Blade of the Brutes from Plundering Shark, and the Infernal Coagulant from Grus to craft the infamous Axe, "Executioner." Talk to Head Cleric Pennyfather in the Brightwood Settlement when the task is complete.</string>
 	<string key="0204_0104_Executioner_start_prompt" speaker="UI - Player Prompt">"I'd be interested in that."</string>
@@ -589,52 +589,52 @@
 	<string key="0203_0103_Hope_Manifest_proposal" speaker="Embalmer Bankole - Brightwood" gender="M" VO="Survivalist_0203_0103_Hope_Manifest_Proposal" VO_Status="Recorded">Oh, you would not find such a thing, not for many centuries now. But I can show you to remake it.\n\nTake this list of the elements required, and then you can make the staff, "Hope Manifest."</string>
 	<string key="0203_0103_Hope_Manifest_incomplete" speaker="Embalmer Bankole - Brightwood" gender="M">You seek the elements of the staff, still?\n\nYou will find them, if you keep trying.</string>
 	<string key="0203_0103_Hope_Manifest_complete" speaker="Embalmer Bankole - Brightwood" gender="M" VO="Survivalist_0203_0103_Hope_Manifest_Complete" VO_Status="Recorded">There is the new light of Brightwood, and you found everything you needed, yes?\n\nWith that staff in hand, you are the very thing, "Hope Manifest." Brightness will follow, wherever you go.</string>
-	<string key="0204_0104_BucaneersPlank_Quest_objective_title">Collect items used to craft the Executioner</string>
-	<string key="0204_0104_HangmansBinding_Quest_objective_title">Collect items used to craft the Executioner</string>
-	<string key="0204_0104_BladeBrute_Quest_objective_title">Collect items used to craft the Executioner</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_objective_title">Collect items then craft the Executioner</string>
-	<string key="0204_0104_BucaneersPlank_Quest_description">The most treacherous of pirates only know one love: the sea's embrace.</string>
-	<string key="0204_0104_HangmansBinding_Quest_description">Those bound to their fates in a gallows cannot escape them. Only you can deliver them.</string>
-	<string key="0204_0104_BladeBrute_Quest_description">The most brutal of us must give away their mercy, for they have none to show their foes.</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_description">Even the hottest blood running through veins oft still into fetid darkness.</string>
-	<string key="0203_0103_MendersCloth_Quest_objective_title">Collect items used to craft Hope Manifest</string>
-	<string key="0203_0103_SoothsayerSalve_Quest_objective_title">Collect items used to craft Hope Manifest</string>
-	<string key="0203_0103_MercysBreath_Quest_objective_title">Collect items used to craft Hope Manifest</string>
-	<string key="0203_0103_HopeCatalyst_Quest_objective_title">Collect items then craft Hope Manifest</string>
-	<string key="0203_0103_MendersCloth_Quest_description">Healing lies in the cloth of the mender, who dresses wounds carefully like an aegis.</string>
-	<string key="0203_0103_SoothsayerSalve_Quest_description">Healing lies in the salve of the sooth sayer, a calming touch to numb pain.</string>
-	<string key="0203_0103_MercysBreath_Quest_description">Healing lies in the Breath of Mercy, a gift from the Fates who continue to weave.</string>
-	<string key="0203_0103_HopeCatalyst_Quest_description">Healing lies in hope, the hope to live, and those who catalyze that hope.</string>
-	<string key="0204_0104_BucaneersPlank_Quest_task_01" comment="Stone Skull Fort">Travel to {POITags} in Cutlass Keys to collect Bucaneer's Plank</string>
-	<string key="0204_0104_BucaneersPlank_Quest_task_02" comment="Bucaneer's Plank">Collect {itemName} from {targetName} enemies</string>
-	<string key="0204_0104_HangmansBinding_Quest_task_01" comment="Wayward Mounds">Travel to {POITags} in Great Cleave to collect Hangman's Binding</string>
-	<string key="0204_0104_HangmansBinding_Quest_task_02" comment="Hangman's Binding">Collect {itemName} from Ghoul, Revenant, and Geist enemies</string>
-	<string key="0204_0104_HangmansBinding_Quest_task_03" comment="Hangman's Binding">Collect {itemName} from {targetName} enemies</string>
-	<string key="0204_0104_BladeBrute_Quest_task_01" comment="Plundering Shark">Travel to {POITags} in Restless Shore to collect Blade of the Brutes</string>
-	<string key="0204_0104_BladeBrute_Quest_task_02" comment="Blade of the Brutes">Collect {itemName} from {targetName} enemies</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_01" comment="Grus">Travel to {POITags} in Mourningdale to collect the Infernal Coagulant</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_02" comment="Infernal Coagulant">Collect {itemName} from {targetName}</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_03">Handed the recipe.</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_04">Visit a Forge</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_05">Create the {itemName}</string>
-	<string key="0203_0103_MendersCloth_Quest_task_01" comment="Seele's Stake">Travel to {POITags} in Restless Shore to collect Mender's Cloth</string>
-	<string key="0203_0103_MendersCloth_Quest_task_02" comment="Mender's Cloth">Collect {itemName} from {targetName} enemies</string>
-	<string key="0203_0103_SoothsayerSalve_Quest_task_01" comment="Catara Falls">Travel to {POITags} in Great Cleave to collect Soothsayer's Salve</string>
-	<string key="0203_0103_SoothsayerSalve_Quest_task_02" comment="Soothsayer's Salve">Collect {itemName} from {targetName} enemies</string>
-	<string key="0203_0103_MercysBreath_Quest_task_01" comment="Eridanus">Travel to {POITags} in Restless Shore to collect Mercy's Breath</string>
-	<string key="0203_0103_MercysBreath_Quest_task_02" comment="Mercy's Breath">Collect {itemName} from {targetName} enemies</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_01" comment="Vela">Travel to {POITags} in Mourningdale to collect Hope Catalyst</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_02" comment="Hope Catalyst">Collect {itemName} from {targetName}</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_03">Handed the recipe.</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_04">Visit an Arcane Station</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_05">Create {itemName}</string>
-	<string key="0203_0103_01_container_Weapon_Hope_Manifest_questComplete_1">Complete Quest: Cut from the Same Cloth</string>
-	<string key="0203_0103_02_container_Weapon_Hope_Manifest_questComplete_2">Complete Quest: Salvaging the Salve</string>
-	<string key="0203_0103_03_container_Weapon_Hope_Manifest_questComplete_3">Complete Quest: Merciful Fates</string>
-	<string key="0203_0103_04_container_Weapon_Hope_Manifest_questComplete_4">Complete Quest: Source of Hope</string>
-	<string key="0204_0104_01_container_Weapon_Executioner_questComplete_1">Complete Quest: Walking the Plank</string>
-	<string key="0204_0104_02_container_Weapon_Executioner_questComplete_2">Complete Quest: The Ties that Bind</string>
-	<string key="0204_0104_03_container_Weapon_Executioner_questComplete_3">Complete Quest: Shakespearean Brutality</string>
-	<string key="0204_0104_04_container_Weapon_Executioner_questComplete_4">Complete Quest: Thicker than Water</string>
+	<string key="0204_0104_BucaneersPlank_Quest_objective_title" speaker="UI - Tracker Text">Collect items used to craft the Executioner</string>
+	<string key="0204_0104_HangmansBinding_Quest_objective_title" speaker="UI - Tracker Text">Collect items used to craft the Executioner</string>
+	<string key="0204_0104_BladeBrute_Quest_objective_title" speaker="UI - Tracker Text">Collect items used to craft the Executioner</string>
+	<string key="0204_0104_InfernalCoagulant_Quest_objective_title" speaker="UI - Tracker Text">Collect items then craft the Executioner</string>
+	<string key="0204_0104_BucaneersPlank_Quest_description" speaker="UI - Quest Description">The most treacherous of pirates only know one love: the sea's embrace.</string>
+	<string key="0204_0104_HangmansBinding_Quest_description" speaker="UI - Quest Description">Those bound to their fates in a gallows cannot escape them. Only you can deliver them.</string>
+	<string key="0204_0104_BladeBrute_Quest_description" speaker="UI - Quest Description">The most brutal of us must give away their mercy, for they have none to show their foes.</string>
+	<string key="0204_0104_InfernalCoagulant_Quest_description" speaker="UI - Quest Description">Even the hottest blood running through veins oft still into fetid darkness.</string>
+	<string key="0203_0103_MendersCloth_Quest_objective_title" speaker="UI - Tracker Text">Collect items used to craft Hope Manifest</string>
+	<string key="0203_0103_SoothsayerSalve_Quest_objective_title" speaker="UI - Tracker Text">Collect items used to craft Hope Manifest</string>
+	<string key="0203_0103_MercysBreath_Quest_objective_title" speaker="UI - Tracker Text">Collect items used to craft Hope Manifest</string>
+	<string key="0203_0103_HopeCatalyst_Quest_objective_title" speaker="UI - Tracker Text">Collect items then craft Hope Manifest</string>
+	<string key="0203_0103_MendersCloth_Quest_description" speaker="UI - Quest Description">Healing lies in the cloth of the mender, who dresses wounds carefully like an aegis.</string>
+	<string key="0203_0103_SoothsayerSalve_Quest_description" speaker="UI - Quest Description">Healing lies in the salve of the sooth sayer, a calming touch to numb pain.</string>
+	<string key="0203_0103_MercysBreath_Quest_description" speaker="UI - Quest Description">Healing lies in the Breath of Mercy, a gift from the Fates who continue to weave.</string>
+	<string key="0203_0103_HopeCatalyst_Quest_description" speaker="UI - Quest Description">Healing lies in hope, the hope to live, and those who catalyze that hope.</string>
+	<string key="0204_0104_BucaneersPlank_Quest_task_01" comment="Stone Skull Fort" speaker="UI - Tracker Text">Travel to {POITags} in Cutlass Keys to collect Bucaneer's Plank</string>
+	<string key="0204_0104_BucaneersPlank_Quest_task_02" comment="Bucaneer's Plank" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0204_0104_HangmansBinding_Quest_task_01" comment="Wayward Mounds" speaker="UI - Tracker Text">Travel to {POITags} in Great Cleave to collect Hangman's Binding</string>
+	<string key="0204_0104_HangmansBinding_Quest_task_02" comment="Hangman's Binding" speaker="UI - Tracker Text">Collect {itemName} from Ghoul, Revenant, and Geist enemies</string>
+	<string key="0204_0104_HangmansBinding_Quest_task_03" comment="Hangman's Binding" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0204_0104_BladeBrute_Quest_task_01" comment="Plundering Shark" speaker="UI - Tracker Text">Travel to {POITags} in Restless Shore to collect Blade of the Brutes</string>
+	<string key="0204_0104_BladeBrute_Quest_task_02" comment="Blade of the Brutes" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0204_0104_InfernalCoagulant_Quest_task_01" comment="Grus" speaker="UI - Tracker Text">Travel to {POITags} in Mourningdale to collect the Infernal Coagulant</string>
+	<string key="0204_0104_InfernalCoagulant_Quest_task_02" comment="Infernal Coagulant" speaker="UI - Tracker Text">Collect {itemName} from {targetName}</string>
+	<string key="0204_0104_InfernalCoagulant_Quest_task_03" speaker="UI - Tracker Text">Handed the recipe.</string>
+	<string key="0204_0104_InfernalCoagulant_Quest_task_04" speaker="UI - Tracker Text">Visit a Forge</string>
+	<string key="0204_0104_InfernalCoagulant_Quest_task_05" speaker="UI - Tracker Text">Create the {itemName}</string>
+	<string key="0203_0103_MendersCloth_Quest_task_01" comment="Seele's Stake" speaker="UI - Tracker Text">Travel to {POITags} in Restless Shore to collect Mender's Cloth</string>
+	<string key="0203_0103_MendersCloth_Quest_task_02" comment="Mender's Cloth" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0203_0103_SoothsayerSalve_Quest_task_01" comment="Catara Falls" speaker="UI - Tracker Text">Travel to {POITags} in Great Cleave to collect Soothsayer's Salve</string>
+	<string key="0203_0103_SoothsayerSalve_Quest_task_02" comment="Soothsayer's Salve" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0203_0103_MercysBreath_Quest_task_01" comment="Eridanus" speaker="UI - Tracker Text">Travel to {POITags} in Restless Shore to collect Mercy's Breath</string>
+	<string key="0203_0103_MercysBreath_Quest_task_02" comment="Mercy's Breath" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
+	<string key="0203_0103_HopeCatalyst_Quest_task_01" comment="Vela" speaker="UI - Tracker Text">Travel to {POITags} in Mourningdale to collect Hope Catalyst</string>
+	<string key="0203_0103_HopeCatalyst_Quest_task_02" comment="Hope Catalyst" speaker="UI - Tracker Text">Collect {itemName} from {targetName}</string>
+	<string key="0203_0103_HopeCatalyst_Quest_task_03" speaker="UI - Tracker Text">Handed the recipe.</string>
+	<string key="0203_0103_HopeCatalyst_Quest_task_04" speaker="UI - Tracker Text">Visit an Arcane Station</string>
+	<string key="0203_0103_HopeCatalyst_Quest_task_05" speaker="UI - Tracker Text">Create {itemName}</string>
+	<string key="0203_0103_01_container_Weapon_Hope_Manifest_questComplete_1" speaker="UI - Tracker Text">Complete Quest: Cut from the Same Cloth</string>
+	<string key="0203_0103_02_container_Weapon_Hope_Manifest_questComplete_2" speaker="UI - Tracker Text">Complete Quest: Salvaging the Salve</string>
+	<string key="0203_0103_03_container_Weapon_Hope_Manifest_questComplete_3" speaker="UI - Tracker Text">Complete Quest: Merciful Fates</string>
+	<string key="0203_0103_04_container_Weapon_Hope_Manifest_questComplete_4" speaker="UI - Tracker Text">Complete Quest: Source of Hope</string>
+	<string key="0204_0104_01_container_Weapon_Executioner_questComplete_1" speaker="UI - Tracker Text">Complete Quest: Walking the Plank</string>
+	<string key="0204_0104_02_container_Weapon_Executioner_questComplete_2" speaker="UI - Tracker Text">Complete Quest: The Ties that Bind</string>
+	<string key="0204_0104_03_container_Weapon_Executioner_questComplete_3" speaker="UI - Tracker Text">Complete Quest: Shakespearean Brutality</string>
+	<string key="0204_0104_04_container_Weapon_Executioner_questComplete_4" speaker="UI - Tracker Text">Complete Quest: Thicker than Water</string>
 </resources>
 

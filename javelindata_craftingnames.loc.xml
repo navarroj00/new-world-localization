@@ -1,4 +1,26 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="IngotT2_Down_Name">Downgrade Steel to Iron</string>
+	<string key="IngotT3_Down_Name">Downgrade Starmetal to Steel</string>
+	<string key="IngotT4_Down_Name">Downgrade Orichalcum to Starmetal</string>
+	<string key="IngotPreciousT1_Down_Name">Downgrade Gold to Silver</string>
+	<string key="IngotPreciousT2_Down_Name">Downgrade Platinum to Gold</string>
+	<string key="IngotPreciousT3_Down_Name">Downgrade Orichalcum to Platinum</string>
+	<string key="LeatherT2_Down_Name">Downgrade Rugged Leather to Coarse Leather</string>
+	<string key="LeatherT3_Down_Name">Downgrade Layered Leather to Rugged Leather</string>
+	<string key="LeatherT4_Down_Name">Downgrade Infused Leather to Layered Leather</string>
+	<string key="ClothT2_Down_Name">Downgrade Sateen to Linen</string>
+	<string key="ClothT3_Down_Name">Downgrade Silk to Sateen</string>
+	<string key="ClothT4_Down_Name">Downgrade Infused Silk to Silk</string>
+	<string key="TimberT2_Down_Name">Downgrade Lumber to Timber</string>
+	<string key="TimberT3_Down_Name">Downgrade Wyrdwood to Lumber</string>
+	<string key="TimberT4_Down_Name">Downgrade Ironwood to Wyrdwood</string>
+	<string key="BlockT2_Down_Name">Downgrade Stone Brick to Stone Block</string>
+	<string key="BlockT3_Down_Name">Downgrade Lodestone Brick to Stone Brick</string>
+	<string key="BlockT4_Down_Name">Downgrade Obsidian Voidstone to Lodestone Brick</string>
+	<string key="Procedural_GauntletVoidT2" rel_version="Weapon_Void_Gauntlet">Iron Void Gauntlet</string>
+	<string key="Procedural_GauntletVoidT3" rel_version="Weapon_Void_Gauntlet">Steel Void Gauntlet</string>
+	<string key="Procedural_GauntletVoidT4" rel_version="Weapon_Void_Gauntlet">Starmetal Void Gauntlet</string>
+	<string key="Procedural_GauntletVoidT5" rel_version="Weapon_Void_Gauntlet">Orichalcum Void Gauntlet</string>
 	<string key="Procedural_LightHead_DressT2">Linen Bonnet</string>
 	<string key="Procedural_LightHead_DressT3">Sateen Hat</string>
 	<string key="Procedural_LightHead_DressT4">Silk Fascinator</string>
@@ -36,8 +58,8 @@
 	<string key="LightFeet_ShadewalkerT5">Shadewalker Shoes</string>
 	<string key="Procedural_GauntletIceT2">Iron Ice Gauntlet</string>
 	<string key="Procedural_GauntletIceT3">Steel Ice Gauntlet</string>
-	<string key="Procedural_GauntletIceT4">Starmetal Ice Gauntlets</string>
-	<string key="Procedural_GauntletIceT5">Orichalcum Ice Gauntlets</string>
+	<string key="Procedural_GauntletIceT4">Starmetal Ice Gauntlet</string>
+	<string key="Procedural_GauntletIceT5">Orichalcum Ice Gauntlet</string>
 	<string key="PotionFamilyWardLostT3">Strong Lost Ward Potion</string>
 	<string key="PotionFamilyWardLostT4">Powerful Lost Ward Potion</string>
 	<string key="PotionFamilyWardLostT5">Infused Lost Ward Potion</string>
@@ -249,10 +271,10 @@
 	<string key="Procedural_2hGreatAxeT3">Steel Great Axe</string>
 	<string key="Procedural_2hGreatAxeT4">Starmetal Great Axe</string>
 	<string key="Procedural_2hGreatAxeT5">Orichalcum Great Axe</string>
-	<string key="Procedural_SpearT2">Iron Spear</string>
-	<string key="Procedural_SpearT3">Steel Spear</string>
-	<string key="Procedural_SpearT4">Starmetal Spear</string>
-	<string key="Procedural_SpearT5">Orichalcum Spear</string>
+	<string key="Procedural_SpearT2">Treated Wood Spear</string>
+	<string key="Procedural_SpearT3">Lacquered Wood Spear</string>
+	<string key="Procedural_SpearT4">Wyrdwood Spear</string>
+	<string key="Procedural_SpearT5">Ironwood Spear</string>
 	<string key="Procedural_HatchetT2">Iron Hatchet</string>
 	<string key="Procedural_HatchetT3">Steel Hatchet</string>
 	<string key="Procedural_HatchetT4">Starmetal Hatchet</string>
@@ -267,7 +289,7 @@
 	<string key="Procedural_ShieldTowerT4">Starmetal Tower Shield</string>
 	<string key="Procedural_ShieldTowerT5">Orichalcum Tower Shield</string>
 	<string key="Procedural_BowT2">Treated Wood Bow</string>
-	<string key="Procedural_BowT3">Laquered Wood Bow</string>
+	<string key="Procedural_BowT3">Lacquered Wood Bow</string>
 	<string key="Procedural_BowT4">Wyrdwood Bow</string>
 	<string key="Procedural_BowT5">Ironwood Bow</string>
 	<string key="Procedural_MusketT2">Iron Musket</string>
@@ -399,10 +421,10 @@
 	<string key="Procedural_RobeFeetT3">Sateen Robe Shoes</string>
 	<string key="Procedural_RobeFeetT4">Silk Robe Shoes</string>
 	<string key="Procedural_RobeFeetT5">Infused Silk Robe Shoes</string>
-	<string key="Procedural_BagAT2">Coarse Leather Bag</string>
-	<string key="Procedural_BagAT3">Rugged Leather Bag</string>
-	<string key="Procedural_BagAT4">Layered Leather Bag</string>
-	<string key="Procedural_BagAT5">Infused Leather Bag</string>
+	<string key="Procedural_BagAT2">Coarse Leather Adventurer's Satchel</string>
+	<string key="Procedural_BagAT3">Rugged Leather Adventurer's Satchel</string>
+	<string key="Procedural_BagAT4">Layered Leather Adventurer's Satchel</string>
+	<string key="Procedural_BagAT5">Infused Leather Adventurer's Satchel</string>
 	<string key="Procedural_StaffFireT2">Iron Fire Staff</string>
 	<string key="Procedural_StaffFireT3">Steel Fire Staff</string>
 	<string key="Procedural_StaffFireT4">Starmetal Fire Staff</string>
@@ -783,16 +805,6 @@
 	<string key="2hGreatAxeT3_CraftName">Steel\nGreat Axe</string>
 	<string key="2hGreatAxeT4_CraftName">Starmetal\nGreat Axe</string>
 	<string key="2hGreatAxeT5_CraftName">Orichalcum\nGreat Axe</string>
-	<string key="1hClubT1_CraftName">WoodClub</string>
-	<string key="1hClubT2_CraftName">Iron\nMace</string>
-	<string key="1hClubT3_CraftName">Steel\nMace</string>
-	<string key="1hClubT4_CraftName">Starmetal\nMace</string>
-	<string key="1hClubT5_CraftName">Orichalcum\nMace</string>
-	<string key="2hClubT1_CraftName">Flint\nGreatclub</string>
-	<string key="2hClubT2_CraftName">Iron\nGreathammer</string>
-	<string key="2hClubT3_CraftName">Steel\nGreathammer</string>
-	<string key="2hClubT4_CraftName">Starmetal\nGreathammer</string>
-	<string key="2hClubT5_CraftName">Orichalcum\nGreathammer</string>
 	<string key="2hSpearT1_CraftName">Flint\nSpear</string>
 	<string key="2hSpearT2_CraftName">Iron\nSpear</string>
 	<string key="2hSpearBT2_CraftName">Cold Forged\nIron\nSpear</string>
@@ -1370,10 +1382,6 @@
 	<string key="CombatDummyT1_CraftName">Training Dummy</string>
 	<string key="WindMillT2_CraftName">Grain Mill T2</string>
 	<string key="FeedT1_CraftName">Feed</string>
-	<string key="1hCelestialGauntlet_HealT2_CraftName">Iron\nCelestial\nGauntlet</string>
-	<string key="1hCelestialGauntlet_HealT3_CraftName">Steel\nCelestial\nGauntlet</string>
-	<string key="1hCelestialGauntlet_HealT4_CraftName">Starmetal\nCelestial\nGauntlet</string>
-	<string key="1hCelestialGauntlet_HealT5_CraftName">Orichalcum\nCelestial\nGauntlet</string>
 	<string key="FoodHealthRecoveryT1_CraftName">Light\nRation</string>
 	<string key="FoodCorruptedT1_CraftName">Cooked\nMeat</string>
 	<string key="FoodLostT1_CraftName">Cooked\nFish</string>

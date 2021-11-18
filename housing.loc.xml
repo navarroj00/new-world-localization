@@ -44,6 +44,7 @@
 	<string key="ui_house_hint_decorate">Decorate</string>
 	<string key="ui_house_hint_exit">Exit</string>
 	<string key="ui_house_hint_menu">Menu</string>
+	<string key="ui_house_hint_tips">Tips</string>
 	<string key="ui_house_hud_hint">You are invisible to other players</string>
 	<string key="ui_house_max_home_owned_on_territory">Max Homes Owned On Territory</string>
 	<string key="ui_house_menu">Manage Your House.</string>
@@ -113,13 +114,13 @@
 	<string key="ui_housing_update_time">This list will update in {time}</string>
 	<string key="ui_lighting">Lighting</string>
 	<string key="ui_max_homes_owned">Max Homes Owned</string>
-	<string key="ui_max_homes_owned_territory">Max Homes Owned On This Territory</string>
+	<string key="ui_max_homes_owned_territory">Max Homes Owned In This Territory</string>
 	<string key="ui_misc">Misc</string>
 	<string key="ui_my_house_map_desc">{location} house {number}</string>
 	<string key="ui_my_house_map_desc_disabled">{location} house {number} (Disabled)</string>
 	<string key="ui_my_house_map_title">Your House</string>
 	<string key="ui_my_houses_map_title">Your Houses</string>
-	<string key="ui_pay_property_tax_desc">Pay Property tax to enable your house.</string>
+	<string key="ui_pay_property_tax_desc">Pay Property tax via the map or at your house.</string>
 	<string key="ui_no_home_owners">Empty House</string>
 	<string key="ui_num_housing_points">{points} Points</string>
 	<string key="ui_owner_list">Owner List</string>
@@ -156,6 +157,7 @@
 	<string key="ui_housingDecResult_TimeOut">Cannot place, time out</string>
 	<string key="ui_housingDecResult_ItemLimit">Cannot place, too many items</string>
 	<string key="ui_housingDecResult_TagLimit">Cannot place, too many items of this type</string>
+	<string key="ui_buildmode_disabled">Decoration mode is under maintenance and is currently disabled</string>
 	<string key="ui_housingDecResult_entitlementLimit">Cannot place, too many items of this type</string>
 	<string key="ui_inn_checked_in">{territoryName} is now your new recall point.</string>
 	<string key="ui_active_home_point_fail">Failed to check in</string>
@@ -209,6 +211,7 @@
 	<string key="ui_house_compensation_title">Housing Compensation</string>
 	<string key="ui_house_compensation_message_JAV141577">Due to incorrect messaging around taxes for first time homebuyers, you have been granted {amount} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; as a homebuyer. We hope you continue to enjoy New World and your house.</string>
 	<string key="ui_house_type_items">Items</string>
+	<string key="ui_house_placed_items">Placed</string>
 	<string key="ui_house_type_items_limits">Up to {numPets} {petPluralOrSingle}, {numLights} {lightPluralOrSingle}, and {numStorage} {storagePluralOrSingle}.</string>
 	<string key="ui_house_type_pet_singular">pet</string>
 	<string key="ui_house_type_pet_plural">pets</string>
@@ -218,5 +221,16 @@
 	<string key="ui_house_type_storage_chest_plural">storage chests</string>
 	<string key="ui_house_type_cooldown">Cooldown</string>
 	<string key="ui_house_type_trophies">Trophy Slots</string>
+	<string key="ui_house_all_placed_category">All Items in this house</string>
+	<string key="ui_housing_return_all_items">Return all items to storage</string>
+	<string key="ui_housing_return_all_items_popup_header">Return all items?</string>
+	<string key="ui_housing_return_all_items_popup_description">Are you sure you want to remove all items placed in this house? All items will be returned to your storage.</string>
+	<string key="ui_housing_no_placed_items_found">No items placed</string>
+	<string key="ui_locate_item">Locate Item</string>
+	<string key="ui_return_to_storage">Return to storage</string>
+	<string key="ui_house_lost_restored_message">We identified your house was lost due to an issue with the game. Your house in {settlement} has been restored.</string>
+	<string key="ui_house_lost_restored_title">House restored</string>
+	<string key="ui_house_lost_refunded_message">We identified your house was lost due to an issue with the game. Your house in {settlement} has been refunded and the furnishings returned to your storage.</string>
+	<string key="ui_house_lost_refunded_title">House refunded</string>
 </resources>
 

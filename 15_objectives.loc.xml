@@ -2,7 +2,7 @@
 	<string key="1503_1504_a_Title" speaker="UI - Quest Title">Lupine Observations</string>
 	<string key="1503_1504_b_Description" speaker="UI -Quest Description">Defeat Fangsnap in Fangsnap's Den for Survivalist Wilson in the Restless Shores Settlement.</string>
 	<string key="1503_1504_b_start" speaker="UI - Player Prompt">"What are you referring to?"</string>
-	<string key="1503_1504_c_Proposal" speaker="Survivalist Wilson - Restless Shore" name="SurvivalistWilson" gender="F" location="settlement" VO="Survivalist_1503_1504_Lupine_ProposalResponse" VO_Status="Recorded" dialogue-next="@1503_1504_c_Proposal_next">Animals talking, walking on two legs, and at least one of them is even taking on human form.\n\nMy theory is that Angry Earth's infected them with lycanthropy - we have ourslves a legitimate werewolf!</string>
+	<string key="1503_1504_c_Proposal" speaker="Survivalist Wilson - Restless Shore" name="SurvivalistWilson" gender="F" location="settlement" VO="Survivalist_1503_1504_Lupine_ProposalResponse" VO_Status="Recorded" dialogue-next="@1503_1504_c_Proposal_next">Animals talking, walking on two legs, and at least one of them is even taking on human form.\n\nMy theory is that Angry Earth's infected them with lycanthropy - we have ourselves a legitimate werewolf!</string>
 	<string key="1503_1504_c_Proposal_prompt" speaker="UI - Player Prompt">"It changes from human to wolf?"</string>
 	<string key="1503_1504_c_Proposal_next" speaker="Survivalist Wilson - Restless Shore" name="SurvivalistWilson" VO="Survivalist_1503_1504_Lupine_CompleteNext" VO_Status="Recorded" dialogue-next="@1503_1504_c_Proposal_next2" dialogue-prompt="@1503_1504_c_Proposal_prompt">More like wolf to human, and frankly, becoming human's driven the wolf mad, rabid.\n\nFangsnap is the name of the beast, and it's slain several travelers out toward the coast. I don't know what to do.</string>
 	<string key="1503_1504_c_Proposal_prompt2" speaker="UI - Player Prompt">"Hunt it down?"</string>
@@ -23,7 +23,7 @@
 	<string key="1504_1503_d_02_Task_Kill" speaker="UI">Defeat Neptunite Pirates</string>
 	<string key="1504_1503_d_03_GatherChest" speaker="UI">Collect {ItemName} from Chests</string>
 	<string key="1504_1503_e_Incomplete" speaker="Constable Muller - Restless Shore" gender="F" location="settlement">I mean, how long have the Lost pirates of Aeternum been raiding the supplies of the living?\n\nIt's normal Lost pirate behavior, nothing more.</string>
-	<string key="1504_1503_f_Complete" speaker="Constable Muller - Restless Shore" name="OverseerMuller" gender="F" location="settlement" VO="Overseer_1504_1503_Fury_AvailResponse" VO_Status="Recorded">Haha! You gave those damn buccaneers a littl payback, didn't you? Let's see the spoils!\n\nPerfect! This should make everyone happy, get things back to normal. Thank you, {playerName}.</string>
+	<string key="1504_1503_f_Complete" speaker="Constable Muller - Restless Shore" name="OverseerMuller" gender="F" location="settlement" VO="Overseer_1504_1503_Fury_AvailResponse" VO_Status="Recorded">Haha! You gave those damn buccaneers a little payback, didn't you? Let's see the spoils!\n\nPerfect! This should make everyone happy, get things back to normal. Thank you, {playerName}.</string>
 	<string key="1502_1501_a_Title" speaker="UI - Quest Title">War of the Lost</string>
 	<string key="1502_1501_b_Description" speaker="UI -Quest Description">Defeat Seele's Withered at the Decayed Campsite for Magistrate Gurkin in the Restless Shores Settlement.</string>
 	<string key="1502_1501_b_start" speaker="UI - Player Prompt">"They're fighting each other?"</string>
@@ -135,15 +135,15 @@
 	<string key="1503_1505_e_Incomplete" speaker="Survivalist Wilson - Restless Shore" gender="F" location="settlement">A man used to live on that island all by his lonesome, kept to himself and his rabbits well enough. Perhaps you could ask him about the rumors of a haunting of the island and see what he makes of all of this?</string>
 	<string key="1503_1505_f_Complete" speaker="Survivalist Wilson - Restless Shore" name="SurvivalistWilson" gender="F" location="settlement" VO="Survivalist_1503_1505_f_Complete" VO_Status="Recorded">So the Harekeeper passed on? I'm glad you put him to rest. His furry friends will flourish with or without him, I suspect. \n\nBut I imagine they'll miss their kindly caretaker. Maybe I'll miss the Harekeep a little myself, as well.</string>
 	<string key="1599_1513_a_Title" speaker="UI - Quest Title">Meat For Nekumanesh (Expedition)</string>
-	<string key="1599_1513_b_Description" speaker="UI -Quest Description">Collect Hunks of Meat for Nekumanesh the alligator from Corrupted Leaders in The Depths Excavation.</string>
+	<string key="1599_1513_b_Description" speaker="UI - Quest Description">Collect Hunks of Meat for Nekumanesh the alligator from Corrupted Leaders in The Depths Expedition.</string>
 	<string key="1599_1513_b_start" speaker="UI - Player Prompt">"Wow, so small…"</string>
-	<string key="1599_1513_c_Proposal" speaker="Nekumanesh - Restless Shore" gender="M" location="Depths" dialogue-next="@1599_1513_c_Proposal_next">(The alligator snaps at you, clearly offended by the insinuation that he isn't big enough.)</string>
+	<string key="1599_1513_c_Proposal" speaker="Nekumanesh - Restless Shore" name="AlligatorNekumanesh" gender="M" location="Depths" VO_Status="Needs recording" dialogue-next="@1599_1513_c_Proposal_next">(The alligator snaps at you, clearly offended by the insinuation that he isn't big enough.)</string>
 	<string key="1599_1513_c_Proposal_prompt" speaker="UI - Player Prompt">"Maybe I can help you get bigger."</string>
-	<string key="1599_1513_c_Proposal_next" speaker="Nekumanesh - Restless Shore" gender="M" location="Depths" dialogue-prompt="@1599_1513_c_Proposal_prompt">(Nekumanesh pants like a dog and licks his sharp teeth. Who could have left him here?)</string>
-	<string key="1599_1513_e_Incomplete" speaker="Nekumanesh - Restless Shore" gender="M" location="Depths">(Nekumanesh looks at you suspiciously. He had been expecting you to return with food.)</string>
-	<string key="1599_1513_f_Complete" speaker="Nekumanesh - Restless Shore" gender="M" location="Depths">(With a hearty snap of his jaws, Nekumanesh eats up all the meat you gave him like he'd been starving. Did he just get a little bigger…?)</string>
+	<string key="1599_1513_c_Proposal_next" speaker="Nekumanesh - Restless Shore" name="AlligatorNekumanesh" gender="M" location="Depths" VO_Status="Needs recording" dialogue-prompt="@1599_1513_c_Proposal_prompt">(Nekumanesh pants like a dog and licks his sharp teeth. Who could have left him here?)</string>
+	<string key="1599_1513_e_Incomplete" speaker="Nekumanesh - Restless Shore" name="AlligatorNekumanesh" gender="M" location="Depths" VO_Status="Needs recording">(Nekumanesh looks at you suspiciously. He had been expecting you to return with food.)</string>
+	<string key="1599_1513_f_Complete" speaker="Nekumanesh - Restless Shore" name="AlligatorNekumanesh" gender="M" location="Depths" VO_Status="Needs recording">(With a hearty snap of his jaws, Nekumanesh eats up all the meat you gave him like he'd been starving. Did he just get a little bigger…?)</string>
 	<string key="1599_1513_d_01_Task_Goto" speaker="UI">Venture into the Depths Expedition for Nekumanesh</string>
-	<string key="1599_1513_d_02_Task_GetMeat" speaker="UI">Defeat {targetName} and Collect {itemName}</string>
-	<string key="1599_1513_d_03_Task_GetMeatAzamela" speaker="UI">Defeat Archdeacon Azamela and Collect {itemName}</string>
+	<string key="1599_1513_d_02_Task_GetMeat" speaker="UI">Defeat {targetName} and collect {itemName}</string>
+	<string key="1599_1513_d_03_Task_GetMeatAzamela" speaker="UI">Defeat Archdeacon Azamela and collect {itemName}</string>
 </resources>
 

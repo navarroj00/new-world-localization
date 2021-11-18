@@ -42,6 +42,8 @@
 	<string key="objective_buySell_spendGoldSingleTransaction" speaker="UI">Spend {amountCount} coins in a single transaction</string>
 	<string key="objective_completed" speaker="UI">Objective Completed</string>
 	<string key="dynamic_poi_objective_completed" speaker="UI">Landmark Scouted</string>
+	<string key="objective_quest_encounter">Quest Encounter</string>
+	<string key="objective_quest_encounter_description">Complete the encounter to advance the quest.</string>
 	<string key="objective_craft" speaker="UI">Craft a {itemName}</string>
 	<string key="objective_craft_p" speaker="UI">Craft {itemAmount} {itemName}s</string>
 	<string key="objective_crafthealingdrops" speaker="UI">Craft {itemName} at your Camp (default: [Y])</string>
@@ -67,7 +69,7 @@
 	<string key="objective_experience" speaker="UI">Exp</string>
 	<string key="objective_failed" speaker="UI">Objective Failed</string>
 	<string key="objective_gather_herbs" speaker="UI">Gather Blue {itemName}s from coastal areas</string>
-	<string key="objective_gatherironore" speaker="UI">Retrieve the Iron Ore from the Heavy Satchel in your inventory</string>
+	<string key="objective_gatherironore" speaker="UI">Retrieve the Iron Ore from the Heavy Satchel in your inventory OR</string>
 	<string key="objective_gatherrawhide" speaker="UI">Skin Boars and Wolves for {itemName}</string>
 	<string key="objective_gatherstone" speaker="UI">Mine {itemName} from Boulders</string>
 	<string key="objective_gatherwood" speaker="UI">Gather {itemName} from Bushes or Trees</string>
@@ -76,6 +78,7 @@
 	<string key="objective_have_level" speaker="UI">Achieve level {level}</string>
 	<string key="objective_have" speaker="UI">Obtain {itemName}</string>
 	<string key="objective_have_p" speaker="UI">Obtain {itemAmount} {itemName}s</string>
+	<string key="@objective_house_score" speaker="UI">Reach house decoration score {score}</string>
 	<string key="objective_ingredients" speaker="UI">INGREDIENTS</string>
 	<string key="objective_journal" speaker="UI">Journal</string>
 	<string key="objective_journey" speaker="UI">Side Stories</string>
@@ -157,6 +160,8 @@
 	<string key="objective_has_location" speaker="UI">With Specific Locations</string>
 	<string key="objective_no_location" speaker="UI">Without Specific Locations</string>
 	<string key="objective_side_quests" speaker="UI">Side Quests</string>
+	<string key="objective_event" speaker="UI">Event Quests</string>
+	<string key="objective_event_desc" speaker="UI">Objectives available during an Event</string>
 	<string key="objective_faction_missions" speaker="UI">Faction Missions</string>
 	<string key="objective_community_goal" speaker="UI">Town Projects</string>
 	<string key="objective_POI" speaker="UI">Landmark</string>
@@ -226,6 +231,7 @@
 	<string key="objective_mission_task_patrol_windsward" speaker="UI">Patrol Territory</string>
 	<string key="patrol_task_container_description" speaker="UI">Stand your ground, but stay alive.</string>
 	<string key="objective_mission_task_patrol_timer" speaker="UI">Hold {POITags} for {timeRemaining}</string>
+	<string key="objective_mission_task_control_point" speaker="UI">Capture Fort {TerritoryID} for the Marauders</string>
 	<string key="task_choose_faction" speaker="UI">Choose a faction with {destinationName}</string>
 	<string key="complete_available_prompt_DEFAULT" comment="male" speaker="UI - Button">Complete the Quest</string>
 	<string key="prompt_DEFAULT" speaker="UI - Button">Accept the Quest</string>
@@ -262,5 +268,24 @@
 	<string key="objective_destroy_and_collect" speaker="UI">Destroy {targetName} and collect {itemName} at {POITags}</string>
 	<string key="commander">Commander</string>
 	<string key="objective_mission_destroy_generic_at_POI">Destroy {targetName} at {POITags}</string>
+	<string key="objective_mission_task_PVP_kill_and_acquire_X_items_anywhere">Defeat enemy faction members to collect {itemName}</string>
+	<string key="objective_mission_kill_generic">Defeat {targetName}</string>
+	<string key="objective_mission_loot_chests_generic">Search chests for {itemName}</string>
+	<string key="objective_mission_hunt_generic">Hunt {targetName}</string>
+	<string key="objective_mission_loot_chests_at_Warcamp">Search chests for {itemName} at the {TerritoryID} War Camp</string>
+	<string key="objective_mission_kill_with_weapon">Defeat {targetName} using {WeaponClassId}</string>
+	<string key="objective_mission_kill_with_sword">Defeat {targetName} using Sword and Shield</string>
+	<string key="objective_mission_kill_with_rapier">Defeat {targetName} using Rapier</string>
+	<string key="objective_mission_kill_with_hatchet">Defeat {targetName} using Hatchet</string>
+	<string key="objective_mission_kill_with_greataxe">Defeat {targetName} using Great Axe</string>
+	<string key="objective_mission_kill_with_warhammer">Defeat {targetName} using War Hammer</string>
+	<string key="objective_mission_kill_with_spear">Defeat {targetName} using Spear</string>
+	<string key="objective_mission_kill_with_bow">Defeat {targetName} using Bow</string>
+	<string key="objective_mission_kill_with_musket">Defeat {targetName} using Musket</string>
+	<string key="objective_mission_kill_with_firestaff">Defeat {targetName} using Firestaff</string>
+	<string key="objective_mission_kill_with_lifestaff">Defeat {targetName} using Lifestaff</string>
+	<string key="objective_mission_kill_with_icegauntlet">Defeat {targetName} using Ice Gauntlet</string>
+	<string key="objective_mission_task_control_point_S">Capture Fort {TerritoryID} for the Syndicate</string>
+	<string key="objective_mission_task_control_point_C">Capture Fort {TerritoryID} for the Covenant</string>
 </resources>
 

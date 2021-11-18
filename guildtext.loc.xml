@@ -187,7 +187,8 @@
 	<string key="ui_kickfromcompany">Kick From Company</string>
 	<string key="ui_kickguildmember_confirm">Are you sure you want to remove {playerName} from the Company?</string>
 	<string key="ui_leaveguild">Leave Company</string>
-	<string key="ui_leaveguild_confirm">Are you sure you want to leave the Company?\n\nAnother member will be promoted to Governor when you leave, and any holdings the company has will remain with the company under the new governor.</string>
+	<string key="ui_leaveguild_confirm">Are you sure you want to leave the Company?</string>
+	<string key="ui_leaveguild_governor_confirm">Are you sure you want to leave the Company?\n\nAnother member will be promoted to Governor when you leave, and any holdings the company has will remain with the company under the new governor.</string>
 	<string key="ui_leaveguild_alone_confirm">Are you sure you want to leave the Company?\n\nYou are the only member and when you leave, any holdings the company has will be lost.</string>
 	<string key="ui_leftguildmessage">Left the Company.</string>
 	<string key="ui_modifycrest">Edit Crest</string>
@@ -225,7 +226,8 @@
 	<string key="ui_permission_demolish_territories">{allowed} demolish Company territories</string>
 	<string key="ui_permission_declare_war">{allowed} declare wars and set the siege window</string>
 	<string key="ui_permission_treasury_deposit">{allowed} make deposits to Company Treasury</string>
-	<string key="ui_permission_treasury_withdraw">{allowed} make withdrawals from Company Treasury</string>
+	<string key="ui_permission_treasury_withdraw">{allowed} withdraw up to daily limit from Company Treasury</string>
+	<string key="ui_permission_treasury_withdraw_unlimited">{allowed} withdraw any amount from Company Treasury</string>
 	<string key="ui_permission_treasury_set_daily_limit">{allowed} set the daily Treasury withdrawal limit</string>
 	<string key="ui_permission_territory_project_management">{allowed} start and cancel territory upgrades</string>
 	<string key="ui_permission_territory_taxation">{allowed} modify territory taxation values.</string>
@@ -236,7 +238,7 @@
 	<string key="ui_promote">Promote</string>
 	<string key="ui_promote_transfer_owner">Transfer Ownership</string>
 	<string key="ui_promotetoguildmaster_confirm_title">Transfer Company?</string>
-	<string key="ui_promotetoguildmaster_confirm">Are you sure you want to transfer Company ownership to {memberName}?\n\nAll members, claims, structures and treasury funds of {guildName} will become property of {memberName}'s Company instead. The crest and name will change to {memberName}'s Company crest and name. You will be demoted one rank, and {guildName} will have 0 members and assets.\n\nYou cannot undo this action, and the change will be effective immediately.</string>
+	<string key="ui_promotetoguildmaster_confirm">Are you sure you want to transfer Company Governorship to {memberName}?\n\nAll members, claims, structures and treasury funds of {guildName} will fall under the control of {memberName} as the new Governor of {guildName}. The Company Name and Crest will remain the same. You will be demoted one rank.\n\nYou cannot undo this action, and the change will be effective immediately.</string>
 	<string key="ui_rank">Rank</string>
 	<string key="ui_rankmovedowndisabled">This is the lowest rank</string>
 	<string key="ui_rankmoveupdisabled">Cannot move above {gmRankName}</string>
@@ -420,8 +422,10 @@
 	<string key="ui_guildclaimsowned">Claims Owned</string>
 	<string key="ui_guildoneclaimowned">Claim Owned</string>
 	<string key="ui_acceptguildinvitepopuptitle">Join New Company?</string>
+	<string key="ui_acceptguildinvitepopupmessage_noguild">Are you sure you want to join a new company?</string>
 	<string key="ui_acceptguildinvitepopupmessage_hasclaims">Any Territories you own won't be transferred to the new Company, and will continue to be claimed by the Company you're leaving. Companies must go through the War Declaration process to claim any of those Territories.</string>
-	<string key="ui_acceptguildinvitepopupmessage_noclaims">Are you sure you want to leave your current Company and join a new Company?\nYou will not be able to rejoin this Company for {rejoinTime} and you will not be able to join a new Company for {switchTime}.</string>
+	<string key="ui_acceptguildinvitepopupmessage_noclaims_time_remaining">Are you sure you want to leave your current Company and join a new Company?\nYou will not be able to rejoin this Company for {rejoinTime} and you will not be able to join a new Company for {switchTime}.</string>
+	<string key="ui_acceptguildinvitepopupmessage_noclaims">Are you sure you want to leave your current Company and join a new Company?</string>
 	<string key="ui_cantchangerank_iscurrentrank">Already the member's current rank</string>
 	<string key="ui_cantpromote_maxrank">Already highest possible rank</string>
 	<string key="ui_cantpromote_leaderatwar">Cannot transfer Company leadership while at war</string>
@@ -541,7 +545,7 @@
 	<string key="ui_siege_set_backfill_failed_not_permitted_invasion">Backfill state cannot be changed for invasions</string>
 	<string key="ui_siege_set_backfill_failed">There was a problem changing the backfill state.</string>
 	<string key="ui_siege_standby_page_text">Page {currentPage} of {totalPages}</string>
-	<string key="ui_treasury_governor">Company governor can withdraw any amount of coins from the treasury.</string>
+	<string key="ui_treasury_withdrawal_desc">Company governor and consuls can withdraw any amount of coin from the treasury. Officers can withdraw up to the daily limit set by the governor.</string>
 	<string key="ui_companylog_checkbox_selectAll">Select All</string>
 	<string key="ui_companylog_checkbox_invites">Invites</string>
 	<string key="ui_companylog_checkbox_rankChange">Rank Change</string>

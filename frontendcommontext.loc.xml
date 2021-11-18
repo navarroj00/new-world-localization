@@ -81,6 +81,8 @@
 	<string key="mm_loginservices_warning_Abusive">You have been flagged for abusive behavior</string>
 	<string key="mm_loginservices_warning_Leaking">You have been flagged for leaking protected content</string>
 	<string key="mm_loginservices_warning_Disruptive">You have been flagged for disruptive behavior</string>
+	<string key="mm_loginservices_CreateCharacterFailed">Character Creation Failed</string>
+	<string key="mm_loginservices_CreateCharacterRateLimit">You have created too many characters recently. Please try again after &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{duration}&lt;/font&gt; (&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{dateandtime}&lt;/font&gt;).</string>
 	<string key="mm_loginservices_UnknownCharacter">Login denied: Character does not exist.</string>
 	<string key="mm_loginservices_InactiveCharacter">Login denied: Character is deleted.</string>
 	<string key="mm_loginservices_MustRenameCharacter">Login denied: Character must be renamed.</string>
@@ -93,7 +95,8 @@
 	<string key="mm_loginservices_PatchFieldNotPermitted">Access denied: Character field cannot be patched.</string>
 	<string key="mm_loginservices_CharacterNotFlaggedForRename">Access denied: Character is not eligible for renaming.</string>
 	<string key="mm_loginservices_NotEligibleForFTUE">Login denied: FTUE was already completed.</string>
-	<string key="mm_loginservices_InternalError">Internal error in login services.</string>
+	<string key="mm_loginservices_InternalError">Login malfunction, please try again soon.</string>
+	<string key="mm_loginservices_InternalServerErrorException">Login server malfunction, please try again soon.</string>
 	<string key="mm_loginservices_CredentialsError">Invalid credentials for login services.</string>
 	<string key="mm_loginservices_NameLengthError">Invalid name length.</string>
 	<string key="mm_loginservices_NameNotAvailableError">This name is in use.</string>
@@ -102,6 +105,7 @@
 	<string key="mm_loginservices_UnavailableError">Login services are unavailable.</string>
 	<string key="mm_loginservices_InputValidationError">Bad request to login services.</string>
 	<string key="mm_loginservices_UnableToConnectError">Unable to connect to login service. Reconnecting, please wait...</string>
+	<string key="mm_loginservices_TooManyRequestsException">Login server is too busy, please try again soon.</string>
 	<string key="mm_loginservices_NoConnection">Login service isn't available at this moment. This may indicate trouble connecting to the internet. Reconnecting, please wait...</string>
 	<string key="mm_loginservices_location_DEFAULT000">You are queueing for the open world...</string>
 	<string key="mm_loginservices_location_FTUE000">You are queueing as a new player...</string>
@@ -183,8 +187,7 @@
 	<string key="mm_rejected_Client_Kicked_CSLockout">Your account is currently locked. Please reach out to customer service for more information.</string>
 	<string key="mm_rejected_Client_Kicked_Unknown">You have been kicked from the game</string>
 	<string key="mm_authresult_Authorized">Success</string>
-	<string key="mm_charactertransferdisabled">Character transfer is temporarily disabled on this world. Please try a different world.</string>
-	<string key="mm_characterCreateDisabled">Character creation temporarily disabled on this server to avoid over population</string>
+	<string key="mm_characterCreateDisabled">Character creation temporarily disabled because this world is full. Please try a different world.</string>
 	<string key="mm_charactertransferdisabled">Character transfer is temporarily disabled on this world. Please try a different world.</string>
 	<string key="mm_authresult_Denied_ClaimConnectionTicketFailed">Failed to claim connection ticket.</string>
 	<string key="mm_authresult_Denied_HubNotReady">Server is not ready for gameplay. Retrying...</string>
@@ -199,12 +202,14 @@
 	<string key="mm_authresult_Denied_LoginTokenEndpointInvalid">Provided login is not for this world.</string>
 	<string key="mm_authresult_Denied_LoginTokenCapabilitiesInvalid">Listed client capabilities are invalid.</string>
 	<string key="mm_authresult_Denied_LoginTicketInvalid">Attempted login ticket is invalid or expired. Please retry login.</string>
+	<string key="mm_authresult_Denied_LoginTokenWrongHost">You have been routed to the wrong server. Please try again.</string>
 	<string key="mm_authresult_Denied_EasyAntiCheatFailure">EAC Configuration Error. Please see the New World community site for more information, https://forums.newworld.com</string>
 	<string key="mm_authresult_Error_InvalidSetup">Invalid authentication setup.</string>
 	<string key="mm_authresult_Error_Persona">Failed to authenticate with Persona.</string>
 	<string key="mm_authresult_Error_Persona_Assume_Role">Failed to retrieve credentials.\nPlease try again or contact New World community for more information, https://forums.newworld.com</string>
 	<string key="mm_authresult_Error_Steam">Failed to authenticate with Steam.</string>
 	<string key="mm_authresult_Denied_DatasheetVersionCheckFailed">Datasheet version mismatch.</string>
+	<string key="mm_authresult_Http_Error_Response_Code">Your client could not be authenticated. Please try again soon.</string>
 	<string key="mm_http_NoResponse">HTTP request failed; no response</string>
 	<string key="mm_queuesoon">Estimated Time: &lt; 1 minute\nPosition in Queue: {rank}\n{status}</string>
 	<string key="mm_queuewithestimate">Estimated Time: {time}\nPosition in Queue: {rank}\n{status}</string>
@@ -343,6 +348,7 @@
 	<string key="crafting_repair_requires_kit">Repair requires {quantityRequired} Tier {tierNumber} {itemRequired}.</string>
 	<string key="crafting_cannot_repair">Cannot repair</string>
 	<string key="crafting_requires_station">Must be at proper station.</string>
+	<string key="crafting_repair_no_requirements">Repairing this item has no requirements.</string>
 	<string key="inv_salvage_tooltip" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {numItems} {itemName}.{gemMessage}</string>
 	<string key="inv_salvage_tooltip_withrepairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {numItems} {itemName} and {numRepairParts} Repair Parts.{gemMessage}</string>
 	<string key="inv_salvage_tooltip_onlyrepairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {numRepairParts} Repair Parts.{gemMessage}</string>
@@ -350,7 +356,7 @@
 	<string key="inv_salvage_tooltip_range" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {min}-{max} {itemName}.{gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_withrepairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {min}-{max} {itemName} and {numRepairParts} Repair Parts.{gemMessage}</string>
 	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front">There is a small chance of recovering the attached gem.</string>
-	<string key="inv_salvage_tooltip_additional_item" comment="This only applies to fishing when there is a chance to receive additional items."> Additional items such as {itemName} may also be acquired.</string>
+	<string key="inv_salvage_tooltip_additional_item" comment="This only applies to fishing when there is a chance to receive additional items.">Additional items such as {itemName} may also be acquired.</string>
 	<string key="inv_salvage_tooltip_recipe">Salvaging this item will teach you the {recipeName} recipe.</string>
 	<string key="inv_salvage_tertiary_recipe">{recipeName} Recipe</string>
 	<string key="minspec_warning_requirements_title">MinSpec Warning</string>
@@ -392,6 +398,8 @@
 	<string key="ui_tradeskill_level_stonecutting">Stonecutting Level</string>
 	<string key="ui_tradeskill_level_smelting">Smelting Level</string>
 	<string key="ui_tradeskill_level_weaving">Weaving Level</string>
+	<string key="ui_dying_disabled_war">You cannot dye items while at war.</string>
+	<string key="ui_dying_disabled_outpost_rush">You cannot dye items while in Outpost Rush.</string>
 	<string key="ui_cannot_place_camp_in_war">YOU CANNOT PLACE A CAMP WHILE AT WAR</string>
 	<string key="backtrace_optIn">%s has encountered a fatal error.  We're sorry for the inconvenience.\n\nA crash debugging file has been created at:\n%s\n\nIf you are willing to submit this file to Amazon it will help us improve the New World experience.  We will treat this report as confidential.\n\nWould you like to send the error report?</string>
 	<string key="backtrace_optIn_NeverShowAgainA">Continue to ask for future crashes?\n\nIf NO, we will never send future crashes by default (nor continue to ask).</string>
@@ -408,7 +416,7 @@
 	<string key="mm_stage_alpha">Alpha</string>
 	<string key="mm_charslot_locked_tooltip">Character slot is locked. Slot is unavailable, purchase character slot to unlock this character</string>
 	<string key="error_banned">{message}\n\nReason:[{reason}]</string>
-	<string key="error_perm_ban">Permenant Ban</string>
+	<string key="error_perm_ban">Permanent Ban</string>
 	<string key="error_temp_ban">Temporary Ban</string>
 	<string key="error_world_select_server_down">You cannot select a world while it is in maintenance.</string>
 	<string key="error_loading_assets_title">Game Asset Loading Error</string>

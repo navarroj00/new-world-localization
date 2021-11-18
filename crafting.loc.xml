@@ -60,6 +60,11 @@
 	<string key="cr_tier4">Tier &lt;img src="lyshineui/images/crafting/crafting_tier_4" scale="0.6" yOffset="2"&gt;&lt;/img&gt;</string>
 	<string key="cr_tier5">Tier &lt;img src="lyshineui/images/crafting/crafting_tier_5" scale="0.6" yOffset="2"&gt;&lt;/img&gt;</string>
 	<string key="cr_tier_italic">Tier &lt;font face="lyshineui/fonts/Pica_Italic.font"&gt;{amount}&lt;/font&gt;</string>
+	<string key="cr_tier1_italic">Tier &lt;font face="lyshineui/fonts/Pica_Italic.font"&gt;I&lt;/font&gt;</string>
+	<string key="cr_tier2_italic">Tier &lt;font face="lyshineui/fonts/Pica_Italic.font"&gt;II&lt;/font&gt;</string>
+	<string key="cr_tier3_italic">Tier &lt;font face="lyshineui/fonts/Pica_Italic.font"&gt;III&lt;/font&gt;</string>
+	<string key="cr_tier4_italic">Tier &lt;font face="lyshineui/fonts/Pica_Italic.font"&gt;IV&lt;/font&gt;</string>
+	<string key="cr_tier5_italic">Tier &lt;font face="lyshineui/fonts/Pica_Italic.font"&gt;V&lt;/font&gt;</string>
 	<string key="cr_exit_station">exit station</string>
 	<string key="cr_continue_crafting">continue to craft</string>
 	<string key="cr_level_short">Lv. {requiredSkillLevel}</string>
