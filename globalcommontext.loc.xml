@@ -1986,14 +1986,14 @@
 	<string key="ui_yes_colored">&lt;font color="#30e5ab"&gt;Yes.&lt;/font&gt;</string>
 	<string key="ui_no_colored">&lt;font color="#ff7171"&gt;No.&lt;/font&gt;</string>
 	<string key="ui_mergewarning_short">&lt;font color="#e2a438"&gt;World merging in {timeRemaining}&lt;/font&gt;</string>
-	<string key="ui_mergewarning_long">This world's population will be merged with {worldName} on\n{time}.</string>
+	<string key="ui_mergewarning_long">This world's population will be merged with {worldName} on {time}.</string>
 	<string key="ui_world_message">World Message</string>
 	<string key="ui_mergefaq_question_1">Will I keep my character progression, inventory, and house?</string>
 	<string key="ui_mergefaq_question_2">Will my Company keep their claimed territories?</string>
 	<string key="ui_mergefaq_question_3">Will I keep my company?</string>
 	<string key="ui_mergefaq_question_4">Can my Company still declare war on other Companies?</string>
 	<string key="ui_mergefaq_answer_1">Your character's level, attribute points, mastery points, territory standing, house, inventory, and settlement storage will be preserved.</string>
-	<string key="ui_mergefaq_answer_2">Territories on the new world will be claimed by the Companies of that world. If your Company is not of that world, you lose all your territories, any upgrades, and your company will be given 15,000 coin.</string>
+	<string key="ui_mergefaq_answer_2">Territories on the new world will be claimed by the Companies of that world. If your Company is not of that world, you lose all your territories, any upgrades, and your company will be given 50,000 coin.</string>
 	<string key="ui_mergefaq_answer_3">Players will never be split up from each other due to a World merge, and the Company membership and wallet will be preserved.</string>
 	<string key="ui_mergefaq_answer_4">Players will receive a 72 hour notice when a World merge is to happen. Companies cannot declare war during this time. Pending wars will be cancelled, and gold spent to declare war will be fully refunded.</string>
 	<string key="ui_mergewarning_title">WORLD MERGES SOON</string>
@@ -2006,7 +2006,7 @@
 	<string key="ui_mergecomplete_question_3">Did I keep my company?</string>
 	<string key="ui_mergecomplete_question_4">Did my open Buy/Sell contracts remain posted?</string>
 	<string key="ui_mergecomplete_answer_1">Your character's level, attribute points, mastery points, territory standing, house, inventory, and settlement storage have been preserved.</string>
-	<string key="ui_mergecomplete_answer_2">Territories on the new world will be claimed by the Companies of that world. If your Company is not of that world, you lose all your territories, any upgrades, and your company will be given 15,000 coin.</string>
+	<string key="ui_mergecomplete_answer_2">Territories on the new world will be claimed by the Companies of that world. If your Company is not of that world, you lose all your territories, any upgrades, and your company will be given 50,000 coin.</string>
 	<string key="ui_mergecomplete_answer_3">Players will never be split up from each other due to a merge, and the Company membership and wallet have been preserved. Wars cannot be declared 3 days before the merge.</string>
 	<string key="ui_mergecomplete_answer_4">Items posted for sale will be returned to you, and you will retain coin earned from partial sales. Coin paid for taxes or listing fees will not be returned.</string>
 	<string key="ui_merge_region">Region</string>

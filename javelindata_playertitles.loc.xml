@@ -1,4 +1,8 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_playertitle_special_TurkeyTerror">Wattle Warrior</string>
+	<string key="ui_playertitle_special_TurkeyTerror_SHE">Wattle Warrior</string>
+	<string key="ui_playertitle_special_TurkeyTerror_THEY">Wattle Warrior</string>
+	<string key="ui_playertitle_TurkeyTerror_description">You have bested the monstrous turkey plaguing the land! You are the WATTLE WARRIOR!</string>
 	<string key="ui_playertitle_placeholder" note="DO NOT TRANSLATE">ERROR: PLACEHOLDER</string>
 	<string key="ui_playertitle_select">Select Title</string>
 	<string key="ui_playertitle_current">Currently Selected:</string>

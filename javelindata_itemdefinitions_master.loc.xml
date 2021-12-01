@@ -1,4 +1,8 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="MassiveTurkeyLegT5_MasterName">Monstrous Turkey Leg</string>
+	<string key="MassiveTurkeyLegT5_Description">The leg of a monstrous, murderous turkey. Its deliciousness has surely been amplified by its size and the rage of the bird it came from. Use this to cook a Roasted Monstrous Turkey Dinner!</string>
+	<string key="FoodCONLUCT5_MasterName">Roasted Monstrous Turkey Dinner</string>
+	<string key="FoodCONLUCT5_Description">Increase Constitution by {[Type_StatusEffectData.FoodCONLUCT5.MODConstitution * {ConsumablePotency}]} and Luck by  {[Type_StatusEffectData.FoodCONLUCT5.GlobalRollMod * {ConsumablePotency} / 100]}% for {[Type_StatusEffectData.FoodCONLUCT5.BaseDuration / 60]} minutes. Your health slowly recovers while under these effects. The potency of this item adjusts based on your level.</string>
 	<string key="Crowns_T0_MasterName">Coin</string>
 	<string key="CampT1_Description">Craft basic supplies and create a respawn point here.</string>
 	<string key="CampT1_MasterName">Camp Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
