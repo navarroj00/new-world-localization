@@ -1044,17 +1044,17 @@
 	<string key="Opportunist2Desc">+{[GlobalAbilityTable.BonusDamageLowHealthPerk2.BaseDamage * 100]}% damage against targets with less than {[GlobalAbilityTable.BonusDamageLowHealthPerk2.TargetHealthPercent]}% Health.</string>
 	<string key="Opportunist3Desc">+{[GlobalAbilityTable.BonusDamageLowHealthPerk3.BaseDamage * 100]}% damage against targets with less than {[GlobalAbilityTable.BonusDamageLowHealthPerk3.TargetHealthPercent]}% Health.</string>
 	<string key="Opportunist4Desc">+{[GlobalAbilityTable.BonusDamageLowHealthPerk4.BaseDamage * 100]}% damage against targets with less than {[GlobalAbilityTable.BonusDamageLowHealthPerk4.TargetHealthPercent]}% Health.</string>
-	<string key="Retaliate1Desc">+{[Type_StatusEffectData.RetaliateBonusDamagePerk1.DMGStandard * 100]}% damage after receiving 3 hits.</string>
-	<string key="Retaliate2Desc">+{[Type_StatusEffectData.RetaliateBonusDamagePerk2.DMGStandard * 100]}% damage after receiving 3 hits.</string>
-	<string key="Retaliate3Desc">+{[Type_StatusEffectData.RetaliateBonusDamagePerk3.DMGStandard * 100]}% damage after receiving 3 hits.</string>
-	<string key="Retaliate4Desc">+{[Type_StatusEffectData.RetaliateBonusDamagePerk4.DMGStandard * 100]}% damage after receiving 3 hits.</string>
+	<string key="Retaliate1Desc">Deal +{[Type_StatusEffectData.RetaliateBonusDamagePerk1.DMGStandard * 100]}% damage for {[Type_StatusEffectData.RetaliateBonusDamagePerk1.StopOnHitCount]} hits after receiving 3 hits.</string>
+	<string key="Retaliate2Desc">Deal +{[Type_StatusEffectData.RetaliateBonusDamagePerk2.DMGStandard * 100]}% damage for {[Type_StatusEffectData.RetaliateBonusDamagePerk2.StopOnHitCount]} hits after receiving 3 hits.</string>
+	<string key="Retaliate3Desc">Deal +{[Type_StatusEffectData.RetaliateBonusDamagePerk3.DMGStandard * 100]}% damage for {[Type_StatusEffectData.RetaliateBonusDamagePerk3.StopOnHitCount]} hits after receiving 3 hits.</string>
+	<string key="Retaliate4Desc">Deal +{[Type_StatusEffectData.RetaliateBonusDamagePerk4.DMGStandard * 100]}% damage for {[Type_StatusEffectData.RetaliateBonusDamagePerk4.StopOnHitCount]} hits after receiving 3 hits.</string>
 	<string key="Relentless1Desc">Every third successful attack deals {[GlobalAbilityTable.RelentlessDefenseDamagePerk1.BlockDamage * 100]}% additional Stamina damage.</string>
 	<string key="Relentless2Desc">Every third successful attack deals {[GlobalAbilityTable.RelentlessDefenseDamagePerk2.BlockDamage * 100]}% additional Stamina damage.</string>
 	<string key="Relentless3Desc">Every third successful attack deals {[GlobalAbilityTable.RelentlessDefenseDamagePerk3.BlockDamage * 100]}% additional Stamina damage.</string>
-	<string key="Exhilarate1Desc">+{[GlobalAbilityTable.BonusDamageLowSelfHealthPerk1.BaseDamage * 100]}% damage when player is below {[GlobalAbilityTable.BonusDamageLowSelfHealthPerk1.MyHealthPercent]}% Health.</string>
-	<string key="Exhilarate2Desc">+{[GlobalAbilityTable.BonusDamageLowSelfHealthPerk2.BaseDamage * 100]}% damage when player is below {[GlobalAbilityTable.BonusDamageLowSelfHealthPerk2.MyHealthPercent]}% Health.</string>
-	<string key="Exhilarate3Desc">+{[GlobalAbilityTable.BonusDamageLowSelfHealthPerk3.BaseDamage * 100]}% damage when player is below {[GlobalAbilityTable.BonusDamageLowSelfHealthPerk3.MyHealthPercent]}% Health.</string>
-	<string key="Exhilarate4Desc">+{[GlobalAbilityTable.BonusDamageLowSelfHealthPerk4.BaseDamage * 100]}% damage when player is below {[GlobalAbilityTable.BonusDamageLowSelfHealthPerk4.MyHealthPercent]}% Health.</string>
+	<string key="Exhilarate1Desc">Deal +{[GlobalAbilityTable.BonusDamageLowSelfHealthPerk1.BaseDamage * 100]}% increased damage while your health is below {[GlobalAbilityTable.BonusDamageLowSelfHealthPerk1.MyHealthPercent]}%.</string>
+	<string key="Exhilarate2Desc">Deal +{[GlobalAbilityTable.BonusDamageLowSelfHealthPerk2.BaseDamage * 100]}% increased damage while your health is below {[GlobalAbilityTable.BonusDamageLowSelfHealthPerk2.MyHealthPercent]}%.</string>
+	<string key="Exhilarate3Desc">Deal +{[GlobalAbilityTable.BonusDamageLowSelfHealthPerk3.BaseDamage * 100]}% increased damage while your health is below {[GlobalAbilityTable.BonusDamageLowSelfHealthPerk3.MyHealthPercent]}%.</string>
+	<string key="Exhilarate4Desc">Deal +{[GlobalAbilityTable.BonusDamageLowSelfHealthPerk4.BaseDamage * 100]}% increased damage while your health is below {[GlobalAbilityTable.BonusDamageLowSelfHealthPerk4.MyHealthPercent]}%.</string>
 	<string key="Sundering1Desc">Headshots apply Rend, reducing Absorption by 6% for 3 seconds.</string>
 	<string key="Sundering2Desc">Headshots apply Rend, reducing Absorption by 9% for 3 seconds.</string>
 	<string key="Sundering3Desc">Headshots apply Rend, reducing Absorption by 13% for 3 seconds.</string>
@@ -1283,7 +1283,7 @@
 	<string key="PerkID_Ability_Hatchet_FeralRush_Name">Energizing Feral Rush</string>
 	<string key="PerkID_Ability_Hatchet_FeralRush_Description">Gain {[Type_StatusEffectData.Status_Perk_Hatchet_FeralRush_StaminaRegen.Stamina * {perkMultiplier}]} stamina for each successful hit with Feral Rush.</string>
 	<string key="PerkID_Ability_Hatchet_Berserk_Name">Keen Berserk</string>
-	<string key="PerkID_Ability_Hatchet_Berserk_Description">Increase Crit Chance by {[GlobalAbilityTable.GlobalPerk_Ability_Hatchet_Berserk.CritChance * 100 * {perkMultiplier}]}% while under {[GlobalAbilityTable.GlobalPerk_Ability_Hatchet_Berserk.MyHealthPercent * {perkMultiplier}]}% HP while Berserking.</string>
+	<string key="PerkID_Ability_Hatchet_Berserk_Description">Increase Crit Chance by {[GlobalAbilityTable.GlobalPerk_Ability_Hatchet_Berserk.CritChance * 100 * {perkMultiplier}]}% while under {[GlobalAbilityTable.GlobalPerk_Ability_Hatchet_Berserk.MyHealthPercent]}% HP while Berserking.</string>
 	<string key="PerkID_Ability_Hatchet_RagingTorrent_Name">Refreshing Torrent</string>
 	<string key="PerkID_Ability_Hatchet_RagingTorrent_Description">Every hit of Raging Torrent reduces all Hatchet cooldowns by {[GlobalAbilityTable.GlobalPerk_Ability_Hatchet_RagingTorrent.CooldownTimer * -100 * {perkMultiplier}]}%.</string>
 	<string key="PerkID_Ability_Hatchet_Rending_Throw_Name">Energizing Rending Throw</string>
@@ -1673,7 +1673,7 @@
 	<string key="PerkID_Weapon_DmgBasic_Name">Enchanted</string>
 	<string key="PerkID_Weapon_DmgBasic_Description">Light and Heavy attacks deal {[GlobalAbilityTable.Global_Weapon_DmgBasic.BaseDamage * 100 * {perkMultiplier}]}% more damage.</string>
 	<string key="PerkID_WeaponMelee_DmgBack_Name">Rogue</string>
-	<string key="PerkID_WeaponMelee_DmgBack_Description">+{[GlobalAbilityTable.Global_WeaponMelee_DmgBack.CritDamage * 100 * {perkMultiplier}]}% more backstab damage.</string>
+	<string key="PerkID_WeaponMelee_DmgBack_Description">+{[GlobalAbilityTable.Global_WeaponMelee_DmgBack.HitFromBehindDamage * 100 * {perkMultiplier}]}% more backstab damage.</string>
 	<string key="PerkID_Weapon_CritChance_Name">Keen</string>
 	<string key="PerkID_Weapon_CritChance_Description">+{[GlobalAbilityTable.Global_Weapon_CritChance.CritChance * 100 * {perkMultiplier}]}% critical chance.</string>
 	<string key="PerkID_WeaponLife_HealOutgoing_Name">Blessed</string>
@@ -1778,5 +1778,33 @@
 	<string key="PerkID_Gem_Luck3_Description">You have +{[Type_StatusEffectData.Status_Perk_Gem_Lucky3.GlobalRollMod * 0.01]}% chance at rare items from chests and monsters.</string>
 	<string key="PerkID_Gem_Luck4_Name">Lucky IV</string>
 	<string key="PerkID_Gem_Luck4_Description">You have +{[Type_StatusEffectData.Status_Perk_Gem_Lucky4.GlobalRollMod * 0.01]}% chance at rare items from chests and monsters.</string>
+	<string key="PerkID_Tools_Efficiency_Logging_Name" rel_version="MorePerksV1">Logging Efficiency</string>
+	<string key="PerkID_Tools_Efficiency_Logging_Description" rel_version="MorePerksV1">Logging speed is increased by {[Type_StatusEffectData.Status_Perk_Tools_Efficiency_Logging.EFFLogging * 100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Tools_Efficiency_Mining_Name" rel_version="MorePerksV1">Mining Efficiency</string>
+	<string key="PerkID_Tools_Efficiency_Mining_Description" rel_version="MorePerksV1">Mining speed is increased by {[Type_StatusEffectData.Status_Perk_Tools_Efficiency_Mining.EFFMining * 100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Tools_Efficiency_Skinning_Name" rel_version="MorePerksV1">Skinning Efficiency</string>
+	<string key="PerkID_Tools_Efficiency_Skinning_Description" rel_version="MorePerksV1">Skinning speed is increased by {[Type_StatusEffectData.Status_Perk_Tools_Efficiency_Skinning.EFFSkinning * 100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Tools_Efficiency_Harvesting_Name" rel_version="MorePerksV1">Harvesting Efficiency</string>
+	<string key="PerkID_Tools_Efficiency_Harvesting_Description" rel_version="MorePerksV1">Harvesting speed is increased by {[Type_StatusEffectData.Status_Perk_Tools_Efficiency_Harvesting.EFFHarvesting * 100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Weapon_Disease_OnLowHP_Crit_Name" rel_version="MorePerksV1">Plagued Crits</string>
+	<string key="PerkID_Weapon_Disease_OnLowHP_Crit_Description" rel_version="MorePerksV1">Critical strikes against targets below {[GlobalAbilityTable.Global_Weapon_Disease_OnLowHP_Crit.TargetHealthPercent]}% health inflict disease for {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnCrit.BaseDuration]}s, reducing healing effectivness on the target by {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnCrit.HealMod * -100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Weapon_Disease_OnLowHP_Heavy_Name" rel_version="MorePerksV1">Plagued Strikes</string>
+	<string key="PerkID_Weapon_Disease_OnLowHP_Heavy_Description" rel_version="MorePerksV1">Heavy attacks against targets inflict disease for {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnHeavy.BaseDuration]}s, reducing healing effectivness on the target by {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnHeavy.HealMod * -100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Weapon_DmgAgainstGrit_Name" rel_version="MorePerksV1">Thwarting Counter</string>
+	<string key="PerkID_Weapon_DmgAgainstGrit_Description" rel_version="MorePerksV1">Deal {[GlobalAbilityTable.Global_Weapon_DmgAgainstGrit.BaseDamage * 100 * {perkMultiplier}]}% additional damage against targets with active grit.</string>
+	<string key="PerkID_Weapon_DmgWithGrit_Name" rel_version="MorePerksV1">Thwarting Strikes</string>
+	<string key="PerkID_Weapon_DmgWithGrit_Description" rel_version="MorePerksV1">Deal {[GlobalAbilityTable.Global_Weapon_DmgWithGrit.BaseDamage * 100 * {perkMultiplier}]}% additional damage while you have active grit.</string>
+	<string key="PerkID_Weapon_Melee_ChargedHeavy_DMG_Name" rel_version="MorePerksV1">Trenchant Strikes</string>
+	<string key="PerkID_Weapon_Melee_ChargedHeavy_DMG_Description" rel_version="MorePerksV1">Fully charged heavy attacks deal {[GlobalAbilityTable.Global_Weapon_Melee_ChargedHeavy_DMG.BaseDamage * 100 * {perkMultiplier}]}% additional damage.</string>
+	<string key="PerkID_Weapon_Melee_ChargedHeavy_Crit_Name" rel_version="MorePerksV1">Trenchant Crits</string>
+	<string key="PerkID_Weapon_Melee_ChargedHeavy_Crit_Description" rel_version="MorePerksV1">Fully charged heavy attacks deal {[GlobalAbilityTable.Global_Weapon_Melee_ChargedHeavy_Crit.CritDamage * 100 * {perkMultiplier}]}% additional Crit damage.</string>
+	<string key="PerkID_Weapon_Melee_ChargedHeavy_Rend_Name" rel_version="MorePerksV1">Trenchant Rend</string>
+	<string key="PerkID_Weapon_Melee_ChargedHeavy_Rend_Description" rel_version="MorePerksV1">Fully charged heavy attacks apply rend for {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.BaseDuration]}s, reducing target's absorption by {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.ABSStandard * -100 * {perkMultiplier}]}%. ({[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend_Timer.BaseDuration]}s cooldown)</string>
+	<string key="PerkID_Weapon_Melee_ChargedHeavy_Heal_Name" rel_version="MorePerksV1">Trenchant Recovery</string>
+	<string key="PerkID_Weapon_Melee_ChargedHeavy_Heal_Description" rel_version="MorePerksV1">Fully charged heavy attacks heal the player for {[GlobalAbilityTable.Global_Weapon_Melee_ChargedHeavy_Heal.DmgPctToHealth * 100 * {perkMultiplier}]}% of the damage dealt.</string>
+	<string key="PerkID_Armor_RangeDefense_Physical_Name" rel_version="MorePerksV1">Physical Aversion</string>
+	<string key="PerkID_Armor_RangeDefense_Physical_Description" rel_version="MorePerksV1">You take {[GlobalAbilityTable.Global_Armor_RangeDefense_Physical.BaseDamageReduction * 100 * {perkMultiplier}]}% less damage from ranged physical standard attacks.</string>
+	<string key="PerkID_Armor_RangeDefense_Elemental_Name" rel_version="MorePerksV1">Elemental Aversion</string>
+	<string key="PerkID_Armor_RangeDefense_Elemental_Description" rel_version="MorePerksV1">You take {[GlobalAbilityTable.Global_Armor_RangeDefense_Elemental.BaseDamageReduction * 100 * {perkMultiplier}]}% less damage from ranged elemental standard attacks.</string>
 </resources>
 

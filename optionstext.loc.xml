@@ -30,6 +30,8 @@
 	<string key="ui_borderless_window">Borderless Window</string>
 	<string key="ui_resolution">Resolution</string>
 	<string key="ui_resolution_desc">Your Resolution</string>
+	<string key="ui_monitor">Monitor</string>
+	<string key="ui_monitor_desc">Your Monitor</string>
 	<string key="ui_show_fps">Show FPS</string>
 	<string key="ui_show_fps_desc">Show or Hide your FPS</string>
 	<string key="ui_enable_vsync">V-Sync</string>
@@ -93,6 +95,7 @@
 	<string key="ui_voicechatmode_desc">Your current voice chat mode</string>
 	<string key="ui_voicechatmode_enabled">Enabled</string>
 	<string key="ui_voicechatmode_grouponly">Group Only</string>
+	<string key="ui_voicechatmode_world">World</string>
 	<string key="ui_voicechatmode_disabled">Disabled</string>
 	<string key="ui_speaker_desc">Your current speaker output device</string>
 	<string key="ui_receivevolume_desc">Change the volume received</string>
@@ -134,6 +137,8 @@
 	<string key="ui_uivolume_desc">Change the volume of UI sound effects</string>
 	<string key="ui_loudnesslevel">Boost Softer Sounds</string>
 	<string key="ui_loudnesslevel_desc">Force softer sounds to play at higher volume</string>
+	<string key="ui_audioquality">Audio Quality</string>
+	<string key="ui_audioquality_desc">Adjusts audio quality. Lower values use less system resources. Higher values use more system resources and provide a richer audio experience</string>
 	<string key="ui_max_fps">Max FPS</string>
 	<string key="ui_max_fps_desc">Limit the rendered frames per second (FPS)</string>
 	<string key="ui_options_graphics_30fps">30 fps</string>

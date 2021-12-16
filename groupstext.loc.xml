@@ -56,7 +56,7 @@
 	<string key="ui_cannotleavegroup_in_dungeon" comment="">You cannot leave your group while in an Expedition.</string>
 	<string key="ui_cannotjoingroup_in_arena" comment="">You cannot join a different group while in an Arena.</string>
 	<string key="ui_cannotjoingroup_in_dungeon" comment="">You cannot join a different group while in an Expedition.</string>
-	<string key="ui_pvp_group" comment="">PvP\nGroup</string>
+	<string key="ui_pvp_group" comment="">PvP Group</string>
 	<string key="ui_groupedalreadyerrormessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; is already in a group.</string>
 	<string key="ui_groupalreadyinvitederrortitle" comment="">Invite Already Sent</string>
 	<string key="ui_groupalreadyinvitederrormessage" comment="">You already invited &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt;.</string>
@@ -151,8 +151,8 @@
 	<string key="ui_ping_type_notification_NeedHelp" comment="">Army Alert - Need Help Here</string>
 	<string key="ui_ping_type_notification_NeedHealing" comment="">Army Alert - Need Healing Here</string>
 	<string key="ui_pingTypeDistance" comment="">{pingType} {distance}</string>
-	<string key="ui_raid_war_header" comment="">Army for war.</string>
-	<string key="ui_raid_invasion_header" comment="">Army for Invasion.</string>
+	<string key="ui_raid_war_header" comment="">Army for war</string>
+	<string key="ui_raid_invasion_header" comment="">Army for Invasion</string>
 	<string key="ui_raid_standby_header" comment="">STANDBY list</string>
 	<string key="ui_raid_armygroups" comment="">Army groups.</string>
 	<string key="ui_raid_backfill" comment="">Back-Fill</string>

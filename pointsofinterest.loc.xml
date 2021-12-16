@@ -1510,6 +1510,8 @@
 	<string key="ui_poi_devworld_cave_description">A cave that has spawn scaling wolves.</string>
 	<string key="ui_poi_devworld_spawns">Dev World Spawns</string>
 	<string key="ui_poi_devworld_spawns_description">Some spawning tech demos.</string>
+	<string key="ui_poi_devworld_dummies">Dev World Target Dummy Area</string>
+	<string key="ui_poi_devworld_dummies_description">A testing area with multiple target dummies.</string>
 	<string key="ui_poi_fish_hotspot_broad">Broad Fishing Hotspot</string>
 	<string key="ui_poi_fish_hotspot_broad_description">The fish are jumping out of the water!</string>
 	<string key="ui_poi_fish_hotspot_rare">Rare Fishing Hotspot</string>
@@ -1704,6 +1706,10 @@
 	<string key="ui_poi_spiritshrine_01_30251_description">Spirit Shrine</string>
 	<string key="ui_poi_spiritshrine_02_30314">Lover's Shrine</string>
 	<string key="ui_poi_spiritshrine_02_30314_description">Spirit Shrine</string>
+	<string key="ui_poi_spiritshrine_20208">Imperial Shrine</string>
+	<string key="ui_poi_spiritshrine_20208_description">Spirit Shrine</string>
+	<string key="ui_poi_spiritshrine_20209">@ui_poi_spiritshrine_20209</string>
+	<string key="ui_poi_spiritshrine_20209_description">Spirit Shrine</string>
 	<string key="ui_poi_vikingshipwreck_40039">Vigrid</string>
 	<string key="ui_poi_vikingshipwreck_40039_description">Ships from the north, and with them, the ghosts of their cursed crew.</string>
 	<string key="ui_poi_Tauros_06SW09">Tauros</string>
@@ -1716,14 +1722,38 @@
 	<string key="ui_poi_keep_40283_description" rel_version="AI_Evil_Knights_P1">Crumbled ruins, a life restarted\nThe veil of sanctuary is quickly parted</string>
 	<string key="ui_poi_camp_40040" rel_version="AI_Evil_Knights_P1">Las Torres War Camp</string>
 	<string key="ui_poi_camp_40040_description" rel_version="AI_Evil_Knights_P1">Glistening silver is the razor band\nA foothold carved in yellow sand.</string>
+	<string key="ui_poi_yeti_30144" rel_version="Event_WinterConvergence_Perm">Hari's Hollow</string>
+	<string key="ui_poi_yeti_30144_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
+	<string key="ui_poi_yeti_30252" rel_version="Event_WinterConvergence_Perm">Serenity Sanctuary</string>
+	<string key="ui_poi_yeti_30252_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
+	<string key="ui_poi_yeti_40041" rel_version="Event_WinterConvergence_Perm">Light's Crown Lair</string>
+	<string key="ui_poi_yeti_40041_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
+	<string key="ui_poi_yeti_40172" rel_version="Event_WinterConvergence_Perm">Cascade Cavern</string>
+	<string key="ui_poi_yeti_40172_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
+	<string key="ui_poi_yeti_40173" rel_version="Event_WinterConvergence_Perm">Rames' Refuge</string>
+	<string key="ui_poi_yeti_40173_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
 	<string key="ui_poi_yeti_40346">Greyvale Grotto</string>
 	<string key="ui_poi_yeti_40346_description">Landmark</string>
 	<string key="ui_poi_yeti_40347">Frosted Fastness</string>
 	<string key="ui_poi_yeti_40347_description">Landmark</string>
 	<string key="ui_poi_yeti_40426">Rimewolves' Retreat</string>
 	<string key="ui_poi_yeti_40426_description">Landmark</string>
+	<string key="ui_poi_yeti_40427" rel_version="Event_WinterConvergence_Perm">Spelunker's Demise</string>
+	<string key="ui_poi_yeti_40427_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
+	<string key="ui_poi_yeti_50399" rel_version="Event_WinterConvergence_Perm">Profane Prospect</string>
+	<string key="ui_poi_yeti_50399_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
+	<string key="ui_poi_yeti_50424" rel_version="Event_WinterConvergence_Perm">Isvari's Isolation</string>
+	<string key="ui_poi_yeti_50424_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
 	<string key="ui_poi_yeti_60352">High-Pass Hidey-Hole</string>
 	<string key="ui_poi_yeti_60352_description">Landmark</string>
+	<string key="ui_poi_40348_wintervillage" rel_version="Event_WinterConvergence_Temp">Winter Village</string>
+	<string key="ui_poi_40348_wintervillage_description" rel_version="Event_WinterConvergence_Temp">A mysterious village, as snowy as it is jovial, has appeared in Aeternum. Welcome to Winter Convergence!</string>
+	<string key="ui_poi_wintervillage_50151" rel_version="Event_WinterConvergence_Temp">Winter Village</string>
+	<string key="ui_poi_wintervillage_50151_description" rel_version="Event_WinterConvergence_Temp">A mysterious village, as snowy as it is jovial, has appeared in Aeternum. Welcome to Winter Convergence!</string>
+	<string key="ui_poi_50300_wintervillage" rel_version="Event_WinterConvergence_Temp">Winter Village</string>
+	<string key="ui_poi_50300_wintervillage_description" rel_version="Event_WinterConvergence_Temp">A mysterious village, as snowy as it is jovial, has appeared in Aeternum. Welcome to Winter Convergence!</string>
+	<string key="ui_poi_wintervillage_30145" rel_version="Event_WinterConvergence_Temp">Winter Village</string>
+	<string key="ui_poi_wintervillage_30145_description" rel_version="Event_WinterConvergence_Temp">A mysterious village, as snowy as it is jovial, has appeared in Aeternum. Welcome to Winter Convergence!</string>
 	<string key="ui_poi_factionarea_40284">Ravenridge Grazing Lands</string>
 	<string key="ui_poi_factionarea_40285">West of Meadow Lake</string>
 	<string key="ui_poi_factionarea_40286">Faith's Crossroad</string>

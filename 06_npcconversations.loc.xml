@@ -83,9 +83,9 @@
 	<string key="0623_01_Fisher_DefaultDialog" speaker="Master Fisher Shields - Windsward" name="MasterFisherShields" VO="0623_01_Fisher_Default" VO_Status="Recorded">Hello, I'm Master Fisher Shields.</string>
 	<string key="0623_02_Fisher_DefaultDialog" speaker="Master Fisher Shields - Windsward" name="MasterFisherShields" VO="0623_02_Fisher_Default" VO_Status="Recorded">How goes your fishing, {playerName}?</string>
 	<string key="0623_03_Fisher_DefaultDialog" speaker="Master Fisher Shields - Windsward" name="MasterFisherShields" VO="0623_03_Fisher_Default" VO_Status="Recorded">How goes your fishing, {playerName}?</string>
-	<string key="0699_00_Barkimedes_DefaultDialog" speaker="Barkimedes - Windsward" name="Barkimedes" VO_Status="Needs Recording">Whine, whine…</string>
-	<string key="0699_01_Barkimedes_DefaultDialog" speaker="Barkimedes - Windsward" name="Barkimedes" VO_Status="Needs Recording">Woof!</string>
-	<string key="0699_02_Barkimedes_DefaultDialog" speaker="Barkimedes - Windsward" name="Barkimedes" VO_Status="Needs Recording">Bark, bark! (Barkimedes looks happy to see you.)</string>
-	<string key="0699_03_Barkimedes_DefaultDialog" speaker="Barkimedes - Windsward" name="Barkimedes" VO_Status="Needs Recording">Bark, bark! (Barkimedes looks happy to see you.)</string>
+	<string key="0699_00_Barkimedes_DefaultDialog" speaker="Barkimedes - Windsward" name="Barkimedes" VO="0699_00_Barkimedes_DefaultDialog" VO_Status="Needs Recording">Whine, whine…</string>
+	<string key="0699_01_Barkimedes_DefaultDialog" speaker="Barkimedes - Windsward" name="Barkimedes" VO="0699_01_Barkimedes_DefaultDialog" VO_Status="Needs Recording">Woof!</string>
+	<string key="0699_02_Barkimedes_DefaultDialog" speaker="Barkimedes - Windsward" name="Barkimedes" VO="0699_02_Barkimedes_DefaultDialog" VO_Status="Needs Recording">Bark, bark! (Barkimedes looks happy to see you.)</string>
+	<string key="0699_03_Barkimedes_DefaultDialog" speaker="Barkimedes - Windsward" name="Barkimedes" VO="0699_03_Barkimedes_DefaultDialog" VO_Status="Needs Recording">Bark, bark! (Barkimedes looks happy to see you.)</string>
 </resources>
 

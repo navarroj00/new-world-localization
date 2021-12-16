@@ -55,6 +55,7 @@
 	<string key="9905b_MSQ_Rima_title" comment="female" gender="F">Marauder Representative</string>
 	<string key="9905c_MSQ_Rima_title" comment="female" gender="F">Veteran of Fort Alazar</string>
 	<string key="9905d_MSQ_Rima_title" comment="female" gender="F">Soulwarden Vanguard</string>
+	<string key="9905e_MSQ_Rima_title" comment="female" gender="F">Soulwarden Vanguard</string>
 	<string key="9906_MSQ_Shamaness_title" comment="female" gender="F">Protector of the Grove</string>
 	<string key="9907_MSQ_AEVillager1_title" comment="female" gender="F">A Bear</string>
 	<string key="9908_MSQ_AEVillager2_title" comment="male" gender="M">A Wolf</string>
@@ -75,5 +76,8 @@
 	<string key="9926_VK_AbigailRose" comment="female" gender="F">Abigail Rose</string>
 	<string key="9927_VK_ScoutsNote_title" comment="female" gender="F">Desdemona's Report</string>
 	<string key="9927_VK_ScoutsNote" comment="female" gender="F">Bloodstained Note</string>
+	<string key="9928_MSQ_YonasMemorial_title" comment="male">A Soulwarden Memorial</string>
+	<string key="9928_MSQ_YonasMemorial" comment="male" gender="M">Yonas Memorial</string>
+	<string key="9928_MSQ_YonasMemorial_Examine" comment="male" gender="M">Reflect</string>
 </resources>
 

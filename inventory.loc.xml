@@ -9,6 +9,8 @@
 	<string key="inv_discard_life_warning">Other players cannot see or take these items. When this bag disappears (after 3 minutes), the items will be gone forever.</string>
 	<string key="inv_encumbered">Encumbered</string>
 	<string key="inv_unencumbered">Unencumbered</string>
+	<string key="inv_slotsfull">Item Limit Reached</string>
+	<string key="inv_encumbered_and_slotsfull">Encumbered &amp; Item Limit Reached</string>
 	<string key="ui_quantity_with_amount">x {amount}</string>
 	<string key="inv_weapons">Weapons</string>
 	<string key="inv_ammo">Ammo</string>
@@ -62,7 +64,7 @@
 	<string key="inv_equipLoadOverburdened">Over-Equipped</string>
 	<string key="inv_equipLoadTooltip">The combined weight of your equipped armor and shield determines your Equip Load. Each Equip Load offers a unique dodge and other bonuses.</string>
 	<string key="inv_equipLoadFastTooltip">While wearing light armor, your dodge is a quick roll that covers a lot of distance. You deal 20% bonus damage and {[Type_StatusEffectData.EquipLoad_HealingBonus_Light.HealScalingValueMultiplier * 100]}% bonus healing.</string>
-	<string key="inv_equipLoadNormalTooltip">While wearing medium weight armor, your dodge is a quick hop. You deal 10% bonus damage and 15% bonus healing. Crowd control debuffs you apply last 10% longer.</string>
+	<string key="inv_equipLoadNormalTooltip">While wearing medium weight armor, your dodge is a quick hop. You deal 10% bonus damage and {[Type_StatusEffectData.EquipLoad_HealingBonus_Medium.HealScalingValueMultiplier * 100]}% bonus healing. Crowd control debuffs you apply last 10% longer.</string>
 	<string key="inv_equipLoadSlowTooltip">While wearing heavy armor, your dodge is a slow sidestep. Your block stability is increased by 15% and crowd control debuffs you apply last 20% longer.</string>
 	<string key="inv_equipLoadOverburdenedTooltip">When you exceed your maximum Equip Load, you cannot dodge, sprint or use abilities. You should unequip some items.</string>
 	<string key="inv_equipLoadEncumberedTooltip">You are carrying too much in your inventory. While encumbered, it doesn't matter what your Equip Load is. You cannot sprint or dodge and lose more stamina while blocking. You should remove some items from your bag.</string>

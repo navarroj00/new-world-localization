@@ -22,7 +22,7 @@
 	<string key="ui_banned">Banned</string>
 	<string key="mm_loginerrortitle">Login Error</string>
 	<string key="mm_connectionfailed">Connection Failed</string>
-	<string key="ui_open_governors_desk">Open Governors Desk</string>
+	<string key="ui_open_governors_desk">Open Governor's Desk</string>
 	<string key="mm_disconnected">Disconnected from the server. Reconnecting, please wait ...</string>
 	<string key="mm_retriesfailed">Connection retries exhausted. Please try again later.</string>
 	<string key="mm_loginservices_badrequest">Login services received a bad request.</string>
@@ -132,12 +132,13 @@
 	<string key="mm_csdkerr_nil_send">Gameplay connection error.</string>
 	<string key="mm_csdkerr_invalid_endpoint">Invalid server address</string>
 	<string key="mm_csdkerr_connection_failed">Server connection failed.</string>
+	<string key="mm_csdkerr_transport_version_mismatch">The server is using an incompatible network version. Please update the game and try again.</string>
 	<string key="mm_csdkerr_registration_failed">Could not connect to server</string>
 	<string key="mm_csdkerr_registration_unmarshal_error">Server data error, please check for a patch.</string>
 	<string key="mm_csdkerr_disconnect">Unexpectedly disconnected from the server. Reconnecting...</string>
 	<string key="mm_csdkerr_replicate_timeout">Timed out while waiting for state synchronization.</string>
 	<string key="mm_csdkerr_registration_failed_retry">Failed to connect to server</string>
-	<string key="mm_connerr_rep_registration_timeout">Unable to establish connection with the server.</string>
+	<string key="mm_connerr_rep_registration_timeout">Unable to connect to the server. Please confirm your internet access and try again.</string>
 	<string key="mm_connerr_game_timeout">Timed out while waiting for gameplay on the server.</string>
 	<string key="mm_connerr_spawn_point_timeout">Timed out while waiting for spawn point.</string>
 	<string key="mm_connerr_aoi_timeout">Timed out while waiting for server to describe the world.</string>
@@ -194,8 +195,8 @@
 	<string key="mm_authresult_Denied_CapacityLimitReached">The servers are busy at this time. Please try again later.</string>
 	<string key="mm_authresult_Denied_SoftTTLExceeded">Server TTL exceeded. Please try again later.</string>
 	<string key="mm_authresult_Denied_HardTTLExceeded">Server TTL exceeded. Please try again later.</string>
-	<string key="mm_authresult_Denied_VersionCheckFailed">Server and client version mismatch. Please update your client from the launcher.</string>
-	<string key="mm_authresult_Denied_TypeIndexMismatch">Incompatible client version. Please update your client from the launcher.</string>
+	<string key="mm_authresult_Denied_VersionCheckFailed">The server is running a different version of the game. Please update and try again.</string>
+	<string key="mm_authresult_Denied_TypeIndexMismatch">The server is running an incompatible version of the game. Please update and try again.</string>
 	<string key="mm_authresult_Denied_LoginTokenSignatureInvalid">Invalid login token signature.</string>
 	<string key="mm_authresult_Denied_LoginTokenExpired">Login has expired. Please try again.</string>
 	<string key="mm_authresult_Denied_LoginTokenWorldIdInvalid">Login token is not valid for selected world.</string>
@@ -327,6 +328,7 @@
 	<string key="ui_repairing">Repairing</string>
 	<string key="ui_gathering">Gathering</string>
 	<string key="ui_refining">Refining</string>
+	<string key="ui_taxes">Taxes</string>
 	<string key="ui_survival">Personal Skills</string>
 	<string key="ui_weaponsmithing">Weaponsmithing</string>
 	<string key="ui_armoring">Armoring</string>
@@ -335,8 +337,27 @@
 	<string key="ui_cooking">Cooking</string>
 	<string key="ui_engineering">Engineering</string>
 	<string key="ui_engineering_desc">Craft ranged weapons and house furnishings.</string>
+	<string key="ui_kiln">Gypsum Kiln</string>
+	<string key="ui_kiln_desc">Refine and craft Gypsum here.</string>
 	<string key="ui_furnishing">Furnishing</string>
 	<string key="ui_wildernesssurvival" comment="wilderness survival is not a trainable skill and is always equal to the character's level, so just tell users it's their character level for simplicity">Character</string>
+	<string key="ui_weaponsmithing_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Weaponsmithing Post Cap</string>
+	<string key="ui_armoring_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Armoring Post Cap</string>
+	<string key="ui_jewelcrafting_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Jewelcrafting Post Cap</string>
+	<string key="ui_arcana_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Arcana Post Cap</string>
+	<string key="ui_cooking_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Cooking Post Cap</string>
+	<string key="ui_fishing_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Fishing Post Cap</string>
+	<string key="ui_furnishing_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Furnishing Post Cap</string>
+	<string key="ui_engineering_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Engineering Post Cap</string>
+	<string key="ui_smelting_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Smelting Post Cap</string>
+	<string key="ui_woodworking_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Woodworking Post Cap</string>
+	<string key="ui_leatherworking_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Leatherworking Post Cap</string>
+	<string key="ui_weaving_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Weaving Post Cap</string>
+	<string key="ui_stonecutting_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Stonecutting Post Cap</string>
+	<string key="ui_skinning_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Skinning Post Cap</string>
+	<string key="ui_mining_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Mining Post Cap</string>
+	<string key="ui_logging_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Logging Post Cap</string>
+	<string key="ui_harvesting_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Harvesting Post Cap</string>
 	<string key="ui_decline">Decline</string>
 	<string key="ui_name_your_avatar">Name Your Character</string>
 	<string key="ui_portrait_title">My Portrait</string>
@@ -358,6 +379,7 @@
 	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front">There is a small chance of recovering the attached gem.</string>
 	<string key="inv_salvage_tooltip_additional_item" comment="This only applies to fishing when there is a chance to receive additional items.">Additional items such as {itemName} may also be acquired.</string>
 	<string key="inv_salvage_tooltip_recipe">Salvaging this item will teach you the {recipeName} recipe.</string>
+	<string key="inv_salvage_tooltip_recipe_known">You already know the {recipeName} recipe.</string>
 	<string key="inv_salvage_tertiary_recipe">{recipeName} Recipe</string>
 	<string key="minspec_warning_requirements_title">MinSpec Warning</string>
 	<string key="minspec_failed_requirements_title">MinSpec Failed</string>

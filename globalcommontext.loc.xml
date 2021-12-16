@@ -114,8 +114,6 @@
 	<string key="ui_affliction_drowning_tooltip">If you run out of breath, you suffocate and die</string>
 	<string key="ui_affliction_blight">blight resistance</string>
 	<string key="ui_affliction_blight_tooltip">If you run out of blight resistance, you will become blighted and deal {[Type_StatusEffectData.Blight.DMGStandard * 100]}% reduced damage, take {[Type_StatusEffectData.Blight.HealMod * 100]}% reduced healing, and lose {[Type_StatusEffectData.Blight.HealthModifierPercent * -100]}% of your base health every {[Type_StatusEffectData.Blight.TickRate]} seconds for {[Afflictions.AfflictionBlight.AfflictedDrainTime]} seconds.</string>
-	<string key="ui_affliction_mutcurse4major">curse resistance</string>
-	<string key="ui_affliction_mutcurse4major_tooltip">If you run out of curse resistance, you will drop a silence zone that detonates, dealing damage to players and creatures. Curse resistance is shared among all members of your group.</string>
 	<string key="ui_afflicted_bleeding">wounded</string>
 	<string key="ui_afflicted_bleeding_tooltip">While wounded, you regain stamina at a much lower rate</string>
 	<string key="ui_afflicted_burn">burning</string>
@@ -136,8 +134,6 @@
 	<string key="ui_afflicted_drowning_tooltip">You have drowned to death</string>
 	<string key="ui_afflicted_blight">blighted</string>
 	<string key="ui_afflicted_blight_tooltip">While blighted, you deal {[Type_StatusEffectData.Blight.DMGStandard * 100]}% reduced damage, take {[Type_StatusEffectData.Blight.HealMod * 100]}% reduced healing, and lose {[Type_StatusEffectData.Blight.HealthModifierPercent * 100]}% of your base health every {[Type_StatusEffectData.Blight.TickRate]} seconds.</string>
-	<string key="ui_afflicted_mutcurse4major">cursed</string>
-	<string key="ui_afflicted_mutcurse4major_tooltip">When this timer expires the silence zone will detonate.</string>
 	<string key="ui_agreement">By continuing, you agree to the</string>
 	<string key="ui_ahhhhh">AHHHHH!!!!</string>
 	<string key="ui_aimsensitivity">Aim Sensitivity</string>
@@ -193,6 +189,7 @@
 	<string key="ui_leave_arena_coming_soon">Leaving Arena functionality Coming Soon</string>
 	<string key="ui_equipfishingpole">[{value}] to Fish</string>
 	<string key="ui_castfishingline">: Cast fishing line</string>
+	<string key="ui_fishing_hotspot_nearby">Find the hotspot in the nearby area!</string>
 	<string key="ui_changekey">Change Key</string>
 	<string key="ui_changeweapon">change weapon</string>
 	<string key="ui_create_character_title_main_menu">Create a Character.</string>
@@ -227,6 +224,7 @@
 	<string key="ui_no_points_spent">No Points Spent</string>
 	<string key="ui_commit_1_point">Commit &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt; 1 &lt;/font&gt; Point</string>
 	<string key="ui_commit_points">Commit &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt; {points} &lt;/font&gt; Points</string>
+	<string key="ui_abilities_on_cooldown">Abilities on Cooldown</string>
 	<string key="ui_componentname">Component Name</string>
 	<string key="ui_confirm">Confirm</string>
 	<string key="ui_confirm_delete_character_placeholder">Type the character's name</string>
@@ -243,6 +241,7 @@
 	<string key="ui_craft_fee">{territoryName} TAX: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{fee} &lt;/font&gt;  &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="0.9" yOffset="0.7"&gt;&lt;/img&gt;</string>
 	<string key="ui_crafting_carried">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt; Carried</string>
 	<string key="ui_crafting_none">Items crafted without a special resource can still have perks, but are less likely to have a specific type.</string>
+	<string key="ui_crafting_item_perks">Item Perks</string>
 	<string key="ui_purchase_slot_hint_1">Additional character slot applies to all regions</string>
 	<string key="ui_purchase_slot_hint_2">A total of 4 characters can be created per region</string>
 	<string key="ui_createcharacter">Create Character</string>
@@ -373,9 +372,9 @@
 	<string key="ui_exitnewworld">Exit to Main Menu</string>
 	<string key="ui_quittodesktop">Quit to Desktop</string>
 	<string key="ui_expatriate">Expatriate</string>
-	<string key="ui_expertise">Expertise</string>
-	<string key="ui_expertise_tooltip_warning">You cannot earn any more expertise levels until you reach the new trade skill level limit.</string>
-	<string key="ui_expertise_tooltip_explanation">After reaching the maximum level, you can continue to earn experience and gain expertise levels.</string>
+	<string key="ui_expertise">Aptitude</string>
+	<string key="ui_expertise_tooltip_warning">You cannot earn any more aptitude levels until you reach the new trade skill level limit.</string>
+	<string key="ui_expertise_tooltip_explanation">After reaching the maximum level, you can continue to earn experience and gain aptitude levels.</string>
 	<string key="ui_expertise_tooltip_reward">At each marked point, you'll earn a reward box. Boxes earned later in each level offer greater rewards.</string>
 	<string key="ui_explorer">Explorer</string>
 	<string key="ui_f">f</string>
@@ -434,6 +433,8 @@
 	<string key="ui_inventoryslotsremaining">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{count}&lt;/font&gt; inventory slots remaining</string>
 	<string key="ui_inventoryweightremaining">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{Weight}&lt;/font&gt; pounds remaining</string>
 	<string key="ui_inventoryMaxWeight">Carrying maximum weight</string>
+	<string key="ui_inventoryweight">WEIGHT</string>
+	<string key="ui_inventoryslots">UNIQUE ITEMS</string>
 	<string key="ui_filtereditems">{filtered} items hidden by filter.</string>
 	<string key="ui_inventory_tooltip">Press [{keyName}] to open and close your inventory. The radial meter shows how much of your encumbrance limit has been used.</string>
 	<string key="ui_equipped">Equipped</string>
@@ -455,6 +456,8 @@
 	<string key="ui_level_unspent_points_tradeskill">{tradeskillPointsText}</string>
 	<string key="ui_level_unspent_points_both">{attributePointsText}      {tradeskillPointsText}</string>
 	<string key="ui_level">Level</string>
+	<string key="ui_expertise_level" rel_version="Feature_PostCapTradeSkills">Aptitude Level</string>
+	<string key="ui_expertise_reward" rel_version="Feature_PostCapTradeSkills">Aptitude Reward Earned</string>
 	<string key="ui_light">Light</string>
 	<string key="ui_lmb">lmb</string>
 	<string key="ui_lmbrmb">LMB / RMB</string>
@@ -524,6 +527,7 @@
 	<string key="ui_return_hide_ui">Return to game to hide UI</string>
 	<string key="ui_return_to_game">Return to game</string>
 	<string key="ui_photomode">Hide UI</string>
+	<string key="ui_take_screenshot">Screenshot</string>
 	<string key="ui_ownership:">Ownership:</string>
 	<string key="ui_p">p</string>
 	<string key="ui_pitch">PITCH</string>
@@ -809,6 +813,7 @@
 	<string key="ui_ghost_structure_count_exceeded_warning">At building plan limit (%d / %d)</string>
 	<string key="ui_ghost_structure_count_warning">Building plan limit %d / %d</string>
 	<string key="ui_escape_build_mode">Press Escape To Exit Build Mode</string>
+	<string key="ui_escape_cinematic_skip">Escape To Skip</string>
 	<string key="ui_feedback_format">SUBMIT FEEDBACK</string>
 	<string key="ui_feedback_general">General</string>
 	<string key="ui_in_game_survey_header">Are you enjoying new world?</string>
@@ -848,6 +853,9 @@
 	<string key="ui_world_select_refresh">Refresh</string>
 	<string key="ui_resolution_popup_title">Confirm Resolution</string>
 	<string key="ui_resolution_popup_title_message">Is this resolution ok?</string>
+	<string key="ui_monitor_popup_title">Confirm Monitor Change</string>
+	<string key="ui_monitor_popup_title_message">Is this monitor ok?</string>
+	<string key="ui_monitor_name">Monitor</string>
 	<string key="ui_short_level">Lv.</string>
 	<string key="ui_factioncurrency">{faction} Tokens</string>
 	<string key="ui_factionreputation">{faction} Reputation</string>
@@ -886,14 +894,14 @@
 	<string key="ui_killfeed_standing_val">+ {amount}</string>
 	<string key="ui_killfeed_tradeskill_val">+ {amount}</string>
 	<string key="ui_navmenu_friends">FRIENDS</string>
-	<string key="ui_navmenu_guild">COMPANY</string>
-	<string key="ui_navmenu_map">MAP</string>
-	<string key="ui_navmenu_journal">JOURNAL</string>
-	<string key="ui_navmenu_settings">SETTINGS</string>
+	<string key="ui_navmenu_guild">Company</string>
+	<string key="ui_navmenu_map">Map</string>
+	<string key="ui_navmenu_journal">Journal</string>
+	<string key="ui_navmenu_settings">Settings</string>
 	<string key="ui_navmenu_exit">EXIT / OPTIONS</string>
-	<string key="ui_navmenu_game_menu">Game Menu</string>
+	<string key="ui_navmenu_game_menu">Menu</string>
 	<string key="ui_navmenu_benchmark">BENCHMARK</string>
-	<string key="ui_navmenu_store">STORE</string>
+	<string key="ui_navmenu_store">Store</string>
 	<string key="ui_navmenu_quit">QUIT</string>
 	<string key="ui_escapemenu_submit_feedback">Submit Feedback</string>
 	<string key="ui_escapemenu_respawn">Respawn</string>
@@ -906,7 +914,7 @@
 	<string key="ui_escapemenu_help">New World Help Page</string>
 	<string key="ui_escapemenu_support">Support</string>
 	<string key="ui_escapemenu_leave_game">Leave Game</string>
-	<string key="ui_navmenu_support">SUPPORT</string>
+	<string key="ui_navmenu_support">Support</string>
 	<string key="ui_navmenu_submit_feedback_desc">Please submit feedback regularly to help us make the most of your testing contribution.</string>
 	<string key="ui_navmenu_visit_forums">Visit Forums</string>
 	<string key="ui_navmenu_visit_forums_desc">Talk directly to the devs and link up with other players.</string>
@@ -943,6 +951,7 @@
 	<string key="ui_whisper_to_someone">{playerName} TO {recipient}</string>
 	<string key="ui_focus">Focus</string>
 	<string key="ui_points_to_level">{points} to level {level}</string>
+	<string key="ui_points_to_expertise">{points} to Aptitude rank {level}</string>
 	<string key="ui_spirit">Faith</string>
 	<string key="ui_vitality">Physique</string>
 	<string key="ui_strength">Strength</string>
@@ -1053,7 +1062,7 @@
 	<string key="ui_hide_filters">HIDE FILTERS</string>
 	<string key="ui_path">Path</string>
 	<string key="ui_show_filters">SHOW FILTERS</string>
-	<string key="ui_filters">FILTERS.</string>
+	<string key="ui_filters">FILTERS</string>
 	<string key="ui_add_filter">Add Filter</string>
 	<string key="ui_filter">Filter</string>
 	<string key="ui_remove_filters">Remove Filters</string>
@@ -1424,6 +1433,7 @@
 	<string key="ui_tooltip_read">Read</string>
 	<string key="ui_tooltip_store">Store</string>
 	<string key="ui_purchase_skins">Purchase Skins</string>
+	<string key="ui_tooltip_upgrade">Upgrade</string>
 	<string key="ui_tooltip_take">Take</string>
 	<string key="ui_tooltip_split">Split</string>
 	<string key="ui_tooltip_weight">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{value}&lt;/font&gt; Weight</string>
@@ -1445,6 +1455,10 @@
 	<string key="ui_attach_gem_tooltip">Attach a cut gem from your inventory.</string>
 	<string key="ui_replace_gem">Replace Gem</string>
 	<string key="ui_replace_gem_tooltip">Replace the gem currently attached with another one from your inventory. The current gem will be lost.</string>
+	<string key="ui_upgrade_warning_title">Upgrade Item</string>
+	<string key="ui_upgrade_warning_body">Upgrading your {itemName} from Gear Score {baseGearScore} to {targetGearScore} will require {itemCount} {upgradeItemName}.\n\nDo you want to upgrade this item?</string>
+	<string key="ui_upgrade_tooltip_enabled">Apply {itemName} to increase the Gear Score of this item.</string>
+	<string key="ui_upgrade_tooltip_disabled">You need more {itemName} to increase the Gear Score of this item.</string>
 	<string key="ui_cannot_replace_gem_tooltip">Cannot replace this gem.</string>
 	<string key="ui_no_gems_tooltip">No gems available</string>
 	<string key="ui_gem_select_popup_available">Available Gems</string>
@@ -1617,9 +1631,9 @@
 	<string key="ui_qb_no_skill_bonus">No skill bonus</string>
 	<string key="ui_qb_no_material_bonus">No material bonus</string>
 	<string key="ui_resource_quantity">{resourceName} {qtyHave} / {qtyNeeded}</string>
-	<string key="ui_escapemenu_proceed_to_new_world">Skip To New World</string>
-	<string key="ui_proceed_to_new_world_popup_title">Skip To New World</string>
-	<string key="ui_proceed_to_new_world_popup_message">Are you sure you want to skip to New World?\nYou will leave any coin, items, or experience behind.</string>
+	<string key="ui_escapemenu_proceed_to_new_world">Skip Tutorial</string>
+	<string key="ui_proceed_to_new_world_popup_title">Skip Tutorial</string>
+	<string key="ui_proceed_to_new_world_popup_message">Are you sure you want to skip the tutorial?\nYou will leave any coin, items, or experience behind.</string>
 	<string key="ui_additional_items">+{count} more items</string>
 	<string key="ui_retest">Re-Test</string>
 	<string key="ui_details">Details</string>
@@ -1840,6 +1854,9 @@
 	<string key="ui_camping_tooltip_tier_3">Camp (Tier 3)\n\nPlacing a Tier 3 camp allows you to craft various Tier 3 items, heal your character, and respawn at the camp.\n\nTo upgrade your camp to Tier 4, you must be Level 40 and have completed the “Survivalist: Lupine Obersvations” quest.</string>
 	<string key="ui_camping_tooltip_tier_4">Camp (Tier 4)\n\nPlacing a Tier 4 camp allows you to craft various Tier 4 items, heal your character, and respawn at the camp.\n\nTo upgrade your camp to Tier 5, you must be Level 55 and have completed the “Survivalist: Fading Lights” quest.</string>
 	<string key="ui_camping_tooltip_tier_5">Camp (Tier 5)\n\nPlacing a Tier 5 camp allows you to craft various Tier 5 items, heal your character, and respawn at the camp.</string>
+	<string key="ui_campskins" rel_version="Feature_Camp_Skins">Camp Skins</string>
+	<string key="ui_campskin" rel_version="Feature_Camp_Skins">Camp Skin</string>
+	<string key="ui_campskin_applied_hint" rel_version="Feature_Camp_Skins">Skin will be applied on your next camp</string>
 	<string key="ui_all_level_milestones">All Leveling Rewards</string>
 	<string key="ui_unlock_token_slot">Earring Slot.</string>
 	<string key="ui_unlock_ring_slot">Ring Slot</string>
@@ -1865,6 +1882,7 @@
 	<string key="ui_from_strength_and_dexterity">Strength and Dexterity</string>
 	<string key="ui_from_dexterity_and_strength">Dexterity and Strength</string>
 	<string key="ui_from_dexterity_and_intelligence">Dexterity and Intelligence</string>
+	<string key="ui_from_strength_and_intelligence">Strength and Intelligence</string>
 	<string key="ui_from_intelligence">Intelligence</string>
 	<string key="ui_from_focus">Focus</string>
 	<string key="ui_from_intelligence_and_focus">Intelligence and Focus</string>
@@ -2083,6 +2101,9 @@
 	<string key="ui_fishing_hook_fish_swam_away">Miss - fish swam away!</string>
 	<string key="ui_fishing_cast_missed_water">Cast missed the water!</string>
 	<string key="ui_fishing_tension" comment="The fishing line is in tension.">Tension</string>
+	<string key="ui_fishing_divert_level_green">Fish Population Normal</string>
+	<string key="ui_fishing_divert_level_yellow">Fish Population Dwindling!</string>
+	<string key="ui_fishing_divert_level_red">Fish Population Critical!</string>
 	<string key="ui_change_faction_azoth">&lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; {amount}</string>
 	<string key="ui_change_faction_azoth_required">Requires &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; {amount}</string>
 	<string key="ui_faction_cant_pvp">You can't change your faction while flagged for PvP</string>
@@ -2150,6 +2171,7 @@
 	<string key="ui_notificationaccept">Accept Notification</string>
 	<string key="ui_notificationdecline">Decline Notification</string>
 	<string key="ui_banneraccept">Accept Banner</string>
+	<string key="ui_togglepopupoption">Toggle Popup Option</string>
 	<string key="ui_dialogue">Dialogue</string>
 	<string key="ui_dialogueoption1">Option #1</string>
 	<string key="ui_dialogueoption2">Option #2</string>
@@ -2227,13 +2249,20 @@
 	<string key="ui_Enable_Viewport_Scale">Dynamic Resolution Scaling</string>
 	<string key="ui_Enable_Viewport_Scale_desc">When enabled, automatically adjusts internal game resolution to maintain framerate performance.</string>
 	<string key="ui_gathering_disabled">Gathering is Currently Disabled</string>
+	<string key="ui_linktochat_disabled">Link to Chat is Currently Disabled</string>
 	<string key="ui_autopinObjectivesMain">Auto-pin Main Story Quests</string>
 	<string key="ui_autopinobjectivesMain_desc">Automatically pin main story quests to HUD on accepting them</string>
+	<string key="ui_autopinObjectivesSkillProgression">Auto-pin Skill Progression Quests</string>
+	<string key="ui_autopinobjectivesSkillProgression_desc">Automatically pin skill progression quests to HUD on accepting them</string>
+	<string key="ui_autopinObjectivesEpicEquipment">Auto-pin Epic Weapons and Armor Quests</string>
+	<string key="ui_autopinobjectivesEpicEquipment_desc">Automatically pin epic weapons and armor quests to HUD on accepting them</string>
 	<string key="ui_autopinObjectivesSide">Auto-pin Side Quests</string>
 	<string key="ui_autopinobjectivesSide_desc">Automatically pin side quests to HUD on accepting them</string>
 	<string key="ui_autopinObjectivesFaction">Auto-pin Faction Missions</string>
 	<string key="ui_autopinobjectivesFaction_desc">Automatically pin faction missions to HUD on accepting them</string>
-	<string key="ui_autopinObjectivesComm">Auto-pin Town Project</string>
+	<string key="ui_autopinobjectivesEvent">Auto-pin Event Quests</string>
+	<string key="ui_autopinobjectivesEvent_desc">Automatically pin event quests to HUD on accepting them</string>
+	<string key="ui_autopinObjectivesComm">Auto-pin Town Projects</string>
 	<string key="ui_autopinobjectivesComm_desc">Automatically pin town projects to HUD on accepting them</string>
 	<string key="ui_autopinObjectivesCrafting">Auto-pin Recipes</string>
 	<string key="ui_autopinobjectivesCrafting_desc">Automatically pin recipes to HUD when a recipe is pinned at a crafting station.</string>
@@ -2245,5 +2274,9 @@
 	<string key="ui_cannot_trade_currency_blocked">Can't trade currency until you're level {level} and your account is older than {hoursNeeded} hours</string>
 	<string key="ui_cannot_chat_global_blocked">Can't chat in this channel until your account is older than {hoursNeeded} hours</string>
 	<string key="ui_complete_quests_to_unlock">Complete quests in settlement to unlock</string>
+	<string key="ui_averageexpertise">Average\nExpertise</string>
+	<string key="ui_averageexpertisetooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;Expertise&lt;/font&gt;\nExpertise is a measure of the potential power of your item drops. Drops from creatures and areas that are level 60+ have a chance to increase this value. As your Expertise level increases you must fight more powerful creatures or areas to see additional increases.</string>
+	<string key="ui_itemtypedescription_shield_only">Shield</string>
+	<string key="ui_expertise_value_with_icon">&lt;img src="lyshineui/images/icons/misc/icon_expertise_small" scale="1" yOffset="3.5"&gt;&lt;/img&gt;{value}</string>
 </resources>
 

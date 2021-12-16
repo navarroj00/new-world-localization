@@ -366,9 +366,9 @@
 	<string key="0722_0101_FL_00_proposal_next" speaker="Ranger Herath - Mountainrise" VO="Ranger_0722_0101_FL_00_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0722_0101_FL_00_proposal_prompt">We gather parts from around Aeternum. Can you dance to the song of this blade, Frozen Lament? We shall see. First, we must assemble her.</string>
 	<string key="0722_0101_FL_00_incomplete" speaker="Ranger Herath - Mountainrise">Never look down upon the noble career of a dancer as frivolous, for you must become one to flourish and twirl this tempered orichalcum razor. \n\nYour enemies will quiver in fear to see your beautiful, ever-evolving, monstrous movements.</string>
 	<string key="0722_0101_FL_00_complete_available_response" speaker="Ranger Madaki - Mountainhome" VO="Ranger_0722_0101_FL_00_AvailResponse" VO_Status="Recorded">This weapon is powerful indeed, and it is yours to look after now. \n\nTake it; go forth and send the Corrupted to an icy hell colder than the broken mountain they occupy.</string>
-	<string key="0718_0103_d_01_transport_npc_note" speaker="UI">Go to {POITags}</string>
+	<string key="0718_0103_d_01_transport_npc_note" speaker="UI">Venture into the Garden of Genesis</string>
 	<string key="0718_0103_d_02_have_npc_note" speaker="UI">Defeat {targetName} for {itemName}</string>
-	<string key="0714_0105_GoTo" speaker="UI">Go to {POITags}</string>
+	<string key="0714_0105_GoTo" speaker="UI">Venture into the Lazarus Instrumentality Expedition</string>
 	<string key="0714_0105_Headdress" speaker="UI">Defeat {targetName} for {itemName}</string>
 </resources>
 

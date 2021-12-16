@@ -1,5 +1,11 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="0326_Prospector_talk_Prompt" speaker="UI - player prompt">"Uh... What is an 'Outpost Rush'?"</string>
 	<string key="0326_Prospector_talk_Response" speaker="Prospector Newman" name="ProspectorNewman" VO="0326_Prospector_talk_Response" VO_Status="Recorded">Outpost Rush is a 20 vs 20 match that takes place on a large island with three Outposts.\nPlayers compete to capture and hold these Outposts for as long as possible, increasing their team's score in the process.</string>
+	<string key="0335_BecomingTheBeast_Prompt" comment="DO NOT TRANSLATE - " speaker="UI - player prompt">"Wait, you're the beast that's been attacking people?"</string>
+	<string key="0335_BecomingTheBeast_Response" comment="DO NOT TRANSLATE - " speaker="Bob the Balemaw Beast  - Great Cleave">I swear, all I do is jump out at people! I haven't hurt anyone. \n\nThis all started as just a harmless bit of fun, so that people could see the myth without any danger.</string>
+	<string key="0336_RangerTenevan_Found_Prompt" comment="DO NOT TRANSLATE - " speaker="UI - player prompt">"Did you know Heo Do-yun is alive?"</string>
+	<string key="0336_RangerTenevan_Found_Response" comment="DO NOT TRANSLATE - " speaker="Jasvir Tenavan - Great Cleave">That man has more lives than a cat! If he survived there may yet be hope for the rest of us!</string>
+	<string key="0337_RangerRizal_Found_Prompt" comment="DO NOT TRANSLATE - " speaker="UI - player prompt">"Were you stationed with Heo Do-yun?"</string>
+	<string key="0337_RangerRizal_Found_Response" comment="DO NOT TRANSLATE - " speaker="Marikit Rizal - Great Cleave">I was, along with Jasvir. I feared the worst, but if you have news, that means all is not lost.</string>
 </resources>
 

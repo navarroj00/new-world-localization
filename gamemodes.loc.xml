@@ -22,6 +22,7 @@
 	<string key="ui_duel_failmessage_level">You cannot Duel until you are level {level}.</string>
 	<string key="ui_duel_failmessage_event">You cannot Duel while in a war/invasion/boss fight.</string>
 	<string key="ui_duel_failmessage_sanctuary">You cannot Duel while in a Sanctuary.</string>
+	<string key="ui_duel_failmessage_waterdepth">You cannot Duel while in deep water.</string>
 	<string key="ui_duel_failmessage_blocked">You are blocked from sending this player Duel invites.</string>
 	<string key="ui_duel_failmessage_cancelled">The duel invite was cancelled.</string>
 	<string key="ui_duel_failmessage_declined">Duel invitation declined.</string>

@@ -29,5 +29,11 @@
 	<string key="1202_Syndicate_dye_talk_Response" speaker="Alchemist Tuit" name="AlchemistTuit" VO="1202_Syndicate_dye_talk_Response" VO_Status="Recorded">What dye? Oh, that Syndicate dye! Why you can use that to turn your boots purple.</string>
 	<string key="1202_Covenant_dye_talk_Prompt" speaker="UI - player prompt">"Why did you give me this dye?"</string>
 	<string key="1202_Covenant_dye_talk_Response" speaker="Adjudicator Owgan" name="AdjudicatorOwgan" VO="1202_Covenant_dye_talk_Response" VO_Status="Recorded">That dye symbolizes the hearts of all in the Covenant.  Use it to color your clothing, so all will know your affiliation.</string>
+	<string key="1225_Giacomo_HousingGeneral_Prompt" speaker="UI - player prompt">"What's so great about owning a house?"</string>
+	<string key="1225_Giacomo_HousingGeneral_Response" speaker="Giacomo Altoviti" name="GiacomoAltoviti" VO="1225_Giacomo_HousingGeneral_Response" VO_Status="Needs Recording">Now, what kind of question is that? What's not great about homeownership?\n\nA place to store your belongings, a reliable place to fast travel and respawn. Why, it's simply madness not to own a home if you have the gold.  </string>
+	<string key="1225_Giacomo_HousingStorage_Prompt" speaker="UI - player prompt">"What did you mean about storage for my home?"</string>
+	<string key="1225_Giacomo_HousingStorage_Response" speaker="Giacomo Altoviti" name="GiacomoAltoviti" VO="1225_Giacomo_HousingStorage_Response" VO_Status="Needs Recording">Storage? You know, places to store your things? \n\nWhen you place that chest I gave you into your home, you'll have even more room to store whatever you need - armors and weapons, furnishings, herbs and spices… whatever you fancy!</string>
+	<string key="1225_Giacomo_HousingTrophy_Prompt" speaker="UI - player prompt">"What is a 'trophy'?"</string>
+	<string key="1225_Giacomo_HousingTrophy_Response" speaker="Giacomo Altoviti" name="GiacomoAltoviti" VO="1225_Giacomo_HousingTrophy_Response" VO_Status="Needs Recording">I can't make them all that well, but with some effort on your part, you should be able to. They provide a link to the island itself, and provide benefits that you can't otherwise obtain.\nEven better, the benefits follow wherever you are!</string>
 </resources>
 

@@ -10,7 +10,7 @@
 	<string key="ui_eow_others_subtitle">Members of the controlling faction and company receive the following bonuses.</string>
 	<string key="ui_eow_others_company_benefits">Governing Company members:</string>
 	<string key="ui_eow_others_faction_benefits">Faction members:</string>
-	<string key="ui_eow_company_fast_travel_title">Discount for Fast travel</string>
+	<string key="ui_eow_company_fast_travel_title">Discount for Fast Travel</string>
 	<string key="ui_eow_company_fast_travel_subtitle">to {territoryName}</string>
 	<string key="ui_eow_company_tax_title">Discount for Taxes</string>
 	<string key="ui_eow_company_tax_subtitle">in {territoryName}</string>
@@ -21,12 +21,12 @@
 	<string key="ui_eow_faction_fast_travel_title">Discount for Fast Travel</string>
 	<string key="ui_eow_faction_fast_travel_subtitle">to {territoryName}</string>
 	<string key="ui_eow_faction_town_containers_title">Resource Containers in Town</string>
-	<string key="ui_eow_faction_town_containers_subtitle">Only for faction members</string>
+	<string key="ui_eow_faction_town_containers_subtitle">Only for Faction Members</string>
 	<string key="ui_eow_faction_transfer_item_title">Remote Storage Access</string>
 	<string key="ui_eow_faction_transfer_item_subtitle">Access {territoryName} storage from any settlement controlled by your Faction</string>
 	<string key="ui_eow_faction_global_luck_title">Global Luck</string>
 	<string key="ui_eow_faction_global_luck_subtitle">in {territoryName}</string>
-	<string key="ui_eow_faction_gathering_title">Gathering bonus</string>
+	<string key="ui_eow_faction_gathering_title">Gathering Bonus</string>
 	<string key="ui_eow_faction_gathering_subtitle">in {territoryName}</string>
 	<string key="ui_eow_howto_run_a_town">How do I run a town?</string>
 	<string key="ui_eow_close">Close</string>
@@ -34,7 +34,7 @@
 	<string key="ui_eow_invalid_faction_id">[InvalidFactionId]</string>
 	<string key="ui_eow_default_territory_name">the territory</string>
 	<string key="ui_run_a_town_popup_title">How to Run a Town</string>
-	<string key="ui_run_a_town_popup_desc">Make sure to pay territory upkeep at the Governor's desk to prevent the town from downgrading.\n\nTo upgrade the town, start a town project at Territory planning board.\n\nComplete town projects with other players.</string>
+	<string key="ui_run_a_town_popup_desc">Make sure to pay territory upkeep at the Governor's Desk to prevent the town from downgrading.\n\nTo upgrade the town, start a town project at Territory planning board.\n\nComplete town projects with other players.</string>
 	<string key="ui_run_a_town_popup_close_button_text">OK</string>
 	<string key="ui_eow_territory_owner_change_win_title">New {factionName} Territory</string>
 	<string key="ui_eow_territory_owner_change_lose_title">Lost Bonuses</string>

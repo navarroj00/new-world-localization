@@ -1278,6 +1278,7 @@
 	<string key="House_Settler_Table02_C_RecipeName">Oak Large Table</string>
 	<string key="House_Settler_Table02_D_RecipeName">Mahogany Large Table</string>
 	<string key="Dye1_RecipeName">Forest Green Dye</string>
+	<string key="Dye2_RecipeName" rel_version="Entitlements_December">Grass Green Dye</string>
 	<string key="Dye3_RecipeName" rel_version="Entitlements_November">Key Lime Dye</string>
 	<string key="Dye4_RecipeName">Royal Blue Dye</string>
 	<string key="Dye5_RecipeName">Baby Blue Dye</string>
@@ -1327,6 +1328,7 @@
 	<string key="Dye52_RecipeName">Dazzling Coral</string>
 	<string key="Dye53_RecipeName">Paradise Vermillion</string>
 	<string key="Dye54_RecipeName">Amaranth</string>
+	<string key="Dye55_RecipeName" rel_version="Entitlements_December">Rouge</string>
 	<string key="Dye56_RecipeName">Viola</string>
 	<string key="Dye57_RecipeName">Rose Stone</string>
 	<string key="Dye58_RecipeName">Tumbleweed</string>
@@ -1359,6 +1361,7 @@
 	<string key="Dye87_RecipeName">Tropical Mist</string>
 	<string key="Dye88_RecipeName" rel_version="Entitlements_November">Key Lime</string>
 	<string key="Dye89_RecipeName">Forest Green</string>
+	<string key="Dye90_RecipeName" rel_version="Entitlements_December">Green Grass</string>
 	<string key="Dye91_RecipeName">Tarnished Jade</string>
 	<string key="Dye92_RecipeName">Pesto</string>
 	<string key="Dye93_RecipeName">Wedgewood</string>
@@ -1367,6 +1370,7 @@
 	<string key="Dye97_RecipeName">Tranquil Willow</string>
 	<string key="Dye98_RecipeName">Deep Sea Green</string>
 	<string key="Dye99_RecipeName">Mineral Green</string>
+	<string key="Dye100_RecipeName" rel_version="Entitlements_December">Angelic Satin</string>
 	<string key="Dye101_RecipeName">Castle Aquamarine</string>
 	<string key="Dye102_RecipeName">Soft Cyan</string>
 	<string key="Dye103_RecipeName">Tradewind</string>
@@ -1378,6 +1382,7 @@
 	<string key="Dye109_RecipeName">Blued Steel</string>
 	<string key="Dye110_RecipeName">Comet</string>
 	<string key="Dye111_RecipeName">Aurora Blue</string>
+	<string key="Dye113_RecipeName" rel_version="Entitlements_December">Fierce Cobalt</string>
 	<string key="Dye114_RecipeName">Elderberry</string>
 	<string key="Dye115_RecipeName">Berry Pit</string>
 	<string key="Dye116_RecipeName">Coarse Amethyst</string>
@@ -1387,6 +1392,7 @@
 	<string key="Dye120_RecipeName">Cool Violet</string>
 	<string key="Dye122_RecipeName">Burnished Lilac</string>
 	<string key="Dye123_RecipeName" rel_version="Entitlements_November">Deep Velvet</string>
+	<string key="Dye124_RecipeName" rel_version="Entitlements_December">Crushed Berry</string>
 	<string key="Dye125_RecipeName">Harsh Violet</string>
 	<string key="Dye126_RecipeName">Putrid Plum</string>
 	<string key="Dye127_RecipeName">Daisy Pink</string>
@@ -1401,5 +1407,90 @@
 	<string key="DyeGray_RecipeName">Gray Dye</string>
 	<string key="DyeOrange_RecipeName">Orange Dye</string>
 	<string key="DyeBrown_RecipeName">Brown Dye</string>
+	<string key="Recipe_Pattern_Soaked_2HAxe" rel_version="Entitlements_December">Soaked Great Axe</string>
+	<string key="Recipe_Pattern_Soaked_2HHammer" rel_version="Entitlements_December">Soaked Great Hammer</string>
+	<string key="Recipe_Pattern_Soaked_Bow" rel_version="Entitlements_December">Soaked Bow</string>
+	<string key="Recipe_Pattern_Soaked_FireStaff" rel_version="Entitlements_December">Soaked Fire Staff</string>
+	<string key="Recipe_Pattern_Soaked_Hatchet" rel_version="Entitlements_December">Soaked Hatchet</string>
+	<string key="Recipe_Pattern_Soaked_IceMagic" rel_version="Entitlements_December">Soaked Ice Magic</string>
+	<string key="Recipe_Pattern_Soaked_LifeStaff" rel_version="Entitlements_December">Soaked Life Staff</string>
+	<string key="Recipe_Pattern_Soaked_Musket" rel_version="Entitlements_December">Soaked Musket</string>
+	<string key="Recipe_Pattern_Soaked_Rapier" rel_version="Entitlements_December">Soaked Rapier</string>
+	<string key="Recipe_Pattern_Soaked_RoundShield" rel_version="Entitlements_December">Soaked Round Shield</string>
+	<string key="Recipe_Pattern_Soaked_Spear" rel_version="Entitlements_December">Soaked Spear</string>
+	<string key="Recipe_Pattern_Soaked_Sword" rel_version="Entitlements_December">Soaked Sword</string>
+	<string key="Recipe_Pattern_Dryads_2HAxe" rel_version="Entitlements_December">Dryad's Great Axe</string>
+	<string key="Recipe_Pattern_Dryads_2HHammer" rel_version="Entitlements_December">Dryad's Great Hammer</string>
+	<string key="Recipe_Pattern_Dryads_Bow" rel_version="Entitlements_December">Dryad's Bow</string>
+	<string key="Recipe_Pattern_Dryads_FireStaff" rel_version="Entitlements_December">Dryad's Fire Staff</string>
+	<string key="Recipe_Pattern_Dryads_Hatchet" rel_version="Entitlements_December">Dryad's Hatchet</string>
+	<string key="Recipe_Pattern_Dryads_IceMagic" rel_version="Entitlements_December">Dryad's Ice Magic</string>
+	<string key="Recipe_Pattern_Dryads_LifeStaff" rel_version="Entitlements_December">Dryad's Life Staff</string>
+	<string key="Recipe_Pattern_Dryads_Musket" rel_version="Entitlements_December">Dryad's Musket</string>
+	<string key="Recipe_Pattern_Dryads_Rapier" rel_version="Entitlements_December">Dryad's Rapier</string>
+	<string key="Recipe_Pattern_Dryads_KiteShield" rel_version="Entitlements_December">Dryad's Kite Shield</string>
+	<string key="Recipe_Pattern_Dryads_RoundShield" rel_version="Entitlements_December">Dryad's Round Shield</string>
+	<string key="Recipe_Pattern_Dryads_TowerShield" rel_version="Entitlements_December">Dryad's Tower Shield</string>
+	<string key="Recipe_Pattern_Dryads_Spear" rel_version="Entitlements_December">Dryad's Spear</string>
+	<string key="Recipe_Pattern_Dryads_Sword" rel_version="Entitlements_December">Dryad's Sword</string>
+	<string key="Recipe_Pattern_Dryads_VoidGauntlet" rel_version="Entitlements_December">Dryad's Void Gauntlet</string>
+	<string key="Recipe_Pattern_Graverobbers_2HAxe" rel_version="Entitlements_December">Graverobber's Great Axe</string>
+	<string key="Recipe_Pattern_Graverobbers_2HHammer" rel_version="Entitlements_December">Graverobber's Great Hammer</string>
+	<string key="Recipe_Pattern_Graverobbers_Bow" rel_version="Entitlements_December">Graverobber's Bow</string>
+	<string key="Recipe_Pattern_Graverobbers_FireStaff" rel_version="Entitlements_December">Graverobber's Fire Staff</string>
+	<string key="Recipe_Pattern_Graverobbers_Hatchet" rel_version="Entitlements_December">Graverobber's Hatchet</string>
+	<string key="Recipe_Pattern_Graverobbers_IceMagic" rel_version="Entitlements_December">Graverobber's Ice Magic</string>
+	<string key="Recipe_Pattern_Graverobbers_LifeStaff" rel_version="Entitlements_December">Graverobber's Life Staff</string>
+	<string key="Recipe_Pattern_Graverobbers_Musket" rel_version="Entitlements_December">Graverobber's Musket</string>
+	<string key="Recipe_Pattern_Graverobbers_Rapier" rel_version="Entitlements_December">Graverobber's Rapier</string>
+	<string key="Recipe_Pattern_Graverobbers_RoundShield" rel_version="Entitlements_December">Graverobber's Round Shield</string>
+	<string key="Recipe_Pattern_Graverobbers_Spear" rel_version="Entitlements_December">Graverobber's Spear</string>
+	<string key="Recipe_Pattern_Graverobbers_Sword" rel_version="Entitlements_December">Graverobber's Sword</string>
+	<string key="Recipe_Pattern_Graverobbers_VoidGauntlet" rel_version="Entitlements_December">Graverobber's Void Gauntlet</string>
+	<string key="Recipe_Pattern_Lieutenants_Boots" rel_version="Entitlements_December">Lieutenant's Boots</string>
+	<string key="Recipe_Pattern_Lieutenants_Breastplate" rel_version="Entitlements_December">Lieutenant's Breastplate</string>
+	<string key="Recipe_Pattern_Lieutenants_Gauntlets" rel_version="Entitlements_December">Lieutenant's Gauntlets</string>
+	<string key="Recipe_Pattern_Lieutenants_Helm" rel_version="Entitlements_December">Lieutenant's Helm</string>
+	<string key="Recipe_Pattern_Lieutenants_Legguards" rel_version="Entitlements_December">Lieutenant's Legguards</string>
+	<string key="Recipe_Pattern_TempleGuards_Breastplate" rel_version="Entitlements_December">Temple Guard's Breastplate</string>
+	<string key="Recipe_Pattern_TempleGuards_Boots" rel_version="Entitlements_December">Temple Guard's Boots</string>
+	<string key="Recipe_Pattern_TempleGuards_Gauntlets" rel_version="Entitlements_December">Temple Guard's Gauntlets</string>
+	<string key="Recipe_Pattern_TempleGuards_Helm" rel_version="Entitlements_December">Temple Guard's Helm</string>
+	<string key="Recipe_Pattern_TempleGuards_Legguards" rel_version="Entitlements_December">Temple Guard's Legguards</string>
+	<string key="Recipe_Pattern_ObeliskPriests_Robe" rel_version="Entitlements_December">Obelisk Priest's Robe</string>
+	<string key="Recipe_Pattern_ObeliskPriests_Shoes" rel_version="Entitlements_December">Obelisk Priest's Shoes</string>
+	<string key="Recipe_Pattern_ObeliskPriests_Gloves" rel_version="Entitlements_December">Obelisk Priest's Gloves</string>
+	<string key="Recipe_Pattern_ObeliskPriests_Hat" rel_version="Entitlements_December">Obelisk Priest's Hat</string>
+	<string key="Recipe_Pattern_ObeliskPriests_Pants" rel_version="Entitlements_December">Obelisk Priest's Pants</string>
+	<string key="Recipe_Pattern_SageHusk_Robe" rel_version="Entitlements_December">Sage Husk Robe</string>
+	<string key="Recipe_Pattern_SageHusk_Shoes" rel_version="Entitlements_December">Sage Husk Shoes</string>
+	<string key="Recipe_Pattern_SageHusk_Gloves" rel_version="Entitlements_December">Sage Husk Gloves</string>
+	<string key="Recipe_Pattern_SageHusk_Hat" rel_version="Entitlements_December">Sage Husk Hat</string>
+	<string key="Recipe_Pattern_SageHusk_Pants" rel_version="Entitlements_December">Sage Husk Pants</string>
+	<string key="Recipe_Pattern_PrimevalHusk_Breastplate" rel_version="Entitlements_December">Primeval Husk Breastplate</string>
+	<string key="Recipe_Pattern_PrimevalHusk_Boots" rel_version="Entitlements_December">Primeval Husk Boots</string>
+	<string key="Recipe_Pattern_PrimevalHusk_Gauntlets" rel_version="Entitlements_December">Primeval Husk Gauntlets</string>
+	<string key="Recipe_Pattern_PrimevalHusk_Helm" rel_version="Entitlements_December">Primeval Husk Helm</string>
+	<string key="Recipe_Pattern_PrimevalHusk_Legguards" rel_version="Entitlements_December">Primeval Husk Legguards</string>
+	<string key="Recipe_Pattern_PrimalHusk_Coat" rel_version="Entitlements_December">Primal Husk Coat</string>
+	<string key="Recipe_Pattern_PrimalHusk_Boots" rel_version="Entitlements_December">Primal Husk Boots</string>
+	<string key="Recipe_Pattern_PrimalHusk_Gloves" rel_version="Entitlements_December">Primal Husk Gloves</string>
+	<string key="Recipe_Pattern_PrimalHusk_Hat" rel_version="Entitlements_December">Primal Husk Hat</string>
+	<string key="Recipe_Pattern_PrimalHusk_Leggings" rel_version="Entitlements_December">Primal Husk Leggings</string>
+	<string key="Recipe_Pattern_Formal_Boots" rel_version="Entitlements_December">Formal Boots</string>
+	<string key="Recipe_Pattern_Frilled_Pants" rel_version="Entitlements_December">Frilled Pants</string>
+	<string key="Recipe_Pattern_Bowed_Gloves" rel_version="Entitlements_December">Bowed Gloves</string>
+	<string key="Recipe_Pattern_Corset_Dress" rel_version="Entitlements_December">Corset Dress</string>
+	<string key="Recipe_Pattern_Court_Fascinator" rel_version="Entitlements_December">Court Fascinator</string>
+	<string key="Recipe_Pattern_Ta-Setis_Coat" rel_version="Entitlements_December">Ta-Seti's Coat</string>
+	<string key="Recipe_Pattern_Ta-Setis_Boots" rel_version="Entitlements_December">Ta-Seti's Boots</string>
+	<string key="Recipe_Pattern_Ta-Setis_Gloves" rel_version="Entitlements_December">Ta-Seti's Gloves</string>
+	<string key="Recipe_Pattern_Ta-Setis_Hat" rel_version="Entitlements_December">Ta-Seti's Hat</string>
+	<string key="Recipe_Pattern_Ta-Setis_Leggings" rel_version="Entitlements_December">Ta-Seti's Leggings</string>
+	<string key="Recipe_Pattern_Swashbuckler_Robe" rel_version="Entitlements_December">Swashbuckler Robe</string>
+	<string key="Recipe_Pattern_Swashbuckler_Shoes" rel_version="Entitlements_December">Swashbuckler Shoes</string>
+	<string key="Recipe_Pattern_Swashbuckler_Gloves" rel_version="Entitlements_December">Swashbuckler Gloves</string>
+	<string key="Recipe_Pattern_Swashbuckler_Hat" rel_version="Entitlements_December">Swashbuckler Hat</string>
+	<string key="Recipe_Pattern_Swashbuckler_Pants" rel_version="Entitlements_December">Swashbuckler Pants</string>
 </resources>
 

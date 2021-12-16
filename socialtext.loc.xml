@@ -115,6 +115,8 @@
 	<string key="ui_friend_invites">Friend Invites</string>
 	<string key="ui_guild_invites">Company Invites</string>
 	<string key="ui_event_invites">Event Invites</string>
+	<string key="ui_leave_group">Leave Group</string>
+	<string key="ui_voice_chat">Voice Chat</string>
 	<string key="ui_blocked">Blocked</string>
 	<string key="ui_blocked_player">Successfully blocked player</string>
 	<string key="ui_unblocked_player">Successfully unblocked player</string>
@@ -228,6 +230,8 @@
 	<string key="ui_reportreason_select">Select a reason...</string>
 	<string key="ui_reportreason_offensive_guild_name">Company Name</string>
 	<string key="ui_reportreason_offensive_guild_description">Inappropriate or offensive company name.</string>
+	<string key="ui_reportreason_offensive_guild_description_no_guild">This player does not belong to a Company.</string>
+	<string key="ui_reportreason_offensive_guild_description_error">Company not found.</string>
 	<string key="ui_report_thanks">Thank you for submitting a report</string>
 	<string key="ui_missing_reason_and_description">Please provide a reason and description</string>
 	<string key="ui_missing_reason">Please select a reason</string>
@@ -246,12 +250,14 @@
 	<string key="ui_twitch_logoutfailed_popup_message">There was a problem signing out of your Twitch account.</string>
 	<string key="ui_twitch_validation_failed_title">Twitch Login Failed</string>
 	<string key="ui_twitch_validation_failed_message">Failed to validate your Twitch account, Twitch features will not work. Please try logging in again.</string>
-	<string key="ui_spotlight_viewers">&lt;img src="LyShineUI/Images/Icons/Twitch/iconViewers" scale="2.5" yOffset="4.5"&gt;&lt;/img&gt;{viewers}</string>
-	<string key="ui_spotlight_notconnected">Spotlight Failed</string>
-	<string key="ui_spotlight_connecting">Starting Spotlight</string>
+	<string key="ui_spotlight_viewer">1 viewer</string>
+	<string key="ui_spotlight_viewers">{viewers} viewers</string>
+	<string key="ui_spotlight_failed">&lt;font color="#835acd"&gt;Spotlight :&lt;/font&gt; &lt;font color="#f25d5d"&gt; Failed&lt;/font&gt;</string>
+	<string key="ui_spotlight_notconnected">&lt;font color="#835acd"&gt;Spotlight :&lt;/font&gt; &lt;font color="#f25d5d"&gt; Not Connected&lt;/font&gt;</string>
+	<string key="ui_spotlight_connecting">&lt;font color="#835acd"&gt;Spotlight :&lt;/font&gt; &lt;font color="#ffffff"&gt; Starting&lt;/font&gt;</string>
 	<string key="ui_spotlight_failed_notification_title">Connection Failed</string>
 	<string key="ui_spotlight_failed_notification_message">Unable to start Twitch Streamer Spotlight. Make sure your stream is live and try again.</string>
-	<string key="ui_spotlight_error">Spotlight Error</string>
+	<string key="ui_spotlight_error">&lt;font color="#835acd"&gt;Spotlight :&lt;/font&gt; &lt;font color="#f25d5d"&gt; Error&lt;/font&gt;</string>
 	<string key="ui_subarmy_title">Twitch Subscriber Army</string>
 	<string key="ui_subarmy_join_desc">Join other streamers' subscriber army session.</string>
 	<string key="ui_subarmy_subtitle_sessions">{number} sessions available</string>
@@ -282,6 +288,7 @@
 	<string key="ui_subarmy_join_requests">JOIN REQUESTS</string>
 	<string key="ui_subarmy_time_remaining">TIME REMAINING</string>
 	<string key="ui_subarmy_continue_to_selection">Continue to Selection</string>
+	<string key="ui_subarmy_invite_header">Select Players to Invite</string>
 	<string key="ui_subarmy_invite_to_group_enabled">&lt;img src="LyShineUI/Images/icons/twitch/twitch_iconAddGroup" scale="1.5" yOffset="5.5"&gt;&lt;/img&gt; Invite to Group</string>
 	<string key="ui_subarmy_invite_to_company_enabled">&lt;img src="LyShineUI/Images/icons/twitch/twitch_iconAddGuild" scale="1.5" yOffset="6.5"&gt;&lt;/img&gt; Invite to Company</string>
 	<string key="ui_subarmy_invite_to_group">&lt;img src="LyShineUI/Images/socialpane/social_iconAddGroup" scale="1.5" yOffset="5.5"&gt;&lt;/img&gt; Invite to Group</string>
@@ -297,6 +304,9 @@
 	<string key="ui_subarmy_joined_company">Joined your Company</string>
 	<string key="ui_subarmy_joined_group">Joined your Group</string>
 	<string key="ui_subarmy_joined_company_and_group">Joined your Company and Group</string>
+	<string key="ui_subarmy_button_disabled_no_selection">There is no player currently selected.</string>
+	<string key="ui_subarmy_button_disabled_different_faction_group">The selected player must be a member of your faction in order to join your PvP group.</string>
+	<string key="ui_subarmy_button_disabled_different_faction_guild">The selected player must be a member of your faction in order to join your company.</string>
 	<string key="ui_waypoint_set_to_ping">Waypoint set to ping</string>
 	<string key="ui_chat_name_raid">Army</string>
 	<string key="ui_chat_name_raid_upper">ARMY</string>

@@ -1,5 +1,5 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="faction_shop_name">{faction} Armory.</string>
+	<string key="faction_shop_name">{faction} Armory</string>
 	<string key="owg_abandonpopup_body">Are you sure you want to abandon your current mission?</string>
 	<string key="owg_action_abandon">ABANDON MISSION</string>
 	<string key="owg_action_complete">COMPLETE MISSION</string>
@@ -118,7 +118,7 @@
 	<string key="owg_procurer_guildname">Marauders</string>
 	<string key="owg_mission_item">Mission Item</string>
 	<string key="owg_missionlist_title">Available Missions</string>
-	<string key="owg_missions_header">{guildName} Missions.</string>
+	<string key="owg_missions_header">{guildName} Missions</string>
 	<string key="owg_multiple_items_purchased">{itemName}x{amount} Purchased!</string>
 	<string key="owg_rank">Rank</string>
 	<string key="owg_rank_bounty_1" xsi:nil="true"/>
@@ -364,11 +364,11 @@
 	<string key="FactionMission_EXPEDITIONLOOT_title">Plunder: {POITags}</string>
 	<string key="FactionMission_EXPEDITIONLOOT_desc">Delve into {POITags} for the Marauders and collect each &lt;font color="#eaeaea"&gt;{itemName}&lt;/font&gt; within. \n\n&lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_INTERCEPT_title">Dominate (PvP)</string>
-	<string key="FactionMission_INTERCEPT_desc">Defeat &lt;font color="#eaeaea"&gt;Syndicate&lt;/font&gt; or &lt;font color="#eaeaea"&gt;Covenant&lt;/font&gt; members for the glory of the Marauders.</string>
+	<string key="FactionMission_INTERCEPT_desc">Defeat &lt;font color="#eaeaea"&gt;Syndicate&lt;/font&gt; or &lt;font color="#eaeaea"&gt;Covenant&lt;/font&gt; members for the glory of the Marauders.\n\n (This mission keeps your progress even on death)</string>
 	<string key="FactionMission_S_INTERCEPT_title">Eradicate (PvP)</string>
-	<string key="FactionMission_S_INTERCEPT_desc">Defeat &lt;font color="#eaeaea"&gt;Marauder&lt;/font&gt; or &lt;font color="#eaeaea"&gt;Covenant&lt;/font&gt; members to demonstrate our superiority.</string>
+	<string key="FactionMission_S_INTERCEPT_desc">Defeat &lt;font color="#eaeaea"&gt;Marauder&lt;/font&gt; or &lt;font color="#eaeaea"&gt;Covenant&lt;/font&gt; members to demonstrate our superiority.\n\n (This mission keeps your progress even on death)</string>
 	<string key="FactionMission_C_INTERCEPT_title">Vanquish (PvP)</string>
-	<string key="FactionMission_C_INTERCEPT_desc">Defeat &lt;font color="#eaeaea"&gt;Syndicate&lt;/font&gt; or &lt;font color="#eaeaea"&gt;Marauder&lt;/font&gt; members to purify their souls.</string>
+	<string key="FactionMission_C_INTERCEPT_desc">Defeat &lt;font color="#eaeaea"&gt;Syndicate&lt;/font&gt; or &lt;font color="#eaeaea"&gt;Marauder&lt;/font&gt; members to purify their souls.\n\n (This mission keeps your progress even on death)</string>
 	<string key="FactionMission_S_EXPEDITIONRAID_title">Purge: {POITags}</string>
 	<string key="FactionMission_S_EXPEDITIONRAID_desc">Delve into {POITags} for the Syndicate and defeat every &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; necessary. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_S_EXPEDITIONLOOT_title">Procure: {POITags}</string>
@@ -441,27 +441,27 @@
 	<string key="FactionMission_S_WARCAMP_SPECIAL_desc">Infiltrate the stronghold at &lt;font color="#eaeaea"&gt;{POITags}&lt;/font&gt; and search for valuable intelligence.</string>
 	<string key="FactionMission_C_WARCAMP_SPECIAL_desc">Infiltrate the stronghold at &lt;font color="#eaeaea"&gt;{POITags}&lt;/font&gt; and search for valuable intelligence.</string>
 	<string key="FactionMission_WEAPON_SWORD_title">Weapon Trial: Sword and Shield</string>
-	<string key="FactionMission_WEAPON_SWORD_desc">Marauders must master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Sword&lt;/font&gt; by striking down &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its keen blade.</string>
+	<string key="FactionMission_WEAPON_SWORD_desc">Marauders master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Sword&lt;/font&gt; by striking down &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its keen blade.</string>
 	<string key="FactionMission_WEAPON_RAPIER_title">Weapon Trial: Rapier</string>
-	<string key="FactionMission_WEAPON_RAPIER_desc">Marauders must master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Rapier&lt;/font&gt; by perferating &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its dazzling speed.</string>
+	<string key="FactionMission_WEAPON_RAPIER_desc">Marauders master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Rapier&lt;/font&gt; by perferating &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its dazzling speed.</string>
 	<string key="FactionMission_WEAPON_HATCHET_title">Weapon Trial: Hatchet</string>
-	<string key="FactionMission_WEAPON_HATCHET_desc">Marauders must master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Hatchet&lt;/font&gt; by hacking down &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its ferocious rage.</string>
+	<string key="FactionMission_WEAPON_HATCHET_desc">Marauders master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Hatchet&lt;/font&gt; by hacking down &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its ferocious rage.</string>
 	<string key="FactionMission_WEAPON_GREATAXE_title">Weapon Trial: Great Axe</string>
-	<string key="FactionMission_WEAPON_GREATAXE_desc">Marauders must master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Great Axe&lt;/font&gt; by cleaving &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its fearsome blade.</string>
+	<string key="FactionMission_WEAPON_GREATAXE_desc">Marauders master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Great Axe&lt;/font&gt; by cleaving &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its fearsome blade.</string>
 	<string key="FactionMission_WEAPON_WARHAMMER_title">Weapon Trial: War Hammer</string>
-	<string key="FactionMission_WEAPON_WARHAMMER_desc">Marauders must master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;War Hammer&lt;/font&gt; by mauling &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its crushing power.</string>
+	<string key="FactionMission_WEAPON_WARHAMMER_desc">Marauders master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;War Hammer&lt;/font&gt; by mauling &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its crushing power.</string>
 	<string key="FactionMission_WEAPON_SPEAR_title">Weapon Trial: Spear</string>
-	<string key="FactionMission_WEAPON_SPEAR_desc">Marauders must master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Spear&lt;/font&gt; by skewering &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its peerless reach.</string>
+	<string key="FactionMission_WEAPON_SPEAR_desc">Marauders master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Spear&lt;/font&gt; by skewering &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its peerless reach.</string>
 	<string key="FactionMission_WEAPON_BOW_title">Weapon Trial: Bow</string>
-	<string key="FactionMission_WEAPON_BOW_desc">Marauders must master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Bow&lt;/font&gt; by piearcing &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its deadly arrows.</string>
+	<string key="FactionMission_WEAPON_BOW_desc">Marauders master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Bow&lt;/font&gt; by piearcing &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its deadly arrows.</string>
 	<string key="FactionMission_WEAPON_MUSKET_title">Weapon Trial: Musket</string>
-	<string key="FactionMission_WEAPON_MUSKET_desc">Marauders must master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Musket&lt;/font&gt; by gunning down &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its explosive blasts.</string>
+	<string key="FactionMission_WEAPON_MUSKET_desc">Marauders master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Musket&lt;/font&gt; by gunning down &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its explosive blasts.</string>
 	<string key="FactionMission_WEAPON_FIRESTAFF_title">Weapon Trial: Fire Staff</string>
-	<string key="FactionMission_WEAPON_FIRESTAFF_desc">Marauders must master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Fire Staff&lt;/font&gt; by immolating &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its redhot flame.</string>
+	<string key="FactionMission_WEAPON_FIRESTAFF_desc">Marauders master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Fire Staff&lt;/font&gt; by immolating &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its redhot flame.</string>
 	<string key="FactionMission_WEAPON_LIFESTAFF_title">Weapon Trial: Life Staff</string>
-	<string key="FactionMission_WEAPON_LIFESTAFF_desc">Marauders must master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Life Staff&lt;/font&gt; by smiting &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its mortal power.</string>
+	<string key="FactionMission_WEAPON_LIFESTAFF_desc">Marauders master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Life Staff&lt;/font&gt; by smiting &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its mortal power.</string>
 	<string key="FactionMission_WEAPON_ICEGAUNTLET_title">Weapon Trial: Ice Gauntlet</string>
-	<string key="FactionMission_WEAPON_ICEGAUNTLET_desc">Marauders must master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Ice Gauntlet&lt;/font&gt; by freezing &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its frigid touch.</string>
+	<string key="FactionMission_WEAPON_ICEGAUNTLET_desc">Marauders master all tools of war.\n\nProve your skill with the &lt;font color="#eaeaea"&gt;Ice Gauntlet&lt;/font&gt; by freezing &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its frigid touch.</string>
 	<string key="FactionMission_S_WEAPON_SWORD_desc">Syndicate strives to measure the effectiveness of all weaponry.\n\nField test the &lt;font color="#eaeaea"&gt;Sword&lt;/font&gt; by striking down &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its keen blade.</string>
 	<string key="FactionMission_S_WEAPON_RAPIER_desc">Syndicate strives to measure the effectiveness of all weaponry.\n\nField test the &lt;font color="#eaeaea"&gt;Rapier&lt;/font&gt; by perferating &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its dazzling speed.</string>
 	<string key="FactionMission_S_WEAPON_HATCHET_desc">Syndicate strives to measure the effectiveness of all weaponry.\n\nField test the &lt;font color="#eaeaea"&gt;Hatchet&lt;/font&gt; by hacking down &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its ferocious rage.</string>
@@ -487,5 +487,20 @@
 	<string key="FactionMission_ASSASSINATE_ELITE_NIGHT_desc">The Marauders need &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; removed from the theater.\n\nProve your valor by tracking them down in {POITags} and destroying them.\n&lt;font color="#eaeaea"&gt;(Elite - Enemy is nocturnal)&lt;/font&gt;</string>
 	<string key="FactionMission_S_ASSASSINATE_ELITE_NIGHT_desc">The Syndicate has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be a target for elimination.\n\nTrack them down in {POITags} and destroy them.\n&lt;font color="#eaeaea"&gt;(Elite - Enemy is nocturnal)&lt;/font&gt;</string>
 	<string key="FactionMission_C_ASSASSINATE_ELITE_NIGHT_desc">The Covenant has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be eliminated.\n\nProve your devotion by tracking them down in {POITags} and destroying them.\n &lt;font color="#eaeaea"&gt;(Elite - Enemy is nocturnal)&lt;/font&gt;</string>
+	<string key="CMissionAcquireStoneworker" rel_version="Event_WinterConvergence_Temp">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Stoneworking Station.</string>
+	<string key="CMissionAcquireWoodWorker" rel_version="Event_WinterConvergence_Temp">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Woodworking Station.</string>
+	<string key="CMissionAcquireOutfitter" rel_version="Event_WinterConvergence_Temp">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from an Outfitting Station.</string>
+	<string key="CMissionAcquireEngineer" rel_version="Event_WinterConvergence_Temp">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Workshop.</string>
+	<string key="CMissionAcquireBlock_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Stonemasons Needed</string>
+	<string key="CMissionAcquireTimber_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Carpenters Needed</string>
+	<string key="CMissionAcquireCloth_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Weavers Needed</string>
+	<string key="CMissionAcquireMetal_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Metalworkers Needed</string>
+	<string key="CMissionAcquireFibers_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Harvesters Needed</string>
+	<string key="CMissionAcquireFood_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Cooks Needed</string>
+	<string key="CMissionAcquirePotions_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Alchemists Needed</string>
+	<string key="CMissionAcquireGeneric_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Supplies Needed</string>
+	<string key="CMissionAcquireWood_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Lumberjacks Needed</string>
+	<string key="CMissionAcquireRawhide_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Hunters Needed</string>
+	<string key="CMissionAcquireLeather_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Tanners Needed</string>
 </resources>
 

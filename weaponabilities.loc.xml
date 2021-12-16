@@ -130,7 +130,7 @@
 	<string key="Passive_Bow_Hunter_HeavyDmgVsFull" comment="BOW + PASSIVE">Opening Strike</string>
 	<string key="Passive_Bow_Hunter_HeavyDmgVsFull_description" comment="BOW + PASSIVE">Heavy attacks deal {[BowAbilityTable.Passive_Bow_Hunter_DmgOnFirst.BaseDamage * 100]}% increased damage to foes with 100% health.</string>
 	<string key="Passive_Bow_Hunter_DmgOnFirst" comment="BOW + PASSIVE">Surprise Attack</string>
-	<string key="Passive_Bow_Hunter_DmgOnFirst_description" comment="BOW + PASSIVE">Deal {[BowAbilityTable.Passive_Bow_Hunter_DmgOnFirst.BaseDamage * 100]}% extra damage if you haven't damaged a foe in the last {[Type_StatusEffectData.Status_Passive_Bow_Hunter_DmgOnFirst_Tracker.BaseDuration]}s.</string>
+	<string key="Passive_Bow_Hunter_DmgOnFirst_description" comment="BOW + PASSIVE">Deal {[BowAbilityTable.Passive_Bow_Hunter_DmgOnFirst.BaseDamage * 100]}% extra damage to any foe as long as you have not damaged them in the last {[Type_StatusEffectData.Status_Passive_Bow_Hunter_DmgOnFirst_Tracker.BaseDuration]}s.</string>
 	<string key="Passive_Bow_Hunter_Accuracy" comment="BOW + PASSIVE">Arrow Range</string>
 	<string key="Passive_Bow_Hunter_Accuracy_description" comment="BOW + PASSIVE">Increases the distance that arrows travel before being affected by gravity by 100%.</string>
 	<string key="Passive_Bow_Hunter_HealOnFive" comment="BOW + PASSIVE">Hawkeye</string>
@@ -146,7 +146,7 @@
 	<string key="Upgrade_Greataxe_Charge_SwingAttack" comment="GREATAXE + MOD">Unpredictable Strike</string>
 	<string key="Upgrade_Greataxe_Charge_SwingAttack_description" comment="GREATAXE + MOD">During Charge you may press RMB to execute a swing attack, dealing {[DamageTable.GreatAxe_Engage_Swing1.DmgCoef * 100]} - {[DamageTable.GreatAxe_Engage_Swing3.DmgCoef * 100]}% weapon damage based on how far you traveled.</string>
 	<string key="Ability_Greataxe_Reap" comment="GREATAXE + ACTIVE">Reap</string>
-	<string key="Ability_Greataxe_Reap_description" comment="GREATAXE + ACTIVE">Extend your axe 5m, pulling foes to you and dealing {[DamageTable.GreatAxe_JudgementsReach.DmgCoef * 100]}% weapon damage. \n\nTaunt Gem Compatible: If you have a Carnelian gem equiped in your great axe, this ability inflicts taunt for {[DamageTable.GreatAxe_JudgementsReach.TauntDuration]}s when it hits. (Taunt causes monsters to focus only on you.)</string>
+	<string key="Ability_Greataxe_Reap_description" comment="GREATAXE + ACTIVE">Extend your axe 5m, pulling foes to you and dealing {[DamageTable.GreatAxe_JudgementsReach.DmgCoef * 100]}% weapon damage. \n\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your great axe, this ability inflicts taunt for {[DamageTable.GreatAxe_JudgementsReach.TauntDuration]}s when it hits. (Taunt causes monsters to focus only on you.)</string>
 	<string key="Upgrade_Greataxe_Reap_RngInc" comment="GREATAXE + MOD">The Collector</string>
 	<string key="Upgrade_Greataxe_Reap_RngInc_description" comment="GREATAXE + MOD">Reap range is now 8m.</string>
 	<string key="Upgrade_Greataxe_Reap_Lifesteal" comment="GREATAXE + MOD">Hunger</string>
@@ -176,7 +176,7 @@
 	<string key="Passive_Greataxe_Reaper_HealVsLowHP" comment="GREATAXE + PASSIVE">Feed</string>
 	<string key="Passive_Greataxe_Reaper_HealVsLowHP_description" comment="GREATAXE + PASSIVE">Great axe attacks against foes below {[GreatAxeAbilityTable.Passive_Greataxe_Reaper_HealVsLowHP.TargetHealthPercent]}% health heal you for {[GreatAxeAbilityTable.Passive_Greataxe_Reaper_HealVsLowHP.DmgPctToHealth * 100]}% of damage done.</string>
 	<string key="Ultimate_Greataxe_Reaper" comment="GREATAXE + PASSIVE">Blood Lust</string>
-	<string key="Ultimate_Greataxe_Reaper_description" comment="GREATAXE + PASSIVE">You move {[Type_StatusEffectData.Status_Ultimate_Greataxe_Reaper.MoveSpeedMod * 100]}% faster and deal {[Type_StatusEffectData.Status_Ultimate_Greataxe_Reaper.DMGStandard * 100]}% more damage when looking at a foe within {[SpellDataTable_GreatAxe.Spell_Ultimate_Greataxe_Reaper.Radius]}m.</string>
+	<string key="Ultimate_Greataxe_Reaper_description" comment="GREATAXE + PASSIVE">You move {[Type_StatusEffectData.Status_Ultimate_Greataxe_Reaper.MoveSpeedMod * 100]}% faster and deal {[Type_StatusEffectData.Status_Ultimate_Greataxe_Reaper.DMGStandard * 100]}% more damage when looking at a foe within {[SpellDataTable_GreatAxe.Spell_Ultimate_Greataxe_Reaper.Length * 2]}m.</string>
 	<string key="Ability_Greataxe_Whirlwind" comment="GREATAXE + ACTIVE">Whirlwind</string>
 	<string key="Ability_Greataxe_Whirlwind_description" comment="GREATAXE + ACTIVE">Spin and attack all nearby foes, dealing {[DamageTable.GreatAxe_Whirlwind.DmgCoef * 100]}% weapon damage. If you hit a foe, spin again. (Max 4 spins.) You can move while spinning. This attack cannot backstab. This attack has Grit. \n\n(Grit prevents you from being staggered by incoming attacks.)</string>
 	<string key="Upgrade_Greataxe_Whirlwind_MoreSpins" comment="GREATAXE + MOD">Gusting Winds</string>
@@ -234,7 +234,7 @@
 	<string key="Upgrade_Lifestaff_SplashofLight_ManaOnLow" comment="LIFESTAFF + MOD">Shared Recovery</string>
 	<string key="Upgrade_Lifestaff_SplashofLight_ManaOnLow_description" comment="LIFESTAFF + MOD">For each ally healed that is below 50% health, you gain {[LifeMagicAbilityTable.Upgrade_Lifestaff_SplashofLight_ManaOnLow.Mana * 100]}% of your max mana.</string>
 	<string key="Upgrade_Lifestaff_SplashofLight_RemoveDebuff" comment="LIFESTAFF + MOD">Purify</string>
-	<string key="Upgrade_Lifestaff_SplashofLight_RemoveDebuff_description" comment="LIFESTAFF + MOD">Splash of Light also removes 1 debuff.</string>
+	<string key="Upgrade_Lifestaff_SplashofLight_RemoveDebuff_description" comment="LIFESTAFF + MOD">Splash of Light removes 1 debuff when it heals an ally.</string>
 	<string key="Passive_Lifestaff_Healing_NoManaOnBasic" comment="LIFESTAFF + PASSIVE">Absolved</string>
 	<string key="Passive_Lifestaff_Healing_NoManaOnBasic_description" comment="LIFESTAFF + PASSIVE">Life staff's light and heavy attacks no longer consume mana.</string>
 	<string key="Passive_Lifestaff_Healing_RemoveOnHeavy" comment="LIFESTAFF + PASSIVE">Mending Touch</string>
@@ -324,7 +324,7 @@
 	<string key="Passive_Firestaff_FireMage_Crit" comment="FIRESTAFF + PASSIVE">Spellslinger</string>
 	<string key="Passive_Firestaff_FireMage_Crit_description" comment="FIRESTAFF + PASSIVE">Your fire staff abilities gain an extra {[FireMagicAbilityTable.Passive_Firestaff_FireMage_Crit.CritChance * 100]}% chance to critical strike.</string>
 	<string key="Passive_Firestaff_FireMage_DmgNoDmg" comment="FIRESTAFF + PASSIVE">Clear Casting</string>
-	<string key="Passive_Firestaff_FireMage_DmgNoDmg_description" comment="FIRESTAFF + PASSIVE">If you haven't taken damage in the last {[Type_StatusEffectData.Status_Passive_Firestaff_FireMage_DmgNoDmg_Timer.BaseDuration]}s, deal {[Type_StatusEffectData.Status_Passive_Firestaff_FireMage_DmgNoDmg.DMGStandard * 100]}% more damage.</string>
+	<string key="Passive_Firestaff_FireMage_DmgNoDmg_description" comment="FIRESTAFF + PASSIVE">After not taking damage from an attack in the last {[Type_StatusEffectData.Status_Passive_Firestaff_FireMage_DmgNoDmg_Timer.BaseDuration]}s, deal {[Type_StatusEffectData.Status_Passive_Firestaff_FireMage_DmgNoDmg.DMGStandard * 100]}% more damage.</string>
 	<string key="Passive_Firestaff_FireMage_CritDmg" comment="FIRESTAFF + PASSIVE">Prophet of a Fire God</string>
 	<string key="Passive_Firestaff_FireMage_CritDmg_description" comment="FIRESTAFF + PASSIVE">While holding a fire staff, your critical strike damage is increased by {[FireMagicAbilityTable.Passive_Firestaff_FireMage_CritDmg.CritDamage * 100]}%.</string>
 	<string key="Passive_Firestaff_FireMage_Ultimate" comment="FIRESTAFF + PASSIVE">Runes of Helios</string>
@@ -609,7 +609,7 @@
 	<string key="PowderBurn_Mod1" comment="MUSKET + MOD">Backdraft</string>
 	<string key="PowderBurn_Mod1_description" comment="MUSKET + MOD">Standard musket shots deal {[MusketAbilityTable.Upgrade_Musket_Burn_DmgWhileOnFire.BaseDamage * 100]}% additional damage if they hit a burning target.</string>
 	<string key="PowderBurn_Mod2" comment="MUSKET + MOD">Chronic Trauma</string>
-	<string key="PowderBurn_Mod2_description" comment="MUSKET + MOD">If Powder Burn is a headshot, the burn duration is extended to {[Type_StatusEffectData.Musket_PowderBurn_BurnExtend.BaseDuration]}s.</string>
+	<string key="PowderBurn_Mod2_description" comment="MUSKET + MOD">If Powder Burn is a headshot, the burn duration is extended by {[MusketAbilityTable.Upgrade_Musket_Burn_ExtendBurnOnHeadshot.TargetStatusEffectDurationMod]}s.</string>
 	<string key="ShootersStance" comment="MUSKET + ACTIVE">Shooter's Stance</string>
 	<string key="ShootersStance_description" comment="MUSKET + ACTIVE">Player enters a crouching aim stance to enhance shooting performance. While in this stance, shots deal {[DamageTable.MusketAttack_ShootersStance.DmgCoef * 100]}% weapon damage, mobility is reduced to zero and reload time is reduced by 75%. Shooter's Stance ends after 3 shots.</string>
 	<string key="ShootersStance_Mod1" comment="MUSKET + MOD">Shoot More</string>
@@ -695,7 +695,7 @@
 	<string key="WreckingBall_Mod1" comment="WARHAMMER + MOD">Safety Measures</string>
 	<string key="WreckingBall_Mod1_description" comment="WARHAMMER + MOD">On a successful hit, gain fortify, granting {[Type_StatusEffectData.WarHammer_WreckingBall_Fortify.ABSStandard * 100]}% damage resistance for {[Type_StatusEffectData.WarHammer_WreckingBall_Fortify.BaseDuration]}s.</string>
 	<string key="WreckingBall_Mod2" comment="WARHAMMER + MOD">Breathing Room</string>
-	<string key="WreckingBall_Mod2_description" comment="WARHAMMER + MOD">All targets within 1.5m of target hit are also flattened.</string>
+	<string key="WreckingBall_Mod2_description" comment="WARHAMMER + MOD">All targets within 1.5m of the impact point are also flattened.</string>
 	<string key="JuggernautTree0Passive1" comment="WARHAMMER  +  PASSIVE">Epitome Of Bonk!</string>
 	<string key="JuggernautTree0Passive1_description" comment="WARHAMMER  +  PASSIVE">Increase armor penetration by {[WarHammerAbilityTable.Passive_WarHammer_Juggernaut_LightHeavyPenetrate.ArmorPenetration * 100]}% for all war hammer light and heavy attacks.</string>
 	<string key="JuggernautTree0Passive2" comment="WARHAMMER  +  PASSIVE">Hammer Time</string>
@@ -825,7 +825,7 @@
 	<string key="Spear_BonusDmgVsDebuff" comment="SPEAR + PASSIVE">Exploited Weakness</string>
 	<string key="Spear_BonusDmgVsDebuff_description" comment="SPEAR + PASSIVE">Deal {[SpearAbilityTable.Ability_Spear_BonusDmgVsDebuff.BaseDamage * 100]}% bonus damage for each debuff on your target. (Max 30%.)</string>
 	<string key="Rapier_01" comment="RAPIER + ACTIVE">Tondo</string>
-	<string key="Rapier_01_description" comment="RAPIER + ACTIVE">Slash so quickly that it extends the reach of your blade up to 5m. This strike deals {[DamageTable.1H_Rapier_Slash.DmgCoef * 100]}% weapon damage and applies a bleed that will deal and additional 85% weapon damage over {[Type_StatusEffectData.Rapier_Bleed_DOT.BaseDuration]}s. This bleed can stack up to 3 times, refreshing previous applications.</string>
+	<string key="Rapier_01_description" comment="RAPIER + ACTIVE">Slash so quickly that it extends the reach of your blade up to 5m. This strike deals {[DamageTable.1H_Rapier_Slash.DmgCoef * 100]}% weapon damage and applies a bleed that will deal an additional 85% weapon damage over {[Type_StatusEffectData.Rapier_Bleed_DOT.BaseDuration]}s. This bleed can stack up to 3 times, refreshing previous applications.</string>
 	<string key="Rapier_01_Mod1" comment="RAPIER + MOD">Thirst For Blood</string>
 	<string key="Rapier_01_Mod1_description" comment="RAPIER + MOD">When applying the first bleed stack to an opponent, Tondo's cooldown is reduced by {[RapierAbilityTable.Rapier_Slash_Mod1.cooldownTimer * -100]}%.</string>
 	<string key="Rapier_01_Mod2" comment="RAPIER + MOD">And Again</string>
@@ -901,79 +901,79 @@
 	<string key="Rapier_BonusDMGAfterAbility" comment="RAPIER + PASSIVE">Momentum</string>
 	<string key="Rapier_BonusDMGAfterAbility_description" comment="RAPIER + PASSIVE">Deal {[RapierAbilityTable.Rapier_BonusDMGAfterAbility.BaseDamage * 100]}% increased damage on your next light or heavy attack after performing an ability. Ends on hit or after {[Type_StatusEffectData.Rapier_BonusDMGAfterAbility.BaseDuration]}s.</string>
 	<string key="IceSpikes" comment="ICEMAGIC + ACTIVE">Ice Spikes</string>
-	<string key="IceSpikes_description" comment="ICEMAGIC + ACTIVE">Creates a trail of spikes that start from the player and go out in a straight line for 8m dealing {[DamageTable.IceMagic_Spikes.DmgCoef * 100]}% weapon damage. The final spike is a Mighty Spike that will deal {[DamageTable.IceMagic_Spikes_End.DmgCoef * 100]}% weapon damage and apply pushback.  Pressing light attack before the path fully forms will spawn the Mighty Spike early.\n\nCost 15 Mana.</string>
+	<string key="IceSpikes_description" comment="ICEMAGIC + ACTIVE">Creates a trail of spikes that start from the player and go out in a straight line for 8m dealing {[DamageTable.IceMagic_Spikes.DmgCoef * 100]}% weapon damage. The final spike is a Mighty Spike that will deal {[DamageTable.IceMagic_Spikes_End.DmgCoef * 100]}% weapon damage and apply pushback.  Pressing light attack before the path fully forms will spawn the Mighty Spike early.\n\nCost {[ManaCosts_Player.60.ManaCost]} Mana.</string>
 	<string key="RefreshingSpikes" comment="ICEMAGIC + MOD">Refreshing Spikes</string>
-	<string key="RefreshingSpikes_description" comment="ICEMAGIC + MOD">Cooldown for this ability reduced by 10% if an enemy is hit by the Mighty Spike.</string>
+	<string key="RefreshingSpikes_description" comment="ICEMAGIC + MOD">Cooldown for this ability reduced by {[IceMagicAbilityTable.SpikesRefreshingSpikes.CooldownTimer * -100]}% if an enemy is hit by the Mighty Spike.</string>
 	<string key="EmpoweredSpikes" comment="ICEMAGIC + MOD">Empowered Spikes</string>
-	<string key="EmpoweredSpikes_description" comment="ICEMAGIC + MOD">Mighty Spike damage increased by 20% when hitting an enemy below 30% health.</string>
+	<string key="EmpoweredSpikes_description" comment="ICEMAGIC + MOD">Mighty Spike damage increased by {[IceMagicAbilityTable.SpikesEmpoweredSpikes.BaseDamage * 100]}% when hitting an enemy below {[IceMagicAbilityTable.SpikesEmpoweredSpikes.TargetHealthPercent]}% health.</string>
 	<string key="DeadlyPath" comment="ICEMAGIC + MOD">Deadly Path</string>
 	<string key="DeadlyPath_description" comment="ICEMAGIC + MOD">Increases damage by 10% and adds stagger to the path of spikes.  Does not increase Mighty Spike damage.</string>
 	<string key="SpikyReach" comment="ICEMAGIC + MOD">Spiky Reach</string>
 	<string key="SpikyReach_description" comment="ICEMAGIC + MOD">Ice shards fire from the sides of the Mighty Spike to hit a wider area.  Each shard has a 6m range and deals {[DamageTable.IceMagic_Spike_Reach.DmgCoef * 100]}% weapon damage.</string>
 	<string key="IceStorm" comment="ICEMAGIC + ACTIVE">Ice Storm</string>
-	<string key="IceStorm_description" comment="ICEMAGIC + ACTIVE">Create a 5m radius storm at the target area that deals {[DamageTable.IceMagic_IceStorm.DmgCoef * 100]}% weapon damage every 0.33s for 5s. The storm also creates a frosted area that slows enemies in it by 25%. (Slow reduces target's movement speed.)\n\nCost 25 Mana.</string>
+	<string key="IceStorm_description" comment="ICEMAGIC + ACTIVE">Create a 5m radius storm at the target area that deals {[DamageTable.IceMagic_IceStorm.DmgCoef * 100]}% weapon damage every {[Type_StatusEffectData.IceMagic_IceStorm.TickRate]}s for 5s. The storm also creates a frosted area that slows enemies in it by {[Type_StatusEffectData.IceMagic_IceStorm.MoveSpeedMod * -100]}%. (Slow reduces target's movement speed.)\n\nCost {[ManaCosts_Player.61.ManaCost]} Mana.</string>
 	<string key="WeakeningGust" comment="ICEMAGIC + MOD">Weakening Gust</string>
-	<string key="WeakeningGust_description" comment="ICEMAGIC + MOD">Incoming damage is increased by 10% for 3s to enemies in Ice Storm while they are below 50% health.</string>
+	<string key="WeakeningGust_description" comment="ICEMAGIC + MOD">Incoming damage is increased by {[Type_StatusEffectData.IceMagic_IceStorm_Weaken.WKNStandard * 100]}% for {[Type_StatusEffectData.IceMagic_IceStorm_Weaken.BaseDuration]}s to enemies in Ice Storm while they are below {[IceMagicAbilityTable.IceStormWeakeningGust.TargetHealthPercent]}% health.</string>
 	<string key="StormSummoner" comment="ICEMAGIC + MOD">Storm Summoner</string>
 	<string key="StormSummoner_description" comment="ICEMAGIC + MOD">Ice Storm mana cost is decreased by 80% while at full mana.</string>
 	<string key="PunishingStorm" comment="ICEMAGIC + MOD">Punishing Storm</string>
-	<string key="PunishingStorm_description" comment="ICEMAGIC + MOD">Increases damage by 10% for each enemy in Ice Storm.</string>
+	<string key="PunishingStorm_description" comment="ICEMAGIC + MOD">Increases damage by {[IceMagicAbilityTable.IceStormPunishingStorm.BaseDamage * 100]}% for each enemy in Ice Storm.</string>
 	<string key="WindChill" comment="ICEMAGIC + ACTIVE">Wind Chill</string>
-	<string key="WindChill_description" comment="ICEMAGIC + ACTIVE">Blasts a column of freezing winds forward that pushes back enemies 5m and deals {[DamageTable.IceMagic_WindChill.DmgCoef * 100]}% weapon damage each hit. Wind Chill has a total range of 7m with the farthest 2m increasing damage 20% without pushing enemies.\nPlayer is able to move during the attack.\n\nCost 20 Mana.</string>
+	<string key="WindChill_description" comment="ICEMAGIC + ACTIVE">Blasts a column of freezing winds forward that pushes back enemies 5m and deals {[DamageTable.IceMagic_WindChill.DmgCoef * 100]}% weapon damage each hit. Wind Chill has a total range of 7m with the farthest 2m increasing damage 20% without pushing enemies.\nPlayer is able to move during the attack.\n\nCost {[ManaCosts_Player.63.ManaCost]} Mana.</string>
 	<string key="EnduringChill" comment="ICEMAGIC + MOD">Enduring Chill</string>
 	<string key="EnduringChill_description" comment="ICEMAGIC + MOD">Increase duration of Wind Chill by 1s.</string>
 	<string key="Shatter" comment="ICEMAGIC + MOD">Chilling Blast</string>
-	<string key="Shatter_description" comment="ICEMAGIC + MOD">Increase the damage of the last 2m of the Wind Chill range by 25%.</string>
+	<string key="Shatter_description" comment="ICEMAGIC + MOD">Increase the damage of the last 2m of the Wind Chill range by {[IceMagicAbilityTable.WindChillShatter.BaseDamage * 100]}%.</string>
 	<string key="IceTempestPass1" comment="ICEMAGIC + PASSIVE">Cold Reach</string>
-	<string key="IceTempestPass1_description" comment="ICEMAGIC + PASSIVE">Increase damage of light and heavy attacks by 15% for targets farther than 15m.</string>
+	<string key="IceTempestPass1_description" comment="ICEMAGIC + PASSIVE">Increase damage of light and heavy attacks by {[IceMagicAbilityTable.IceTempestPass1.BaseDamage * 100]}% for targets farther than {[IceMagicAbilityTable.IceTempestPass1.DistFromDefender]}m.</string>
 	<string key="IceTempestPass2" comment="ICEMAGIC + PASSIVE">Critical Rejuvenation</string>
-	<string key="IceTempestPass2_description" comment="ICEMAGIC + PASSIVE">Gain 15 mana whenever you critically hit a target.</string>
+	<string key="IceTempestPass2_description" comment="ICEMAGIC + PASSIVE">Gain {[IceMagicAbilityTable.IceTempestPass2.Mana * 100]} mana whenever you critically hit a target.</string>
 	<string key="IceTempestPass3" comment="ICEMAGIC + PASSIVE">Energized Critical</string>
 	<string key="IceTempestPass3_description" comment="ICEMAGIC + PASSIVE">Increase critical damage of ice gauntlet abilities by {[IceMagicAbilityTable.IceTempestPass3.CritDamage * 100]}% while stamina is full.</string>
 	<string key="IceTempestPass4" comment="ICEMAGIC + PASSIVE">Gathering Storm</string>
-	<string key="IceTempestPass4_description" comment="ICEMAGIC + PASSIVE">Gain 15 mana whenever you hit with 3 consecutive light attacks.</string>
+	<string key="IceTempestPass4_description" comment="ICEMAGIC + PASSIVE">Gain {[IceMagicAbilityTable.IceTempestPass4.Mana * 100]} mana whenever you hit with {[IceMagicAbilityTable.IceTempestPass4.NumConsecutiveHits]} consecutive light attacks.</string>
 	<string key="IceTempestPass5" comment="ICEMAGIC + PASSIVE">Critical Frost</string>
 	<string key="IceTempestPass5_description" comment="ICEMAGIC + PASSIVE">Increase critical chance by {[IceMagicAbilityTable.IceTempestPass5.CritChance * 100]}% when hitting an enemy in a frosted area or when hitting an enemy with frostbite.</string>
 	<string key="IceTempestPass6" comment="ICEMAGIC + PASSIVE">Heavy Freeze</string>
-	<string key="IceTempestPass6_description" comment="ICEMAGIC + PASSIVE">Heavy attacks will root a target if they standing in Ice Storm or have frostbite. Root lasts for 1 second and has a 5 second cooldown.</string>
+	<string key="IceTempestPass6_description" comment="ICEMAGIC + PASSIVE">Heavy attacks will root a target if they standing in Ice Storm or have frostbite. Root lasts for {[Type_StatusEffectData.IceMagic_Freeze.BaseDuration]}s and has a {[Type_StatusEffectData.IceMagic_Freeze_Cooldown.BaseDuration]}s cooldown after root expires.</string>
 	<string key="IceTempestUltimate" comment="ICEMAGIC + PASSIVE">Ultimate Chill</string>
-	<string key="IceTempestUltimate_description" comment="ICEMAGIC + PASSIVE">Ice gauntlet abilities chill targets, increasing ice damage dealt to the target by {[Type_StatusEffectData.IceMagic_UltimateChill.WKNIce * 100]}% for 3s.</string>
+	<string key="IceTempestUltimate_description" comment="ICEMAGIC + PASSIVE">Ice gauntlet abilities chill targets, increasing ice damage dealt to the target by {[Type_StatusEffectData.IceMagic_UltimateChill.WKNIce * 100]}% for {[Type_StatusEffectData.IceMagic_UltimateChill.BaseDuration]}s.</string>
 	<string key="IcePylon" comment="ICEMAGIC + ACTIVE">Ice Pylon</string>
-	<string key="IcePylon_description" comment="ICEMAGIC + ACTIVE">Place a pylon that fires ice projectiles at enemies within 20m. Projectiles deal {[DamageTable.IceMagic_Pylon.DmgCoef * 100]}% weapon damage if they hit. Ice Pylon creates a 1m radius frosted area around itself and lasts for 15s unless it is destroyed.\n\nCost 15 Mana.</string>
+	<string key="IcePylon_description" comment="ICEMAGIC + ACTIVE">Place a pylon that fires ice projectiles at enemies within 20m. Projectiles deal {[DamageTable.IceMagic_Pylon.DmgCoef * 100]}% weapon damage if they hit. Ice Pylon creates a 1m radius frosted area around itself and lasts for 15s unless it is destroyed.\n\nCost {[ManaCosts_Player.67.ManaCost]} Mana.</string>
 	<string key="GreaterPylon" comment="ICEMAGIC + MOD">Greater Pylon</string>
-	<string key="GreaterPylon_description" comment="ICEMAGIC + MOD">Increases damage of Ice Pylon by 10% against slowed targets.</string>
+	<string key="GreaterPylon_description" comment="ICEMAGIC + MOD">Increases damage of Ice Pylon by {[IceMagicAbilityTable.IcePylonGreaterPylon.BaseDamage * 100]}% against slowed targets.</string>
 	<string key="PylonRegen" comment="ICEMAGIC + MOD">Pylon Regen</string>
-	<string key="PylonRegen_description" comment="ICEMAGIC + MOD">Ice Pylon regenerates to full health 5s after last damage taken.</string>
+	<string key="PylonRegen_description" comment="ICEMAGIC + MOD">Ice Pylon regenerates to full health {[Type_StatusEffectData.IceMagic_PylonRefresh.BaseDuration]}s after last damage taken.</string>
 	<string key="PylonDodge" comment="ICEMAGIC + MOD">Pylon Dodge</string>
-	<string key="PylonDodge_description" comment="ICEMAGIC + MOD">Dodging with full stamina increases Ice Pylon rate of fire for 3s.</string>
+	<string key="PylonDodge_description" comment="ICEMAGIC + MOD">Dodging increases Ice Pylon rate of fire for 3s.</string>
 	<string key="PylonRefresh" comment="ICEMAGIC + PASSIVE">Pylon Refresh</string>
-	<string key="PylonRefresh_description" comment="ICEMAGIC + PASSIVE">A successful hit from the Ice Pylon extends its lifetime by 1s. (Maximum 45s.)</string>
+	<string key="PylonRefresh_description" comment="ICEMAGIC + PASSIVE">A successful hit from the Ice Pylon extends its lifetime by 1s. (Maximum {[Type_StatusEffectData.IceMagic_PylonCooldownSafety.BaseDuration]}s.)</string>
 	<string key="IceShower" comment="ICEMAGIC + ACTIVE">Ice Shower</string>
-	<string key="IceShower_description" comment="ICEMAGIC + ACTIVE">Summon a shower of ice that creates a frosted area approximately 1m by 5m that lasts for 4s.  Enemies that enter the Ice Shower will be stricken with a powerful frostbite.  Frostbite roots for 1s, blocks sprinting and dodging, slows movement speed by 50%, and will remain on target for 3s after exiting the Ice Shower.\n\nCost 25 Mana.</string>
+	<string key="IceShower_description" comment="ICEMAGIC + ACTIVE">Summon a shower of ice that creates a frosted area approximately 1m by 5m that lasts for 4s.  Enemies that enter the Ice Shower will be stricken with a powerful frostbite.  Frostbite roots for {[Type_StatusEffectData.IceMagic_IceShower_Freeze.BaseDuration]}s, blocks sprinting and dodging, slows movement speed by {[Type_StatusEffectData.IceMagic_Frostbite.MoveSpeedMod * -100]}%, and will remain on target for {[Type_StatusEffectData.IceMagic_Frostbite_Dur3.BaseDuration]}s after exiting the Ice Shower.\n\nCost {[ManaCosts_Player.66.ManaCost]} Mana.</string>
 	<string key="EnduringShower" comment="ICEMAGIC + MOD">Enduring Shower</string>
 	<string key="EnduringShower_description" comment="ICEMAGIC + MOD">Increase Ice Shower duration to 7s.</string>
 	<string key="QuickShower" comment="ICEMAGIC + MOD">Quick Shower</string>
-	<string key="QuickShower_description" comment="ICEMAGIC + MOD">Any ally, including self, will get a 25% movement speed boost for 2s when entering Ice Shower.</string>
+	<string key="QuickShower_description" comment="ICEMAGIC + MOD">Any ally, including self, will get a {[Type_StatusEffectData.IceMagic_QuickShower_Dur2.MoveSpeedMod * 100]}% movement speed boost for {[Type_StatusEffectData.IceMagic_QuickShower_Dur2.BaseDuration]}s when entering Ice Shower.</string>
 	<string key="ShowerSlush" comment="ICEMAGIC + MOD">Frigid Showers</string>
-	<string key="ShowerSlush_description" comment="ICEMAGIC + MOD">Frostbite applies rend to target, reducing their defense by 10%.</string>
+	<string key="ShowerSlush_description" comment="ICEMAGIC + MOD">Frostbite applies rend to target, reducing their defense by {[Type_StatusEffectData.IceMagic_Frostbite_Rend.ABSStandard * -100]}%.</string>
 	<string key="Entombed" comment="ICEMAGIC + ACTIVE">Entombed</string>
-	<string key="Entombed_description" comment="ICEMAGIC + ACTIVE">Entomb yourself in ice to become invulnerable and greatly increase mana regeneration.  The tomb lasts for 10s but can be destroyed early.  Press block to exit the tomb normally or press light attack to exit while causing a damaging knockback at the cost of 20 mana.\n\nCost 0 Mana.</string>
+	<string key="Entombed_description" comment="ICEMAGIC + ACTIVE">Entomb yourself in ice to become invulnerable and greatly increase mana regeneration.  The tomb lasts for 10s but can be destroyed early.  Press block to exit the tomb normally or press light attack to exit while causing a damaging knockback at the cost of {[ManaCosts_Player.65.ManaCost]} mana.\n\nCost {[ManaCosts_Player.64.ManaCost]} Mana.</string>
 	<string key="StrengthenedTomb" comment="ICEMAGIC + MOD">Strengthened Tomb</string>
-	<string key="StrengthenedTomb_description" comment="ICEMAGIC + MOD">Increase defense by 25% for 3s after breaking out of Entombed.</string>
+	<string key="StrengthenedTomb_description" comment="ICEMAGIC + MOD">Increase defense by {[Type_StatusEffectData.IceMagic_StrengthenedTomb.ABSStandard * 100]}% for {[Type_StatusEffectData.IceMagic_StrengthenedTomb.BaseDuration]}s after breaking out of Entombed.</string>
 	<string key="CleansingTomb" comment="ICEMAGIC + MOD">Cleansing Tomb</string>
 	<string key="CleansingTomb_description" comment="ICEMAGIC + MOD">Cleanse all debuffs when Entombed activates.</string>
 	<string key="IceConjurorPass1" comment="ICEMAGIC + PASSIVE">Blocking Stamina</string>
-	<string key="IceConjurorPass1_description" comment="ICEMAGIC + PASSIVE">Blocking an attack with the ice gauntlet will convert mana to stamina.  Converts 3 mana to 15 stamina.</string>
+	<string key="IceConjurorPass1_description" comment="ICEMAGIC + PASSIVE">Blocking an attack with the ice gauntlet will convert mana to stamina.  Converts {[Type_StatusEffectData.IceMagic_BlockingStamina.Mana * -1]} mana to {[Type_StatusEffectData.IceMagic_BlockingStamina.Stamina]} stamina.</string>
 	<string key="IceConjurorPass2" comment="ICEMAGIC + PASSIVE">Quick Frost</string>
-	<string key="IceConjurorPass2_description" comment="ICEMAGIC + PASSIVE">Increase movement speed by 10% in a frosted area.</string>
+	<string key="IceConjurorPass2_description" comment="ICEMAGIC + PASSIVE">Increase movement speed by {[Type_StatusEffectData.IceMagic_QuickFrost.MoveSpeedMod * 100]}% in a frosted area.</string>
 	<string key="IceConjurorPass3" comment="ICEMAGIC + PASSIVE">Empowered Frost</string>
-	<string key="IceConjurorPass3_description" comment="ICEMAGIC + PASSIVE">Gain 3 mana for each spell cast while in a frosted area.</string>
+	<string key="IceConjurorPass3_description" comment="ICEMAGIC + PASSIVE">Gain {[Type_StatusEffectData.IceMagic_EmpoweredFrost.Mana]} mana for each spell cast while in a frosted area.</string>
 	<string key="IceConjurorPass4" comment="ICEMAGIC + PASSIVE">Frozen Touch</string>
-	<string key="IceConjurorPass4_description" comment="ICEMAGIC + PASSIVE">Slow enemies by 25% for 2s when they hit you with a melee attack while you have 100% health. (Slow reduces target's movement speed.)</string>
+	<string key="IceConjurorPass4_description" comment="ICEMAGIC + PASSIVE">Slow enemies by {[Type_StatusEffectData.IceMagic_FrozenTouch.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.IceMagic_FrozenTouch.BaseDuration]}s when they hit you with a melee attack while you have {[IceMagicAbilityTable.IceConjurorPass4.MyHealthPercent]}% health. (Slow reduces target's movement speed.)</string>
 	<string key="IceConjurorPass5" comment="ICEMAGIC + PASSIVE">Refreshing Frost</string>
-	<string key="IceConjurorPass5_description" comment="ICEMAGIC + PASSIVE">Reduce the cooldown of all ice gauntlet abilities by 20% when casting an ability in a frosted area.</string>
+	<string key="IceConjurorPass5_description" comment="ICEMAGIC + PASSIVE">Reduce the cooldown of all ice gauntlet abilities by {[IceMagicAbilityTable.IceConjurorPass5.CooldownTimer * -100]}% when casting an ability in a frosted area.</string>
 	<string key="IceConjurorPass6" comment="ICEMAGIC + PASSIVE">Defiant Freeze</string>
-	<string key="IceConjurorPass6_description" comment="ICEMAGIC + PASSIVE">Casting an ice gauntlet ability creates an ice hardened layer, granting 20% fortify for 2s. (Fortify reduces incoming damage.)</string>
+	<string key="IceConjurorPass6_description" comment="ICEMAGIC + PASSIVE">Casting an ice gauntlet ability creates an ice hardened layer, granting {[Type_StatusEffectData.IceMagic_DefiantFreeze.ABSStandard * 100]}% fortify for {[Type_StatusEffectData.IceMagic_DefiantFreeze.BaseDuration]}s. (Fortify reduces incoming damage.)</string>
 	<string key="IceConjurorUltimate" comment="ICEMAGIC + PASSIVE">Ultimate Frost</string>
 	<string key="IceConjurorUltimate_description" comment="ICEMAGIC + PASSIVE">Doubles Ice Pylon's health and extends Ice Pylon's frosted area radius to 5m.  Standing in this frosted area doubles Quick Frost and Empowered Frost bonuses.</string>
 </resources>

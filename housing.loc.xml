@@ -47,7 +47,7 @@
 	<string key="ui_house_hint_tips">Tips</string>
 	<string key="ui_house_hud_hint">You are invisible to other players</string>
 	<string key="ui_house_max_home_owned_on_territory">Max Homes Owned On Territory</string>
-	<string key="ui_house_menu">Manage Your House.</string>
+	<string key="ui_house_menu">Manage Your House</string>
 	<string key="ui_house_preview">Preview this house</string>
 	<string key="ui_house_price">House Price</string>
 	<string key="ui_house_property_tax_desc">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
@@ -92,6 +92,9 @@
 	<string key="ui_housing_hide_ui">Hide UI</string>
 	<string key="ui_housing_item_count">Decorations Placed</string>
 	<string key="ui_housing_item_score">Decoration Score</string>
+	<string key="ui_housing_item_total">Total Decorations</string>
+	<string key="ui_housing_item_storage">Storage Containers</string>
+	<string key="ui_housing_item_animated">Animated Decor</string>
 	<string key="ui_housing_next_due_in">Next Due In</string>
 	<string key="ui_housing_surface_lock_hint">Lock To Surface</string>
 	<string key="ui_housing_owned_filter">Show owned items only</string>
@@ -99,7 +102,7 @@
 	<string key="ui_housing_no_items_found">No items found</string>
 	<string key="ui_housing_object">Housing Object</string>
 	<string key="ui_housing_point_tooltip">The 20 homes with the highest housing points are updated in this list every 2 days.\n\nThe housing points are calculated based on the player's gained Territory Standing and the furniture placed on the property.</string>
-	<string key="ui_housing_purchase_house">Purchase This House.</string>
+	<string key="ui_housing_purchase_house">Purchase This House</string>
 	<string key="ui_housing_rotate_camera_hint">&lt;img src="lyshineui/images/icons/misc/Icon_RightMouseButton" xPadding="0" scale="2.2" yOffset="8"&gt;&lt;/img&gt; Rotate Camera</string>
 	<string key="ui_housing_rotate_object_hint">Rotate Object</string>
 	<string key="ui_housing_select_house">Select a house to view</string>
@@ -232,5 +235,13 @@
 	<string key="ui_house_lost_restored_title">House restored</string>
 	<string key="ui_house_lost_refunded_message">We identified your house was lost due to an issue with the game. Your house in {settlement} has been refunded and the furnishings returned to your storage.</string>
 	<string key="ui_house_lost_refunded_title">House refunded</string>
+	<string key="ui_housing_tip_title1">Placement Controls</string>
+	<string key="ui_housing_tip_description1">While in &lt;font color={colorHex}&gt;Decoration Mode&lt;/font&gt;, use &lt;font color={colorHex}&gt;rotate, grid snap&lt;/font&gt;, and ‘&lt;font color={colorHex}&gt;lock to surface&lt;/font&gt;’ features to decorate your house exactly how you want.</string>
+	<string key="ui_housing_tip_title2">Placement Affects Points Earned</string>
+	<string key="ui_housing_tip_description2">Placing items that don’t clip through other items is the optimal way to increase your &lt;font color={colorHex}&gt;Decoration Score&lt;/font&gt; fore each item placed.</string>
+	<string key="ui_housing_tip_title3">Trophy Buffs</string>
+	<string key="ui_housing_tip_description3">Mount &lt;font color={colorHex}&gt;Trophies&lt;/font&gt; to activate &lt;font color={colorHex}&gt;passive bonuses&lt;/font&gt;.\n\nTip: Only 5 Trophies can be placed per house, but the effects from duplicate trophies can stack.</string>
+	<string key="ui_housing_tip_title4">Total Items and Scoring</string>
+	<string key="ui_housing_tip_description4">The panel on the right of your screen gives you your house &lt;font color={colorHex}&gt;Decoration Score&lt;/font&gt; and &lt;font color={colorHex}&gt;Decoration Limits&lt;/font&gt;.\n\nTip: Placing too many of the same item will result in a deduction in Decoration Score.</string>
 </resources>
 

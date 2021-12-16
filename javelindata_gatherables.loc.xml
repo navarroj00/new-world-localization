@@ -393,6 +393,9 @@
 	<string key="1124_VistaPoint2_DisplayName">Vista Point</string>
 	<string key="1124_VistaPoint3_DisplayName">Vista Point</string>
 	<string key="1124_VistaPoint4_DisplayName">Vista Point</string>
+	<string key="1132_GrampasGun_DisplayName">Grampa's Forge</string>
+	<string key="1132_Digby_DisplayName">Knock!</string>
+	<string key="1132_Shootout_DisplayName">Coy's Retreat</string>
 	<string key="Truffle_DisplayName">Delicious Truffle</string>
 	<string key="0402_GruelBarrel">Gruel Barrel</string>
 	<string key="SurvivalistQuest_AlphaLure_interact">Faintly Scented Earth</string>
@@ -420,6 +423,9 @@
 	<string key="0825_CookingSupplies_DisplayName">Collect Supplies</string>
 	<string key="0826_TigerCage_DisplayName">Unlock Cage</string>
 	<string key="0828_Heirlooms_DisplayName">Collect Heirloom</string>
+	<string key="0831_DryadsEyePlant_DisplayName">Collect Dryad's Tears</string>
+	<string key="0831_BruteCannonSchematic_DisplayName">Brute Cannon Schematic</string>
+	<string key="0831_DiscardedArmorPile_DisplayName">Search Armor Pile</string>
 	<string key="06_SpectralShrine">Spectral Shrine</string>
 	<string key="FishingHotspotBroad_DisplayName">Hotspot (Broad)</string>
 	<string key="FishingHotspotRare_DisplayName">Hotspot (Rare)</string>
@@ -610,6 +616,7 @@
 	<string key="1650_0101_Idol_DisplayName">Search Collapsed Idol</string>
 	<string key="1602_0101_Note_DisplayName">Retrieve Archaeology Note</string>
 	<string key="1602_0101_Tablet_DisplayName">Retrieve Ancient Tablet</string>
+	<string key="1602_0401_StatuePanacea_DisplayName">Apply Panacea</string>
 	<string key="LootContainer_Dungeon_Small_DisplayName">Expedition Cache</string>
 	<string key="LootContainer_Dungeon_Medium_DisplayName">Expedition Coffer</string>
 	<string key="LootContainer_Dungeon_Large_DisplayName">Expedition Chest</string>
@@ -623,7 +630,7 @@
 	<string key="TownCart_Iron_DisplayName">Iron Supply Cart</string>
 	<string key="TownCart_Lumber_DisplayName">Lumber Supply Cart</string>
 	<string key="TownCart_Fiber_DisplayName">Fiber Supply Cart</string>
-	<string key="TownCart_Hide_DisplayName">Hide Supply Cart</string>
+	<string key="TownCart_Hide_DisplayName">Rawhide Supply Cart</string>
 	<string key="TownCart_Food_DisplayName">Food Supply Cart</string>
 	<string key="TownCart_Oil_DisplayName">Oil Supply Cart</string>
 	<string key="Town_Cow_DisplayName">Domesticated Cow</string>
@@ -669,11 +676,21 @@
 	<string key="0202_0101_Inquisitor_DisplayName">Inquisitor's Toolchest</string>
 	<string key="DungeonShatterMtn_LockCellar_DisplayName">Insert Cellar Key</string>
 	<string key="DungeonShatterMtn_MemoryFragment_DisplayName">Memory Fragment</string>
+	<string key="WinterConv_SettlementTree_T1_DisplayName" rel_version="Event_WinterConvergence_Temp">Forlorn Gift Pile</string>
+	<string key="WinterConv_SettlementTree_T2_DisplayName" rel_version="Event_WinterConvergence_Temp">Magnificent Gift Pile</string>
+	<string key="WinterConv_SettlementTree_T3_DisplayName" rel_version="Event_WinterConvergence_Temp">Exquisite Gift Pile</string>
+	<string key="WinterConv_Gleamite_Chunk_DisplayName" rel_version="Event_WinterConvergence_Temp">Gleamite Chunk</string>
+	<string key="WinterConv_Gleamite_Shard_DisplayName" rel_version="Event_WinterConvergence_Temp">Gleamite</string>
+	<string key="WinterConv_Village_GiftBag_DisplayName" rel_version="Event_WinterConvergence_Temp">Bountiful Gift Sack</string>
+	<string key="LostPresent00_DisplayName" rel_version="Event_WinterConvergence_Temp">Lost Present</string>
+	<string key="LostPresent01_DisplayName" rel_version="Event_WinterConvergence_Temp">Lost Present</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">War Camp Chest</string>
 	<string key="1130_ArcaneFocus1_DisplayName">Arcane Focus</string>
 	<string key="1130_ArcaneFocus2_DisplayName">Arcane Focus</string>
 	<string key="1130_ArcaneFocus3_DisplayName">Arcane Focus</string>
 	<string key="1130_ArcaneFocus4_DisplayName">Arcane Focus</string>
-	<string key="1130_CursedAxe_interact">A Spectral Axe</string>
+	<string key="0726_BookOfIsabella_DisplayName">Book of Isabella</string>
+	<string key="1130_CursedAxe_DisplayName">Begin the Ritual</string>
+	<string key="Dynasty_Gong_DisplayName">Dynasty Gong</string>
 </resources>
 

@@ -54,6 +54,10 @@
 	<string key="cr_add_quickslot">Added to &lt;font color="#c0c0c0"&gt;Quick Slot&lt;/font&gt;</string>
 	<string key="cr_add_equipment">Added to &lt;font color="#c0c0c0"&gt;Equipment&lt;/font&gt;</string>
 	<string key="cr_cantcraft">Can't craft</string>
+	<string key="cr_alreadycrafted" rel_version="Feature_Camp_Skins">Already crafted</string>
+	<string key="cr_unlockrecipe_info" rel_version="Feature_Camp_Skins">This is a one-time, craftable skin bound to your character. Once crafted, the skin will be avilable in the camp skins menu.</string>
+	<string key="cr_campskin_title" rel_version="Feature_Camp_Skins">How To Use:</string>
+	<string key="cr_campskin_desc" rel_version="Feature_Camp_Skins">Click on your camp in Inventory to change skin.\nYou must have camping unlocked in order to use this skin.</string>
 	<string key="cr_tier1">Tier &lt;img src="lyshineui/images/crafting/crafting_tier_1" scale="0.6" yOffset="2"&gt;&lt;/img&gt;</string>
 	<string key="cr_tier2">Tier &lt;img src="lyshineui/images/crafting/crafting_tier_2" scale="0.6" yOffset="2"&gt;&lt;/img&gt;</string>
 	<string key="cr_tier3">Tier &lt;img src="lyshineui/images/crafting/crafting_tier_3" scale="0.6" yOffset="2"&gt;&lt;/img&gt;</string>
@@ -173,7 +177,7 @@
 	<string key="crafting_azothbonus_perk3">Perk 3</string>
 	<string key="crafting_azothbonus_perk4">Perk 4</string>
 	<string key="crafting_azothbonus_gemslot">Gem Slot</string>
-	<string key="crafting_guaranteed_perk">&lt;img src="lyshineui/images/{perkImage}.dds" xPadding="2" scale="2" yOffset="8"&gt;&lt;/img&gt; {perkName}</string>
+	<string key="crafting_guaranteed_perk">&lt;img src="{perkImage}" xPadding="2" scale="2" yOffset="8"&gt;&lt;/img&gt; {perkName}</string>
 	<string key="crafting_lowchance">&lt;font color="#f25d5d"&gt;Low&lt;/font&gt; Chance</string>
 	<string key="crafting_medchance">&lt;font color="#f67817"&gt;Medium&lt;/font&gt; Chance</string>
 	<string key="crafting_highchance">&lt;font color="#17aa7b"&gt;High&lt;/font&gt; Chance</string>
@@ -204,7 +208,7 @@
 	<string key="ui_craftprogress">Crafting {amount} of {maximum}</string>
 	<string key="ui_crafting_summary_header">Crafting Results</string>
 	<string key="ui_crafted_from">Crafted From {item}</string>
-	<string key="ui_stationName">{station}.</string>
+	<string key="ui_stationName">{station}</string>
 	<string key="crafting_sort_name">Sort by Name</string>
 	<string key="crafting_sort_tier">Sort by Tier</string>
 	<string key="crafting_sort_level">Sort by Level</string>
@@ -218,5 +222,6 @@
 	<string key="crafting_filter_placeholder">Filter By Name...</string>
 	<string key="crafting_category_select_title">SELECT {type}</string>
 	<string key="crafting_discount_base">Base Fee</string>
+	<string key="ui_crafting_resource_origin_message">Note: Resources used are first taken from your inventory, then your settlement storage.</string>
 </resources>
 

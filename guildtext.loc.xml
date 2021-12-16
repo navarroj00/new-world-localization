@@ -559,7 +559,7 @@
 	<string key="ui_war_invite_name">War/Invasion</string>
 	<string key="ui_invasion_invite_name">Invasion</string>
 	<string key="ui_invasion">Invasion</string>
-	<string key="ui_armory">Armory.</string>
+	<string key="ui_armory">Armory</string>
 	<string key="ui_war_time_dec_remaining">Time remaining to Declare War: {time}</string>
 	<string key="ui_in_conflict">In Conflict</string>
 	<string key="ui_war_refund_tooltip">The coins spent to declare war will be refunded if your Company is not selected.</string>
@@ -590,10 +590,10 @@
 	<string key="ui_war_tutorial_title_3">Respawning.</string>
 	<string key="ui_war_tutorial_title_4">Battle Tokens.</string>
 	<string key="ui_war_tutorial_title_1_invasion">Waves.</string>
-	<string key="ui_war_tutorial_desc_1">Attackers must take all 3 control points before the gates can be damaged. Once they are taken they are Respawn points and access to Armory.</string>
+	<string key="ui_war_tutorial_desc_1">Attackers must take all 3 control points before the gates can be damaged. Once they are taken, they become Respawn points and access to Armory.</string>
 	<string key="ui_war_tutorial_desc_2">Once all 3 control points are taken, attackers can try to knock down gates and &lt;font color="#ffffff"&gt;take the control point in the fort.&lt;/font&gt; If attackers succeed they will win the war, if attackers fail to claim it, defenders will win the war.</string>
 	<string key="ui_war_tutorial_desc_3">As the war goes on, there will be longer and longer Respawn waves. When soldiers are killed, they will Respawn in the next Respawn wave.</string>
-	<string key="ui_war_tutorial_desc_4">Players earn battle tokens by damaging their enemies. With Battle tokens, players can purchase various items from Armory.</string>
+	<string key="ui_war_tutorial_desc_4">Players earn Battle Tokens by damaging their enemies. With Battle Tokens, players can purchase various items from Armory.</string>
 	<string key="ui_war_tutorial_desc_1_invasion">The corrupted enemies will attack the fort in waves, with each successive wave becoming stronger.</string>
 	<string key="ui_war_tutorial_desc_2_invasion">The corrupted army will try to knock down the gates and take a control point within the fort. If players successfully defend the claim point from invasion, they will win.</string>
 	<string key="ui_how_war_works">War Tutorial</string>

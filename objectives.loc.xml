@@ -84,12 +84,16 @@
 	<string key="objective_journey" speaker="UI">Side Stories</string>
 	<string key="objective_journey_desc" speaker="UI">Additional quests</string>
 	<string key="objective_journey_empty" speaker="UI">No Journey Obtained</string>
+	<string key="objective_skillprogression" speaker="UI">Skill Progression</string>
+	<string key="objective_skillprogression_desc" speaker="UI">Skill progression objectives</string>
+	<string key="objective_epicequipment" speaker="UI">Epic Weapons and Armor</string>
+	<string key="objective_epicequipment_desc" speaker="UI">Epic weapons and armor objectives</string>
 	<string key="objective_kill" speaker="UI">Kill {enemy}</string>
 	<string key="objective_kill_p" speaker="UI">Kill {amountCount} {enemy}s</string>
 	<string key="objective_location" speaker="UI">Location</string>
 	<string key="objective_location_desc" speaker="UI">Added in certain areas</string>
 	<string key="objective_loot" speaker="UI">Loot {itemName}</string>
-	<string key="objective_mission" speaker="UI">Faction Mission</string>
+	<string key="objective_mission" speaker="UI">Faction Missions</string>
 	<string key="objective_mission_desc" speaker="UI">Given by a Faction Representative</string>
 	<string key="objective_mission_desc_bounty_hunter_kill" speaker="UI">Go out and slay dangerous foes</string>
 	<string key="objective_mission_desc_explorer_acquire_POI" speaker="UI">Search chests at {POITags}s</string>
@@ -206,7 +210,7 @@
 	<string key="objective_story_task_getoffthebeach" speaker="UI">Find the Outpost</string>
 	<string key="objective_story_task_search_containers" speaker="UI">Search crates near {POITags}</string>
 	<string key="objective_tasks" speaker="UI">TASKS</string>
-	<string key="objective_townproject" speaker="UI">Town Project</string>
+	<string key="objective_townproject" speaker="UI">Town Projects</string>
 	<string key="objective_townproject_desc" speaker="UI">Found at Town Planning Boards</string>
 	<string key="objective_unpin" speaker="UI">Unpin</string>
 	<string key="objective_use" speaker="UI">Use {itemName}</string>

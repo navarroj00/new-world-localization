@@ -81,10 +81,11 @@
 	<string key="ui_transfer_requirement" rel_version="Feature_MTX">Transfer Requirements</string>
 	<string key="ui_transfer_requirement_tooltip" rel_version="Feature_MTX">- You must be in a Sanctuary (Settlement, Outpost, Spirit Shrine, or Watchtower) before transferring\n- You cannot belong to a company before transferring\n- You cannot have active trading post buy/sell orders before transferring</string>
 	<string key="ui_item_restrictions" rel_version="Feature_MTX">Item Restrictions</string>
-	<string key="ui_item_restrictions_item_skins" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; require the base item to be equipped in order to be visible.</string>
+	<string key="ui_item_restrictions_item_skins" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; require the base item to be equipped in order to be visible. &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; cannot be dyed.</string>
 	<string key="ui_item_restrictions_crests" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Company Crests&lt;/font&gt; can only be used if you are the governor (creator) of a company.</string>
 	<string key="ui_item_restrictions_housing_items" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Housing Items&lt;/font&gt; can only be used after you have unlocked housing and own a house.</string>
 	<string key="ui_item_restrictions_dyes" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Dyes&lt;/font&gt; can only be applied on your armor. If the armor is traded or sold the dye will be removed and not returned. You cannot apply dyes on skins.</string>
+	<string key="ui_item_restrictions_camp_skins" rel_version="Feature_Camp_Skins">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Camp Skins&lt;/font&gt; require camping to be unlocked.</string>
 	<string key="ui_non_returnable" rel_version="Feature_MTX">Item is non-refundable.</string>
 	<string key="ui_order_history_dec" rel_version="Feature_MTX">Displays your 10 most recent store unlocks.</string>
 	<string key="ui_expand_bundle" rel_version="Feature_MTX">Bundle (Click to Expand)</string>
@@ -95,6 +96,7 @@
 	<string key="ui_bundle_tooltip" rel_version="Feature_MTX">This product is a bundle.</string>
 	<string key="reward_type_tooltip_emote" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;EMOTES&lt;/font&gt; : You can use an emote in the Emotes menu. Press [{hintText}] to Open Emotes menu.</string>
 	<string key="reward_type_tooltip_itemskin" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;ITEM SKINS&lt;/font&gt; : You can apply a skin by clicking on your armor and weapons in your inventory and then “Change skin”.</string>
+	<string key="reward_type_tooltip_campskin" rel_version="Feature_Camp_Skins">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;CAMP SKINS&lt;/font&gt; : You can apply a skin by clicking on your camp in your inventory and then “Change skin”.</string>
 	<string key="reward_type_tooltip_itemdye" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;DYES&lt;/font&gt; : You can use a dye by clicking on your armor in your inventory and then “Dye armor".</string>
 	<string key="reward_type_tooltip_guildcrest" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;CRESTS&lt;/font&gt; : You can apply crests in the Company screen.</string>
 	<string key="reward_type_tooltip_housing_item" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;HOUSING ITEMS&lt;/font&gt; : You can place housing items in Housing Decoration mode when you are in your house.</string>
@@ -102,7 +104,7 @@
 	<string key="reward_type_tooltip_inventory_item" rel_version="Feature_MTX">Use this item in Inventory.</string>
 	<string key="reward_type_tooltip_extra" rel_version="Feature_MTX">This product is an extra.</string>
 	<string key="reward_type_tooltip_entitlement" rel_version="Feature_MTX">This product is an entitlement.</string>
-	<string key="reward_type_tooltip_marks_of_fortune" rel_version="Feature_MTX">You can use this currency in the store menu to purchase a product.</string>
+	<string key="reward_type_tooltip_marks_of_fortune" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;MARKS OF FORTUNE&lt;/font&gt; : You can use this currency in the Store to purchase a product.</string>
 	<string key="reward_type_tooltip_service" rel_version="Feature_MTX">You can use this service in Store menu. Select "World transfer" product in Store.</string>
 	<string key="ui_crest_disclaimer" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Notice:&lt;/font&gt; Company Crests can only be used if you are the governor (creator) of the company.</string>
 	<string key="ui_disabled_default_title" rel_version="Feature_MTX">Content Unavailable</string>
@@ -145,35 +147,41 @@
 	<string key="ui_notification_unlock_desc">Items have been added to your account.</string>
 	<string key="ui_notification_unlock_title">Unlocked!</string>
 	<string key="ui_view_item">View Items</string>
+	<string key="smolderingscarlet_dye_name" rel_version="Dye_SmolderingScarlet">Smoldering Scarlet</string>
 	<string key="runic_jackal_name" rel_version="Apparel_RunicJackal">Runic Jackal</string>
 	<string key="crescent_fang_name" rel_version="Weapon_CrescentFang">Crescent Fang</string>
 	<string key="arm_flex_name" rel_version="New_World_Launch">Arm Flex</string>
-	<string key="sublimebone_dye_name" rel_version="New_World_Launch">Sublime Bone</string>
+	<string key="sublimebone_dye_name" rel_version="MTX_October_Skins">Sublime Bone</string>
+	<string key="greengrass_dye_name" rel_version="Entitlements_December">Green Grass</string>
 	<string key="Icon_Crest_Pack_Merriment_name" rel_version="New_World_Launch">Merriment Crest Pack</string>
 	<string key="EntitlementSkin_Medium_Angel_name" rel_version="AngelsDemonsWeapons">Aegis of Providence</string>
-	<string key="EntitlementSkin_AnglesDemon_WarHammer_name" rel_version="New_World_Launch">Destroyer’s Wrath</string>
+	<string key="EntitlementSkin_AnglesDemon_WarHammer_name" rel_version="AngelsDemonsWeapons">Destroyer’s Wrath</string>
 	<string key="galaxy_rabbit_name" rel_version="New_World_Launch">Celestial Hare</string>
 	<string key="eyesonyou_name" rel_version="New_World_Launch">Eyes on You</string>
+	<string key="rouge_dye_name" rel_version="Entitlements_December">Rouge</string>
 	<string key="hiddenstream_dye_name" rel_version="Entitlements_November">Hidden Stream</string>
 	<string key="Icon_Crest_Pack_Smugglers_name" rel_version="New_World_Launch">Smugglers Crest Pack</string>
-	<string key="runic_jackal_description" rel_version="Apparel_RunicJackal">"There are horns for drinking and horns for wearing. One needs both." Armor Skin Set</string>
-	<string key="crescent_fang_description" rel_version="Weapon_CrescentFang">"With a bite as fearsome as the world serpent's." Hatchet Weapon skin</string>
-	<string key="arm_flex_description" rel_version="New_World_Launch">"Show your strength." Emote</string>
-	<string key="sublimebone_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
-	<string key="Icon_Crest_Pack_Merriment_description" rel_version="New_World_Launch">"Raise a glass to your brave companions!" Company Crest Pack</string>
-	<string key="EntitlementSkin_Medium_Angel_description" rel_version="AngelsDemonsWeapons">“Cast out evil with fury and righteous light.” Armor Skin Set</string>
-	<string key="EntitlementSkin_AnglesDemon_WarHammer_description" rel_version="New_World_Launch">“Leave cursed retribution in your wake.” War Hammer Weapon Skin</string>
-	<string key="galaxy_rabbit_description" rel_version="New_World_Launch">"Brimming with awe, the vast expanse of the universe resides within the fur of this rabbit. And if you pet them, you might just feel it too." Celestial Hare House Pet</string>
-	<string key="eyesonyou_description" rel_version="New_World_Launch">"Eternal Vigilance." Emote</string>
+	<string key="smolderingscarlet_dye_description" rel_version="Dye_SmolderingScarlet">Consumable Dye Pack</string>
+	<string key="runic_jackal_description" rel_version="Apparel_RunicJackal">"There are horns for drinking and horns for wearing. One needs both."</string>
+	<string key="crescent_fang_description" rel_version="Weapon_CrescentFang">"With a bite as fearsome as the world serpent's."</string>
+	<string key="arm_flex_description" rel_version="New_World_Launch">"Show your strength."</string>
+	<string key="sublimebone_dye_description" rel_version="MTX_October_Skins">Consumable Dye Pack</string>
+	<string key="greengrass_dye_description" rel_version="Entitlements_December">Consumable Dye Pack</string>
+	<string key="Icon_Crest_Pack_Merriment_description" rel_version="New_World_Launch">"Raise a glass to your brave companions!"</string>
+	<string key="EntitlementSkin_Medium_Angel_description" rel_version="AngelsDemonsWeapons">“Cast out evil with fury and righteous light.”</string>
+	<string key="EntitlementSkin_AnglesDemon_WarHammer_description" rel_version="AngelsDemonsWeapons">“Leave cursed retribution in your wake.”</string>
+	<string key="galaxy_rabbit_description" rel_version="New_World_Launch">"Brimming with awe, the vast expanse of the universe resides within the fur of this rabbit. And if you pet them, you might just feel it too."</string>
+	<string key="eyesonyou_description" rel_version="New_World_Launch">"Eternal Vigilance."</string>
+	<string key="rouge_dye_description" rel_version="Entitlements_December">Consumable Dye Pack</string>
 	<string key="hiddenstream_dye_description" rel_version="Entitlements_November">Consumable Dye Pack</string>
-	<string key="Icon_Crest_Pack_Smugglers_description" rel_version="New_World_Launch">"Darkness shrouds our most lucrative ventures." Company Crest Pack</string>
+	<string key="Icon_Crest_Pack_Smugglers_description" rel_version="New_World_Launch">"Darkness shrouds our most lucrative ventures."</string>
 	<string key="ui_store_unavailable">We're sorry, the store is down for a bit of maintenance right now. Please try again later.</string>
 	<string key="fenrirsfury_name" rel_version="New_World_Launch">Fenrir's Fury</string>
-	<string key="fenrirsfury_description" rel_version="New_World_Launch">"A fitting tribute to the beast of slaughter." Great Axe Weapon Skin</string>
+	<string key="fenrirsfury_description" rel_version="New_World_Launch">"A fitting tribute to the beast of slaughter."</string>
 	<string key="EntitlementSkin_Light_Demon_name" rel_version="AngelsDemonsWeapons">Cambion Husk</string>
-	<string key="twitch_pirate_itemskin_name" rel_version="New_World_Launch">Swashbuckler</string>
+	<string key="twitch_pirate_itemskin_name" rel_version="Apparel_Pirate">Swashbuckler</string>
 	<string key="EntitlementSkin_Heavy_Angel_name" rel_version="AngelsDemonsWeapons">Righteous Guardian</string>
-	<string key="twitch_robinhood_itemskin_name" rel_version="New_World_Launch">Robin Hood</string>
+	<string key="twitch_robinhood_itemskin_name" rel_version="Apparel_Robin_Hood">Robin Hood</string>
 	<string key="runic_bear_name" rel_version="Apparel_RunicBear">Runic Bear</string>
 	<string key="runic_fox_name" rel_version="Apparel_RunicFox">Runic Fox</string>
 	<string key="EntitlementSkin_SpecialCorruptedVar1_name" rel_version="New_World_Launch">Golden Rage</string>
@@ -184,22 +192,25 @@
 	<string key="Icon_Crest_Pack_RobinHood_name" rel_version="New_World_Launch">Robin Hood Crest Pack</string>
 	<string key="Icon_Crest_Pack_Thespain_name" rel_version="Apparel_Thespian">Thespian Crest Pack</string>
 	<string key="Icon_Crest_Pack_WeaponMaster_name" rel_version="New_World_Launch">Weapon Master Crest Pack</string>
-	<string key="primeblue_dye_name" rel_version="New_World_Launch">Prime Gaming Blue</string>
-	<string key="amazonorange_dye_name" rel_version="New_World_Launch">Amazon Orange</string>
-	<string key="twitchpurple_dye_name" rel_version="Apparel_Thespian">Twitch Purple</string>
+	<string key="primeblue_dye_name" rel_version="Dyes_Launch">Prime Gaming Blue</string>
+	<string key="amazonorange_dye_name" rel_version="Dyes_Launch">Amazon Orange</string>
+	<string key="twitchpurple_dye_name" rel_version="Entitlements_November">Twitch Purple</string>
 	<string key="shipgray_dye_name" rel_version="Entitlements_November">Ship Gray</string>
-	<string key="bleached_cofee_dye_name" rel_version="New_World_Launch">Bleached Coffee</string>
-	<string key="blood_dye_name" rel_version="New_World_Launch">Blood</string>
-	<string key="viola_dye_name" rel_version="New_World_Launch">Viola</string>
-	<string key="burntsienna_dye_name" rel_version="New_World_Launch">Burnt Sienna</string>
+	<string key="bleached_cofee_dye_name" rel_version="Dyes_Launch">Bleached Coffee</string>
+	<string key="blood_dye_name" rel_version="MTX_October_Skins">Blood</string>
+	<string key="viola_dye_name" rel_version="Dyes_Launch">Viola</string>
+	<string key="burntsienna_dye_name" rel_version="MTX_October_Skins">Burnt Sienna</string>
 	<string key="silt_dye_name" rel_version="Entitlements_November">Silt</string>
 	<string key="keylime_dye_name" rel_version="Entitlements_November">Key Lime</string>
-	<string key="forestgreen_dye_name" rel_version="New_World_Launch">Forest Green</string>
-	<string key="tradewind_dye_name" rel_version="New_World_Launch">Tradewind</string>
-	<string key="bluedsteel_dye_name" rel_version="New_World_Launch">Blued Steel</string>
-	<string key="springgrape_dye_name" rel_version="New_World_Launch">Spring Grape</string>
+	<string key="forestgreen_dye_name" rel_version="Dyes_Launch">Forest Green</string>
+	<string key="angelicsatin_dye_name" rel_version="Entitlements_December">Angelic Satin</string>
+	<string key="tradewind_dye_name" rel_version="Dyes_Launch">Tradewind</string>
+	<string key="bluedsteel_dye_name" rel_version="MTX_October_Skins">Blued Steel</string>
+	<string key="fiercecobalt_dye_name" rel_version="Entitlements_December">Fierce Cobalt</string>
+	<string key="springgrape_dye_name" rel_version="MTX_October_Skins">Spring Grape</string>
 	<string key="deepvelvet_dye_name" rel_version="Entitlements_November">Deep Velvet</string>
-	<string key="lavender_dye_name" rel_version="New_World_Launch">Lavender</string>
+	<string key="crushedberry_dye_name" rel_version="Entitlements_December">Crushed Berry</string>
+	<string key="lavender_dye_name" rel_version="Dyes_Launch">Lavender</string>
 	<string key="twitch_robinhood_emote_blowkiss_name" rel_version="New_World_Launch">Blow Kiss</string>
 	<string key="coin_toss_name" rel_version="New_World_Launch">Coin Toss</string>
 	<string key="applause_name" rel_version="New_World_Launch">Courteous Applause</string>
@@ -216,51 +227,54 @@
 	<string key="twin_wolves_name" rel_version="Weapon_TwinWolves">Twin Wolves</string>
 	<string key="silver_dye_name" rel_version="Entitlements_November">Sharp Silver</string>
 	<string key="Bundle_Decor_Pirate_name" rel_version="New_World_Launch">Pirate Housing Decor Bundle</string>
-	<string key="EntitlementSkin_Light_Demon_description" rel_version="AngelsDemonsWeapons">“Crafted from the infernal union of human and demon.” Armor Skin Set</string>
-	<string key="twitch_pirate_itemskin_description" rel_version="New_World_Launch">"If dead men tell no tales, who will speak of your glory?" Apparel Skin Set</string>
-	<string key="EntitlementSkin_Heavy_Angel_description" rel_version="AngelsDemonsWeapons">"Strike foes down with divine vengeance." Armor Skin Set</string>
-	<string key="twitch_robinhood_itemskin_description" rel_version="New_World_Launch">"One last thing before you go… your purse." Apparel Skin Set</string>
-	<string key="runic_bear_description" rel_version="Apparel_RunicBear">"Don the mantle of the mighty cave bear." Armor Skin Set</string>
-	<string key="runic_fox_description" rel_version="Apparel_RunicFox">"Mischief follows the fox." Armor Skin Set</string>
-	<string key="EntitlementSkin_SpecialCorruptedVar1_description" rel_version="New_World_Launch">"Formed in the molten-hot forges of the Great Cleave, this avatar of the hatred rises, gold and glittering." Apparel Skin Set</string>
-	<string key="Icon_Crest_Pack_AnimalHead_description" rel_version="New_World_Launch">"Tap into the spirit of the animal." Company Crest Pack</string>
-	<string key="Icon_Crest_Pack_FullDeck_description" rel_version="New_World_Launch">"Never reveal your hand until the gold is on the table." Company Crest Pack</string>
-	<string key="Icon_Crest_Pack_Gesture_description" rel_version="New_World_Launch">"You say so much, when you say nothing at all." Company Crest Pack</string>
-	<string key="twitch_pirate_crestpack_description" rel_version="New_World_Launch">"Heave ho, ye scurvy dogs!" Company Crest Pack</string>
-	<string key="Icon_Crest_Pack_RobinHood_description" rel_version="New_World_Launch">"The forest belongs to your merry men." Company Crest Pack</string>
+	<string key="EntitlementSkin_Light_Demon_description" rel_version="AngelsDemonsWeapons">“Crafted from the infernal union of human and demon.”</string>
+	<string key="twitch_pirate_itemskin_description" rel_version="New_World_Launch">"If dead men tell no tales, who will speak of your glory?"</string>
+	<string key="EntitlementSkin_Heavy_Angel_description" rel_version="AngelsDemonsWeapons">"Strike foes down with divine vengeance."</string>
+	<string key="twitch_robinhood_itemskin_description" rel_version="New_World_Launch">"One last thing before you go… your purse."</string>
+	<string key="runic_bear_description" rel_version="Apparel_RunicBear">"Don the mantle of the mighty cave bear."</string>
+	<string key="runic_fox_description" rel_version="Apparel_RunicFox">"Mischief follows the fox."</string>
+	<string key="EntitlementSkin_SpecialCorruptedVar1_description" rel_version="New_World_Launch">"Formed in the molten-hot forges of the Great Cleave, this avatar of the hatred rises, gold and glittering."</string>
+	<string key="Icon_Crest_Pack_AnimalHead_description" rel_version="New_World_Launch">"Tap into the spirit of the animal."</string>
+	<string key="Icon_Crest_Pack_FullDeck_description" rel_version="New_World_Launch">"Never reveal your hand until the gold is on the table."</string>
+	<string key="Icon_Crest_Pack_Gesture_description" rel_version="New_World_Launch">"You say so much, when you say nothing at all."</string>
+	<string key="twitch_pirate_crestpack_description" rel_version="New_World_Launch">"Heave ho, ye scurvy dogs!"</string>
+	<string key="Icon_Crest_Pack_RobinHood_description" rel_version="New_World_Launch">"The forest belongs to your merry men."</string>
 	<string key="Icon_Crest_Pack_Thespain_description" rel_version="Apparel_Thespian">Thespian Crests</string>
-	<string key="Icon_Crest_Pack_WeaponMaster_description" rel_version="New_World_Launch">"Blade or bow, axe or musket? The journeyman survives, the master flourishes." Company Crest Pack</string>
+	<string key="Icon_Crest_Pack_WeaponMaster_description" rel_version="New_World_Launch">"Blade or bow, axe or musket? The journeyman survives, the master flourishes."</string>
 	<string key="primeblue_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
 	<string key="amazonorange_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
 	<string key="twitchpurple_dye_description" rel_version="Apparel_Thespian">Consumable Dye Pack</string>
-	<string key="bleached_cofee_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
-	<string key="blood_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
-	<string key="viola_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
-	<string key="burntsienna_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
+	<string key="bleached_cofee_dye_description" rel_version="Dyes_Launch">Consumable Dye Pack</string>
+	<string key="blood_dye_description" rel_version="MTX_October_Skins">Consumable Dye Pack</string>
+	<string key="viola_dye_description" rel_version="Dyes_Launch">Consumable Dye Pack</string>
+	<string key="burntsienna_dye_description" rel_version="MTX_October_Skins">Consumable Dye Pack</string>
 	<string key="silt_dye_description" rel_version="Entitlements_November">Consumable Dye Pack</string>
 	<string key="keylime_dye_description" rel_version="Entitlements_November">Consumable Dye Pack</string>
-	<string key="forestgreen_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
-	<string key="tradewind_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
-	<string key="bluedsteel_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
-	<string key="springgrape_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
+	<string key="forestgreen_dye_description" rel_version="Dyes_Launch">Consumable Dye Pack</string>
+	<string key="angelicsatin_dye_description" rel_version="Entitlements_December">Consumable Dye Pack</string>
+	<string key="tradewind_dye_description" rel_version="Dyes_Launch">Consumable Dye Pack</string>
+	<string key="bluedsteel_dye_description" rel_version="MTX_October_Skins">Consumable Dye Pack</string>
+	<string key="fiercecobalt_dye_description" rel_version="Entitlements_December">Consumable Dye Pack</string>
+	<string key="springgrape_dye_description" rel_version="MTX_October_Skins">Consumable Dye Pack</string>
 	<string key="deepvelvet_dye_description" rel_version="Entitlements_November">Consumable Dye Pack</string>
-	<string key="lavender_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
-	<string key="twitch_robinhood_emote_blowkiss_description" rel_version="New_World_Launch">"A gesture of courtly love." Emote</string>
-	<string key="coin_toss_description" rel_version="New_World_Launch">"A flip of the coin." Emote</string>
-	<string key="applause_description" rel_version="New_World_Launch">"A job well done!" Emote</string>
-	<string key="twitch_robinhood_emote_fingerwag_description" rel_version="New_World_Launch">"No, no no, not today!" Emote</string>
-	<string key="twitch_pirate_emote_piratestance_description" rel_version="New_World_Launch">"Your treasure fleets will soon be mine." Emote</string>
-	<string key="twitch_pirate_emote_throat_description" rel_version="New_World_Launch">"The mark of the brigand." Emote</string>
-	<string key="thumbs_description" rel_version="New_World_Launch">"Approval, disapproval, withholding judgment."   Includes three separate emotes, thumbs up, down, and sideways.  Emotes</string>
-	<string key="dragons_coil_description" rel_version="Weapon_DragonsCoil">"The serpents of yore slither eternally with scales of steel." Shield Weapon Skin</string>
-	<string key="EntitlementSkin_AnglesDemon_Spear_description" rel_version="AngelsDemonsWeapons">“A lance blessed to maintain the balance of light and darkness.” Spear Weapon Skin</string>
-	<string key="EntitlementSkin_AnglesDemon_FireStaff_description" rel_version="AngelsDemonsWeapons">“Tormented hellfire crackles within.” Fire Staff Weapon Skin</string>
-	<string key="twitch_pirate_weapon_sword_description" rel_version="New_World_Launch">"When you gamble everything… even your soul." Sword Weapon Skin</string>
-	<string key="EntitlementSkin_AnglesDemon_LifeStaff_description" rel_version="AngelsDemonsWeapons">“A staff imbued with restorative primordial forces.” Life Staff Weapon Skin</string>
-	<string key="howl_at_dawn_description" rel_version="Weapon_HowlAtDawn">"A scream in the witching hour." Sword Weapon Skin</string>
-	<string key="twin_wolves_description" rel_version="Weapon_TwinWolves">"Their howl grows ever closer." War Hammer Weapon Skin</string>
+	<string key="crushedberry_dye_description" rel_version="Entitlements_December">Consumable Dye Pack</string>
+	<string key="lavender_dye_description" rel_version="Dyes_Launch">Consumable Dye Pack</string>
+	<string key="twitch_robinhood_emote_blowkiss_description" rel_version="New_World_Launch">"A gesture of courtly love."</string>
+	<string key="coin_toss_description" rel_version="New_World_Launch">"A flip of the coin."</string>
+	<string key="applause_description" rel_version="New_World_Launch">"A job well done!"</string>
+	<string key="twitch_robinhood_emote_fingerwag_description" rel_version="New_World_Launch">"No, no no, not today!"</string>
+	<string key="twitch_pirate_emote_piratestance_description" rel_version="New_World_Launch">"Your treasure fleets will soon be mine."</string>
+	<string key="twitch_pirate_emote_throat_description" rel_version="New_World_Launch">"The mark of the brigand."</string>
+	<string key="thumbs_description" rel_version="New_World_Launch">"Approval, disapproval, withholding judgment."   Includes three separate emotes, thumbs up, down, and sideways.</string>
+	<string key="dragons_coil_description" rel_version="Weapon_DragonsCoil">"The serpents of yore slither eternally with scales of steel."</string>
+	<string key="EntitlementSkin_AnglesDemon_Spear_description" rel_version="AngelsDemonsWeapons">“A lance blessed to maintain the balance of light and darkness.”</string>
+	<string key="EntitlementSkin_AnglesDemon_FireStaff_description" rel_version="AngelsDemonsWeapons">“Tormented hellfire crackles within.”</string>
+	<string key="twitch_pirate_weapon_sword_description" rel_version="New_World_Launch">"When you gamble everything… even your soul."</string>
+	<string key="EntitlementSkin_AnglesDemon_LifeStaff_description" rel_version="AngelsDemonsWeapons">“A staff imbued with restorative primordial forces.”</string>
+	<string key="howl_at_dawn_description" rel_version="Weapon_HowlAtDawn">"A scream in the witching hour."</string>
+	<string key="twin_wolves_description" rel_version="Weapon_TwinWolves">"Their howl grows ever closer."</string>
 	<string key="silver_dye_description" rel_version="Entitlements_November">Consumable Dye Pack</string>
-	<string key="Bundle_Decor_Pirate_description" rel_version="New_World_Launch">"Treacherous waters can yield great treasure." Pirate Housing Decor Set</string>
+	<string key="Bundle_Decor_Pirate_description" rel_version="New_World_Launch">"Treacherous waters can yield great treasure."</string>
 	<string key="ui_no_featured_deal">There is no featured deal at this time.\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;&lt;font color="#ffffff"&gt;B R O W S E  S T O R E&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_no_featured_deal_store">There is no featured deal at this time.\nBrowse the store using the tabs on the left!</string>
 	<string key="Marks_Of_Fortune_5000_name" rel_version="New_World_Launch">Marks of Fortune Pouch</string>
@@ -282,9 +296,9 @@
 	<string key="ui_crestforeground_55" rel_version="New_World_Launch">Clubs</string>
 	<string key="ui_crestforeground_56" rel_version="New_World_Launch">Diamonds</string>
 	<string key="ui_crestforeground_90" rel_version="New_World_Launch">Crossed Pistols</string>
-	<string key="ui_crestforeground_96" rel_version="New_World_Launch">Crest Emblem</string>
-	<string key="ui_crestforeground_97" rel_version="New_World_Launch">Crest Emblem</string>
-	<string key="ui_crestforeground_98" rel_version="New_World_Launch">Crest Emblem</string>
+	<string key="ui_crestforeground_96" rel_version="Apparel_Thespian">Playbill</string>
+	<string key="ui_crestforeground_97" rel_version="Apparel_Thespian">Props</string>
+	<string key="ui_crestforeground_98" rel_version="Apparel_Thespian">The Mighty Quill</string>
 	<string key="ui_crestforeground_99" rel_version="New_World_Launch">Turkey Dinner</string>
 	<string key="ui_crestforeground_100" rel_version="New_World_Launch">Pilgrim Hat</string>
 	<string key="ui_crestforeground_101" rel_version="New_World_Launch">Axe x Musket</string>
@@ -315,59 +329,57 @@
 	<string key="ui_crestforeground_207" rel_version="New_World_Launch">Spear Master</string>
 	<string key="ui_crestforeground_208" rel_version="New_World_Launch">War Hammer Mastery</string>
 	<string key="Bundle_Decor_Spooky2021_name" rel_version="New_World_Launch">Haunted Housing Decor Bundle</string>
-	<string key="Bundle_Decor_Spooky2021_description" rel_version="New_World_Launch">"As if the Corrupted weren't scary enough…" Housing Decor Set</string>
+	<string key="Bundle_Decor_Spooky2021_description" rel_version="New_World_Launch">"As if the Corrupted weren't scary enough…"</string>
 	<string key="Pet_Ghost_Dog_name" rel_version="New_World_Launch">Puppergeist</string>
-	<string key="Pet_Ghost_Dog_description" rel_version="New_World_Launch">"A canine so faithful they don't require a physical form to be there for you. Plus, no allergies or shedding!" House Pet</string>
+	<string key="Pet_Ghost_Dog_description" rel_version="New_World_Launch">"A canine so faithful they don't require a physical form to be there for you. Plus, no allergies or shedding!"</string>
 	<string key="Pet_BlackTiger_name" rel_version="New_World_Launch">Ashen Tiger</string>
-	<string key="Pet_BlackTiger_description" rel_version="New_World_Launch">"Neither light nor color can escape the deep darkness of its fur. But do you know what can? Love! And this big kitty needs lots of it." House Pet</string>
+	<string key="Pet_BlackTiger_description" rel_version="New_World_Launch">"Neither light nor color can escape the deep darkness of its fur. But do you know what can? Love! And this big kitty needs lots of it."</string>
 	<string key="Monster_GreatAxe_name" rel_version="New_World_Launch">Pharaoh's Curse</string>
-	<string key="Monster_GreatAxe_description" rel_version="New_World_Launch">"Long lost beneath the desert sands, now free to wreak its havoc.“ Great Axe Weapon Skin</string>
+	<string key="Monster_GreatAxe_description" rel_version="New_World_Launch">"Long lost beneath the desert sands, now free to wreak its havoc.“</string>
 	<string key="Monster_LifeStaff_name" rel_version="New_World_Launch">Black Widow Staff</string>
-	<string key="Monster_LifeStaff_description" rel_version="New_World_Launch">"Its kiss giveth life, its sting taketh it away." Life Staff Weapon Skin</string>
+	<string key="Monster_LifeStaff_description" rel_version="New_World_Launch">"Its kiss giveth life, its sting taketh it away."</string>
 	<string key="Monster_WarHammer_name" rel_version="New_World_Launch">Frankenstein Hammer</string>
-	<string key="Monster_WarHammer_description" rel_version="New_World_Launch">"The spark of life descends from the heavens." War Hammer Weapon Skin</string>
+	<string key="Monster_WarHammer_description" rel_version="New_World_Launch">"The spark of life descends from the heavens."</string>
 	<string key="Monster_Musket_name" rel_version="New_World_Launch">Crimson Bloodlock</string>
-	<string key="Monster_Musket_description" rel_version="New_World_Launch">"A bite worse than its bark." Musket Weapon Skin</string>
+	<string key="Monster_Musket_description" rel_version="New_World_Launch">"A bite worse than its bark."</string>
 	<string key="Monster_Rapier_name" rel_version="New_World_Launch">Skeletal Rapier</string>
-	<string key="Monster_Rapier_description" rel_version="New_World_Launch">"A fearsome beast, now lost to time, donated the bones that form this insidious blade." Rapier Weapon Skin</string>
+	<string key="Monster_Rapier_description" rel_version="New_World_Launch">"A fearsome beast, now lost to time, donated the bones that form this insidious blade."</string>
 	<string key="Monster_VoidGauntlet_name" rel_version="Weapon_Void_Gauntlet">Murky Depths</string>
-	<string key="Monster_VoidGauntlet_description" rel_version="Weapon_Void_Gauntlet">"The murky depths shelter remnants of the primordial darkness.“ Void Gauntlet Weapon Skin</string>
+	<string key="Monster_VoidGauntlet_description" rel_version="Weapon_Void_Gauntlet">"The murky depths shelter remnants of the primordial darkness.“</string>
 	<string key="Mask_AngryEarth_name" rel_version="New_World_Launch">Elemental Mask</string>
-	<string key="Mask_AngryEarth_description" rel_version="New_World_Launch">"Energy currents run through this piece of facial wear, giving the wearer the apperance of being a little more magical than they really are." Mask Skin</string>
+	<string key="Mask_AngryEarth_description" rel_version="New_World_Launch">"Energy currents run through this piece of facial wear, giving the wearer the apperance of being a little more magical than they really are."</string>
 	<string key="Mask_Demon_name" rel_version="New_World_Launch">Demon Mask</string>
-	<string key="Mask_Demon_description" rel_version="New_World_Launch">"Even though it's made of wood, this mask makes you think of rock…" Mask Skin</string>
+	<string key="Mask_Demon_description" rel_version="New_World_Launch">"Even though it's made of wood, this mask makes you think of rock…"</string>
 	<string key="Mask_PlagueDoctor_name" rel_version="New_World_Launch">Plague Doctor Mask</string>
-	<string key="Mask_PlagueDoctor_description" rel_version="New_World_Launch">"When fear overtakes the land, his services find high demand.“ Mask Skin</string>
+	<string key="Mask_PlagueDoctor_description" rel_version="New_World_Launch">"When fear overtakes the land, his services find high demand.“</string>
 	<string key="Mask_HalfWooden_name" rel_version="New_World_Launch">Elusive One Mask</string>
-	<string key="Mask_HalfWooden_description" rel_version="New_World_Launch">"The mysterious stranger, hardly glimpsed yet never forgotten.“ Mask Skin</string>
+	<string key="Mask_HalfWooden_description" rel_version="New_World_Launch">"The mysterious stranger, hardly glimpsed yet never forgotten.“</string>
 	<string key="Apparel_Monster_Vampire_name" rel_version="New_World_Launch">Bloodthirsty Count</string>
-	<string key="Apparel_Monster_Vampire_description" rel_version="New_World_Launch">"It's easier to hide any spills if you wear red, my friend." Apparel Skin Set</string>
+	<string key="Apparel_Monster_Vampire_description" rel_version="New_World_Launch">"It's easier to hide any spills if you wear red, my friend."</string>
 	<string key="Apparel_Monster_Mummy_name" rel_version="New_World_Launch">Shroud of the Pharaoh</string>
-	<string key="Apparel_Monster_Mummy_description" rel_version="New_World_Launch">"For a musty relic contained for thousands of years, it doesn't smell as bad as I thought." Apparel Skin Set</string>
+	<string key="Apparel_Monster_Mummy_description" rel_version="New_World_Launch">"For a musty relic contained for thousands of years, it doesn't smell as bad as I thought."</string>
 	<string key="Apparel_Monster_Skeleton_name" rel_version="New_World_Launch">Skeletal Chevalier</string>
-	<string key="Apparel_Monster_Skeleton_description" rel_version="New_World_Launch">"Sinister and sepulchral, armies of bone heed his summons." Apparel Skin Set</string>
+	<string key="Apparel_Monster_Skeleton_description" rel_version="New_World_Launch">"Sinister and sepulchral, armies of bone heed his summons."</string>
 	<string key="Emote_Whistle_name" rel_version="Emote_Whistle">Whistle</string>
-	<string key="Emote_Whistle_description" rel_version="Emote_Whistle">"For summoning dogs, companions, or any combination thereof." Emote</string>
-	<string key="Emote_Pray_name" rel_version="Feature_Premium_Emotes">Pray</string>
-	<string key="Emote_Pray_description" rel_version="Feature_Premium_Emotes">"Prostrate thyself before a higher power." Emote</string>
+	<string key="Emote_Whistle_description" rel_version="Emote_Whistle">"For summoning dogs, companions, or any combination thereof."</string>
 	<string key="Weapon_Golden_Colt_name" rel_version="RoyalCourtSkins">Golden Colt</string>
-	<string key="Weapon_Golden_Colt_description" rel_version="RoyalCourtSkins">"Strikes with the force of a war horse at full gallop... and also on fire." Fire Staff Weapon Skin</string>
+	<string key="Weapon_Golden_Colt_description" rel_version="RoyalCourtSkins">"Strikes with the force of a war horse at full gallop... and also on fire."</string>
 	<string key="Weapon_Wicked_Tyrant_name" rel_version="RoyalCourtSkins">Wicked Tyrant</string>
-	<string key="Weapon_Wicked_Tyrant_description" rel_version="RoyalCourtSkins">"Power corrupts. The Wicked Tyrant gets you that kind of power." Great Axe Weapon Skin</string>
+	<string key="Weapon_Wicked_Tyrant_description" rel_version="RoyalCourtSkins">"Power corrupts. The Wicked Tyrant gets you that kind of power."</string>
 	<string key="Weapon_Crest_of_the_Allsight_name" rel_version="RoyalCourtSkins">Crest of the Allsight</string>
-	<string key="Weapon_Crest_of_the_Allsight_description" rel_version="RoyalCourtSkins">"Show them your allegiance, brandish it as you fight, smack them in the face with it once in a while if need be. Make it known you are a foe to be feared." Shield Weapon Skin</string>
+	<string key="Weapon_Crest_of_the_Allsight_description" rel_version="RoyalCourtSkins">"Show them your allegiance, brandish it as you fight, smack them in the face with it once in a while if need be. Make it known you are a foe to be feared."</string>
 	<string key="Weapon_Gallantry_name" rel_version="RoyalCourtSkins">Gallantry</string>
-	<string key="Weapon_Gallantry_description" rel_version="RoyalCourtSkins">"A sword for the brave, the refined, the most gallant of our knights." Sword Weapon Skin</string>
+	<string key="Weapon_Gallantry_description" rel_version="RoyalCourtSkins">"A sword for the brave, the refined, the most gallant of our knights."</string>
 	<string key="Weapon_Monarchs_Might_name" rel_version="RoyalCourtSkins">Monarch's Might</string>
-	<string key="Weapon_Monarchs_Might_description" rel_version="RoyalCourtSkins">"What is true strength? The power to make decisions that govern others? Or simply the force required to kill?" War Hammer Weapon Skin</string>
+	<string key="Weapon_Monarchs_Might_description" rel_version="RoyalCourtSkins">"What is true strength? The power to make decisions that govern others? Or simply the force required to kill?"</string>
 	<string key="Weapon_RoyalCourt_IceGauntlet_name" rel_version="Weapon_IceGauntlet_RoyalCourt">Royalty's Grasp</string>
-	<string key="Weapon_RoyalCourt_IceGauntlet_description" rel_version="Weapon_IceGauntlet_RoyalCourt">"None need doubt who their ruler is, lest they feel an icy hand close around their treasonous throat." Ice Gauntlet Weapon Skin</string>
+	<string key="Weapon_RoyalCourt_IceGauntlet_description" rel_version="Weapon_IceGauntlet_RoyalCourt">"None need doubt who their ruler is, lest they feel an icy hand close around their treasonous throat."</string>
 	<string key="Armor_Suncourt_Regalia_name" rel_version="RoyalCourtSkins">Suncourt Regalia</string>
-	<string key="Armor_Suncourt_Regalia_description" rel_version="RoyalCourtSkins">"It is wise to shield one's eyes when gazing upon such resplendent glory." Armor Skin</string>
+	<string key="Armor_Suncourt_Regalia_description" rel_version="RoyalCourtSkins">"It is wise to shield one's eyes when gazing upon such resplendent glory."</string>
 	<string key="Armor_Jesters_Delight_name" rel_version="RoyalCourtSkins">Jester's Delight</string>
-	<string key="Armor_Jesters_Delight_description" rel_version="RoyalCourtSkins">"If the fool can fooleth the fooled, who is then the fool?" Armor Skin</string>
+	<string key="Armor_Jesters_Delight_description" rel_version="RoyalCourtSkins">"If the fool can fooleth the fooled, who is then the fool?"</string>
 	<string key="Armor_Deaths_Coronation_name" rel_version="RoyalCourtSkins">Death's Coronation</string>
-	<string key="Armor_Deaths_Coronation_description" rel_version="RoyalCourtSkins">"The king of the dead is still in every way a king." Armor Skin</string>
+	<string key="Armor_Deaths_Coronation_description" rel_version="RoyalCourtSkins">"The king of the dead is still in every way a king."</string>
 	<string key="server_transfer_name" rel_version="Feature_Server_Transfer">World Transfer (Single Use)</string>
 	<string key="character_rename" rel_version="MTX_October_Skins">Character Rename (Single Use)</string>
 	<string key="character_rename_description" rel_version="MTX_October_Skins">Allows you to change the character's name.\nSingle use only.</string>
@@ -412,8 +424,9 @@
 	<string key="server_transfer_home_world" rel_version="Feature_Server_Transfer">Home World:</string>
 	<string key="server_transfer_step_1" rel_version="Feature_Server_Transfer">Step 1 of 2</string>
 	<string key="server_transfer_step_2" rel_version="Feature_Server_Transfer">Step 2 of 2</string>
+	<string key="server_transfer_failed" rel_version="Feature_Server_Transfer">World Transfer Request Failed</string>
 	<string key="rename_extra_detail" rel_version="MTX_October_Skins">You are allowed 1 free name change on your account. Once claimed, it will no longer be available on other characters.</string>
-	<string key="Housing_Happy_Pumpkin_description" rel_version="MTX_October_Skins">"The miscreant ne’er-do-well was happily damned and damnably happy. You’d smile too if you fooled the Devil himself!" Housing Decoration</string>
+	<string key="Housing_Happy_Pumpkin_description" rel_version="MTX_October_Skins">"The miscreant ne’er-do-well was happily damned and damnably happy. You’d smile too if you fooled the Devil himself!"</string>
 	<string key="Housing_Happy_Pumpkin_name" rel_version="MTX_October_Skins">Scapegrace Jack’s Happy Lantern</string>
 	<string key="Tool_AzothStaff_Monster_name" rel_version="Tool_AzothStaff_Monster">The Eye</string>
 	<string key="Tool_AzothStaff_Monster_description" rel_version="Tool_AzothStaff_Monster">"Can spot a breach at 10 paces. Maybe he needs glasses…" Azoth Staff Tool Skin</string>
@@ -454,15 +467,15 @@
 	<string key="Emote_ChestPound_name" rel_version="Emote_ChestPound">Chest Pound</string>
 	<string key="Emote_Impatient_name" rel_version="Emote_Impatient">Waiting</string>
 	<string key="Emote_Cry_name" rel_version="Emote_Cry">Cry</string>
-	<string key="Emote_ChestPound_description" rel_version="Emote_ChestPound">"A display of dominance." Emote</string>
-	<string key="Emote_Impatient_description" rel_version="Emote_Impatient">"We don't have all eternity... or wait, do we?" Emote</string>
-	<string key="Emote_Cry_description" rel_version="Emote_Cry">"Water the earth with your tears." Emote</string>
+	<string key="Emote_ChestPound_description" rel_version="Emote_ChestPound">"A display of dominance."</string>
+	<string key="Emote_Impatient_description" rel_version="Emote_Impatient">"We don't have all eternity... or wait, do we?"</string>
+	<string key="Emote_Cry_description" rel_version="Emote_Cry">"Water the earth with your tears."</string>
 	<string key="Apparel_WarSpecial_name" rel_version="Apparel_War_Special">Warrior Macabre </string>
 	<string key="Apparel_RoyalCourt_Crown_name" rel_version="Apparel_Helmet_Crown">Crown of Ascendance</string>
 	<string key="Apparel_RoyalCourt_Tiara_name" rel_version="Apparel_Helmet_Tiara">Tiara of Ascendance </string>
-	<string key="Apparel_WarSpecial_description" rel_version="Apparel_War_Special">"The resplendent uniform of Death itself, said to stalk every battlefield in Aeternum cursing the island's resurrections." Apparel Skin</string>
-	<string key="Apparel_RoyalCourt_Crown_description" rel_version="Apparel_Helmet_Crown">"Aeternum holds a crown to the head of each traveler, they need only rise to meet it." Helmet Skin</string>
-	<string key="Apparel_RoyalCourt_Tiara_description" rel_version="Apparel_Helmet_Tiara">"Not even the rugged wilderness of Aeternum can keep a royal from looking their best." Helmet Skin</string>
+	<string key="Apparel_WarSpecial_description" rel_version="Apparel_War_Special">"The resplendent uniform of Death itself, said to stalk every battlefield in Aeternum cursing the island's resurrections."</string>
+	<string key="Apparel_RoyalCourt_Crown_description" rel_version="Apparel_Helmet_Crown">"Aeternum holds a crown to the head of each traveler, they need only rise to meet it."</string>
+	<string key="Apparel_RoyalCourt_Tiara_description" rel_version="Apparel_Helmet_Tiara">"Not even the rugged wilderness of Aeternum can keep a royal from looking their best."</string>
 	<string key="Weapon_Bow_RoyalCourt_name" rel_version="Weapon_Bow_RoyalCourt">Archer's Filigree</string>
 	<string key="Tool_AzothStaff_RoyalCourt_name" rel_version="Tool_AzothStaff_RoyalCourt">Margrave's Mystery</string>
 	<string key="Tool_FishingPole_RoyalCourt_name" rel_version="Tool_FishingPole_RoyalCourt">Goldenline</string>
@@ -470,7 +483,7 @@
 	<string key="Tool_PickAxe_RoyalCourt_name" rel_version="Tool_PickAxe_RoyalCourt">Imperial Striker</string>
 	<string key="Tool_Sickle_RoyalCourt_name" rel_version="Tool_Sickle_RoyalCourt">The Tawny Eminence</string>
 	<string key="Tool_SkinningKnife_RoyalCourt_name" rel_version="Tool_SkinningKnife_RoyalCourt">Noble's Edge</string>
-	<string key="Weapon_Bow_RoyalCourt_description" rel_version="Weapon_Bow_RoyalCourt">"An arrow notched and released from a bow of superior gold and emeralds wounds egos as well as bodies." Bow Weapon Skin</string>
+	<string key="Weapon_Bow_RoyalCourt_description" rel_version="Weapon_Bow_RoyalCourt">"An arrow notched and released from a bow of superior gold and emeralds wounds egos as well as bodies."</string>
 	<string key="Tool_AzothStaff_RoyalCourt_description" rel_version="Tool_AzothStaff_RoyalCourt">"The adventurer walks up to the corrupted portal and bangs their scepter on the ground, demanding its vanquishing." Azoth Staff Tool Skin</string>
 	<string key="Tool_FishingPole_RoyalCourt_description" rel_version="Tool_FishingPole_RoyalCourt">"From under the water this pole looks as bright and as harmless as the sun above. Fish will soon learn otherwise." Fishing Pole Tool Skin</string>
 	<string key="Tool_LoggingAxe_RoyalCourt_description" rel_version="Tool_LoggingAxe_RoyalCourt">"In a flourish of blinding light the forest falls before you." Logging Axe Tool Skin</string>
@@ -478,18 +491,89 @@
 	<string key="Tool_Sickle_RoyalCourt_description" rel_version="Tool_Sickle_RoyalCourt">"The shimmer of this tool when used in the wild attracts the eyes of many a jealous adventurer." Sickle Tool Skin</string>
 	<string key="Tool_SkinningKnife_RoyalCourt_description" rel_version="Tool_SkinningKnife_RoyalCourt">"Doubles as a letter opener for your all your regal missives." Skinning Knife Tool Skin</string>
 	<string key="Bundle_Decor_RoyalCourt_name" rel_version="Housing_Royal_MTX_Pack_2021">Royal Court Decor Bundle</string>
-	<string key="Bundle_Decor_RoyalCourt_description" rel_version="Housing_Royal_MTX_Pack_2021">"Royal resplendence fit for the noble-born, either living or Corrupted." Housing Decor Set</string>
+	<string key="Bundle_Decor_RoyalCourt_description" rel_version="Housing_Royal_MTX_Pack_2021">"Royal resplendence fit for the noble-born, either living or Corrupted."</string>
 	<string key="Bundle_Tool_LegendaryAzoth_name" rel_version="MTX_Tool_Skins_LegendaryAzoth">Legendary Azoth Tools</string>
 	<string key="Bundle_Tool_LegendaryStrength_name" rel_version="MTX_Tool_Skins_LegendaryStrength">Legendary Strength Tools</string>
 	<string key="Bundle_Tool_ClassicMonster_name" rel_version="MTX_Tool_Skins_Monster">Monstrous Instruments</string>
 	<string key="Bundle_Tool_RoyalCourt_name" rel_version="MTX_Tool_Skins_RoyalCourt">Royal Opulence</string>
-	<string key="Bundle_Tool_LegendaryAzoth_description" rel_version="MTX_Tool_Skins_LegendaryAzoth">"A touch of magic pairs well with any task, including gathering what is needed to survive." Tool Skin Bundle</string>
-	<string key="Bundle_Tool_LegendaryStrength_description" rel_version="MTX_Tool_Skins_LegendaryStrength">"Strength of arm can be the best way to render the resources of Aeternum into their constituent natures." Tool Skin Bundle</string>
-	<string key="Bundle_Tool_ClassicMonster_description" rel_version="MTX_Tool_Skins_Monster">"A collection of frightful, cursed tools that bore into the user's very psyche for their power." Tool Skin Bundle</string>
-	<string key="Bundle_Tool_RoyalCourt_description" rel_version="MTX_Tool_Skins_RoyalCourt">"These tools shine so that all may know who wields the power of gold on Aeternum." Tool Skin Bundle</string>
+	<string key="Bundle_Tool_LegendaryAzoth_description" rel_version="MTX_Tool_Skins_LegendaryAzoth">"A touch of magic pairs well with any task, including gathering what is needed to survive."</string>
+	<string key="Bundle_Tool_LegendaryStrength_description" rel_version="MTX_Tool_Skins_LegendaryStrength">"Strength of arm can be the best way to render the resources of Aeternum into their constituent natures."</string>
+	<string key="Bundle_Tool_ClassicMonster_description" rel_version="MTX_Tool_Skins_Monster">"A collection of frightful, cursed tools that bore into the user's very psyche for their power."</string>
+	<string key="Bundle_Tool_RoyalCourt_description" rel_version="MTX_Tool_Skins_RoyalCourt">"These tools shine so that all may know who wields the power of gold on Aeternum."</string>
+	<string key="Apparel_WinterOutfit01_name" rel_version="Apparel_Winter_MTX_1">Midwinter's Majesty</string>
+	<string key="Apparel_WinterOutfit01_description" rel_version="Apparel_Winter_MTX_1">"By gleam of gem, finery of fur, and glamour of vivid color, one revels and fights back the chill of the darkest nights of the year."</string>
+	<string key="Apparel_WinterOutfit02_name" rel_version="Apparel_Winter_MTX_2">Hunter's Hibernal Festivities</string>
+	<string key="Apparel_WinterOutfit02_description" rel_version="Apparel_Winter_MTX_2">"In the dead of winter, even the most practical hunter dons their finest colors before seeking the light and warmth of the season’s festival."</string>
+	<string key="Apparel_WinterOutfit03_name" rel_version="Apparel_Winter_MTX_3">Spirit of the Season</string>
+	<string key="Apparel_WinterOutfit03_description" rel_version="Apparel_Winter_MTX_3">"One cuts a distinctive silhouette in the season's gloom as folk gather for celebratory processions."</string>
+	<string key="Bundle_Tool_LegendaryTech_name" rel_version="MTX_Tool_Skins_LegendaryTech">The Apparatus Supernal</string>
+	<string key="Weapon_Rapier_Dec21_name" rel_version="Weapon_Rapier_Winter_MTX">Wassailing Blade</string>
+	<string key="Weapon_Spear_Dec21_name" rel_version="Weapon_Spear_Winter_MTX">Saturnalian Skewer</string>
+	<string key="Weapon_Bow_Dec21_name" rel_version="Weapon_Bow_Winter_MTX">Mistletoe Bow</string>
+	<string key="Weapon_Hatchet_Dec21_name" rel_version="Weapon_Hatchet_Winter_MTX">Holiday's Edge</string>
+	<string key="Weapon_IceGauntlet_Dec21_name" rel_version="Weapon_IceGauntlet_Winter_MTX">Jack Frost's Mitts</string>
+	<string key="Weapon_Lifestaff_Dec21_name" rel_version="Weapon_LifeStaff_Winter_MTX">Yuletide Rod</string>
+	<string key="Bundle_Tool_LegendaryTech_description" rel_version="MTX_Tool_Skins_LegendaryTech">"These wondrous implements represent a lost technology beyond the sciences of any scholar you know."</string>
+	<string key="Weapon_Rapier_Dec21_description" rel_version="Weapon_Rapier_Winter_MTX">"Ancient songs and carols fill the head of this sword’s wielder, and often they sing along during the dance of battle. Wassail! Wassail!"</string>
+	<string key="Weapon_Spear_Dec21_description" rel_version="Weapon_Spear_Winter_MTX">"Every kill feels like an offering to the chthonic forces waiting just below the surface of the riotously merry holidays."</string>
+	<string key="Weapon_Bow_Dec21_description" rel_version="Weapon_Bow_Winter_MTX">"Festoon your prey with festive arrows and deck the halls with your trophies."</string>
+	<string key="Weapon_Hatchet_Dec21_description" rel_version="Weapon_Hatchet_Winter_MTX">"This gilded axe glitters and gleams with the glory of the season."</string>
+	<string key="Weapon_IceGauntlet_Dec21_description" rel_version="Weapon_IceGauntlet_Winter_MTX">"In the crackle of the forming ice, one can hear the jolly cackle of a dandy demon."</string>
+	<string key="Weapon_Lifestaff_Dec21_description" rel_version="Weapon_LifeStaff_Winter_MTX">"Carved in winter and hardened over a burning Yule log, the energies of this staff fill one with the warmth of a cozy hearth."</string>
+	<string key="Bundle_Tool_Winter21_name" rel_version="MTX_Tool_Skins_Winter">Hibernal Harvesters</string>
+	<string key="Apparel_Abyssal_name" rel_version="Apparel_Abyssal_Costume">Voidtouched Armor</string>
+	<string key="Apparel_Vogue_name" rel_version="Apparel_Vogue">Court Couture</string>
 	<string key="Apparel_AutumnKing_name" rel_version="Apparel_AutumnKing">Autumnal Lord</string>
-	<string key="Apparel_AutumnKing_description" rel_version="Apparel_AutumnKing">"The cycle of life continues." Apparel Skin</string>
+	<string key="Bundle_Tool_Winter21_description" rel_version="MTX_Tool_Skins_Winter"> "Gathering resources in the dead of winter can be a grim and gloomy enterprise. Why not warm the heart with glitter and gilt?"</string>
+	<string key="Apparel_Abyssal_description" rel_version="Apparel_Abyssal_Costume">"Draw upon the power of the void."</string>
+	<string key="Apparel_Vogue_description" rel_version="Apparel_Vogue">"True art is never understood in its own time."</string>
+	<string key="Apparel_AutumnKing_description" rel_version="Apparel_AutumnKing">"The cycle of life continues."</string>
 	<string key="Bundle_WarSpecial_Promo_name" rel_version="Bundle_Promo_BlackFriday">Warrior Macabre Bundle</string>
-	<string key="Bundle_WarSpecial_Promo_description" rel_version="Bundle_Promo_BlackFriday">"Don the resplendent uniform of Death itself, said to stalk every battlefield in Aeternum. Get some dark gray dye along with it to remove even more light from the world." Skin and Dye Pack Bundle</string>
+	<string key="Bundle_WarSpecial_Promo_description" rel_version="Bundle_Promo_BlackFriday">"Don the resplendent uniform of Death itself, said to stalk every battlefield in Aeternum. Get some dark gray dye along with it to remove even more light from the world."</string>
+	<string key="Bundle_Vogue_Promo_name" rel_version="Bundle_Promo_DecHoliday">Court Couture Bundle</string>
+	<string key="Bundle_Vogue_Promo_description" rel_version="Bundle_Promo_DecHoliday">"True art is never understood in its time. Style yourself accordingly."</string>
+	<string key="Emote_Shiver_name" rel_version="Emote_Shiver">Shiver</string>
+	<string key="Emote_Shiver_description" rel_version="Emote_Shiver">"If I'm this cold already, imagine how cold Forever Winter would be!"</string>
+	<string key="Emote_LegKickDance_name" rel_version="Emote_Leg_Kick_Dance">Leg Kick Dance</string>
+	<string key="Emote_BellyLaugh_name" rel_version="Emote_BellyLaugh">Belly Laugh</string>
+	<string key="Emote_LegKickDance_description" rel_version="Emote_Leg_Kick_Dance">"A traditional dance."</string>
+	<string key="Emote_BellyLaugh_description" rel_version="Emote_BellyLaugh">"A big, heart belly laugh!"</string>
+	<string key="Bundle_Decor_Winter21_name" rel_version="Housing_Winter_MTX_Pack_2021">Winter Convergence Décor Bundle</string>
+	<string key="Pet_RednoseDeer_name" rel_version="Housing_Winter_MTX_Pack_2021">Festive Deer</string>
+	<string key="Bundle_Decor_Winter21_description" rel_version="Housing_Winter_MTX_Pack_2021">"Welcome guests to your home during Winter Convergence, a time of cheer and fear in Aeternum."</string>
+	<string key="Pet_RednoseDeer_description" rel_version="Housing_Winter_MTX_Pack_2021">"Complete with its own scarf to keep warm against the threat of Forever Winter."</string>
+	<string key="CampSkin_Winter2_name" rel_version="CampSkin_Winter2">Winter Star</string>
+	<string key="CampSkin_Winter3_name" rel_version="CampSkin_Winter3">Winter Opulence</string>
+	<string key="CampSkin_Winter2_description" rel_version="CampSkin_Winter2">"Protect yourself from the icy winters of Aeternum in a standing tent."</string>
+	<string key="CampSkin_Winter3_description" rel_version="CampSkin_Winter3">"Enjoy the view in elegant style with this standing tent."</string>
+	<string key="url_twitchdrop">https://www.newworld.com/en-us/twitch-drops</string>
+	<string key="url_primegaming">https://gaming.amazon.com/loot/newworld</string>
+	<string key="ui_open_link">Open Link</string>
+	<string key="Marks_Of_Fortune_120000_name" rel_version="Marks_Sku_99">Jackpot of Marks</string>
+	<string key="Marks_Of_Fortune_120000_description" rel_version="Marks_Sku_99">Marks of Fortune Currency Pack</string>
+	<string key="Bundle_FestiveDeer_Promo_name" rel_version="Housing_Winter_MTX_Pack_2021">Festive Deer Bundle</string>
+	<string key="Bundle_FestiveDeer_Promo_description" rel_version="Housing_Winter_MTX_Pack_2021">"A deer with its own scarf to keep warm against the threat of Forever Winter. Plus some dyes to add seasonal color to your outfits."</string>
+	<string key="reward_type_campskin" rel_version="Feature_Camp_Skins">Camp Skin</string>
+	<string key="reward_type_Weaponskin_Bow" rel_version="New_World_Launch">Bow Skin</string>
+	<string key="reward_type_Weaponskin_Hatchet" rel_version="New_World_Launch">Hatchet Skin</string>
+	<string key="reward_type_Weaponskin_Musket" rel_version="New_World_Launch">Musket Skin</string>
+	<string key="reward_type_Weaponskin_FireStaff" rel_version="New_World_Launch">Fire Staff Skin</string>
+	<string key="reward_type_Weaponskin_LifeStaff" rel_version="New_World_Launch">Life Staff Skin</string>
+	<string key="reward_type_Weaponskin_Warhammer" rel_version="New_World_Launch">War Hammer Skin</string>
+	<string key="reward_type_Weaponskin_Rapier" rel_version="New_World_Launch">Rapier Skin</string>
+	<string key="reward_type_Weaponskin_Sword" rel_version="New_World_Launch">Sword Skin</string>
+	<string key="reward_type_Weaponskin_Shield" rel_version="New_World_Launch">Shield Skin</string>
+	<string key="reward_type_Weaponskin_GreatAxe" rel_version="New_World_Launch">Great Axe Skin</string>
+	<string key="reward_type_Weaponskin_IceGauntlet" rel_version="New_World_Launch">Ice Gauntlet Skin</string>
+	<string key="reward_type_Weaponskin_VoidGauntlet" rel_version="Weapon_Void_Gauntlet">Void Gauntlet Skin</string>
+	<string key="reward_type_Apparelskin" rel_version="New_World_Launch">Apparel Skin</string>
+	<string key="reward_type_Weaponskin_Spear" rel_version="New_World_Launch">Spear Skin</string>
+	<string key="reward_type_house_pet" rel_version="New_World_Launch">House Pet</string>
+	<string key="reward_type_itemdye_pack" rel_version="New_World_Launch">Dye Pack</string>
+	<string key="reward_type_guildcrest_pack" rel_version="New_World_Launch">Company Crest Set</string>
+	<string key="reward_type_Apparelskin_Set" rel_version="New_World_Launch">Apparel Skin Set</string>
+	<string key="reward_type_Toolskin_Set" rel_version="New_World_Launch">Tool Skin Set</string>
+	<string key="reward_type_Housing_Set" rel_version="New_World_Launch">Housing Décor Set</string>
+	<string key="ui_crestforeground_212" rel_version="Twitch_EpicStory_Skins">Ouroboros</string>
 </resources>
 

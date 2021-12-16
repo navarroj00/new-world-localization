@@ -13,7 +13,7 @@
 	<string key="ui_dungeon_reward_level">Items you find may vary from the listed items based on their Gear Score.</string>
 	<string key="ui_dungeon_level_requirement">Level Requirement: {level}</string>
 	<string key="ui_dungeon_elapsed_time">Time Elapsed:</string>
-	<string key="ui_dungeon_estimated_time_remaining">Estimated wait time:</string>
+	<string key="ui_dungeon_estimated_time_remaining">Estimated Wait Time:</string>
 	<string key="ui_dungeon_activate">Join Expedition Queue</string>
 	<string key="ui_dungeon_leave_group">Leave Group</string>
 	<string key="ui_dungeon_leave_group_sufficient_members">You will be kicked out of the queue if you leave the group.\nAre you sure?</string>
@@ -50,13 +50,11 @@
 	<string key="ui_dungeon_opened_pvpwarning_title">Abandon PvP to Enter</string>
 	<string key="ui_dungeon_enter_pvpwarning_info">Entering an Expedition will &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
 	<string key="ui_dungeon_full_header">Expedition is currently full. Join the queue to enter the expedition.</string>
-	<string key="ui_dungeon_player_average_gear_score">Average Gear Score: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{gearscore}&lt;/font&gt;</string>
+	<string key="ui_dungeon_player_average_gear_score">&lt;font color="#c3b79f"&gt;Average Gear Score: &lt;/font&gt; &lt;font color="#ffffff" face="lyshineui/fonts/CaslonAnt.font"&gt;{gearscore}&lt;/font&gt;</string>
 	<string key="ui_dungeon_queued_blocked">Can't Open Expedition</string>
 	<string key="ui_dungeon_outpost_rush">You are already in a queue for Outpost Rush</string>
 	<string key="ui_dungeon_expiring">Leaving expedition in</string>
 	<string key="ui_dungeon_cooldown">Can Open in &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{timeRemaining}&lt;/font&gt;</string>
 	<string key="ui_dungeon_cooldown_flyout">You can open this Expedition in {timeRemaining}</string>
-	<string key="ui_dungeon_mutator_dungeon_progression">Dungeon Progression</string>
-	<string key="ui_dungeon_next_unlock_requirement">In order to unlock the &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;next difficulty&lt;/font&gt;, you must complete this Expedition with &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Silver Rank&lt;/font&gt;.</string>
 </resources>
 

@@ -1,6 +1,12 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="GypsumAttunement_GroupName">Gypsum Attunement</string>
+	<string key="CategoryData_CraftingPatterns">Crafting Patterns</string>
 	<string key="FoodComponents_GroupName">Compound Ingredients</string>
 	<string key="GemstoneT1_GroupName">Flawed Gemstones</string>
+	<string key="GypsumRefining_GroupName">Gypsum Refining</string>
+	<string key="GypsumCasting_GroupName">Gypsum Casting</string>
+	<string key="GypsumRaw_GroupName">Gypsum Orbs</string>
+	<string key="GypsumCasts_GroupName">Gypsum Casts</string>
 	<string key="GemstoneT2_GroupName">Standard Gemstones</string>
 	<string key="GemstoneT3_GroupName">Brilliant Gemstones</string>
 	<string key="GemstoneT4_GroupName">Pristine Gemstones</string>
@@ -560,18 +566,18 @@
 	<string key="CarnelianCut_GroupName">Cut Carnelian</string>
 	<string key="Cartridges_GroupName">Firearm Cartridges</string>
 	<string key="catalyst_GroupName">Catalysts</string>
-	<string key="CategoryData_1Handed">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;-Handed Weapons</string>
-	<string key="CategoryData_2Handed">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;-Handed Weapons</string>
+	<string key="CategoryData_1Handed">1-Handed Weapons</string>
+	<string key="CategoryData_2Handed">2-Handed Weapons</string>
 	<string key="CategoryData_AfflictionResistance">Affliction Resistance</string>
 	<string key="CategoryData_alchemyresources">Potion Reagents</string>
-	<string key="CategoryData_Ammo">Ammunition.</string>
+	<string key="CategoryData_Ammo">Ammunition</string>
 	<string key="CategoryData_AmmoIron">Iron Ammunition</string>
 	<string key="CategoryData_AmmoOrichalcum">Orichalcum Ammunition</string>
 	<string key="CategoryData_AmmoStarmetal">Starmetal Ammunition</string>
 	<string key="CategoryData_AmmoSteel">Steel Ammunition</string>
-	<string key="CategoryData_Ammunition">Ammunition.</string>
+	<string key="CategoryData_Ammunition">Ammunition</string>
 	<string key="CategoryData_Amulets">Amulets</string>
-	<string key="CategoryData_Apparel">Apparel.</string>
+	<string key="CategoryData_Apparel">Apparel</string>
 	<string key="CategoryData_ArcanaResources">Arcana</string>
 	<string key="CategoryData_arrows">Arrows</string>
 	<string key="CategoryData_Azoth">Azoth</string>
@@ -638,10 +644,10 @@
 	<string key="CategoryData_Alkahest">Alkahest</string>
 	<string key="CategoryData_AlkahestDesc">Alkahest are items used to craft potions.</string>
 	<string key="CategoryData_RangedWeapons">Ranged Weapons</string>
-	<string key="CategoryData_rawresources">Raw resources</string>
+	<string key="CategoryData_rawresources">Raw Resources</string>
 	<string key="CategoryData_RefinedMaterial">Refined Materials</string>
 	<string key="CategoryData_refinedresources">Refined Resources</string>
-	<string key="CategoryData_Resources">Resources.</string>
+	<string key="CategoryData_Resources">Resources</string>
 	<string key="CategoryData_Rings">Rings</string>
 	<string key="CategoryData_SatchelDuffel">Satchel &amp; Duffel Bags</string>
 	<string key="CategoryData_seeds">Seeds</string>
@@ -698,7 +704,7 @@
 	<string key="CategoryData_TinctureDesc">Tinctures are items used to recover from injury, exhaustion, or affliction.</string>
 	<string key="CategoryData_Tools">Tools</string>
 	<string key="CategoryData_Trophies">Trophies</string>
-	<string key="CategoryData_Utilities">Consumables.</string>
+	<string key="CategoryData_Utilities">Consumables</string>
 	<string key="CategoryData_Warhammers">War Hammers</string>
 	<string key="CategoryData_WeaponCoatings">Weapon Coatings</string>
 	<string key="CategoryData_Weapons">Weapons</string>
@@ -1363,8 +1369,8 @@
 	<string key="ModsUncommon_GroupName">Uncommon Mods</string>
 	<string key="MoonstoneCut_GroupDesc">Cut and polished Moonstone Gemstones. Can be crafted into jewelry to increase Strength and Focus, or socketed into equipment to provide the Exhilarate and Slash Ward perks.</string>
 	<string key="MoonstoneCut_GroupName">Cut Moonstone</string>
-	<string key="Musical_GroupName">Musical Instruments</string>
 	<string key="MusketA_GroupDesc">A ranged weapon that fires high damage cartridges. Ideal for keeping targets at a distance and long ranged combat with a high payoff for precise aim.\n\n•Standard Attack: Deals {[DamageTable.MusketAttack1.DmgCoef * 100]}% Thrust damage.</string>
+	<string key="Blunderbuss_GroupDesc">A close quarters ranged weapon that fires 6 pellets in a single blast. Ideal for keeping pressure on melee targets and getting up close and personal with ranged targets.\n\n•Standard Attack: Deals {[DamageTable.Blunderbuss_Primary_Attack.DmgCoef * 100]}% Thrust damage per pellet.</string>
 	<string key="MusketA_GroupName">Musket</string>
 	<string key="Muskets_GroupName">Muskets</string>
 	<string key="nut_GroupName">Nut</string>
@@ -1708,6 +1714,8 @@
 	<string key="TimberT5_GroupName">Tier 5 Timber</string>
 	<string key="TinctureBlight_GroupName">Blight Tinctures</string>
 	<string key="TinctureCorruption_GroupName">Corruption Tinctures</string>
+	<string key="Tokens_GroupName">Winter Convergence Tokens</string>
+	<string key="TokenCreation_GroupName">Token Creation</string>
 	<string key="TokenConversion_GroupName">Token Conversion</string>
 	<string key="ToolHatchet_GroupDesc">1-Handed. Gathers wood.</string>
 	<string key="ToolHatchet_GroupName">Hatchet</string>
@@ -1781,5 +1789,17 @@
 	<string key="Pattern">Patterns</string>
 	<string key="PatternRecipes">Pattern Recipes</string>
 	<string key="Lodestone">Lodestone</string>
+	<string key="AttributeStr">Strength</string>
+	<string key="AttributeDex">Dexterity</string>
+	<string key="AttributeInt">Intelligence</string>
+	<string key="AttributeFoc">Focus</string>
+	<string key="AttributeCon">Constitution</string>
+	<string key="TimelessShardsStr">Timeless Shards - Strength</string>
+	<string key="TimelessShardsDex">Timeless Shards - Dexterity</string>
+	<string key="TimelessShardsInt">Timeless Shards - Intelligence</string>
+	<string key="TimelessShardsFoc">Timeless Shards - Focus</string>
+	<string key="TimelessShardsCon">Timeless Shards - Constitution</string>
+	<string key="ArmorShadow_GroupName">Shadewalker</string>
+	<string key="ArmorBeast_GroupName">Beasthunter</string>
 </resources>
 
