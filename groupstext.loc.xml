@@ -22,7 +22,9 @@
 	<string key="ui_groupinviteacceptraid" comment="">Accepted group invite</string>
 	<string key="ui_groupinvitedeclinesentmessage" comment="">Declined group invite from &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt;.</string>
 	<string key="ui_groupinvitedeclineraid" comment="">Declined group invite</string>
-	<string key="ui_groupinvitewithdrawnreceivermessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; withdrew their group invite.</string>
+	<string key="ui_groupinvitewithdrawnreceivermessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; withdrew his group invite.</string>
+	<string key="ui_groupinvitewithdrawnreceivermessage_SHE" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; withdrew her group invite.</string>
+	<string key="ui_groupinvitewithdrawnreceivermessage_THEY" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; withdrew their group invite.</string>
 	<string key="ui_groupinvitewithdrawnsendermessage" comment="">Withdrew group invite to &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt;.</string>
 	<string key="ui_groupinvitewithdrawnraid" comment="">Group invite withdrawn</string>
 	<string key="ui_leftgroupmessage" comment="">Left Group</string>
@@ -64,7 +66,9 @@
 	<string key="ui_groupmaxinviteserrormessage" comment="">Can&apos;t invite {playerName}, you reached your max number of invites.</string>
 	<string key="ui_groupfromplayerofflineerrormessage" comment="">Group invite removed: {playerName} went offline.</string>
 	<string key="ui_groupinvitetoplayerofflineerrormessage" comment="">Group invite failed: {playerName} went offline.</string>
-	<string key="ui_grouptoplayerofflineerrormessage" comment="">Can&apos;t invite {playerName}, they are offline.</string>
+	<string key="ui_grouptoplayerofflineerrormessage" comment="">Can&apos;t invite {playerName}, he is offline.</string>
+	<string key="ui_grouptoplayerofflineerrormessage_SHE" comment="">Can&apos;t invite {playerName}, she is offline.</string>
+	<string key="ui_grouptoplayerofflineerrormessage_THEY" comment="">Can&apos;t invite {playerName}, they are offline.</string>
 	<string key="ui_groupinvitefailedgroupfullmessage" comment="">Group invite failed: {playerName}&apos;s group is now full.</string>
 	<string key="ui_groupinvitefailederrormessage" comment="">Failed to respond to invite from {playerName}'s group.</string>
 	<string key="ui_groupinvitefailedraid" comment="">Failed to respond to invite</string>

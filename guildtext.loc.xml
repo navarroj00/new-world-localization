@@ -1,7 +1,9 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_alignmentrequesttitle">Friendly Intentions</string>
 	<string key="ui_alignmentacceptedmessage">Friendly intentions exchanged with: &lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt;.</string>
-	<string key="ui_alignmentrequestrecipientmessage">&lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt; waved. To wave back, aim at them and press [{keybind}].</string>
+	<string key="ui_alignmentrequestrecipientmessage">&lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt; waved. To wave back, aim at him and press [{keybind}].</string>
+	<string key="ui_alignmentrequestrecipientmessage_SHE">&lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt; waved. To wave back, aim at her and press [{keybind}].</string>
+	<string key="ui_alignmentrequestrecipientmessage_THEY">&lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt; waved. To wave back, aim at them and press [{keybind}].</string>
 	<string key="ui_alignmentrequestsendermessage">Signaled friendly intentions to: &lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt;.</string>
 	<string key="ui_alignmenttimedoutrecipientmessage">Wave not returned. &lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt; might remember that.</string>
 	<string key="ui_alignmenttimedoutsendermessage">Your wave was not returned.</string>
@@ -90,7 +92,9 @@
 	<string key="ui_guildownershipchangemessage">Company ownership has been transferred to &lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt;.</string>
 	<string key="ui_guildownershipchangetitle">Company Ownership Change</string>
 	<string key="ui_guildsetmemberrankfailednoconsultitle">Must Have A Consul</string>
-	<string key="ui_guildsetmemberrankfailednoconsulmessage">Cannot change rank of {playerName}, as there are no other Consuls to take their place.</string>
+	<string key="ui_guildsetmemberrankfailednoconsulmessage">Cannot change rank of {playerName}, as there are no other Consuls to take his place.</string>
+	<string key="ui_guildsetmemberrankfailednoconsulmessage_SHE">Cannot change rank of {playerName}, as there are no other Consuls to take her place.</string>
+	<string key="ui_guildsetmemberrankfailednoconsulmessage_THEY">Cannot change rank of {playerName}, as there are no other Consuls to take their place.</string>
 	<string key="ui_guildpermissionstab">Permissions</string>
 	<string key="ui_guildranknameinusemessage">That rank name already exists.</string>
 	<string key="ui_guildoverviewtab">Overview</string>

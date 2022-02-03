@@ -126,11 +126,11 @@
 	<string key="1413_0201_spriggan_Start_Prompt" speaker="UI - Player Prompt">"Why do you say that?"</string>
 	<string key="1413_0201_spriggan_c_Proposal" speaker="Watcher Lin - Edengrove" VO_Status="Needs Recording" dialogue-next="@1413_0201_spriggan_c_Proposal_next">There was a naturalist here a few decades ago who disappeared after falling to the Blight.\n\nShe had discovered that there is an Angry Earth specimen here capable of replicating itself an infinite number of times... in the blink of an eye!</string>
 	<string key="1413_0201_spriggan_c_Proposal_prompt" speaker="UI - Player Prompt">"In Edengrove?"</string>
-	<string key="1413_0201_spriggan_c_Proposal_next" speaker="Watcher Lin - Edengrove" VO_Status="Needs Recording" dialogue-prompt="@1413_0201_spriggan_c_Proposal_prompt">Yes. As soon as the Corruption abates, this creature will clone itself until it's taken over all of Aeternum.\n\nThe creature abides in Zygoramet's Grove to the south. Search the ruins near there for a key, then enter the cleft and destroy it. Please... you must believe me.</string>
+	<string key="1413_0201_spriggan_c_Proposal_next" speaker="Watcher Lin - Edengrove" VO_Status="Needs Recording" dialogue-prompt="@1413_0201_spriggan_c_Proposal_prompt">Yes. As soon as the Corruption abates, this creature will duplicate itself until it's taken over all of Aeternum. \n\nThe creature abides in Zygoramet's Grove to the south. Search the ruins there for a key, then enter the cleft and destroy it. Please... you must believe me.</string>
 	<string key="1413_0201_spriggan_e_Incomplete" speaker="Watcher Lin - Edengrove" VO_Status="Needs Recording">I am not exaggerating. The creature inside Zygoramet's Grove will consume us all.\n\nYou must get a key to enter the Grove and destroy it.</string>
-	<string key="1413_0201_spriggan_f_Complete" speaker="Watcher Lin - Edengrove" VO_Status="Needs Recording" dialogue-next="@1413_0201_spriggan_f_Complete_next">You've returned? The creature is slain then? Damn, you're the first who's actually believed me.\n\nPeople might not realize it, but we're all a lot safer now.</string>
+	<string key="1413_0201_spriggan_f_Complete" speaker="Watcher Lin - Edengrove" VO_Status="Needs Recording" dialogue-next="@1413_0201_spriggan_f_Complete_next">Oh, you've returned? The creature is slain then? Damn, you're the first who's actually believed me. \n\nPeople might not realize it, but we're all a lot safer now.</string>
 	<string key="1413_0201_spriggan_f_Complete_prompt" speaker="UI - Player Prompt">"Are you sure it won't return?"</string>
-	<string key="1413_0201_spriggan_f_Complete_next" speaker="Watcher Lin - Edengrove" VO_Status="Needs Recording" dialogue-prompt="@1413_0201_spriggan_f_Complete_prompt">Not at all, in fact, I suspect that it will, given everything the naturalist said.\n\nIf the vile creature returns, however, we must be prepared to destroy it again. As many times as it takes.</string>
+	<string key="1413_0201_spriggan_f_Complete_next" speaker="Watcher Lin - Edengrove" VO_Status="Needs Recording" dialogue-prompt="@1413_0201_spriggan_f_Complete_prompt">Not at all. In fact, I suspect that it will, given everything the naturalist said. \n\nIf the vile creature returns, however, we must be prepared to destroy it again. As many times as it takes.</string>
 	<string key="1413_0201_key_goto" speaker="UI - Tracker Text">Search the ruins of {POITags} for a key to enter Zygoramet's Grove</string>
 	<string key="1413_0201_spriggan_getkey" speaker="UI - Tracker Text">Defeat {targetName} to collect an {itemName}</string>
 	<string key="1413_0201_spriggan_goto" speaker="UI - Tracker Text">Enter Zygoramet's Grove</string>
@@ -147,6 +147,10 @@
 	<string key="1403A_0301_f_Complete_Pt2" speaker="Survivalist Ellwood - Edengrove" name="SurvivalistEllwood" VO="SurvivalistA_1403A_0301_GKW_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@1403A_0301_f_Complete_Pt2Prompt">A cycle bigger than any of us, no matter how long we live. \n\nWe've played our parts in restoring the Garden, and the island can now begin the healing process. I'm proud of you, brave one.</string>
 	<string key="1416_0301_d_01_Task" speaker="UI">1416_0301_d_01_Task</string>
 	<string key="1416_0301_d_02_Task" speaker="UI">1416_0301_d_02_Task</string>
+	<string key="1434_Pyre_Enc_Title">Crying Out for Love</string>
+	<string key="1434_Pyre_Enc_Stage_02_Title">Crying Out for Love: Stage 1/3</string>
+	<string key="1434_Pyre_Enc_Stage_03_Title">Crying Out for Love: Stage 2/3</string>
+	<string key="1434_Pyre_Enc_Stage_04_Title">Crying Out for Love: Stage 3/3</string>
 	<string key="1420_0501_d_00_Containter_weaponwrapperquest" speaker="UI">Clamorous Vox</string>
 	<string key="1420_0501_d_01_Containter_weaponwrapperquest_sub_01" speaker="UI">Gathering Supplies</string>
 	<string key="1420_0501_d_02_Containter_weaponwrapperquest_sub_02" speaker="UI">Gathering Supplies</string>

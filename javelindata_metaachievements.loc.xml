@@ -97,10 +97,25 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_amrine_title">You Call This Archaeology?</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_obelisk_title">I Was Expecting More Of A Menhir</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_depths_title">Master And Commander</string>
-	<string key="ui_metachievement_pve_bossKill_dungeon_eradinus_title">Defense Mechanism</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_genesis_title">Problem Child</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_lazarus_title">Bullseye</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_shipyard_title">Dynasty Demolition</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1" rel_version="Feature_Dungeon_Mutators">Excavation Excitement</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title2" rel_version="Feature_Dungeon_Mutators">Back For More</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_obelisk_title1" rel_version="Feature_Dungeon_Mutators">Ancients Awoken</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_obelisk_title2" rel_version="Feature_Dungeon_Mutators">Overworking The Staff</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_depths_title1" rel_version="Feature_Dungeon_Mutators">Towering Triumphs</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_depths_title2" rel_version="Feature_Dungeon_Mutators">That Left A Mess</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_genesis_title1" rel_version="Feature_Dungeon_Mutators">Crashing The Creche</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_genesis_title2" rel_version="Feature_Dungeon_Mutators">That Accounts For The Smell</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_lazarus_title1" rel_version="Feature_Dungeon_Mutators">Just Not A Career Goal</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_lazarus_title2" rel_version="Feature_Dungeon_Mutators">Pools Of Ruin</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_shipyard_title1" rel_version="Feature_Dungeon_Mutators">Dynastic Cycles</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_shipyard_title2" rel_version="Feature_Dungeon_Mutators">A Ship Of Fail</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_isabellalair_title1" rel_version="Feature_Dungeon_Mutators">Another Descent Into Darkness</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_isabellalair_title2" rel_version="Feature_Dungeon_Mutators">Belly Of The Beast</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_barnacles_title1" rel_version="Feature_Dungeon_Mutators">Cavern Of Corruption</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_barnacles_title2" rel_version="Feature_Dungeon_Mutators">Treasure Island</string>
 	<string key="ui_metachievement_pve_arenascompleted_title">Arena Fighting</string>
 	<string key="ui_metachievement_pvp_killbyfaction_covenant_title1">A Damaging Belief</string>
 	<string key="ui_metachievement_pvp_killbyfaction_covenant_title2">Slowing Down The Zealots</string>
@@ -899,10 +914,18 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_amrine_desc">Defeat Simon Grey in Amrine Excavation.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_obelisk_desc">Defeat 'Greundgul the Regent' in Starstone Barrows.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_depths_desc">Defeat Commander Thorpe in The Depths.</string>
-	<string key="ui_metachievement_pve_bossKill_dungeon_eradinus_desc">Defeat Teceros in Eridanus Caverns.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_genesis_desc">Defeat the Blighted Greenskeeper in The Garden Of Genesis.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_lazarus_desc">Defeat Chardis in the Lazarus Instrumentality.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_shipyard_desc">Defeat Empress Zhou in the Dynasty Shipyard.</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_amrine_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Amrine Excavation, difficulty {number}.</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_obelisk_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Starstone Barrows, difficulty {number}.</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_depths_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete The Depths, difficulty {number}.</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_genesis_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete The Garden of Genesis, difficulty {number}.</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_lazarus_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Lazarus Instrumentality, difficulty {number}.</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_shipyard_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Dynasty Shipyard, difficulty {number}.</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_isabellalair_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete !undefined dungeon!, difficulty {number}.</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_barnacle_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Barnacles And Black Powder, difficulty {number}.</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_ennead_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete the Ennead, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_arenascompleted_desc">Complete {number} arena battles.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_covenant_desc">Personally defeat {number} Covenant players.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_marauder_desc">Personally defeat {number} Marauder players.</string>

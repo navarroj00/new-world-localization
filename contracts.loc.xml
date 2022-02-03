@@ -75,6 +75,7 @@
 	<string key="ui_selectallouposts">All Settlements</string>
 	<string key="ui_currentsellers">Current Sell orders</string>
 	<string key="ui_currentbuyers">Current Buy orders</string>
+	<string key="ui_store_item_cooldown_desc">&lt;font color="#ffdb7a"&gt;Once this item is purchased, you have to wait {cooldownDuraction} to purchase it again.&lt;/font&gt;</string>
 	<string key="ui_postordererror_outpostfull">You can't place a buy order because your outpost storage is full.</string>
 	<string key="ui_postordererror_outpostfull_button">OUTPOST STORAGE FULL</string>
 	<string key="ui_postordererror_buy_notenoughmoney">You don't have enough coin to place a buy order.</string>
@@ -116,6 +117,7 @@
 	<string key="ui_contract_failure_throttled">Request throttled. Please wait and try again.</string>
 	<string key="ui_contract_failure_coin_transferal_disabled">Coin transferal disabled.</string>
 	<string key="ui_contract_failure_trading_post_disabled">Trading post disabled.</string>
+	<string key="ui_contract_failure_cooldown">Can Purchase in : {cooldownTime} &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass.png" xPadding="0" scale="1.1" yOffset="2"&gt;&lt;/img&gt;</string>
 	<string key="ui_contract_failure_generic">Something went wrong. Please try again.</string>
 	<string key="ui_sell_instant_price">Instant Sell Price</string>
 	<string key="ui_buy_instant_price">Instant Buy Price</string>

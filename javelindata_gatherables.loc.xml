@@ -581,6 +581,7 @@
 	<string key="MSQ_0048_Blightbombs4_DisplayName">Plant Blight Bomb</string>
 	<string key="MSQ_0048_Blightbombs5_DisplayName">Plant Blight Bomb</string>
 	<string key="MSQ_0052_BombShip_DisplayName">Blight the Explosives</string>
+	<string key="MSQ_0052_BombCargo_DisplayName">Plant Blight Bomb</string>
 	<string key="AzothScript_DisplayName">Translate</string>
 	<string key="DG_Amrine_Grunt_DisplayName">Abomination</string>
 	<string key="DG_Amrine_ChestCandle_DisplayName">Foreman Nakashima's Tool Box</string>
@@ -676,14 +677,6 @@
 	<string key="0202_0101_Inquisitor_DisplayName">Inquisitor's Toolchest</string>
 	<string key="DungeonShatterMtn_LockCellar_DisplayName">Insert Cellar Key</string>
 	<string key="DungeonShatterMtn_MemoryFragment_DisplayName">Memory Fragment</string>
-	<string key="WinterConv_SettlementTree_T1_DisplayName" rel_version="Event_WinterConvergence_Temp">Forlorn Gift Pile</string>
-	<string key="WinterConv_SettlementTree_T2_DisplayName" rel_version="Event_WinterConvergence_Temp">Magnificent Gift Pile</string>
-	<string key="WinterConv_SettlementTree_T3_DisplayName" rel_version="Event_WinterConvergence_Temp">Exquisite Gift Pile</string>
-	<string key="WinterConv_Gleamite_Chunk_DisplayName" rel_version="Event_WinterConvergence_Temp">Gleamite Chunk</string>
-	<string key="WinterConv_Gleamite_Shard_DisplayName" rel_version="Event_WinterConvergence_Temp">Gleamite</string>
-	<string key="WinterConv_Village_GiftBag_DisplayName" rel_version="Event_WinterConvergence_Temp">Bountiful Gift Sack</string>
-	<string key="LostPresent00_DisplayName" rel_version="Event_WinterConvergence_Temp">Lost Present</string>
-	<string key="LostPresent01_DisplayName" rel_version="Event_WinterConvergence_Temp">Lost Present</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">War Camp Chest</string>
 	<string key="1130_ArcaneFocus1_DisplayName">Arcane Focus</string>
 	<string key="1130_ArcaneFocus2_DisplayName">Arcane Focus</string>
@@ -691,6 +684,7 @@
 	<string key="1130_ArcaneFocus4_DisplayName">Arcane Focus</string>
 	<string key="0726_BookOfIsabella_DisplayName">Book of Isabella</string>
 	<string key="1130_CursedAxe_DisplayName">Begin the Ritual</string>
+	<string key="0726_Gravestone_interact" rel_version="DEPRECATED_January_2022">Inspect Crewman's Grave</string>
 	<string key="Dynasty_Gong_DisplayName">Dynasty Gong</string>
 </resources>
 

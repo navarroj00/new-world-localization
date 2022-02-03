@@ -43,7 +43,7 @@
 	<string key="0901_0103_d_01_task">Hunt a {targetName}</string>
 	<string key="0901_0103_d_02_task" comment="targetName = &quot;Boar&quot;" speaker="UI" quest_id="S_boarproblem">Equip a Skinning Knife</string>
 	<string key="0901_0103_d_03_task" comment="itemName = &quot;Red Meat&quot;" speaker="UI" quest_id="S_boarproblem">Skin a Boar to Collect {itemName}</string>
-	<string key="0901_0103_d_04_task" speaker="UI" quest_id="S_boarproblem">Cook a Light Ration from the Health Recovery category at Watcher Linch's campfire</string>
+	<string key="0901_0103_d_04_task" speaker="UI" quest_id="S_boarproblem">Cook a Light Ration from the Recovery Foods category at Watcher Linch's campfire</string>
 	<string key="0901_0103_boarproblem_complete_availaible_response" comment="female" speaker="Watcher Linch - First Light" name="WatcherLinch" gender="F" quest_id="S_boarproblem" line_id="3" location="First Light Watchtower" VO="Watcher_0901_0103_boarproblem_AvailResponse" VO_Status="Recorded">Nothing beats the smell of fresh meat on an open fire, does it? I'm starting to get right hungry myself. \n\nAt any rate, now you can at least feed yourself.</string>
 	<string key="0901_0104_xmarksthespot_objective_title" speaker="UI - Journal - Quest  Title" quest_id="0901_0104_xmarksthespot">Splinters on the Shore</string>
 	<string key="0901_0104_xmarksthespot_start_prompt" speaker="UI - Player Prompt" quest_id="0901_0104_xmarksthespot">"Why is the storm such a problem?"</string>

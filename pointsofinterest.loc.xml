@@ -71,7 +71,6 @@
 	<string key="ui_poi_banner_07SM06_Basilica">Basilica</string>
 	<string key="ui_poi_banner_07SM06_Quarry">Quarry</string>
 	<string key="ui_poi_banner_10WS09_Court">Stone Skull Court</string>
-	<string key="ui_poi_banner_16BS10_Khepri">Solarium Khepri</string>
 	<string key="ui_poi_bear_den_40225">Pebblepot Cave</string>
 	<string key="ui_poi_bear_den_ramshead_60404">Ramshead Cave</string>
 	<string key="ui_poi_blightcave_50417">Rotfellow Hovel</string>
@@ -1746,19 +1745,25 @@
 	<string key="ui_poi_yeti_50424_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
 	<string key="ui_poi_yeti_60352">High-Pass Hidey-Hole</string>
 	<string key="ui_poi_yeti_60352_description">Landmark</string>
-	<string key="ui_poi_40348_wintervillage" rel_version="Event_WinterConvergence_Temp">Winter Village</string>
-	<string key="ui_poi_40348_wintervillage_description" rel_version="Event_WinterConvergence_Temp">A mysterious village, as snowy as it is jovial, has appeared in Aeternum. Welcome to Winter Convergence!</string>
-	<string key="ui_poi_wintervillage_50151" rel_version="Event_WinterConvergence_Temp">Winter Village</string>
-	<string key="ui_poi_wintervillage_50151_description" rel_version="Event_WinterConvergence_Temp">A mysterious village, as snowy as it is jovial, has appeared in Aeternum. Welcome to Winter Convergence!</string>
-	<string key="ui_poi_50300_wintervillage" rel_version="Event_WinterConvergence_Temp">Winter Village</string>
-	<string key="ui_poi_50300_wintervillage_description" rel_version="Event_WinterConvergence_Temp">A mysterious village, as snowy as it is jovial, has appeared in Aeternum. Welcome to Winter Convergence!</string>
-	<string key="ui_poi_wintervillage_30145" rel_version="Event_WinterConvergence_Temp">Winter Village</string>
-	<string key="ui_poi_wintervillage_30145_description" rel_version="Event_WinterConvergence_Temp">A mysterious village, as snowy as it is jovial, has appeared in Aeternum. Welcome to Winter Convergence!</string>
 	<string key="ui_poi_factionarea_40284">Ravenridge Grazing Lands</string>
 	<string key="ui_poi_factionarea_40285">West of Meadow Lake</string>
 	<string key="ui_poi_factionarea_40286">Faith's Crossroad</string>
 	<string key="ui_poi_factionarea_30146">East Werna Beach</string>
 	<string key="ui_poi_factionarea_30147">Key to Werna</string>
 	<string key="ui_poi_factionarea_30148">Devil's Sea Arch</string>
+	<string key="ui_poi_spiritshrine_03_50152">Lazarus Shrine</string>
+	<string key="ui_poi_spiritshrine_03_50152_description">Spirit Shrine</string>
+	<string key="ui_poi_spiritshrine_04_50153">Eternal Shrine</string>
+	<string key="ui_poi_spiritshrine_04_50153_description">Spirit Shrine</string>
+	<string key="ui_poi_spiritshrine_05_50154">Melpomene's Shrine</string>
+	<string key="ui_poi_spiritshrine_05_50154_description">Spirit Shrine</string>
+	<string key="ui_poi_spiritshrine_03_40175">Starstone Gate</string>
+	<string key="ui_poi_spiritshrine_03_40175_description">Spirit Shrine</string>
+	<string key="ui_poi_spiritshrine_04_40176">Excavated Shrine</string>
+	<string key="ui_poi_spiritshrine_04_40176_description">Spirit Shrine</string>
+	<string key="ui_poi_spiritshrine_04_50425">Genesis Shrine</string>
+	<string key="ui_poi_spiritshrine_04_50425_description">Spirit Shrine</string>
+	<string key="ui_poi_spiritshrine_02_60240">Shiresad Shrine</string>
+	<string key="ui_poi_spiritshrine_02_60240_description">Spirit Shrine</string>
 </resources>
 

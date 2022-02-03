@@ -141,7 +141,7 @@
 	<string key="9901_0015_itmustflow_destroytendrils" speaker="UI - Quest Description">Cut down Corrupt Tendrils sprouting near the Canary Mine</string>
 	<string key="9901_0015_itmustflow_destroyclots" speaker="UI - Quest Description">Destroy Clotting Carapaces blocking the azoth underground</string>
 	<string key="9902_0015_itmustflow_objective_desc" speaker="UI - Quest Description">Explore the mines and purge whatever might be blocking the flow to Adiana's azoth fountain.</string>
-	<string key="9902_0016_corruptiontincture_objective_title" speaker="UI  - Quest Title">Weakness of the Ego</string>
+	<string key="9902_0016_corruptiontincture_objective_title" speaker="UI - Quest Title">Weakness of the Ego</string>
 	<string key="9902_0016_corruptiontincture_start_prompt" speaker="UI - Player Prompt">"I need a seed of the Angry Earth."</string>
 	<string key="9902_0016_corruptiontincture_proposal" speaker="Adiana Theron" name="AdianaTheron" gender="F" VO="MSQAdiana_9902_0016_corruptiontincture_ProposalResponse" VO_Status="Recorded" dialogue-next="@9902_0016_corruptiontincture_proposal_next">Hah. Do you even realize how much you ask? How much your kind has already taken? \n\nThe Angry Earth will want to know the truth: do you plan to use this seed to fight Corruption?</string>
 	<string key="9902_0016_corruptiontincture_proposal_prompt" speaker="UI - Player Prompt">"Yes, I do."</string>
@@ -163,13 +163,13 @@
 	<string key="9902_0017_landcriesout_complete_available_response_prompt2" speaker="UI - Player Prompt">"What about the living seed?"</string>
 	<string key="9902_0017_landcriesout_complete_available_response_next2" speaker="Adiana Theron" name="AdianaTheron" gender="F" VO="MSQAdiana_9902_0017_landcriesout_CompleteNext3" VO_Status="Recorded" dialogue-prompt="@9902_0017_landcriesout_complete_available_response_prompt2">Your request has been granted, human. You should realize that this required a sacrifice, and it's not a gift that would be given freely again.\n\nStill, you are a fine representative for humanity. I hope this seed protects you well.</string>
 	<string key="9902_0017_landcriesout_objective_desc" speaker="UI  - Quest Description">Adiana wonders what the Ebonrock Corrupted are planning. She asks you to travel to Ebonrock Cavern to uncover their foul machinations. Destroy any Corrupted who stand in your way.</string>
-	<string key="9901_0017_landcriesout_travelto" speaker="UI  - Quest Description">Confront the Corrupted at {POITags}</string>
-	<string key="9901_0017_landcriesout_destroycorrupted" speaker="UI  - Quest Description">Destroy {targetName} in Ebonrock Cavern</string>
-	<string key="9901_0017_landcriesout_findclues" speaker="UI  - Quest Description">Search Ebonrock Cavern for clues of the Corrupteds' intentions</string>
-	<string key="9901_0017_landcriesout_findweapons" speaker="UI  - Quest Description">Find the first clue</string>
-	<string key="9901_0017_landcriesout_findcorruption" speaker="UI  - Quest Description">Find the second clue</string>
-	<string key="9901_0017_landcriesout_findplans" speaker="UI  - Quest Description">Find the third clue</string>
-	<string key="9902_0018_returntoyonas_objective_title" speaker="UI  - Quest Title">Nature's Gifts</string>
+	<string key="9901_0017_landcriesout_travelto" speaker="UI - Quest Description">Confront the Corrupted at {POITags}</string>
+	<string key="9901_0017_landcriesout_destroycorrupted" speaker="UI - Quest Description">Destroy {targetName} in Ebonrock Cavern</string>
+	<string key="9901_0017_landcriesout_findclues" speaker="UI - Quest Description">Search Ebonrock Cavern for clues of the Corrupteds' intentions</string>
+	<string key="9901_0017_landcriesout_findweapons" speaker="UI - Quest Description">Find the first clue</string>
+	<string key="9901_0017_landcriesout_findcorruption" speaker="UI - Quest Description">Find the second clue</string>
+	<string key="9901_0017_landcriesout_findplans" speaker="UI - Quest Description">Find the third clue</string>
+	<string key="9902_0018_returntoyonas_objective_title" speaker="UI - Quest Title">Nature's Gifts</string>
 	<string key="9902_0018_returntoyonas_start_prompt" speaker="UI - Player Prompt">[BLANK]</string>
 	<string key="9902_0018_returntoyonas_proposal" speaker="n/a" gender="F" VO="9902_0018_returntoyonas_proposal">[BLANK]</string>
 	<string key="9902_0018_returntoyonas_incomplete" speaker="Adiana Theron" name="AdianaTheron" gender="F" VO="MSQAdiana_9902_0018_returntoyonas_InProgResponse" VO_Status="Recorded">You have what you need, so begone from here.\n\nThis is no longer a place for humans.</string>
@@ -182,7 +182,7 @@
 	<string key="9901_0013_argentandaether_proposal" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0013_argentandaether_ProposalResponse" VO_Status="Recorded" dialogue-next="@9901_0013_argentandaether_proposal_next">You can't. We had to melt them all down to make weapons during the last war.\n\nThe good news is that you're strong and clever and can make one yourself!</string>
 	<string key="9901_0013_argentandaether_proposal_prompt" speaker="UI - Player Prompt">"Alright, just tell me what I need."</string>
 	<string key="9901_0013_argentandaether_proposal_next" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0013_argentandaether_CompleteNext" VO_Status="Needs Re-recording" dialogue-prompt="@9901_0013_argentandaether_proposal_prompt">Silver. A not-insignificant quantity, either. And then it must be forged at Mirador Forge.\n\nIt's an Ancient Forge we used - I even remember the glow at dusk, and old forgemaster Ezra… no idea what state it's in now.</string>
-	<string key="9901_0013_argentandaether_incomplete" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0013_argentandaether_InProgResponse" VO_Status="Needs Re-recording">Forge yourself a crosspiece yet?\n\nI hope Mirador Forge still retains some of its old glory.\n\nMind you don't forget to bring your silver ingots.</string>
+	<string key="9901_0013_argentandaether_incomplete" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0013_argentandaether_InProgResponse" VO_Status="Needs Re-recording">Hey, forge yourself a crosspiece yet? \n\nI hope Mirador Forge still retains some of its old glory. \n\nMind you don't forget to bring your silver ingots.</string>
 	<string key="9901_0013_argentandaether_complete_available_response" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0013_argentandaether_AvailResponse" VO_Status="Recorded">Ah, the prodigal child returns, and with a shiny silver crosspiece as well! This will do nicely.\n\nTell me… no… old Ezra was there? He hated letting the forge go cold. Perhaps you gave him some release.</string>
 	<string key="9901_0013_argentandaether_objective_desc" speaker="UI  - Quest Description">You'll need silver to make your crosspiece, and a forge of supernatural strength. Acquire silver ingots, then travel to Mirador Forge to make the crosspiece.</string>
 	<string key="9901_0013_argentandaether_acquiresilver" speaker="UI - Tracker Text">Acquire Silver Ingots for Your Azoth Staff Crosspiece</string>
@@ -447,7 +447,15 @@
 	<string key="9901_0035_herewestand_complete_available_response" comment="9901_0035_herewestand_incomplete" speaker="Warden Scout Titus" name="WardenScoutTitus" gender="M" VO="9901_0035_herewestand_complete_available_response" VO_Status="Recorded">Keep your voice down! Thorpe has eyes and ears all over Restless Shore.\n\nI'm the last Warden scout left - the others let their guard down. Thorpe found them.</string>
 	<string key="9901_0035_GoTo1" speaker="UI">Find the stairway to Tirla Beacon</string>
 	<string key="9901_0035_GoTo2" speaker="UI">Climb the Stairs to Tirla Beacon</string>
-	<string key="9901_MSQ_TravelToPOI_Depths" speaker="UI">Enter the Depths Expedition and Confront Commander Thorpe</string>
+	<string key="9901_MSQ_Depths2" speaker="UI">Find Commander Thorpe in the Depths</string>
+	<string key="9901_0036_d_02_Do_Solo" speaker="UI">Harass Thorpe's Loyalists in Great Cleave</string>
+	<string key="9901_0036_d_00_container_partial_Expedition" speaker="UI">OR:</string>
+	<string key="9901_0036_masterofthetempest_objective_solo_title" speaker="UI">Hounding the Master</string>
+	<string key="9901_0036_masterofthetempest_solo_objective_desc" speaker="UI">As an alternative to challenging Thorpe in the Depths Expediton, Work with Titus to draw the Tyrant out so that you may fight him on your own terms.</string>
+	<string key="9901_MSQ_TravelToPOI_Depths" speaker="UI">Enter the Depths Expedition and Confront Commander Thorpe [Group]</string>
+	<string key="9901_0036_d_00_container_partial_SoloQuest">Challenge and Defeat Commander Thorpe:</string>
+	<string key="9901_0036_d_00_TalkToTitus">Talk to Titus for Another Option [Solo]</string>
+	<string key="9901_0036_d_00_CompleteSolo">Complete Quest: Hounding the Master [Solo]</string>
 	<string key="9901_0036_masterofthetempest_objective_title" speaker="UI - Quest Title">Into the Depths</string>
 	<string key="9901_0036_masterofthetempest_objective_desc" speaker="UI - Quest Description">Finally, the battle with Commander Thorpe has arrived. Make your way through the Depths and take him down.</string>
 	<string key="9901_0036_masterofthetempest_start_prompt" speaker="UI - Player Prompt">"So everyone else is dead?"</string>
@@ -663,16 +671,27 @@
 	<string key="9902_0052_saboteur_complete_available_response_next" speaker="Adiana Theron" name="AdianaTheron" gender="F" VO="9902_0052_saboteur_complete_available_response_prompt" VO_Status="Recorded" dialogue-next="@9902_0052_saboteur_complete_available_response_next2" dialogue-prompt="@9902_0052_saboteur_complete_available_response_prompt">Your plan to Blight the Motherwell seems much too risky. What if you fail to defeat the Tempest? \n\nIf the Corruption remains, the Motherwell will be lost to us forever…</string>
 	<string key="9902_0052_saboteur_complete_available_response_prompt2" speaker="UI - Player Prompt">"I won't fail."</string>
 	<string key="9902_0052_saboteur_complete_available_response_next2" speaker="Adiana Theron" name="AdianaTheron" gender="F" VO="9902_0052_saboteur_complete_available_response_prompt2" VO_Status="Recorded" dialogue-prompt="@9902_0052_saboteur_complete_available_response_prompt2">You ask for so much trust. More trust than the Angry Earth has ever put into any human. \n\nBut up until now, you have proven yourself trustworthy…</string>
-	<string key="9902_0052_TravelTo_Empress" speaker="UI">Travel to the Dynasty Shipyard</string>
-	<string key="9902_0052_TravelTo_Empress2" speaker="UI">Venture into the Dynasty Shipyard Expedition</string>
+	<string key="9902_0052_d_00_container_partial_Expedition" speaker="UI">OR:</string>
+	<string key="9902_0052_SabotageTheEmpress" speaker="UI">Sabotage the Fleet in Myrkgard Expedition</string>
+	<string key="9904_0052_deployblightbombs" speaker="UI">Place Blight Bombs in Cargo Piles destined for the Fleet</string>
+	<string key="9904_0052_deployblightbombs2" speaker="UI">Place a Blight Bomb in the Cargo Pile</string>
+	<string key="9904_0052_deployblightbombs3" speaker="UI">Place a Blight Bomb in the Cargo Pile</string>
+	<string key="9902_KillGenerals" speaker="UI">Defeat the forces of the Empress</string>
+	<string key="9902_0052_TravelTo_Empress" speaker="UI">Sabotage the Fleet at the Dynasty Shipyard [Group]</string>
+	<string key="9902_0052_TravelTo_Empress2" speaker="UI">Venture into the Dynasty Shipyard Expedition [Group]</string>
 	<string key="9902_0052_interactship1" speaker="UI">Sabotage the First Ship</string>
 	<string key="9902_0052_interactship2" speaker="UI">Sabotage the Second Ship</string>
 	<string key="9902_0052_interactship3" speaker="UI">Sabotage the Third Ship</string>
 	<string key="9902_0052_interactship4" speaker="UI">Sabotage the Last of the Corrupted Fleet</string>
 	<string key="9902_0052_ChallengeDynasty" speaker="UI">Challenge the Empress directly</string>
+	<string key="9902_0052_d_00_container_partial_SoloQuest">Sow blight and disorder amongst the forces of the Empress:</string>
+	<string key="9902_0052_d_00_task_TalkToAdiana">Talk to Adiana for Options [Solo]</string>
+	<string key="9902_0052_d_00_CompleteSolo">Complete Quest: Hit the Decks [Solo]</string>
+	<string key="9902_0052_saboteur_solo_objective_title" speaker="UI">Hit the Decks</string>
+	<string key="9902_0052_saboteur_solo_objective_desc" speaker="UI">As an alternative to attacking the Empress and her fleet in the Myrkgard Expediton, take the blight bombs and plant them in the cargo being brought out to the fleet from the docks. While you're there, defeat the Generals of the fleet to disrupt their leadership.</string>
 	<string key="9907_0053_blessingofearth_objective_title" speaker="UI - Quest Title">Blessings of Earth</string>
 	<string key="9907_0053_BlessingsOfTheEarth" speaker="UI">Gain the favor of the residents of the glade</string>
-	<string key="9907_0053_blessingofearth_objective_desc" speaker="UI  - Quest Description">Make offerings to the villagers to gain their favor.</string>
+	<string key="9907_0053_blessingofearth_objective_desc" speaker="UI - Quest Description">Make offerings to the villagers to gain their favor.</string>
 	<string key="9907_0053_blessingofearth_start_prompt" speaker="UI - Player Prompt">"Who do I need to ask?"</string>
 	<string key="9907_0053_blessingofearth_proposal" speaker="Adiana Theron" name="AdianaTheron" gender="F" VO="9907_0053_blessingofearth_start_prompt" VO_Status="Recorded">You must make offerings to the denizens of this place.\n\nThey will be able to sense your intentions. If the offerings are accepted, you will have the blessing of the Angry Earth to carry out your plan.</string>
 	<string key="9907_0053_blessingofearth_incomplete" speaker="Adiana Theron" name="AdianaTheron" gender="F" VO="9907_0053_blessingofearth_proposal" VO_Status="Recorded">Make your offerings to earn your blessing.\n\nI would suggest being very generous.</string>
@@ -743,11 +762,11 @@
 	<string key="9910_0056_thetempestsheart_objective_title" speaker="UI - Quest Title">Fortress at the Threshold</string>
 	<string key="9910_0056_thetempestsheart_objective_desc" speaker="UI - Quest Description">Find the Soulwardens at Mountainhome Outpost, and offer your help.</string>
 	<string key="9910_0056_thetempestsheart_start_prompt" speaker="UI - Player Prompt">"That's when the Tempest's soul touched shore."</string>
-	<string key="9910_0056_thetempestsheart_proposal" speaker="Gristle the Bear" name="GristleTheBear" gender="M" VO="9910_0056_thetempestsheart_start_prompt" VO_Status="Recorded" dialogue-next="@9910_0056_thetempestsheart_proposal_next">Is that right? I bet the Corruption sensed it. \n\nHuman souls tend to be pretty noisy.</string>
+	<string key="9910_0056_thetempestsheart_proposal" speaker="Gristle the Bear" name="GristleTheBear" gender="M" VO="9901_0056_thetempestsheart_start_prompt" VO_Status="Recorded" dialogue-next="@9910_0056_thetempestsheart_proposal_next">Is that right? I bet the Corruption sensed it. \n\nHuman souls tend to be pretty noisy.</string>
 	<string key="9910_0056_thetempestsheart_proposal_prompt" speaker="UI - Player Prompt">"Alright, so where do I go?"</string>
-	<string key="9910_0056_thetempestsheart_proposal_next" speaker="Gristle the Bear" name="GristleTheBear" gender="M" VO="9910_0056_thetempestsheart_proposal_prompt" VO_Status="Recorded" dialogue-prompt="@9910_0056_thetempestsheart_proposal_prompt">The place humans call Mountainhome… which is a strange coincidence, because I called my cave the same thing.\n\nBut yes, that's where your people fight the Corruption. Go and be with them. They need you.</string>
-	<string key="9910_0056_thetempestsheart_incomplete" speaker="Gristle the Bear" name="GristleTheBear" gender="M" VO="9910_0056_thetempestsheart_proposal_next" VO_Status="Recorded">If you so happen back this way, feel free to bring some fish.\n\nSlim pickings around here.</string>
-	<string key="9910_0056_thetempestsheart_complete_available_response" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="9910_0056_thetempestsheart_incomplete" VO_Status="Recorded">Well, I was wondering if you'd ever join us here on the front lines. Though you might be too late. \n\nIf you haven't heard yet, we may be on the verge of abandoning this position.</string>
+	<string key="9910_0056_thetempestsheart_proposal_next" speaker="Gristle the Bear" name="GristleTheBear" gender="M" VO="9901_0056_thetempestsheart_proposal_prompt" VO_Status="Recorded" dialogue-prompt="@9910_0056_thetempestsheart_proposal_prompt">The place humans call Mountainhome… which is a strange coincidence, because I called my cave the same thing.\n\nBut yes, that's where your people fight the Corruption. Go and be with them. They need you.</string>
+	<string key="9910_0056_thetempestsheart_incomplete" speaker="Gristle the Bear" name="GristleTheBear" gender="M" VO="9901_0056_thetempestsheart_proposal_next" VO_Status="Recorded">If you so happen back this way, feel free to bring some fish.\n\nSlim pickings around here.</string>
+	<string key="9910_0056_thetempestsheart_complete_available_response" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="9901_0056_thetempestsheart_incomplete" VO_Status="Recorded">Well, I was wondering if you'd ever join us here on the front lines. Though you might be too late. \n\nIf you haven't heard yet, we may be on the verge of abandoning this position.</string>
 	<string key="9910_0056_thetempestsheart_complete_available_response_alt" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="9909_0044_thetempestsheart_complete_available_response_alt" VO_Status="Recorded" dialogue-next="@9910_0056_thetempestsheart_complete_available_response_next_alt">I was wondering when you'd show up. For us Soulwardens, all paths lead to Shattered Mountain.</string>
 	<string key="9910_0056_thetempestsheart_complete_available_response_prompt_alt" speaker="UI - Player Prompt">"I'm here to defeat the Tempest."</string>
 	<string key="9910_0056_thetempestsheart_complete_available_response_next_alt" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="9909_0044_thetempestsheart_complete_available_response_next_alt" VO_Status="Recorded" dialogue-prompt="@9910_0056_thetempestsheart_complete_available_response_prompt_alt">Thing is, there's a barrier blocking the way into Shattered Mountain. Until we figure out how to dispel it, we can't get to the Tempest at all. \n\nI promise, we will figure it out. Until then, there's plenty to do around here.</string>
@@ -789,7 +808,7 @@
 	<string key="9926_0101_TenaciousRose_incomplete" speaker="Abigail Rose" name="AbigailRose" gender="F" VO="9926_0101_TenaciousRose_incomplete" VO_Status="Needs Recording" rel_version="AI_Evil_Knights_P1">Have you figured out what these trespassers are doing in my Keep?\n\nWhatever it takes to get rid of them, I'm up for it.</string>
 	<string key="9926_0101_TenaciousRose_complete_available_response" speaker="Abigail Rose" name="AbigailRose" gender="F" VO="9926_0101_TenaciousRose_complete_available_response" VO_Status="Needs Recording" dialogue-next="@9926_0101_TenaciousRose_complete_available_response_next" rel_version="AI_Evil_Knights_P1">Ah, you dealt that laughing bastard a thrashing? Well done! The wolves finally met a more vicious wolf! \n\nThis doesn’t mean I trust you, by the way. But I can’t argue with your results. Did you learn why they're here?</string>
 	<string key="9926_0101_TenaciousRose_complete_available_response_prompt" speaker="UI - Player Prompt" rel_version="AI_Evil_Knights_P1">“These orders have some clues.”</string>
-	<string key="9926_0101_TenaciousRose_complete_available_response_next" speaker="Abigail Rose" name="AbigailRose" gender="F" VO="9926_0101_TenaciousRose_complete_available_response_next" VO_Status="Needs Recording" dialogue-prompt="@9926_0101_TenaciousRose_complete_available_response_prompt" rel_version="AI_Evil_Knights_P1">Hmmph! Let's see… ‘Varangians,’ eh? Never heard of them. Not much to work with here, but I didn't expect much anyways.\n\nBackup plan, I'll surround the Keep with enough traps so those bastards will regret they ever came here. Heh!</string>
+	<string key="9926_0101_TenaciousRose_complete_available_response_next" speaker="Abigail Rose" name="AbigailRose" gender="F" VO="9926_0101_TenaciousRose_complete_available_response_next" VO_Status="Needs Recording" dialogue-prompt="@9926_0101_TenaciousRose_complete_available_response_prompt" rel_version="AI_Evil_Knights_P1">Hmmph! Let's see… ‘Varangians,’ eh? Never heard of them. Not much to work with here, but I didn't expect much anyways.\n\nBackup plan, I'll surround the Keep with enough traps so those bastards regret they ever came here. Heh!</string>
 	<string key="9926_0101_TenaciousRose_GoToPOI_WarCamp" speaker="UI" rel_version="AI_Evil_Knights_P1">Visit {POITags} and Confront the Raiders' Leader</string>
 	<string key="9926_0101_TenaciousRose_Search_LorePage" speaker="UI" rel_version="AI_Evil_Knights_P1">Search for "Orders from Attalus"</string>
 	<string key="9926_0101_TenaciousRose_GotoPOI_StonereachKeep" speaker="UI" rel_version="AI_Evil_Knights_P1">Investigate Stonereach Keep for clues to the Raiders' purpose here</string>

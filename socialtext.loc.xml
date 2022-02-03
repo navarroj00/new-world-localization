@@ -213,7 +213,8 @@
 	<string key="ui_reply">Reply</string>
 	<string key="ui_report_header">Report: {playerName}</string>
 	<string key="ui_report_player_type">Please provide a brief description of the violation (required)</string>
-	<string key="ui_reportreason_abusive_chat">Abusive Chat</string>
+	<string key="ui_reportreason_abusive_chat">Abusive Text Chat</string>
+	<string key="ui_reportreason_abusive_voice_chat">Abusive Voice Chat</string>
 	<string key="ui_reportreason_cheating">Cheating</string>
 	<string key="ui_reportreason_griefing">Harassment</string>
 	<string key="ui_reportreason_offensive_name">Player Name</string>
@@ -221,6 +222,7 @@
 	<string key="ui_reportreason_coinselling">Selling Coin</string>
 	<string key="ui_reportreason_botbehavior">Bot Behavior</string>
 	<string key="ui_reportreason_abusive_chat_description">Hate speech, insults, or cruelty directed at one or more players.</string>
+	<string key="ui_reportreason_abusive_voice_chat_description">Hate speech, insults, or cruelty directed at one or more players.</string>
 	<string key="ui_reportreason_cheating_description">Bugs or exploits used to gain an advantage.</string>
 	<string key="ui_reportreason_griefing_description">Griefing or inappropriate behavior.</string>
 	<string key="ui_reportreason_offensive_name_description">Inappropriate or offensive name.</string>

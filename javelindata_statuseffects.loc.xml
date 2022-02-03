@@ -394,6 +394,74 @@
 	<string key="FoodHarvesterT5_Effect_DisplayName">Harvesting Luck V</string>
 	<string key="FoodHunterT5_Effect_DisplayName">Skinning Luck V</string>
 	<string key="FoodLumberjackT5_Effect_DisplayName">Logging Luck V</string>
+	<string key="Mut_Disease_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Festering I</string>
+	<string key="Mut_Disease_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Festering II</string>
+	<string key="Mut_Disease_1_DisplayName" rel_version="Feature_Dungeon_Mutators">Minor Disease</string>
+	<string key="Mut_Disease_1_Tooltip" rel_version="Feature_Dungeon_Mutators">Reduces healing taken by {[Type_StatusEffectData.Mut_Disease_1.HealMod * -100]}%, stacking {[Type_StatusEffectData.Mut_Disease_1.StackMax]} times.</string>
+	<string key="Mut_Disease_2_DisplayName" rel_version="Feature_Dungeon_Mutators">Disease</string>
+	<string key="Mut_Disease_2_Tooltip" rel_version="Feature_Dungeon_Mutators">Reduces healing taken by {[Type_StatusEffectData.Mut_Disease_2.HealMod * -100]}%, stacking {[Type_StatusEffectData.Mut_Disease_2.StackMax]} times.</string>
+	<string key="Mut_LifeSteal_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Vampiric I</string>
+	<string key="Mut_LifeSteal_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Vampiric II</string>
+	<string key="Mut_ProjectileShield_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Phalanx</string>
+	<string key="Mut_RotatingBeam_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Slicer</string>
+	<string key="Mut_Fir_Damage_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Ignited</string>
+	<string key="Mut_Fir_Resist_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Fire Resist I</string>
+	<string key="Mut_Fir_Resist_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Fire Resist II</string>
+	<string key="Mut_Fir_Burn_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Fiery I</string>
+	<string key="Mut_Fir_Burn_1_Effect_DisplayName" rel_version="Feature_Dungeon_Mutators">Singed Burn I</string>
+	<string key="Mut_Fir_Burn_1_Effect_ToolTip" rel_version="Feature_Dungeon_Mutators">Burning for {[Type_StatusEffectData.Mut_Fir_Burn_1_Effect.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.Mut_Fir_Burn_1_Effect.TickRate]} seconds for {[Type_StatusEffectData.Mut_Fir_Burn_1_Effect.BaseDuration]} seconds.</string>
+	<string key="Mut_Fir_Burn_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Fiery II</string>
+	<string key="Mut_Fir_Burn_2_Effect_DisplayName" rel_version="Feature_Dungeon_Mutators">Singed Burn II</string>
+	<string key="Mut_Fir_Burn_2_Effect_ToolTip" rel_version="Feature_Dungeon_Mutators">Burning for {[Type_StatusEffectData.Mut_Fir_Burn_2_Effect.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.Mut_Fir_Burn_2_Effect.TickRate]} seconds for {[Type_StatusEffectData.Mut_Fir_Burn_2_Effect.BaseDuration]} seconds.</string>
+	<string key="Mut_Fir_AOE_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Enflamed I</string>
+	<string key="Mut_Fir_AOE_1_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators">Enflamed Burn I</string>
+	<string key="Mut_Fir_AOE_1_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Burning for {[Type_StatusEffectData.Mut_Fir_AOE_1_Damage.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.Mut_Fir_AOE_1_Damage.TickRate]} seconds.</string>
+	<string key="Mut_Fir_AOE_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Enflamed II</string>
+	<string key="Mut_Fir_AOE_2_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators">Enflamed Burn II</string>
+	<string key="Mut_Fir_AOE_2_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Burning for {[Type_StatusEffectData.Mut_Fir_AOE_2_Damage.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.Mut_Fir_AOE_2_Damage.TickRate]} seconds.</string>
+	<string key="Mut_Fir_Death_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Explosive</string>
+	<string key="Mut_Voi_Damage_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Abyssal</string>
+	<string key="Mut_Voi_Resist_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Void Resist I</string>
+	<string key="Mut_Voi_Resist_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Void Resist II</string>
+	<string key="Mut_Voi_Stacks_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Paranoid I</string>
+	<string key="Mut_Voi_Stacks_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Paranoid II</string>
+	<string key="Mut_Voi_Stacks_1_Effect_DisplayName" rel_version="Feature_Dungeon_Mutators">Paranoia I</string>
+	<string key="Mut_Voi_Stacks_1_Effect_Tooltip" rel_version="Feature_Dungeon_Mutators">Filled with dread for {[Type_StatusEffectData.Mut_Lig_Stacks_1_Effect.BaseDuration]} seconds. At {[Type_StatusEffectData.Mut_Voi_Stacks_1_Effect.AddOnStackSize]} stacks, causes a void burst to appear at your location.</string>
+	<string key="Mut_Voi_Stacks_2_Effect_DisplayName" rel_version="Feature_Dungeon_Mutators">Paranoia II</string>
+	<string key="Mut_Voi_Stacks_2_Effect_Tooltip" rel_version="Feature_Dungeon_Mutators">Filled with dread for {[Type_StatusEffectData.Mut_Lig_Stacks_2_Effect.BaseDuration]} seconds. At {[Type_StatusEffectData.Mut_Voi_Stacks_2_Effect.AddOnStackSize]} stacks, causes a void burst to appear at your location.</string>
+	<string key="Mut_Voi_Leech_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Oblivion I</string>
+	<string key="Mut_Voi_Leech_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Oblivion II</string>
+	<string key="Mut_Voi_Leech_1_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators">Oblivion Leech I</string>
+	<string key="Mut_Voi_Leech_2_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators">Oblivion Leech II</string>
+	<string key="Mut_Voi_Leech_1_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Taking {[Type_StatusEffectData.Mut_Voi_Leech_1_Damage.HealthModifierDamageBased * -100]}% base Void damage and healing the caster {[Type_AbilityData.Mut_Voi_Leech_1_Heal.DmgPctToHealth * 100]}% of damage dealt, every {[Type_StatusEffectData.Mut_Voi_Leech_1_Damage.TickRate]} seconds.</string>
+	<string key="Mut_Voi_Leech_2_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Taking {[Type_StatusEffectData.Mut_Voi_Leech_2_Damage.HealthModifierDamageBased * -100]}% base Void damage and healing the caster {[Type_AbilityData.Mut_Voi_Leech_2_Heal.DmgPctToHealth * 100]}% of damage dealt, every {[Type_StatusEffectData.Mut_Voi_Leech_2_Damage.TickRate]} seconds.</string>
+	<string key="Mut_Voi_Leech_1_Heal_DisplayName" rel_version="Feature_Dungeon_Mutators">Oblivion Leech I</string>
+	<string key="Mut_Voi_Leech_2_Heal_DisplayName" rel_version="Feature_Dungeon_Mutators">Oblivion Leech II</string>
+	<string key="Mut_Voi_Death_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Creeping</string>
+	<string key="Mut_Voi_Death_Empower_DisplayName" rel_version="Feature_Dungeon_Mutators">Creeping Power</string>
+	<string key="Mut_Fir_Curse1_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Unstable Fire</string>
+	<string key="Mut_Fir_Curse1_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators">Unstable Singe</string>
+	<string key="Mut_Fir_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Taking {[Type_StatusEffectData.Mut_Fir_Curse1_Minor_Damage.HealthModifierPercent * -100]}% Fire damage every {[Type_StatusEffectData.Mut_Fir_Curse1_Minore_Damage.TickRate]} seconds for {[Type_StatusEffectData.Mut_Fir_Curse1_Minor_Damage.BaseDuration]} seconds.</string>
+	<string key="Mut_Voi_Curse1_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Unstable Void</string>
+	<string key="Mut_Voi_Curse1_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators">Unstable Flux</string>
+	<string key="Mut_Voi_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Taking {[Type_StatusEffectData.Mut_Voi_Curse1_Minor_Damage.HealthModifierPercent * -100]}% Void damage every {[Type_StatusEffectData.Mut_Voi_Curse1_Minor_Damage.TickRate]} seconds for {[Type_StatusEffectData.Mut_Voi_Curse1_Minor_Damage.BaseDuration]} seconds.</string>
+	<string key="Mut_Fir_Curse3_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Combustible Fire</string>
+	<string key="Mut_Voi_Curse3_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Combustible Void</string>
+	<string key="Mut_Fir_Curse3_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Shrivelled Fire</string>
+	<string key="Mut_Voi_Curse3_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Shrivelled Void</string>
+	<string key="Mut_Curse3_Weaken_DisplayName" rel_version="Feature_Dungeon_Mutators">Shrivelled</string>
+	<string key="Mut_Curse3_Weaken_Tooltip" rel_version="Feature_Dungeon_Mutators">All damage dealt reduced by {[Type_StatusEffectData.Mut_Curse3_Weaken.DMGStandard * -100]}% and all healing applied reduced by {[Type_StatusEffectData.Mut_Curse3_Weaken.HealScalingValueMultiplier * -100]}%.</string>
+	<string key="Mut_Curse4_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Truncated</string>
+	<string key="Mut_Fir_Curse4_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Blowback Fire</string>
+	<string key="Mut_Voi_Curse4_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Blowback Void</string>
+	<string key="Mut_Curse4_Major_Exhaust_DisplayName" rel_version="Feature_Dungeon_Mutators">Exhausted</string>
+	<string key="Mut_Curse4_Major_Exhaust_ToolTip" rel_version="Feature_Dungeon_Mutators">Stamina regeneration reduced by {[Type_StatusEffectData.Mut_Curse4_Major_Exhaust.StaminaRate * -100]}%.</string>
+	<string key="Mut_Curse4_Major_ManaStop_DisplayName" rel_version="Feature_Dungeon_Mutators">Mana Truncation</string>
+	<string key="Mut_Curse4_Major_ManaStop_ToolTip" rel_version="Feature_Dungeon_Mutators">Unable to regenerate mana naturally.</string>
+	<string key="Mut_Curse4_Major_ManaRegen_DisplayName" rel_version="Feature_Dungeon_Mutators">Mana Flow</string>
+	<string key="Mut_Curse4_Major_ManaRegen_ToolTip" rel_version="Feature_Dungeon_Mutators">Regnerating {[Type_StatusEffectData.Mut_Curse4_Major_ManaRegen.Mana]} every {[Type_StatusEffectData.Mut_Curse4_Major_Mana.TickRate]} seconds.</string>
+	<string key="Mut_Base_Curse4_Minor_Silence_DisplayName" rel_version="Feature_Dungeon_Mutators">Silenced</string>
+	<string key="Mut_Base_Curse4_Minor_Silence_ToolTip" rel_version="Feature_Dungeon_Mutators">Cannot use abilities while in the area of effect.</string>
 	<string key="GhostDisease_DisplayName">Disease</string>
 	<string key="GhostDisease_Description">Healing is reduced by {[Type_StatusEffectData.PlaguedGhost_Disease.HealMod * -100]}% for {[Type_StatusEffectData.PlaguedGhost_Disease.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.PlaguedGhost_Disease.StackMax]} times.</string>
 	<string key="GhostFrostAura_DisplayName">Frost Aura</string>
@@ -468,7 +536,7 @@
 	<string key="AI_Bleed_9_DisplayName">Bleeding</string>
 	<string key="AI_Bleed_9_Tooltip">Bleeding for {[Type_StatusEffectData.AI_Bleed_9.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Bleed_9.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_Bleed_9.TickRate]} seconds for {[Type_StatusEffectData.AI_Bleed_9.BaseDuration]} seconds.</string>
 	<string key="AI_Burn_9_DisplayName">Burning</string>
-	<string key="AI_Burn_9_Tooltip">Burning for {[Type_StatusEffectData.AI_Burn_9.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Burn_9.HealthModifierPercent * -100]}% base health Fire damage every {[Type_StatusEffectData.AI_Burn_9.TickRate]} seconds for {[Type_StatusEffectData.AI_Burn_9.BaseDuration]} seconds.</string>
+	<string key="AI_Burn_9_Tooltip">Burning for {[Type_StatusEffectData.AI_Burn_9.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_Burn_9.TickRate]} seconds for {[Type_StatusEffectData.AI_Burn_9.BaseDuration]} seconds.</string>
 	<string key="AI_Thorpe_Burn_DisplayName">Umbrous Burn</string>
 	<string key="AI_Thorpe_Burn_Tooltip">Burning for {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierPercent * -100]}% base health Fire damage every {[Type_StatusEffectData.AI_Thorpe_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_Thorpe_Burn.BaseDuration]} seconds.</string>
 	<string key="AI_Thorpe_FTUE_Burn_DisplayName">Burn</string>
@@ -483,6 +551,8 @@
 	<string key="AI_Snare_6sec_Tooltip">Movement speed reduced by {[Type_StatusEffectData.AI_Snare_6sec.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_Snare_6sec.BaseDuration]} seconds.</string>
 	<string key="AI_Snare_4sec_DisplayName">Snared</string>
 	<string key="AI_Snare_4sec_Tooltip">Movement speed reduced by {[Type_StatusEffectData.AI_Snare_6sec.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_Snare_4sec.BaseDuration]} seconds.</string>
+	<string key="AI_Snare_30percent_3sec_DisplayName">Snared</string>
+	<string key="AI_Snare_30percent_3sec_Tooltip">Movement speed reduced by {[Type_StatusEffectData.AI_Snare_30percent_3sec.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_Snare_30percent_3sec.BaseDuration]} seconds.</string>
 	<string key="AI_Stun_2sec_DisplayName">Stunned</string>
 	<string key="AI_Stun_2sec_Tooltip">Stunned for {[Type_StatusEffectData.AI_Stun_2sec.BaseDuration]} seconds.</string>
 	<string key="AI_Stun_4sec_DisplayName">Stunned</string>
@@ -1253,6 +1323,21 @@
 	<string key="MeteorShowerDamage_Description">You are taking periodic damage from a Meteor Shower.</string>
 	<string key="ArcticBreath_Tooltip" rel_version="Event_WinterConvergence_Perm">You suffer {[Type_StatusEffectData.Yeti_Arctic_Breath_Slow_6sec.HealthModifierPercent * -100]}% damage every  {[Type_StatusEffectData.Yeti_Arctic_Breath_Slow_6sec.TickRate]} seconds and are slowed by {[Type_StatusEffectData.Yeti_Arctic_Breath_Slow_6sec.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.Yeti_Arctic_Breath_Slow_6sec.BaseDuration]} seconds.</string>
 	<string key="ArcticBreath_DisplayName" rel_version="Event_WinterConvergence_Perm">Arctic Breath</string>
+	<string key="Status_Timer_FireAttunement_Description" rel_version="Feature_Dungeon_Mutators">When this ends, you can trigger the Flame Attunement perk again.</string>
+	<string key="Status_Timer_IceAttunement_Description" rel_version="Feature_Dungeon_Mutators">When this ends, you can trigger the Frost Attunement perk again.</string>
+	<string key="Status_Timer_LightningAttunement_Description" rel_version="Feature_Dungeon_Mutators">When this ends, you can trigger the Shock Attunement perk again.</string>
+	<string key="Status_Timer_NatureAttunement_Description" rel_version="Feature_Dungeon_Mutators">When this ends, you can trigger the Arboreal Attunement perk again.</string>
+	<string key="Status_Timer_VoidAttunement_Description" rel_version="Feature_Dungeon_Mutators">When this ends, you can trigger the Abyssal Attunement perk again.</string>
+	<string key="Status_FireConditioning" rel_version="Feature_Dungeon_Mutators">Flame Conditioning.</string>
+	<string key="Status_FireConditioning_Description" rel_version="Feature_Dungeon_Mutators">Fire damage taken is reduced while this effect is active.</string>
+	<string key="Status_IceConditioning" rel_version="Feature_Dungeon_Mutators">Frost Conditioning.</string>
+	<string key="Status_IceConditioning_Description" rel_version="Feature_Dungeon_Mutators">Ice damage taken is reduced while this effect is active.</string>
+	<string key="Status_LightningConditioning" rel_version="Feature_Dungeon_Mutators">Shock Conditioning.</string>
+	<string key="Status_LightningConditioning_Description" rel_version="Feature_Dungeon_Mutators">Lightning damage taken is reduced while this effect is active.</string>
+	<string key="Status_NatureConditioning" rel_version="Feature_Dungeon_Mutators">Arboreal Conditioning.</string>
+	<string key="Status_NatureConditioning_Description" rel_version="Feature_Dungeon_Mutators">Nature damage taken is reduced while this effect is active.</string>
+	<string key="Status_VoidConditioning" rel_version="Feature_Dungeon_Mutators">Abyssal Conditioning.</string>
+	<string key="Status_VoidConditioning_Description" rel_version="Feature_Dungeon_Mutators">Void damage taken is reduced while this effect is active.</string>
 	<string key="AI_EvilKnight_Rally_DisplayName" rel_version="AI_Evil_Knights_P1">Varangian War Cry</string>
 	<string key="RoadTravel_SprintBoost">Haste On Roads</string>
 	<string key="RoadTravel_SprintBoost_Description">Sprint Speed is increased by {[Type_StatusEffectData.Traversal_RoadSprintBoost_Haste.SprintSpeedMod * 100]}% while sprinting on roads</string>

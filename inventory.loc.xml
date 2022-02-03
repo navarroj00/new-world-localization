@@ -70,7 +70,7 @@
 	<string key="inv_equipLoadEncumberedTooltip">You are carrying too much in your inventory. While encumbered, it doesn't matter what your Equip Load is. You cannot sprint or dodge and lose more stamina while blocking. You should remove some items from your bag.</string>
 	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">You have equipped more than your maximum equip load. You cannot dodge or sprint, and you suffer a significant penalty to stamina recharge rate. You should unequip some items.</string>
 	<string key="inv_equipLoadFastNotification">Equip Load is now Light</string>
-	<string key="inv_equipLoadNormalNotification">Equip Load is now Normal</string>
+	<string key="inv_equipLoadNormalNotification">Equip Load is now Medium</string>
 	<string key="inv_equipLoadSlowNotification">Equip Load is now Heavy</string>
 	<string key="inv_equipLoadOverburdenedNotification">Over-Equipped - Cannot dodge or sprint</string>
 	<string key="inv_equipLoadEncumberedNotification">Encumbered - Cannot dodge, jump, or sprint</string>

@@ -27,6 +27,8 @@
 	<string key="emote_loudpoint">{playerName} points over there</string>
 	<string key="emote_nodeal">{playerName} doesn't like that</string>
 	<string key="emote_overhere">{playerName} wants you over here</string>
+	<string key="emote_pray" rel_version="Emote_Pray">{playerName} prays</string>
+	<string key="emote_pushups" rel_version="Emote_Pushups">{playerName} drops and begins doing push-ups</string>
 	<string key="emote_rockpaperscissors" rel_version="New_World_Launch">{playerName} plays rock paper scissors</string>
 	<string key="emote_shhh" rel_version="Emote_Shhh">{playerName} shushes</string>
 	<string key="emote_sit" comment="comment">{playerName} sits</string>
@@ -87,6 +89,7 @@
 	<string key="ui_emote_No">No</string>
 	<string key="ui_emote_Clap">Clap</string>
 	<string key="ui_emote_surrender">Surrender</string>
+	<string key="ui_emote_pray" rel_version="Emote_Pray">Pray</string>
 	<string key="ui_emote_nope">Nope</string>
 	<string key="ui_emote_Beckon">Beckon</string>
 	<string key="ui_emote_RockPaperScissors">Rock Paper Scissors</string>
@@ -105,6 +108,7 @@
 	<string key="ui_emote_Cry_3">Cry 3</string>
 	<string key="ui_emote_Coin_Toss">Coin Toss</string>
 	<string key="ui_emote_Chin_Scrape">Chin Scrape</string>
+	<string key="ui_emote_Push_Ups" rel_version="Emote_Pushups">Push Ups</string>
 	<string key="ui_emote_Flex_3">Arm Flex</string>
 	<string key="ui_emote_Golf_Clap">Courteous Applause</string>
 	<string key="ui_emote_Firework1" rel_version="Feature_Premium_Emotes">Chrysanthemum Rocket</string>
@@ -129,6 +133,7 @@
 	<string key="ui_emote_No_description">No Emote Description</string>
 	<string key="ui_emote_Clap_description">Clap Emote Description</string>
 	<string key="ui_emote_surrender_description">Surrender Emote Description</string>
+	<string key="ui_emote_pray_description" rel_version="Emote_Pray">"Prostrate thyself before a higher power."</string>
 	<string key="ui_emote_nope_description">Nope Emote Description</string>
 	<string key="ui_emote_Beckon_description">Beckon Emote Description</string>
 	<string key="ui_emote_RockPaperScissors_description">"Only one may win. Unless we tie."</string>
@@ -147,6 +152,7 @@
 	<string key="ui_emote_Cry_3_description">Cry 3 Emote Description</string>
 	<string key="ui_emote_Coin_Toss_description">"A flip of the coin."</string>
 	<string key="ui_emote_Chin_Scrape_description">Chin Scrape Emote Description</string>
+	<string key="ui_emote_Push_Ups_description" rel_version="Emote_Pushups">"Dost thou even lift, brother?"</string>
 	<string key="ui_emote_Flex_3_description">"Show your strength."</string>
 	<string key="ui_emote_Golf_Clap_description">"A job well done!"</string>
 	<string key="ui_emote_Firework1_description" rel_version="Feature_Premium_Emotes">Fires a rocket into the air. Explodes in a burst of color.</string>
@@ -166,5 +172,23 @@
 	<string key="ui_emote_BellyLaugh_description" rel_version="Emote_BellyLaugh">"A big, hearty belly laugh!"</string>
 	<string key="ui_emote_GivePresent_description" rel_version="Emote_GivePresent">"The gift that keeps on giving."</string>
 	<string key="emote_GivePresent" rel_version="Emote_GivePresent">{playerName} offers a gift.</string>
+	<string key="emote_RoyalWave" rel_version="Emote_Queen_Wave">{playerName} waves in a royal manner.</string>
+	<string key="ui_emote_RoyalWave_name" rel_version="Emote_Queen_Wave">Queen Wave</string>
+	<string key="ui_emote_RoyalWave_description" rel_version="Emote_Queen_Wave">"Wave in a royal manner."</string>
+	<string key="ui_emote_SnowAngel_name" rel_version="Emote_SnowAngel">Snow Angel</string>
+	<string key="ui_emote_SnowAngel_description" rel_version="Emote_SnowAngel">"Angels are in short supply on Aeternum. Make more. Just don't get frostbite."</string>
+	<string key="emote_SnowAngel" rel_version="Emote_SnowAngel">{playerName} makes a snow angel.</string>
+	<string key="ui_emote_Autograph_name" rel_version="Emote_Autograph">Autograph</string>
+	<string key="ui_emote_Autograph_description" rel_version="Emote_Autograph">"Scribble your autograph. No doubt your fans are desperate for it."</string>
+	<string key="emote_Autograph" rel_version="Emote_Autograph">{playerName} signs their name.</string>
+	<string key="emote_Coconut_Horse" rel_version="Emote_Coconut_Horse">{playerName} rides a horse.</string>
+	<string key="ui_emote_Coconut_Horse_name" rel_version="Emote_Coconut_Horse">Gallop</string>
+	<string key="ui_emote_Coconut_Horse_description" rel_version="Emote_Coconut_Horse">"Ride upon your trusty steed."</string>
+	<string key="ui_emote_Swoon_name" rel_version="Emote_Swoon">Swoon</string>
+	<string key="ui_emote_Swoon_description" rel_version="Emote_Swoon">"The breathless euphoria of true and undying love. Literally undying."</string>
+	<string key="emote_Swoon" rel_version="Emote_Swoon">{playerName} swoons.</string>
+	<string key="ui_emote_GiveFlower_name" rel_version="Emote_GiveFlower">Give Flower</string>
+	<string key="ui_emote_GiveFlower_description" rel_version="Emote_GiveFlower">"Who would not be wooed by petals so bright and fragrance so sweet?"</string>
+	<string key="emote_GiveFlower" rel_version="Emote_GiveFlower">{playerName} offers a flower.</string>
 </resources>
 

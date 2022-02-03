@@ -231,5 +231,38 @@
 	<string key="ui_enable_camera_lock_manual_toggle_description">Enables target lock via middle mouse button without a healing spell active</string>
 	<string key="ui_enable_camera_lock_group_mode">Targeted Healing - Group Mode</string>
 	<string key="ui_enable_camera_lock_group_mode_description">Enables group mode that cycles through group members only via middle mouse wheel</string>
+	<string key="ui_gena_escape" rel_version="Feature_GameEntryNarrationAssistance">Escape</string>
+	<string key="ui_gena" rel_version="Feature_GameEntryNarrationAssistance">Game Entry Narration Assistance</string>
+	<string key="ui_gena_title" rel_version="Feature_GameEntryNarrationAssistance">Game Entry Narration Assistance</string>
+	<string key="ui_gena_desc" rel_version="Feature_GameEntryNarrationAssistance">Enable narration assistance for getting into the game</string>
+	<string key="ui_gena_restricted" rel_version="Feature_GameEntryNarrationAssistance">Proximity voice chat disabled. Your account is too young or locked.</string>
+	<string key="ui_gena_instruction" rel_version="Feature_GameEntryNarrationAssistance">New World supports game entry narration assistance (English only) for players with low or no vision. You can turn this feature On or Off at any time in the settings.</string>
+	<string key="ui_genaprompt_genaison" rel_version="Feature_GameEntryNarrationAssistance">Game Entry Narration Assistance is now on. Press {toggleGENA} to turn off. Press {frontEndContinue} to continue.</string>
+	<string key="ui_genaprompt_genaisoff" rel_version="Feature_GameEntryNarrationAssistance">Game Entry Narration Assistance is now off. Press {toggleGENA} to turn on. Press {frontEndContinue} to continue.</string>
+	<string key="ui_genaprompt_genascreen" rel_version="Feature_GameEntryNarrationAssistance">Game Entry Narration Assistance. Press {toggleGENA} to turn on. Press {frontEndContinue} to continue.</string>
+	<string key="ui_genaprompt_seizurescreen" rel_version="Feature_GameEntryNarrationAssistance">Photosensitive Seizure Warning. If you, or anyone in your family, have an epileptic condition, consult your physician prior to playing New World. Press {frontEndContinue} to continue.</string>
+	<string key="ui_genaprompt_cocscreen" rel_version="Feature_GameEntryNarrationAssistance">Code of Conduct. You agree to protect the community, play fair, and to respect each other. Press {frontEndContinue} to accept.</string>
+	<string key="ui_genaprompt_titlescreen" rel_version="Feature_GameEntryNarrationAssistance">New World Title Screen. Press {frontEndContinue} to continue.</string>
+	<string key="ui_genaprompt_newsscreen" rel_version="Feature_GameEntryNarrationAssistance">New World News. Press {frontEndContinue} to continue.</string>
+	<string key="ui_genaprompt_waitingpopup" rel_version="Feature_GameEntryNarrationAssistance">Waiting to login. Please Wait.</string>
+	<string key="ui_genaprompt_loadingscreen" rel_version="Feature_GameEntryNarrationAssistance">Loading. Please Wait.</string>
+	<string key="ui_genaprompt_characterselect" rel_version="Feature_GameEntryNarrationAssistance">Character Select Screen. Press {frontEndContinue} to select {characterName}. Press {toggleMenuComponent} to go back.</string>
+	<string key="ui_genaprompt_worldselect" rel_version="Feature_GameEntryNarrationAssistance">World Select Screen. Press {frontEndContinue} to select {world} in {worldset}. Press {toggleMenuComponent} to go back.</string>
+	<string key="ui_genaprompt_worldselectconfirm" rel_version="Feature_GameEntryNarrationAssistance">{warning}. Press {frontEndContinue} to accept. Press {toggleMenuComponent} to choose a different world.</string>
+	<string key="ui_genaprompt_basicsettings" rel_version="Feature_GameEntryNarrationAssistance">Basic Settings. Press {frontEndContinue} to continue. Press {toggleMenuComponent} to go back.</string>
+	<string key="ui_genaprompt_brightnesssettings" rel_version="Feature_GameEntryNarrationAssistance">Brightness Settings. Press {frontEndContinue} to continue. Press {toggleMenuComponent} to go back.</string>
+	<string key="ui_genaprompt_introcutscene" rel_version="Feature_GameEntryNarrationAssistance">Intro Cutscene. Hold any key to skip.</string>
+	<string key="ui_genaprompt_characterappearance" rel_version="Feature_GameEntryNarrationAssistance">Character creation appearance. Press {frontEndContinue} to continue. Press {toggleMenuComponent} to quit.</string>
+	<string key="ui_genaprompt_charactername" rel_version="Feature_GameEntryNarrationAssistance">Character name. Please type a character name. Press {toggleMenuComponent} to go back.</string>
+	<string key="ui_genaprompt_nameconfirm" rel_version="Feature_GameEntryNarrationAssistance">Press {frontEndContinue} to create your character named {characterName}. Press {toggleMenuComponent} to go back.</string>
+	<string key="ui_genaprompt_nameerror" rel_version="Feature_GameEntryNarrationAssistance">{error}. Please edit the character name.</string>
+	<string key="ui_genaprompt_skiptutorialtitle" rel_version="Feature_GameEntryNarrationAssistance">Skip Tutorial</string>
+	<string key="ui_genaprompt_skiptutorial" rel_version="Feature_GameEntryNarrationAssistance">The tutorial does not provide narration assistance. Would you like to skip to New World?</string>
+	<string key="ui_genaprompt_upcomingmerge" rel_version="Feature_GameEntryNarrationAssistance">Upcoming World Merge Notification. You have one or more characters in worlds that will be merged soon. Press {toggleMenuComponent} to close.</string>
+	<string key="ui_genaprompt_mergecomplete" rel_version="Feature_GameEntryNarrationAssistance">World Merged Notification. You have one or more characters that have been moved as the result of a world merge. Press {toggleMenuComponent} to close.</string>
+	<string key="ui_genaprompt_ingame" rel_version="Feature_GameEntryNarrationAssistance">For text chat with other players, press {toggleChatComponent} to open chat. Type message then press {toggleChatComponent} to send chat. For proximity voice chat with other players, press and hold {toggleMicrophone} while speaking.</string>
+	<string key="ui_genaprompt_popupyesno" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Press {toggleMenuComponent} for No. Press {frontEndContinue} for Yes.</string>
+	<string key="ui_genaprompt_popupok" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Press {frontEndContinue} to close.</string>
+	<string key="ui_genaprompt_popupokcancel" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Press {frontEndContinue} to confirm. Press {toggleMenuComponent} to cancel.</string>
 </resources>
 

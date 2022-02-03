@@ -78,7 +78,7 @@
 	<string key="Ability_Bow_RainofArrows" comment="BOW + ACTIVE">Rain of Arrows</string>
 	<string key="Ability_Bow_RainofArrows_description" comment="BOW + ACTIVE">Shoot a barrage of arrows that covers a {[SpellDataTable_Bow.Spell_Bow_Spell_RainOfArrows.Radius]}m radius area and deals {[DamageTable.Bow_RainOfArrows_Attack.DmgCoef * 100]}% weapon damage. This ability cannot headshot.</string>
 	<string key="Upgrade_Bow_RainofArrows_Bleed" comment="BOW + MOD">Barbed Arrows</string>
-	<string key="Upgrade_Bow_RainofArrows_Bleed_description" comment="BOW + MOD">Rain of Arrows causes bleed, dealing 85% weapon damage over {[Type_StatusEffectData.Status_Passive_RainofArrows_Bleed.BaseDuration]}s.</string>
+	<string key="Upgrade_Bow_RainofArrows_Bleed_description" comment="BOW + MOD">Rain of Arrows causes bleed, dealing {[Type_StatusEffectData.Status_Passive_RainofArrows_Bleed.HealthModifierDamageBased * -100]}% weapon damage per second for {[Type_StatusEffectData.Status_Passive_RainofArrows_Bleed.BaseDuration]}s.</string>
 	<string key="Upgrade_Bow_RainofArrows_Slow" comment="BOW + MOD">Hooked Arrows</string>
 	<string key="Upgrade_Bow_RainofArrows_Slow_description" comment="BOW + MOD">Rain of Arrows causes a {[Type_StatusEffectData.Status_Bow_RainOfArrows_Slow.MoveSpeedMod * -100]}% slow for {[Type_StatusEffectData.Status_Bow_RainOfArrows_Slow.BaseDuration]}s. (Slow reduces target's movement speed.)</string>
 	<string key="Passive_Bow_Skirmish_DodgeDmg" comment="BOW + PASSIVE">Evasive Tactics</string>
@@ -138,7 +138,7 @@
 	<string key="Passive_Bow_Hunter_Crit" comment="BOW + PASSIVE">Bullseye</string>
 	<string key="Passive_Bow_Hunter_Crit_description" comment="BOW + PASSIVE">Increases critical chance of bow shots by {[BowAbilityTable.Passive_Bow_Hunter_Crit.CritChance * 100]}%.</string>
 	<string key="Ultimate_Bow_Hunter" comment="BOW + PASSIVE">Concussion</string>
-	<string key="Ultimate_Bow_Hunter_description" comment="BOW + PASSIVE">When you land a headshot, deal {[BowAbilityTable.Ultimate_Bow_Hunter.BaseDamage * 100]}% more damage and have a {[BowAbilityTable.Ultimate_Bow_Hunter.RefundAmmoPercentChance * 100]}% chance to get your arrow back.</string>
+	<string key="Ultimate_Bow_Hunter_description" comment="BOW + PASSIVE">When you land a headshot, deal {[BowAbilityTable.Ultimate_Bow_Hunter.HeadshotDamage * 100]}% more damage and have a {[BowAbilityTable.Ultimate_Bow_Hunter_Refund.RefundAmmoPercentChance * 100]}% chance to get your arrow back.</string>
 	<string key="Ability_Greataxe_Charge" comment="GREATAXE + ACTIVE">Charge</string>
 	<string key="Ability_Greataxe_Charge_description" comment="GREATAXE + ACTIVE">Charge 10m and deal {[DamageTable.GreatAxe_Engage1.DmgCoef * 100]}% weapon damage when you reach a target. Press LMB to stop charging and attack early. \n\nThis ability has grit. (Grit prevents you from being staggered by incoming attacks.)</string>
 	<string key="Upgrade_Greataxe_Charge_DmgPerDistance" comment="GREATAXE + MOD">Frenzied Momentum</string>
@@ -825,7 +825,7 @@
 	<string key="Spear_BonusDmgVsDebuff" comment="SPEAR + PASSIVE">Exploited Weakness</string>
 	<string key="Spear_BonusDmgVsDebuff_description" comment="SPEAR + PASSIVE">Deal {[SpearAbilityTable.Ability_Spear_BonusDmgVsDebuff.BaseDamage * 100]}% bonus damage for each debuff on your target. (Max 30%.)</string>
 	<string key="Rapier_01" comment="RAPIER + ACTIVE">Tondo</string>
-	<string key="Rapier_01_description" comment="RAPIER + ACTIVE">Slash so quickly that it extends the reach of your blade up to 5m. This strike deals {[DamageTable.1H_Rapier_Slash.DmgCoef * 100]}% weapon damage and applies a bleed that will deal an additional 85% weapon damage over {[Type_StatusEffectData.Rapier_Bleed_DOT.BaseDuration]}s. This bleed can stack up to 3 times, refreshing previous applications.</string>
+	<string key="Rapier_01_description" comment="RAPIER + ACTIVE">Slash so quickly that it extends the reach of your blade up to 5m. This strike deals {[DamageTable.1H_Rapier_Slash.DmgCoef * 100]}% weapon damage and applies a bleed that will deal an additional {[Type_StatusEffectData.Rapier_Bleed_DOT.HealthModifierDamageBased * -100]}% weapon damage per second for {[Type_StatusEffectData.Rapier_Bleed_DOT.BaseDuration]}s. This bleed can stack up to 3 times, refreshing previous applications.</string>
 	<string key="Rapier_01_Mod1" comment="RAPIER + MOD">Thirst For Blood</string>
 	<string key="Rapier_01_Mod1_description" comment="RAPIER + MOD">When applying the first bleed stack to an opponent, Tondo's cooldown is reduced by {[RapierAbilityTable.Rapier_Slash_Mod1.cooldownTimer * -100]}%.</string>
 	<string key="Rapier_01_Mod2" comment="RAPIER + MOD">And Again</string>

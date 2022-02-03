@@ -53,6 +53,7 @@
 	<string key="mm_loginservices_BannedOffensiveCompanyName">Access denied: You have been banned for offensive company name</string>
 	<string key="mm_loginservices_BannedSuspectedFraud">Access denied: You have been banned for suspected fraud behavior</string>
 	<string key="mm_loginservices_BannedCSLockout">Your account is currently locked. Please reach out to customer service for more information.</string>
+	<string key="mm_loginservices_BannedCommerce">Your account has been locked for suspicious activity. Please reach out to customer service for more information.</string>
 	<string key="mm_loginservices_Cheating">Access denied: You have been banned for cheating</string>
 	<string key="mm_loginservices_Exploit">Access denied: You have been banned for exploiting a bug</string>
 	<string key="mm_loginservices_Botting">Access denied: You have been banned for bot activity</string>
@@ -63,6 +64,7 @@
 	<string key="mm_loginservices_OffensiveCompanyName">Access denied: You have been banned for offensive company name</string>
 	<string key="mm_loginservices_SuspectedFraud">Access denied: You have been banned for suspected fraud behavior</string>
 	<string key="mm_loginservices_CSLockout">Your account is currently locked. Please reach out to customer service for more information.</string>
+	<string key="mm_loginservices_Commerce">Your account has been locked for suspicious activity. Please reach out to customer service for more information.</string>
 	<string key="mm_loginservices_warning_title">WARNING</string>
 	<string key="mm_loginservices_warning_BannedOffensiveName">Your Character's name was flagged as inappropriate. When logging back in, you will be asked to rename it.</string>
 	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">Your Company's name was flagged as inappropriate and was updated. You may rename it at any time in the Company UI panel [G].</string>
@@ -186,6 +188,7 @@
 	<string key="mm_rejected_Client_Kicked_EasyAntiCheat">Login Blocked: Suspicious Software or Corrupted Install Detected</string>
 	<string key="mm_rejected_Client_Kicked_BannedCSLockout">Your account is currently locked. Please reach out to customer service for more information.</string>
 	<string key="mm_rejected_Client_Kicked_CSLockout">Your account is currently locked. Please reach out to customer service for more information.</string>
+	<string key="mm_rejected_Client_Kicked_BannedCommerce">Payment Issue</string>
 	<string key="mm_rejected_Client_Kicked_Unknown">You have been kicked from the game</string>
 	<string key="mm_authresult_Authorized">Success</string>
 	<string key="mm_characterCreateDisabled">Character creation temporarily disabled because this world is full. Please try a different world.</string>

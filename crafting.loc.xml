@@ -131,7 +131,7 @@
 	<string key="dye_crafting_craft_button">Craft</string>
 	<string key="dye_crafting_invalid">Invalid Combination</string>
 	<string key="dye_crafting_not_at_station">You need to be at an Arcane Repository.</string>
-	<string key="cooldown_threshold">Cooldown Threshold: {count}</string>
+	<string key="cooldown_threshold">&lt;img src="lyshineui/images/icons/misc/icon_question_orange.dds" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; Cooldown: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{time}&lt;/font&gt; | Cooldown Threshold: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt;</string>
 	<string key="cooldown_threshold_tooltip">If you craft {count} items, you will have to wait for {time} to craft this item again.</string>
 	<string key="cooldown_cancraftin">Can Craft in {time} &lt;img src="lyshineui/images/icons/misc/icon_hourglass" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="crafting_always_available">Always Available</string>

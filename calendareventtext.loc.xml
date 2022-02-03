@@ -3,27 +3,21 @@
 	<string key="ui_calendar_event_button_next">Next</string>
 	<string key="ui_calendar_event_button_back">Back</string>
 	<string key="ui_calendar_event_button_go">Let's Go!</string>
-	<string key="ui_calendar_event_button_view_details">View Event Details</string>
-	<string key="ui_calendar_event_panel1_title" rel_version="Event_WinterConvergence_Temp">WINTER CONVERGENCE IS HERE</string>
-	<string key="ui_calendar_event_panel1_subtitle" rel_version="Event_WinterConvergence_Temp">Event runs from &lt;font color="#ffffff"&gt;{startDate}&lt;/font&gt; until &lt;font color="#ffffff"&gt;{endDate}&lt;/font&gt;</string>
-	<string key="ui_calendar_event_panel1_bullet1_title" rel_version="Event_WinterConvergence_Temp">Limited Time\nActivities</string>
-	<string key="ui_calendar_event_panel1_bullet1_text" rel_version="Event_WinterConvergence_Temp">Mine Gleamite crystals, secure Stolen Presents, and complete activities to earn Winter Tokens and raise your reputation with the mysterious Winter Wanderer and his shop!</string>
-	<string key="ui_calendar_event_panel1_bullet2_title" rel_version="Event_WinterConvergence_Temp">Winter Themed\nRewards</string>
-	<string key="ui_calendar_event_panel1_bullet2_text" rel_version="Event_WinterConvergence_Temp">Icy winds and the Winter Wanderer bring with them new armors, weapons, furnishings, skins, consumables, and a delightful “present gifting” emote; all themed off the wonderful Aeternum holiday of Winter Convergence!</string>
-	<string key="ui_calendar_event_panel1_bullet3_title" rel_version="Event_WinterConvergence_Temp">Limited Time</string>
-	<string key="ui_calendar_event_panel1_bullet3_text" rel_version="Event_WinterConvergence_Temp">The Winter Wanderer has set up a number of villages to facilitate the joy and cheer of Winter Convergence! Visit them in Everfall, Monarch's Bluffs, Brightwood or Weaver's Fen to meet the Winter Wanderer and carry out his holiday quests!\n(Questline ranges from level 15 to 60)</string>
-	<string key="ui_calendar_event_panel2_title" rel_version="Event_WinterConvergence_Temp">THE SPIRIT OF CONVERGENCE</string>
-	<string key="ui_calendar_event_panel2_subtile" rel_version="Event_WinterConvergence_Temp">Celebrate Winter Convergence in Aeternum by spreading the holiday spirit throughout the settlements! Complete Town Projects to upgrade each settlement's Tree of Light to enhance its beauty and unlock increasingly valuable daily rewards!</string>
-	<string key="ui_calendar_event_panel3_title" rel_version="Event_WinterConvergence_Temp">CONVERGENCE THEMED SHOP ITEMS</string>
-	<string key="ui_calendar_event_panel3_subtile" rel_version="Event_WinterConvergence_Temp">Check the shop for exclusive holiday themed skins and furnishing items!</string>
+	<string key="ui_calendar_event_button_about" rel_version="Feature_Dungeon_Mutators_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About Expedition Mutators</string>
+	<string key="ui_calendar_event_button_view_details">View Details</string>
+	<string key="ui_calendar_event_panel1_title" rel_version="Feature_Dungeon_Mutators_Temp">EXPEDITION MODIFIERS: MUTATORS</string>
+	<string key="ui_calendar_event_panel1_subtitle" rel_version="Feature_Dungeon_Mutators_Temp">We are introducing a new end-game feature: &lt;font color="#ffffff" &gt;Expedition Mutators!&lt;/font&gt;</string>
+	<string key="ui_calendar_event_panel1_bullet1_title" rel_version="Feature_Dungeon_Mutators_Temp">Mutated\nExpedition</string>
+	<string key="ui_calendar_event_panel1_bullet1_text" rel_version="Feature_Dungeon_Mutators_Temp">Mutators change the familiar by augmenting “Normal” and “Named” Enemies found within expeditions, changing the way encounters play out and what strategies players should consider before battle. And as combat changes, so do the rewards!</string>
+	<string key="ui_calendar_event_panel1_bullet2_title" rel_version="Feature_Dungeon_Mutators_Temp">Weekly Mutation</string>
+	<string key="ui_calendar_event_panel1_bullet2_text" rel_version="Feature_Dungeon_Mutators_Temp">This system is intended to rotate through a unique combination of Expeditions and Mutations each week, with 10 difficulty levels per Expedition Mutation. Players will be challenged to climb the ladder, with the aim of eventually reaching the max difficulty.</string>
+	<string key="ui_calendar_event_panel1_bullet3_title" rel_version="Feature_Dungeon_Mutators_Temp">Recommended\nGear Score</string>
+	<string key="ui_calendar_event_panel1_bullet3_text" rel_version="Feature_Dungeon_Mutators_Temp">Please be advised that “Recommended Gear Score'” levels for a Mutated Expedition is important, as it directly factors into enemy scaling — and by consequence, your chances of success.</string>
+	<string key="ui_calendar_event_panel2_title" rel_version="Feature_Dungeon_Mutators_Temp">ENTERING A MUTATED EXPEDITION</string>
+	<string key="ui_calendar_event_panel2_subtile" rel_version="Feature_Dungeon_Mutators_Temp">Players will require a codex for opening a Mutated version of the expedition. On completion of a Regular Difficulty Expedition, players will receive the Codex for that Expedition and a one time reward of a Mutated Expedition Tuning Orb.\n\nNote: Players that are invited to a group that already has a codex and orb will be rewarded with both items upon completion.</string>
+	<string key="ui_calendar_event_panel3_title" rel_version="Feature_Dungeon_Mutators_Temp">MUTATOR ORBS</string>
+	<string key="ui_calendar_event_panel3_subtile" rel_version="Feature_Dungeon_Mutators_Temp">Mutator Orbs are universal. Players can &lt;font color="#ffd45f"&gt;craft 1 per week&lt;/font&gt; and will be able to purchase additional orbs in &lt;font color="#ffd45f"&gt;the Faction Shop.&lt;/font&gt;</string>
 	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
-	<string key="ui_event_progress_name" rel_version="Event_WinterConvergence_Temp">Event Reputation</string>
-	<string key="ui_event_rank_0" rel_version="Event_WinterConvergence_Temp">Reveler</string>
-	<string key="ui_event_rank_1" rel_version="Event_WinterConvergence_Temp">Celebrant</string>
-	<string key="ui_event_rank_2" rel_version="Event_WinterConvergence_Temp">Merrymaker</string>
-	<string key="ui_event_rank_3" rel_version="Event_WinterConvergence_Temp">Joybringer</string>
-	<string key="ui_event_rank_4" rel_version="Event_WinterConvergence_Temp">Holiday Regent</string>
-	<string key="ui_event_shop_header" rel_version="Event_WinterConvergence_Temp">Winter Convergence Shop</string>
-	<string key="url_calendar_event_details" rel_version="Event_WinterConvergence_Temp">https://www.newworld.com/forward-link?id=winter-convergence-festival</string>
+	<string key="url_calendar_event_details" rel_version="Feature_Dungeon_Mutators_Temp">https://www.newworld.com/en-us/news/articles/january-ptr-announce</string>
 </resources>
 

@@ -114,6 +114,10 @@
 	<string key="ui_affliction_drowning_tooltip">If you run out of breath, you suffocate and die</string>
 	<string key="ui_affliction_blight">blight resistance</string>
 	<string key="ui_affliction_blight_tooltip">If you run out of blight resistance, you will become blighted and deal {[Type_StatusEffectData.Blight.DMGStandard * 100]}% reduced damage, take {[Type_StatusEffectData.Blight.HealMod * 100]}% reduced healing, and lose {[Type_StatusEffectData.Blight.HealthModifierPercent * -100]}% of your base health every {[Type_StatusEffectData.Blight.TickRate]} seconds for {[Afflictions.AfflictionBlight.AfflictedDrainTime]} seconds.</string>
+	<string key="ui_affliction_mutcurse3" rel_version="Feature_Dungeon_Mutators">combustible resistance</string>
+	<string key="ui_affliction_mutcurse3_tooltip" rel_version="Feature_Dungeon_Mutators">combustible timer.</string>
+	<string key="ui_affliction_mutcurse4" rel_version="Feature_Dungeon_Mutators">blowback resistance</string>
+	<string key="ui_affliction_mutcurse4_tooltip" rel_version="Feature_Dungeon_Mutators">If you run out of resistance, a silence zone  will be cast on you. The zone will detonate after a time, dealing damage to players. Resistance is shared among all members of your group.</string>
 	<string key="ui_afflicted_bleeding">wounded</string>
 	<string key="ui_afflicted_bleeding_tooltip">While wounded, you regain stamina at a much lower rate</string>
 	<string key="ui_afflicted_burn">burning</string>
@@ -134,6 +138,10 @@
 	<string key="ui_afflicted_drowning_tooltip">You have drowned to death</string>
 	<string key="ui_afflicted_blight">blighted</string>
 	<string key="ui_afflicted_blight_tooltip">While blighted, you deal {[Type_StatusEffectData.Blight.DMGStandard * 100]}% reduced damage, take {[Type_StatusEffectData.Blight.HealMod * 100]}% reduced healing, and lose {[Type_StatusEffectData.Blight.HealthModifierPercent * 100]}% of your base health every {[Type_StatusEffectData.Blight.TickRate]} seconds.</string>
+	<string key="ui_afflicted_mutcurse3" rel_version="Feature_Dungeon_Mutators">combustion</string>
+	<string key="ui_afflicted_mutcurse3_tooltip" rel_version="Feature_Dungeon_Mutators">When this timer expires the player with the lowest percent health becomes Combustible.</string>
+	<string key="ui_afflicted_mutcurse4" rel_version="Feature_Dungeon_Mutators">cursed</string>
+	<string key="ui_afflicted_mutcurse4_tooltip" rel_version="Feature_Dungeon_Mutators">Using abilities will fill the bar. Blowback is cast on all players once full.</string>
 	<string key="ui_agreement">By continuing, you agree to the</string>
 	<string key="ui_ahhhhh">AHHHHH!!!!</string>
 	<string key="ui_aimsensitivity">Aim Sensitivity</string>
@@ -278,6 +286,8 @@
 	<string key="ui_hours_with_time_short">{time}h</string>
 	<string key="ui_minutes_with_time">{time} minutes</string>
 	<string key="ui_minutes_with_time_short">{time}m</string>
+	<string key="ui_seconds_with_time">{time} seconds</string>
+	<string key="ui_seconds_with_time_short">{time}s</string>
 	<string key="ui_lastplayed">Last Played</string>
 	<string key="ui_minuteago">1 minute ago</string>
 	<string key="ui_minutesago">{time} minutes ago</string>
@@ -1456,9 +1466,13 @@
 	<string key="ui_replace_gem">Replace Gem</string>
 	<string key="ui_replace_gem_tooltip">Replace the gem currently attached with another one from your inventory. The current gem will be lost.</string>
 	<string key="ui_upgrade_warning_title">Upgrade Item</string>
-	<string key="ui_upgrade_warning_body">Upgrading your {itemName} from Gear Score {baseGearScore} to {targetGearScore} will require {itemCount} {upgradeItemName}.\n\nDo you want to upgrade this item?</string>
-	<string key="ui_upgrade_tooltip_enabled">Apply {itemName} to increase the Gear Score of this item.</string>
-	<string key="ui_upgrade_tooltip_disabled">You need more {itemName} to increase the Gear Score of this item.</string>
+	<string key="ui_upgrade_warning_body">Upgrading your {itemName} from Gear Score {baseGearScore} to {targetGearScore} will require {itemCount} {upgradeItemName}.\n\nUpgrading items will bind them to you.\n\nDo you want to upgrade this item?</string>
+	<string key="ui_upgrade_tooltip_enabled">Upgrade the item by applying &lt;font color="#ffffff"&gt;{itemName}&lt;/font&gt;. This will increase the item's &lt;font color="#ffffff"&gt;Gear Score&lt;/font&gt;.</string>
+	<string key="ui_upgrade_tooltip_disabled_items">You need at least {quantity} more {itemName} to increase the Gear Score of this item.</string>
+	<string key="ui_upgrade_tooltip_disabled_skill">You can only upgrade item types that you have &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{neededValue} Expertise&lt;/font&gt; with.\n(Current {expertiseName} Expertise: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
+	<string key="ui_upgrade_tooltip_disabled_broken">Broken items cannot be upgraded.</string>
+	<string key="ui_upgrade_tooltip_disabled_gearscore">You can only upgrade items with {gearScore}+ Gear Score</string>
+	<string key="ui_upgrade_notification">The item's Gear Score has been upgraded to &lt;font color="#fffd7a"&gt;{baseGearScore}&lt;/font&gt;.</string>
 	<string key="ui_cannot_replace_gem_tooltip">Cannot replace this gem.</string>
 	<string key="ui_no_gems_tooltip">No gems available</string>
 	<string key="ui_gem_select_popup_available">Available Gems</string>
@@ -1834,6 +1848,7 @@
 	<string key="ui_coin_max_withdrawal_tooltip">Your wallet is capped at {amount} Coin.\nThis amount is the most you could take without exceeding that limit.</string>
 	<string key="ui_coin_max_sellorder_tooltip">Your wallet is capped at {amount} Coin.\nYou will lose any coin that exceed that limit at the time of sale.</string>
 	<string key="ui_coin_max_trade_tooltip">Your wallet is capped at {amount} Coin.\nThe other player is trying to give you more coin than you can carry. They will be refunded any excess Coin.</string>
+	<string key="ui_listing_duration_tooltip">Longer listings will result in higher listing fees.</string>
 	<string key="ui_groupsize_identifier">Recommended Group Size: {groupSize}</string>
 	<string key="ui_level_identifier">Recommended Level: {level}</string>
 	<string key="ui_recommendedlevel">Recommended Level</string>
@@ -2187,6 +2202,7 @@
 	<string key="ui_emotes_premium">Premium Emotes</string>
 	<string key="ui_locked_account_title">ACCOUNT LOCKED</string>
 	<string key="ui_locked_account_description">Your account is currently locked.\n\nSeveral in-game functions such as Store purchasing, and consuming Store items will be disabled while you are in this state.</string>
+	<string key="ui_gearscore_modified">Gear Score adjusted to the average of {slot} Expertise and the item's Gear Score</string>
 	<string key="ui_itemtypedescription_recipe">Recipe</string>
 	<string key="ui_itemtypedescription_sword">Sword</string>
 	<string key="ui_itemtypedescription_hatchet">Hatchet</string>
@@ -2272,11 +2288,19 @@
 	<string key="ui_number_range">{lowNumber} - {highNumber}</string>
 	<string key="ui_recommended_level_range">Recommended Level: {lowNumber} - {highNumber}</string>
 	<string key="ui_cannot_trade_currency_blocked">Can't trade currency until you're level {level} and your account is older than {hoursNeeded} hours</string>
-	<string key="ui_cannot_chat_global_blocked">Can't chat in this channel until your account is older than {hoursNeeded} hours</string>
+	<string key="ui_cannot_chat_global_blocked">Can't chat in this channel until your account is older than {hoursNeeded} hours and your playtime is greater than {playtimeNeeded}</string>
 	<string key="ui_complete_quests_to_unlock">Complete quests in settlement to unlock</string>
 	<string key="ui_averageexpertise">Average\nExpertise</string>
-	<string key="ui_averageexpertisetooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;Expertise&lt;/font&gt;\nExpertise is a measure of the potential power of your item drops. Drops from creatures and areas that are level 60+ have a chance to increase this value. As your Expertise level increases you must fight more powerful creatures or areas to see additional increases.</string>
+	<string key="ui_averageexpertisetooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Expertise&lt;/font&gt;\nExpertise is used to measure the maximum power of an item when you have it equipped.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Max Expertise that you can reach&lt;/font&gt;\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{maximum}&lt;/font&gt;\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;How to increase Expertise&lt;/font&gt;\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Elite POIs and Expeditions&lt;/font&gt;\nDrops from creatures or chests in level 60+ areas have a chance to increase this value.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Crafting&lt;/font&gt;\nCrafting a 600 GS item will increase Expertise of this item type.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Gypsum Cast&lt;/font&gt;\nOpening a Gypsum Cast will increase expertise.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Item Upgrade (with Umbral Shards)&lt;/font&gt;\nAfter you reach 600 Expertise, the only way to increase Expertise is via upgrading items with Umbral shards.</string>
 	<string key="ui_itemtypedescription_shield_only">Shield</string>
-	<string key="ui_expertise_value_with_icon">&lt;img src="lyshineui/images/icons/misc/icon_expertise_small" scale="1" yOffset="3.5"&gt;&lt;/img&gt;{value}</string>
+	<string key="ui_expertise_value_with_icon">&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;{value}</string>
+	<string key="ui_expertise_warning_with_icon">&lt;font color="#ff9393"&gt;&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_red" scale="1.5" yOffset="2"&gt;&lt;/img&gt;{value}&lt;/font&gt;</string>
+	<string key="ui_expertise_increased">Expertise Increased!</string>
+	<string key="ui_expertise_tooltip_header">Total {category} Expertise</string>
+	<string key="ui_expertise_tooltip_breakdown">(&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{value} &lt;/font&gt; &lt;font color="#ffffff"&gt;+ {additional}&lt;/font&gt; from Umbral Upgrade)</string>
+	<string key="ui_expertise_tooltip_breakdown_multiple">(&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{value} &lt;/font&gt; &lt;font color="#ffffff"&gt;+ {additional}&lt;/font&gt; from Umbral Upgrades)</string>
+	<string key="ui_expertise_tooltip_increase">The &lt;font color="#ffffff"&gt;maximum&lt;/font&gt; Expertise you can obtain from enemies, chests, Gyspsum Casts and crafting is &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;600&lt;/font&gt;.</string>
+	<string key="ui_expertise_tooltip_maximum">To increase Expertise past &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;600&lt;/font&gt;, upgrade an item in this slot with &lt;font color="#ffffff"&gt;Umbral Shards&lt;/font&gt;.</string>
+	<string key="ui_expertise_crafting_gain">{category} Expertise</string>
 </resources>
 

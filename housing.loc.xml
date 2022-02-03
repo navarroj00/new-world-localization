@@ -89,6 +89,7 @@
 	<string key="ui_housing_decorations">Decoration Mode</string>
 	<string key="ui_housing_features">Housing Features</string>
 	<string key="ui_housing_grid_snap_hint">Grid Placement</string>
+	<string key="ui_housing_grid_snap_hint_colon">Grid Placement:</string>
 	<string key="ui_housing_hide_ui">Hide UI</string>
 	<string key="ui_housing_item_count">Decorations Placed</string>
 	<string key="ui_housing_item_score">Decoration Score</string>
@@ -97,6 +98,7 @@
 	<string key="ui_housing_item_animated">Animated Decor</string>
 	<string key="ui_housing_next_due_in">Next Due In</string>
 	<string key="ui_housing_surface_lock_hint">Lock To Surface</string>
+	<string key="ui_housing_surface_lock_hint_colon">Lock To Surface:</string>
 	<string key="ui_housing_owned_filter">Show owned items only</string>
 	<string key="ui_housing_pay_taxes">Pay Tax</string>
 	<string key="ui_housing_no_items_found">No items found</string>

@@ -487,20 +487,5 @@
 	<string key="FactionMission_ASSASSINATE_ELITE_NIGHT_desc">The Marauders need &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; removed from the theater.\n\nProve your valor by tracking them down in {POITags} and destroying them.\n&lt;font color="#eaeaea"&gt;(Elite - Enemy is nocturnal)&lt;/font&gt;</string>
 	<string key="FactionMission_S_ASSASSINATE_ELITE_NIGHT_desc">The Syndicate has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be a target for elimination.\n\nTrack them down in {POITags} and destroy them.\n&lt;font color="#eaeaea"&gt;(Elite - Enemy is nocturnal)&lt;/font&gt;</string>
 	<string key="FactionMission_C_ASSASSINATE_ELITE_NIGHT_desc">The Covenant has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be eliminated.\n\nProve your devotion by tracking them down in {POITags} and destroying them.\n &lt;font color="#eaeaea"&gt;(Elite - Enemy is nocturnal)&lt;/font&gt;</string>
-	<string key="CMissionAcquireStoneworker" rel_version="Event_WinterConvergence_Temp">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Stoneworking Station.</string>
-	<string key="CMissionAcquireWoodWorker" rel_version="Event_WinterConvergence_Temp">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Woodworking Station.</string>
-	<string key="CMissionAcquireOutfitter" rel_version="Event_WinterConvergence_Temp">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from an Outfitting Station.</string>
-	<string key="CMissionAcquireEngineer" rel_version="Event_WinterConvergence_Temp">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Workshop.</string>
-	<string key="CMissionAcquireBlock_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Stonemasons Needed</string>
-	<string key="CMissionAcquireTimber_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Carpenters Needed</string>
-	<string key="CMissionAcquireCloth_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Weavers Needed</string>
-	<string key="CMissionAcquireMetal_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Metalworkers Needed</string>
-	<string key="CMissionAcquireFibers_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Harvesters Needed</string>
-	<string key="CMissionAcquireFood_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Cooks Needed</string>
-	<string key="CMissionAcquirePotions_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Alchemists Needed</string>
-	<string key="CMissionAcquireGeneric_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Supplies Needed</string>
-	<string key="CMissionAcquireWood_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Lumberjacks Needed</string>
-	<string key="CMissionAcquireRawhide_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Hunters Needed</string>
-	<string key="CMissionAcquireLeather_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Tanners Needed</string>
 </resources>
 
