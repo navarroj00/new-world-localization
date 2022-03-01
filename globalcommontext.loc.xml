@@ -115,9 +115,9 @@
 	<string key="ui_affliction_blight">blight resistance</string>
 	<string key="ui_affliction_blight_tooltip">If you run out of blight resistance, you will become blighted and deal {[Type_StatusEffectData.Blight.DMGStandard * 100]}% reduced damage, take {[Type_StatusEffectData.Blight.HealMod * 100]}% reduced healing, and lose {[Type_StatusEffectData.Blight.HealthModifierPercent * -100]}% of your base health every {[Type_StatusEffectData.Blight.TickRate]} seconds for {[Afflictions.AfflictionBlight.AfflictedDrainTime]} seconds.</string>
 	<string key="ui_affliction_mutcurse3" rel_version="Feature_Dungeon_Mutators">combustible resistance</string>
-	<string key="ui_affliction_mutcurse3_tooltip" rel_version="Feature_Dungeon_Mutators">combustible timer.</string>
+	<string key="ui_affliction_mutcurse3_tooltip" rel_version="Feature_Dungeon_Mutators">At the end of this timer, the player with the lowest health is afflicted with Combustible.</string>
 	<string key="ui_affliction_mutcurse4" rel_version="Feature_Dungeon_Mutators">blowback resistance</string>
-	<string key="ui_affliction_mutcurse4_tooltip" rel_version="Feature_Dungeon_Mutators">If you run out of resistance, a silence zone  will be cast on you. The zone will detonate after a time, dealing damage to players. Resistance is shared among all members of your group.</string>
+	<string key="ui_affliction_mutcurse4_tooltip" rel_version="Feature_Dungeon_Mutators">If you run out of resistance, a silence zone will be cast on you. The zone will detonate after a time, dealing damage to players. Resistance is shared among all members of your group.</string>
 	<string key="ui_afflicted_bleeding">wounded</string>
 	<string key="ui_afflicted_bleeding_tooltip">While wounded, you regain stamina at a much lower rate</string>
 	<string key="ui_afflicted_burn">burning</string>
@@ -139,7 +139,7 @@
 	<string key="ui_afflicted_blight">blighted</string>
 	<string key="ui_afflicted_blight_tooltip">While blighted, you deal {[Type_StatusEffectData.Blight.DMGStandard * 100]}% reduced damage, take {[Type_StatusEffectData.Blight.HealMod * 100]}% reduced healing, and lose {[Type_StatusEffectData.Blight.HealthModifierPercent * 100]}% of your base health every {[Type_StatusEffectData.Blight.TickRate]} seconds.</string>
 	<string key="ui_afflicted_mutcurse3" rel_version="Feature_Dungeon_Mutators">combustion</string>
-	<string key="ui_afflicted_mutcurse3_tooltip" rel_version="Feature_Dungeon_Mutators">When this timer expires the player with the lowest percent health becomes Combustible.</string>
+	<string key="ui_afflicted_mutcurse3_tooltip" rel_version="Feature_Dungeon_Mutators">When this timer expires, the player with the lowest percent health becomes Combustible.</string>
 	<string key="ui_afflicted_mutcurse4" rel_version="Feature_Dungeon_Mutators">cursed</string>
 	<string key="ui_afflicted_mutcurse4_tooltip" rel_version="Feature_Dungeon_Mutators">Using abilities will fill the bar. Blowback is cast on all players once full.</string>
 	<string key="ui_agreement">By continuing, you agree to the</string>
@@ -233,6 +233,7 @@
 	<string key="ui_commit_1_point">Commit &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt; 1 &lt;/font&gt; Point</string>
 	<string key="ui_commit_points">Commit &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt; {points} &lt;/font&gt; Points</string>
 	<string key="ui_abilities_on_cooldown">Abilities on Cooldown</string>
+	<string key="ui_abilities_in_combat">In Combat</string>
 	<string key="ui_componentname">Component Name</string>
 	<string key="ui_confirm">Confirm</string>
 	<string key="ui_confirm_delete_character_placeholder">Type the character's name</string>
@@ -573,7 +574,10 @@
 	<string key="ui_unlock">Unlock</string>
 	<string key="ui_ability_locked_error">Ability cannot be used until it's unlocked</string>
 	<string key="ui_ability_cooldown_error">Abilities cannot be changed until off cooldown</string>
+	<string key="ui_ability_combat_error">Abilities cannot be changed while in combat</string>
+	<string key="ui_ability_points_combat_error">Cannot commit points while in combat</string>
 	<string key="ui_respec_cooldown_error">Cannot respec while abilities are on cooldown</string>
+	<string key="ui_respec_combat_error">Cannot respec while in combat</string>
 	<string key="ui_equipment_cooldown_error">Equipment cannot be changed while abilities are on cooldown</string>
 	<string key="ui_secondary_attack">Secondary Attack</string>
 	<string key="ui_weaponcycleup">Cycle Weapon Up</string>
@@ -660,6 +664,10 @@
 	<string key="ui_respawn">Respawn</string>
 	<string key="ui_return_to_aeternum">Return To Aeternum</string>
 	<string key="ui_respawnpoints">Respawn points</string>
+	<string key="ui_respawnpoint">Respawn Point:</string>
+	<string key="ui_outofrange">Out of Range</string>
+	<string key="ui_inrange">In Range</string>
+	<string key="ui_noactivecamp">No Active Camp!</string>
 	<string key="ui_respawninseconds">Respawn in 2 seconds</string>
 	<string key="ui_respawn_time_remaining">Can respawn in &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{time}&lt;/font&gt;</string>
 	<string key="ui_respawntype">Respawn type</string>
@@ -873,8 +881,17 @@
 	<string key="ui_faction_select">Select Your Faction.</string>
 	<string key="ui_character_Select_title">Select Character</string>
 	<string key="ui_character_options">Character Options</string>
-	<string key="ui_character_merge_destination">This world ({worldName}) is being merged into {destinationWorldName} on {date}. ({mergeTime})</string>
+	<string key="ui_character_merge_destination">This world ({worldName}) is being merged into {destinationWorldName} on {date}.</string>
 	<string key="ui_xp">XP</string>
+	<string key="ui_xp_boost">XP Boost</string>
+	<string key="ui_xp_event_title">XP BOOST IS ON!</string>
+	<string key="ui_xp_event_desc">Come and enjoy the glorious XP Boost event! This is a chance to level up your characters!\nThe boost is activated on:\n</string>
+	<string key="ui_xp_event_modal_title">XP BOOST EVENT!</string>
+	<string key="ui_xp_event_modal_desc">Special XP Boost is active in this world!</string>
+	<string key="ui_xp_event_xp">XP: &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x{amount}&lt;/font&gt;</string>
+	<string key="ui_xp_event_tradeskill_xp">Trade Skill XP: &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x{amount}&lt;/font&gt;</string>
+	<string key="ui_xp_event_weaponmastery_xp">Weapon Mastery XP: &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x{amount}&lt;/font&gt;</string>
+	<string key="ui_xp_boost_reminder" comment="The leading space is intentional"> (x{bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;)</string>
 	<string key="world_landing_title">The optimal WORLD has been selected for you</string>
 	<string key="world_set">World Set?</string>
 	<string key="world_set_title">*What is a World Set?</string>
@@ -1496,6 +1513,7 @@
 	<string key="ui_repair_all_category_disabled">You do not have enough Coin and/or Repair Parts or Repair Kits to repair all items in this category.</string>
 	<string key="ui_repair_all_equipment_disabled">You do not have enough Coin and/or Repair Parts or Repair Kits to repair all of your equipment.</string>
 	<string key="ui_repair_all_not_needed">No items in the category need to be repaired.</string>
+	<string key="ui_repair_filtered">Cannot repair all items in this section while items are filtered.</string>
 	<string key="ui_repair_all_not_needed_equipment">None of your equipment needs to be repaired.</string>
 	<string key="ui_repair_all_confirmation">Repair all items in this category?\nIt requires:</string>
 	<string key="ui_repair_all_equipment_confirmation">Repair all your equipment?\nIt requires:</string>
@@ -1809,8 +1827,10 @@
 	<string key="ui_cycle_view_channels_mod">Cycle Channels Modifier</string>
 	<string key="ui_view_my_storage">View My Storage</string>
 	<string key="ui_improve">Improve</string>
-	<string key="ui_xp_tooltip">&lt;font face="lyshineui/fonts/Pica_Regular.font" color={headerColor}&gt;CORE XP&lt;/font&gt;\n    {totalXP} Total XP\n    {xpToLevel} to level {nextLevel}{restedXpString}</string>
-	<string key="ui_xp_rested_tooltip">\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color={headerColor}&gt;XP BONUSES&lt;/font&gt;\n    &lt;font color={restedXpColor}&gt;+{restedModifier} Rested Bonus\n    {totalRestedXP} Rest XP Remaining&lt;/font&gt;</string>
+	<string key="ui_xp_tooltip">&lt;font face="lyshineui/fonts/Pica_Regular.font" color={headerColor}&gt;CORE XP&lt;/font&gt;\n    {totalXP} Total XP\n    {xpToLevel} to level {nextLevel}{bonusXpString}</string>
+	<string key="ui_xp_bonuses_tooltip">\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color={headerColor}&gt;XP BONUSES&lt;/font&gt;{restedXpString}{boostXpString}\n    &lt;font color={totalBonusXpColor}&gt;{totalXpBonus} Total XP Bonus&lt;/font&gt;</string>
+	<string key="ui_xp_rested_tooltip">\n    &lt;font color={restedXpColor}&gt;{restedModifier} Rested Bonus\n    {totalRestedXP} Rest XP Remaining&lt;/font&gt;</string>
+	<string key="ui_xp_multiplier_tooltip">\n    &lt;font color={boostXpColor}&gt;{boostModifier} XP Boost&lt;/font&gt;</string>
 	<string key="ui_rested_xp_notification_title">RESTED XP BONUS</string>
 	<string key="ui_rested_xp_notification_body">After being away from New World for a time, you become rested. While rested, you earn XP at an improved rate until your rested XP is expended.</string>
 	<string key="ui_level_increased">Level Increased</string>
@@ -2176,6 +2196,7 @@
 	<string key="ui_tooltip_company_discount">Company Discount</string>
 	<string key="ui_tooltip_firsthouse_discount">First House Discount</string>
 	<string key="ui_tooltip_firsthouse">&lt;font color="#ffd45f"&gt;First-time home buyers get a huge discount!&lt;/font&gt;</string>
+	<string key="ui_tooltip_current_territory_discount">Current Territory Discount</string>
 	<string key="ui_tooltip_attribute_discount">Attribute Discount</string>
 	<string key="ui_tooltip_standing_discount">Territory Standing Discount</string>
 	<string key="ui_tooltip_order_price">Order Price</string>
@@ -2290,6 +2311,7 @@
 	<string key="ui_cannot_trade_currency_blocked">Can't trade currency until you're level {level} and your account is older than {hoursNeeded} hours</string>
 	<string key="ui_cannot_chat_global_blocked">Can't chat in this channel until your account is older than {hoursNeeded} hours and your playtime is greater than {playtimeNeeded}</string>
 	<string key="ui_complete_quests_to_unlock">Complete quests in settlement to unlock</string>
+	<string key="ui_cannot_chat_trading_blocked">Your account must be older than {hoursNeeded}, your playtime greater than {playtimeNeeded}, and the trading post unlocked to access this channel.</string>
 	<string key="ui_averageexpertise">Average\nExpertise</string>
 	<string key="ui_averageexpertisetooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Expertise&lt;/font&gt;\nExpertise is used to measure the maximum power of an item when you have it equipped.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Max Expertise that you can reach&lt;/font&gt;\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{maximum}&lt;/font&gt;\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;How to increase Expertise&lt;/font&gt;\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Elite POIs and Expeditions&lt;/font&gt;\nDrops from creatures or chests in level 60+ areas have a chance to increase this value.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Crafting&lt;/font&gt;\nCrafting a 600 GS item will increase Expertise of this item type.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Gypsum Cast&lt;/font&gt;\nOpening a Gypsum Cast will increase expertise.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Item Upgrade (with Umbral Shards)&lt;/font&gt;\nAfter you reach 600 Expertise, the only way to increase Expertise is via upgrading items with Umbral shards.</string>
 	<string key="ui_itemtypedescription_shield_only">Shield</string>

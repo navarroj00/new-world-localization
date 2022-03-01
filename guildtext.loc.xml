@@ -169,12 +169,20 @@
 	<string key="ui_guildclaimtitle">Company Claim</string>
 	<string key="ui_guildclaimmessage">Your Company claimed &lt;font color="#9e947e"&gt;{territoryName}&lt;/font&gt;.</string>
 	<string key="ui_guildrequestthrottledmessage">Request throttled. Try again later.</string>
-	<string key="ui_guildrankgovernor">Governor</string>
-	<string key="ui_guildrankconsul">Consul</string>
-	<string key="ui_guildrankofficer">Officer</string>
+	<string key="ui_guildrankgovernor" comment="Pronoun for Target Player">Governor</string>
+	<string key="ui_guildrankgovernor_SHE">Governor</string>
+	<string key="ui_guildrankgovernor_THEY">Governor</string>
+	<string key="ui_guildrankconsul" comment="Pronoun for Target Player">Consul</string>
+	<string key="ui_guildrankconsul_SHE">Consul</string>
+	<string key="ui_guildrankconsul_THEY">Consul</string>
+	<string key="ui_guildrankofficer" comment="Pronoun for Target Player">Officer</string>
+	<string key="ui_guildrankofficer_SHE">Officer</string>
+	<string key="ui_guildrankofficer_THEY">Officer</string>
 	<string key="ui_guildCannotInviteNoPrivilege">Unable to send Company invites. Insufficient rank.</string>
 	<string key="ui_guildCannotInviteNoFaction">Unable to send Company invites. Not in a Faction.</string>
-	<string key="ui_guildranksettler">Settler</string>
+	<string key="ui_guildranksettler" comment="Pronoun for Target Player">Settler</string>
+	<string key="ui_guildranksettler_SHE">Settler</string>
+	<string key="ui_guildranksettler_THEY">Settler</string>
 	<string key="ui_guildrankpublic">Public</string>
 	<string key="ui_guildrankgovernor_and_above">1. Governor</string>
 	<string key="ui_guildrankconsul_and_above">2. Consul and above</string>
@@ -204,8 +212,12 @@
 	<string key="ui_noneinthisrank">None in this rank</string>
 	<string key="ui_numGuildInvites">({numInvites})</string>
 	<string key="ui_governorexpire_offline">Your Company's Governor has been away for a long time. A member with 'Consul' rank may become Governor.</string>
-	<string key="ui_governorexpire_deleted">Your Company's Governor has left or deleted their character. A member with 'Consul' rank may become Governor.</string>
+	<string key="ui_governorexpire_deleted" comment="Pronoun for Disappeared Governor">Your Company's Governor has left or deleted his character. A member with 'Consul' rank may become Governor.</string>
+	<string key="ui_governorexpire_deleted_SHE">Your Company's Governor has left or deleted her character. A member with 'Consul' rank may become Governor.</string>
+	<string key="ui_governorexpire_deleted_THEY">Your Company's Governor has left or deleted their character. A member with 'Consul' rank may become Governor.</string>
 	<string key="ui_becomegovernor">Become Governor</string>
+	<string key="ui_becomegovernor_SHE">Become Governor</string>
+	<string key="ui_becomegovernor_THEY">Become Governor</string>
 	<string key="ui_permission_assign_structures">{allowed} assign Company structures</string>
 	<string key="ui_permission_build_structures">{allowed} build on Company land</string>
 	<string key="ui_permission_cancel_structures">{allowed} cancel planned structures</string>
@@ -242,7 +254,7 @@
 	<string key="ui_promote">Promote</string>
 	<string key="ui_promote_transfer_owner">Transfer Ownership</string>
 	<string key="ui_promotetoguildmaster_confirm_title">Transfer Company?</string>
-	<string key="ui_promotetoguildmaster_confirm">Are you sure you want to transfer Company Governorship to {memberName}?\n\nAll members, claims, structures and treasury funds of {guildName} will fall under the control of {memberName} as the new Governor of {guildName}. The Company Name and Crest will remain the same. You will be demoted one rank.\n\nYou cannot undo this action, and the change will be effective immediately.</string>
+	<string key="ui_promotetoguildmaster_confirm" comment="Pronoun for Transferring ownership to a player. Need to break into two string keys">Are you sure you want to transfer Company Governorship to {memberName}?\n\nAll members, claims, structures and treasury funds of {guildName} will fall under the control of {memberName} as the new Governor of {guildName}. The Company Name and Crest will remain the same. You will be demoted one rank.\n\nYou cannot undo this action, and the change will be effective immediately.</string>
 	<string key="ui_rank">Rank</string>
 	<string key="ui_rankmovedowndisabled">This is the lowest rank</string>
 	<string key="ui_rankmoveupdisabled">Cannot move above {gmRankName}</string>

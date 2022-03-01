@@ -62,8 +62,8 @@
 	<string key="ui_interact_pet" comment="Reserving ui_pet for if we get a more generic interact for that down the line">Pet</string>
 	<string key="ui_interact_territory_functionality_down">SERVER ERROR: Try again in a few minutes.</string>
 	<string key="ui_interact_with_item_cost">{interactionName} ({amount} {itemName})</string>
-	<string key="ui_interact_with_item_cost_sufficient">{interactionName} ({have}/{need} &lt;img src="lyshineui/images/icons/items/{itemType}/{itemName}" xPadding="2" scale="1.25" yOffset="0.5"&gt;&lt;/img&gt;)</string>
-	<string key="ui_interact_with_item_cost_insufficient">{interactionName} (&lt;font color="#f14b4b"&gt;{have}&lt;/font&gt;/{need} &lt;img src="lyshineui/images/icons/items/{itemType}/{itemName}" xPadding="2" scale="1.25" yOffset="0.5"&gt;&lt;/img&gt;)</string>
+	<string key="ui_interact_with_item_cost_sufficient">{interactionName} ({have}/{need} &lt;img src="{itemName}" xPadding="2" scale="1.25" yOffset="0.5"&gt;&lt;/img&gt;)</string>
+	<string key="ui_interact_with_item_cost_insufficient">{interactionName} (&lt;font color="#f14b4b"&gt;{have}&lt;/font&gt;/{need} &lt;img src="{itemName}" xPadding="2" scale="1.25" yOffset="0.5"&gt;&lt;/img&gt;)</string>
 	<string key="ui_interact_with_item_cost_not_needed">{interactionName} - Not Needed</string>
 	<string key="ui_interactable_only_in_conquest_phase">{interactionName} - Only usable during active war</string>
 	<string key="ui_interactable_only_outside_conquest_phase">{interactionName} - Only usable when not in war</string>

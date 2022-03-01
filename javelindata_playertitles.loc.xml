@@ -652,8 +652,8 @@
 	<string key="ui_playertitle_territory_permanent_owner_11_SHE" rel_version="Feature_Titles">Mourningdale Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_11_THEY" rel_version="Feature_Titles">Mourningdale Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_12" rel_version="Feature_Titles">Monarch's Bluff Owner</string>
-	<string key="ui_playertitle_territory_permanent_owner_12_SHE" rel_version="Feature_Titles">Monarchs Bluff Owner</string>
-	<string key="ui_playertitle_territory_permanent_owner_12_THEY" rel_version="Feature_Titles">Monarchs Bluff Owner</string>
+	<string key="ui_playertitle_territory_permanent_owner_12_SHE" rel_version="Feature_Titles">Monarch's Bluff Owner</string>
+	<string key="ui_playertitle_territory_permanent_owner_12_THEY" rel_version="Feature_Titles">Monarch's Bluff Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_13" rel_version="Feature_Titles">Weaver's Fen Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_13_SHE" rel_version="Feature_Titles">Weaver's Fen Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_13_THEY" rel_version="Feature_Titles">Weaver's Fen Owner</string>
@@ -690,5 +690,13 @@
 	<string key="ui_playertitle_special_stoic_SHE" rel_version="Feature_Titles">The Stoic</string>
 	<string key="ui_playertitle_special_stoic_THEY" rel_version="Feature_Titles">The Stoic</string>
 	<string key="ui_playertitle_stoic_description" rel_version="Feature_Titles">Showed solid resolve in the face of epic wait times.</string>
+	<string key="ui_playertitle_special_BugHunter" rel_version="Entitlements_February_2022">Bug Hunter</string>
+	<string key="ui_playertitle_special_BugHunter_SHE" rel_version="Entitlements_February_2022">Bug Hunter</string>
+	<string key="ui_playertitle_special_BugHunter_THEY" rel_version="Entitlements_February_2022">Bug Hunter</string>
+	<string key="ui_playertitle_BugHunter_description" rel_version="Entitlements_February_2022">An entomologist with a keen eye.</string>
+	<string key="ui_playertitle_special_CultInitiate">Initiate of the Cult of Renewal</string>
+	<string key="ui_playertitle_special_CultInitiate_description">A low-ranking member of a surreptitious group.</string>
+	<string key="ui_playertitle_special_CultFollower">Follower of the Cult of Renewal</string>
+	<string key="ui_playertitle_special_CultFollower_description">A fully-fledged member of a surreptitious group.</string>
 </resources>
 

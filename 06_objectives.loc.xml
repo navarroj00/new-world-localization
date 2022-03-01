@@ -73,8 +73,8 @@
 	<string key="0601_0108_introtosettlement_start_prompt" speaker="UI - Player Prompt">"Is there anything else we can do?"</string>
 	<string key="0601_0108_introtosettlement_proposal" speaker="Watcher Fayed - Windsward" name="WatcherFayed" VO="Watcher_0601_0108_introtosettlement_ProposalResponse" VO_Status="Recorded" dialogue-next="@0601_0108_introtosettlement_proposal_next">Only to prepare for the day when it returns once again.\n\nThe great storm preceding your arrival was a sign that conditions will soon get worse. The Windsward settlement must be warned.</string>
 	<string key="0601_0108_introtosettlement_proposal_prompt" speaker="UI - Player Prompt">"I can take the warning."</string>
-	<string key="0601_0108_introtosettlement_proposal_next" speaker="Watcher Fayed - Windsward" name="WatcherFayed" VO="Watcher_0601_0108_introtosettlement_CompleteNext" VO_Status="Needs Re-Recording" dialogue-prompt="@0601_0108_introtosettlement_proposal_prompt">Yes, and take a well-deserved rest at the inn as well, I hope. \n\nGo west to the settlement and give this message to Constable Dauti  - he knows to expect it. Oh, and {playerName}, thank you for your assistance.</string>
-	<string key="0601_0108_introtosettlement_incomplete" speaker="Watcher Fayed - Windsward" name="WatcherFayed" VO="Watcher_0601_0108_introtosettlement_InProgResponse" VO_Status="Needs Re-Recording">I'll remain here and help any other survivors who come ashore.\n\nTake the message to Constable Dauti, and good luck, my friend.</string>
+	<string key="0601_0108_introtosettlement_proposal_next" speaker="Watcher Fayed - Windsward" name="WatcherFayed" VO="Watcher_0601_0108_introtosettlement_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0601_0108_introtosettlement_proposal_prompt">Yes, and take a well-deserved rest at the inn as well, I hope. \n\nGo west to the settlement and give this message to Constable Dauti  - he knows to expect it. Oh, and {playerName}, thank you for your assistance.</string>
+	<string key="0601_0108_introtosettlement_incomplete" speaker="Watcher Fayed - Windsward" name="WatcherFayed" VO="Watcher_0601_0108_introtosettlement_InProgResponse" VO_Status="Recorded">I'll remain here and help any other survivors who come ashore.\n\nTake the message to Constable Dauti, and good luck, my friend.</string>
 	<string key="0601_0108_introtosettlement_objective_desc" speaker="UI - Journal - Quest  Description">Travel to the Windsward Settlement and take Watcher Fayed's message to Constable Dauti.</string>
 	<string key="0601_0108_introtosettlement_complete_availaible_response" speaker="Constable Dauti - Windsward" name="OverseerDauti" VO="Watcher_0601_0108_introtosettlement_AvailResponse" VO_Status="Recorded" dialogue-next="@0601_0108_introtosettlement_complete_availaible_response_next">Greetings and well met, traveler! You look to be healthy and fresh - we're glad to have you.\n\nHave yourself a pint of mead at the tavern! Have two! Windsward is a bountiful territory and you are welcome here!</string>
 	<string key="0601_0108_introtosettlement_complete_availaible_response_prompt" speaker="UI - Player Prompt">"I have a message from Watcher Fayed."</string>
@@ -301,6 +301,7 @@
 	<string key="0604_0203_abominableluck_eliminate_target_abominations_at_POI" speaker="UI" comment="targetName = &quot;Spanshatter&quot; , POI = &quot;Bullrush Wash&quot;">Destroy {targetName}s around {POITags}</string>
 	<string key="0604_0203_abominableluck_gotoPOI" speaker="UI" comment="POI = &quot;Bullrush Wash&quot;">Search for the Missing Patrol at {POITags}</string>
 	<string key="0604_0203_abominableluck_readLore" speaker="UI" comment="POI = &quot;Bullrush Wash&quot;">Read "Fickle Fortune" at {POITags}</string>
+	<string key="0604_0203_abominableluck_collect_item_from_target" speaker="UI">Collect {itemName} from {targetName}</string>
 	<string key="0604_0203_abominableluck_incomplete" speaker="Constable Dauti - Windsward" name="OverseerDauti" VO="Overseer_0604_0203_abominableluck_InProgResponse" VO_Status="Recorded" comment="male">Bullrush Wash is a notoriously difficult river crossing. No idea what the fools were doing out there, but we'll rescue them nonetheless.</string>
 	<string key="0604_0203_abominableluck_objective_desc" speaker="UI - Journal - Quest  Description">Travel to Bullrush Wash and uncover the fate of the missing patrol. Return to Constable Dauti in the Windsward Settlement when you have completed your task.</string>
 	<string key="0604_0203_abominableluck_complete_available_response" speaker="Constable Dauti - Windsward" name="OverseerDauti" VO="Overseer_0604_0203_abominableluck_AvailResponse" VO_Status="Recorded" comment="male">So the patrol from Monarch's Bluffs had already been wiped out by the time you arrived?\n\nThe poor sots have probably joined the ranks of the Lost now.</string>
@@ -563,7 +564,7 @@
 	<string key="0923_0101_FQ04_proposal_next" speaker="Master Fisher Clemenson - First Light" name="MasterFisherClemenson" VO="Fisher_0923_0101_FQ04_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0923_0101_FQ04_proposal_prompt">It's a message from me to Master Fisher Warwick. It is imperative that you do not open this note!</string>
 	<string key="0923_0101_FQ04_incomplete" speaker="Master Fisher Clemenson - First Light" name="MasterFisherClemenson" VO="Fisher_0923_0101_FQ04_InProgResponse" VO_Status="Recorded">Having trouble finding Hotspots? Look along the coast or at inland lakes and rivers. Hotspots can be found in any kind of water and anywhere.\n\nThere are patterns, if you can spot them.</string>
 	<string key="0923_0101_FQ04_complete_available_response" speaker="Master Fisher Warwick - Monarch's Bluffs" name="MasterFisherWarwick" VO="Fisher_0923_0101_FQ04_AvailResponse" VO_Status="Recorded">A note from Master Fisher Clemenson? Please, put it down right there. No, my hands are too dirty to touch it right now, but... thank you.</string>
-	<string key="0923_0101_d_01_TaskFishingHotspotAny" speaker="UI">Catch fish from Hotspots</string>
+	<string key="0923_0101_d_01_TaskFishingHotspotAny" speaker="UI">Catch fish from (Active) Hotspots</string>
 	<string key="1223_0101_FQ05_objective_title" speaker="UI">Practice Makes Perfect</string>
 	<string key="1223_0101_FQ05_objective_desc" speaker="UI">Catch fifteen fish anywhere for Master Fisher Warwick and deliver to Master Fisher Perchal in Cutlass Keys.</string>
 	<string key="1223_0101_FQ05_prompt" speaker="UI - Player Prompt">"I have something for you."</string>
@@ -701,5 +702,9 @@
 	<string key="0699_0102_Barkimedes2_complete" speaker="Barkimedes - Windsward" name="Barkimedes" VO="0699_0102_Barkimedes2_complete" VO_Status="Needs Recording">Woof, woof! (Barkimedes chews on the bones ravenously.)</string>
 	<string key="0699_0102_d_01_TaskGoToPOI" speaker="UI">Venture into {POITags}</string>
 	<string key="0699_0102_d_02_TaskGatherEnchantedBones" speaker="UI">Defeat {targetName} for an {itemName}</string>
+	<string key="0423_0101_CatchSnail" speaker="UI">Catch a Snail in Fresh Water</string>
+	<string key="0423_0101_SalvageSnail" speaker="UI">Salvage an {itemName}</string>
+	<string key="0423_0101_CatchClam" speaker="UI">Catch a Clam in Salt Water</string>
+	<string key="0423_0101_SalvageClam" speaker="UI">Salvage a {itemName}</string>
 </resources>
 

@@ -40,7 +40,7 @@
 	<string key="ui_buy_order_expired_title">Buy Order Expired</string>
 	<string key="ui_sell_order_expired_title">Sell Order Expired</string>
 	<string key="ui_buy_order_expired_desc">Your buy order for &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{quantity} {itemName}&lt;/font&gt;&lt;/font&gt; is expired at {location}. Remaining &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{gold}&lt;/font&gt;&lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; is refunded to your wallet.</string>
-	<string key="ui_sell_order_expired_desc">Your sell order for &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{quantity} {itemName}&lt;/font&gt;&lt;/font&gt; is expired. The remaining items will be deposited to &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{location}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_sell_order_expired_desc">Your sell order for &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{quantity} {itemName}&lt;/font&gt;&lt;/font&gt; is expired. The remaining items will be deposited to &lt;font color="#ffffff"&gt;storage&lt;/font&gt; in &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{location}&lt;/font&gt;&lt;/font&gt;.</string>
 	<string key="ui_buy_order_fulfilled_title">Buy Order Completed</string>
 	<string key="ui_sell_order_fulfilled_title">Sell Order Completed</string>
 	<string key="ui_buy_order_fulfilled_desc">You successfully purchased &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{itemName} x {quantity}&lt;/font&gt;&lt;/font&gt;! The item is now available at &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{location}&lt;/font&gt;&lt;/font&gt;</string>
@@ -117,6 +117,8 @@
 	<string key="ui_contract_failure_throttled">Request throttled. Please wait and try again.</string>
 	<string key="ui_contract_failure_coin_transferal_disabled">Coin transferal disabled.</string>
 	<string key="ui_contract_failure_trading_post_disabled">Trading post disabled.</string>
+	<string key="ui_contract_failure_trading_post_creation_disabled">Trading post contract creation disabled.</string>
+	<string key="ui_contract_failure_trading_post_completion_disabled">Trading post contract completion disabled.</string>
 	<string key="ui_contract_failure_cooldown">Can Purchase in : {cooldownTime} &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass.png" xPadding="0" scale="1.1" yOffset="2"&gt;&lt;/img&gt;</string>
 	<string key="ui_contract_failure_generic">Something went wrong. Please try again.</string>
 	<string key="ui_sell_instant_price">Instant Sell Price</string>

@@ -3,21 +3,7 @@
 	<string key="ui_calendar_event_button_next">Next</string>
 	<string key="ui_calendar_event_button_back">Back</string>
 	<string key="ui_calendar_event_button_go">Let's Go!</string>
-	<string key="ui_calendar_event_button_about" rel_version="Feature_Dungeon_Mutators_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About Expedition Mutators</string>
 	<string key="ui_calendar_event_button_view_details">View Details</string>
-	<string key="ui_calendar_event_panel1_title" rel_version="Feature_Dungeon_Mutators_Temp">EXPEDITION MODIFIERS: MUTATORS</string>
-	<string key="ui_calendar_event_panel1_subtitle" rel_version="Feature_Dungeon_Mutators_Temp">We are introducing a new end-game feature: &lt;font color="#ffffff" &gt;Expedition Mutators!&lt;/font&gt;</string>
-	<string key="ui_calendar_event_panel1_bullet1_title" rel_version="Feature_Dungeon_Mutators_Temp">Mutated\nExpedition</string>
-	<string key="ui_calendar_event_panel1_bullet1_text" rel_version="Feature_Dungeon_Mutators_Temp">Mutators change the familiar by augmenting “Normal” and “Named” Enemies found within expeditions, changing the way encounters play out and what strategies players should consider before battle. And as combat changes, so do the rewards!</string>
-	<string key="ui_calendar_event_panel1_bullet2_title" rel_version="Feature_Dungeon_Mutators_Temp">Weekly Mutation</string>
-	<string key="ui_calendar_event_panel1_bullet2_text" rel_version="Feature_Dungeon_Mutators_Temp">This system is intended to rotate through a unique combination of Expeditions and Mutations each week, with 10 difficulty levels per Expedition Mutation. Players will be challenged to climb the ladder, with the aim of eventually reaching the max difficulty.</string>
-	<string key="ui_calendar_event_panel1_bullet3_title" rel_version="Feature_Dungeon_Mutators_Temp">Recommended\nGear Score</string>
-	<string key="ui_calendar_event_panel1_bullet3_text" rel_version="Feature_Dungeon_Mutators_Temp">Please be advised that “Recommended Gear Score'” levels for a Mutated Expedition is important, as it directly factors into enemy scaling — and by consequence, your chances of success.</string>
-	<string key="ui_calendar_event_panel2_title" rel_version="Feature_Dungeon_Mutators_Temp">ENTERING A MUTATED EXPEDITION</string>
-	<string key="ui_calendar_event_panel2_subtile" rel_version="Feature_Dungeon_Mutators_Temp">Players will require a codex for opening a Mutated version of the expedition. On completion of a Regular Difficulty Expedition, players will receive the Codex for that Expedition and a one time reward of a Mutated Expedition Tuning Orb.\n\nNote: Players that are invited to a group that already has a codex and orb will be rewarded with both items upon completion.</string>
-	<string key="ui_calendar_event_panel3_title" rel_version="Feature_Dungeon_Mutators_Temp">MUTATOR ORBS</string>
-	<string key="ui_calendar_event_panel3_subtile" rel_version="Feature_Dungeon_Mutators_Temp">Mutator Orbs are universal. Players can &lt;font color="#ffd45f"&gt;craft 1 per week&lt;/font&gt; and will be able to purchase additional orbs in &lt;font color="#ffd45f"&gt;the Faction Shop.&lt;/font&gt;</string>
 	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
-	<string key="url_calendar_event_details" rel_version="Feature_Dungeon_Mutators_Temp">https://www.newworld.com/en-us/news/articles/january-ptr-announce</string>
 </resources>
 

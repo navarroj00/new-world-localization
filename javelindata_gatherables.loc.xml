@@ -423,7 +423,7 @@
 	<string key="0825_CookingSupplies_DisplayName">Collect Supplies</string>
 	<string key="0826_TigerCage_DisplayName">Unlock Cage</string>
 	<string key="0828_Heirlooms_DisplayName">Collect Heirloom</string>
-	<string key="0831_DryadsEyePlant_DisplayName">Collect Dryad's Tears</string>
+	<string key="0831_DryadsEyePlant_DisplayName">Collect Dryad's Tear</string>
 	<string key="0831_BruteCannonSchematic_DisplayName">Brute Cannon Schematic</string>
 	<string key="0831_DiscardedArmorPile_DisplayName">Search Armor Pile</string>
 	<string key="06_SpectralShrine">Spectral Shrine</string>
@@ -672,7 +672,6 @@
 	<string key="FM_1624_Supplies_DisplayName">Destroy Supplies</string>
 	<string key="FM_1624_Banners_DisplayName">Ignite Banner</string>
 	<string key="FM_1624_Weapons_DisplayName">Destroy Weapons Rack</string>
-	<string key="dungeon_cutlasskeys00_gunpowdercask">Take Explosives</string>
 	<string key="0411_Armillary_interact">Armillary Sphere</string>
 	<string key="0202_0101_Inquisitor_DisplayName">Inquisitor's Toolchest</string>
 	<string key="DungeonShatterMtn_LockCellar_DisplayName">Insert Cellar Key</string>
@@ -686,5 +685,6 @@
 	<string key="1130_CursedAxe_DisplayName">Begin the Ritual</string>
 	<string key="0726_Gravestone_interact" rel_version="DEPRECATED_January_2022">Inspect Crewman's Grave</string>
 	<string key="Dynasty_Gong_DisplayName">Dynasty Gong</string>
+	<string key="LuckShrine_MothersLove">Mother's Love</string>
 </resources>
 

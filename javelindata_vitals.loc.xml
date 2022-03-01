@@ -86,6 +86,7 @@
 	<string key="Alligator_Strange_Named_05WC02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Putris</string>
 	<string key="Alligator_Strange_Named_08QP01_VitalsName" comment="ELITE Named Variant" speaker="Vitals Sheet">Tazorjaw</string>
 	<string key="Alligator_Strange_Named_08QP03_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Bloody Jaws</string>
+	<string key="Alligator_Strange_Named_DG_Cutlass_00_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Chompers</string>
 	<string key="Alligator_Strange_VitalsName" comment="BASE" speaker="Vitals Sheet">Strange Alligator</string>
 	<string key="Alligator_VitalsName" comment="BASE" speaker="Vitals Sheet">Alligator</string>
 	<string key="Alligator_Young_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Variation_Sub_L20">Young Alligator</string>
@@ -2507,6 +2508,7 @@
 	<string key="Dryad_Soldier_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Denmen</string>
 	<string key="Dryad_Soldier_Named_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Meldue, Soldier of Blight</string>
 	<string key="Dryad_Soldier_VitalsName" comment="BASE" speaker="Vitals Sheet">Dryad Bulwark</string>
+	<string key="Dryad_Tendril_DG_Cutlass_00_VitalsName" comment="BASE" speaker="Vitals Sheet">Tendril</string>
 	<string key="Dryad_Tendril_VitalsName" comment="BASE" speaker="Vitals Sheet">Dryad Tendril</string>
 	<string key="Dynasty_Empress_Pedestal_VitalsName" comment="BASE" speaker="Vitals Sheet">Pearl Pedestal</string>
 	<string key="Dynasty_Empress_VitalsName" comment="BASE" speaker="Vitals Sheet">Zhou Taiying</string>
@@ -2601,6 +2603,7 @@
 	<string key="Dynasty_Summoner_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Dynasty Summoner</string>
 	<string key="Dynasty_Trainee_DG_Ebonscale_00_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Dynasty Trainee</string>
 	<string key="Dynasty_Trainee_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Dynasty Trainee</string>
+	<string key="Dynasty_Trainee_08QP08_VitalsName" comment="BASE" speaker="Vitals Sheet">Dynasty Guard</string>
 	<string key="Dynasty_Warrior_08QP07_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Dynasty Warrior</string>
 	<string key="Dynasty_Warrior_08QP08_ELITE_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Dynasty Warrior</string>
 	<string key="Dynasty_Warrior_08QP08_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Dynasty Warrior</string>
@@ -3133,6 +3136,8 @@
 	<string key="IceMagicEntomb_VitalsName" comment="BASE" speaker="Vitals Sheet">Ice Tomb</string>
 	<string key="IceMagicPylon_VitalsName" comment="BASE" speaker="Vitals Sheet">Ice Pylon</string>
 	<string key="IceMagicPylonUltimate_VitalsName" comment="BASE" speaker="Vitals Sheet">Ice Pylon</string>
+	<string key="Inquisitor_Cleric_VitalsName" comment="BASE" speaker="Vitals Sheet">Rampant Flame Cleric</string>
+	<string key="Inquisitor_Flamekeeper_VitalsName" comment="BASE" speaker="Vitals Sheet">Rampant Flame Keeper</string>
 	<string key="Invasion_Bear_VitalsName" comment="Invasion" speaker="Vitals Sheet">Bear</string>
 	<string key="Invasion_Bomber_VitalsName" comment="Invasion" speaker="Vitals Sheet">Bomber</string>
 	<string key="Invasion_Brute_VitalsName" comment="Invasion" speaker="Vitals Sheet">Brute</string>
@@ -3153,7 +3158,6 @@
 	<string key="Lesser_Dryad_64_VitalsName" comment="Generic Elemental Bear Minion Level Variant" speaker="Vitals Sheet">Lesser Dryad Minion</string>
 	<string key="Lesser_Dryad_65_VitalsName" comment="Generic Elemental Bear Minion Level Variant" speaker="Vitals Sheet">Lesser Dryad Minion</string>
 	<string key="Lesser_Dryad_VitalsName" comment="BASE" speaker="Vitals Sheet">Lesser Dryad</string>
-	<string key="Loot_Goblin_VitalsName" comment="BASE" speaker="Vitals Sheet">Leroy the Looter</string>
 	<string key="Lost_Totem_60_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Lost Totem</string>
 	<string key="Lost_Totem_VitalsName" comment="BASE" speaker="Vitals Sheet">Lost Totem</string>
 	<string key="Lynx_03GC10_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Snowfoot Bobcat</string>
@@ -4987,6 +4991,7 @@
 	<string key="VC_Alligator_Strange_Named_05WC02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Putris</string>
 	<string key="VC_Alligator_Strange_Named_08QP01" comment="ELITE Named Variant" speaker="VitalsCategory Sheet">Tazorjaw</string>
 	<string key="VC_Alligator_Strange_Named_08QP03" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Bloody Jaws</string>
+	<string key="VC_Alligator_Strange_Named_DG_Cutlass_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Chompers</string>
 	<string key="VC_Alligator_Young" comment="Generic Level Variant" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Young Alligator</string>
 	<string key="VC_Alligator_Young_04NW11a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Stonetooth Alligator</string>
 	<string key="VC_Alligator_Young_04NW11b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Riverworn Alligator</string>
@@ -6507,6 +6512,7 @@
 	<string key="VC_damnedhound_dt6" comment="Mission Target Display Name" speaker="VitalsCategory">Corrupted Hound</string>
 	<string key="VC_Dankfur" comment="BASE" speaker="VitalsCategory Sheet">Dankfur</string>
 	<string key="VC_Darkness" comment="Darkness" speaker="VitalsCategory Sheet">Darkness</string>
+	<string key="VC_DarknessAI" comment="Darkness AI" speaker="VitalsCategory Sheet">Darkness</string>
 	<string key="VC_Darkness_Corruption_Eruption_Shell" comment="Darkness" speaker="VitalsCategory Sheet">Corruption Eruption</string>
 	<string key="VC_Darkness_Hive_Membrane" comment="Darkness" speaker="VitalsCategory Sheet">Corruption Veil</string>
 	<string key="VC_darkness_hive_membrane_03gc03_60_elite" comment="Mission Target Display Name" speaker="VitalsCategory">Corruption Membrane</string>
@@ -7090,6 +7096,7 @@
 	<string key="VC_Dryad_Soldier_65_Elite" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Dryad Fighter</string>
 	<string key="VC_Dryad_Soldier_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Denmen</string>
 	<string key="VC_Dryad_Soldier_Named_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Meldue, Soldier of Blight</string>
+	<string key="VC_Dryad_Tendril_DG_Cutlass_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Tendril</string>
 	<string key="VC_Dusty" comment="BASE" speaker="VitalsCategory Sheet">Dusty</string>
 	<string key="VC_Dynasty_Archer_Empress" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Dynasty Warrior</string>
 	<string key="VC_Dynasty_Empress" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Zhou Taiying</string>
@@ -7479,6 +7486,7 @@
 	<string key="VC_Ghost_Plagued_62" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Plaguegeist</string>
 	<string key="VC_Ghost_Plagued_63" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Plaguegeist</string>
 	<string key="VC_Ghost_Plagued_64" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Plaguegeist</string>
+	<string key="VC_Ghost_Plagued_DG_Cutlass_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Black Flag Plaguegeist</string>
 	<string key="VC_Ghost_Plagued_DG_Windsward_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Star Excavation Plaguegeist</string>
 	<string key="VC_Ghost_Plagued_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Musslebeard</string>
 	<string key="VC_Ghost_Plagued_Named_01" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Diseased Leader</string>
@@ -7693,7 +7701,6 @@
 	<string key="VC_Leafburnt" comment="BASE" speaker="VitalsCategory Sheet">Leafburnt</string>
 	<string key="VC_Lesser_Dryad" comment="BASE" speaker="VitalsCategory Sheet">Lesser Dryad</string>
 	<string key="VC_Longshadow" comment="BASE" speaker="VitalsCategory Sheet">Longshadow</string>
-	<string key="VC_Loot_Goblin" comment="BASE" speaker="VitalsCategory Sheet">Leroy the Looter</string>
 	<string key="VC_Lost" comment="BASE" speaker="VitalsCategory Sheet">Lost</string>
 	<string key="VC_Lost_Siren_Named_ELITE_05WC11" comment="ELITE Named Variant" speaker="VitalsCategory Sheet">Siren the Pirate Queen</string>
 	<string key="VC_Lost_Totem" comment="BASE" speaker="VitalsCategory Sheet">Lost Totem</string>
@@ -10695,5 +10702,8 @@
 	<string key="Yonas_MSQ_VitalsName" comment="MSQ" speaker="Vitals Sheet">Yonas the Corrupted</string>
 	<string key="Yeti_Named_07SM08b_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Terror of the Mountain</string>
 	<string key="VC_Yeti_Named_07SM08b" comment="Named Variant" speaker="Vitals Category" rel_version="Event_WinterConvergence_Perm">Terror of the Mountain</string>
+	<string key="Risen_Regurgitator_06SW08_Named_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Head Scout Maddix</string>
+	<string key="VC_Risen_Regurgitator_06SW08_Named" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Head Scout Maddix</string>
+	<string key="VC_Risen_Regurgitator_06SW08b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Turned Scout</string>
 </resources>
 

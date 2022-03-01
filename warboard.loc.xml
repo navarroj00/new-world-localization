@@ -1,6 +1,9 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_warboardui">Scoreboard</string>
 	<string key="ui_war_player_damage_dealt" comment="Heading for damage dealt with player weapons">Weapon Damage</string>
+	<string key="ui_war_player_damage_to_players" comment="Heading for damage dealt to other players">Player Damage</string>
+	<string key="ui_war_player_damage_to_ai" comment="Heading for damage dealt to AI">AI Damage</string>
+	<string key="ui_war_player_damage_to_other" comment="Heading for damage dealt to siege weapons/structures">Other Damage</string>
 	<string key="ui_war_player_kills" comment="Heading for total kills with player weapons">Weapon Kills</string>
 	<string key="ui_war_siege_damage_dealt" comment="Heading for damage dealt with siege weapons">Siege Damage</string>
 	<string key="ui_war_siege_kills" comment="Heading for total kills with siege weapons">Siege Kills</string>

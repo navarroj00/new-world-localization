@@ -12,10 +12,18 @@
 	<string key="emote_cry1" rel_version="Emote_Cry">{playerName} begins to cry</string>
 	<string key="emote_dance1">{playerName} dances</string>
 	<string key="emote_diceroll" comment="{diceResult} is a number from 1 to 6">{playerName} rolls a {diceResult}</string>
-	<string key="emote_eyesonyou" rel_version="New_World_Launch">{playerName} has their eyes on you</string>
-	<string key="emote_farmerblow" rel_version="Emote_Noseblow">{playerName} blows their nose</string>
-	<string key="emote_fistbump" rel_version="New_World_Launch">{playerName} bumps their fist</string>
-	<string key="emote_fistshake" rel_version="Emote_Fistshake">{playerName} shakes their fist</string>
+	<string key="emote_eyesonyou" rel_version="New_World_Launch">{playerName} has his eyes on you</string>
+	<string key="emote_eyesonyou_SHE" rel_version="New_World_Launch">{playerName} has her eyes on you</string>
+	<string key="emote_eyesonyou_THEY" rel_version="New_World_Launch">{playerName} has their eyes on you</string>
+	<string key="emote_farmerblow" rel_version="Emote_Noseblow">{playerName} blows his nose</string>
+	<string key="emote_farmerblow_SHE" rel_version="Emote_Noseblow">{playerName} blows her nose</string>
+	<string key="emote_farmerblow_THEY" rel_version="Emote_Noseblow">{playerName} blows their nose</string>
+	<string key="emote_fistbump" rel_version="New_World_Launch">{playerName} bumps his fist</string>
+	<string key="emote_fistbump_SHE" rel_version="New_World_Launch">{playerName} bumps her fist</string>
+	<string key="emote_fistbump_THEY" rel_version="New_World_Launch">{playerName} bumps their fist</string>
+	<string key="emote_fistshake" rel_version="Emote_Fistshake">{playerName} shakes his fist</string>
+	<string key="emote_fistshake_SHE" rel_version="Emote_Fistshake">{playerName} shakes her fist</string>
+	<string key="emote_fistshake_THEY" rel_version="Emote_Fistshake">{playerName} shakes their fist</string>
 	<string key="emote_flex1">{playerName} flexes</string>
 	<string key="emote_flex2">{playerName} flexes</string>
 	<string key="emote_flex3" rel_version="New_World_Launch">{playerName} wants you to look at his arms.  Aren't they great?</string>
@@ -180,7 +188,9 @@
 	<string key="emote_SnowAngel" rel_version="Emote_SnowAngel">{playerName} makes a snow angel.</string>
 	<string key="ui_emote_Autograph_name" rel_version="Emote_Autograph">Autograph</string>
 	<string key="ui_emote_Autograph_description" rel_version="Emote_Autograph">"Scribble your autograph. No doubt your fans are desperate for it."</string>
-	<string key="emote_Autograph" rel_version="Emote_Autograph">{playerName} signs their name.</string>
+	<string key="emote_Autograph" rel_version="Emote_Autograph">{playerName} signs his name.</string>
+	<string key="emote_Autograph_SHE" rel_version="Emote_Autograph">{playerName} signs her name.</string>
+	<string key="emote_Autograph_THEY" rel_version="Emote_Autograph">{playerName} signs their name.</string>
 	<string key="emote_Coconut_Horse" rel_version="Emote_Coconut_Horse">{playerName} rides a horse.</string>
 	<string key="ui_emote_Coconut_Horse_name" rel_version="Emote_Coconut_Horse">Gallop</string>
 	<string key="ui_emote_Coconut_Horse_description" rel_version="Emote_Coconut_Horse">"Ride upon your trusty steed."</string>

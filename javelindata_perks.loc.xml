@@ -1299,7 +1299,7 @@
 	<string key="PerkID_Ability_Hammer_WreckingBall_Name">Penetrating Wrecking Ball</string>
 	<string key="PerkID_Ability_Hammer_WreckingBall_Description">Wrecking Ball penetrates {[GlobalAbilityTable.GlobalPerk_Ability_Hammer_WreckingBall.ArmorPenetration * 100 * {perkMultiplier}]}% of the target's armor.</string>
 	<string key="PerkID_Ability_Hammer_Shockwave_Name">Sundering Shockwave</string>
-	<string key="PerkID_Ability_Hammer_Shockwave_Description">Shockwave applies Rend, reducing target's damage absorption by {[Type_StatusEffectData.Status_Perk_Hammer_Shockwave_Rend.ABSStandard * -100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Hammer_Shockwave_Rend.BaseDuration]} seconds.</string>
+	<string key="PerkID_Ability_Hammer_Shockwave_Description">Shockwave inflicts Rend, reducing target's damage absorption by {[Type_StatusEffectData.Status_Perk_Hammer_Shockwave_Rend.ABSStandard * -100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Hammer_Shockwave_Rend.BaseDuration]} seconds.</string>
 	<string key="PerkID_Ability_Hammer_ClearOut_Name">Repulsing Clear Out</string>
 	<string key="PerkID_Ability_Hammer_ClearOut_Description">Clear Out now knocks targets back an additional {[GlobalAbilityTable.GlobalPerk_Ability_Hammer_ClearOut.Knockback * 100 * {perkMultiplier}]}%.</string>
 	<string key="PerkID_Ability_Hammer_PathOfDestiny_Name">Leeching Path Of Destiny</string>
@@ -1319,7 +1319,7 @@
 	<string key="PerkID_Ability_Spear_Sweep_Name">Bleeding Sweep</string>
 	<string key="PerkID_Ability_Spear_Sweep_Description">Sweep's Coup De Grace now applies Bleed for {[Type_StatusEffectData.Status_Perk_Spear_SweepFinish_Bleed.HealthModifierDamageBased * -100 * {perkMultiplier}]}% of weapon damage for {[Type_StatusEffectData.Status_Perk_Spear_SweepFinish_Bleed.BaseDuration]} seconds.</string>
 	<string key="PerkID_Ability_Spear_Javelin_Name">Sundering Javelin</string>
-	<string key="PerkID_Ability_Spear_Javelin_Description">Javelin applies Rend, reducing target's damage absorption by {[Type_StatusEffectData.Status_Perk_Spear_Javelin_Rend.ABSStandard * -100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Spear_Javelin_Rend.BaseDuration]} seconds.</string>
+	<string key="PerkID_Ability_Spear_Javelin_Description">Javelin inflicts Rend, reducing target's damage absorption by {[Type_StatusEffectData.Status_Perk_Spear_Javelin_Rend.ABSStandard * -100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Spear_Javelin_Rend.BaseDuration]} seconds.</string>
 	<string key="PerkID_Ability_Spear_Cyclone_Name">Leeching Cyclone</string>
 	<string key="PerkID_Ability_Spear_Cyclone_Description">Every hit of Cyclone heals you for {[GlobalAbilityTable.GlobalPerk_Ability_Spear_Cyclone.DmgPctToHealth * 100 * {perkMultiplier}]}% of weapon damage.</string>
 	<string key="PerkID_Ability_Spear_Perforate_Name">Fortifying Perforate</string>
@@ -1347,7 +1347,7 @@
 	<string key="PerkID_Ability_Rapier_Flurry_Name">Leeching Flurry</string>
 	<string key="PerkID_Ability_Rapier_Flurry_Description">Each hit of Flurry restores returns {[GlobalAbilityTable.GlobalPerk_Ability_Rapier_Flurry.DmgPctToHealth * 100 * {perkMultiplier}]}% of the damage as health.</string>
 	<string key="PerkID_Ability_Rapier_Riposte_Name">Sundering Riposte</string>
-	<string key="PerkID_Ability_Rapier_Riposte_Description">Riposte grants Rend, reducing damage absorption of target by {[Type_StatusEffectData.Status_Perk_Rapier_Riposte_Rend.ABSStandard * -100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Rapier_Riposte_Rend.BaseDuration]} seconds.</string>
+	<string key="PerkID_Ability_Rapier_Riposte_Description">Riposte inflicts Rend, reducing damage absorption of target by {[Type_StatusEffectData.Status_Perk_Rapier_Riposte_Rend.ABSStandard * -100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Rapier_Riposte_Rend.BaseDuration]} seconds.</string>
 	<string key="PerkID_Ability_Rapier_Evade_Name">Omnidirectional Evade</string>
 	<string key="PerkID_Ability_Rapier_Evade_Description">Evade's Adagio upgrade is applied when evading in any direction.</string>
 	<string key="PerkID_Ability_Rapier_Fleche_Name">Refreshing Fleche</string>
@@ -1365,15 +1365,15 @@
 	<string key="PerkID_Ability_LifeStaff_Beacon_Name">Revitalizing Beacon</string>
 	<string key="PerkID_Ability_LifeStaff_Beacon_Description">Using Beacon increases healing power on self by {[Type_StatusEffectData.Status_Perk_LifeStaff_Beacon_HealMod.HealMod * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_LifeStaff_Beacon_HealMod.BaseDuration]} seconds.</string>
 	<string key="PerkID_Ability_FireStaff_PillarOfFire_Name">Refreshing Pillar of Fire</string>
-	<string key="PerkID_Ability_FireStaff_PillarOfFire_Description">Reduce this ability's cooldown by {[GlobalAbilityTable.GlobalPerk_Ability_FireStaff_PillarOfFire.CooldownTimer * -100 * {perkMultiplier}]}% per enemy hit with Pillar of Fire. ({[GlobalAbilityTable.GlobalPerk_Ability_FireStaff_PillarOfFire.MaxTrackedHitCounts}]} hits max.)</string>
+	<string key="PerkID_Ability_FireStaff_PillarOfFire_Description">Reduce this ability's cooldown by {[GlobalAbilityTable.GlobalPerk_Ability_FireStaff_PillarOfFire.CooldownTimer * -100 * {perkMultiplier}]}% per enemy hit with Pillar of Fire. ({[GlobalAbilityTable.GlobalPerk_Ability_FireStaff_PillarOfFire.MaxTrackedHitCounts]} hits max.)</string>
 	<string key="PerkID_Ability_FireStaff_MeteorShower_Name">Empowering Meteor Shower</string>
 	<string key="PerkID_Ability_FireStaff_MeteorShower_Description">Meteor Shower hits deal {[GlobalAbilityTable.GlobalPerk_Ability_FireStaff_MeteorShower.BaseDamage * 100 * {perkMultiplier}]}% additional damage to targets at full Health.</string>
 	<string key="PerkID_Ability_FireStaff_Fireball_Name">Empowering Fireball</string>
 	<string key="PerkID_Ability_FireStaff_Fireball_Description">Fireball impact deals {[GlobalAbilityTable.GlobalPerk_Ability_FireStaff_Fireball.BaseDamage * 100 * {perkMultiplier}]}% additional damage.</string>
 	<string key="PerkID_Ability_FireStaff_Incinerate_Name">Siphoning Incinerate</string>
-	<string key="PerkID_Ability_FireStaff_Incinerate_Description">Restore {[GlobalAbilityTable.GlobalPerk_Ability_FireStaff_Incinerate.Mana * 100 * {perkMultiplier}]} mana per hit with Incinerate. ({[GlobalAbilityTable.GlobalPerk_Ability_FireStaff_Incinerate.NumberOfTrackedHits}]} hits max.)</string>
+	<string key="PerkID_Ability_FireStaff_Incinerate_Description">Restore {[GlobalAbilityTable.GlobalPerk_Ability_FireStaff_Incinerate.Mana * 100 * {perkMultiplier}]} mana per hit with Incinerate. ({[GlobalAbilityTable.GlobalPerk_Ability_FireStaff_Incinerate.NumberOfTrackedHits]} hits max.)</string>
 	<string key="PerkID_Ability_FireStaff_Flamethrower_Name">Accelerating Flamethrower</string>
-	<string key="PerkID_Ability_FireStaff_Flamethrower_Description">Applying {[GlobalAbilityTable.GlobalPerk_Ability_FireStaff_Flamethrower.TargetStatusEffectStackSize}]} stacks of burn damage on a target with Flamethrower grants Haste, increasing movement speed by {[Type_StatusEffectData.Status_Perk_FireStaff_FlameThrower_MoveHaste.MoveSpeedMod * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_FireStaff_FlameThrower_MoveHaste.BaseDuration}]} seconds.</string>
+	<string key="PerkID_Ability_FireStaff_Flamethrower_Description">Applying {[GlobalAbilityTable.GlobalPerk_Ability_FireStaff_Flamethrower.TargetStatusEffectStackSize]} stacks of burn damage on a target with Flamethrower grants Haste, increasing movement speed by {[Type_StatusEffectData.Status_Perk_FireStaff_FlameThrower_MoveHaste.MoveSpeedMod * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_FireStaff_FlameThrower_MoveHaste.BaseDuration]} seconds.</string>
 	<string key="PerkID_Ability_FireStaff_BurnOut_Name">Efficient Burnout</string>
 	<string key="PerkID_Ability_FireStaff_BurnOut_Description">Mana regen rate increased by {[Type_StatusEffectData.Status_Perk_FireStaff_Burnout_ManaRegen.ManaRate * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_FireStaff_Burnout_ManaRegen.BaseDuration]} seconds after using Burnout.</string>
 	<string key="PerkID_Ability_Sword_ReverseStab_Name">Contagious Reverse Stab</string>
@@ -1409,7 +1409,7 @@
 	<string key="PerkID_Ability_IceGauntlet_DeadlyFrost_Name">Deadly Frost</string>
 	<string key="PerkID_Ability_IceGauntlet_DeadlyFrost_Description">When the Frigid Showers upgrade is active, Ice Shower's frostbite debuff will deal {[Type_StatusEffectData.IceMagic_Frostbite_DeadlyFrost.HealthModifierDamageBased * -100]}% weapon damage per second to affected enemies.</string>
 	<string key="PerkID_Ability_IceGauntlet_PylonBurst_Name">Pylon Burst</string>
-	<string key="PerkID_Ability_IceGauntlet_PylonBurst_Description">Ice Pylon deals a burst of damage to foes within a 1m radius whenever it fires its projectile.</string>
+	<string key="PerkID_Ability_IceGauntlet_PylonBurst_Description">Ice Pylon deals a burst of damage to foes within a {[SpellDataTable_IceMagic.IceMagic_Spell_PylonBurst.Radius]}m radius whenever it fires its projectile.</string>
 	<string key="PerkID_Ability_IceGauntlet_HealingTomb_Name">Healing Tomb</string>
 	<string key="PerkID_Ability_IceGauntlet_HealingTomb_Description">Gain 10% Health after exiting Entomb with full mana.</string>
 	<string key="PerkID_Ability_VoidGauntlet_VoidBlade_Lifesteal_Name">Voracious Blade</string>
@@ -1461,7 +1461,7 @@
 	<string key="PerkID_Tools_SkinningXP_Name">Tanner's Discipline</string>
 	<string key="PerkID_Tools_SkinningXP_Description">Gain {[Type_StatusEffectData.Status_Perk_Tool_SkinningXP.EXPSkinning * 100 * {perkMultiplier}]}% more Skinning experience.</string>
 	<string key="PerkID_Tools_HasteOnGather_Name">Gathering Alacrity</string>
-	<string key="PerkID_Tools_HasteOnGather_Description">When you finish gathering a node gain {[Type_StatusEffectData.Status_Perk_Tool_HasteOnGather.BaseDuration}]}s of {[Type_StatusEffectData.Status_Perk_Tool_HasteOnGather.MoveSpeedMod * 100 }]}% Haste.</string>
+	<string key="PerkID_Tools_HasteOnGather_Description">When you finish gathering a node gain {[Type_StatusEffectData.Status_Perk_Tool_HasteOnGather.BaseDuration]}s of {[Type_StatusEffectData.Status_Perk_Tool_HasteOnGather.MoveSpeedMod * 100]}% Haste.</string>
 	<string key="PerkID_Bags_WeightAdd_Name">Extra Pockets</string>
 	<string key="PerkID_Bags_WeightAdd_Description">You can hold {[AffixStatDataTable.Affix_Bags_WeightAdd.Encumbrance / 10 * {perkMultiplier}]} more weight.</string>
 	<string key="PerkID_Bags_CookingWeight_Name">Gourmand's Burden</string>
@@ -1683,7 +1683,7 @@
 	<string key="PerkID_Weapon_HealOnDmg_Name">Lifestealing</string>
 	<string key="PerkID_Weapon_HealOnDmg_Description">You gain {[GlobalAbilityTable.Global_Weapon_HealOnDmg.DmgPctToHealth * 100 * {perkMultiplier}]}% of your damage as health. Does not trigger off persistent damage or DoT effects.</string>
 	<string key="PerkID_Weapon_BleedonCrit_Name">Keenly Jagged</string>
-	<string key="PerkID_Weapon_BleedonCrit_Description">On Crit: cause bleed that deals 7% weapon damage per second for {[Type_StatusEffectData.Status_Perk_Weapon_OnCritBleed_Timer.BaseDuration]}s. ({[Type_StatusEffectData.Status_Perk_Weapon_OnCritBleed_Timer.BaseDuration]}s cooldown.)</string>
+	<string key="PerkID_Weapon_BleedonCrit_Description">On Crit: cause bleed that deals 7% weapon damage per second for {[Type_StatusEffectData.Status_Perk_Weapon_OnCritBleed.BaseDuration]}s. ({[Type_StatusEffectData.Status_Perk_Weapon_OnCritBleed_Timer.BaseDuration]}s cooldown.)</string>
 	<string key="PerkID_Weapon_FortifyOnCrit_Name">Keenly Fortified</string>
 	<string key="PerkID_Weapon_FortifyOnCrit_Description">On Critical: gain {[Type_StatusEffectData.Status_Perk_Weapon_OnCritFortify.ABSStandard * 100 * {perkMultiplier}]}% Fortify for {[Type_StatusEffectData.Status_Perk_Weapon_OnCritFortify.BaseDuration]}s. (Cooldown {[Type_StatusEffectData.Status_Perk_Weapon_OnCritFortify_Timer.BaseDuration]}s.)</string>
 	<string key="PerkID_Weapon_EmpowerOnCrit_Name">Keenly Empowered</string>
@@ -1819,7 +1819,7 @@
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_Crit_Name" rel_version="MorePerksV1">Trenchant Crits</string>
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_Crit_Description" rel_version="MorePerksV1">Fully charged heavy attacks deal {[GlobalAbilityTable.Global_Weapon_Melee_ChargedHeavy_Crit.CritDamage * 100 * {perkMultiplier}]}% additional Crit damage.</string>
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_Rend_Name" rel_version="MorePerksV1">Trenchant Rend</string>
-	<string key="PerkID_Weapon_Melee_ChargedHeavy_Rend_Description" rel_version="MorePerksV1">Fully charged heavy attacks apply rend for {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.BaseDuration]}s, reducing target's absorption by {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.ABSStandard * -100 * {perkMultiplier}]}%. ({[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend_Timer.BaseDuration]}s cooldown)</string>
+	<string key="PerkID_Weapon_Melee_ChargedHeavy_Rend_Description" rel_version="MorePerksV1">Fully charged heavy attacks inflict rend for {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.BaseDuration]}s, reducing target's absorption by {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.ABSStandard * -100 * {perkMultiplier}]}%. ({[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend_Timer.BaseDuration]}s cooldown)</string>
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_Heal_Name" rel_version="MorePerksV1">Trenchant Recovery</string>
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_Heal_Description" rel_version="MorePerksV1">Fully charged heavy attacks heal the player for {[GlobalAbilityTable.Global_Weapon_Melee_ChargedHeavy_Heal.DmgPctToHealth * 100 * {perkMultiplier}]}% of the damage dealt.</string>
 	<string key="PerkID_Armor_RangeDefense_Physical_Name" rel_version="MorePerksV1">Physical Aversion</string>

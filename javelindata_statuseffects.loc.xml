@@ -441,10 +441,10 @@
 	<string key="Mut_Voi_Death_Empower_DisplayName" rel_version="Feature_Dungeon_Mutators">Creeping Power</string>
 	<string key="Mut_Fir_Curse1_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Unstable Fire</string>
 	<string key="Mut_Fir_Curse1_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators">Unstable Singe</string>
-	<string key="Mut_Fir_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Taking {[Type_StatusEffectData.Mut_Fir_Curse1_Minor_Damage.HealthModifierPercent * -100]}% Fire damage every {[Type_StatusEffectData.Mut_Fir_Curse1_Minore_Damage.TickRate]} seconds for {[Type_StatusEffectData.Mut_Fir_Curse1_Minor_Damage.BaseDuration]} seconds.</string>
+	<string key="Mut_Fir_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Taking {[Type_StatusEffectData.Mut_Fir_Curse1_Minor_Damage.HealthModifierPercent * -100]}% Fire damage every {[Type_StatusEffectData.Mut_Fir_Curse1_Minore_Damage.TickRate]} seconds.</string>
 	<string key="Mut_Voi_Curse1_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Unstable Void</string>
 	<string key="Mut_Voi_Curse1_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators">Unstable Flux</string>
-	<string key="Mut_Voi_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Taking {[Type_StatusEffectData.Mut_Voi_Curse1_Minor_Damage.HealthModifierPercent * -100]}% Void damage every {[Type_StatusEffectData.Mut_Voi_Curse1_Minor_Damage.TickRate]} seconds for {[Type_StatusEffectData.Mut_Voi_Curse1_Minor_Damage.BaseDuration]} seconds.</string>
+	<string key="Mut_Voi_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Taking {[Type_StatusEffectData.Mut_Voi_Curse1_Minor_Damage.HealthModifierPercent * -100]}% Void damage every {[Type_StatusEffectData.Mut_Voi_Curse1_Minor_Damage.TickRate]} seconds.</string>
 	<string key="Mut_Fir_Curse3_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Combustible Fire</string>
 	<string key="Mut_Voi_Curse3_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Combustible Void</string>
 	<string key="Mut_Fir_Curse3_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Shrivelled Fire</string>
@@ -459,7 +459,7 @@
 	<string key="Mut_Curse4_Major_ManaStop_DisplayName" rel_version="Feature_Dungeon_Mutators">Mana Truncation</string>
 	<string key="Mut_Curse4_Major_ManaStop_ToolTip" rel_version="Feature_Dungeon_Mutators">Unable to regenerate mana naturally.</string>
 	<string key="Mut_Curse4_Major_ManaRegen_DisplayName" rel_version="Feature_Dungeon_Mutators">Mana Flow</string>
-	<string key="Mut_Curse4_Major_ManaRegen_ToolTip" rel_version="Feature_Dungeon_Mutators">Regnerating {[Type_StatusEffectData.Mut_Curse4_Major_ManaRegen.Mana]} every {[Type_StatusEffectData.Mut_Curse4_Major_Mana.TickRate]} seconds.</string>
+	<string key="Mut_Curse4_Major_ManaRegen_ToolTip" rel_version="Feature_Dungeon_Mutators">Regenerating {[Type_StatusEffectData.Mut_Curse4_Major_ManaRegen.Mana]} Mana every {[Type_StatusEffectData.Mut_Curse4_Major_ManaRegen.TickRate]} seconds.</string>
 	<string key="Mut_Base_Curse4_Minor_Silence_DisplayName" rel_version="Feature_Dungeon_Mutators">Silenced</string>
 	<string key="Mut_Base_Curse4_Minor_Silence_ToolTip" rel_version="Feature_Dungeon_Mutators">Cannot use abilities while in the area of effect.</string>
 	<string key="GhostDisease_DisplayName">Disease</string>
@@ -518,6 +518,7 @@
 	<string key="AI_Slime_Slow_DisplayName">Sticky</string>
 	<string key="AI_Slime_Slow_Tooltip">Movement speed reduced by {[Type_StatusEffectData.AI_Slime_Slow.MoveSpeedMod * -100]}%.</string>
 	<string key="AI_SpiderBite_Tooltip">Poisoned for {[Type_StatusEffectData.AI_SpiderBite.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.AI_SpiderBite.TickRate]} seconds for {[Type_StatusEffectData.AI_SpiderBite.BaseDuration]} seconds.</string>
+	<string key="AI_SpiderVenom_Tooltip">Poisoned for {[Type_StatusEffectData.AI_SpiderVenom.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.AI_SpiderVenom.TickRate]} seconds for {[Type_StatusEffectData.AI_SpiderVenom.BaseDuration]} seconds.</string>
 	<string key="AI_PoisonOnHit_Buff_DisplayName">Venomous</string>
 	<string key="AI_PoisonOnHit_Damage_DisplayName">Poison</string>
 	<string key="AI_PoisonOnHit_Damage_Tooltip">Poisoned for {[Type_StatusEffectData.AI_PoisonOnHit_Damage.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.AI_PoisonOnHit_Damage.TickRate]} seconds for {[Type_StatusEffectData.AI_PoisonOnHit_Damage.BaseDuration]} seconds.</string>
@@ -583,9 +584,9 @@
 	<string key="AI_CorruptedPriest_DoomRend_Tooltip">You suffer {[Type_StatusEffectData.AI_CorruptedPriest_DoomRend.WKNCorruption * 100]}% increased Corruption damage per stack, for {[Type_StatusEffectData.AI_CorruptedPriest_DoomRend.BaseDuration]} seconds.</string>
 	<string key="AI_Joven_Oro_Death_Buff_DisplayName">Avenge</string>
 	<string key="AI_Oro_Rend_DisplayName">Oro Rend</string>
-	<string key="AI_Oro_Rend_Tooltip">You suffer {[Type_StatusEffectData.AI_Oro_Rend.ABSStandard * -100]}% increased damage from all physical sources for {[Type_StatusEffectData.AI_Oro_Rend.BaseDuration]} seconds.</string>
+	<string key="AI_Oro_Rend_Tooltip">You suffer {[Type_StatusEffectData.AI_Oro_Rend.ABSStandard * 100]}% increased damage from all physical sources for {[Type_StatusEffectData.AI_Oro_Rend.BaseDuration]} seconds.</string>
 	<string key="AI_Joven_Rend_DisplayName">Joven Rend</string>
-	<string key="AI_Joven_Rend_Tooltip">You suffer {[Type_StatusEffectData.AI_Joven_Rend.WKNCorruption * -100]}% increased void damage for {[Type_StatusEffectData.AI_Joven_Rend.BaseDuration]} seconds.</string>
+	<string key="AI_Joven_Rend_Tooltip">You suffer {[Type_StatusEffectData.AI_Joven_Rend.WKNCorruption * 100]}% increased void damage for {[Type_StatusEffectData.AI_Joven_Rend.BaseDuration]} seconds.</string>
 	<string key="AI_Isabella_Phase2_TouchOfCorruption_DisplayName">Touch of Corruption</string>
 	<string key="AI_Isabella_Phase2_TouchOfCorruption_Tooltip">You suffer Corruption Affliction every {[Type_StatusEffectData.AI_Isabella_Phase2_TouchOfCorruption.TickRate]} for {[Type_StatusEffectData.AI_Isabella_Phase2_TouchOfCorruption.BaseDuration]} seconds.</string>
 	<string key="AI_Mage_Miniboss_Orbs_StatusEffect_DisplayName">Arcane Essence</string>
@@ -1098,7 +1099,7 @@
 	<string key="BlockSpeedPerk1_Description">Your movement speed is increased by {[Type_StatusEffectData.BlockSpeedPerk1.MoveSpeedMod * 100]}</string>
 	<string key="BlockSpeedPerk2_Description">Your movement speed is increased by {[Type_StatusEffectData.BlockSpeedPerk2.MoveSpeedMod * 100]}</string>
 	<string key="BlockSpeedPerk3_Description">Your movement speed is increased by {[Type_StatusEffectData.BlockSpeedPerk3.MoveSpeedMod * 100]}</string>
-	<string key="DodgeLowerThreatPerk_DisplayName">Discrete</string>
+	<string key="DodgeLowerThreatPerk_DisplayName">Evasive</string>
 	<string key="DodgeLowerThreatPerk_Description">Threat damage that you deal is temporarily lowered.</string>
 	<string key="DodgeIncreaseThreatPerk_DisplayName">Imposing</string>
 	<string key="DodgeIncreaseThreatPerk_Description">Threat damage that you deal is temporarily increased.</string>
@@ -1294,7 +1295,11 @@
 	<string key="Status_Ability_Lifestaff_Beacon_description">You heal for {[Type_StatusEffectData.Status_Ability_Lifestaff_Beacon.HealthModifierDamageBased * 100]}% casters weapon damage.</string>
 	<string key="Status_Timer_HealingCDROnLow_Description">When this timer is over, Life Staff's Desperate Speed can be triggered again.</string>
 	<string key="Status_Perk_Amulet_StamOnLow_Timer_description">When this ends your Amulet Stamina Recovery can trigger again.</string>
+	<string key="Status_Perk_Amulet_ManaOnLow_Timer_description">When this ends your Amulet Mana Recovery can trigger again.</string>
+	<string key="Status_Perk_Amulet_RemoveOnLow_Timer_description">When this ends your Amulet Purify can trigger again.</string>
+	<string key="Status_Perk_Amulet_FortifyOnLow_Timer_description">When this ends your Amulet Fortified Recovery can trigger again.</string>
 	<string key="Status_Perk_Amulet_ManaOnHit_Timer_description">When this ends your Amulet Gain Mana on Hit at low HP can trigger again.</string>
+	<string key="Status_Perk_Ring_ManaOnHit_Timer_description">When this ends your Ring Gain Mana on Hit at low HP can trigger again.</string>
 	<string key="Status_Perk_Weapon_OnCritBleed_Timer_Description">When this ends your On Crit apply Bleed perk can trigger again.</string>
 	<string key="Status_Perk_Weapon_OnCritHaste_Timer_description">When this ends your On Crit gain Haste perk can trigger again.</string>
 	<string key="Status_Perk_Weapon_OnCritFortify_Timer_Description">When this ends your On Crit gain Fortify perk can trigger again.</string>
@@ -1346,5 +1351,7 @@
 	<string key="Status_Weapon_ChargedHeavyRend_Description" rel_version="MorePerksV1">You suffer {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.ABSStandard * -100]}% increased damage from all sources.</string>
 	<string key="Status_Timer_ChargedHeavyRend_Description" rel_version="MorePerksV1">When this ends, you can trigger the Frost Attunement perk again.</string>
 	<string key="Blunderbuss_LastChance_Desc">You take {[Type_StatusEffectData.Blunderbuss_LastChance.ABSStandard * 100]}% less damage</string>
+	<string key="Status_MothersLove">Mother's Love</string>
+	<string key="Status_MothersLove_Description">You feel a guiding and motherly presence upon you, increasing Luck by {[Type_StatusEffectData.Shrine_MothersLove.GlobalRollMod * 0.01]}% for {[Type_StatusEffectData.Shrine_MothersLove.BaseDuration / 60]}m.</string>
 </resources>
 

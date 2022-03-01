@@ -112,10 +112,6 @@
 	<string key="ui_metachievement_pve_mutate_dungeon_lazarus_title2" rel_version="Feature_Dungeon_Mutators">Pools Of Ruin</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_shipyard_title1" rel_version="Feature_Dungeon_Mutators">Dynastic Cycles</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_shipyard_title2" rel_version="Feature_Dungeon_Mutators">A Ship Of Fail</string>
-	<string key="ui_metachievement_pve_mutate_dungeon_isabellalair_title1" rel_version="Feature_Dungeon_Mutators">Another Descent Into Darkness</string>
-	<string key="ui_metachievement_pve_mutate_dungeon_isabellalair_title2" rel_version="Feature_Dungeon_Mutators">Belly Of The Beast</string>
-	<string key="ui_metachievement_pve_mutate_dungeon_barnacles_title1" rel_version="Feature_Dungeon_Mutators">Cavern Of Corruption</string>
-	<string key="ui_metachievement_pve_mutate_dungeon_barnacles_title2" rel_version="Feature_Dungeon_Mutators">Treasure Island</string>
 	<string key="ui_metachievement_pve_arenascompleted_title">Arena Fighting</string>
 	<string key="ui_metachievement_pvp_killbyfaction_covenant_title1">A Damaging Belief</string>
 	<string key="ui_metachievement_pvp_killbyfaction_covenant_title2">Slowing Down The Zealots</string>
@@ -672,6 +668,9 @@
 	<string key="ui_metachievement_weaponmastery_voidgauntlet_title1">Shouldn't It Feel Lighter, Now?</string>
 	<string key="ui_metachievement_weaponmastery_voidgauntlet_title2">I Feel So Anti-Magical</string>
 	<string key="ui_metachievement_weaponmastery_voidgauntlet_title3">The Void In My Life Has Been Filled</string>
+	<string key="ui_metachievement_weaponmastery_blunderbuss_title1">Blunder Or Bust</string>
+	<string key="ui_metachievement_weaponmastery_blunderbuss_title2">This Is Going To Hurt You A Lot More Than Me </string>
+	<string key="ui_metachievement_weaponmastery_blunderbuss_title3">This Is My Boom Stick!</string>
 	<string key="ui_metachievement_repairscount_title1">Handy With A Bit Of Tape</string>
 	<string key="ui_metachievement_repairscount_title2">Lemme Get My Hammer</string>
 	<string key="ui_metachievement_repairscount_title3">Maintenance Plan</string>
@@ -811,6 +810,7 @@
 	<string key="ui_metachievement_firstnamedcraft_lifestaff_title">Craft A Named Life Staff</string>
 	<string key="ui_metachievement_firstnamedcraft_voidgauntlet_title">Craft A Named Void Gauntlet</string>
 	<string key="ui_metachievement_firstnamedcraft_icegauntlet_title">Craft A Named Ice Gauntlet</string>
+	<string key="ui_metachievement_firstnamedcraft_blunderbuss_title">Craft A Named Blunderbuss</string>
 	<string key="ui_metachievement_craft_namedweaponcount_title1">It's More Luck Than Skill</string>
 	<string key="ui_metachievement_craft_namedweaponcount_title2">I'm Certainly Not Complaining</string>
 	<string key="ui_metachievement_craft_namedweaponcount_title3">It's Like A Large, Deadly Family</string>
@@ -923,9 +923,6 @@
 	<string key="ui_metachievement_pve_mutate_dungeon_genesis_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete The Garden of Genesis, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_lazarus_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Lazarus Instrumentality, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_shipyard_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Dynasty Shipyard, difficulty {number}.</string>
-	<string key="ui_metachievement_pve_mutate_dungeon_isabellalair_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete !undefined dungeon!, difficulty {number}.</string>
-	<string key="ui_metachievement_pve_mutate_dungeon_barnacle_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Barnacles And Black Powder, difficulty {number}.</string>
-	<string key="ui_metachievement_pve_mutate_dungeon_ennead_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete the Ennead, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_arenascompleted_desc">Complete {number} arena battles.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_covenant_desc">Personally defeat {number} Covenant players.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_marauder_desc">Personally defeat {number} Marauder players.</string>
@@ -1078,6 +1075,7 @@
 	<string key="ui_metachievement_weaponmastery_rapier_generic_desc">Reach Rapier Mastery level {number}.</string>
 	<string key="ui_metachievement_weaponmastery_icegauntlet_generic_desc">Reach Ice Gauntlet Mastery level {number}.</string>
 	<string key="ui_metachievement_weaponmastery_voidgauntlet_generic_desc">Reach Void Gauntlet Mastery level {number}.</string>
+	<string key="ui_metachievement_weaponmastery_blunderbuss_generic_desc">Reach Blunderbuss Mastery level {number}.</string>
 	<string key="ui_metachievement_repairscount_generic_desc">Repair {number} inventory items.</string>
 	<string key="ui_metachievement_craftcount_armoring_generic_desc">Craft {number} Armoring items.</string>
 	<string key="ui_metachievement_craftcount_cooking_generic_desc">Craft {number} Cooking items.</string>

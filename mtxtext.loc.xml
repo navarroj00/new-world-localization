@@ -79,11 +79,17 @@
 	<string key="ui_fixed_appearance" rel_version="Feature_MTX">Fixed Appearance</string>
 	<string key="ui_fixed_appearance_tooltip" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; are applied to your character and will be applied to any item equipped in the same slot until you change the appearance or remove it.\n\n&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; cannot be dyed.</string>
 	<string key="ui_transfer_requirement" rel_version="Feature_MTX">Transfer Requirements</string>
-	<string key="ui_transfer_requirement_tooltip" rel_version="Feature_MTX">- You must be in a Sanctuary (Settlement, Outpost, Spirit Shrine, or Watchtower) before transferring\n- You cannot belong to a company before transferring\n- You cannot have active trading post buy/sell orders before transferring</string>
+	<string key="ui_transfer_requirement_tooltip_world_transfer_requirements" rel_version="Feature_MTX">To transfer to a new world:</string>
+	<string key="ui_transfer_requirement_tooltip_region_transfer_requirements" rel_version="Feature_MTX">To transfer to a new region:</string>
+	<string key="ui_transfer_requirement_sanctuary" rel_version="Feature_MTX">You must be in a Sanctuary (Settlement, Outpost, Spirit Shrine, or Watchtower) before transferring</string>
+	<string key="ui_transfer_requirement_not_in_company" rel_version="Feature_MTX">You cannot belong to a company before transferring</string>
+	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">You cannot have active trading post buy/sell orders before transferring</string>
+	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">You must be at least level {level} before transferring</string>
+	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">You must not own any houses before transferring</string>
 	<string key="ui_item_restrictions" rel_version="Feature_MTX">Item Restrictions</string>
 	<string key="ui_item_restrictions_item_skins" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; require the base item to be equipped in order to be visible. &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; cannot be dyed.</string>
 	<string key="ui_item_restrictions_crests" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Company Crests&lt;/font&gt; can only be used if you are the governor (creator) of a company.</string>
-	<string key="ui_item_restrictions_housing_items" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Housing Items&lt;/font&gt; can only be used after you have unlocked housing and own a house.</string>
+	<string key="ui_item_restrictions_housing_items" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Housing Items&lt;/font&gt; can only be used after you have unlocked housing and own a house.\n\nA limited number of &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Lighting and Animated Items&lt;/font&gt; can be displayed in a house at any time.</string>
 	<string key="ui_item_restrictions_dyes" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Dyes&lt;/font&gt; can only be applied on your armor. If the armor is traded or sold the dye will be removed and not returned. You cannot apply dyes on skins.</string>
 	<string key="ui_item_restrictions_camp_skins" rel_version="Feature_Camp_Skins">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Camp Skins&lt;/font&gt; require camping to be unlocked.</string>
 	<string key="ui_non_returnable" rel_version="Feature_MTX">Item is non-refundable.</string>
@@ -428,6 +434,8 @@
 	<string key="server_transfer_requirements_detail1" rel_version="Feature_Server_Transfer">You cannot belong to a Company before transferring</string>
 	<string key="server_transfer_requirements_detail2" rel_version="Feature_Server_Transfer">You cannot have active Trading Post Buy/Sell Orders before transferring</string>
 	<string key="server_transfer_requirements_detail3" rel_version="Feature_Server_Transfer">You must be in a Sanctuary (Settlement, Outpost, Spirit Shrine, or Watchtower) before transferring</string>
+	<string key="server_transfer_requirements_detail_player_level" rel_version="Feature_Server_Transfer">You must be at least level {level} to transfer between regions.</string>
+	<string key="server_transfer_requirements_detail_housing" rel_version="Feature_Server_Transfer">You must not own any houses to transfer between regions.</string>
 	<string key="server_transfer_not_transfer_detail1" rel_version="Feature_Server_Transfer">Your Friends List will be erased and will not carry over</string>
 	<string key="server_transfer_not_transfer_detail2" rel_version="Feature_Server_Transfer">Active Town Project missions will not carry over</string>
 	<string key="server_transfer_not_transfer_detail3" rel_version="Feature_Server_Transfer">Active Faction missions will not carry over</string>
@@ -437,6 +445,7 @@
 	<string key="server_transfer_unavailable_duel" rel_version="Feature_Server_Transfer">You cannot transfer worlds while in a Duel.</string>
 	<string key="server_transfer_unavailable_outpost_rush" rel_version="Feature_Server_Transfer">You cannot transfer worlds while in Outpost Rush.</string>
 	<string key="server_transfer_unavailable_outpost_rush_queue" rel_version="Feature_Server_Transfer">You cannot transfer worlds while in queue for Outpost Rush</string>
+	<string key="server_transfer_unavailable_transfer_world_full" rel_version="Feature_Server_Transfer">This region's transfer list is full, please try again in a few hours</string>
 	<string key="server_transfer_more_details" rel_version="Feature_Server_Transfer">For more details see</string>
 	<string key="server_transfer_transfer_faq" rel_version="Feature_Server_Transfer">Character World Transfer FAQ</string>
 	<string key="server_transfer_final_details" rel_version="Feature_Server_Transfer">Confirming Transfer will log you out to the character select main menu.</string>
@@ -450,6 +459,8 @@
 	<string key="server_transfer_requirements_tradingPost" rel_version="Feature_Server_Transfer">You cannot have active Trading Post Buy/Sell Orders before transferring.</string>
 	<string key="server_transfer_requirements_sanctuary" rel_version="Feature_Server_Transfer">You must be in a Sanctuary (Settlement, Outpost, Spirit Shrine, or Watchtower) before transferring.</string>
 	<string key="server_transfer_requirements_tradingPost_unknown" rel_version="Feature_Server_Transfer">Checking trading post status...</string>
+	<string key="server_transfer_requirements_player_level" rel_version="Feature_Server_Transfer">You must be at least level {level} to transfer between regions.</string>
+	<string key="server_transfer_requirements_housing" rel_version="Feature_Server_Transfer">You must not own any houses to transfer between regions.</string>
 	<string key="server_transfer_confirm" rel_version="Feature_Server_Transfer">CONFIRM WORLD TRANSFER</string>
 	<string key="server_transfer_confirm_button" rel_version="Feature_Server_Transfer">Confirm Transfer</string>
 	<string key="server_transfer_confirm_purchase" rel_version="Feature_Server_Transfer">PURCHASE WORLD TRANSFER</string>
@@ -565,7 +576,7 @@
 	<string key="Apparel_Vogue_name" rel_version="Apparel_Vogue">Court Couture</string>
 	<string key="Apparel_AutumnKing_name" rel_version="Apparel_AutumnKing">Autumnal Lord</string>
 	<string key="Bundle_Tool_Winter21_description" rel_version="MTX_Tool_Skins_Winter"> "Gathering resources in the dead of winter can be a grim and gloomy enterprise. Why not warm the heart with glitter and gilt?"</string>
-	<string key="Apparel_Abyssal_description" rel_version="Apparel_Abyssal_Costume">"Draw upon the power of the void."</string>
+	<string key="Apparel_Abyssal_description" rel_version="Apparel_Abyssal_Costume">"Draw upon the power of the Void."</string>
 	<string key="Apparel_Vogue_description" rel_version="Apparel_Vogue">"True art is never understood in its own time."</string>
 	<string key="Apparel_AutumnKing_description" rel_version="Apparel_AutumnKing">"The cycle of life continues."</string>
 	<string key="Bundle_WarSpecial_Promo_name" rel_version="Bundle_Promo_BlackFriday">Warrior Macabre Bundle</string>
@@ -687,11 +698,11 @@
 	<string key="Weapon_VoidGauntlet_AngelsDemons_name" rel_version="Weapon_VoidGauntlet_AngelsDemons_MTX">Moloch's Fall</string>
 	<string key="Emote_CoconutHorse_description" rel_version="Emote_Coconut_Horse">"Ride upon your trusty steed."</string>
 	<string key="Apparel_Valentines_1_description" rel_version="Apparel_Valentines_MTX_1">"For those who find themselves lost in frequent bouts of admiration and swooning."</string>
-	<string key="Apparel_Valentines_2_description" rel_version="Apparel_Valentines_MTX_2">"Upon donning this armor your chest swells with the urge to protect the innocent, the unguarded, and the lovers of the world."</string>
+	<string key="Apparel_Valentines_2_description" rel_version="Apparel_Valentines_MTX_2">"Upon donning this armor, your chest swells with the urge to protect the innocent, the unguarded, and the lovers of the world."</string>
 	<string key="Bundle_Tool_Valentines_description" rel_version="MTX_Tool_Skins_Valentine">"Love benefits from great effort… and the accumulation of resources."</string>
 	<string key="Apparel_Waveborne_description" rel_version="Apparel_Waveborne_Costume">"Rising from the dark and twisting sea, a deadly wave crashes ashore."</string>
 	<string key="Weapon_Musket_AngelsDemons_description" rel_version="Weapon_Musket_AngelsDemons_MTX">"And so the mountains rang with the cry of Hallelujah!"</string>
-	<string key="Weapon_TowerShield_AngelsDemons_description" rel_version="Weapon_TowerShield_AngelsDemons_MTX">"To protect from wickedness and champion purity one must have a proper shield."</string>
+	<string key="Weapon_TowerShield_AngelsDemons_description" rel_version="Weapon_TowerShield_AngelsDemons_MTX">"To protect from wickedness and champion purity, one must have a proper shield."</string>
 	<string key="Weapon_Rapier_AngelsDemons_description" rel_version="Weapon_Rapier_AngelsDemons_MTX">"A beacon to slice through the darkness, to lift the spirits of all who see it wielded by a champion of the light."</string>
 	<string key="Weapon_VoidGauntlet_AngelsDemons_description" rel_version="Weapon_VoidGauntlet_AngelsDemons_MTX">"A fallen angel makes for a monstrous bearer of sacrifice."</string>
 	<string key="Emote_Swoon_name" rel_version="Emote_Swoon">Swoon</string>
@@ -701,5 +712,6 @@
 	<string key="ui_crestforeground_212" rel_version="Twitch_EpicStory_Skins">Ouroboros</string>
 	<string key="Bundle_Decor_Love2022_name" rel_version="Housing_Love_MTX_Pack_2022">Corrupted Love Décor Bundle</string>
 	<string key="Bundle_Decor_Love2022_description" rel_version="Housing_Love_MTX_Pack_2022">"Furnishings perfect for a romantic evening or for being trapped in a loveless eternity on Aeternum."</string>
+	<string key="prorated_discount">Price adjusted based on unlocked items</string>
 </resources>
 

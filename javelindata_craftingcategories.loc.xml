@@ -1370,7 +1370,6 @@
 	<string key="MoonstoneCut_GroupDesc">Cut and polished Moonstone Gemstones. Can be crafted into jewelry to increase Strength and Focus, or socketed into equipment to provide the Exhilarate and Slash Ward perks.</string>
 	<string key="MoonstoneCut_GroupName">Cut Moonstone</string>
 	<string key="MusketA_GroupDesc">A ranged weapon that fires high-damage cartridges. Ideal for keeping targets at a distance and long-ranged combat with a high payoff for precise aim.\n\n•Standard Attack: Deals {[DamageTable.MusketAttack1.DmgCoef * 100]}% Thrust damage.</string>
-	<string key="Blunderbuss_GroupDesc">A close quarters ranged weapon that fires 6 pellets in a single blast. Ideal for keeping pressure on melee targets and getting up close and personal with ranged targets.\n\n•Standard Attack: Deals {[DamageTable.Blunderbuss_Primary_Attack.DmgCoef * 100]}% Thrust damage per pellet.</string>
 	<string key="MusketA_GroupName">Musket</string>
 	<string key="Muskets_GroupName">Muskets</string>
 	<string key="nut_GroupName">Nut</string>

@@ -10,7 +10,7 @@
 	<string key="ui_dungeon_requirements_gearscore">Recommended Level: {level}</string>
 	<string key="ui_flyout_recommended_groupsize">Recommended Players: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{players}&lt;/font&gt;</string>
 	<string key="ui_dungeon_requirements_equipment_warning">In order to complete this Expedition, your group must have at least &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
-	<string key="ui_dungeon_reward_level">Items you find may vary from the listed items based on their Gear Score.</string>
+	<string key="ui_dungeon_reward_level">The quality of the overall loot will increase as difficulty levels are increased.\n\nItems you find may vary from the listed items based on their Gear Score.</string>
 	<string key="ui_dungeon_level_requirement">Level Requirement: {level}</string>
 	<string key="ui_dungeon_elapsed_time">Time Elapsed:</string>
 	<string key="ui_dungeon_estimated_time_remaining">Estimated Wait Time:</string>
@@ -173,6 +173,6 @@
 	<string key="ui_dungeon_orb_explanation" rel_version="Feature_Dungeon_Mutators">A one time reward. Mutated Expedition Tuning Orbs are also available through the Faction Shop.</string>
 	<string key="ui_dungeon_gearscore_recommendation_tooltip" rel_version="Feature_Dungeon_Mutators">
 	&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Recommended Gear Score&lt;/font&gt;\n\nCombat calculations are affected by the difference between your average Gear Score and the Recommended Gear Score.\n\n&lt;font color="#ff9393"&gt;Lower&lt;/font&gt; than the Recommended Minimum Gear Score will result in &lt;font color="#ffffff"&gt;doing less damage&lt;/font&gt;, and &lt;font color="#ffffff"&gt;taking more damage&lt;/font&gt; from enemies in the Expedition.</string>
-	<string key="ui_dungeon_gearscore_underlevel_warning" rel_version="Feature_Dungeon_Mutators">&lt;font color="#f25d5d" face="lyshineui/fonts/Nimbus_Bold.font"&gt;WARNING:&lt;/font&gt; Your Average Gear Score is too low to perform well in this Expedition.</string>
+	<string key="ui_dungeon_gearscore_underlevel_warning" rel_version="Feature_Dungeon_Mutators">&lt;font color={color} face="lyshineui/fonts/Nimbus_Bold.font"&gt;WARNING:&lt;/font&gt; Your Average Gear Score is too low to perform well in this Expedition.</string>
 </resources>
 

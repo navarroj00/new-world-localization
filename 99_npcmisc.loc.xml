@@ -73,6 +73,7 @@
 	<string key="9924_MSQ_WardenEliza_title" comment="female" gender="F">Soulwarden Sentry</string>
 	<string key="9925_MSQ_WardenSamir_title" comment="male" gender="M">Soulwarden Sentry</string>
 	<string key="9926_VK_AbigailRose_title" comment="female" gender="F">Homesteader</string>
+	<string key="9926_VK_AbigailRoseEp2_title" comment="female" gender="F">Scout Leader</string>
 	<string key="9926_VK_AbigailRose" comment="female" gender="F">Abigail Rose</string>
 	<string key="9927_VK_ScoutsNote_title" comment="female" gender="F">Desdemona's Report</string>
 	<string key="9927_VK_ScoutsNote" comment="female" gender="F">Bloodstained Note</string>
@@ -80,5 +81,11 @@
 	<string key="9928_MSQ_YonasMemorial" comment="male" gender="M">Yonas Memorial</string>
 	<string key="9928_MSQ_YonasMemorial_Examine" comment="male" gender="M">Reflect</string>
 	<string key="9929_MSQ_RecliningThorpe" comment="male" gender="M">Commander Thorpe</string>
+	<string key="9930_VK_RomacBarbo" comment="male" gender="M">Romac Barbo</string>
+	<string key="9930_VK_RomacBarbo_title" comment="male" gender="M">Scout, Scarecrow</string>
+	<string key="9931_VK_Caoimhe" comment="female" gender="F">Caoimhe Alsandair</string>
+	<string key="9931_VK_Caoimhe_title" comment="female" gender="F">Researcher of Magic</string>
+	<string key="9932_VK_RomacNote" comment="male" gender="M">Help!</string>
+	<string key="9932_VK_RomacNote_title" comment="male" gender="M">Request for Assistance</string>
 </resources>
 

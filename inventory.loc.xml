@@ -63,9 +63,9 @@
 	<string key="inv_equipLoadSlow">Heavy</string>
 	<string key="inv_equipLoadOverburdened">Over-Equipped</string>
 	<string key="inv_equipLoadTooltip">The combined weight of your equipped armor and shield determines your Equip Load. Each Equip Load offers a unique dodge and other bonuses.</string>
-	<string key="inv_equipLoadFastTooltip">While wearing light armor, your dodge is a quick roll that covers a lot of distance. You deal 20% bonus damage and {[Type_StatusEffectData.EquipLoad_HealingBonus_Light.HealScalingValueMultiplier * 100]}% bonus healing.</string>
-	<string key="inv_equipLoadNormalTooltip">While wearing medium weight armor, your dodge is a quick hop. You deal 10% bonus damage and {[Type_StatusEffectData.EquipLoad_HealingBonus_Medium.HealScalingValueMultiplier * 100]}% bonus healing. Crowd control debuffs you apply last 10% longer.</string>
-	<string key="inv_equipLoadSlowTooltip">While wearing heavy armor, your dodge is a slow sidestep. Your block stability is increased by 15% and crowd control debuffs you apply last 20% longer.</string>
+	<string key="inv_equipLoadFastTooltip">While wearing light armor, your dodge is a quick roll that covers a lot of distance and consumes {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} stamina. You deal 20% bonus damage and have {[Type_StatusEffectData.EquipLoad_HealingBonus_Light.HealScalingValueMultiplier * 100]}% bonus healing.</string>
+	<string key="inv_equipLoadNormalTooltip">While wearing medium weight armor, your dodge is a quick hop that consumes {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} stamina. You deal 10% bonus damage and have {[Type_StatusEffectData.EquipLoad_HealingBonus_Medium.HealScalingValueMultiplier * 100]}% bonus healing. Crowd control debuffs you apply last 10% longer.</string>
+	<string key="inv_equipLoadSlowTooltip">While wearing heavy armor, your dodge is a slow sidestep that consumes {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} stamina. Your block stability is increased by 15% and crowd control debuffs you apply last 20% longer.</string>
 	<string key="inv_equipLoadOverburdenedTooltip">When you exceed your maximum Equip Load, you cannot dodge, sprint or use abilities. You should unequip some items.</string>
 	<string key="inv_equipLoadEncumberedTooltip">You are carrying too much in your inventory. While encumbered, it doesn't matter what your Equip Load is. You cannot sprint or dodge and lose more stamina while blocking. You should remove some items from your bag.</string>
 	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">You have equipped more than your maximum equip load. You cannot dodge or sprint, and you suffer a significant penalty to stamina recharge rate. You should unequip some items.</string>
@@ -133,8 +133,10 @@
 	<string key="ui_set_quantity">Set quantity</string>
 	<string key="ui_drag_new_stack">Drag new stack</string>
 	<string key="ui_box_opening_open_another_single">Open Next</string>
+	<string key="ui_box_opening_max_items_reached">+ {quantity} more items</string>
 	<string key="ui_dropall">Drop all</string>
 	<string key="ui_dropall_in_trade">Can't drop items while trading</string>
+	<string key="ui_transfer_all_filtered">Cannot move all items in this section while items are filtered.</string>
 	<string key="ui_storeall">Store all</string>
 	<string key="ui_filterDescription">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;HOW TO USE ITEM FILTER&lt;/font&gt;&lt;/font&gt;\n\n&lt;font color="#a6a6a6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Filter by&lt;/font&gt;&lt;/font&gt;\n\n- Item name\n- Minimum Gear Score (ex: 100)\n- Minimum Item Tier (ex: T1)\n\n&lt;font color="#a6a6a6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Examples&lt;/font&gt;&lt;/font&gt;\n\nSword 200\nAxe T1\nPick -iron</string>
 	<string key="ui_filterText">Search</string>

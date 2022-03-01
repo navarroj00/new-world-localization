@@ -22,6 +22,8 @@
 	<string key="ui_banned">Banned</string>
 	<string key="mm_loginerrortitle">Login Error</string>
 	<string key="mm_connectionfailed">Connection Failed</string>
+	<string key="mm_error_code">Error Code:</string>
+	<string key="mm_waitingtotransfer" rel_version="Feature_MTX">Waiting to Transfer to\n{worldName}</string>
 	<string key="ui_open_governors_desk">Open Governor's Desk</string>
 	<string key="mm_disconnected">Disconnected from the server. Reconnecting, please wait ...</string>
 	<string key="mm_retriesfailed">Connection retries exhausted. Please try again later.</string>

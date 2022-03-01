@@ -124,8 +124,8 @@
 	<string key="ui_outpost_rush_battle_tokens_with_value">Battle Tokens {value}</string>
 	<string key="ui_outpost_rush_outpost_under_attack">{value} is under attack</string>
 	<string key="ui_outpost_rush_boss_killed">SCORE FROZEN</string>
-	<string key="ui_outpost_rush_ally_buff">The enemy team's score is frozen for &lt;font color="#ffea00"&gt;3 minutes&lt;/font&gt;!</string>
-	<string key="ui_outpost_rush_enemy_buff">Your team's score is frozen for &lt;font color="#ffea00"&gt;3 minutes&lt;/font&gt;!</string>
+	<string key="ui_outpost_rush_ally_buff">The enemy team's score is frozen for &lt;font color="#ffea00"&gt;2 minutes and 30 seconds&lt;/font&gt;!</string>
+	<string key="ui_outpost_rush_enemy_buff">Your team's score is frozen for &lt;font color="#ffea00"&gt;2 minutes and 30 seconds&lt;/font&gt;!</string>
 	<string key="ui_outpost_rush_armory_built">Armory in {value} has been built</string>
 	<string key="ui_outpost_rush_command_post_built">Command Post in {value} has been built</string>
 	<string key="ui_outpost_rush_command_post_upgrade">Command Post in {value} has been upgraded to Tier {tier}</string>
@@ -134,7 +134,7 @@
 	<string key="ui_outpost_rush_outpost_contested">{value} is being contested!</string>
 	<string key="ui_outpost_rush_boss_spawned">Baroness Hain Spawned</string>
 	<string key="ui_outpost_rush_match_started">Match Started</string>
-	<string key="ui_outpost_rush_match_started_desc">Capture Outposts to score {value}</string>
+	<string key="ui_outpost_rush_match_started_desc">Capture outposts and slay the enemy to score points. First team to {value} points wins!</string>
 	<string key="ui_outpost_rush_score_to_win">{value} to win</string>
 	<string key="ui_outpost_rush_leave">Leave Outpost Rush</string>
 	<string key="ui_outpost_rush_leave_queue_title">Leave Outpost Rush Queue?</string>
@@ -161,6 +161,7 @@
 	<string key="ui_outpost_rush_tutorial_level_requirement">&lt;font color="#ffe294"&gt;Player level {level}&lt;/font&gt; is required to participate in Outpost Rush.</string>
 	<string key="ui_outpost_rush_locked">Locked</string>
 	<string key="ui_outpost_rush_select_summoning_stone">Select Summoning Stone</string>
+	<string key="ui_outpost_rush_barrier">Fort Barrier</string>
 	<string key="ui_or_total_score">TOTAL SCORE</string>
 	<string key="ui_or_points_from">POINTS FROM</string>
 	<string key="ui_or_outpost_a">OUTPOST LUNA</string>
@@ -170,7 +171,7 @@
 	<string key="ui_outpost_rush_summoning_circle">Summoning Circle</string>
 	<string key="ui_outpost_rush_summoning_circle_desc">Use a Summoning Stone at this obelisk to add a monstrous ally to your team for a limited time.</string>
 	<string key="ui_outpost_rush_portal">PORTAL</string>
-	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt;</string>
+	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icon_azoth" xPadding="-3" scale="1.4" yOffset="3"&gt;&lt;/img&gt;</string>
 	<string key="ui_pinning_disabled_while_in_or">Pinning/Unpinning objectives disabled while in Outpost Rush.</string>
 	<string key="ui_pinning_disabled_expeditions">Pinning/Unpinning disabled for Expeditions objectives</string>
 	<string key="ui_or_commandpost_buff_on">Structure is granting team buffs</string>

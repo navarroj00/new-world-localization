@@ -19,7 +19,7 @@
 	<string key="ui_decoration_mode_unpaid">Taxes must be paid to decorate your home.</string>
 	<string key="ui_decorations">Decorations</string>
 	<string key="ui_spirit_shrine">Spirit Shrine</string>
-	<string key="ui_spirit_shrine_desc">Fast travel to any previously visited Settlement, Outpost, or Spirit Shrine.</string>
+	<string key="ui_spirit_shrine_desc">Fast Travel to any previously visited Settlement, Outpost, or Spirit Shrine.</string>
 	<string key="ui_fast_travel">Fast Travel</string>
 	<string key="ui_fast_travel_channel">Fast traveling...</string>
 	<string key="ui_fast_travel_popup_confirm">Would you like to fast travel to this location?</string>
@@ -75,9 +75,9 @@
 	<string key="ui_house_unpaid_taxes_string">Your House (Disabled)</string>
 	<string key="ui_house_tax">Property Tax</string>
 	<string key="ui_house_unpaid_taxes_due_soon">Property Tax due at {territoryName} in: {time}. Pay the property tax to continue using Fast-travel and decoration</string>
-	<string key="ui_house_overdue_at">Property tax Overdue at {territoryName}. Pay the property tax to continue using Fast-travel and decoration</string>
-	<string key="ui_house_overdue_label">Property tax Overdue</string>
-	<string key="ui_house_overdue_desc">Property tax is overdue. Pay the property tax to enable housing features.</string>
+	<string key="ui_house_overdue_at">Property tax OVERDUE at {territoryName}. Pay the property tax to continue using Fast-travel and decoration</string>
+	<string key="ui_house_overdue_label">Property tax OVERDUE</string>
+	<string key="ui_house_overdue_desc">Property tax is OVERDUE. Pay the property tax to enable housing features.</string>
 	<string key="ui_housing_cant_afford">You need more coin to purchase this house.</string>
 	<string key="ui_housing_decorate">Decorate</string>
 	<string key="ui_housing_decorate_desc">Place Furniture and Pets</string>
@@ -130,6 +130,8 @@
 	<string key="ui_num_housing_points">{points} Points</string>
 	<string key="ui_owner_list">Owner List</string>
 	<string key="ui_pay_house_tax_fail">Error paying taxes on home, please try again.</string>
+	<string key="ui_property_tax_disabled">Property tax has been disabled.</string>
+	<string key="ui_property_tax_disabled_short">Property tax disabled</string>
 	<string key="ui_pay_property_tax">Pay Property Tax</string>
 	<string key="ui_pay_property_tax_popup_desc">Property taxes must be paid in order to recall to your house, respawn at your house, and decorate your house.\nTaxes are due {firstCycle} after you buy a house, and every {otherCycle} thereafter.</string>
 	<string key="ui_property_tax">Property Tax</string>
@@ -193,7 +195,7 @@
 	<string key="ui_fast_travel_error_description_inCooldown_with_time">This action is on cooldown.\nCan recall in {time}.</string>
 	<string key="ui_fast_travel_error_noDestination">You have to visit this settlement first in order to fast travel.</string>
 	<string key="ui_fast_travel_error_noDestination_outpost">You have to visit this outpost first in order to fast travel.</string>
-	<string key="ui_fast_travel_error_badStartLoc">You can only fast travel while in a settlement, outpost, or spirit shrine.</string>
+	<string key="ui_fast_travel_error_badStartLoc">You can only Fast Travel while in a Settlement, Outpost, or Spirit Shrine.</string>
 	<string key="ui_fast_travel_error_cantAfford">You have insufficient Azoth.</string>
 	<string key="ui_fast_travel_error_encumbered">You can't fast travel or recall when you are encumbered.</string>
 	<string key="ui_recall_not_available_server_error">Recall is not available due to server error.</string>

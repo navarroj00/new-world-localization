@@ -70,7 +70,7 @@
 	<string key="owg_factionwarinfo_title_2">PvP &amp; Faction War</string>
 	<string key="owg_factionwarinfo_title_2_desc_1">Flagging for PvP</string>
 	<string key="owg_factionwarinfo_title_2_desc_1_bullet_1">Flag for PvP from any Settlement or Outpost (default key U)</string>
-	<string key="owg_factionwarinfo_title_2_desc_1_bullet_2">Earn &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;additional XP&lt;/font&gt; when flagged</string>
+	<string key="owg_factionwarinfo_title_2_desc_1_bullet_2">Get &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;additional XP&lt;/font&gt; and &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;increased Global Luck&lt;/font&gt; when flagged</string>
 	<string key="owg_factionwarinfo_title_2_desc_1_bullet_3">Contribute to &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Faction Influence&lt;/font&gt; within the Territory</string>
 	<string key="owg_factionwarinfo_title_2_desc_2">Territory Control</string>
 	<string key="owg_factionwarinfo_title_2_desc_2_bullet_1">Faction Members of Controlling Faction Enjoy Benefits in Territory and Settlement</string>
@@ -93,7 +93,7 @@
 	<string key="owg_factionwarinfo_title_3_desc_2_bullet_3">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Prevent other Factions&lt;/font&gt; from completing PvP Faction Missions by flagging for PvP and patrolling the Territory</string>
 	<string key="owg_factionwarinfo_title_3_desc_2_bullet_4">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Prevent the controlling&lt;/font&gt; Faction from completing PvP Faction Missions by flagging for PvP and patrolling those Territories</string>
 	<string key="owg_factionwarinfo_title_4">flag for pvp</string>
-	<string key="owg_factionwarinfo_title_4_desc_1_bullet_1">Flag for PvP from any Settlement or Outpost (default key U). Enabling your PvP flag grants &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;additional XP&lt;/font&gt;</string>
+	<string key="owg_factionwarinfo_title_4_desc_1_bullet_1">Flag for PvP from any Settlement or Outpost (default key U). Enabling your PvP flag grants &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;additional XP&lt;/font&gt; and &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Increased Global Luck&lt;/font&gt;</string>
 	<string key="owg_factionwarinfo_title_4_desc_1_bullet_2">Upon leaving a Settlement, you receive a &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;30 second timer&lt;/font&gt; before becoming flagged. Once the timer expires, you are free to engage flagged members of the opposing Factions</string>
 	<string key="owg_factionwarinfo_title_4_desc_1_bullet_3">Contribute to the &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Influence War&lt;/font&gt; to help your faction take control of each Territory by completing PVP Faction Missions. Keep an eye out for enemy players who are flagged, and stop them from earning Influence for their Faction by cutting them down</string>
 	<string key="owg_failure_warning">Failing or abandoning this mission will result in a loss of {amount} {guildName} Tokens.</string>
