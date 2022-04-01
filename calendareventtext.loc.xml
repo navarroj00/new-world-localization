@@ -3,7 +3,21 @@
 	<string key="ui_calendar_event_button_next">Next</string>
 	<string key="ui_calendar_event_button_back">Back</string>
 	<string key="ui_calendar_event_button_go">Let's Go!</string>
+	<string key="ui_calendar_event_button_about_shatterMtn" rel_version="Expedition_ShatterMtn_00_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About Tempest's Heart</string>
 	<string key="ui_calendar_event_button_view_details">View Details</string>
+	<string key="ui_calendar_event_panel1_title" rel_version="Expedition_ShatterMtn_00_Temp">TEMPEST'S HEART</string>
+	<string key="ui_calendar_event_panel1_subtitle" rel_version="Expedition_ShatterMtn_00_Temp">&lt;font color="#ffffff" &gt;New Quests, New Expedition, New Weapon, and More!&lt;/font&gt;</string>
+	<string key="ui_calendar_event_panel1_bullet1_title" rel_version="Expedition_ShatterMtn_00_Temp">New Quests</string>
+	<string key="ui_calendar_event_panel1_bullet1_text" rel_version="Expedition_ShatterMtn_00_Temp">The main story questline continues as you pursue Isabella back to Shattered Mountain. Find Mara Rosa in the cathedral just south of the new expedition's entrance for additional quests.</string>
+	<string key="ui_calendar_event_panel1_bullet2_title" rel_version="Expedition_ShatterMtn_00_Temp">New Expedition</string>
+	<string key="ui_calendar_event_panel1_bullet2_text" rel_version="Expedition_ShatterMtn_00_Temp">The final showdown against Isabella is upon you... Enter the Tempest’s Heart! Discover the secrets of her past while you dive deeper into her corrupted mind.</string>
+	<string key="ui_calendar_event_panel1_bullet3_title" rel_version="Expedition_ShatterMtn_00_Temp">New Weapon</string>
+	<string key="ui_calendar_event_panel1_bullet3_text" rel_version="Expedition_ShatterMtn_00_Temp">The Blunderbuss offers high mobility with potent close-to-mid range DPS and is part of a new Legendary Weapon Quest series.</string>
+	<string key="ui_calendar_event_panel2_title" rel_version="Expedition_ShatterMtn_00_Temp">TEMPEST'S HEART EXPEDITION</string>
+	<string key="ui_calendar_event_panel2_subtile" rel_version="Expedition_ShatterMtn_00_Temp">Pursue the Tempest into a corrupted dimension of reality through the twisted capital city of Myrkgard. The Tempest’s Heart is an endgame expedition for 5 players. Recommended for 60+ players with Gear Score between 550 and 570.</string>
+	<string key="ui_calendar_event_panel3_title" rel_version="Expedition_ShatterMtn_00_Temp">BLUNDERBUSS</string>
+	<string key="ui_calendar_event_panel3_subtile" rel_version="Expedition_ShatterMtn_00_Temp">Containment skills helps you close the gap and blast hot lead into your enemies' faces. Conversely, the Chaos tree focuses on bombarding them with explosive AoE damage. Seek out Wang Tang Zhi in the Ebonscale Reach settlement to start the Legendary Weapon Quest when at Level 60 and maximum Weapon Mastery level.</string>
 	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
+	<string key="url_calendar_event_details" rel_version="Expedition_ShatterMtn_00_Temp">https://www.newworld.com/en-us/news/articles/heartofmadness-ptr</string>
 </resources>
 

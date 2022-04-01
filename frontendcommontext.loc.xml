@@ -15,6 +15,7 @@
 	<string key="mm_serversavailable">{numServers} Worlds Available</string>
 	<string key="mm_serverunavailable">No Available World</string>
 	<string key="mm_serverdown">World Under Maintenance</string>
+	<string key="mm_serveristransfer">Transferring</string>
 	<string key="mm_serverdisabled">World Disabled</string>
 	<string key="mm_defaultworldname">New World</string>
 	<string key="mm_defaultworlddesc">No Description</string>
@@ -24,6 +25,8 @@
 	<string key="mm_connectionfailed">Connection Failed</string>
 	<string key="mm_error_code">Error Code:</string>
 	<string key="mm_waitingtotransfer" rel_version="Feature_MTX">Waiting to Transfer to\n{worldName}</string>
+	<string key="mm_transferworldname" rel_version="Feature_MTX">Transfer To {regionName}</string>
+	<string key="mm_transferinitiated" rel_version="Feature_MTX">Region transfer initiated</string>
 	<string key="ui_open_governors_desk">Open Governor's Desk</string>
 	<string key="mm_disconnected">Disconnected from the server. Reconnecting, please wait ...</string>
 	<string key="mm_retriesfailed">Connection retries exhausted. Please try again later.</string>
@@ -137,6 +140,7 @@
 	<string key="mm_csdkerr_invalid_endpoint">Invalid server address</string>
 	<string key="mm_csdkerr_connection_failed">Server connection failed.</string>
 	<string key="mm_csdkerr_transport_version_mismatch">The server is using an incompatible network version. Please update the game and try again.</string>
+	<string key="mm_csdkerr_transport_security_error">A secure connection could not be made. Please restart or update the game and try again.</string>
 	<string key="mm_csdkerr_registration_failed">Could not connect to server</string>
 	<string key="mm_csdkerr_registration_unmarshal_error">Server data error, please check for a patch.</string>
 	<string key="mm_csdkerr_disconnect">Unexpectedly disconnected from the server. Reconnecting...</string>
@@ -288,6 +292,7 @@
 	<string key="ui_bio">Bio</string>
 	<string key="ui_attributes">Attributes</string>
 	<string key="ui_trade_skills">Trade Skills</string>
+	<string key="ui_how_it_works">How It Works</string>
 	<string key="ui_blacksmithing">Weaponsmithing</string>
 	<string key="ui_estimated_time">Estimated Time</string>
 	<string key="ui_queue_soon">&lt; 1 minute</string>
@@ -375,12 +380,13 @@
 	<string key="crafting_cannot_repair">Cannot repair</string>
 	<string key="crafting_requires_station">Must be at proper station.</string>
 	<string key="crafting_repair_no_requirements">Repairing this item has no requirements.</string>
-	<string key="inv_salvage_tooltip" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {numItems} {itemName}.{gemMessage}</string>
-	<string key="inv_salvage_tooltip_withrepairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {numItems} {itemName} and {numRepairParts} Repair Parts.{gemMessage}</string>
-	<string key="inv_salvage_tooltip_onlyrepairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {numRepairParts} Repair Parts.{gemMessage}</string>
-	<string key="inv_salvage_tooltip_repairparts_and_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {numRepairParts} Repair Parts and {coinAmount}.{gemMessage}</string>
-	<string key="inv_salvage_tooltip_range" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {min}-{max} {itemName}.{gemMessage}</string>
-	<string key="inv_salvage_tooltip_range_withrepairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {min}-{max} {itemName} and {numRepairParts} Repair Parts.{gemMessage}</string>
+	<string key="inv_salvage_tooltip" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {numItems} {itemName}. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_withrepairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {numItems} {itemName} and {numRepairParts} Repair Parts. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_onlyrepairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {numRepairParts} Repair Parts. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_withcoin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {coinAmount}. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_repairparts_and_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {numRepairParts} Repair Parts and {coinAmount}. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_range" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {min}-{max} {itemName}. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_range_withrepairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {min}-{max} {itemName} and {numRepairParts} Repair Parts. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front">There is a small chance of recovering the attached gem.</string>
 	<string key="inv_salvage_tooltip_additional_item" comment="This only applies to fishing when there is a chance to receive additional items.">Additional items such as {itemName} may also be acquired.</string>
 	<string key="inv_salvage_tooltip_recipe">Salvaging this item will teach you the {recipeName} recipe.</string>
@@ -439,6 +445,7 @@
 	<string key="mm_eu_central" comment="EU means European Union">EU Central</string>
 	<string key="mm_ap_southeast" comment="AP means Asian Pacific">AP Southeast</string>
 	<string key="mm_sa_east" comment="SA means South America">SA East</string>
+	<string key="world_set_region_transfer">Region Transfer</string>
 	<string key="mm_stage_qa">QA</string>
 	<string key="mm_stage_alpha">Alpha</string>
 	<string key="mm_charslot_locked_tooltip">Character slot is locked. Slot is unavailable, purchase character slot to unlock this character</string>

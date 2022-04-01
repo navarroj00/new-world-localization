@@ -157,15 +157,18 @@
 	<string key="ui_pingTypeDistance" comment="">{pingType} {distance}</string>
 	<string key="ui_raid_war_header" comment="">Army for war</string>
 	<string key="ui_raid_invasion_header" comment="">Army for Invasion</string>
-	<string key="ui_raid_standby_header" comment="">STANDBY list</string>
-	<string key="ui_raid_armygroups" comment="">Army groups.</string>
-	<string key="ui_raid_backfill" comment="">Back-Fill</string>
-	<string key="ui_raid_your_status" comment="">Your status.</string>
+	<string key="ui_raid_standby_header" comment="">STANDBY</string>
+	<string key="ui_raid_armygroups" comment="">Army</string>
+	<string key="ui_raid_backfill" comment="">Backfill</string>
+	<string key="ui_raid_your_status" comment="">Your status</string>
 	<string key="ui_raid_standby_priority" comment="">PRIORITY</string>
 	<string key="ui_raid_group_header" comment="">Group &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{index}&lt;/font&gt;</string>
+	<string key="ui_raid_group_disabled_tooltip" comment="">Wars now have a maximum of {maxRosterMembers} players. You cannot add any more players to this group.</string>
+	<string key="ui_raid_group_disabled_notification" comment="">Group disabled due to maximum roster change.</string>
+	<string key="ui_raid_max_roster_changed_tooltip" comment="">Wars now have a maximum of {maxRosterMembers} players. You will not be able to add more players above the new maximum.</string>
 	<string key="ui_raid_member_empty" comment="">Empty</string>
-	<string key="ui_raid_leave_button" comment="">Leave Army</string>
-	<string key="ui_raid_leave_standby_button" comment="">Leave Standby</string>
+	<string key="ui_raid_leave_button" comment="">Leave</string>
+	<string key="ui_raid_leave_standby_button" comment="">Leave</string>
 	<string key="ui_raid_fill_button" comment="">Fill Roster</string>
 	<string key="ui_raid_signup_button" comment="">Sign Up</string>
 	<string key="ui_auto" comment="">Auto</string>
@@ -179,11 +182,11 @@
 	<string key="ui_raid_not_signedup_description" comment="">You have not signed up for this war. Sign up for the war now!</string>
 	<string key="ui_invasion_standby_description" comment="">Be Online at {time} {date}, Players will be selected randomly at that time. Stay Tuned!</string>
 	<string key="ui_empty_roster_instruction" comment="">Drag players here\nfrom the standby list on the right.</string>
-	<string key="ui_backfill_tooltip" comment="">The company can decide how to back-fill slots when selected players drop out before the war ends.</string>
-	<string key="ui_backfill_auto_tooltip" comment="">Automatically back-fill players from Standby list based on sign up time.</string>
-	<string key="ui_backfill_manual_tooltip" comment="">Manually select players from Standby list to back-fill abandoned spots.</string>
-	<string key="ui_raid_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / 50</string>
-	<string key="ui_invasion_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / 10</string>
+	<string key="ui_backfill_tooltip" comment="">The company can decide how to backfill slots when selected players drop out before the war ends.</string>
+	<string key="ui_backfill_auto_tooltip" comment="">Automatically backfill players from Standby list based on sign up time.</string>
+	<string key="ui_backfill_manual_tooltip" comment="">Manually select players from Standby list to backfill abandoned spots.</string>
+	<string key="ui_raid_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
+	<string key="ui_invasion_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
 	<string key="ui_promote_disabled_max_tooltip" comment="">Can't promote this player any further</string>
 	<string key="ui_demote_disabled_min_tooltip" comment="">Can't demote this player any further</string>
 	<string key="ui_remove_army" comment="">Remove from army</string>

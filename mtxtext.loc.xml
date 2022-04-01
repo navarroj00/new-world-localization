@@ -12,7 +12,7 @@
 	<string key="ui_weaponskins" rel_version="Feature_MTX">Weapon Skins</string>
 	<string key="ui_toolskins" rel_version="Feature_MTX">Tool Skins</string>
 	<string key="ui_housingitems" rel_version="Feature_MTX">Housing Items</string>
-	<string key="ui_world_transfer_mtx" rel_version="Feature_MTX">World Transfer</string>
+	<string key="ui_world_transfer_mtx" rel_version="Feature_MTX">Character Transfer</string>
 	<string key="ui_guildcrestcolors" rel_version="Feature_MTX">Company Crests</string>
 	<string key="ui_bundles" rel_version="Feature_MTX">Bundles</string>
 	<string key="ui_orderhistory" rel_version="Feature_MTX">Unlocked Items</string>
@@ -56,7 +56,7 @@
 	<string key="reward_type_extra" rel_version="Feature_MTX">Extra</string>
 	<string key="reward_type_entitlement" rel_version="Feature_MTX">ENTITLEMENT</string>
 	<string key="reward_type_marks_of_fortune" rel_version="Feature_MTX">Marks of Fortune</string>
-	<string key="reward_type_service" rel_version="Feature_MTX">World Transfer</string>
+	<string key="reward_type_service" rel_version="Feature_MTX">World Transfer (Single Use)</string>
 	<string key="entitlement_included" rel_version="Feature_MTX">Included</string>
 	<string key="ui_account_bound" rel_version="Feature_MTX">All items are account bound (non-tradeable) and non-refundable</string>
 	<string key="ui_account_bound_tooltip" rel_version="Feature_MTX">All items are account bound (can be used on all of your characters) and cannot be discarded, traded, or sold at the trading post. All items are also non-refundable.\n\n&lt;font face="lyshineui/fonts/Nimbus_Bold.font" &gt;Consumable items: &lt;/font&gt; These items have limited usage and using one on a specific character depletes the count across the account. For example, if you have five dyes and use one on a character, you will now have four dyes if you log onto a different character under the same account.</string>
@@ -79,13 +79,14 @@
 	<string key="ui_fixed_appearance" rel_version="Feature_MTX">Fixed Appearance</string>
 	<string key="ui_fixed_appearance_tooltip" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; are applied to your character and will be applied to any item equipped in the same slot until you change the appearance or remove it.\n\n&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; cannot be dyed.</string>
 	<string key="ui_transfer_requirement" rel_version="Feature_MTX">Transfer Requirements</string>
-	<string key="ui_transfer_requirement_tooltip_world_transfer_requirements" rel_version="Feature_MTX">To transfer to a new world:</string>
-	<string key="ui_transfer_requirement_tooltip_region_transfer_requirements" rel_version="Feature_MTX">To transfer to a new region:</string>
+	<string key="ui_transfer_requirement_tooltip_world_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;To transfer to a new world:&lt;/font&gt;</string>
+	<string key="ui_transfer_requirement_tooltip_region_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;To transfer to a new region:&lt;/font&gt;</string>
 	<string key="ui_transfer_requirement_sanctuary" rel_version="Feature_MTX">You must be in a Sanctuary (Settlement, Outpost, Spirit Shrine, or Watchtower) before transferring</string>
 	<string key="ui_transfer_requirement_not_in_company" rel_version="Feature_MTX">You cannot belong to a company before transferring</string>
 	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">You cannot have active trading post buy/sell orders before transferring</string>
 	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">You must be at least level {level} before transferring</string>
 	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">You must not own any houses before transferring</string>
+	<string key="ui_transfer_requirement_cooldown" rel_version="Feature_MTX">You must wait till the end of the cooldown before you may transfer regions again.</string>
 	<string key="ui_item_restrictions" rel_version="Feature_MTX">Item Restrictions</string>
 	<string key="ui_item_restrictions_item_skins" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; require the base item to be equipped in order to be visible. &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; cannot be dyed.</string>
 	<string key="ui_item_restrictions_crests" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Company Crests&lt;/font&gt; can only be used if you are the governor (creator) of a company.</string>
@@ -422,15 +423,18 @@
 	<string key="Armor_Jesters_Delight_description" rel_version="RoyalCourtSkins">"If the fool can fooleth the fooled, who is then the fool?"</string>
 	<string key="Armor_Deaths_Coronation_name" rel_version="RoyalCourtSkins">Death's Coronation</string>
 	<string key="Armor_Deaths_Coronation_description" rel_version="RoyalCourtSkins">"The king of the dead is still in every way a king."</string>
-	<string key="server_transfer_name" rel_version="Feature_Server_Transfer">World Transfer (Single Use)</string>
+	<string key="server_transfer_name" rel_version="Feature_Server_Transfer">Character Transfer</string>
 	<string key="character_rename" rel_version="MTX_October_Skins">Character Rename (Single Use)</string>
 	<string key="character_rename_description" rel_version="MTX_October_Skins">Allows you to change the character's name.\nSingle use only.</string>
 	<string key="ui_character_world_transfer" rel_version="Feature_Server_Transfer">Character World Transfer</string>
-	<string key="server_transfer_description" rel_version="Feature_Server_Transfer">Allows you to transfer this character to another world that is within the current region.</string>
+	<string key="ui_character_region_transfer" rel_version="Feature_Server_Transfer">Character Region Transfer</string>
+	<string key="server_transfer_description" rel_version="Feature_Server_Transfer">Allows you to transfer this character to another world in another region of your choice.</string>
 	<string key="server_transfer_extra_detail" rel_version="Feature_Server_Transfer">You are allowed 1 free world transfer on your account. Once claimed, it will no longer be available on other characters.</string>
 	<string key="server_transfer_names" rel_version="Feature_Server_Transfer">Transferring &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; to: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{ServerName}&lt;/font&gt; ({WorldSetName})</string>
 	<string key="server_transfer_requirements" rel_version="Feature_Server_Transfer">REQUIREMENTS</string>
 	<string key="server_transfer_not_transfer" rel_version="Feature_Server_Transfer">WHAT WILL NOT TRANSFER</string>
+	<string key="server_transfer_refund_policy" rel_version="Feature_Server_Transfer">REFUND POLICY</string>
+	<string key="server_transfer_cooldown" rel_version="Feature_Server_Transfer">COOLDOWN</string>
 	<string key="server_transfer_requirements_detail1" rel_version="Feature_Server_Transfer">You cannot belong to a Company before transferring</string>
 	<string key="server_transfer_requirements_detail2" rel_version="Feature_Server_Transfer">You cannot have active Trading Post Buy/Sell Orders before transferring</string>
 	<string key="server_transfer_requirements_detail3" rel_version="Feature_Server_Transfer">You must be in a Sanctuary (Settlement, Outpost, Spirit Shrine, or Watchtower) before transferring</string>
@@ -439,21 +443,25 @@
 	<string key="server_transfer_not_transfer_detail1" rel_version="Feature_Server_Transfer">Your Friends List will be erased and will not carry over</string>
 	<string key="server_transfer_not_transfer_detail2" rel_version="Feature_Server_Transfer">Active Town Project missions will not carry over</string>
 	<string key="server_transfer_not_transfer_detail3" rel_version="Feature_Server_Transfer">Active Faction missions will not carry over</string>
+	<string key="server_tranfer_refund_policy_not_refundable" rel_version="Feature_Server_Transfer">This product is not refundable.</string>
+	<string key="server_tranfer_cooldown_detail" rel_version="Feature_Server_Transfer">Cooldown between Region Transfers is {cooldownDuration}.</string>
 	<string key="server_transfer_unavailable_raidid" rel_version="Feature_Server_Transfer">You cannot transfer worlds while in a War.</string>
+	<string key="server_transfer_unavailable_group" rel_version="Feature_Server_Transfer">You should leave your group in order to transfer.</string>
 	<string key="server_transfer_unavailable_dungeon" rel_version="Feature_Server_Transfer">You cannot transfer worlds while in an Expedition.</string>
 	<string key="server_transfer_unavailable_arena" rel_version="Feature_Server_Transfer">You cannot transfer worlds while in an Arena.</string>
 	<string key="server_transfer_unavailable_duel" rel_version="Feature_Server_Transfer">You cannot transfer worlds while in a Duel.</string>
 	<string key="server_transfer_unavailable_outpost_rush" rel_version="Feature_Server_Transfer">You cannot transfer worlds while in Outpost Rush.</string>
 	<string key="server_transfer_unavailable_outpost_rush_queue" rel_version="Feature_Server_Transfer">You cannot transfer worlds while in queue for Outpost Rush</string>
 	<string key="server_transfer_unavailable_transfer_world_full" rel_version="Feature_Server_Transfer">This region's transfer list is full, please try again in a few hours</string>
+	<string key="server_transfer_unavailable_target_region_characters_slots_full" rel_version="Feature_Server_Transfer">Character slots in this region are full. You will need to delete or transfer an existing character in this region before you can transfer in another one.</string>
 	<string key="server_transfer_more_details" rel_version="Feature_Server_Transfer">For more details see</string>
-	<string key="server_transfer_transfer_faq" rel_version="Feature_Server_Transfer">Character World Transfer FAQ</string>
+	<string key="server_transfer_transfer_faq" rel_version="Feature_Server_Transfer">Region Transfer FAQ</string>
 	<string key="server_transfer_final_details" rel_version="Feature_Server_Transfer">Confirming Transfer will log you out to the character select main menu.</string>
 	<string key="server_transfer_final_details_purchase" rel_version="Feature_Server_Transfer">After purchasing, you will be logged out to the character select main menu.</string>
 	<string key="server_transfer_change_world" rel_version="Feature_Server_Transfer">Change World</string>
 	<string key="server_transfer_select_world" rel_version="Feature_Server_Transfer">Select World</string>
+	<string key="server_transfer_select_region" rel_version="Feature_Server_Transfer">Select Region</string>
 	<string key="server_transfer_change_world_tooltip" rel_version="Feature_Server_Transfer">You can change worlds by logging into your character and accessing the in-game store under "World Transfer".</string>
-	<string key="server_transfer_region_hint" rel_version="Feature_Server_Transfer">You can only transfer characters to a different world within the same region. In order to play in a different region, you must create a new character in that region.</string>
 	<string key="server_transfer_maintenance" rel_version="Feature_Server_Transfer">You cannot transfer to a world while it is in maintenance.</string>
 	<string key="server_transfer_requirements_company" rel_version="Feature_Server_Transfer">You cannot belong to a Company or have pending Company invites before transferring.</string>
 	<string key="server_transfer_requirements_tradingPost" rel_version="Feature_Server_Transfer">You cannot have active Trading Post Buy/Sell Orders before transferring.</string>
@@ -461,9 +469,11 @@
 	<string key="server_transfer_requirements_tradingPost_unknown" rel_version="Feature_Server_Transfer">Checking trading post status...</string>
 	<string key="server_transfer_requirements_player_level" rel_version="Feature_Server_Transfer">You must be at least level {level} to transfer between regions.</string>
 	<string key="server_transfer_requirements_housing" rel_version="Feature_Server_Transfer">You must not own any houses to transfer between regions.</string>
-	<string key="server_transfer_confirm" rel_version="Feature_Server_Transfer">CONFIRM WORLD TRANSFER</string>
+	<string key="server_transfer_confirm_world_transfer" rel_version="Feature_Server_Transfer">CONFIRM WORLD TRANSFER</string>
+	<string key="server_transfer_confirm_region_transfer" rel_version="Feature_Server_Transfer">CONFIRM REGION TRANSFER</string>
 	<string key="server_transfer_confirm_button" rel_version="Feature_Server_Transfer">Confirm Transfer</string>
-	<string key="server_transfer_confirm_purchase" rel_version="Feature_Server_Transfer">PURCHASE WORLD TRANSFER</string>
+	<string key="server_transfer_confirm_purchase_world_transfer" rel_version="Feature_Server_Transfer">PURCHASE WORLD TRANSFER</string>
+	<string key="server_transfer_confirm_purchase_region_transfer" rel_version="Feature_Server_Transfer">PURCHASE REGION TRANSFER</string>
 	<string key="server_transfer_confirm_button_purchase" rel_version="Feature_Server_Transfer">Purchase Transfer</string>
 	<string key="server_transfer_select_world_fail" rel_version="Feature_Server_Transfer">You must first select an eligible world.</string>
 	<string key="server_transfer_select_world_fail_same" rel_version="Feature_Server_Transfer">You must select a world the character is not in</string>
@@ -472,6 +482,7 @@
 	<string key="server_transfer_step_1" rel_version="Feature_Server_Transfer">Step 1 of 2</string>
 	<string key="server_transfer_step_2" rel_version="Feature_Server_Transfer">Step 2 of 2</string>
 	<string key="server_transfer_failed" rel_version="Feature_Server_Transfer">World Transfer Request Failed</string>
+	<string key="server_transfer_disabled" rel_version="Feature_Server_Transfer">World transfers are currently disabled</string>
 	<string key="rename_extra_detail" rel_version="MTX_October_Skins">You are allowed 1 free name change on your account. Once claimed, it will no longer be available on other characters.</string>
 	<string key="Housing_Happy_Pumpkin_description" rel_version="MTX_October_Skins">"The miscreant ne’er-do-well was happily damned and damnably happy. You’d smile too if you fooled the Devil himself!"</string>
 	<string key="Housing_Happy_Pumpkin_name" rel_version="MTX_October_Skins">Scapegrace Jack’s Happy Lantern</string>
@@ -519,11 +530,13 @@
 	<string key="Emote_Cry_description" rel_version="Emote_Cry">"Water the earth with your tears."</string>
 	<string key="Apparel_WarSpecial_name" rel_version="Apparel_War_Special">Warrior Macabre </string>
 	<string key="Apparel_ClassicRPGWizard_name" rel_version="Apparel_RPG_Wizard">Sorcerer's Finery</string>
+	<string key="Apparel_ClassicRPGBard_name" rel_version="Apparel_RPG_Bard">The Vested Harmonizer</string>
 	<string key="Apparel_ClassicRPGRogue_name" rel_version="Apparel_RPG_Rogue">Cloaked Charlatan </string>
 	<string key="Apparel_RoyalCourt_Crown_name" rel_version="Apparel_Helmet_Crown">Crown of Ascendance</string>
 	<string key="Apparel_RoyalCourt_Tiara_name" rel_version="Apparel_Helmet_Tiara">Tiara of Ascendance </string>
 	<string key="Apparel_WarSpecial_description" rel_version="Apparel_War_Special">"The resplendent uniform of Death itself, said to stalk every battlefield in Aeternum cursing the island's resurrections."</string>
 	<string key="Apparel_ClassicRPGWizard_description" rel_version="Apparel_RPG_Wizard">"The embroidered garb of those seeking mastery in Aeternum's arcane forces."</string>
+	<string key="Apparel_ClassicRPGBard_description" rel_version="Apparel_RPG_Bard">"Invested in both song and appearance, the wearer finds they want it that way."</string>
 	<string key="Apparel_ClassicRPGRogue_description" rel_version="Apparel_RPG_Rogue">"When your wit is as sharp as your blades, you can take whatever you please in Aeternum."</string>
 	<string key="Apparel_RoyalCourt_Crown_description" rel_version="Apparel_Helmet_Crown">"Aeternum holds a crown to the head of each traveler, they need only rise to meet it."</string>
 	<string key="Apparel_RoyalCourt_Tiara_description" rel_version="Apparel_Helmet_Tiara">"Not even the rugged wilderness of Aeternum can keep a royal from looking their best."</string>
@@ -607,6 +620,8 @@
 	<string key="Weapon_Musket_Lunar_description" rel_version="Weapon_Musket_LunarNewYear_MTX">"From the mouth of a great beast the bullet flies, sinking into its unlucky target."</string>
 	<string key="Weapon_VoidGauntlet_Lunar_name" rel_version="Weapon_VoidGauntlet_LunarNewYear_MTX">Void's Golden Touch</string>
 	<string key="Weapon_VoidGauntlet_Lunar_description" rel_version="Weapon_VoidGauntlet_LunarNewYear_MTX">"Darkness lies within the glint of gold."</string>
+	<string key="Weapon_Blunderbuss_Lunar_name" rel_version="Weapon_Blunderbuss_LunarNewYear_MTX">Firecracker Burster</string>
+	<string key="Weapon_Blunderbuss_Lunar_description" rel_version="Weapon_Blunderbuss_LunarNewYear_MTX">"As quick and as loud as a firecracker, this ornamental gun is more than meets the eye."</string>
 	<string key="Apparel_Lunar_1_name" rel_version="Apparel_LunarNewYear_MTX_1">Jadeite Dragon</string>
 	<string key="Apparel_Lunar_1_description" rel_version="Apparel_LunarNewYear_MTX_1">"Let loose a roar that shakes the foundations of Aeternum."</string>
 	<string key="Apparel_Lunar_2_name" rel_version="Apparel_LunarNewYear_MTX_2">Jadeite Assassin</string>
@@ -667,6 +682,7 @@
 	<string key="reward_type_Weaponskin_GreatAxe" rel_version="New_World_Launch">Great Axe Skin</string>
 	<string key="reward_type_Weaponskin_IceGauntlet" rel_version="New_World_Launch">Ice Gauntlet Skin</string>
 	<string key="reward_type_Weaponskin_VoidGauntlet" rel_version="Weapon_Void_Gauntlet">Void Gauntlet Skin</string>
+	<string key="reward_type_Weaponskin_Blunderbuss" rel_version="Weapon_Blunderbuss">Blunderbuss Skin</string>
 	<string key="reward_type_Apparelskin" rel_version="New_World_Launch">Apparel Skin</string>
 	<string key="reward_type_Weaponskin_Spear" rel_version="New_World_Launch">Spear Skin</string>
 	<string key="reward_type_house_pet" rel_version="New_World_Launch">House Pet</string>
@@ -713,5 +729,15 @@
 	<string key="Bundle_Decor_Love2022_name" rel_version="Housing_Love_MTX_Pack_2022">Corrupted Love Décor Bundle</string>
 	<string key="Bundle_Decor_Love2022_description" rel_version="Housing_Love_MTX_Pack_2022">"Furnishings perfect for a romantic evening or for being trapped in a loveless eternity on Aeternum."</string>
 	<string key="prorated_discount">Price adjusted based on unlocked items</string>
+	<string key="Bundle_Decor_Floral_name" rel_version="Housing_Spring_MTX_Pack_2022">Spring's Blossom Décor Bundle</string>
+	<string key="Bundle_Decor_Floral_description" rel_version="Housing_Spring_MTX_Pack_2022">"Welcome in the new season with the color and freshness of Aeternum's finest flowers."</string>
+	<string key="Apparel_Malachite_L_name" rel_version="Apparel_Malachite_L">Lichen Lord</string>
+	<string key="Apparel_Malachite_M_name" rel_version="Apparel_Malachite_M">Teeming Tetrarch</string>
+	<string key="Apparel_Malachite_H_name" rel_version="Apparel_Malachite_H">Stonebark</string>
+	<string key="Apparel_Wicked_name" rel_version="Apparel_Wicked_Costume">Red Ripping Hood</string>
+	<string key="Apparel_Malachite_L_description" rel_version="Apparel_Malachite_L">"The veins of plants unknown cling to this armor, pulsing with life."</string>
+	<string key="Apparel_Malachite_M_description" rel_version="Apparel_Malachite_M">"Become the ruler of all things verdant and green in this root-wrapped set."</string>
+	<string key="Apparel_Malachite_H_description" rel_version="Apparel_Malachite_H">"Bark as thick and heavy as stone rests on the skin of the wearer, granting them superior immunity."</string>
+	<string key="Apparel_Wicked_description" rel_version="Apparel_Wicked_Costume">"No wolf dare challenge you or Grandma now."</string>
 </resources>
 

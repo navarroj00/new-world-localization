@@ -448,7 +448,25 @@
 	<string key="9901_0035_GoTo1" speaker="UI">Find the stairway to Tirla Beacon</string>
 	<string key="9901_0035_GoTo2" speaker="UI">Climb the Stairs to Tirla Beacon</string>
 	<string key="9901_MSQ_Depths2" speaker="UI">Find Commander Thorpe in the Depths</string>
+	<string key="9901_0036_d_02_Do_Solo" speaker="UI" rel_version="Quest_MSQ_Update_4">Harass Thorpe's Loyalists in Great Cleave</string>
+	<string key="9901_0036_d_00_container_partial_Expedition" speaker="UI" rel_version="Quest_MSQ_Update_4">OR:</string>
+	<string key="9901_0036_masterofthetempest_objective_solo_title" speaker="UI" rel_version="Quest_MSQ_Update_4">Hounding the Master</string>
+	<string key="9901_0036_masterofthetempest_solo_title_wave1" speaker="UI" rel_version="Quest_MSQ_Update_4">Hounding the Master: Stage 1/5</string>
+	<string key="9901_0036_masterofthetempest_solo_title_wave2" speaker="UI" rel_version="Quest_MSQ_Update_4">Hounding the Master: Stage 2/5</string>
+	<string key="9901_0036_masterofthetempest_solo_title_wave3" speaker="UI" rel_version="Quest_MSQ_Update_4">Hounding the Master: Stage 3/5</string>
+	<string key="9901_0036_masterofthetempest_solo_title_wave4" speaker="UI" rel_version="Quest_MSQ_Update_4">Hounding the Master: Stage 4/5</string>
+	<string key="9901_0036_masterofthetempest_solo_title_wave5" speaker="UI" rel_version="Quest_MSQ_Update_4">Hounding the Master: Stage 5/5</string>
+	<string key="9901_0036_masterofthetempest_solo_objective_desc" speaker="UI" rel_version="Quest_MSQ_Update_4">As an alternative to challenging Thorpe in the Depths Expediton, Work with Titus to draw the Tyrant out so that you may fight him on your own terms.</string>
+	<string key="9901_0036_masterofthetempest_solo_encounter1" speaker="UI" rel_version="Quest_MSQ_Update_4">Harass Thorpe's Supporters</string>
+	<string key="9901_0036_masterofthetempest_solo_encounter2" speaker="UI" rel_version="Quest_MSQ_Update_4">Defeat Thorpe's Loyalists</string>
+	<string key="9901_0036_masterofthetempest_solo_encounter3" speaker="UI" rel_version="Quest_MSQ_Update_4">Defeat Thorpe's Lieutenants</string>
+	<string key="9901_0036_masterofthetempest_solo_encounter4" speaker="UI" rel_version="Quest_MSQ_Update_4">Survive the Invading Swarm</string>
+	<string key="9901_0036_masterofthetempest_solo_encounter5" speaker="UI" rel_version="Quest_MSQ_Update_4">Defeat Commander Thorpe</string>
+	<string key="9901_0036_masterofthetempest_solo_all" speaker="UI" rel_version="Quest_MSQ_Update_4">Complete the Quest Encounter "Hounding the Master"</string>
 	<string key="9901_MSQ_TravelToPOI_Depths" speaker="UI">Enter the Depths Expedition and Confront Commander Thorpe [Group]</string>
+	<string key="9901_0036_d_00_container_partial_SoloQuest" rel_version="Quest_MSQ_Update_4">Challenge and Defeat Commander Thorpe:</string>
+	<string key="9901_0036_d_00_TalkToTitus" rel_version="Quest_MSQ_Update_4">Talk to Titus for Another Option [Solo]</string>
+	<string key="9901_0036_d_00_CompleteSolo" rel_version="Quest_MSQ_Update_4">Complete Quest: Hounding the Master [Solo]</string>
 	<string key="9901_0036_masterofthetempest_objective_title" speaker="UI - Quest Title">Into the Depths</string>
 	<string key="9901_0036_masterofthetempest_objective_desc" speaker="UI - Quest Description">Finally, the battle with Commander Thorpe has arrived. Make your way through the Depths and take him down.</string>
 	<string key="9901_0036_masterofthetempest_start_prompt" speaker="UI - Player Prompt">"So everyone else is dead?"</string>
@@ -492,7 +510,7 @@
 	<string key="9903_0039_aherosduty_incomplete" speaker="Émile d'Aquitane" name="Emile_d'Aquitane" gender="M" VO="9903_0039_aherosduty_proposal" VO_Status="Recorded">He… spoke very highly of you, before… everything happened.\n\nIt's just… I'm so sorry.</string>
 	<string key="9903_0039_aherosduty_complete_available_response" speaker="Émile d'Aquitane" name="Emile_d'Aquitane" gender="M" VO="9903_0039_aherosduty_incomplete" VO_Status="Recorded" dialogue-next="@9903_0039_aherosduty_complete_available_response_next">I see your pain. I know it's small consolation, but you're not the first who's had to put down a friend.\n\nNot the last either, I suspect. That demon-woman… was that the one they call the Tempest?</string>
 	<string key="9903_0039_aherosduty_complete_available_response_prompt" speaker="UI - Player Prompt">"I don't know. Probably."</string>
-	<string key="9903_0039_aherosduty_complete_available_response_next" speaker="Émile d'Aquitane" name="Emile_d'Aquitane" gender="M" VO="9903_0039_aherosduty_complete_available_response_prompt" VO_Status="Recorded" dialogue-next="@9903_0039_aherosduty_complete_available_response_next2" dialogue-prompt="@9903_0039_aherosduty_complete_available_response_prompt">The old man told me you had gone to Restless Shore to battle some Corrupted warlord.\n\nI wonder if its possible that she waited until you left to attack.</string>
+	<string key="9903_0039_aherosduty_complete_available_response_next" speaker="Émile d'Aquitane" name="Emile_d'Aquitane" gender="M" VO="9903_0039_aherosduty_complete_available_response_prompt" VO_Status="Recorded" dialogue-next="@9903_0039_aherosduty_complete_available_response_next2" dialogue-prompt="@9903_0039_aherosduty_complete_available_response_prompt">The old man told me you had gone to Restless Shore to battle some Corrupted warlord.\n\nI wonder if it's possible that she waited until you left to attack.</string>
 	<string key="9903_0039_aherosduty_complete_available_response_prompt2" speaker="UI - Player Prompt">"Was Thorpe just a distraction?"</string>
 	<string key="9903_0039_aherosduty_complete_available_response_next2" speaker="Émile d'Aquitane" name="Emile_d'Aquitane" gender="M" VO="9903_0039_aherosduty_complete_available_response_prompt2" VO_Status="Recorded" dialogue-prompt="@9903_0039_aherosduty_complete_available_response_prompt2">Then this slaughter, the destruction of the alliance in its cradle…this was Corruption's true plan. \n\nWere we all nothing more than her pawns?</string>
 	<string key="9903_TravelTo_BarCompanions" speaker="UI">Meet Émile at the Tavern in Restless Shore</string>
@@ -664,14 +682,28 @@
 	<string key="9902_0052_saboteur_complete_available_response_next" speaker="Adiana Theron" name="AdianaTheron" gender="F" VO="9902_0052_saboteur_complete_available_response_prompt" VO_Status="Recorded" dialogue-next="@9902_0052_saboteur_complete_available_response_next2" dialogue-prompt="@9902_0052_saboteur_complete_available_response_prompt">Your plan to Blight the Motherwell seems much too risky. What if you fail to defeat the Tempest? \n\nIf the Corruption remains, the Motherwell will be lost to us forever…</string>
 	<string key="9902_0052_saboteur_complete_available_response_prompt2" speaker="UI - Player Prompt">"I won't fail."</string>
 	<string key="9902_0052_saboteur_complete_available_response_next2" speaker="Adiana Theron" name="AdianaTheron" gender="F" VO="9902_0052_saboteur_complete_available_response_prompt2" VO_Status="Recorded" dialogue-prompt="@9902_0052_saboteur_complete_available_response_prompt2">You ask for so much trust. More trust than the Angry Earth has ever put into any human. \n\nBut up until now, you have proven yourself trustworthy…</string>
+	<string key="9902_0052_d_00_container_partial_All" speaker="UI" rel_version="Quest_MSQ_Update_4">Complete Quest: Hit the Decks [Solo] OR: Sabotage the Fleet at the Dynasty Shipyard [Group]</string>
+	<string key="9902_0052_d_00_container_partial_Expedition" speaker="UI" rel_version="Quest_MSQ_Update_4">OR: Sabotage the Fleet [Group]</string>
 	<string key="9902_0052_SabotageTheEmpress" speaker="UI">Sabotage the Fleet in the Dynasty Shipyard Expedition</string>
+	<string key="9904_0052_deployblightbombs" speaker="UI" rel_version="Quest_MSQ_Update_4">Place Blight Bombs in Cargo Piles destined for the Fleet</string>
+	<string key="9904_0052_deployblightbombs1" speaker="UI" rel_version="Quest_MSQ_Update_4">Place the 1st Blight Bomb</string>
+	<string key="9904_0052_deployblightbombs2" speaker="UI" rel_version="Quest_MSQ_Update_4">Place the 2nd Blight Bomb</string>
+	<string key="9904_0052_deployblightbombs3" speaker="UI" rel_version="Quest_MSQ_Update_4">Place the 3rd Blight Bomb</string>
+	<string key="9904_0052_deployblightbombs4" speaker="UI" rel_version="Quest_MSQ_Update_4">Place the 4th Blight Bomb</string>
+	<string key="9904_0052_deployblightbombs5" speaker="UI" rel_version="Quest_MSQ_Update_4">Place the 5th Blight Bomb</string>
+	<string key="9902_KillGenerals" speaker="UI" rel_version="Quest_MSQ_Update_4">Defeat the Generals of the fleet</string>
 	<string key="9902_0052_TravelTo_Empress" speaker="UI">Sabotage the Fleet at the Dynasty Shipyard [Group]</string>
-	<string key="9902_0052_TravelTo_Empress2" speaker="UI">Venture into the Dynasty Shipyard Expedition [Group]</string>
+	<string key="9902_0052_TravelTo_Empress2" speaker="UI">Venture into the Dynasty Shipyard Expedition</string>
 	<string key="9902_0052_interactship1" speaker="UI">Sabotage the First Ship</string>
 	<string key="9902_0052_interactship2" speaker="UI">Sabotage the Second Ship</string>
 	<string key="9902_0052_interactship3" speaker="UI">Sabotage the Third Ship</string>
 	<string key="9902_0052_interactship4" speaker="UI">Sabotage the Last of the Corrupted Fleet</string>
 	<string key="9902_0052_ChallengeDynasty" speaker="UI">Challenge the Empress directly</string>
+	<string key="9902_0052_d_00_container_partial_SoloQuest" rel_version="Quest_MSQ_Update_4">Disrupt the forces of the Empress [Solo]:</string>
+	<string key="9902_0052_d_00_task_TalkToAdiana" rel_version="Quest_MSQ_Update_4">Talk to Adiana for Options</string>
+	<string key="9902_0052_d_00_CompleteSolo" rel_version="Quest_MSQ_Update_4">Complete Quest: Hit the Decks [Solo]</string>
+	<string key="9902_0052_saboteur_solo_objective_title" speaker="UI" rel_version="Quest_MSQ_Update_4">Hit the Decks</string>
+	<string key="9902_0052_saboteur_solo_objective_desc" speaker="UI" rel_version="Quest_MSQ_Update_4">As an alternative to attacking the Empress and her fleet in the Dynasty Shipyard Expediton, take the blight bombs and plant them in the cargo being brought out to the fleet. While you're there, defeat the Generals of the fleet to disrupt their leadership.</string>
 	<string key="9907_0053_blessingofearth_objective_title" speaker="UI - Quest Title">Blessings of Earth</string>
 	<string key="9907_0053_BlessingsOfTheEarth" speaker="UI">Gain the favor of the residents of the glade</string>
 	<string key="9907_0053_blessingofearth_objective_desc" speaker="UI - Quest Description">Make offerings to the villagers to gain their favor.</string>
@@ -712,8 +744,8 @@
 	<string key="9907_0053_blessingofearth_Ixia_complete_available_response" speaker="Shamaness Ixia" name="ShamanessIxia" gender="F" VO="9906_MSQ_Shamaness_Response_Offering" VO_Status="Recorded" dialogue-next="@9907_0053_blessingofearth_Ixia_complete_available_response_next">The tempest spreads corruption shades the sun \n\nmy people cannot make the food they need \n\nthrough crafting arts their suffering undone \n\nmy blessing cede</string>
 	<string key="9907_0053_blessingofearth_Ixia_complete_available_response_prompt" speaker="UI - Player Prompt">"I should hope so."</string>
 	<string key="9907_0053_blessingofearth_Ixia_complete_available_response_next" speaker="Shamaness Ixia" name="ShamanessIxia" gender="F" VO="9907_0053_blessingofearth_Ixia_complete_available_response_prompt" VO_Status="Recorded" dialogue-prompt="@9907_0053_blessingofearth_Ixia_complete_available_response_prompt">you have earned my blessing</string>
-	<string key="9907_GetEarthspine" speaker="UI">Acquire an Earthspine Leaf</string>
-	<string key="9907_GetDragonGlory" speaker="UI">Acquire a Dragonglory Flower</string>
+	<string key="9907_GetEarthspine" speaker="UI">Acquire an Earthspine Stem</string>
+	<string key="9907_GetDragonGlory" speaker="UI">Acquire a Dragonglory Stem</string>
 	<string key="9907_GetFungalSpores" speaker="UI">Acquire Fungal Spores</string>
 	<string key="9907_GetLodestone" speaker="UI">Acquire a Shocking Lodestone</string>
 	<string key="9907_0053_TaskFoodForIxia" speaker="UI">Combine with Azoth Water at an Arcane Repository</string>
@@ -755,7 +787,7 @@
 	<string key="9910_0056_thetempestsheart_complete_available_response_next_alt" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="9909_0044_thetempestsheart_complete_available_response_next_alt" VO_Status="Recorded" dialogue-prompt="@9910_0056_thetempestsheart_complete_available_response_prompt_alt">Thing is, there's a barrier blocking the way into Shattered Mountain. Until we figure out how to dispel it, we can't get to the Tempest at all. \n\nI promise, we will figure it out. Until then, there's plenty to do around here.</string>
 	<string key="9910_0057_insoulinstone_objective_title" speaker="UI - Quest Title">The Heart of the Tempest</string>
 	<string key="9901_0057_SealTheBreaches" speaker="UI">Enter the Shattered Mountain</string>
-	<string key="9910_0057_insoulinstone_objective_desc" speaker="UI - Quest Description">Find and defeat the Tempest</string>
+	<string key="9910_0057_insoulinstone_objective_desc" speaker="UI - Quest Description">Enter the Tempest's Heart Expedition and look for the Tempest herself -  Captain Isabella - and then confront her and put an end to her campaign of Corruption.</string>
 	<string key="9910_0057_insoulinstone_start_prompt" speaker="UI - Player Prompt">"I'm actually going in."</string>
 	<string key="9910_0057_insoulinstone_proposal" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="9910_0057_insoulinstone_start_prompt" VO_Status="Recorded" dialogue-next="@9910_0057_insoulinstone_proposal_next">I'm sorry… I think I misheard you. Did you say you need to check in at the inn? \n\nPerfectly understandable. I know you've been on a long journey. It's right over there, of course.</string>
 	<string key="9910_0057_insoulinstone_proposal_prompt" speaker="UI - Player Prompt">"No. I'm going into the Mountain."</string>
@@ -765,14 +797,14 @@
 	<string key="9910_0057_insoulinstone_incomplete" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="9910_0057_insoulinstone_proposal_next2" VO_Status="Recorded">I'll say this much, you've got sand.\n\nGo on then - kick the Tempest's ass. The Soulwardens, those of us who remain,  we're behind you all the way.</string>
 	<string key="9910_0057_insoulinstone_complete_available_response" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="9910_0057_insoulinstone_incomplete" VO_Status="Recorded" dialogue-next="@9910_0057_insoulinstone_complete_available_response_next">Wow, you look like hell. It must've been a fight for the ages. We saw the change in the Mountain.\n\nDoes that mean… I can't believe I'm saying this - is the Tempest destroyed?</string>
 	<string key="9910_0057_insoulinstone_complete_available_response_prompt" speaker="UI - Player Prompt">"Yes, and the main breach is sealed."</string>
-	<string key="9901_Enter_Tempest" speaker="UI">Seek Isabella in Tempest's Heart</string>
-	<string key="9900_KillQuest_Isabella1" speaker="UI">Locate and defeat Isabella.</string>
-	<string key="9900_KillQuest_Isabella2" speaker="UI">Locate and defeat Isabella once and for all.</string>
+	<string key="9901_Enter_Tempest" speaker="UI">Venture into the Tempest's Heart Expedition and challenge Captain Isabella</string>
+	<string key="9900_KillQuest_Isabella1" speaker="UI">Delve deeper into the Tempest's Heart to Confront Captain Isabella</string>
+	<string key="9900_KillQuest_Isabella2" speaker="UI">Defeat Captain Isabella at the Throne of Pain</string>
 	<string key="9900_marabook" speaker="UI">Read the Book of Isabella</string>
-	<string key="9910_0057_insoulinstone_complete_available_response_next" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="9910_0057_insoulinstone_complete_available_response_prompt" VO_Status="Recorded" dialogue-prompt="@9910_0057_insoulinstone_complete_available_response_prompt">It's…sealed? We…won? \n\nI don't know what to say. It's been so long since we had some good news around here, I can’t seem to grasp it. \n\nI'll have to tell the others. This will renew our fighting spirit!</string>
+	<string key="9910_0057_insoulinstone_complete_available_response_next" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="9910_0057_insoulinstone_complete_available_response_prompt" VO_Status="Recorded" dialogue-prompt="@9910_0057_insoulinstone_complete_available_response_prompt">It's… sealed? We… won? I don't know what to say. It's been so long since we had some good news around here, I can’t seem to grasp it. \n\nI'll have to tell the others. This will renew our fighting spirit!</string>
 	<string key="9910_0058_finallyexhale_objective_title" speaker="UI - Quest Title">Finally, Exhale</string>
 	<string key="9910_0058_finallyexhale_objective_desc" speaker="UI - Quest Description">Tell your friends the good news.</string>
-	<string key="9910_0058_finallyexhale_start_prompt" speaker="UI - Player Prompt">"I can't wait."</string>
+	<string key="9910_0058_finallyexhale_start_prompt" speaker="UI - Player Prompt">"I can't argue with that."</string>
 	<string key="9910_0058_finallyexhale_proposal" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="Warden_9910_0058_finallyexhale_ProposalResponse" VO_Status="Recorded">I'm sure there are other people all over Aeternum who would welcome this news.\n\nI'll leave it to you to share the good word. Thank you, {playerName}. I never thought this day would come.</string>
 	<string key="9910_0058_finallyexhale_incomplete" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="Warden_9910_0058_finallyexhale_InProgResponse" VO_Status="Recorded">I think it's going to take some time for me to really internalize this turn of events.</string>
 	<string key="9910_0058_finallyexhale_complete_available_response" speaker="n/a" gender="M">If we don't have hope, what do we have?</string>

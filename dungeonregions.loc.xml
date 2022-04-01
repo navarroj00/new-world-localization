@@ -104,6 +104,27 @@
 	<string key="ui_icon_Ebonscale00_description_miniboss_heavy">LEVEL 55 MINIBOSS \n COMMANDER OF THE SHIPYARD AND CHEN'S HANDLERS</string>
 	<string key="ui_icon_ebonscale00_Monolith">Corrupted Monolith</string>
 	<string key="ui_icon_ebonscale00_Rockets">Place Rockets</string>
+	<string key="ui_area_shattermtn00_basilica" rel_version="Expedition_ShatterMtn_00">BASILICA</string>
+	<string key="ui_area_shattermtn00_cellar" rel_version="Expedition_ShatterMtn_00">CELLAR OF DESPAIR</string>
+	<string key="ui_area_shattermtn00_cityofdarkness" rel_version="Expedition_ShatterMtn_00">CITY OF DARKNESS</string>
+	<string key="ui_area_shattermtn00_corruptedsea" rel_version="Expedition_ShatterMtn_00">SEA OF CORRUPTION</string>
+	<string key="ui_area_shattermtn00_descent" rel_version="Expedition_ShatterMtn_00">DESCENT</string>
+	<string key="ui_area_shattermtn00_gateofmadness" rel_version="Expedition_ShatterMtn_00">GATE OF MADNESS</string>
+	<string key="ui_area_shattermtn00_passage" rel_version="Expedition_ShatterMtn_00">DARK PASSAGE</string>
+	<string key="ui_area_shattermtn00_graveyard" rel_version="Expedition_ShatterMtn_00">CORRUPTED GRAVEYARD</string>
+	<string key="ui_area_shattermtn00_naga" rel_version="Expedition_ShatterMtn_00">BLOODSTAIN</string>
+	<string key="ui_area_shattermtn00_throne" rel_version="Expedition_ShatterMtn_00">THRONE OF PAIN</string>
+	<string key="ui_area_shattermtn00_watchtower" rel_version="Expedition_ShatterMtn_00">CASTILLO DE LEON</string>
+	<string key="ui_icon_shattermtn00_cellarkey" rel_version="Expedition_ShatterMtn_00">CELLAR KEY</string>
+	<string key="ui_icon_shattermtn00_gatcellar" rel_version="Expedition_ShatterMtn_00">CELLAR OF DESPAIR (LOCKED)</string>
+	<string key="ui_icon_shattermtn00_title_isabella" rel_version="Expedition_ShatterMtn_00">ISABELLA</string>
+	<string key="ui_icon_shattermtn00_description_isabella" rel_version="Expedition_ShatterMtn_00">LEVEL 66 BOSS\nLEADER OF AETERNUM'S CORRUPTED FORCES</string>
+	<string key="ui_icon_shattermtn00_unconverted" rel_version="Expedition_ShatterMtn_00">ISABELLA</string>
+	<string key="ui_icon_shattermtn00_title_naga" rel_version="Expedition_ShatterMtn_00">CORRUPTED NAGA</string>
+	<string key="ui_icon_shattermtn00_description_naga" rel_version="Expedition_ShatterMtn_00">LEVEL 66 BOSS\nGUARDIAN TO THE THRONE</string>
+	<string key="ui_icon_shattermtn00_voidtunnel" rel_version="Expedition_ShatterMtn_00">PORTAL</string>
+	<string key="ui_icon_shattermtn00_voidtunnelexit" rel_version="Expedition_ShatterMtn_00">EXIT</string>
+	<string key="ui_icon_shattermtn00_relicbox" rel_version="Expedition_ShatterMtn_00">RELIQUARY</string>
 	<string key="ui_icon_amrine_azothscript">Azoth Scripts</string>
 	<string key="ui_icon_amrine_azothseal">Azoth Seal</string>
 	<string key="ui_icon_amrine_vestibuleseal">Azoth Seal</string>

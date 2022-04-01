@@ -1044,10 +1044,10 @@
 	<string key="Opportunist2Desc">+{[GlobalAbilityTable.BonusDamageLowHealthPerk2.BaseDamage * 100]}% damage against targets with less than {[GlobalAbilityTable.BonusDamageLowHealthPerk2.TargetHealthPercent]}% Health.</string>
 	<string key="Opportunist3Desc">+{[GlobalAbilityTable.BonusDamageLowHealthPerk3.BaseDamage * 100]}% damage against targets with less than {[GlobalAbilityTable.BonusDamageLowHealthPerk3.TargetHealthPercent]}% Health.</string>
 	<string key="Opportunist4Desc">+{[GlobalAbilityTable.BonusDamageLowHealthPerk4.BaseDamage * 100]}% damage against targets with less than {[GlobalAbilityTable.BonusDamageLowHealthPerk4.TargetHealthPercent]}% Health.</string>
-	<string key="Retaliate1Desc">Deal +{[Type_StatusEffectData.RetaliateBonusDamagePerk1.DMGStandard * 100]}% damage for {[Type_StatusEffectData.RetaliateBonusDamagePerk1.StopOnHitCount]} hits after receiving 3 hits.</string>
-	<string key="Retaliate2Desc">Deal +{[Type_StatusEffectData.RetaliateBonusDamagePerk2.DMGStandard * 100]}% damage for {[Type_StatusEffectData.RetaliateBonusDamagePerk2.StopOnHitCount]} hits after receiving 3 hits.</string>
-	<string key="Retaliate3Desc">Deal +{[Type_StatusEffectData.RetaliateBonusDamagePerk3.DMGStandard * 100]}% damage for {[Type_StatusEffectData.RetaliateBonusDamagePerk3.StopOnHitCount]} hits after receiving 3 hits.</string>
-	<string key="Retaliate4Desc">Deal +{[Type_StatusEffectData.RetaliateBonusDamagePerk4.DMGStandard * 100]}% damage for {[Type_StatusEffectData.RetaliateBonusDamagePerk4.StopOnHitCount]} hits after receiving 3 hits.</string>
+	<string key="Retaliate1Desc">Deal +{[Type_StatusEffectData.RetaliateBonusDamagePerk1.DMGStandard * 100]}% damage for {[Type_StatusEffectData.RetaliateBonusDamagePerk1.BaseDuration]} seconds after taking a hit.</string>
+	<string key="Retaliate2Desc">Deal +{[Type_StatusEffectData.RetaliateBonusDamagePerk2.DMGStandard * 100]}% damage for {[Type_StatusEffectData.RetaliateBonusDamagePerk2.BaseDuration]} seconds after taking a hit.</string>
+	<string key="Retaliate3Desc">Deal +{[Type_StatusEffectData.RetaliateBonusDamagePerk3.DMGStandard * 100]}% damage for {[Type_StatusEffectData.RetaliateBonusDamagePerk3.BaseDuration]} seconds after taking a hit.</string>
+	<string key="Retaliate4Desc">Deal +{[Type_StatusEffectData.RetaliateBonusDamagePerk4.DMGStandard * 100]}% damage for {[Type_StatusEffectData.RetaliateBonusDamagePerk4.BaseDuration]} seconds after taking a hit.</string>
 	<string key="Relentless1Desc">Every third successful attack deals {[GlobalAbilityTable.RelentlessDefenseDamagePerk1.BlockDamage * 100]}% additional Stamina damage.</string>
 	<string key="Relentless2Desc">Every third successful attack deals {[GlobalAbilityTable.RelentlessDefenseDamagePerk2.BlockDamage * 100]}% additional Stamina damage.</string>
 	<string key="Relentless3Desc">Every third successful attack deals {[GlobalAbilityTable.RelentlessDefenseDamagePerk3.BlockDamage * 100]}% additional Stamina damage.</string>
@@ -1357,7 +1357,7 @@
 	<string key="PerkID_Ability_LifeStaff_SacredGround_Name">Fortifying Sacred Ground</string>
 	<string key="PerkID_Ability_LifeStaff_SacredGround_Description">Allies healed by Sacred Ground gain Fortify, increasing damage absorption by {[Type_StatusEffectData.Status_Perk_LifeStaff_SacredGround_Fortify.ABSStandard * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_LifeStaff_SacredGround_Fortify.BaseDuration]} seconds.</string>
 	<string key="PerkID_Ability_LifeStaff_SplashOfLight_Name">Energizing Splash Of Light</string>
-	<string key="PerkID_Ability_LifeStaff_SplashOfLight_Description">Allies hit with Splash of Light gain {[Type_StatusEffectData.Status_Perk_LifeStaff_SplashOfLight_StamMod.Stamina * {perkMultiplier}]} stamina.</string>
+	<string key="PerkID_Ability_LifeStaff_SplashOfLight_Description">Allies healed with Splash of Light gain {[Type_StatusEffectData.Status_Perk_LifeStaff_SplashOfLight_StamMod.Stamina * {perkMultiplier}]} stamina.</string>
 	<string key="PerkID_Ability_LifeStaff_OrbOfProtection_Name">Mending Protection</string>
 	<string key="PerkID_Ability_LifeStaff_OrbOfProtection_Description">Increase healing power by {[Type_StatusEffectData.Status_Perk_LifeStaff_Protection_HealBuff.HealScalingValueMultiplier * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_LifeStaff_Protection_HealBuff.BaseDuration]} seconds if Orb of Protection heals an ally with less than {[GlobalAbilityTable.GlobalPerk_Ability_LifeStaff_OrbOfProtection.TargetHealthPercent]}% health.</string>
 	<string key="PerkID_Ability_LifeStaff_LightsEmbrace_Name">Accelerating Light's Embrace</string>
@@ -1485,9 +1485,9 @@
 	<string key="PerkID_Bags_AzothYield_Name">Azoth Attuned</string>
 	<string key="PerkID_Bags_AzothYield_Description">When you gain Azoth gain {[Type_StatusEffectData.Status_Perk_Bags_AzothYield.AzothMod * 100 * {perkMultiplier}]}% more.</string>
 	<string key="PerkID_Bags_ArrowReturn_Name">Plentiful Arrows</string>
-	<string key="PerkID_Bags_ArrowReturn_Description">When landing a hit with a bow {[GlobalAbilityTable.Global_Bags_ArrowReturn.RefundAmmoPercentChance * 100 * {perkMultiplier}]}% chance you gain an arrow.</string>
+	<string key="PerkID_Bags_ArrowReturn_Description">When landing a hit with a bow there is a {[GlobalAbilityTable.Global_Bags_ArrowReturn.RefundAmmoPercentChance * 100 * {perkMultiplier}]}% chance you gain 1 arrow. ({[GlobalAbilityTable.Global_Bags_ArrowReturn.ActivationCooldown]}s cooldown.)</string>
 	<string key="PerkID_Bags_AmmoReturn_Name">Plentiful Shells</string>
-	<string key="PerkID_Bags_AmmoReturn_Description">When landing a hit with a rifle {[GlobalAbilityTable.Global_Bags_AmmoReturn.RefundAmmoPercentChance * 100 * {perkMultiplier}]}% chance you gain ammo.</string>
+	<string key="PerkID_Bags_AmmoReturn_Description">When landing a hit with a firearm there is a {[GlobalAbilityTable.Global_Bags_AmmoReturn.RefundAmmoPercentChance * 100 * {perkMultiplier}]}% chance you gain 1 ammo. ({[GlobalAbilityTable.Global_Bags_AmmoReturn.ActivationCooldown]}s cooldown.)</string>
 	<string key="PerkID_Bags_FactionGain_Name">Loyalty</string>
 	<string key="PerkID_Bags_FactionGain_Description">When you gain faction tokens gain {[Type_StatusEffectData.Status_Perk_Bags_FactionGain.FactionTokensMod * 100 * {perkMultiplier}]}% more.</string>
 	<string key="PerkID_Armor_DefAncient_Name">Ancient Ward</string>
@@ -1633,7 +1633,7 @@
 	<string key="PerkID_Earring_HealthRegen_Name">Regenerating</string>
 	<string key="PerkID_Earring_HealthRegen_Description">You gain {[Type_StatusEffectData.Status_Perk_Earring_HealthRegen.HealthModifierPercent * 100 * {perkMultiplier}]}% health every second.</string>
 	<string key="PerkID_Earring_ManaRegen_Name">Focused</string>
-	<string key="PerkID_Earring_ManaRegen_Description">+{[AffixStatDataTable.Affix_Earring_ManaRegen.ManaRate * 100 {perkMultiplier}]} mana regen.</string>
+	<string key="PerkID_Earring_ManaRegen_Description">+{[AffixStatDataTable.Affix_Earring_ManaRegen.ManaRate * 100 {perkMultiplier}]}% mana regen.</string>
 	<string key="PerkID_Earring_StaminaRegen_Name">Nimble</string>
 	<string key="PerkID_Earring_StaminaRegen_Description">+{[AffixStatDataTable.Affix_Earring_StaminaRegen.StaminaRate * 100 * {perkMultiplier}]}% stamina regen.</string>
 	<string key="PerkID_Earring_ThreatAdd_Name">Despised</string>
@@ -1693,17 +1693,17 @@
 	<string key="PerkID_Weapon_ManaOnHit_Name">Siphoning Blow</string>
 	<string key="PerkID_Weapon_ManaOnHit_Description">You gain {[GlobalAbilityTable.Global_Weapon_ManaOnHit.Mana * 100 * {perkMultiplier}]}% mana per hit. (cooldown {[Type_StatusEffectData.Status_Perk_Weapon_ManaonHit_Timer.BaseDuration]}s). Does not trigger off persistent damage or DoT effects.</string>
 	<string key="PerkID_Weapon_ChainLightning_Name">Chain Lightning</string>
-	<string key="PerkID_Weapon_ChainLightning_Description">Basic attack hits trigger a Lightning chain that bounces between close targets. (2s Cooldown)</string>
+	<string key="PerkID_Weapon_ChainLightning_Description">Basic attack hits trigger a Lightning chain that bounces between close targets and deals {[Type_StatusEffectData.ChainLightningDamage.HealthModifierDamageBased * -100]}% weapon damage. (2s Cooldown)</string>
 	<string key="PerkID_Weapon_ChainFire_Name">Chain Fire</string>
-	<string key="PerkID_Weapon_ChainFire_Description">Basic attack hits trigger a Fire chain that bounces between close targets. (2s Cooldown)</string>
+	<string key="PerkID_Weapon_ChainFire_Description">Basic attack hits trigger a Fire chain that bounces between close targets and deals {[Type_StatusEffectData.ChainFireDamage.HealthModifierDamageBased * -100]}% weapon damage. (2s Cooldown)</string>
 	<string key="PerkID_Weapon_ChainArcane_Name">Chain Arcane</string>
-	<string key="PerkID_Weapon_ChainArcane_Description">Basic attack hits trigger a Arcane chain that bounces between close targets. (2s Cooldown)</string>
+	<string key="PerkID_Weapon_ChainArcane_Description">Basic attack hits trigger an Arcane chain that bounces between close targets and deals {[Type_StatusEffectData.ChainArcaneDamage.HealthModifierDamageBased * -100]}% weapon damage. (2s Cooldown)</string>
 	<string key="PerkID_Weapon_ChainVoid_Name">Chain Void</string>
-	<string key="PerkID_Weapon_ChainVoid_Description">Basic attack hits trigger a Void chain that bounces between close targets. (2s Cooldown)</string>
+	<string key="PerkID_Weapon_ChainVoid_Description">Basic attack hits trigger a Void chain that bounces between close targets and deals {[Type_StatusEffectData.ChainVoidDamage.HealthModifierDamageBased * -100]}% weapon damage. (2s Cooldown)</string>
 	<string key="PerkID_Weapon_ChainIce_Name">Chain Ice</string>
-	<string key="PerkID_Weapon_ChainIce_Description">Basic attack hits trigger a Ice chain that bounces between close targets. (2s Cooldown)</string>
+	<string key="PerkID_Weapon_ChainIce_Description">Basic attack hits trigger an Ice chain that bounces between close targets and deals {[Type_StatusEffectData.ChainIceDamage.HealthModifierDamageBased * -100]}% weapon damage. (2s Cooldown)</string>
 	<string key="PerkID_Weapon_ChainNature_Name">Chain Nature</string>
-	<string key="PerkID_Weapon_ChainNature_Description">Basic attack hits trigger a Nature chain that bounces between close targets. (2s Cooldown)</string>
+	<string key="PerkID_Weapon_ChainNature_Description">Basic attack hits trigger a Nature chain that bounces between close targets and deals {[Type_StatusEffectData.ChainNatureDamage.HealthModifierDamageBased * -100]}% weapon damage. (2s Cooldown)</string>
 	<string key="PerkID_Weapon_Siege_Name">Ruinous</string>
 	<string key="PerkID_Weapon_Siege_Description">+{[GlobalAbilityTable.Global_Weapon_Siege.BaseDamage * 100 * {perkMultiplier}]}% Siege Damage.</string>
 	<string key="PerkID_Weapon_OnKillHeal_Name">Mortal Lifesteal</string>
@@ -1753,7 +1753,7 @@
 	<string key="PerkID_Shield_DefLightning_Name">Lightning Shield Ward</string>
 	<string key="PerkID_Shield_DefLightning_Description">You take {[AffixStatDataTable.Affix_Amulet_DefLightning.ABSLightning * 100 * {perkMultiplier}]}% less Lightning damage.</string>
 	<string key="PerkID_Shield_DefStrike_Name">Strike Shield Ward</string>
-	<string key="PerkID_Shield_DefStrike_Description">You take {[AffixStatDataTable.Affix_Amulet_DefStrike.ABSStrike * 100 * {perkMultiplier}]}% less Lightning damage.</string>
+	<string key="PerkID_Shield_DefStrike_Description">You take {[AffixStatDataTable.Affix_Amulet_DefStrike.ABSStrike * 100 * {perkMultiplier}]}% less Strike damage.</string>
 	<string key="PerkID_Gem_ThreatAdd1_Name">Taunting I</string>
 	<string key="PerkID_Gem_ThreatAdd1_Description">Taunts are active. You generate +{[GlobalAbilityTable.Global_Gem_ThreatAdd1.ThreatDamage * 100 * {perkMultiplier}]}% more threat.</string>
 	<string key="PerkID_Gem_ThreatAdd2_Name">Taunting II</string>
@@ -1826,5 +1826,45 @@
 	<string key="PerkID_Armor_RangeDefense_Physical_Description" rel_version="MorePerksV1">You take {[GlobalAbilityTable.Global_Armor_RangeDefense_Physical.BaseDamageReduction * 100 * {perkMultiplier}]}% less damage from ranged physical standard attacks.</string>
 	<string key="PerkID_Armor_RangeDefense_Elemental_Name" rel_version="MorePerksV1">Elemental Aversion</string>
 	<string key="PerkID_Armor_RangeDefense_Elemental_Description" rel_version="MorePerksV1">You take {[GlobalAbilityTable.Global_Armor_RangeDefense_Elemental.BaseDamageReduction * 100 * {perkMultiplier}]}% less damage from ranged elemental standard attacks.</string>
+	<string key="PerkID_Ability_Blunderbuss_NetShot_Name" rel_version="Weapon_Blunderbuss">Exhaustive Net Shot</string>
+	<string key="PerkID_Ability_Blunderbuss_NetShot_Description" rel_version="Weapon_Blunderbuss">Net Shot inflicts exhaust, reducing target's stamina regeneration by {[Type_StatusEffectData.Status_Perk_Blunderbuss_NetShot_Exhaust.StaminaRate * -100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Blunderbuss_NetShot_Exhaust.BaseDuration]}s. </string>
+	<string key="PerkID_Ability_Blunderbuss_AzothShrapnelBlast_Name" rel_version="Weapon_Blunderbuss">Leeching Shrapnel Blast</string>
+	<string key="PerkID_Ability_Blunderbuss_AzothShrapnelBlast_Description" rel_version="Weapon_Blunderbuss">Heal for {[GlobalAbilityTable.GlobalPerk_Ability_Blunderbuss_Shrapnel_LifeSteal.DmgPctToHealth * 100 * {perkMultiplier}]}% of the damage dealt from Azoth Shrapnel Blast.</string>
+	<string key="PerkID_Ability_Blunderbuss_ClawShot_Name" rel_version="Weapon_Blunderbuss">Venturing Claw Shot</string>
+	<string key="PerkID_Ability_Blunderbuss_ClawShot_Description" rel_version="Weapon_Blunderbuss">When Claw Shot connects to a target at least {[GlobalAbilityTable.GlobalPerk_Ability_Blunderbuss_ClawShot_Empower.DistFromDefender]}m away, gain a {[Type_StatusEffectData.Status_Perk_Blunderbuss_ClawShot_Empower.DMGStandard * 100 * {perkMultiplier}]}% Empower for {[Type_StatusEffectData.Status_Perk_Blunderbuss_ClawShot_Empower.BaseDuration]}s or until next hit.</string>
+	<string key="PerkID_Ability_Blunderbuss_ScatterGrenade_Name" rel_version="Weapon_Blunderbuss">Plagued Splitting Grenade</string>
+	<string key="PerkID_Ability_Blunderbuss_ScatterGrenade_Description" rel_version="Weapon_Blunderbuss">Splitting Grenade hits inflict disease, reducing healing efficiency on target by {[Type_StatusEffectData.Status_Perk_Blunderbuss_Grenade_Disease.HealMod * -100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Blunderbuss_Grenade_Disease.BaseDuration]}s.</string>
+	<string key="PerkID_Ability_Blunderbuss_MortarCharge_Name" rel_version="Weapon_Blunderbuss">Resupplying Mortar Charge</string>
+	<string key="PerkID_Ability_Blunderbuss_MortarCharge_Description" rel_version="Weapon_Blunderbuss">Mortar Charge kills reload 1 additional canister. (Limited to 1 reload per shot. Will not reload past 3 canisters.)</string>
+	<string key="PerkID_Ability_Blunderbuss_VortexShot_Name" rel_version="Weapon_Blunderbuss">Crippling Blast Shot</string>
+	<string key="PerkID_Ability_Blunderbuss_VortexShot_Description" rel_version="Weapon_Blunderbuss">Targets hit by Blast Shot are slowed, reducing movement speed by {[Type_StatusEffectData.Status_Perk_Blunderbuss_VortexShot_Slow.MoveSpeedMod * -100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Blunderbuss_VortexShot_Slow.BaseDuration]}s.</string>
+	<string key="PerkID_Weapon_DodgeSuccess_FireDMG_Name" rel_version="MorePerksV2">Shirking Flames</string>
+	<string key="PerkID_Weapon_DodgeSuccess_FireDMG_Description" rel_version="MorePerksV2">Dodging through an enemy attack causes your next hit within {[Type_StatusEffectData.Status_Perk_Weapon_DodgeSuccess_FireDMG_Tracker.BaseDuration]}s to deal an additional {[Type_StatusEffectData.Status_Perk_Weapon_DodgeSuccess_FireDMG.HealthModifierDamageBased * -100 * {perkMultiplier}]}% base weapon damage as Fire.</string>
+	<string key="PerkID_Weapon_DodgeSuccess_NatureDMG_Name" rel_version="MorePerksV2">Shirking Nature</string>
+	<string key="PerkID_Weapon_DodgeSuccess_NatureDMG_Description" rel_version="MorePerksV2">Dodging through an enemy attack causes your next hit within {[Type_StatusEffectData.Status_Perk_Weapon_DodgeSuccess_NatureDMG_Tracker.BaseDuration]}s to deal an additional {[Type_StatusEffectData.Status_Perk_Weapon_DodgeSuccess_NatureDMG.HealthModifierDamageBased * -100 * {perkMultiplier}]}% base weapon damage as Nature.</string>
+	<string key="PerkID_Weapon_DodgeSuccess_IceDMG_Name" rel_version="MorePerksV2">Shirking Frost</string>
+	<string key="PerkID_Weapon_DodgeSuccess_IceDMG_Description" rel_version="MorePerksV2">Dodging through an enemy attack causes your next hit within {[Type_StatusEffectData.Status_Perk_Weapon_DodgeSuccess_IceDMG_Tracker.BaseDuration]}s to deal an additional {[Type_StatusEffectData.Status_Perk_Weapon_DodgeSuccess_IceDMG.HealthModifierDamageBased * -100 * {perkMultiplier}]}% base weapon damage as Ice.</string>
+	<string key="PerkID_Weapon_DodgeSuccess_LightningDMG_Name" rel_version="MorePerksV2">Shirking Lightning</string>
+	<string key="PerkID_Weapon_DodgeSuccess_LightningDMG_Description" rel_version="MorePerksV2">Dodging through an enemy attack causes your next hit within {[Type_StatusEffectData.Status_Perk_Weapon_DodgeSuccess_LightningDMG_Tracker.BaseDuration]}s to deal an additional {[Type_StatusEffectData.Status_Perk_Weapon_DodgeSuccess_LightningDMG.HealthModifierDamageBased * -100 * {perkMultiplier}]}% base weapon damage as Lightning.</string>
+	<string key="PerkID_Weapon_DodgeSuccess_VoidDMG_Name" rel_version="MorePerksV2">Shirking Abyss</string>
+	<string key="PerkID_Weapon_DodgeSuccess_VoidDMG_Description" rel_version="MorePerksV2">Dodging through an enemy attack causes your next hit within {[Type_StatusEffectData.Status_Perk_Weapon_DodgeSuccess_VoidDMG_Tracker.BaseDuration]}s to deal an additional {[Type_StatusEffectData.Status_Perk_Weapon_DodgeSuccess_VoidDMG.HealthModifierDamageBased * -100 * {perkMultiplier}]}% base weapon damage as Void.</string>
+	<string key="PerkID_Weapon_DodgeSuccess_ArcaneDMG_Name" rel_version="MorePerksV2">Shirking Arcane</string>
+	<string key="PerkID_Weapon_DodgeSuccess_ArcaneDMG_Description" rel_version="MorePerksV2">Dodging through an enemy attack causes your next hit within {[Type_StatusEffectData.Status_Perk_Weapon_DodgeSuccess_ArcaneDMG_Tracker.BaseDuration]}s to deal an additional {[Type_StatusEffectData.Status_Perk_Weapon_DodgeSuccess_ArcaneDMG.HealthModifierDamageBased * -100 * {perkMultiplier}]}% base weapon damage as Arcane.</string>
+	<string key="PerkID_Amulet_DodgeSuccess_CleanseDoT_Name" rel_version="MorePerksV2">Shirking DoT Cleanse </string>
+	<string key="PerkID_Amulet_DodgeSuccess_CleanseDoT_Description" rel_version="MorePerksV2">Dodging through an enemy attack while in a light equip load causes you to lose 1 DoT (Bleed, Burn, Poison) debuff. (Can only trigger once every {[Type_StatusEffectData.Status_Perk_Amulet_DodgeSuccess_CleanseDoT_Timer.BaseDuration]} seconds.)</string>
+	<string key="PerkID_Amulet_DodgeSuccess_CleanseDebilitate_Name" rel_version="MorePerksV2">Shirking Debilitate Cleanse </string>
+	<string key="PerkID_Amulet_DodgeSuccess_CleanseDebilitate_Description" rel_version="MorePerksV2">Dodging through an enemy attack while in a medium equip load causes you to lose 1 Debilitate (Rend, Weaken, Exhaust, Disease) debuff. (Can only trigger once every {[Type_StatusEffectData.Status_Perk_Amulet_DodgeSuccess_CleanseDebilitate_Timer.BaseDuration]} seconds.)</string>
+	<string key="PerkID_Armor_DodgeSuccess_Fortify_Name" rel_version="MorePerksV2">Shirking Fortification</string>
+	<string key="PerkID_Armor_DodgeSuccess_Fortify_Description" rel_version="MorePerksV2">Dodging through an enemy attack grants fortify, increasing damage absorption by {[Type_StatusEffectData.Status_Perk_Armor_DodgeSuccess_Fortify.ABSStandard * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Armor_DodgeSuccess_Fortify.BaseDuration]}s. Each armor piece with this perk increases the potency of the effect.</string>
+	<string key="PerkID_Head_OnCritTaken_CritChance_Name" rel_version="MorePerksV2">Critical Retribution</string>
+	<string key="PerkID_Head_OnCritTaken_CritChance_Description" rel_version="MorePerksV2">On Crit taken, gain {[Type_StatusEffectData.Status_Perk_Head_OnCritTaken_CritChance.CritChanceModifier * 100 * {perkMultiplier}]}% increased crit chance for {[Type_StatusEffectData.Status_Perk_Head_OnCritTaken_CritChance.BaseDuration]}s ({[Type_StatusEffectData.Status_Perk_Head_OnCritTaken_CritChance_Timer.BaseDuration]}s Cooldown)</string>
+	<string key="PerkID_Chest_OnBlockedHitTaken_StaminaRegen_Name" rel_version="MorePerksV2">Sturdy Energy</string>
+	<string key="PerkID_Chest_OnBlockedHitTaken_StaminaRegen_Description" rel_version="MorePerksV2">When blocking a hit while below {[GlobalAbilityTable.Global_Chest_OnBlockedHitTaken_StaminaRegen.MyStaminaPercent]}% stamina, gain {[Type_StatusEffectData.Status_Perk_Chest_OnBlockedHitTaken_StaminaRegen.StaminaRate * 100 * {perkMultiplier}]}% increased stamina regen for {[Type_StatusEffectData.Status_Perk_Chest_OnBlockedHitTaken_StaminaRegen.BaseDuration]}s (Does not trigger if Exhausted).</string>
+	<string key="PerkID_Hands_OnBlockedHit_EmpowerStack_Name" rel_version="MorePerksV2">Empowering Breaker</string>
+	<string key="PerkID_Hands_OnBlockedHit_EmpowerStack_Description" rel_version="MorePerksV2">When your attacks are blocked, gain a stack of empower, increasing damage by {[Type_StatusEffectData.Status_Perk_Hands_OnBlockedHit_EmpowerStack.DMGStandard * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Hands_OnBlockedHit_EmpowerStack.BaseDuration]}s ({[Type_StatusEffectData.Status_Perk_Hands_OnBlockedHit_EmpowerStack.StackMax]} stacks Max)</string>
+	<string key="PerkID_Legs_DodgeSuccess_Stamina_Name" rel_version="MorePerksV2">Shirking Energy</string>
+	<string key="PerkID_Legs_DodgeSuccess_Stamina_Description" rel_version="MorePerksV2">If a hit is avoided by dodging while in a light equip load, gain {[Type_StatusEffectData.Status_Perk_Legs_DodgeSuccess_Stamina.Stamina * {perkMultiplier}]} stamina ({[Type_StatusEffectData.Status_Perk_Legs_DodgeSuccess_Stamina_Timer.BaseDuration]}s cooldown)</string>
+	<string key="PerkID_Tools_GatherProc_Regen_Name" rel_version="MorePerksV2">Gathering Recovery</string>
+	<string key="PerkID_Tools_GatherProc_Regen_Description" rel_version="MorePerksV2">While not in combat, After gathering from a node, heal for {[Type_StatusEffectData.Status_Perk_Tools_GatherProc_GainHealth.Health * {perkMultiplier}]} HP per second for {[Type_StatusEffectData.Status_Perk_Tools_GatherProc_GainHealth.BaseDuration]}. (Removed if any damage is taken)</string>
 </resources>
 

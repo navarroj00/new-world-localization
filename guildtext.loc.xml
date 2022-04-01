@@ -137,6 +137,7 @@
 	<string key="ui_treasury_notification_withdrawalcappeddailylimit">&lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage} was withdrawn from the company treasury (capped by daily limit).</string>
 	<string key="ui_treasury_notification_setdailylimitsuccess">Daily withdrawal limit is set to &lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage}.</string>
 	<string key="ui_treasury_notification_setdailylimitsuccessinfinite">Daily withdrawal limit is set to {infinityImage}.</string>
+	<string key="ui_treasury_notification_cointransferaldisabled">You need to be at least level {minLevel} to use the guild treasury.</string>
 	<string key="ui_treasury_notification_error_generic">Treasury operation failed. Please retry.</string>
 	<string key="ui_setSiegeWindow">Set Siege Window</string>
 	<string key="ui_forDefending">For defending your territories</string>
@@ -254,7 +255,13 @@
 	<string key="ui_promote">Promote</string>
 	<string key="ui_promote_transfer_owner">Transfer Ownership</string>
 	<string key="ui_promotetoguildmaster_confirm_title">Transfer Company?</string>
-	<string key="ui_promotetoguildmaster_confirm" comment="Pronoun for Transferring ownership to a player. Need to break into two string keys">Are you sure you want to transfer Company Governorship to {memberName}?\n\nAll members, claims, structures and treasury funds of {guildName} will fall under the control of {memberName} as the new Governor of {guildName}. The Company Name and Crest will remain the same. You will be demoted one rank.\n\nYou cannot undo this action, and the change will be effective immediately.</string>
+	<string key="ui_promotetoguildmaster_confirm_part1" comment="Pronoun for local player.">Are you sure you want to transfer Company Governorship to {memberName}?</string>
+	<string key="ui_promotetoguildmaster_confirm_part1_SHE" comment="Pronoun for local player.">Are you sure you want to transfer Company Governorship to {memberName}?</string>
+	<string key="ui_promotetoguildmaster_confirm_part1_THEY" comment="Pronoun for local player.">Are you sure you want to transfer Company Governorship to {memberName}?</string>
+	<string key="ui_promotetoguildmaster_confirm_part2" comment="Pronoun for player ownership is transfered to.">All members, claims, structures and treasury funds of {guildName} will fall under the control of {memberName} as the new Governor of {guildName}. The Company Name and Crest will remain the same. You will be demoted one rank.</string>
+	<string key="ui_promotetoguildmaster_confirm_part2_SHE" comment="Pronoun for player ownership is transfered to.">All members, claims, structures and treasury funds of {guildName} will fall under the control of {memberName} as the new Governor of {guildName}. The Company Name and Crest will remain the same. You will be demoted one rank.</string>
+	<string key="ui_promotetoguildmaster_confirm_part2_THEY" comment="Pronoun for player ownership is transfered to.">All members, claims, structures and treasury funds of {guildName} will fall under the control of {memberName} as the new Governor of {guildName}. The Company Name and Crest will remain the same. You will be demoted one rank.</string>
+	<string key="ui_promotetoguildmaster_confirm_part3">You cannot undo this action, and the change will be effective immediately.</string>
 	<string key="ui_rank">Rank</string>
 	<string key="ui_rankmovedowndisabled">This is the lowest rank</string>
 	<string key="ui_rankmoveupdisabled">Cannot move above {gmRankName}</string>
@@ -324,7 +331,7 @@
 	<string key="ui_wardeclarationpopup_attackinfopopup_title">Before You Declare a War...</string>
 	<string key="ui_wardeclarationpopup_attackinfopopup_message">Keep in mind that the &lt;font color={defendingColorHex}&gt;defending company can re-declare a war&lt;/font&gt;\nby initiating a &lt;font color={counterAttackColor}&gt;counter attack&lt;/font&gt; in &lt;font color={resolutionPhaseColor}&gt;Resolution phase&lt;/font&gt;.\n\nIf a counter attack is initiated, the &lt;font color={situationReversedColor}&gt;situation will be reversed&lt;/font&gt;.\nYour company will have to defend your claim, and the enemy will attack!</string>
 	<string key="ui_wardeclarationpopup_declare_title">Declaration of War</string>
-	<string key="ui_wardeclarationpopup_declare_message">When a war is declared, your company can attack the fortress for 30 minutes with up to 50 players.\nWhen your company successfully takes down the claim marker in the fortress, your company becomes the governor of the territory.</string>
+	<string key="ui_wardeclarationpopup_declare_message">When a war is declared, your company can attack the fortress for 30 minutes with up to {maxRosterMembers} players.\nWhen your company successfully takes down the claim marker in the fortress, your company becomes the governor of the territory.</string>
 	<string key="ui_wardeclarationpopup_declare_image_war">Declare War</string>
 	<string key="ui_wardeclarationpopup_declare_image_attack">Attack the Fortress</string>
 	<string key="ui_wardeclarationpopup_declare_image_territory">Claim the Territory</string>
@@ -398,7 +405,7 @@
 	<string key="ui_contesting">Contesting</string>
 	<string key="ui_point_taken">Rally Point Taken</string>
 	<string key="ui_warphase_resolution">Resolution</string>
-	<string key="ui_warphase_scoutingdesc">&lt;font color={phaseColorHex}&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;PRE-WAR PHASE&lt;/font&gt;&lt;/font&gt;\n\nAll fighters must sign up at the War Board in the territory, and the governor must assign them into the 50 available slots.</string>
+	<string key="ui_warphase_scoutingdesc">&lt;font color={phaseColorHex}&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;PRE-WAR PHASE&lt;/font&gt;&lt;/font&gt;\n\nAll fighters must sign up at the War Board in the territory, and the governor must assign them into the {maxRosterMembers} available slots.</string>
 	<string key="ui_warphase_battledesc">&lt;font color={phaseColorHex}&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;BATTLE PHASE&lt;/font&gt;&lt;/font&gt;\n\nThis phase has been deprecated and should not appear.</string>
 	<string key="ui_warphase_resolutiondesc">&lt;font color={phaseColorHex}&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;RESOLUTION PHASE&lt;/font&gt;&lt;/font&gt;\n\nWar wrap-up. Review the war results, and all fighters will be teleported to the territory's Settlement.</string>
 	<string key="ui_warphase_siegedesc">&lt;font color={phaseColorHex}&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;SIEGE WINDOW&lt;/font&gt;&lt;/font&gt;\n\nInvites go out to the army 15 minutes before the war, and all will be teleported to the Fort. The winner takes the territory.</string>
@@ -435,6 +442,7 @@
 	<string key="ui_trade_failure_global_storage_not_enough_currency">You do not have enough funds to cover the withdrawal fee for remotely stored items.</string>
 	<string key="ui_trade_failure_global_storage_wrong_faction">Withdrawing requires both territories to be in your faction and be current on their upkeep.</string>
 	<string key="ui_trade_failure_global_storage_invalid_deposit">You can only deposit items to the storage shed at your current location.</string>
+	<string key="ui_trade_failure_global_storage_invalid_deposit_rfi">You can only deposit items into storage sheds from settlements you have visited.</string>
 	<string key="ui_guildclaimsowned">Claims Owned</string>
 	<string key="ui_guildoneclaimowned">Claim Owned</string>
 	<string key="ui_acceptguildinvitepopuptitle">Join New Company?</string>
@@ -599,8 +607,8 @@
 	<string key="ui_signup_instruction_desc_1_invasion">10 players will be selected by the company, 40 players will be randomly selected at the time of Invasion.</string>
 	<string key="ui_signup_instruction_desc_2_war">If you are selected, Be online by &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{time}, {date}&lt;/font&gt;&lt;/font&gt;. If you are not online by this time, &lt;font color="#ffffff"&gt;you will lose your spot&lt;/font&gt;.\nYou will be teleported to the fort when it starts, so you don’t need to be physically in the fort!</string>
 	<string key="ui_signup_instruction_desc_2_invasion">Be online by &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{time}, {date}&lt;/font&gt;&lt;/font&gt;. 40 players will be randomly selected at that time.\nIf you are not online by this time, you won't get a spot!</string>
-	<string key="ui_signup_instruction_desc_3_war">Even if you are not selected by the time of war, Don’t worry. You might have a chance to back-fill during the war,\nif you stay online during the war.</string>
-	<string key="ui_signup_instruction_desc_3_invasion">Even if you are not selected by the time of Invasion, Don’t worry. You might have a chance to back-fill during the invasion,\nif you stay online during the invasion.</string>
+	<string key="ui_signup_instruction_desc_3_war">Even if you are not selected by the time of war, Don’t worry. You might have a chance to backfill during the war,\nif you stay online during the war.</string>
+	<string key="ui_signup_instruction_desc_3_invasion">Even if you are not selected by the time of Invasion, Don’t worry. You might have a chance to backfill during the invasion,\nif you stay online during the invasion.</string>
 	<string key="ui_war_tutorial_title_1">Control Points.</string>
 	<string key="ui_war_tutorial_title_2">A Win Condition.</string>
 	<string key="ui_war_tutorial_title_3">Respawning.</string>

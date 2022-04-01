@@ -57,13 +57,13 @@
 	<string key="owg_factionwarinfo_header_4" comment="PVP=Player vs Player">Pvp Flagging</string>
 	<string key="owg_factionwarinfo_header_5">Join Faction</string>
 	<string key="owg_factionwarinfo_title_1">Why Join a Faction?</string>
-	<string key="owg_factionwarinfo_title_1_desc_1">Engage in Special Faction Missions</string>
+	<string key="owg_factionwarinfo_title_1_desc_1">Engage in Faction Missions</string>
 	<string key="owg_factionwarinfo_title_1_desc_1_bullet_1">Complete Missions for &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;XP&lt;/font&gt;, &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Coin&lt;/font&gt;, and &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Faction Tokens&lt;/font&gt;.</string>
 	<string key="owg_factionwarinfo_title_1_desc_1_bullet_2">Earn Influence to determine Territory Control</string>
-	<string key="owg_factionwarinfo_title_1_desc_1_bullet_3">Compete strategically against enemy Factions in PvP Missions</string>
+	<string key="owg_factionwarinfo_title_1_desc_1_bullet_3">Compete against enemy Factions in PvP Missions to determine Territory Control</string>
 	<string key="owg_factionwarinfo_title_1_desc_2">Gain Access to Elite Faction Gear</string>
 	<string key="owg_factionwarinfo_title_1_desc_2_bullet_1">Spend Faction Tokens on Special Weapons, Armor, and Consumables</string>
-	<string key="owg_factionwarinfo_title_1_desc_2_bullet_2">Earn Ranks to Unlock Advanced Tiers and Crafting Components</string>
+	<string key="owg_factionwarinfo_title_1_desc_2_bullet_2">Earn Ranks to unlock Advanced Gear and Crafting Components</string>
 	<string key="owg_factionwarinfo_title_1_desc_3">Enjoy the Benefits of Territory Control</string>
 	<string key="owg_factionwarinfo_title_1_desc_3_bullet_1">Reduced cost for Workshops and Fast Travel</string>
 	<string key="owg_factionwarinfo_title_1_desc_3_bullet_2">Complete Town Missions to Upgrade the Settlement</string>
@@ -78,24 +78,24 @@
 	<string key="owg_factionwarinfo_title_2_desc_2_bullet_3">Opposing Factions &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Undermine&lt;/font&gt; enemy Faction’s Control by completing PvP Faction Missions</string>
 	<string key="owg_factionwarinfo_title_2_desc_2_bullet_4">Earn enough Influence to challenge for Territory Control through a Declaration of War</string>
 	<string key="owg_factionwarinfo_title_2_desc_3">Faction War</string>
-	<string key="owg_factionwarinfo_title_2_desc_3_bullet_1">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;50 v 50 player&lt;/font&gt; siege combat at a Territory’s Fortress</string>
-	<string key="owg_factionwarinfo_title_2_desc_3_bullet_2">Utilize a variety of &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Siege Weapons&lt;/font&gt; to get the upper hand on your opponents.</string>
-	<string key="owg_factionwarinfo_title_2_desc_3_bullet_3">The Attacker’s objective is to claim the capture point at the &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;heart of the fortress&lt;/font&gt;.</string>
+	<string key="owg_factionwarinfo_title_2_desc_3_bullet_1">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;{maxRosterMembers} v {maxRosterMembers} player&lt;/font&gt; siege combat at a Territory’s Fort</string>
+	<string key="owg_factionwarinfo_title_2_desc_3_bullet_2">The winner determines who controls the Territory</string>
+	<string key="owg_factionwarinfo_title_2_desc_3_bullet_3">The Attacker’s objective is to &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;claim the capture point at the heart of the fortress&lt;/font&gt;.</string>
 	<string key="owg_factionwarinfo_title_2_desc_3_bullet_4">The Defender’s objective is to &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;fend off the attackers for 30 minutes&lt;/font&gt;.</string>
 	<string key="owg_factionwarinfo_title_3">Territory Control</string>
 	<string key="owg_factionwarinfo_title_3_desc_1">Territory Influence</string>
-	<string key="owg_factionwarinfo_title_3_desc_1_bullet_1">Territory Influence is a measure of a Faction's control of a Territory</string>
-	<string key="owg_factionwarinfo_title_3_desc_1_bullet_2">Complete &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Faction PvP Missions&lt;/font&gt; to retain control of a Territory</string>
-	<string key="owg_factionwarinfo_title_3_desc_1_bullet_3">The Factions that do not control that Territory must complete PvP Faction Missions to enable a Declaration of War</string>
+	<string key="owg_factionwarinfo_title_3_desc_1_bullet_1">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Territory Influence&lt;/font&gt; is a measure of a Faction's control of a Territory</string>
+	<string key="owg_factionwarinfo_title_3_desc_1_bullet_2">Factions can earn &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Territory Influence&lt;/font&gt; by completing &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;PvP Faction Missions&lt;/font&gt; and controlling the &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Territory's Fort&lt;/font&gt;</string>
+	<string key="owg_factionwarinfo_title_3_desc_1_bullet_3">Attacking Factions that reach &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;100% Territory Influence&lt;/font&gt; can &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;declare war&lt;/font&gt; on the defending Faction</string>
 	<string key="owg_factionwarinfo_title_3_desc_2">Reinforce or undermine a faction’s territory</string>
 	<string key="owg_factionwarinfo_title_3_desc_2_bullet_1">Controlling Factions &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Reinforce&lt;/font&gt; control by completing PvP Faction Missions</string>
 	<string key="owg_factionwarinfo_title_3_desc_2_bullet_2">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Undermine&lt;/font&gt; the opposing Faction’s Territories by completing PvP Faction Missions within their Territories</string>
 	<string key="owg_factionwarinfo_title_3_desc_2_bullet_3">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Prevent other Factions&lt;/font&gt; from completing PvP Faction Missions by flagging for PvP and patrolling the Territory</string>
 	<string key="owg_factionwarinfo_title_3_desc_2_bullet_4">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Prevent the controlling&lt;/font&gt; Faction from completing PvP Faction Missions by flagging for PvP and patrolling those Territories</string>
 	<string key="owg_factionwarinfo_title_4">flag for pvp</string>
-	<string key="owg_factionwarinfo_title_4_desc_1_bullet_1">Flag for PvP from any Settlement or Outpost (default key U). Enabling your PvP flag grants &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;additional XP&lt;/font&gt; and &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Increased Global Luck&lt;/font&gt;</string>
+	<string key="owg_factionwarinfo_title_4_desc_1_bullet_1">Turn your PvP flag on (default key U) from any Sanctuary, such as a Settlement or Outpost.</string>
 	<string key="owg_factionwarinfo_title_4_desc_1_bullet_2">Upon leaving a Settlement, you receive a &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;30 second timer&lt;/font&gt; before becoming flagged. Once the timer expires, you are free to engage flagged members of the opposing Factions</string>
-	<string key="owg_factionwarinfo_title_4_desc_1_bullet_3">Contribute to the &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Influence War&lt;/font&gt; to help your faction take control of each Territory by completing PVP Faction Missions. Keep an eye out for enemy players who are flagged, and stop them from earning Influence for their Faction by cutting them down</string>
+	<string key="owg_factionwarinfo_title_4_desc_1_bullet_3">Turning on your PvP flag grants &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;an XP Bonus&lt;/font&gt; and allows you to participate in PvP missions, control Territory Forts, and battle other players.</string>
 	<string key="owg_failure_warning">Failing or abandoning this mission will result in a loss of {amount} {guildName} Tokens.</string>
 	<string key="owg_guildreputation_name">{guildName} Reputation</string>
 	<string key="owg_guildcurrency_name">{guildName} Tokens</string>
@@ -163,6 +163,10 @@
 	<string key="owg_rewardtype_warinfluence_med">++</string>
 	<string key="owg_rewardtype_warinfluence_high">+++</string>
 	<string key="owg_rewardtype_warinfluence_label">Influence</string>
+	<string key="owg_activebonus_type_dailybonus">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;Daily Bonus&lt;/font&gt;</string>
+	<string key="owg_activebonus_type_fortcontrolbonus">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;{territory} Fort Control Bonus&lt;/font&gt;</string>
+	<string key="owg_activebonus_type_territorybonus">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;{territory} Territory Bonuses&lt;/font&gt;</string>
+	<string key="owg_activebonus_type_restedxpbonus">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;Rested XP Bonus&lt;/font&gt;</string>
 	<string key="owg_single_item_purchased">&lt;font color="#f7bc41"&gt;{itemName}&lt;/font&gt; Purchased!</string>
 	<string key="owg_influence_login_notification_title">Faction Conflict</string>
 	<string key="owg_influence_login_notification_desc">Your faction has {count} territories in conflict! Press M to view the map.</string>
@@ -486,6 +490,10 @@
 	<string key="FactionMission_C_WEAPON_ICEGAUNTLET_desc">Understand combat to manifest peace.\n\nCome to know the &lt;font color="#eaeaea"&gt;Ice Gauntlet&lt;/font&gt; by freezing &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; with its frigid touch.</string>
 	<string key="FactionMission_ASSASSINATE_ELITE_NIGHT_desc">The Marauders need &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; removed from the theater.\n\nProve your valor by tracking them down in {POITags} and destroying them.\n&lt;font color="#eaeaea"&gt;(Elite - Enemy is nocturnal)&lt;/font&gt;</string>
 	<string key="FactionMission_S_ASSASSINATE_ELITE_NIGHT_desc">The Syndicate has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be a target for elimination.\n\nTrack them down in {POITags} and destroy them.\n&lt;font color="#eaeaea"&gt;(Elite - Enemy is nocturnal)&lt;/font&gt;</string>
-	<string key="FactionMission_C_ASSASSINATE_ELITE_NIGHT_desc">The Covenant has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be eliminated.\n\nProve your devotion by tracking them down in {POITags} and destroying them.\n &lt;font color="#eaeaea"&gt;(Elite - Enemy is nocturnal)&lt;/font&gt;</string>
+	<string key="FactionMission_C_ASSASSINATE_ELITE_NIGHT_desc" rel_version="Quest_FM_BreachMissions">The Covenant has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be eliminated.\n\nProve your devotion by tracking them down in {POITags} and destroying them.\n &lt;font color="#eaeaea"&gt;(Elite - Enemy is nocturnal)&lt;/font&gt;</string>
+	<string key="FactionMission_BREACH_title" rel_version="Quest_FM_BreachMissions">Corruption Breach</string>
+	<string key="FactionMission_BREACH_desc" rel_version="Quest_FM_BreachMissions">Marauders don't tolerate &lt;font color="#eaeaea"&gt;Corruption&lt;/font&gt; muscling in on our territory.\n\nIf you see one of their breaches, shut it down.</string>
+	<string key="FactionMission_S_BREACH_desc" rel_version="Quest_FM_BreachMissions">We now have the power to thwart &lt;font color="#eaeaea"&gt;Corruption's&lt;/font&gt; advance.\n\nSeal off any &lt;font color="#eaeaea"&gt;Corruption Breach&lt;/font&gt; you see.</string>
+	<string key="CMissionAcquireLeather_Name_WC">Festive Tanners Needed</string>
 </resources>
 

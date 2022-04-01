@@ -33,5 +33,16 @@
 	<string key="0724_Fisher_Title">Master Fisher of Shattered Mountain</string>
 	<string key="0725_Prospector" comment="male" gender="M">Po-Chen Yang</string>
 	<string key="0725_Prospector_Title">Outpost Rush Prospector</string>
+	<string key="NPC_Heretic" comment="male" gender="M" rel_version="Expedition_ShatterMtn_00">Heretic</string>
+	<string key="NPC_Heretic_Title" rel_version="Expedition_ShatterMtn_00">Nedenyek's Old Vessel</string>
+	<string key="NPC_FatherRusso" comment="male" gender="M" rel_version="Expedition_ShatterMtn_00">Father Russo</string>
+	<string key="NPC_FatherRusso_Title" rel_version="Expedition_ShatterMtn_00">Nedenyek's New Vessel</string>
+	<string key="0726_MaraRosa" comment="female" gender="F" rel_version="Expedition_ShatterMtn_00">Mara Rosa</string>
+	<string key="0726_MaraRosa_Title" rel_version="Expedition_ShatterMtn_00">Excommunicated Nun</string>
+	<string key="0727_BookOfIsabella" comment="UI" gender="UI" rel_version="Expedition_ShatterMtn_00">Book of Isabella</string>
+	<string key="0727_BookOfIsabella_Title" rel_version="Expedition_ShatterMtn_00">Chronicles of Isabella De Leon</string>
+	<string key="0727_BookOfIsabella_Interact" rel_version="Expedition_ShatterMtn_00">Read</string>
+	<string key="0728_Kesava" comment="female" gender="F" rel_version="Expedition_ShatterMtn_00">Kesava Saraswati</string>
+	<string key="0728_Kesava_Title" rel_version="Expedition_ShatterMtn_00">Mystic</string>
 </resources>
 

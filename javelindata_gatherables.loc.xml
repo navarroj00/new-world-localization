@@ -393,9 +393,6 @@
 	<string key="1124_VistaPoint2_DisplayName">Vista Point</string>
 	<string key="1124_VistaPoint3_DisplayName">Vista Point</string>
 	<string key="1124_VistaPoint4_DisplayName">Vista Point</string>
-	<string key="1132_GrampasGun_DisplayName">Grampa's Forge</string>
-	<string key="1132_Digby_DisplayName">Knock!</string>
-	<string key="1132_Shootout_DisplayName">Coy's Retreat</string>
 	<string key="Truffle_DisplayName">Delicious Truffle</string>
 	<string key="0402_GruelBarrel">Gruel Barrel</string>
 	<string key="SurvivalistQuest_AlphaLure_interact">Faintly Scented Earth</string>
@@ -674,8 +671,13 @@
 	<string key="FM_1624_Weapons_DisplayName">Destroy Weapons Rack</string>
 	<string key="0411_Armillary_interact">Armillary Sphere</string>
 	<string key="0202_0101_Inquisitor_DisplayName">Inquisitor's Toolchest</string>
+	<string key="DungeonShatterMtn00_RelicBox_DisplayName" rel_version="Expedition_ShatterMtn_00">Reliquary</string>
+	<string key="DungeonShatterMtn00_ChestCellarKey_DisplayName" rel_version="Expedition_ShatterMtn_00">Dilapidated Chest</string>
 	<string key="DungeonShatterMtn_LockCellar_DisplayName">Insert Cellar Key</string>
 	<string key="DungeonShatterMtn_MemoryFragment_DisplayName">Memory Fragment</string>
+	<string key="DungeonShatterMtn_RelicStatue_DisplayName" rel_version="Expedition_ShatterMtn_00">Recall Reliquary\n(Requires 2 Azoth Staves)</string>
+	<string key="DungeonShatterMtn00_ChestStatue_DisplayName" rel_version="Expedition_ShatterMtn_00">Antiquated Coffer</string>
+	<string key="DungeonShatterMtn00_Statue_DisplayName" rel_version="Expedition_ShatterMtn_00">Antiquated Statue</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">War Camp Chest</string>
 	<string key="1130_ArcaneFocus1_DisplayName">Arcane Focus</string>
 	<string key="1130_ArcaneFocus2_DisplayName">Arcane Focus</string>
@@ -685,6 +687,39 @@
 	<string key="1130_CursedAxe_DisplayName">Begin the Ritual</string>
 	<string key="0726_Gravestone_interact" rel_version="DEPRECATED_January_2022">Inspect Crewman's Grave</string>
 	<string key="Dynasty_Gong_DisplayName">Dynasty Gong</string>
+	<string key="ExploreVista_EastCleave01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_EastCutlass01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_EastEdengrove01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_EastEverfall01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_EastShattered01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_MidRestless01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_NorthBrightwood01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_NorthEbonscale01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_NorthFirstLight01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_NorthMonarchs01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_NorthReekwater01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_NorthWeavers01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_NorthWeavers02" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_NorthWindsward01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_NorthWindsward02" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_SouthBrightwood01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_SouthEbonscale01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_SouthFirstLight01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_SouthMonarchs01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_SouthMourningdale01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_SouthReekwater01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_SouthRestless01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_SouthShattered01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_WestCleave01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_WestEdengrove01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_WestEverfall01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_WestMourningdale01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="ExploreVista_WestCutlass01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
 	<string key="LuckShrine_MothersLove">Mother's Love</string>
+	<string key="GoldPile00_DisplayName" rel_version="Feature_Unbound_Island">Supply Cache</string>
+	<string key="0601_0101_weapon_01_hatchet_DisplayName">Choose the Battleworn Hatchet</string>
+	<string key="0601_0101_weapon_02_warhammer_DisplayName">Choose the Battleworn Warhammer</string>
+	<string key="0601_0101_weapon_03_bow_DisplayName">Choose the Battleworn Bow</string>
+	<string key="0601_0101_weapon_04_firestaff_DisplayName">Choose the Battleworn Firestaff</string>
 </resources>
 

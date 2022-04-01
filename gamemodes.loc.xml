@@ -89,8 +89,8 @@
 	<string key="ui_outpost_rush_signup_goal3">Utilize special resources on the island to attack &amp; defend</string>
 	<string key="ui_outpost_rush_signup_points_number">1,000</string>
 	<string key="ui_outpost_rush_signup_points_text">POINTS</string>
-	<string key="ui_outpost_rush_signup_joinsolo">Join as a solo player</string>
-	<string key="ui_outpost_rush_signup_joingroup">Join with your group</string>
+	<string key="ui_outpost_rush_signup_joinsolo">Play</string>
+	<string key="ui_outpost_rush_signup_joingroup">Play with your group</string>
 	<string key="ui_outpost_rush_signup_joinmid">I would like to join matches in progress &lt;font color="#ffe940"&gt;(Shorter wait time)&lt;/font&gt;</string>
 	<string key="ui_outpost_rush_signup_playercount">{playerCount} Players</string>
 	<string key="ui_outpost_rush_signup_failsolo">You are currently in a group and cannot join as a solo player</string>
@@ -100,6 +100,8 @@
 	<string key="ui_outpost_rush_signup_failwar">You cannot sign up because you are already signed up for an upcoming war that starts within the next hour.</string>
 	<string key="ui_outpost_rush_signup_failqueue">You cannot sign up because you are currently signed up for {matchname}</string>
 	<string key="ui_outpost_rush_signup_faildungeon">You cannot sign up because you are currently in queue for an expedition.</string>
+	<string key="ui_outpost_rush_signup_failevent">You cannot sign up because you are currently in an event.</string>
+	<string key="ui_outpost_rush_signup_failgeneric">You cannot sign up at this time.</string>
 	<string key="ui_outpost_rush_signup_failgrouptitle">Cannot join Outpost Rush</string>
 	<string key="ui_outpost_rush_signup_failgrouplevel">All group members must be at least level {levelRequirement}.</string>
 	<string key="ui_outpost_rush_signup_failgroupwar">One or more of your group members are signed up for an upcoming war that starts within the next hour.</string>

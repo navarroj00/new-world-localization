@@ -414,41 +414,41 @@
 	<string key="1002_0104_01_Boots_objective_title" speaker="UI - Quest Title">Obscured Footsteps</string>
 	<string key="1002_0104_01_Boots_objective_desc" speaker="UI – Quest Description">Collect Soaked Pullpatch Leather from Pullpatch Cover, Muffled Fen Padding from Karburg, and Essence of Shadow from Cutthroat Cavern. Then visit a Tier 3 Outfitting Station to craft the Shrouded Intent Boots.</string>
 	<string key="1002_0104_01_Boots_task_01" speaker="Should not display">Handed the recipe.</string>
-	<string key="1002_0104_01_Boots_task_02" comment="Pullpatch Cover" speaker="UI – Tracker Text">Travel to {POITags} in Cutlass Keys to collect Soaked Pullpatch Leather</string>
-	<string key="1002_0104_01_Boots_task_04" comment="Karburg" speaker="UI – Tracker Text">Travel to {POITags} in Weaver's Fen to collect Muffled Fen Padding</string>
-	<string key="1002_0104_01_Boots_task_06" comment="Cutthroat Cavern" speaker="UI – Tracker Text">Travel to {POITags} in Restless Shore to collect Essence of Shadow</string>
+	<string key="1002_0104_01_Boots_task_02" speaker="UI – Tracker Text" comment="Pullpatch Cover">Travel to {POITags} in Cutlass Keys to collect Soaked Pullpatch Leather</string>
+	<string key="1002_0104_01_Boots_task_04" speaker="UI – Tracker Text" comment="Karburg">Travel to {POITags} in Weaver's Fen to collect Muffled Fen Padding</string>
+	<string key="1002_0104_01_Boots_task_06" speaker="UI – Tracker Text" comment="Cutthroat Cavern">Travel to {POITags} in Restless Shore to collect Essence of Shadow</string>
 	<string key="1002_0104_01_Boots_task_08" speaker="UI – Tracker Text">Visit an Outfitting Station</string>
 	<string key="1002_0104_01_Boots_task_09" speaker="UI – Tracker Text">Craft the {itemName}</string>
 	<string key="1002_0104_02_Coat_objective_title" speaker="UI - Quest Title">Cloaked in Darkness</string>
 	<string key="1002_0104_02_Coat_objective_desc" speaker="UI – Quest Description">Collect Stormsail Scraps from Ravaged Wreck, Blightbane Pitch from Minnow's Revenge, and Hunter's Shark Clasps from The Plundering Shark. Then visit a Tier 3 Outfitting Station to craft the Shrouded Intent Coat.</string>
 	<string key="1002_0104_02_Coat_task_01" speaker="Should not display">Handed the recipe.</string>
-	<string key="1002_0104_02_Coat_task_02" comment="Ravaged Wreck" speaker="UI – Tracker Text">Travel to {POITags} in Restless Shore to collect Stormsail Scraps</string>
-	<string key="1002_0104_02_Coat_task_04" comment="Minnow's Revenge" speaker="UI – Tracker Text">Travel to {POITags} in Restless Shore to collect Blightbane Pitch</string>
-	<string key="1002_0104_02_Coat_task_06" comment="The Plundering Shark" speaker="UI – Tracker Text">Travel to {POITags} in Restless Shore to collect Hunter's Shark Clasps</string>
+	<string key="1002_0104_02_Coat_task_02" speaker="UI – Tracker Text" comment="Ravaged Wreck">Travel to {POITags} in Restless Shore to collect Stormsail Scraps</string>
+	<string key="1002_0104_02_Coat_task_04" speaker="UI – Tracker Text" comment="Minnow's Revenge">Travel to {POITags} in Restless Shore to collect Blightbane Pitch</string>
+	<string key="1002_0104_02_Coat_task_06" speaker="UI – Tracker Text" comment="The Plundering Shark">Travel to {POITags} in Restless Shore to collect Hunter's Shark Clasps</string>
 	<string key="1002_0104_02_Coat_task_08" speaker="UI – Tracker Text">Visit an Outfitting Station</string>
 	<string key="1002_0104_02_Coat_task_09" speaker="UI – Tracker Text">Craft the {itemName}</string>
 	<string key="1002_0104_03_Pants_objective_title" speaker="UI - Quest Title">Shrouded in Twilight</string>
 	<string key="1002_0104_03_Pants_objective_desc" speaker="UI – Quest Description">Collect Murkmoss Extract from Fornax, Castaway Rigging from the Castaway Shores, and Nightstone Slivers from Haedus. Then visit a Tier 3 Outfitting Station to craft the Shrouded Intent Pants.</string>
 	<string key="1002_0104_03_Pants_task_01" speaker="Should not display">Handed the recipe.</string>
-	<string key="1002_0104_03_Pants_task_02" comment="Fornax" speaker="UI – Tracker Text">Travel to {POITags} in Restless Shore to collect Murkmoss Extract</string>
-	<string key="1002_0104_03_Pants_task_04" comment="Castaway Shores" speaker="UI – Tracker Text">Travel to the {POITags} in Mourningdale to collect Castaway Rigging</string>
-	<string key="1002_0104_03_Pants_task_06" comment="Haedus" speaker="UI – Tracker Text">Travel to {POITags} in Mourningdale to collect Nightstone Slivers</string>
+	<string key="1002_0104_03_Pants_task_02" speaker="UI – Tracker Text" comment="Fornax">Travel to {POITags} in Restless Shore to collect Murkmoss Extract</string>
+	<string key="1002_0104_03_Pants_task_04" speaker="UI – Tracker Text" comment="Castaway Shores">Travel to the {POITags} in Mourningdale to collect Castaway Rigging</string>
+	<string key="1002_0104_03_Pants_task_06" speaker="UI – Tracker Text" comment="Haedus">Travel to {POITags} in Mourningdale to collect Nightstone Slivers</string>
 	<string key="1002_0104_03_Pants_task_08" speaker="UI – Tracker Text">Visit an Outfitting Station</string>
 	<string key="1002_0104_03_Pants_task_09" speaker="UI – Tracker Text">Craft the {itemName}</string>
 	<string key="1002_0104_04_Gloves_objective_title" speaker="UI - Quest Title">Grasping at Shadows</string>
 	<string key="1002_0104_04_Gloves_objective_desc" speaker="UI – Quest Description">Collect Layered Guardian Leather from Subra, Siphoned Twilight from Litheltop, and Duskfall Dye from High-Pass Mountain. Then visit a Tier 3 Outfitting Station to craft the Shrouded Intent Gloves.</string>
 	<string key="1002_0104_04_Gloves_task_01" speaker="Should not display">Handed the recipe.</string>
-	<string key="1002_0104_04_Gloves_task_02" comment="Subra" speaker="UI – Tracker Text">Travel to {POITags} in Mourningdale to collect Layered Guardian Leather</string>
-	<string key="1002_0104_04_Gloves_task_04" comment="Litheltop" speaker="UI – Tracker Text">Travel to {POITags} in Edengrove to collect Siphoned Twilight</string>
-	<string key="1002_0104_04_Gloves_task_06" comment="High-Pass Mountain" speaker="UI – Tracker Text">Travel to the {POITags} in Mourningdale to collect Duskfall Dye</string>
+	<string key="1002_0104_04_Gloves_task_02" speaker="UI – Tracker Text" comment="Subra">Travel to {POITags} in Mourningdale to collect Layered Guardian Leather</string>
+	<string key="1002_0104_04_Gloves_task_04" speaker="UI – Tracker Text" comment="Litheltop">Travel to {POITags} in Edengrove to collect Siphoned Twilight</string>
+	<string key="1002_0104_04_Gloves_task_06" speaker="UI – Tracker Text" comment="High-Pass Mountain">Travel to the {POITags} in Mourningdale to collect Duskfall Dye</string>
 	<string key="1002_0104_04_Gloves_task_08" speaker="UI – Tracker Text">Visit an Outfitting Station</string>
 	<string key="1002_0104_04_Gloves_task_09" speaker="UI – Tracker Text">Craft the {itemName}</string>
 	<string key="1002_0104_05_Hat_objective_title" speaker="UI - Quest Title">Shaded by Night</string>
 	<string key="1002_0104_05_Hat_objective_desc" speaker="UI – Quest Description">Collect Infused Orichalcum Thread from Lower Slag Mine, Smudged Feathers from the Genesis of Spite, and Umbral Cloth from Bramblecliff. Then visit a Tier 3 Outfitting Station to craft the Shrouded Intent Hat.</string>
 	<string key="1002_0104_05_Hat_task_01" speaker="Should not display">Handed the recipe.</string>
-	<string key="1002_0104_05_Hat_task_02" comment="Lower Slag Mine" speaker="UI – Tracker Text">Travel to {POITags} in Edengrove to collect Infused Orichalcum Thread</string>
-	<string key="1002_0104_05_Hat_task_04" comment="Genesis of Spite" speaker="UI – Tracker Text">Travel to {POITags} in Edengrove to collect Smudged Feathers</string>
-	<string key="1002_0104_05_Hat_task_06" comment="Bramblecliff" speaker="UI – Tracker Text">Travel to {POITags} in Edengrove to collect Umbral Cloth</string>
+	<string key="1002_0104_05_Hat_task_02" speaker="UI – Tracker Text" comment="Lower Slag Mine">Travel to {POITags} in Edengrove to collect Infused Orichalcum Thread</string>
+	<string key="1002_0104_05_Hat_task_04" speaker="UI – Tracker Text" comment="Genesis of Spite">Travel to {POITags} in Edengrove to collect Smudged Feathers</string>
+	<string key="1002_0104_05_Hat_task_06" speaker="UI – Tracker Text" comment="Bramblecliff">Travel to {POITags} in Edengrove to collect Umbral Cloth</string>
 	<string key="1002_0104_05_Hat_task_08" speaker="UI – Tracker Text">Visit an Outfitting Station</string>
 	<string key="1002_0104_05_Hat_task_09" speaker="UI – Tracker Text">Craft the {itemName}</string>
 	<string key="1004_0103_Weapon_Keen_Temper_objective_title" speaker="UI - Quest Title">Keen Temper</string>
@@ -465,14 +465,14 @@
 	<string key="1004_0103_Grindstone_Quest_objective_desc" speaker="UI – Quest Description">An edge sharpened on a grindstone is an art in and of itself.</string>
 	<string key="1004_0103_QuenchingOil_Quest_objective_desc" speaker="UI – Quest Description">Collect oil to quench the beast, for water would bubble the blade.</string>
 	<string key="1004_0103_CaptainsBlade_Quest_objective_desc" speaker="UI – Quest Description">A well-made blade is a Captain's best friend, regardless of their morals.</string>
-	<string key="1004_0103_HiltLeather_Quest_task_01" comment="Cutthroat Cavern" speaker="UI – Tracker Text">Travel to {POITags} in Restless Shore to collect Hilt Leather</string>
-	<string key="1004_0103_HiltLeather_Quest_task_02" comment="Hilt Leather" speaker="UI – Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="1004_0103_Grindstone_Quest_task_01" comment="The Hollowing" speaker="UI – Tracker Text">Travel to {POITags} in Great Cleave to collect Grindstone</string>
-	<string key="1004_0103_Grindstone_Quest_task_02" comment="Grindstone" speaker="UI – Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="1004_0103_QuenchingOil_Quest_task_01" comment="Foulroot" speaker="UI – Tracker Text">Travel to {POITags} in Mourningdale to collect Quenching Oil</string>
-	<string key="1004_0103_QuenchingOil_Quest_task_02" comment="Quenching Oil" speaker="UI – Tracker Text">Collect {itemName} from {targetName} enemies and Chests</string>
-	<string key="1004_0103_CaptainsBlade_Quest_task_01" comment="Broken Promise" speaker="UI – Tracker Text">Travel to {POITags} in Mourningdale to collect the Blade of l'Olonnois</string>
-	<string key="1004_0103_CaptainsBlade_Quest_task_02" comment="Blade of l'Olonnois" speaker="UI – Tracker Text">Collect {itemName} from {targetName}</string>
+	<string key="1004_0103_HiltLeather_Quest_task_01" speaker="UI – Tracker Text" comment="Cutthroat Cavern">Travel to {POITags} in Restless Shore to collect Hilt Leather</string>
+	<string key="1004_0103_HiltLeather_Quest_task_02" speaker="UI – Tracker Text" comment="Hilt Leather">Collect {itemName} from {targetName} enemies</string>
+	<string key="1004_0103_Grindstone_Quest_task_01" speaker="UI – Tracker Text" comment="The Hollowing">Travel to {POITags} in Great Cleave to collect Grindstone</string>
+	<string key="1004_0103_Grindstone_Quest_task_02" speaker="UI – Tracker Text" comment="Grindstone">Collect {itemName} from {targetName} enemies</string>
+	<string key="1004_0103_QuenchingOil_Quest_task_01" speaker="UI – Tracker Text" comment="Foulroot">Travel to {POITags} in Mourningdale to collect Quenching Oil</string>
+	<string key="1004_0103_QuenchingOil_Quest_task_02" speaker="UI – Tracker Text" comment="Quenching Oil">Collect {itemName} from {targetName} enemies and Chests</string>
+	<string key="1004_0103_CaptainsBlade_Quest_task_01" speaker="UI – Tracker Text" comment="Broken Promise">Travel to {POITags} in Mourningdale to collect the Blade of l'Olonnois</string>
+	<string key="1004_0103_CaptainsBlade_Quest_task_02" speaker="UI – Tracker Text" comment="Blade of l'Olonnois">Collect {itemName} from {targetName}</string>
 	<string key="1004_0103_Combine_Quest_task_03" speaker="Should not display">Handed the recipe.</string>
 	<string key="1004_0103_Combine_Quest_task_04" speaker="UI – Tracker Text">Visit a Forge</string>
 	<string key="1004_0103_Combine_Quest_task_05" speaker="UI – Tracker Text">Create the {itemName}</string>

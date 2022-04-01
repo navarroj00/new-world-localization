@@ -86,7 +86,6 @@
 	<string key="Alligator_Strange_Named_05WC02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Putris</string>
 	<string key="Alligator_Strange_Named_08QP01_VitalsName" comment="ELITE Named Variant" speaker="Vitals Sheet">Tazorjaw</string>
 	<string key="Alligator_Strange_Named_08QP03_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Bloody Jaws</string>
-	<string key="Alligator_Strange_Named_DG_Cutlass_00_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Chompers</string>
 	<string key="Alligator_Strange_VitalsName" comment="BASE" speaker="Vitals Sheet">Strange Alligator</string>
 	<string key="Alligator_VitalsName" comment="BASE" speaker="Vitals Sheet">Alligator</string>
 	<string key="Alligator_Young_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Variation_Sub_L20">Young Alligator</string>
@@ -787,6 +786,7 @@
 	<string key="Corrupted_Ogre_62_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Unhallowed Leviathan</string>
 	<string key="Corrupted_Ogre_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Behemoth</string>
 	<string key="Corrupted_Ogre_DG_Restless_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Ogre</string>
+	<string key="Corrupted_Ogre_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Ogre</string>
 	<string key="Corrupted_Ogre_DT1_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Ogre</string>
 	<string key="Corrupted_Ogre_DT2_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Ogre</string>
 	<string key="Corrupted_Ogre_DT3_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Ogre</string>
@@ -838,6 +838,7 @@
 	<string key="Corruption_Entity_DT5_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corruption Entity</string>
 	<string key="Corruption_Entity_DT6_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corruption Entity</string>
 	<string key="Corruption_Entity_Minion_RestlessShores_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Entity</string>
+	<string key="Corruption_Entity_Minion_NagaCorrupted_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Living Corruption</string>
 	<string key="Corruption_Entity_VitalsName" comment="BASE" speaker="Vitals Sheet">Corruption Entity</string>
 	<string key="Corruption_Heavy_07SM06_DARKNESS_VitalsName" comment="Darkness" speaker="Vitals Sheet">Myrkgard Gate Guard</string>
 	<string key="Corruption_Heavy_07SM06_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Myrkgard Centurion</string>
@@ -852,6 +853,7 @@
 	<string key="Corruption_Heavy_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corruption Heavy</string>
 	<string key="Corruption_Heavy_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corruption Heavy</string>
 	<string key="Corruption_Heavy_DG_Restless_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Heavy</string>
+	<string key="Corruption_Heavy_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Heavy</string>
 	<string key="Corruption_Heavy_DT1_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corruption Heavy</string>
 	<string key="Corruption_Heavy_DT2_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corruption Heavy</string>
 	<string key="Corruption_Heavy_DT3_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corruption Heavy</string>
@@ -899,6 +901,7 @@
 	<string key="Corruption_Swarmer_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corruption Swarmer</string>
 	<string key="Corruption_Swarmer_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corruption Swarmer</string>
 	<string key="Corruption_Swarmer_DG_Restless_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Swarmer</string>
+	<string key="Corruption_Swarmer_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Swarmer</string>
 	<string key="Corruption_Swarmer_DT1_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corruption Swarmer</string>
 	<string key="Corruption_Swarmer_DT2_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corruption Swarmer</string>
 	<string key="Corruption_Swarmer_DT3_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corruption Swarmer</string>
@@ -1008,6 +1011,7 @@
 	<string key="Damned_1H_Swordsman_M-F_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Swordsman</string>
 	<string key="Damned_1H_Swordsman_M-F_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Swordsman</string>
 	<string key="Damned_1H_Swordsman_M-F_DG_Restless_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Mercenary</string>
+	<string key="Damned_1H_Swordsman_M-F_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Warrior</string>
 	<string key="Damned_1H_Swordsman_M-F_MSQ_35_VitalsName" comment="MSQ Fighting Pit Variant" speaker="Vitals Sheet">Corrupted Swordsman</string>
 	<string key="Damned_2H_Spearman_M-F_07SM02b_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Scorchvein Enforcer</string>
 	<string key="Damned_2H_Spearman_M-F_07SM06a_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Myrkgard Spearman</string>
@@ -1037,6 +1041,7 @@
 	<string key="Damned_2H_Spearman_M-F_60_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Spearman</string>
 	<string key="Damned_2H_Spearman_M-F_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Spearman</string>
 	<string key="Damned_2H_Spearman_M-F_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Spearman</string>
+	<string key="Damned_2H_Spearman_M-F_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Impaler</string>
 	<string key="Damned_2H_Spearman_M-F_Named_DG_Restless_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Benat</string>
 	<string key="Damned_Acolyte_03GC03_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Unhallowed Acolyte</string>
 	<string key="Damned_Acolyte_03GC09_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Lower Svikin Devout</string>
@@ -1060,12 +1065,14 @@
 	<string key="Damned_Acolyte_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Acolyte</string>
 	<string key="Damned_Acolyte_DG_Restless_00_Spawn_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Damned Acolyte</string>
 	<string key="Damned_Acolyte_DG_Restless_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Acolyte</string>
+	<string key="Damned_Acolyte_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Acolyte</string>
 	<string key="Damned_Acolyte_DT1_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Acolyte</string>
 	<string key="Damned_Acolyte_DT2_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Acolyte</string>
 	<string key="Damned_Acolyte_DT3_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Acolyte</string>
 	<string key="Damned_Acolyte_DT4_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Acolyte</string>
 	<string key="Damned_Acolyte_DT5_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Acolyte</string>
 	<string key="Damned_Acolyte_DT6_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Acolyte</string>
+	<string key="Damned_Acolyte_Isabella_Basilica_Summon_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Acolyte</string>
 	<string key="Damned_Acolyte_Named_00_VitalsName" comment="ELITE Named Variant" speaker="Vitals Sheet">S'ylanx the Unseen</string>
 	<string key="Damned_Acolyte_Named_01_03GC09_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Cartographist Decimus</string>
 	<string key="Damned_Acolyte_Named_02_03GC09_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Ritualist Varios</string>
@@ -1106,6 +1113,7 @@
 	<string key="Damned_Axeman_M-F_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Huntsman</string>
 	<string key="Damned_Axeman_M-F_DG_Restless_00_Spawn_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Damned Axeman</string>
 	<string key="Damned_Axeman_M-F_DG_Restless_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Axeman</string>
+	<string key="Damned_Axeman_M-F_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Huntsman</string>
 	<string key="Damned_Axeman_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Huntsman</string>
 	<string key="Damned_Bowman_10WS06_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Lushhunt Poacher</string>
 	<string key="Damned_Bowman_25_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Bowman</string>
@@ -1150,6 +1158,7 @@
 	<string key="Damned_Bowman_64_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Bowman</string>
 	<string key="Damned_Bowman_DG_Restless_00_Spawn_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Damned Bowman</string>
 	<string key="Damned_Bowman_DG_Restless_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Archer</string>
+	<string key="Damned_Bowman_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Bowman</string>
 	<string key="Damned_Bowman_M-F_03GC07_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Frontwatch Archer</string>
 	<string key="Damned_Bowman_M-F_07SM06_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Myrkgard Sagittarii</string>
 	<string key="Damned_Bowman_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Ranger</string>
@@ -1201,6 +1210,7 @@
 	<string key="Damned_Cultist_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Cultist</string>
 	<string key="Damned_Cultist_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Cultist</string>
 	<string key="Damned_Cultist_DG_Restless_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Cultist</string>
+	<string key="Damned_Cultist_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Cultist</string>
 	<string key="Damned_Cultist_DT1_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Cultist</string>
 	<string key="Damned_Cultist_DT2_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Cultist</string>
 	<string key="Damned_Cultist_DT3_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Cultist</string>
@@ -1208,6 +1218,7 @@
 	<string key="Damned_Cultist_DT5_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Cultist</string>
 	<string key="Damned_Cultist_DT6_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Cultist</string>
 	<string key="Damned_Cultist_GC_1132_Named_Coy_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Stonefirth Coy</string>
+	<string key="Damned_Cultist_Isabella_Basilica_Summon_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Cultist</string>
 	<string key="Damned_Cultist_Minion_RestlessShores_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Azamela's Servant</string>
 	<string key="Damned_Cultist_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Vitrioulsor</string>
 	<string key="Damned_Cultist_Named_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Bileschlocker</string>
@@ -1244,6 +1255,7 @@
 	<string key="Damned_GreatAxeman_M-F_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Legionnaire</string>
 	<string key="Damned_GreatAxeman_M-F_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Legionnaire</string>
 	<string key="Damned_GreatAxeman_M-F_DG_Restless_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Legionaire</string>
+	<string key="Damned_GreatAxeman_M-F_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Legionnaire</string>
 	<string key="Damned_GreatAxeman_M-F_Named_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Ravager Silas</string>
 	<string key="Damned_GreatAxeman_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Legionnaire</string>
 	<string key="Damned_GreatHammer_Named_01_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Master Smith McCoy</string>
@@ -1256,6 +1268,7 @@
 	<string key="Damned_Grunt_64_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Abomination</string>
 	<string key="Damned_Grunt_DG_Ebonscale_Isabella_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Abomination</string>
 	<string key="Damned_Grunt_DG_Restless_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Grunt</string>
+	<string key="Damned_Grunt_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Abomination</string>
 	<string key="Damned_Grunt_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Grunt</string>
 	<string key="Damned_Hound_03GC06_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Frontwatch Guardhound</string>
 	<string key="Damned_Hound_03GC09_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Lower Svikin Warhound</string>
@@ -1300,12 +1313,12 @@
 	<string key="Damned_Hound_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Hound</string>
 	<string key="Damned_Hound_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Hound</string>
 	<string key="Damned_Hound_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Shipyard Hound</string>
+	<string key="Damned_Hound_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Hound</string>
 	<string key="Damned_Hound_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Alecto, Get of Cerberus</string>
 	<string key="Damned_Hound_Named_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Magera, Get of Cerberus</string>
 	<string key="Damned_Hound_Named_02_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Tisipho, Get of Cerberus</string>
 	<string key="Damned_Hound_Named_03GC09_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Rufus, Little Emperor</string>
 	<string key="Damned_Hound_Named_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Figgy</string>
-	<string key="Damned_Hound_Named_MD_Digby_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Digby's Dog</string>
 	<string key="Damned_LongSwordsman_Commander_07SM06_DARKNESS_VitalsName" comment="Darkness" speaker="Vitals Sheet">Myrkgard Gate Lord</string>
 	<string key="Damned_LongSwordsman_Commander_07SM06a_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Myrkgard Commander</string>
 	<string key="Damned_LongSwordsman_Commander_07SM06b_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Myrkgard Commander</string>
@@ -1315,6 +1328,7 @@
 	<string key="Damned_LongSwordsman_Commander_Named_07SM06a_VitalsName" comment="ELITE Named Variant" speaker="Vitals Sheet">Captain Thorpe</string>
 	<string key="Damned_LongSwordsman_Commander_Named_07SM06b_VitalsName" comment="ELITE Named Variant" speaker="Vitals Sheet">Myrkgard Commander</string>
 	<string key="Damned_LongSwordsman_Commander_Named_DG_Restless_00_VitalsName" comment="ELITE Named Variant BOSS" speaker="Vitals Sheet">Commander Thorpe</string>
+	<string key="Damned_LongSwordsman_Commander_Named_MSQ_Thorpe_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ_Update_4">Commander Thorpe</string>
 	<string key="Damned_LongSwordsman_Minion_Bear_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Immature Skerryshiv Ursidae</string>
 	<string key="Damned_LongSwordsman_Minion_Ogre_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Immature Skerryshiv Behemoth</string>
 	<string key="Damned_Pistoleer_10WS02_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Lushhills Bodyguard</string>
@@ -1360,7 +1374,9 @@
 	<string key="Damned_Pistoleer_M-F_60_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Pistoleer</string>
 	<string key="Damned_Pistoleer_M-F_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Pistoleer</string>
 	<string key="Damned_Pistoleer_M-F_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Pistoleer</string>
+	<string key="Damned_Pistoleer_M-F_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Pistoleer</string>
 	<string key="Damned_Pistoleer_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Pistoleer</string>
+	<string key="Damned_Priest_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Priest</string>
 	<string key="Damned_Priest_Hound_46_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Hound Minion</string>
 	<string key="Damned_Priest_Hound_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Hound Minion</string>
 	<string key="Damned_Priest_Hound_65_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Hound Minion</string>
@@ -1380,7 +1396,6 @@
 	<string key="Damned_Rifleman_Male_Named_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Foreman Harold</string>
 	<string key="Damned_Rifleman_Male_Named_03GC06_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Foreman Robertson</string>
 	<string key="Damned_Rifleman_MD_Named_Coy_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Coy's Enforcers</string>
-	<string key="Damned_Rifleman_MD_Named_Digby_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Digby Stockburn</string>
 	<string key="Damned_Rifleman_M-F_03GC08_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Tundra Garrison Gunner</string>
 	<string key="Damned_Rifleman_M-F_03GC09_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Southguard Rifleman</string>
 	<string key="Damned_Rifleman_M-F_07SM06a_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Myrkgard Rifleman</string>
@@ -1414,11 +1429,13 @@
 	<string key="Damned_Rifleman_M-F_64_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Musketeer</string>
 	<string key="Damned_Rifleman_M-F_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Isabella's Musketeer</string>
 	<string key="Damned_Rifleman_M-F_DG_Ebonscale_Isabella_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Isabella's Musketeer</string>
+	<string key="Damned_Rifleman_M-F_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Musketeer</string>
 	<string key="Damned_Rifleman_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Musketeer</string>
 	<string key="Damned_Spearman_M-F_03GC05_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Tundra Garrison Spearman</string>
 	<string key="Damned_Spearman_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Sentinel</string>
 	<string key="Damned_Swordsman_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Warrior</string>
 	<string key="Damned_Villager_AxeThrower_F_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Marietta Olcott</string>
+	<string key="Damned_Villager_AxeThrower_F_Named_06SW08_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Marteia the Angry</string>
 	<string key="Damned_Villager_AxeThrower_M-F_13_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Axe Thrower</string>
 	<string key="Damned_Villager_AxeThrower_M-F_25_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Axe Thrower</string>
 	<string key="Damned_Villager_AxeThrower_M-F_26_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Axe Thrower</string>
@@ -1465,6 +1482,7 @@
 	<string key="Damned_Villager_AxeThrower_M-F_66_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Axe Thrower</string>
 	<string key="Damned_Villager_AxeThrower_M-F_67_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Axe Thrower</string>
 	<string key="Damned_Villager_AxeThrower_M-F_DG_Restless_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Hunter</string>
+	<string key="Damned_Villager_AxeThrower_M-F_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Enthralled Axe Thrower</string>
 	<string key="Damned_Villager_Cleaver_03GC07_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Cutmines Provisioner</string>
 	<string key="Damned_Villager_Cleaver_07SM06a_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Myrkgard Butcher</string>
 	<string key="Damned_Villager_Cleaver_07SM06b_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Myrkgard Butcher</string>
@@ -1515,6 +1533,7 @@
 	<string key="Damned_Villager_Cleaver_66_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Butcher</string>
 	<string key="Damned_Villager_Cleaver_67_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Butcher</string>
 	<string key="Damned_Villager_Cleaver_DG_Restless_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Butcher</string>
+	<string key="Damned_Villager_Cleaver_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Enthralled Butcher</string>
 	<string key="Damned_Villager_Cleaver_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">The Skinner</string>
 	<string key="Damned_Villager_Hammer_03GC05_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Icefields Carpenter</string>
 	<string key="Damned_Villager_Hammer_03GC09_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Lower Svikin Forger</string>
@@ -1569,8 +1588,9 @@
 	<string key="Damned_Villager_Hammer_67_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Hammer Laborer</string>
 	<string key="Damned_Villager_Hammer_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Shipyard Worker</string>
 	<string key="Damned_Villager_Hammer_DG_Restless_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Artisan</string>
+	<string key="Damned_Villager_Hammer_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Enthralled Laborer</string>
+	<string key="Damned_Villager_Hammer_Named_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Airic Niclisson</string>
 	<string key="Damned_Villager_Hammer_Named_03GC09_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Master Builder Marcus</string>
-	<string key="Damned_Villager_Hammer_Named_Digby_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Digby Gang</string>
 	<string key="Damned_Villager_KitchenKnife_03GC06_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Icefields Cook</string>
 	<string key="Damned_Villager_KitchenKnife_07SM06_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Myrkgard Cook</string>
 	<string key="Damned_Villager_KitchenKnife_10WS06_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Lushhunt Butcher</string>
@@ -1775,6 +1795,7 @@
 	<string key="Damned_Villager_Pickaxe_66_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Pickaxe Laborer</string>
 	<string key="Damned_Villager_Pickaxe_67_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Pickaxe Laborer</string>
 	<string key="Damned_Villager_Pickaxe_DG_Restless_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Miner</string>
+	<string key="Damned_Villager_Pickaxe_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Enthralled Excavator</string>
 	<string key="Damned_Villager_Pickaxe_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Traitorous Workman</string>
 	<string key="Damned_Villager_Pitchfork_10_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Pitchfork Laborer</string>
 	<string key="Damned_Villager_Pitchfork_11_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Pitchfork Laborer</string>
@@ -2021,6 +2042,7 @@
 	<string key="Damned_Villager_Skinning_Knife_67_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Skinner</string>
 	<string key="Damned_Villager_Skinning_Knife_9_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Skinner</string>
 	<string key="Damned_Villager_Skinning_Knife_DG_Restless_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Trapper</string>
+	<string key="Damned_Villager_Skinning_Knife_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Enthralled Skinner</string>
 	<string key="DamnedHound_DT1_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Hound</string>
 	<string key="DamnedHound_DT2_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Hound</string>
 	<string key="DamnedHound_DT3_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corrupted Hound</string>
@@ -2508,7 +2530,6 @@
 	<string key="Dryad_Soldier_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Denmen</string>
 	<string key="Dryad_Soldier_Named_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Meldue, Soldier of Blight</string>
 	<string key="Dryad_Soldier_VitalsName" comment="BASE" speaker="Vitals Sheet">Dryad Bulwark</string>
-	<string key="Dryad_Tendril_DG_Cutlass_00_VitalsName" comment="BASE" speaker="Vitals Sheet">Tendril</string>
 	<string key="Dryad_Tendril_VitalsName" comment="BASE" speaker="Vitals Sheet">Dryad Tendril</string>
 	<string key="Dynasty_Empress_Pedestal_VitalsName" comment="BASE" speaker="Vitals Sheet">Pearl Pedestal</string>
 	<string key="Dynasty_Empress_VitalsName" comment="BASE" speaker="Vitals Sheet">Zhou Taiying</string>
@@ -2517,19 +2538,23 @@
 	<string key="Dynasty_Heavy_57_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Dynasty Heavy</string>
 	<string key="Dynasty_Heavy_60_ELITE_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Dynasty Heavy</string>
 	<string key="Dynasty_Heavy_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Shipyard Heavy</string>
+	<string key="Dynasty_Heavy_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Heavy</string>
 	<string key="Dynasty_Heavy_Named_08QP04_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Shrine Master Lee</string>
 	<string key="Dynasty_Heavy_Named_08QP06_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Corrupted Serenity Champion</string>
 	<string key="Dynasty_Heavy_Named_08QP07_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Dynasty Heavy</string>
 	<string key="Dynasty_Heavy_Named_08QP08_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Dynasty Heavy</string>
 	<string key="Dynasty_Heavy_Named_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Commander Chen</string>
+	<string key="Dynasty_Heavy_Named_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Headman Pang</string>
 	<string key="Dynasty_Heavy_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Dynasty Heavy</string>
 	<string key="Dynasty_Maiden_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Empress's Maiden</string>
+	<string key="Dynasty_Maiden_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Maiden</string>
 	<string key="Dynasty_Maiden_Named_08QP06_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Dynasty Maiden</string>
 	<string key="Dynasty_Maiden_Named_08QP07_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Dynasty Maiden</string>
 	<string key="Dynasty_Maiden_Named_08QP08_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Dynasty Maiden</string>
 	<string key="Dynasty_Maiden_Named_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Maiden Jingfei</string>
 	<string key="Dynasty_Maiden_Named_DG_Ebonscale_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Maiden Lanfen</string>
 	<string key="Dynasty_Maiden_Named_DG_Ebonscale_02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Maiden Daiyu</string>
+	<string key="Dynasty_Maiden_Named_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">High Maiden Lai</string>
 	<string key="Dynasty_Maiden_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Dynasty Maiden</string>
 	<string key="Dynasty_Maiden_WWGreatAxe_Named_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Summoner Lee Da-Jae</string>
 	<string key="Dynasty_Musketeer_08QP07_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Dynasty Musketeer</string>
@@ -2551,6 +2576,7 @@
 	<string key="Dynasty_Musketeer_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Dynasty Musketeer</string>
 	<string key="Dynasty_Musketeer_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Dynasty Musketeer</string>
 	<string key="Dynasty_Musketeer_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Shipyard Musketeer</string>
+	<string key="Dynasty_Musketeer_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Musketeer</string>
 	<string key="Dynasty_Musketeer_Empress_VitalsName" comment="Add summoned by Empress" speaker="Vitals Sheet">Corrupted Dynasty Musketeer</string>
 	<string key="Dynasty_Musketeer_Named_08QP02_Vitalsname" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Musketeer Manny</string>
 	<string key="Dynasty_Musketeer_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Dynasty Musketeer</string>
@@ -2571,6 +2597,7 @@
 	<string key="Dynasty_Spearman_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Dynasty Spearman</string>
 	<string key="Dynasty_Spearman_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Dynasty Spearman</string>
 	<string key="Dynasty_Spearman_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Shipyard Spearman</string>
+	<string key="Dynasty_Spearman_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Spearman</string>
 	<string key="Dynasty_Spearman_Empress_VitalsName" comment="Add summoned by Empress" speaker="Vitals Sheet">Corrupted Dynasty Spearman</string>
 	<string key="Dynasty_Spearman_Named_08QP02_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Thunder Cradle Spearman</string>
 	<string key="Dynasty_Spearman_Named_08QP03_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Captain Lu Ten</string>
@@ -2595,6 +2622,7 @@
 	<string key="Dynasty_Summoner_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Dynasty Summoner</string>
 	<string key="Dynasty_Summoner_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Dynasty Summoner</string>
 	<string key="Dynasty_Summoner_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Shipyard Summoner</string>
+	<string key="Dynasty_Summoner_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Summoner</string>
 	<string key="Dynasty_Summoner_Empress_VitalsName" comment="Add summoned by Empress" speaker="Vitals Sheet">Corrupted Dynasty Summoner</string>
 	<string key="Dynasty_Summoner_Named_08QP07_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Dynasty Summoner</string>
 	<string key="Dynasty_Summoner_Named_08QP08_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Dynasty Summoner</string>
@@ -2623,6 +2651,7 @@
 	<string key="Dynasty_Warrior_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Dynasty Warrior</string>
 	<string key="Dynasty_Warrior_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corrupted Dynasty Warrior</string>
 	<string key="Dynasty_Warrior_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Shipyard Warrior</string>
+	<string key="Dynasty_Warrior_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Warrior</string>
 	<string key="Dynasty_Warrior_Empress_VitalsName" comment="Add summoned by Empress" speaker="Vitals Sheet">Corrupted Dynasty Warrior</string>
 	<string key="Dynasty_Warrior_Named_08QP01_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Kilgoran</string>
 	<string key="Dynasty_Warrior_Named_08QP02_Vitalsname" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Legarath</string>
@@ -2794,6 +2823,7 @@
 	<string key="Evil_Knight_Greataxe_Named_12MB01_Vitalsname" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P1">Sir Rulav the Jovial</string>
 	<string key="Evil_Knight_Greataxe_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P1">Varangian Battlemaster</string>
 	<string key="Evil_Knight_Longsword_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P1">Varangian Scout</string>
+	<string key="Evil_Knight_Longsword_Named_02BW02_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Quest_MSQ_Update_4">Torbjorn</string>
 	<string key="Evil_Knight_Mace_Named_04NW02_Vitalsname" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P1">Sir Ulfar the Wall</string>
 	<string key="Evil_Knight_Mace_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P1">Varangian Guardian</string>
 	<string key="FireMine_VitalsName" comment="BASE" speaker="Vitals Sheet">Fire Mine</string>
@@ -2805,6 +2835,7 @@
 	<string key="Ghost_Affix_VitalsName" comment="BASE" speaker="Vitals Sheet">Haunting Wraith</string>
 	<string key="Ghost_Charred_02BW05_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Molten Entity</string>
 	<string key="Ghost_Charred_08QP07_VitalsName" comment="BASE" speaker="Vitals Sheet">Charred Wraith</string>
+	<string key="Ghost_Charred_10WS07_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Feature_Unbound_Island">Anguished Warrior</string>
 	<string key="Ghost_Charred_40_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Charred Ghost</string>
 	<string key="Ghost_Charred_41_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Charred Ghost</string>
 	<string key="Ghost_Charred_42_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Charred Ghost</string>
@@ -3024,6 +3055,8 @@
 	<string key="Ghost_Shipwrecked_VitalsName" comment="BASE" speaker="Vitals Sheet">Drowned Wraith</string>
 	<string key="Ghost_Starved_08QP07_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skysong Faminegeist</string>
 	<string key="Ghost_Starved_10WS07_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Waterlogged Spirit</string>
+	<string key="Ghost_Starved_10WS07a_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Feature_Unbound_Island">Soulcrushed Adventurer</string>
+	<string key="Ghost_Starved_10WS07b_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Feature_Unbound_Island">Greed Stricken Adventurer</string>
 	<string key="Ghost_Starved_13WF08a_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Periville Faminegeist</string>
 	<string key="Ghost_Starved_22_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Ravenous Ghost</string>
 	<string key="Ghost_Starved_22_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Starved Ghost</string>
@@ -3138,6 +3171,9 @@
 	<string key="IceMagicPylonUltimate_VitalsName" comment="BASE" speaker="Vitals Sheet">Ice Pylon</string>
 	<string key="Inquisitor_Cleric_VitalsName" comment="BASE" speaker="Vitals Sheet">Rampant Flame Cleric</string>
 	<string key="Inquisitor_Flamekeeper_VitalsName" comment="BASE" speaker="Vitals Sheet">Rampant Flame Keeper</string>
+	<string key="Inquisitor_Markswoman_VitalsName" comment="BASE" speaker="Vitals Sheet">Rampant Markswoman</string>
+	<string key="Inquisitor_Warden_VitalsName" comment="BASE" speaker="Vitals Sheet">Rampant Flame Warden</string>
+	<string key="Inquisitor_Enforcer_VitalsName" comment="BASE" speaker="Vitals Sheet">Rampant Flame Enforcer</string>
 	<string key="Invasion_Bear_VitalsName" comment="Invasion" speaker="Vitals Sheet">Bear</string>
 	<string key="Invasion_Bomber_VitalsName" comment="Invasion" speaker="Vitals Sheet">Bomber</string>
 	<string key="Invasion_Brute_VitalsName" comment="Invasion" speaker="Vitals Sheet">Brute</string>
@@ -3154,10 +3190,15 @@
 	<string key="Invasion_VoidDestroyer_Eye_VitalsName" comment="Invasion" speaker="Vitals Sheet">Void Destroyer</string>
 	<string key="Invasion_VoidDestroyer_VitalsName" comment="Invasion" speaker="Vitals Sheet">Void Destroyer</string>
 	<string key="Isabella_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Isabella</string>
+	<string key="Isabella_DG_ShatterMtn_Phase0_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Isabella</string>
+	<string key="Isabella_DG_ShatterMtn_Phase1_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Isabella</string>
+	<string key="Isabella_DG_ShatterMtn_Phase2_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Isabella</string>
+	<string key="Isabella_DG_ShatterMtn_Phase2_Pylon_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Corruption Pylon</string>
 	<string key="Lesser_Dryad_35_VitalsName" comment="Generic Elemental Bear Minion Level Variant" speaker="Vitals Sheet">Lesser Dryad Minion</string>
 	<string key="Lesser_Dryad_64_VitalsName" comment="Generic Elemental Bear Minion Level Variant" speaker="Vitals Sheet">Lesser Dryad Minion</string>
 	<string key="Lesser_Dryad_65_VitalsName" comment="Generic Elemental Bear Minion Level Variant" speaker="Vitals Sheet">Lesser Dryad Minion</string>
 	<string key="Lesser_Dryad_VitalsName" comment="BASE" speaker="Vitals Sheet">Lesser Dryad</string>
+	<string key="Loot_Goblin_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Feature_RewardingExploration">Rafflebones</string>
 	<string key="Lost_Totem_60_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Lost Totem</string>
 	<string key="Lost_Totem_VitalsName" comment="BASE" speaker="Vitals Sheet">Lost Totem</string>
 	<string key="Lynx_03GC10_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Snowfoot Bobcat</string>
@@ -3266,6 +3307,8 @@
 	<string key="Naga_AngryEarth_Minion_VitalsName" comment="BASE" speaker="Vitals Sheet">Blighted Dryad</string>
 	<string key="Naga_AngryEarth_VitalsName" comment="BASE" speaker="Vitals Sheet">The Blighted Greenskeeper</string>
 	<string key="Naga_Boulder_VitalsName" comment="BASE" speaker="Vitals Sheet">Trap</string>
+	<string key="Naga_Corrupted_CorruptionCore_VitalsName" comment="Naga_Corrupted_CorruptionCore_VitalsName" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Corruption Core</string>
+	<string key="Naga_Corrupted_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Neishatun</string>
 	<string key="Naga_VitalsName" comment="BASE" speaker="Vitals Sheet">Naga</string>
 	<string key="OR_Bear_VitalsName" comment="Outpost Rush" speaker="Vitals Sheet">Summoned Bear</string>
 	<string key="OR_Boss_TBD_VitalsName" comment="Outpost Rush" speaker="Vitals Sheet">Baroness Hain</string>
@@ -3500,6 +3543,7 @@
 	<string key="Risen_Corruption_Entity_60_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corruption Entity</string>
 	<string key="Risen_Corruption_Entity_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corruption Entity</string>
 	<string key="Risen_Corruption_Entity_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corruption Entity</string>
+	<string key="Risen_Corruption_Entity_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Entity</string>
 	<string key="Risen_Corruption_Entity_Named_03GC07_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Deeppit Abomination</string>
 	<string key="Risen_Corruption_Impaler_07SM06_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Myrkgard Deathtoucher</string>
 	<string key="Risen_Corruption_Impaler_11MD12_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Corruption Impaler</string>
@@ -4043,6 +4087,7 @@
 	<string key="Skeleton_Spear_63_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skeleton Spearman</string>
 	<string key="Skeleton_Spear_64_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skeleton Spearman</string>
 	<string key="Skeleton_Spear_DG_Everfall_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Starstone Spearman</string>
+	<string key="Spriggan_Corrupted_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Spriggan</string>
 	<string key="Spriggan_Corrupted_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Spriggan</string>
 	<string key="Spriggan_Forest_VitalsName" comment="BASE" speaker="Vitals Sheet">Zygoramet</string>
 	<string key="Spriggan_Heal_Shield_VitalsName" comment="BASE" speaker="Vitals Sheet">Forest Spriggan Shield</string>
@@ -4174,6 +4219,7 @@
 	<string key="Tendril_Corruption_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corruption Tendril</string>
 	<string key="Tendril_Corruption_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corruption Tendril</string>
 	<string key="Tendril_Corruption_DG_Restless_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skerryshiv Tendril</string>
+	<string key="Tendril_Corruption_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Tendril</string>
 	<string key="Tendril_Corruption_DT1_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corruption Tendril</string>
 	<string key="Tendril_Corruption_DT2_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corruption Tendril</string>
 	<string key="Tendril_Corruption_DT3_VitalsName" comment="Darkness" speaker="Vitals Sheet">Corruption Tendril</string>
@@ -4229,8 +4275,6 @@
 	<string key="Totem_Pirate_Cursed_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Cursed Banner</string>
 	<string key="Totem_Pirate_Cursed_ELITE_05WC11_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Sirensong Harmonic Resonator</string>
 	<string key="Totem_Pirate_Cursed_VitalsName" comment="BASE" speaker="Vitals Sheet">Cursed Banner</string>
-	<string key="Totem_Scorpion_Nest_ELITE_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Putrid Blister</string>
-	<string key="Totem_Scorpion_Nest_LG_ELITE_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Swollen Egg Sac</string>
 	<string key="Totem_Withered_Nest_25_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Withered Nest</string>
 	<string key="Totem_Withered_Nest_DG_Windsward_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Star Excavation Nest</string>
 	<string key="Training_Dummy_VitalsName" comment="BASE" speaker="Vitals Sheet">Training Dummy</string>
@@ -4763,6 +4807,7 @@
 	<string key="Undead_Officer_Named_07_VitalsName" comment="Named Variant" speaker="Vitals Sheet">SCURVYHOOK</string>
 	<string key="Undead_Officer_Named_08QP02_VitalsName" comment="Named Variant" speaker="VitalsCategory Sheet">Bartolome</string>
 	<string key="Undead_Officer_Named_10WS09_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Goldstein the Equalizer</string>
+	<string key="Undead_Officer_Named_11MW06_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ_Update_4">Einar</string>
 	<string key="Undead_Officer_Named_1524_1517_WaveEventBoss_VitalsName" comment="Generic Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_Supplement_Restless">Santiago Salazar</string>
 	<string key="Undead_Officer_Shield_VitalsName" comment="BASE" speaker="Vitals Sheet">Lost Officer Shield</string>
 	<string key="Undead_Officer_VitalsName" comment="BASE" speaker="Vitals Sheet">Lost Officer</string>
@@ -4853,6 +4898,7 @@
 	<string key="Undead_Pistoleer_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">First Mate Mary</string>
 	<string key="Undead_Pistoleer_Named_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Master Gunner Price</string>
 	<string key="Undead_Pistoleer_Named_02_VitalsName" comment="Named Variant" speaker="Vitals Sheet">First Mate Misher</string>
+	<string key="Undead_Pistoleer_Named_12MB05_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Gideon the Malicious</string>
 	<string key="Undead_Pistoleer_Named_05WC11_VitalsName" comment="ELITE Named Variant" speaker="Vitals Sheet">The Siren's Gun</string>
 	<string key="Undead_Pistoleer_VitalsName" comment="BASE" speaker="Vitals Sheet">Lost Pistoleer</string>
 	<string key="Undead_Shaman_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Variation_Sub_L20">Lost Shaman</string>
@@ -4991,7 +5037,6 @@
 	<string key="VC_Alligator_Strange_Named_05WC02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Putris</string>
 	<string key="VC_Alligator_Strange_Named_08QP01" comment="ELITE Named Variant" speaker="VitalsCategory Sheet">Tazorjaw</string>
 	<string key="VC_Alligator_Strange_Named_08QP03" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Bloody Jaws</string>
-	<string key="VC_Alligator_Strange_Named_DG_Cutlass_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Chompers</string>
 	<string key="VC_Alligator_Young" comment="Generic Level Variant" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Young Alligator</string>
 	<string key="VC_Alligator_Young_04NW11a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Stonetooth Alligator</string>
 	<string key="VC_Alligator_Young_04NW11b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Riverworn Alligator</string>
@@ -5034,6 +5079,7 @@
 	<string key="VC_Ancient_Guardian_Reaver_03GC10c" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Frosttorrent Reaver</string>
 	<string key="VC_Ancient_Guardian_Reaver_07SM07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Rockruins Carver</string>
 	<string key="VC_Ancient_Guardian_Reaver_11MD02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skywashed Reaver</string>
+	<string key="VC_Ancient_Guardian_Reaver_13WF02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Andrometus Reaver</string>
 	<string key="VC_Ancient_Javelineer" comment="BASE" speaker="VitalsCategory Sheet">Ancient Guardian Regent</string>
 	<string key="VC_Ancient_Mage" comment="BASE" speaker="VitalsCategory Sheet">Ancient Guardian Sorceress</string>
 	<string key="VC_AncientGuardian_Heavy_Boss_Named_DG_Everfall_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Greundgul the Regent</string>
@@ -5219,8 +5265,9 @@
 	<string key="VC_AncientGuardian_Spearman_11MD06d" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Malingering Presence</string>
 	<string key="VC_AncientGuardian_Spearman_12MB02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Celestial Taskmaster</string>
 	<string key="VC_AncientGuardian_Spearman_12MB08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Verdant Taskmaster</string>
-	<string key="VC_AncientGuardian_Spearman_13WF02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Starbound Taskmaster</string>
+	<string key="VC_AncientGuardian_Spearman_13WF02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Andrometus Taskmaster</string>
 	<string key="VC_AncientGuardian_Spearman_13WF02a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Northstar Taskmaster</string>
+	<string key="VC_AncientGuardian_Spearman_13WF02b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Starbound Taskmaster</string>
 	<string key="VC_AncientGuardian_Spearman_13WF04" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Southstar Taskmaster</string>
 	<string key="VC_AncientGuardian_Spearman_13WF05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skysworn Taskmaster</string>
 	<string key="VC_AncientGuardian_Spearman_20" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Ancient Guardian Taskmaster</string>
@@ -5439,6 +5486,7 @@
 	<string key="VC_Blight_Fiend_07SM09b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Serumseed Cultivator</string>
 	<string key="VC_Blight_Fiend_08QP03" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Verdurous Fiend</string>
 	<string key="VC_Blight_Fiend_13WF02a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Invasive Blight Fiend</string>
+	<string key="VC_Blight_Fiend_13WF02b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Proliferating Blight Fiend</string>
 	<string key="VC_Blight_Fiend_14AC07a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Mire Fiend</string>
 	<string key="VC_Blight_Fiend_14AC11b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Alcazarian Polluter</string>
 	<string key="VC_Blight_Fiend_14AC12b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Blight Fiend</string>
@@ -5725,6 +5773,7 @@
 	<string key="VC_Corrupted_Ogre_58" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Corrupted Behemoth</string>
 	<string key="VC_Corrupted_Ogre_62_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Unhallowed Leviathan</string>
 	<string key="VC_Corrupted_Ogre_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skerryshiv Ogre</string>
+	<string key="VC_Corrupted_Ogre_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Ogre</string>
 	<string key="VC_Corrupted_Ogre_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Mozrul the Herald</string>
 	<string key="VC_Corrupted_Ogre_Named_03GC03_ELITE" comment="ELITE Named Variant BOSS - Mission Target Display Name" speaker="VitalsCategory Sheet">Mozrul the Herald</string>
 	<string key="VC_Corrupted_Ogre_Named_03GC03_ELITE_VitalsName" comment="ELITE Named Variant BOSS" speaker="Vitals Sheet">Mozrul the Herald</string>
@@ -5732,6 +5781,7 @@
 	<string key="VC_Corrupted_Ogre_Named_07SM06_DARKNESS" comment="Darkness" speaker="VitalsCategory Sheet">Myrkgard Ogre</string>
 	<string key="VC_Corrupted_Ogre_Named_07SM06_ELITE" comment="ELITE Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Myrkgard Ogre</string>
 	<string key="VC_Corrupted_Ogre_Named_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Boor</string>
+	<string key="VC_Corrupted_Ogre_Named_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Vroeg</string>
 	<string key="VC_Corrupted_Tendril_60_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Unhallowed Tendril</string>
 	<string key="VC_Corrupted_Tiger_08QP04" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Corrupted Tiger</string>
 	<string key="VC_Corrupted_Tiger_08QP08" comment="ELITE Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Dynasty Menagerie Tiger</string>
@@ -5770,6 +5820,7 @@
 	<string key="VC_Corruption_Heavy_11MD12_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Hborxym the Petrificate</string>
 	<string key="VC_Corruption_Heavy_50_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Corruption Heavy</string>
 	<string key="VC_Corruption_Heavy_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skerryshiv Heavy</string>
+	<string key="VC_Corruption_Heavy_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Heavy</string>
 	<string key="VC_Corruption_Heavy_MSQ" comment="BASE" speaker="VitalsCategory Sheet">Vilefodder Duel Master</string>
 	<string key="VC_Corruption_Heavy_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Svikin Gate Lord</string>
 	<string key="VC_corruption_heavy_named_03gc09_elite" comment="Mission Target Display Name" speaker="VitalsCategory">Corrupted Heavy</string>
@@ -5777,6 +5828,7 @@
 	<string key="VC_Corruption_Heavy_Named_07SM05b" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Pit Lord Daehi</string>
 	<string key="VC_Corruption_Heavy_Named_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Guldar</string>
 	<string key="VC_Corruption_Heavy_Named_DG_Restless_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Despar</string>
+	<string key="VC_Corruption_Heavy_Named_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Uzret</string>
 	<string key="VC_Corruption_Heavy_Named_MSQ_Ballards" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">General Carvalho</string>
 	<string key="VC_Corruption_Impaler" comment="BASE" speaker="VitalsCategory Sheet">Corruption Impaler</string>
 	<string key="VC_Corruption_Impaler_06SW09" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Plainsblot Impaler</string>
@@ -5816,6 +5868,7 @@
 	<string key="VC_Corruption_Swarmer_58_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Unhallowed Infestation</string>
 	<string key="VC_Corruption_Swarmer_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Corruption Swarmer</string>
 	<string key="VC_Corruption_Swarmer_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skerryshiv Swarmer</string>
+	<string key="VC_Corruption_Swarmer_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Swarmer</string>
 	<string key="VC_corruption_swarmer_dt1" comment="Mission Target Display Name" speaker="VitalsCategory">Corruption Swarmer</string>
 	<string key="vc_corruption_swarmer_dt2" comment="Mission Target Display Name" speaker="VitalsCategory">Corruption Swarmer</string>
 	<string key="VC_corruption_swarmer_dt3" comment="Mission Target Display Name" speaker="VitalsCategory">Corruption Swarmer</string>
@@ -5924,6 +5977,7 @@
 	<string key="VC_damned_1h_swordsman_m-f_57" comment="Mission Target Display Name" speaker="VitalsCategory">Corrupted Mercenary</string>
 	<string key="VC_damned_1h_swordsman_m-f_58" comment="Mission Target Display Name" speaker="VitalsCategory">Corrupted Mercenary</string>
 	<string key="VC_Damned_1H_Swordsman_M-F_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skerryshiv Mercenary</string>
+	<string key="VC_Damned_1H_Swordsman_M-F_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Warrior</string>
 	<string key="VC_Damned_1H_Swordsman_M-F_MSQ_35" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Vilefodder Duel Master</string>
 	<string key="VC_Damned_2H_Spearman_M-F_03GC03_ELITE" comment="ELITE Level Variant" speaker="Vitals Sheet">Unhallowed Spearman</string>
 	<string key="VC_Damned_2H_Spearman_M-F_07SM02b_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Scorchvein Enforcer</string>
@@ -5931,6 +5985,7 @@
 	<string key="VC_Damned_2H_Spearman_M-F_07SM06b_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Myrkgard Skullhunter</string>
 	<string key="VC_Damned_2H_Spearman_M-F_07SM06c_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Myrkgard Skullskewer</string>
 	<string key="VC_Damned_2H_Spearman_M-F_07SM06d_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Myrkgard Skull Collector</string>
+	<string key="VC_Damned_2H_Spearman_M-F_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Impaler</string>
 	<string key="VC_Damned_2H_Spearman_M-F_Named_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Benat</string>
 	<string key="VC_Damned_Acolyte" comment="BASE" speaker="VitalsCategory Sheet">Corrupted Acolyte</string>
 	<string key="VC_Damned_Acolyte_03GC03_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Unhallowed Acolyte</string>
@@ -5955,6 +6010,7 @@
 	<string key="VC_Damned_Acolyte_60" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Corrupted Acolyte</string>
 	<string key="VC_Damned_Acolyte_60_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Unhallowed Acolyte</string>
 	<string key="VC_Damned_Acolyte_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skerryshiv Acolyte</string>
+	<string key="VC_Damned_Acolyte_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Acolyte</string>
 	<string key="VC_damned_acolyte_dt1" comment="Mission Target Display Name" speaker="VitalsCategory">Corrupted Acolyte</string>
 	<string key="VC_damned_acolyte_dt2" comment="Mission Target Display Name" speaker="VitalsCategory">Corrupted Acolyte</string>
 	<string key="VC_damned_acolyte_dt3" comment="Mission Target Display Name" speaker="VitalsCategory">Corrupted Acolyte</string>
@@ -5966,6 +6022,8 @@
 	<string key="VC_Damned_Acolyte_Named_03GC08" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Archaeologian Sauquillo</string>
 	<string key="VC_Damned_Acolyte_Named_08QP07" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Corrupted Emissary</string>
 	<string key="VC_Damned_Acolyte_Named_FR_Cov_01" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Corrupted Excubitor Luca</string>
+	<string key="Damned_Acolyte_Named_03GC06_MSQ_vitalsname" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ_Update_4">Lieutenant Alvius</string>
+	<string key="VC_Damned_Acolyte_Named_03GC06_MSQ" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ_Update_4">Lieutenant Alvius</string>
 	<string key="VC_Damned_Axeman" comment="BASE" speaker="VitalsCategory Sheet">Corrupted Huntsman</string>
 	<string key="VC_Damned_Axeman_64" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Highpass Axeman</string>
 	<string key="VC_Damned_Axeman_Female" comment="BASE" speaker="VitalsCategory Sheet">Corrupted Huntress</string>
@@ -5990,6 +6048,7 @@
 	<string key="VC_Damned_Axeman_M-F_07SM08a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Feralrim Patroller</string>
 	<string key="VC_Damned_Axeman_M-F_08QP08_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Palace Executioner</string>
 	<string key="VC_Damned_Axeman_M-F_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skerryshiv Axeman</string>
+	<string key="VC_Damned_Axeman_M-F_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Huntsman</string>
 	<string key="VC_Damned_Bowman" comment="BASE" speaker="VitalsCategory Sheet">Corrupted Ranger</string>
 	<string key="VC_Damned_Bowman_02BW02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Ripsaw Archer</string>
 	<string key="VC_Damned_Bowman_02BW05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Rustheart Archer</string>
@@ -6022,6 +6081,7 @@
 	<string key="VC_Damned_Bowman_59" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Highpass Archer</string>
 	<string key="VC_Damned_Bowman_64" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Highpass Archer</string>
 	<string key="VC_Damned_Bowman_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skerryshiv Archer</string>
+	<string key="VC_Damned_Bowman_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Bowman</string>
 	<string key="VC_Damned_Bowman_M-F_03GC07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Frontwatch Archer</string>
 	<string key="VC_Damned_Bowman_M-F_03GC07a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Valleyrend Archer</string>
 	<string key="VC_Damned_Bowman_M-F_07SM01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Warrift Bowman</string>
@@ -6055,6 +6115,7 @@
 	<string key="VC_Damned_Cultist_50_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Corrupted Cultist</string>
 	<string key="VC_Damned_Cultist_59_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Unhallowed Devout</string>
 	<string key="VC_Damned_Cultist_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skerryshiv Cultist</string>
+	<string key="VC_Damned_Cultist_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Cultist</string>
 	<string key="VC_damned_cultist_dt1" comment="Mission Target Display Name" speaker="VitalsCategory">Corrupted Cultist</string>
 	<string key="VC_damned_cultist_dt2" comment="Mission Target Display Name" speaker="VitalsCategory">Corrupted Cultist</string>
 	<string key="VC_damned_cultist_dt3" comment="Mission Target Display Name" speaker="VitalsCategory">Corrupted Cultist</string>
@@ -6079,11 +6140,15 @@
 	<string key="VC_Damned_Greataxeman_M-F_03GC05c" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Windblast Legionnaire</string>
 	<string key="VC_Damned_Greataxeman_M-F_08QP07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skysong Legionnaire</string>
 	<string key="VC_Damned_GreatAxeman_M-F_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skerryshiv Legionaire</string>
+	<string key="VC_Damned_GreatAxeman_M-F_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Legionnaire</string>
 	<string key="VC_Damned_GreatAxeman_M-F_Named_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Corrupted Ravager Silas</string>
+	<string key="VC_Damned_GreatAxeman_M-F_Named_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Crewman Alvaro</string>
+	<string key="VC_Damned_GreatAxeman_M-F_Named_DG_ShatterMtn_01" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Cutthroat Eduardo</string>
 	<string key="VC_Damned_Greataxeman_M-F_Named_FR_Mar_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Corrupted Ravager Silas</string>
 	<string key="VC_Damned_GreatHammer_Named_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Master Smith McCoy</string>
 	<string key="VC_Damned_Grunt_07SM05b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Illurmin Ambusher</string>
 	<string key="VC_Damned_Grunt_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skerryshiv Grunt</string>
+	<string key="VC_Damned_Grunt_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Abomination</string>
 	<string key="VC_Damned_Hound_03GC06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Frontwatch Guardhound</string>
 	<string key="VC_Damned_Hound_03GC09_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Lower Svikin Warhound</string>
 	<string key="VC_Damned_Hound_03GC09_Named_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Rufus, Little Emperor</string>
@@ -6120,11 +6185,11 @@
 	<string key="VC_damned_hound_57" comment="Mission Target Display Name" speaker="VitalsCategory">Corrupted Hound</string>
 	<string key="VC_Damned_Hound_58" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Highpass Hound</string>
 	<string key="VC_Damned_Hound_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Shipyard Hound</string>
+	<string key="VC_Damned_Hound_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Hound</string>
 	<string key="VC_Damned_Hound_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Alecto, Get of Cerberus</string>
 	<string key="VC_Damned_Hound_Named_01" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Magera, Get of Cerberus</string>
 	<string key="VC_Damned_Hound_Named_02" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Tisipho, Get of Cerberus</string>
 	<string key="VC_Damned_Hound_Named_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Figgy</string>
-	<string key="VC_Damned_Hound_Named_MD_Digby" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Digby's Dog</string>
 	<string key="VC_Damned_LongSwordsman_Commander_07SM06_DARKNESS" comment="Darkness" speaker="VitalsCategory Sheet">Myrkgard Gate Lord</string>
 	<string key="VC_Damned_LongSwordsman_Commander_07SM06a_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Warcaller Tactician</string>
 	<string key="VC_Damned_LongSwordsman_Commander_07SM06b_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Archos Imperator</string>
@@ -6138,17 +6203,25 @@
 	<string key="VC_Damned_LongSwordsman_Commander_Named_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Commander Thorpe</string>
 	<string key="VC_damned_longswordsman_minion_bear" comment="Mission Target Display Name" speaker="VitalsCategory">Corrupted Bear</string>
 	<string key="VC_damned_longswordsman_minion_ogre" comment="Mission Target Display Name" speaker="VitalsCategory">Corrupted Ogre</string>
+	<string key="VC_Damned_MSQ_Invader" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ_Update_4">Thorpe's Invader</string>
+	<string key="VC_Damned_MSQ_Loyalist" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ_Update_4">Thorpe's Loyalist</string>
+	<string key="VC_Damned_MSQ_Supporter" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ_Update_4">Thorpe's Supporter</string>
 	<string key="VC_Damned_Pistoleer" comment="BASE" speaker="VitalsCategory Sheet">Corrupted Pistoleer</string>
 	<string key="VC_Damned_Pistoleer_10WS02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Lushhills Bodyguard</string>
 	<string key="VC_Damned_Pistoleer_40" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Frontwatch Pistoleer</string>
 	<string key="VC_Damned_Pistoleer_Female_Named_07SM04_ELITE" comment="ELITE Named Variant BOSS - Mission Target Display Name" speaker="VitalsCategory Sheet">Overseer Levy</string>
+	<string key="Damned_Pistoleer_Female_Named_03GC06_MSQ_vitalsname" comment="ELITE Named Variant BOSS - Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ_Update_4">Lieutenant Hale</string>
+	<string key="VC_Damned_Pistoleer_Female_Named_03GC06_MSQ" comment="ELITE Named Variant BOSS - Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ_Update_4">Lieutenant Hale</string>
 	<string key="VC_Damned_Pistoleer_M-F_03GC07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Frontwatch Pistoleer</string>
 	<string key="VC_Damned_Pistoleer_M-F_03GC07a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Valleyrend Sentry</string>
 	<string key="VC_Damned_Pistoleer_M-F_03GC07b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Molderpick Sentry</string>
 	<string key="VC_Damned_Pistoleer_M-F_07SM06a_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Myrkgard Eye Collector</string>
 	<string key="VC_Damned_Pistoleer_M-F_07SM06b_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Myrkgard Tooth Collector</string>
 	<string key="VC_Damned_Pistoleer_M-F_07SM06c_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Myrkgard Souvenir Collector</string>
+	<string key="VC_Damned_Pistoleer_M-F_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Pistoleer</string>
+	<string key="VC_Damned_Pistoleer_M-F_Named_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Crewman Ruiz</string>
 	<string key="VC_Damned_Priest" comment="BASE" speaker="VitalsCategory Sheet">Corrupted Summoner</string>
+	<string key="VC_Damned_Priest_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Priest</string>
 	<string key="VC_Damned_Priest_Miniboss_RestlessShores" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Archdeacon Azamela</string>
 	<string key="VC_Damned_Priest_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">High Priest Oseguera</string>
 	<string key="VC_Damned_Priest_Named_03GC03_ELITE" comment="ELITE Named Variant BOSS - Mission Target Display Name" speaker="VitalsCategory Sheet">High Priest Oseguera</string>
@@ -6156,6 +6229,8 @@
 	<string key="VC_Damned_Priest_Named_07SM06a_ELITE" comment="ELITE Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Disciple of Disorder</string>
 	<string key="VC_Damned_Priest_Named_07SM06b_ELITE" comment="ELITE Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Artifex Faetum</string>
 	<string key="VC_Damned_Priest_Named_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Archdeacon Azamela</string>
+	<string key="VC_Damned_Priest_Named_DG_ShatterMtn_00_01" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">High Priestess Ifel</string>
+	<string key="VC_Damned_Priest_Named_DG_ShatterMtn_00_02" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">High Priest Basir</string>
 	<string key="VC_Damned_Rifleman" comment="BASE" speaker="VitalsCategory Sheet">Corrupted Musketeer</string>
 	<string key="VC_Damned_Rifleman_11MD12_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Scorpii Stinger</string>
 	<string key="VC_Damned_Rifleman_44" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Waterlogged Blastshot</string>
@@ -6167,8 +6242,9 @@
 	<string key="VC_Damned_Rifleman_Female_Named_03GC06" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Captain Patricia</string>
 	<string key="VC_Damned_Rifleman_Male_Named_01" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Foreman Harold</string>
 	<string key="VC_Damned_Rifleman_Male_Named_03GC06" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Foreman Robertson</string>
+	<string key="Damned_Rifleman_Male_Named_03GC06_MSQ_vitalsname" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ_Update_4">Lieutenant Leopold</string>
+	<string key="VC_Damned_Rifleman_Male_Named_03GC06_MSQ" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ_Update_4">Lieutenant Leopold</string>
 	<string key="VC_Damned_Rifleman_MD_Named_Coy" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Coy's Enforcers</string>
-	<string key="VC_Damned_Rifleman_MD_Named_Digby" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Digby Stockburn</string>
 	<string key="VC_Damned_Rifleman_M-F_03GC08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Tundra Garrison Gunner</string>
 	<string key="VC_Damned_Rifleman_M-F_03GC08a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Barrenrock Gunner</string>
 	<string key="VC_Damned_Rifleman_M-F_03GC08b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Trailstall Gunner</string>
@@ -6187,6 +6263,7 @@
 	<string key="VC_Damned_Rifleman_M-F_11MD07" comment="Mission Target Display Name" speaker="VitalsCategory">Ramshead Sniper</string>
 	<string key="VC_Damned_Rifleman_M-F_11MD10a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Rite Gunner</string>
 	<string key="VC_Damned_Rifleman_M-F_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Isabella's Musketeer</string>
+	<string key="VC_Damned_Rifleman_M-F_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Musketeer</string>
 	<string key="VC_Damned_Spearman" comment="BASE" speaker="VitalsCategory Sheet">Corrupted Sentinel</string>
 	<string key="VC_Damned_Spearman_45" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Tundra Garrison Spearman</string>
 	<string key="VC_Damned_Spearman_M-F_03GC05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Tundra Garrison Spearman</string>
@@ -6195,6 +6272,7 @@
 	<string key="VC_Damned_Spearman_M-F_03GC05c" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Windblast Spearman</string>
 	<string key="VC_Damned_Swordsman" comment="BASE" speaker="VitalsCategory Sheet">Corrupted Warrior</string>
 	<string key="vc_damned_swordsman_t2" comment="Mission Target Display Name" speaker="VitalsCategory">Corrupted Mercenary</string>
+	<string key="VC_Damned_Villager_AxeThrower_F_Named_06SW08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Marteia the Angry</string>
 	<string key="VC_Damned_Villager_AxeThrower_02BW02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Ripsaw Hunter</string>
 	<string key="VC_Damned_Villager_AxeThrower_02BW05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Rustheart Hunter</string>
 	<string key="VC_Damned_Villager_AxeThrower_04NW09a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Cavern Sentry</string>
@@ -6230,6 +6308,7 @@
 	<string key="VC_Damned_Villager_AxeThrower_M-F_53" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Grove Patroller</string>
 	<string key="VC_damned_villager_axethrower_m-f_59_elite" comment="Mission Target Display Name" speaker="VitalsCategory">Unhallowed Axe Thrower</string>
 	<string key="VC_Damned_Villager_AxeThrower_M-F_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skerryshiv Hunter</string>
+	<string key="VC_Damned_Villager_AxeThrower_M-F_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Enthralled Axe Thrower</string>
 	<string key="VC_Damned_Villager_Cleaver_02BW05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Rustheart Butcher</string>
 	<string key="VC_Damned_Villager_Cleaver_03GC07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Cutmines Provisioner</string>
 	<string key="VC_Damned_Villager_Cleaver_03GC07a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Valleyrend Butcher</string>
@@ -6249,6 +6328,7 @@
 	<string key="VC_Damned_Villager_Cleaver_11MD00i" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Wardog Butcher</string>
 	<string key="VC_Damned_Villager_Cleaver_11MD07a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Grus Butcher</string>
 	<string key="VC_Damned_Villager_Cleaver_11MD07b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Cragsview Butcher</string>
+	<string key="VC_Damned_Villager_Cleaver_11MD10a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Rite Butcher</string>
 	<string key="VC_Damned_Villager_Cleaver_13WF05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Bloodcamp Butcher</string>
 	<string key="VC_Damned_Villager_Cleaver_15" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Corrupted Butcher</string>
 	<string key="VC_Damned_Villager_Cleaver_32" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Corrupted Butcher</string>
@@ -6258,6 +6338,7 @@
 	<string key="VC_Damned_Villager_Cleaver_44" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Corrupted Butcher</string>
 	<string key="VC_Damned_Villager_Cleaver_45" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Corrupted Butcher</string>
 	<string key="VC_Damned_Villager_Cleaver_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skerryshiv Butcher</string>
+	<string key="VC_Damned_Villager_Cleaver_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Enthralled Butcher</string>
 	<string key="VC_Damned_Villager_Cleaver_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">The Skinner</string>
 	<string key="VC_Damned_Villager_Hammer_02BW02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Ripsaw Artisan</string>
 	<string key="VC_Damned_Villager_Hammer_02BW05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Rustheart Artisan</string>
@@ -6302,8 +6383,8 @@
 	<string key="VC_Damned_Villager_Hammer_51" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Corrupted Masonryman</string>
 	<string key="VC_Damned_Villager_Hammer_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Shipyard Worker</string>
 	<string key="VC_Damned_Villager_Hammer_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skerryshiv Artisan</string>
+	<string key="VC_Damned_Villager_Hammer_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Enthralled Laborer</string>
 	<string key="VC_Damned_Villager_Hammer_Named_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Airic Niclisson</string>
-	<string key="VC_Damned_Villager_Hammer_Named_Digby" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Digby Gang</string>
 	<string key="VC_Damned_Villager_KitchenKnife_03GC06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Icefields Cook</string>
 	<string key="VC_Damned_Villager_KitchenKnife_07SM06" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Myrkgard Meatslicer</string>
 	<string key="VC_Damned_Villager_KitchenKnife_10WS06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Lushhunt Butcher</string>
@@ -6431,6 +6512,7 @@
 	<string key="VC_Damned_Villager_Pickaxe_52" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Corrupted Excavator</string>
 	<string key="VC_Damned_Villager_Pickaxe_53" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Corrupted Excavator</string>
 	<string key="VC_Damned_Villager_Pickaxe_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skerryshiv Miner</string>
+	<string key="VC_Damned_Villager_Pickaxe_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Enthralled Excavator</string>
 	<string key="VC_Damned_Villager_Pickaxe_Named_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Traitorous Workman</string>
 	<string key="VC_Damned_Villager_Pitchfork_06SW10" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Rusted Fork Farmhand</string>
 	<string key="VC_Damned_Villager_Pitchfork_08QP06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Serenity Farmhand</string>
@@ -6503,6 +6585,7 @@
 	<string key="VC_Damned_Villager_Skinning_Knife_11MD07b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Cragview Trapper</string>
 	<string key="VC_Damned_Villager_Skinning_Knife_11MD10a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Rite Trapper</string>
 	<string key="VC_Damned_Villager_Skinning_Knife_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skerryshiv Trapper</string>
+	<string key="VC_Damned_Villager_Skinning_Knife_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Enthralled Skinner</string>
 	<string key="VC_DamnedHound" comment="BASE" speaker="VitalsCategory Sheet">Corrupted Hound</string>
 	<string key="VC_damnedhound_dt1" comment="Mission Target Display Name" speaker="VitalsCategory">Corrupted Hound</string>
 	<string key="VC_damnedhound_dt2" comment="Mission Target Display Name" speaker="VitalsCategory">Corrupted Hound</string>
@@ -7096,7 +7179,6 @@
 	<string key="VC_Dryad_Soldier_65_Elite" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Dryad Fighter</string>
 	<string key="VC_Dryad_Soldier_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Denmen</string>
 	<string key="VC_Dryad_Soldier_Named_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Meldue, Soldier of Blight</string>
-	<string key="VC_Dryad_Tendril_DG_Cutlass_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Tendril</string>
 	<string key="VC_Dusty" comment="BASE" speaker="VitalsCategory Sheet">Dusty</string>
 	<string key="VC_Dynasty_Archer_Empress" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Dynasty Warrior</string>
 	<string key="VC_Dynasty_Empress" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Zhou Taiying</string>
@@ -7105,21 +7187,26 @@
 	<string key="VC_Dynasty_Heavy_08QP06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Serenity Heavy</string>
 	<string key="VC_Dynasty_Heavy_08QP07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skysong Heavy</string>
 	<string key="VC_Dynasty_Heavy_08QP08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Dynasty Heavy</string>
+	<string key="VC_Dynasty_Heavy_08QP08_MSQ" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ_Update_4">Dynasty Fleet General</string>
 	<string key="VC_Dynasty_Heavy_08QP08_ELITE" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Palace General</string>
 	<string key="VC_Dynasty_Heavy_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Shipyard Heavy</string>
+	<string key="VC_Dynasty_Heavy_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Heavy</string>
 	<string key="VC_Dynasty_Heavy_Named_08QP04" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Shrine Master Lee</string>
 	<string key="VC_Dynasty_Heavy_Named_08QP06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Shrine Master Zhang</string>
 	<string key="VC_Dynasty_Heavy_Named_08QP07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Shrine Master Feng</string>
 	<string key="VC_Dynasty_Heavy_Named_08QP08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Shrine Master Yang</string>
 	<string key="VC_Dynasty_Heavy_Named_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Commander Chen</string>
+	<string key="VC_Dynasty_Heavy_Named_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Headman Pang</string>
 	<string key="VC_Dynasty_Maiden_08QP08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Dynasty Maiden</string>
 	<string key="VC_Dynasty_Maiden_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Empress's First Maiden</string>
+	<string key="VC_Dynasty_Maiden_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Maiden</string>
 	<string key="VC_Dynasty_Maiden_Named_08QP06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Serenity Maiden Liu</string>
 	<string key="VC_Dynasty_Maiden_Named_08QP07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skysong Maiden Ping</string>
 	<string key="VC_Dynasty_Maiden_Named_08QP08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Palace Maiden Xiao</string>
 	<string key="VC_Dynasty_Maiden_Named_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Maiden Jingfei</string>
 	<string key="VC_Dynasty_Maiden_Named_DG_Ebonscale_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Maiden Lanfen</string>
 	<string key="VC_Dynasty_Maiden_Named_DG_Ebonscale_02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Maiden Daiyu</string>
+	<string key="VC_Dynasty_Maiden_Named_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">High Maiden Lai</string>
 	<string key="VC_Dynasty_Maiden_WWGreatAxe" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Summoner Lee Da-Jae</string>
 	<string key="VC_Dynasty_Musketeer_08QP01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Moss Mire Musketeer</string>
 	<string key="VC_Dynasty_Musketeer_08QP01a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Caravan Musketeer</string>
@@ -7134,6 +7221,7 @@
 	<string key="VC_Dynasty_Musketeer_08QP08_ELITE" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Palace Musketeer</string>
 	<string key="VC_Dynasty_Musketeer_58_08QP01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Moss Mire Musketeer</string>
 	<string key="VC_Dynasty_Musketeer_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Shipyard Musketeer</string>
+	<string key="VC_Dynasty_Musketeer_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Musketeer</string>
 	<string key="VC_Dynasty_Musketeer_Named_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Musketeer Manny</string>
 	<string key="VC_Dynasty_Spearman_08QP01a" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Caravan Spearman</string>
 	<string key="VC_Dynasty_Spearman_08QP01b" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Highway Spearman</string>
@@ -7144,6 +7232,7 @@
 	<string key="VC_Dynasty_Spearman_08QP08" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Dynasty Spearman</string>
 	<string key="VC_Dynasty_Spearman_08QP08_ELITE" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Palace Spear Captain</string>
 	<string key="VC_Dynasty_Spearman_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Shipyard Spearman</string>
+	<string key="VC_Dynasty_Spearman_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Spearman</string>
 	<string key="VC_Dynasty_Spearman_Empress" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Dynasty Warrior</string>
 	<string key="VC_Dynasty_Spearman_Named_08QP02" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Dimethicone</string>
 	<string key="VC_Dynasty_Spearman_Named_08QP03" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Captain Lu Ten</string>
@@ -7159,6 +7248,7 @@
 	<string key="VC_Dynasty_Summoner_08QP08" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Dynasty Summoner</string>
 	<string key="VC_Dynasty_Summoner_08QP08_ELITE" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Palace Summoner</string>
 	<string key="VC_Dynasty_Summoner_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Shipyard Summoner</string>
+	<string key="VC_Dynasty_Summoner_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Summoner</string>
 	<string key="VC_Dynasty_Summoner_Empress" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Dynasty Warrior</string>
 	<string key="VC_Dynasty_Summoner_Named_08QP06" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Tensi</string>
 	<string key="VC_Dynasty_Summoner_Named_08QP07" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Visti</string>
@@ -7182,6 +7272,7 @@
 	<string key="VC_Dynasty_Warrior_08QP08_ELITE" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Palace Warrior</string>
 	<string key="VC_Dynasty_Warrior_58_08QP01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Moss Mire Warrior</string>
 	<string key="VC_Dynasty_Warrior_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Shipyard Warrior</string>
+	<string key="VC_Dynasty_Warrior_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Warrior</string>
 	<string key="VC_dynasty_warrior_empress" comment="Mission Target Display Name" speaker="VitalsCategory">Dynasty Warrior</string>
 	<string key="VC_Dynasty_Warrior_Named_08QP01" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Kilgoran</string>
 	<string key="VC_Dynasty_Warrior_Named_08QP02" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Legarath</string>
@@ -7402,6 +7493,7 @@
 	<string key="VC_Evil_Knight_Longsword_22" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Varangian Scout</string>
 	<string key="VC_Evil_Knight_Longsword_23" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Varangian Scout</string>
 	<string key="VC_Evil_Knight_Longsword_24" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Varangian Scout</string>
+	<string key="VC_Evil_Knight_Longsword_Named_02BW02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ_Update_4">Torbjorn</string>
 	<string key="VC_Evil_Knight_Mace" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Varangian Knight</string>
 	<string key="VC_Evil_Knight_Mace_04NW02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Vulkgard Knight</string>
 	<string key="VC_Evil_Knight_Mace_09FL07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Kinjalgard Knight</string>
@@ -7442,6 +7534,7 @@
 	<string key="VC_Ghost_Charred_02BW05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Molten Entity</string>
 	<string key="VC_Ghost_Charred_07SM05b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Illurmin Hellfire</string>
 	<string key="VC_Ghost_Charred_08QP07" comment="BASE" speaker="VitalsCategory Sheet">Skysong Firegeist</string>
+	<string key="VC_Ghost_Charred_10WS07" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Feature_Unbound_Island">Anguished Warrior</string>
 	<string key="VC_Ghost_Charred_60" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Charred Wraith</string>
 	<string key="VC_Ghost_Charred_61" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Charred Wraith</string>
 	<string key="VC_Ghost_Charred_62" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Charred Wraith</string>
@@ -7486,7 +7579,6 @@
 	<string key="VC_Ghost_Plagued_62" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Plaguegeist</string>
 	<string key="VC_Ghost_Plagued_63" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Plaguegeist</string>
 	<string key="VC_Ghost_Plagued_64" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Plaguegeist</string>
-	<string key="VC_Ghost_Plagued_DG_Cutlass_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Black Flag Plaguegeist</string>
 	<string key="VC_Ghost_Plagued_DG_Windsward_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Star Excavation Plaguegeist</string>
 	<string key="VC_Ghost_Plagued_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Musslebeard</string>
 	<string key="VC_Ghost_Plagued_Named_01" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Diseased Leader</string>
@@ -7570,6 +7662,8 @@
 	<string key="VC_Ghost_Starved_08QP07" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Skysong Faminegeist</string>
 	<string key="VC_Ghost_Starved_09FL10" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Ebony Hawk Faminegeist</string>
 	<string key="VC_Ghost_Starved_10WS07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Waterlogged Spirit</string>
+	<string key="VC_Ghost_Starved_10WS07a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Feature_Unbound_Island">Soulcrushed Adventurer</string>
+	<string key="VC_Ghost_Starved_10WS07b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Feature_Unbound_Island">Greed Stricken Adventurer</string>
 	<string key="VC_Ghost_Starved_11MD00d" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Seasong Faminegeist</string>
 	<string key="VC_Ghost_Starved_13WF" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Weavers Fen Faminegeist</string>
 	<string key="VC_Ghost_Starved_13WF01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Gillgut Faminegeist</string>
@@ -7701,6 +7795,7 @@
 	<string key="VC_Leafburnt" comment="BASE" speaker="VitalsCategory Sheet">Leafburnt</string>
 	<string key="VC_Lesser_Dryad" comment="BASE" speaker="VitalsCategory Sheet">Lesser Dryad</string>
 	<string key="VC_Longshadow" comment="BASE" speaker="VitalsCategory Sheet">Longshadow</string>
+	<string key="VC_Loot_Goblin" comment="BASE" speaker="VitalsCategory Sheet" rel_version="Feature_RewardingExploration">Rafflebones</string>
 	<string key="VC_Lost" comment="BASE" speaker="VitalsCategory Sheet">Lost</string>
 	<string key="VC_Lost_Siren_Named_ELITE_05WC11" comment="ELITE Named Variant" speaker="VitalsCategory Sheet">Siren the Pirate Queen</string>
 	<string key="VC_Lost_Totem" comment="BASE" speaker="VitalsCategory Sheet">Lost Totem</string>
@@ -8020,6 +8115,7 @@
 	<string key="VC_Risen_Corruption_Entity_07SM06b" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Myrkgard Miscreation</string>
 	<string key="VC_Risen_Corruption_Entity_11MD12_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Scorpii Tartaran</string>
 	<string key="VC_Risen_Corruption_Entity_50_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Corruption Entity</string>
+	<string key="VC_Risen_Corruption_Entity_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Entity</string>
 	<string key="VC_Risen_Corruption_Entity_Named_03GC07" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Deeppit Abomination</string>
 	<string key="VC_Risen_Corruption_Entity_Named_03GC07b" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Molderpick Abomination</string>
 	<string key="VC_Risen_Corruption_Impaler_03GC03_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Unhallowed Impaler</string>
@@ -8296,7 +8392,6 @@
 	<string key="VC_Sandyshoal" comment="BASE" speaker="VitalsCategory Sheet">Sandyshoal</string>
 	<string key="VC_Scion" comment="BASE" speaker="VitalsCategory Sheet">Scion</string>
 	<string key="VC_Scorchvein" comment="BASE" speaker="VitalsCategory Sheet">Scorchvein</string>
-	<string key="VC_Scorpion" comment="BASE" speaker="Vitals Sheet">Desert Scorpion</string>
 	<string key="VC_Scorpius" comment="BASE" speaker="VitalsCategory Sheet">Scorpius</string>
 	<string key="VC_Scratchrock" comment="BASE" speaker="VitalsCategory Sheet">Scratchrock</string>
 	<string key="VC_Seasong" comment="BASE" speaker="VitalsCategory Sheet">Seasong</string>
@@ -8405,6 +8500,7 @@
 	<string key="VC_Skeleton_1H_Sword_13WF02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Starbound Sentinel</string>
 	<string key="VC_Skeleton_1H_Sword_13WF02a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Northstar Sentinel</string>
 	<string key="VC_Skeleton_1H_Sword_13WF02b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Greymist Sentinel</string>
+	<string key="VC_Skeleton_1H_Sword_13WF02c" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Andrometus Sentinel</string>
 	<string key="VC_Skeleton_1H_Sword_13WF04" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Southstar Sentinel</string>
 	<string key="VC_Skeleton_1H_Sword_13WF07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Moonwake Sentinel</string>
 	<string key="VC_Skeleton_1H_Sword_18" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Ancient Guardian Sentinel</string>
@@ -8543,9 +8639,10 @@
 	<string key="VC_Skeleton_Archer_11MD09" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Cragsblight Archer</string>
 	<string key="VC_Skeleton_Archer_11MD09a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Overpass Archer</string>
 	<string key="VC_Skeleton_Archer_12MB02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Celestial Archer</string>
-	<string key="VC_Skeleton_Archer_13WF02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Starbound Archer</string>
+	<string key="VC_Skeleton_Archer_13WF02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Andrometus Archer</string>
 	<string key="VC_Skeleton_Archer_13WF02a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Northstar Archer</string>
 	<string key="VC_Skeleton_Archer_13WF02b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Greymist Archer</string>
+	<string key="VC_Skeleton_Archer_13WF02c" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Starbound Archer</string>
 	<string key="VC_Skeleton_Archer_13WF04" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Southstar Archer</string>
 	<string key="VC_Skeleton_Archer_13WF05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skysworn Archer</string>
 	<string key="VC_Skeleton_Archer_13WF07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Moonwake Archer</string>
@@ -8669,9 +8766,10 @@
 	<string key="VC_Skeleton_Crawler_11MD09" comment="Generic Level Variant" speaker="VitalsCategory">Cragsblight Defender</string>
 	<string key="VC_Skeleton_Crawler_12MB02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Celestial Defender</string>
 	<string key="VC_Skeleton_Crawler_12MB08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Verdant Defender</string>
-	<string key="VC_Skeleton_Crawler_13WF02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Starbound Defender</string>
+	<string key="VC_Skeleton_Crawler_13WF02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Andrometus Defender</string>
 	<string key="VC_Skeleton_Crawler_13WF02a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Northstar Defender</string>
 	<string key="VC_Skeleton_Crawler_13WF02b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Greymist Defender</string>
+	<string key="VC_Skeleton_Crawler_13WF02c" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Starbound Defender</string>
 	<string key="VC_Skeleton_Crawler_13WF04" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Southstar Defender</string>
 	<string key="VC_Skeleton_Crawler_13WF05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skysworn Defender</string>
 	<string key="VC_Skeleton_Crawler_13WF07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Moonwake Defender</string>
@@ -8757,9 +8855,10 @@
 	<string key="VC_Skeleton_Mage_11MD09a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Overpass Mage</string>
 	<string key="VC_Skeleton_Mage_12MB02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Celestial Mage</string>
 	<string key="VC_Skeleton_Mage_12MB08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Verdant Mage</string>
-	<string key="VC_Skeleton_Mage_13WF02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Starbound Mage</string>
+	<string key="VC_Skeleton_Mage_13WF02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Andrometus Mage</string>
 	<string key="VC_Skeleton_Mage_13WF02a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Northstar Mage</string>
 	<string key="VC_Skeleton_Mage_13WF02b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Greymist Mage</string>
+	<string key="VC_Skeleton_Mage_13WF02c" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Starbound Mage</string>
 	<string key="VC_Skeleton_Mage_13WF04" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Southstar Mage</string>
 	<string key="VC_Skeleton_Mage_13WF05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skysworn Mage</string>
 	<string key="VC_Skeleton_Mage_13WF07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Moonwake Mage</string>
@@ -8843,6 +8942,8 @@
 	<string key="VC_Southstar" comment="BASE" speaker="VitalsCategory Sheet">Southstar</string>
 	<string key="VC_Spanshatter" comment="BASE" speaker="VitalsCategory Sheet">Spanshatter</string>
 	<string key="VC_Spriggan" comment="BASE" speaker="VitalsCategory Sheet">Spriggan</string>
+	<string key="VC_Spriggan_Corrupted_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Spriggan</string>
+	<string key="VC_Spriggan_Corrupted_Named_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Ekheke</string>
 	<string key="VC_Spriggan_Forest" comment="BASE" speaker="VitalsCategory Sheet">Zygoramet</string>
 	<string key="VC_spriggan_heal_shield" comment="Mission Target Display Name" speaker="VitalsCategory">Spriggan Shield</string>
 	<string key="VC_Spring_Stag_05WC01b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Glimmerfen Stag</string>
@@ -8976,6 +9077,7 @@
 	<string key="VC_Tendril_Corruption_15" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Corrupted Tendril</string>
 	<string key="VC_Tendril_Corruption_50_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Corruption Tendril</string>
 	<string key="VC_Tendril_Corruption_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skerryshiv Tendril</string>
+	<string key="VC_Tendril_Corruption_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Myrkgard Tendril</string>
 	<string key="VC_tendril_corruption_dt1" comment="Mission Target Display Name" speaker="VitalsCategory">Corruption Tendril</string>
 	<string key="VC_tendril_corruption_dt2" comment="Mission Target Display Name" speaker="VitalsCategory">Corruption Tendril</string>
 	<string key="VC_tendril_corruption_dt3" comment="Mission Target Display Name" speaker="VitalsCategory">Corruption Tendril</string>
@@ -9642,6 +9744,7 @@
 	<string key="VC_Undead_Officer_Named_08QP02" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Bartolome</string>
 	<string key="VC_Undead_Officer_Named_10WS09" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Goldstein the Equalizer</string>
 	<string key="VC_Undead_Officer_Named_10WS09_02" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Dispenser of Justice</string>
+	<string key="VC_Undead_Officer_Named_11MW06" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ_Update_4">Einar</string>
 	<string key="VC_Undead_Officer_Named_1524_1517_WaveEventBoss" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_Supplement_Restless">Santiago Salazar</string>
 	<string key="VC_Undead_Officer_Named_ELITE_05WC11" comment="ELITE Named Variant" speaker="VitalsCategory Sheet">The Siren's Dog</string>
 	<string key="VC_undead_officer_shield" comment="Mission Target Display Name" speaker="VitalsCategory">Undead Officer</string>
@@ -9761,6 +9864,7 @@
 	<string key="VC_Undead_Pistoleer_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">First Mate Mary</string>
 	<string key="VC_Undead_Pistoleer_Named_01" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Master Gunner Price</string>
 	<string key="VC_Undead_Pistoleer_Named_02" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">First Mate Misher</string>
+	<string key="VC_Undead_Pistoleer_Named_12MB05" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Gideon the Malicious</string>
 	<string key="VC_Undead_Pistoleer_Named_05WC11" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">The Siren's Pistol</string>
 	<string key="VC_Undead_Pistoleer_Named_ELITE_05WC11" comment="ELITE Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">The Siren's Gun</string>
 	<string key="VC_Undead_Sailor_1H_Club_05WC05b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Marooned Swabbie</string>
@@ -9920,6 +10024,7 @@
 	<string key="VC_Withered_Brute_Named_09_08QP07" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Ivan the Inevitable</string>
 	<string key="VC_Withered_Brute_Named_10" comment="Generic Level Variant" speaker="VitalsCategory">Master Fisherman Holt</string>
 	<string key="VC_Withered_Brute_Named_10WS07" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Boatswain Benjamin</string>
+	<string key="VC_Withered_Brute_Named_13WF01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Feature_RewardingExploration">Stinky</string>
 	<string key="VC_Withered_Grunt_04NW03" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Stalecrop Abomination</string>
 	<string key="VC_Withered_Grunt_06SW07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Ridgethrash Abomination</string>
 	<string key="VC_Withered_Grunt_06SW08a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Spanshatter Abomination</string>
@@ -10022,6 +10127,12 @@
 	<string key="VC_Withered_Swarmancer_15EC02b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Seele's Swarmancer</string>
 	<string key="VC_Withered_Swarmancer_15EC03a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Solitude Swarmancer</string>
 	<string key="VC_Withered_Swarmancer_15EC04b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Sandyshoal Swarmancer</string>
+	<string key="VC_Withered_Swarmancer_Named_06SW08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Gauti the Maskless</string>
+	<string key="VC_Withered_Swarmancer_Named_06SW05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Warrue the Conjurer</string>
+	<string key="VC_Withered_Swarmancer_Named_06SW01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Arcgasho the Rested</string>
+	<string key="VC_Withered_Swarmancer_Named_12MB05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Malapo the Weary</string>
+	<string key="VC_Withered_Swarmancer_Named_12MB05_02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Pierfa the Summoner</string>
+	<string key="VC_Withered_Swarmancer_Named_12MB10" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Thaesus the Merciless</string>
 	<string key="VC_Wolf" comment="BASE" speaker="VitalsCategory Sheet">Wolves</string>
 	<string key="VC_Wolf_Alpha" comment="BASE" speaker="VitalsCategory Sheet">Alpha Wolf</string>
 	<string key="VC_Wolf_Alpha_05WC01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Shallow Waters Alpha</string>
@@ -10156,6 +10267,7 @@
 	<string key="VC_Wolf_Grey_09FL01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Fullmoon Wolf</string>
 	<string key="VC_Wolf_Grey_09FL05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Greymane Wolf</string>
 	<string key="VC_Wolf_Grey_10" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Grey Wolf</string>
+	<string key="VC_Wolf_Grey_10WS07" comment="Generic Level Variant" speaker="VitalsCategory Sheet" rel_version="Feature_Unbound_Island">Atlantic Wolf</string>
 	<string key="VC_Wolf_Grey_11" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Grey Wolf</string>
 	<string key="VC_Wolf_Grey_11MD07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Mourning Wolf</string>
 	<string key="VC_Wolf_Grey_11MD09" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Mourning Wolf</string>
@@ -10246,6 +10358,7 @@
 	<string key="VC_Wolfbough" comment="BASE" speaker="VitalsCategory Sheet">Wolfbough</string>
 	<string key="VC_WorldEvent_Door_65" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Front Gate</string>
 	<string key="VC_Wraith" comment="BASE" speaker="VitalsCategory Sheet">Wraith</string>
+	<string key="VC_Yeti_03GC00_Elite" comment="ELITE Level Variant" speaker="Vitals Category" rel_version="Feature_RewardingExploration">Forgotten Yeti</string>
 	<string key="VC_Yeti_Named_04NW08" comment="Named Variant" speaker="VitalsCategory" rel_version="Event_WinterConvergence_Perm">Rames</string>
 	<string key="VC_Yeti_Named_06SW02" comment="Named Variant" speaker="VitalsCategory" rel_version="Event_WinterConvergence_Perm">Indra</string>
 	<string key="VC_Yeti_Named_07SM08" comment="Named Variant" speaker="VitalsCategory" rel_version="Event_WinterConvergence_Perm">Winter Warrior</string>
@@ -10315,6 +10428,7 @@
 	<string key="Withered_Brute_Named_09_08QP07_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Ivan the Inevitable</string>
 	<string key="Withered_Brute_Named_10_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Master Fisherman Holt</string>
 	<string key="Withered_Brute_Named_10WS07_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Benjamin the Unbound</string>
+	<string key="Withered_Brute_Named_13WF01_VitalsName" comment="Named Level Variant" speaker="Vitals Sheet" rel_version="Feature_RewardingExploration">Stinky</string>
 	<string key="Withered_Grunt_10_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Withered Atrocity</string>
 	<string key="Withered_Grunt_11_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Withered Atrocity</string>
 	<string key="Withered_Grunt_12_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Withered Atrocity</string>
@@ -10381,6 +10495,12 @@
 	<string key="Withered_Swarmancer_ELITE_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Variation_Sub_L20">Withered Swarmancer</string>
 	<string key="Withered_Swarmancer_Named_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Variation_Sub_L20">Withered Swarmancer</string>
 	<string key="Withered_Swarmancer_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Variation_Sub_L20">Withered Swarmancer</string>
+	<string key="Withered_Swarmancer_Named_06SW08_VitalsName" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Gauti the Maskless</string>
+	<string key="Withered_Swarmancer_Named_06SW05_VitalsName" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Warrue the Conjurer</string>
+	<string key="Withered_Swarmancer_Named_06SW01_VitalsName" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Arcgasho the Rested</string>
+	<string key="Withered_Swarmancer_Named_12MB05_VitalsName" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Malapo the Weary</string>
+	<string key="Withered_Swarmancer_Named_12MB05_02_VitalsName" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Pierfa the Summoner</string>
+	<string key="Withered_Swarmancer_Named_12MB10_VitalsName" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Thaesus the Merciless</string>
 	<string key="Wolf_Alpha_1_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Alpha Wolf</string>
 	<string key="Wolf_Alpha_10_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Alpha Wolf</string>
 	<string key="Wolf_Alpha_11_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Alpha Wolf</string>
@@ -10557,6 +10677,7 @@
 	<string key="Wolf_Elemental_Ice_Named_002_03GC11_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Icetooth</string>
 	<string key="Wolf_Grey_03GC11_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Bonedust Wolf</string>
 	<string key="Wolf_Grey_10_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Grey Wolf</string>
+	<string key="Wolf_Grey_10WS07_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Feature_Unbound_Island">Atlantic Wolf</string>
 	<string key="Wolf_Grey_11_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Grey Wolf</string>
 	<string key="Wolf_Grey_12_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Grey Wolf</string>
 	<string key="Wolf_Grey_13_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Grey Wolf</string>
@@ -10690,6 +10811,7 @@
 	<string key="Wolf_White_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">White Wolf</string>
 	<string key="Wolf_White_Named_03GC04_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Arctica</string>
 	<string key="WorldEvent_Door_65_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Front Gate</string>
+	<string key="Yeti_03GC00_Elite_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet" rel_version="Feature_RewardingExploration">Forgotten Yeti</string>
 	<string key="Yeti_Named_04NW08_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Rames</string>
 	<string key="Yeti_Named_06SW02_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Indra</string>
 	<string key="Yeti_Named_07SM08_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Winter Warrior</string>
@@ -10705,5 +10827,14 @@
 	<string key="Risen_Regurgitator_06SW08_Named_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Head Scout Maddix</string>
 	<string key="VC_Risen_Regurgitator_06SW08_Named" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Head Scout Maddix</string>
 	<string key="VC_Risen_Regurgitator_06SW08b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Turned Scout</string>
+	<string key="Loot_Goblin_60_Vitalsname" comment="Named Variant" speaker="Vitals Sheet" rel_version="Feature_RewardingExploration">Rafflebones</string>
+	<string key="VC_Loot_Goblin_60" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Feature_RewardingExploration">Rafflebones</string>
+	<string key="AncientGuardian_Mage_Named_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Warden Alekos</string>
+	<string key="VC_AncientGuardian_Mage_Named_01" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Warden Alekos</string>
+	<string key="VC_AncientGuardian_Reaver_Named_04" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Apostle Chlyses</string>
+	<string key="AncientGuardian_Reaver_Named_04_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Apostle Chlyses</string>
+	<string key="VC_AncientGuardian_Reaver_Named_05" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Apostle Demas</string>
+	<string key="AncientGuardian_Reaver_Named_05_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Apostle Demas</string>
+	<string key="VC_Event_Corrupted_Rabbit" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Corrupted Rabbit</string>
 </resources>
 

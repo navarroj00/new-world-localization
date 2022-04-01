@@ -1,5 +1,9 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="0223_Fisher_ExplainHotspots_Prompt" speaker="UI - player prompt">"Can you explain fishing hotspots?"</string>
 	<string key="0223_Fisher_ExplainHotspots_Response" speaker="Park Jennet" name="Park Jennet">You can tell a fishing hotspot is active when you see fish jumping out of it.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotactive.png" height="188"&gt;&lt;/img&gt;\nWhile it's active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you'll see a small alert telling you you've hit the hotspot.\n\nAfter enough fish are caught at a hotspot it will become depleted. You can tell a hotspot is depleted when there are no fish jumping.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotdepleted.png" height="188"&gt;&lt;/img&gt;\nA depleted hotspot will become active again after some time has passed.\n\nAs your fishing skill improves, you will be able to find more and better hotspots.</string>
+	<string key="0241_Prometheo_Topic1_Prompt" speaker="UI - player prompt">"Who are you?"</string>
+	<string key="0241_Prometheo_Topic1_Response" speaker="PrometheoVane" name="Prometheo Vane">Who am I? Who am I?!\n\nI have never been so insulted in all my life. I am Prometheo Vane, the greatest Fire Mage to ever live!</string>
+	<string key="0241_Prometheo_Topic2_Prompt" speaker="UI - player prompt">"What are you planning?"</string>
+	<string key="0241_Prometheo_Topic2_Response" speaker="PrometheoVane" name="Prometheo Vane">Navarro's Kitchen, and then the Defiler's Excavation, will both burn! I will show her the power of my love and my magic, so that we can finally be together.</string>
 </resources>
 

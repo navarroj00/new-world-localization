@@ -71,6 +71,8 @@
 	<string key="feasting_DisplayName">Feasting</string>
 	<string key="ResetAI_DisplayName">Retreating</string>
 	<string key="VillagerFrenzy_DisplayName">Empowered Corruption Potion</string>
+	<string key="PvP_Arena_PreRound_DisplayName">Preparation</string>
+	<string key="PvP_Arena_PreRound_Description">You're preparing for the upcoming fight. You are temporarily silenced and your cooldowns have been reset.</string>
 	<string key="MinorFoodMagicAbsorption_DisplayName">Minor Arcane Absorption</string>
 	<string key="MinorFoodMagicAbsorption_Tooltip">Increases Arcane Absorption by 2.0</string>
 	<string key="MinorFoodFireAbsorption_DisplayName">Minor Fire Absorption</string>
@@ -471,7 +473,7 @@
 	<string key="GhostBurn_DisplayName">Burn</string>
 	<string key="GhostBurn_Description">Deals {[Type_StatusEffectData.CharredGhost_Burn.HealthModifierDamageBased * -100]}% fire damage every {[Type_StatusEffectData.CharredGhost_Burn.TickRate]} seconds for {[Type_StatusEffectData.CharredGhost_Burn.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.CharredGhost_Burn.StackMax]} times.</string>
 	<string key="GhostShock_DisplayName">Shock</string>
-	<string key="GhostShock_Description">Deals {[Type_StatusEffectData.ShipwreckedGhost_Shock.Stamina]} stamina damage every {[Type_StatusEffectData.ShipwreckedGhost_Shock.TickRate]} seconds and reduces stamina regeneration by {[Type_StatusEffectData.ShipwreckedGhost_Shock.StaminaRate * -100]}% for {[Type_StatusEffectData.ShipwreckedGhost_Shock.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.ShipwreckedGhost_Shock.StackMax]} times.</string>
+	<string key="GhostShock_Description">Drains {[Type_StatusEffectData.ShipwreckedGhost_Shock.Stamina * -1]} stamina every {[Type_StatusEffectData.ShipwreckedGhost_Shock.TickRate]} seconds and reduces stamina regeneration by {[Type_StatusEffectData.ShipwreckedGhost_Shock.StaminaRate * -100]}% for {[Type_StatusEffectData.ShipwreckedGhost_Shock.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.ShipwreckedGhost_Shock.StackMax]} times.</string>
 	<string key="Waterlogged_DisplayName">Waterlogged</string>
 	<string key="Waterlogged_Description">Movement slowed by {[Type_StatusEffectData.Waterlogged.MoveSpeedMod * -100]}%.</string>
 	<string key="BruteStun_DisplayName">Bashed</string>
@@ -517,11 +519,15 @@
 	<string key="AI_Slime_Buff_DisplayName">Slimy</string>
 	<string key="AI_Slime_Slow_DisplayName">Sticky</string>
 	<string key="AI_Slime_Slow_Tooltip">Movement speed reduced by {[Type_StatusEffectData.AI_Slime_Slow.MoveSpeedMod * -100]}%.</string>
+	<string key="AI_PlagueRat_PlagueBurstAOE_Tooltip">Poisoned for {[Type_StatusEffectData.AI_PlagueRat_PlagueBurstAOE.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.AI_PlagueRat_PlagueBurstAOE.TickRate]} seconds for {[Type_StatusEffectData.AI_PlagueRat_PlagueBurstAOE.BaseDuration]} seconds.</string>
+	<string key="AI_PlagueRat_Disease_DisplayName">Disease</string>
+	<string key="AI_PlagueRat_Disease_Tooltip">Reduces healing taken by {[Type_StatusEffectData.AI_PlagueRat_Disease.HealMod * -100]}%, stacking {[Type_StatusEffectData.AI_PlagueRat_Disease.StackMax]} times.</string>
 	<string key="AI_SpiderBite_Tooltip">Poisoned for {[Type_StatusEffectData.AI_SpiderBite.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.AI_SpiderBite.TickRate]} seconds for {[Type_StatusEffectData.AI_SpiderBite.BaseDuration]} seconds.</string>
-	<string key="AI_SpiderVenom_Tooltip">Poisoned for {[Type_StatusEffectData.AI_SpiderVenom.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.AI_SpiderVenom.TickRate]} seconds for {[Type_StatusEffectData.AI_SpiderVenom.BaseDuration]} seconds.</string>
+	<string key="AI_SpiderVenom_Tooltip">Armor is {[Type_StatusEffectData.AI_SpiderVenom.ABSStandard * -100]}% less effective.</string>
 	<string key="AI_PoisonOnHit_Buff_DisplayName">Venomous</string>
 	<string key="AI_PoisonOnHit_Damage_DisplayName">Poison</string>
 	<string key="AI_PoisonOnHit_Damage_Tooltip">Poisoned for {[Type_StatusEffectData.AI_PoisonOnHit_Damage.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.AI_PoisonOnHit_Damage.TickRate]} seconds for {[Type_StatusEffectData.AI_PoisonOnHit_Damage.BaseDuration]} seconds.</string>
+	<string key="AI_HealAuraOnHit_Buff_DisplayName">Rallying</string>
 	<string key="AI_Corruption_Pool_Buff_DisplayName">Defiled</string>
 	<string key="AI_Staggered_Telegraph_DisplayName">Staggered</string>
 	<string key="AI_Enable_Stagger">Stagger Enabled</string>
@@ -578,6 +584,8 @@
 	<string key="AI_Naga_AncientGuardian_Vuln_Tooltip">You suffer {[Type_StatusEffectData.AI_Naga_AncientGuardian_Vuln.ABSArcane * -100]}% increased Arcane damage per stack for {[Type_StatusEffectData.AI_Naga_AncientGuardian_Vuln.BaseDuration]} seconds.</string>
 	<string key="AI_Naga_AncientGuardian_Bomb_StatusEffect_DisplayName">Arcane Explosion</string>
 	<string key="AI_Naga_AncientGuardian_Bomb_StatusEffect_Tooltip">The Naga charges you with an unstable amount of Arcane. After {[Type_StatusEffectData.AI_Naga_AncientGuardian_Bomb_StatusEffect.BaseDuration]} seconds you discharge the Arcane, spawning an explosive orb.</string>
+	<string key="AI_Naga_Corrupted_CorruptionCore_DisplayName" rel_version="Expedition_ShatterMtn_00">Corrupted Soul</string>
+	<string key="AI_Naga_Corrupted_CorruptionCore_Tooltip" rel_version="Expedition_ShatterMtn_00">Your soul is weakened, causing you to suffer {[Type_StatusEffectData.AI_Naga_Corrupted_CorruptionCore.HealthModifierPercent * -100]}% of your health per second per stack. This effect cannot be removed.</string>
 	<string key="AI_Naga_AncientGuardian_Might_StatusEffect_DisplayName">Ancient Might</string>
 	<string key="AI_Naga_AncientGuardian_Arcana_StatusEffect_DisplayName">Ancient Arcana</string>
 	<string key="AI_CorruptedPriest_DoomRend_DisplayName">Corruption Rend</string>
@@ -588,7 +596,7 @@
 	<string key="AI_Joven_Rend_DisplayName">Joven Rend</string>
 	<string key="AI_Joven_Rend_Tooltip">You suffer {[Type_StatusEffectData.AI_Joven_Rend.WKNCorruption * 100]}% increased void damage for {[Type_StatusEffectData.AI_Joven_Rend.BaseDuration]} seconds.</string>
 	<string key="AI_Isabella_Phase2_TouchOfCorruption_DisplayName">Touch of Corruption</string>
-	<string key="AI_Isabella_Phase2_TouchOfCorruption_Tooltip">You suffer Corruption Affliction every {[Type_StatusEffectData.AI_Isabella_Phase2_TouchOfCorruption.TickRate]} for {[Type_StatusEffectData.AI_Isabella_Phase2_TouchOfCorruption.BaseDuration]} seconds.</string>
+	<string key="AI_Isabella_Phase2_TouchOfCorruption_Tooltip">You suffer Corruption Affliction every {[Type_StatusEffectData.AI_Isabella_Phase2_TouchOfCorruption.TickRate]} second for {[Type_StatusEffectData.AI_Isabella_Phase2_TouchOfCorruption.BaseDuration]} seconds.</string>
 	<string key="AI_Mage_Miniboss_Orbs_StatusEffect_DisplayName">Arcane Essence</string>
 	<string key="AI_Mage_Miniboss_Orbs_StatusEffect_Tooltip">The Mage is drawing essence forth from you to heal herself.</string>
 	<string key="AI_IceDryad_Frostgrip_IceVein_Root_DisplayName" rel_version="Event_WinterConvergence_Perm">Rooted</string>
@@ -1057,7 +1065,7 @@
 	<string key="Status_Spear_BonusStamRegenOnLowStam_Description">Stamina regeneration increased by {[Type_StatusEffectData.Spear_BonusStamRegenOnLowStam.StaminaRate * 100]}%.</string>
 	<string key="Status_Spear_SlowOnLightVsLowHP_Description">Move speed reduced by {[Type_StatusEffectData.Spear_SlowOnLightVsLowHP.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.Spear_SlowOnLightVsLowHP.BaseDuration]} seconds.</string>
 	<string key="Rapier_Bleed_DoT_DisplayName">Bleed</string>
-	<string key="Rapier_Bleed_DoT_Description">Deals {[Type_StatusEffectData.Rapier_Bleed_DOT.HealthModifierDamageBased * 100]}% of attacker's weapon damage each second.</string>
+	<string key="Rapier_Bleed_DoT_Description">Deals {[Type_StatusEffectData.Rapier_Bleed_DOT.HealthModifierDamageBased * -100]}% of attacker's weapon damage each second.</string>
 	<string key="Rapier_Rupture_Speed_Bonus_DisplayName">Speed</string>
 	<string key="Rapier_Rupture_Speed_Bonus_Description">Speed</string>
 	<string key="Rapier_Rupture_Speed_Bonus_Upgraded_DisplayName">Speed Bonus 1</string>
@@ -1160,7 +1168,7 @@
 	<string key="Status_Passive_Bow_Skirmish_HasteOnSwap_Timer_description">When this ends you can gain Archer's Speed again.</string>
 	<string key="Status_Bow_Poison_description">{[Type_StatusEffectData.Status_Bow_Poison.HealthModifierDamageBased * -100]}% weapon damage each second.</string>
 	<string key="Status_Bow_Poison_Upgrade_description">{[Type_StatusEffectData.Status_Bow_Poison_Upgrade.HealthModifierDamageBased * 100]}% weapon damage each second.</string>
-	<string key="Status_Passive_RainofArrows_Bleed_description">Deals {[Type_StatusEffectData.Status_Passive_RainofArrows_Bleed.HealthModifierDamageBased * 100]}% of attacker's weapon damage each second.</string>
+	<string key="Status_Passive_RainofArrows_Bleed_description">Deals {[Type_StatusEffectData.Status_Passive_RainofArrows_Bleed.HealthModifierDamageBased * -100]}% of attacker's weapon damage each second.</string>
 	<string key="Status_Ultimate_Greataxe_Mauler">Mauler's Fury</string>
 	<string key="Status_Ultimate_Greataxe_Mauler_description">Your damage is increased by {[Type_StatusEffectData.Status_Ultimate_Greataxe_Mauler.DMGStandard * 100]}%.</string>
 	<string key="Status_Ultimate_Greataxe_Reaper">Blood Lust</string>
@@ -1346,12 +1354,56 @@
 	<string key="AI_EvilKnight_Rally_DisplayName" rel_version="AI_Evil_Knights_P1">Varangian War Cry</string>
 	<string key="RoadTravel_SprintBoost">Haste On Roads</string>
 	<string key="RoadTravel_SprintBoost_Description">Sprint Speed is increased by {[Type_StatusEffectData.Traversal_RoadSprintBoost_Haste.SprintSpeedMod * 100]}% while sprinting on roads</string>
+	<string key="OutOfCombat_PassiveRegen_Name">Peaceful Regen</string>
+	<string key="OutOfCombat_PassiveRegen_Description">Passive regeneration that grants healing over time and an increased mana regen rate while out of combat.</string>
 	<string key="Status_Weapon_DiseaseOnCrit_Description" rel_version="MorePerksV1">Healing efficiency is reduced by {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnCrit.HealMod * -100]}%.</string>
 	<string key="Status_Weapon_DiseaseOnHeavy_Description" rel_version="MorePerksV1">Healing efficiency is reduced by {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnHeavy.HealMod * -100]}%.</string>
 	<string key="Status_Weapon_ChargedHeavyRend_Description" rel_version="MorePerksV1">You suffer {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.ABSStandard * -100]}% increased damage from all sources.</string>
 	<string key="Status_Timer_ChargedHeavyRend_Description" rel_version="MorePerksV1">When this ends, you can trigger the Frost Attunement perk again.</string>
+	<string key="Blunderbuss_ChargeCooldown_Name" rel_version="Weapon_Blunderbuss">Double Down</string>
+	<string key="Blunderbuss_ChargeCooldown_Desc" rel_version="Weapon_Blunderbuss">Your next blunderbuss skill recharges quicker.</string>
+	<string key="Blunderbuss_ChargeCooldownOnCooldown_Desc" rel_version="Weapon_Blunderbuss">When this expires you can use your Double Down passive again.</string>
+	<string key="Blunderbuss_AbilityRamp_Name" rel_version="Weapon_Blunderbuss">On a Roll</string>
+	<string key="Blunderbuss_AbilityRamp_Desc" rel_version="Weapon_Blunderbuss">All damage taken is reduced by {[Type_StatusEffectData.Blunderbuss_AbilityRamp.ABSStandard * 100]}%. Stacks up to {[Type_StatusEffectData.Blunderbuss_AbilityRamp.StackMax]} times.</string>
+	<string key="Blunderbuss_Nine_Name" rel_version="Weapon_Blunderbuss">Unload</string>
+	<string key="Blunderbuss_Nine_Desc" rel_version="Weapon_Blunderbuss">Your next basic attack shoots 9 shots.</string>
+	<string key="Blunderbuss_Ramp_Name" rel_version="Weapon_Blunderbuss">Ramp</string>
+	<string key="Blunderbuss_Ramp_Desc" rel_version="Weapon_Blunderbuss">4% increased damage.</string>
+	<string key="Blunderbuss_LastChance_Name" rel_version="Weapon_Blunderbuss">Last Chance</string>
 	<string key="Blunderbuss_LastChance_Desc">You take {[Type_StatusEffectData.Blunderbuss_LastChance.ABSStandard * 100]}% less damage</string>
+	<string key="Blunderbuss_LastChanceCooldown_Desc" rel_version="Weapon_Blunderbuss">When this expires you can trigger your Last Chance passive again.</string>
+	<string key="Blunderbuss_BarbedNet_Name" rel_version="Weapon_Blunderbuss">Barbed Net</string>
+	<string key="Blunderbuss_BarbedNet_Desc" rel_version="Weapon_Blunderbuss">You take damage over time.</string>
+	<string key="Blunderbuss_Run_And_Gun_Name" rel_version="Weapon_Blunderbuss">Run and Gun</string>
+	<string key="Blunderbuss_Run_And_Gun_Desc" rel_version="Weapon_Blunderbuss">You move faster after you reload.</string>
+	<string key="Blunderbuss_In_And_Out_Name" rel_version="Weapon_Blunderbuss">In-and-Out</string>
+	<string key="Blunderbuss_In_And_Out_Desc" rel_version="Weapon_Blunderbuss">Restore stamina every second.</string>
+	<string key="Status_Blunderbuss_FortifyCloseRange_Desc" rel_version="Weapon_Blunderbuss">Incoming damage is reduced by {[Type_StatusEffectData.Blunderbuss_FortifyCloseRange.ABSStandard * 100]}%.</string>
+	<string key="Status_ShirkingFire" rel_version="MorePerksV2">Shirking Flames</string>
+	<string key="Status_ShirkingFire_Description" rel_version="MorePerksV2">Your next attack will deal additional Fire Damage.</string>
+	<string key="Status_ShirkingNature" rel_version="MorePerksV2">Shirking Nature</string>
+	<string key="Status_ShirkingNature_Description" rel_version="MorePerksV2">Your next attack will deal additional Nature Damage.</string>
+	<string key="Status_ShirkingIce" rel_version="MorePerksV2">Shirking Frost</string>
+	<string key="Status_ShirkingIce_Description" rel_version="MorePerksV2">Your next attack will deal additional Ice Damage.</string>
+	<string key="Status_ShirkingLightning" rel_version="MorePerksV2">Shirking Lightning</string>
+	<string key="Status_ShirkingLightning_Description" rel_version="MorePerksV2">Your next attack will deal additional Lightning Damage.</string>
+	<string key="Status_ShirkingVoid" rel_version="MorePerksV2">Shirking Abyss</string>
+	<string key="Status_ShirkingVoid_Description" rel_version="MorePerksV2">Your next attack will deal additional Void Damage.</string>
+	<string key="Status_ShirkingArcane" rel_version="MorePerksV2">Shirking Arcane</string>
+	<string key="Status_ShirkingArcane_Description" rel_version="MorePerksV2">Your next attack will deal additional Arcane Damage.</string>
+	<string key="Status_Timer_DodgeSuccess_Cleanse_Description" rel_version="MorePerksV2">When this ends, you can trigger the Shirking Cleanse perk again.</string>
+	<string key="Status_ShirkingFortification" rel_version="MorePerksV2">Fortify</string>
+	<string key="Status_DodgeSuccess_Fortify_Description" rel_version="MorePerksV2">Due to a successful dodge, Damage taken is reduced while this effect is active.</string>
+	<string key="Status_CriticalRetribution" rel_version="MorePerksV2">Critical Retribution</string>
+	<string key="Status_CriticalRetribution_Description" rel_version="MorePerksV2">Your critical hit chance is increased while this is active.</string>
+	<string key="Status_CriticalRetribution_Timer_Description" rel_version="MorePerksV2">When this ends, you can trigger the Critical Retribution perk again.</string>
+	<string key="Status_StaminaRegen" rel_version="MorePerksV2">You have an increased stamina regen rate.</string>
+	<string key="Status_DodgeStamina_Timer_Description" rel_version="MorePerksV2">When this ends, you can trigger the Shirking Energy perk again.</string>
+	<string key="Status_GatherProc_Heal" rel_version="MorePerksV2">Gathering Heal</string>
+	<string key="Status_GatherProc_Heal_Description" rel_version="MorePerksV2">Regenerating Health from the Gathering Recovery Perk.</string>
 	<string key="Status_MothersLove">Mother's Love</string>
 	<string key="Status_MothersLove_Description">You feel a guiding and motherly presence upon you, increasing Luck by {[Type_StatusEffectData.Shrine_MothersLove.GlobalRollMod * 0.01]}% for {[Type_StatusEffectData.Shrine_MothersLove.BaseDuration / 60]}m.</string>
+	<string key="Dungeon_RelicBubble" rel_version="Expedition_ShatterMtn_00">Reliquary</string>
+	<string key="Dungeon_RelicBubble_Description" rel_version="Expedition_ShatterMtn_00">Forms a protective bubble around you that heals allies and damages enemies.</string>
 </resources>
 

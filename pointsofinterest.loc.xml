@@ -1711,8 +1711,6 @@
 	<string key="ui_poi_spiritshrine_20209_description">Spirit Shrine</string>
 	<string key="ui_poi_vikingshipwreck_40039">Vigrid</string>
 	<string key="ui_poi_vikingshipwreck_40039_description">Ships from the north, and with them, the ghosts of their cursed crew.</string>
-	<string key="ui_poi_Tauros_06SW09">Tauros</string>
-	<string key="ui_poi_Tauros_06SW09_description">A legendary beast was spotted here.</string>
 	<string key="ui_poi_Kirin_08QP04">Kirin</string>
 	<string key="ui_poi_Kirin_08QP04_description">A legendary beast was spotted here.</string>
 	<string key="ui_poi_camp_30143" rel_version="AI_Evil_Knights_P1">Porta Maris War Camp</string>
@@ -1722,35 +1720,41 @@
 	<string key="ui_poi_camp_40040" rel_version="AI_Evil_Knights_P1">Las Torres War Camp</string>
 	<string key="ui_poi_camp_40040_description" rel_version="AI_Evil_Knights_P1">Glistening silver is the razor band\nA foothold carved in yellow sand.</string>
 	<string key="ui_poi_yeti_30144" rel_version="Event_WinterConvergence_Perm">Hari's Hollow</string>
-	<string key="ui_poi_yeti_30144_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
+	<string key="ui_poi_yeti_30144_description" rel_version="Event_WinterConvergence_Perm">It is said that when one shouts into the hollow, the echo that comes back carries the voices of all who perished here.</string>
 	<string key="ui_poi_yeti_30252" rel_version="Event_WinterConvergence_Perm">Serenity Sanctuary</string>
-	<string key="ui_poi_yeti_30252_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
+	<string key="ui_poi_yeti_30252_description" rel_version="Event_WinterConvergence_Perm">Serenity is just the space between calamities, so enjoy your respites where you find them.</string>
 	<string key="ui_poi_yeti_40041" rel_version="Event_WinterConvergence_Perm">Light's Crown Lair</string>
-	<string key="ui_poi_yeti_40041_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
+	<string key="ui_poi_yeti_40041_description" rel_version="Event_WinterConvergence_Perm">The yeti know how to pick the spots, a lair fit for primal nobility.</string>
 	<string key="ui_poi_yeti_40172" rel_version="Event_WinterConvergence_Perm">Cascade Cavern</string>
-	<string key="ui_poi_yeti_40172_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
-	<string key="ui_poi_yeti_40173" rel_version="Event_WinterConvergence_Perm">Rames' Refuge</string>
-	<string key="ui_poi_yeti_40173_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
+	<string key="ui_poi_yeti_40172_description" rel_version="Event_WinterConvergence_Perm">The sluicing flow of frigid waters makes for a soothing lullaby.</string>
+	<string key="ui_poi_yeti_40173" rel_version="Event_WinterConvergence_Perm">Rames's Refuge</string>
+	<string key="ui_poi_yeti_40173_description" rel_version="Event_WinterConvergence_Perm">Often, it is not until one is huddled in this cave, teeth chattering, that one’s mind conjures up questions like: Who was Rames? And what the Hell were they hiding from?</string>
 	<string key="ui_poi_yeti_40346">Greyvale Grotto</string>
-	<string key="ui_poi_yeti_40346_description">The bears of Greyvale have only ever answered to Gren.</string>
+	<string key="ui_poi_yeti_40346_description">There is a stark beauty to these caverns, carved by water and inconceivable time.</string>
 	<string key="ui_poi_yeti_40347">Frosted Fastness</string>
-	<string key="ui_poi_yeti_40347_description">Frigid, frost'd, frozen, fright\nPonder'd 'neath low lunar light</string>
-	<string key="ui_poi_yeti_40426">Rimewolves' Retreat</string>
-	<string key="ui_poi_yeti_40426_description">Wherewithin blizzard, wherewithin storm, \nThat is where the Wolf is borne,\n'Midst hail and ice, thunder and stone,\nThat is where the Wolf is home</string>
+	<string key="ui_poi_yeti_40347_description">The cold in this cave bypasses fabric, flesh, blood, and muscle, burrowing straight into its new home inside your bone marrow.</string>
+	<string key="ui_poi_yeti_40426">Rimewolves's Retreat</string>
+	<string key="ui_poi_yeti_40426_description">Is that howling merely the sound of the wind blowing through the cave mouth? Often, one cannot be certain until it is too late.</string>
 	<string key="ui_poi_yeti_40427" rel_version="Event_WinterConvergence_Perm">Spelunker's Demise</string>
-	<string key="ui_poi_yeti_40427_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
+	<string key="ui_poi_yeti_40427_description" rel_version="Event_WinterConvergence_Perm">Rumor has it at least a dozen explorers literally fell between cracks of this cave. Ice and immortality combine to form a rather chilling purgatory.</string>
 	<string key="ui_poi_yeti_50399" rel_version="Event_WinterConvergence_Perm">Profane Prospect</string>
-	<string key="ui_poi_yeti_50399_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
+	<string key="ui_poi_yeti_50399_description" rel_version="Event_WinterConvergence_Perm">Dark rituals were enacted here, sometime in the deep past. One can feel it in the air.</string>
 	<string key="ui_poi_yeti_50424" rel_version="Event_WinterConvergence_Perm">Isvari's Isolation</string>
-	<string key="ui_poi_yeti_50424_description" rel_version="Event_WinterConvergence_Perm">Landmark</string>
+	<string key="ui_poi_yeti_50424_description" rel_version="Event_WinterConvergence_Perm">Loneliness is a sort of beautiful sadness conducive to contemplation.</string>
 	<string key="ui_poi_yeti_60352">High-Pass Hidey-Hole</string>
-	<string key="ui_poi_yeti_60352_description">Supposedly built on a large, luminous, low-leveled length of land, likely a leyline.</string>
+	<string key="ui_poi_yeti_60352_description">Are the stories of hidden treasures true, or are they a lure to tempt the greedy and the unwary?</string>
+	<string key="ui_poi_dungeon_shattermtn_40428" rel_version="Expedition_ShatterMtn_00">Tempest's Heart</string>
+	<string key="ui_poi_dungeon_shattermtn_40428_description" rel_version="Expedition_ShatterMtn_00">Expedition\n\nPursue Isabella into a corrupted dimension of reality.</string>
 	<string key="ui_poi_factionarea_40284">Ravenridge Grazing Lands</string>
 	<string key="ui_poi_factionarea_40285">West of Meadow Lake</string>
 	<string key="ui_poi_factionarea_40286">Faith's Crossroad</string>
 	<string key="ui_poi_factionarea_30146">East Werna Beach</string>
 	<string key="ui_poi_factionarea_30147">Key to Werna</string>
 	<string key="ui_poi_factionarea_30148">Devil's Sea Arch</string>
+	<string key="ui_poi_stinky_50251" rel_version="Feature_RewardingExploration">Stinky's Shack</string>
+	<string key="ui_poi_stinky_50251_description" rel_version="Feature_RewardingExploration">Abandoned by his friends, the Huntsman begins a new life.</string>
+	<string key="ui_poi_dynasty_harborage_20209" rel_version="Quest_MSQ_Update_4">Dynasty Harborage</string>
+	<string key="ui_poi_dynasty_harborage_20209_description" rel_version="Quest_MSQ_Update_4">Abandoned by his friends, the Huntsman begins a new life.</string>
 	<string key="ui_poi_spiritshrine_03_50152">Lazarus Shrine</string>
 	<string key="ui_poi_spiritshrine_03_50152_description">Spirit Shrine</string>
 	<string key="ui_poi_spiritshrine_04_50153">Eternal Shrine</string>
@@ -1765,5 +1769,7 @@
 	<string key="ui_poi_spiritshrine_04_50425_description">Spirit Shrine</string>
 	<string key="ui_poi_spiritshrine_02_60240">Shiresad Shrine</string>
 	<string key="ui_poi_spiritshrine_02_60240_description">Spirit Shrine</string>
+	<string key="ui_poi_spiritshrine_02_40429" rel_version="Expedition_ShatterMtn_00">New Myrkgard Shrine</string>
+	<string key="ui_poi_spiritshrine_02_40429_description" rel_version="Expedition_ShatterMtn_00">Spirit Shrine</string>
 </resources>
 

@@ -269,9 +269,9 @@
 	<string key="1334_0201_olfactoryoptimization_complete_prompt" speaker="UI - Player Prompt">"The aroma is… surprising!”</string>
 	<string key="1334_0201_olfactoryoptimization_complete_next" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete_next" VO_Status="Recorded" dialogue-prompt="@1334_0201_olfactoryoptimization_complete_prompt">Is it so shocking? Hah! If only the ladies of New Corsica knew what they daubed upon their wrists.\n\nThe art of perfume is like life: The whole is larger than the sum of its parts. Thank you for your contributions.</string>
 	<string key="1334_0201_d_00_01a_GiveRecipe" speaker="UI">Take {itemName}</string>
-	<string key="1334_0201_d_01_a_Gather_Spores" speaker="UI">Gather {itemName}  from Bumbleblossom in northern Weaver’s Fen</string>
-	<string key="1334_0201_d_01_b_Skin_ElkGland" speaker="UI">Gather {itemName}  from stags in northern Weaver’s Fen</string>
-	<string key="1334_0201_d_01_c_Loot_Chests_Laudanum" speaker="UI">Gather {itemName}  from chests in Fenton Hamlet</string>
+	<string key="1334_0201_d_01_a_Gather_Spores" speaker="UI">Gather {itemName} from Bumbleblossom in northern Weaver’s Fen</string>
+	<string key="1334_0201_d_01_b_Skin_ElkGland" speaker="UI">Gather {itemName} from stags in northern Weaver’s Fen (Skinning Skill 85 Required)</string>
+	<string key="1334_0201_d_01_c_Loot_Chests_Laudanum" speaker="UI">Gather {itemName} from chests in Fenton Hamlet</string>
 	<string key="1334_0201_d_02_01_InteractOutfitterStation" speaker="UI">Use the Arcane Repository</string>
 	<string key="1334_0201_d_02_02_HavePerfume" speaker="UI">Craft {itemName}  at the Arcane Repository</string>
 	<string key="1335_0201_misplacedtreasure_title" speaker="UI - Quest Title">Misplaced Treasure</string>

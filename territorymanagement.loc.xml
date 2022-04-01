@@ -96,7 +96,7 @@
 	<string key="ui_leaving_settlement">Leaving Settlement</string>
 	<string key="ui_leaving_settlement_recall_no_cd">Recall back at any time using the map.</string>
 	<string key="ui_leaving_settlement_recall_time">Inn available in &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{time}&lt;/font&gt;</string>
-	<string key="ui_leaving_settlement_recall_time_desc">Inn recall is only available once every 60 minutes.</string>
+	<string key="ui_leaving_settlement_recall_time_desc">Inn recall is only available once every 30 minutes.</string>
 	<string key="ui_leaving_settlement_no_inn_desc">You are leaving without checking in to the inn.</string>
 	<string key="ui_leaving_settlement_no_inn">Not Checked in</string>
 	<string key="ui_leaving_settlement_inn_elsewhere">You are leaving without checking in to the inn, current inn is at {territoryName} {distance}</string>
@@ -179,14 +179,15 @@
 	<string key="ui_encounter_statusstandby">Your status : &lt;font color='#fab445'&gt;Standby&lt;/font&gt;</string>
 	<string key="ui_encounter_statusselected">Your status : &lt;font color='#30e5ab'&gt;Selected&lt;/font&gt;</string>
 	<string key="ui_encounter_managebutton">Manage Army</string>
-	<string key="ui_encounter_signupbutton_war">Sign up at a war board</string>
-	<string key="ui_encounter_signupDesc_war">Sign up for this war at\n&lt;font color='#f1ede2'&gt;a War board&lt;/font&gt; in this town.</string>
-	<string key="ui_encounter_signupDesc_invasion">Sign up for this invasion at\n&lt;font color='#f1ede2'&gt;a War board&lt;/font&gt; in this town.</string>
+	<string key="ui_encounter_signupbutton_war">Sign up for War</string>
+	<string key="ui_encounter_signupDesc_war">Sign up for this War at\n&lt;font color='#f1ede2'&gt;a War Board&lt;/font&gt; in this town.</string>
+	<string key="ui_encounter_signupDesc_invasion">Sign up for this Invasion at\n&lt;font color='#f1ede2'&gt;a War Board&lt;/font&gt; in this town.</string>
 	<string key="ui_encounter_signupDesc_invasion_minlevel">&lt;font color="#ff6363"&gt;Minimum level: {level}&lt;/font&gt;</string>
-	<string key="ui_encounter_signupbutton_invasion">Sign up at a war board</string>
+	<string key="ui_encounter_signup_invasion_minlevel_tooltip">You must be at least level {level} to sign up for the invasion.</string>
+	<string key="ui_encounter_signupbutton_invasion">Sign up for Invasion</string>
 	<string key="ui_encounter_viewstatusbutton_war">View Army</string>
 	<string key="ui_encounter_viewstatusbutton_invasion">View Army</string>
-	<string key="ui_warselected_title">Selected for war</string>
+	<string key="ui_warselected_title">Selected for War</string>
 	<string key="ui_warselected_text">You have been selected to join the war at {territoryName} from {startTime} to {endTime}.</string>
 	<string key="ui_warunselected_title">Removed from war roster</string>
 	<string key="ui_warunselected_text">You have been removed from the {territoryName} war roster.</string>
@@ -226,9 +227,11 @@
 	<string key="ui_fortressinfo_resolvinginvasion">Invasion Resolving</string>
 	<string key="ui_fortressinfo_invasiondescription">This territory is under attack from the Corrupted. War cannot be declared until the Invasion has ended.</string>
 	<string key="ui_fortressinfo_button_declarewar">Declare War!</string>
-	<string key="ui_fortressinfo_button_warsignup">Sign up at a war board</string>
+	<string key="ui_fortressinfo_button_manage">Manage Army</string>
+	<string key="ui_fortressinfo_button_signup_at_board">Sign up at a War Board</string>
+	<string key="ui_fortressinfo_button_warsignup">Sign up for War</string>
 	<string key="ui_fortressinfo_button_warstatus">Signup status</string>
-	<string key="ui_fortressinfo_button_invasionsignup">Sign up at a war board</string>
+	<string key="ui_fortressinfo_button_invasionsignup">Sign up for Invasion</string>
 	<string key="ui_fortressinfo_attackerlabel">(attacking)</string>
 	<string key="ui_fortressinfo_defenderlabel">(defending)</string>
 	<string key="ui_fortressinfo_invasionattackername">The Corrupted</string>

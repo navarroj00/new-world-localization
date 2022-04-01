@@ -385,8 +385,8 @@
 	<string key="ui_playertitle_weaponmaster_spear2_SHE" rel_version="P2_MetaAchievements">Spear Expert</string>
 	<string key="ui_playertitle_weaponmaster_spear2_THEY" rel_version="P2_MetaAchievements">Spear Expert</string>
 	<string key="ui_playertitle_weaponmaster_spear3" rel_version="P2_MetaAchievements">Spear Savant</string>
-	<string key="ui_playertitle_weaponmaster_spear3_SHE" rel_version="P2_MetaAchievements">The Spear Savant</string>
-	<string key="ui_playertitle_weaponmaster_spear3_THEY" rel_version="P2_MetaAchievements">The Spear Savant</string>
+	<string key="ui_playertitle_weaponmaster_spear3_SHE" rel_version="P2_MetaAchievements">Spear Savant</string>
+	<string key="ui_playertitle_weaponmaster_spear3_THEY" rel_version="P2_MetaAchievements">Spear Savant</string>
 	<string key="ui_playertitle_weaponmaster_sword2" rel_version="P2_MetaAchievements">Sword Expert</string>
 	<string key="ui_playertitle_weaponmaster_sword2_SHE" rel_version="P2_MetaAchievements">Sword Expert</string>
 	<string key="ui_playertitle_weaponmaster_sword2_THEY" rel_version="P2_MetaAchievements">Sword Expert</string>
@@ -411,6 +411,12 @@
 	<string key="ui_playertitle_weaponmaster_voidstaff3" rel_version="Weapon_Void_Gauntlet">Master Of The Void</string>
 	<string key="ui_playertitle_weaponmaster_voidstaff3_SHE" rel_version="Weapon_Void_Gauntlet">Master Of The Void</string>
 	<string key="ui_playertitle_weaponmaster_voidstaff3_THEY" rel_version="Weapon_Void_Gauntlet">Master Of The Void</string>
+	<string key="ui_playertitle_weaponmaster_blunderbuss2" rel_version="Weapon_Blunderbuss">Blunderbuss Expert</string>
+	<string key="ui_playertitle_weaponmaster_blunderbuss2_SHE" rel_version="Weapon_Blunderbuss">Blunderbuss Expert</string>
+	<string key="ui_playertitle_weaponmaster_blunderbuss2_THEY" rel_version="Weapon_Blunderbuss">Blunderbuss Expert</string>
+	<string key="ui_playertitle_weaponmaster_blunderbuss3" rel_version="Weapon_Blunderbuss">Bombastic Blunder-Blaster</string>
+	<string key="ui_playertitle_weaponmaster_blunderbuss3_SHE" rel_version="Weapon_Blunderbuss">Bombastic Blunder-Blaster</string>
+	<string key="ui_playertitle_weaponmaster_blunderbuss3_THEY" rel_version="Weapon_Blunderbuss">Bombastic Blunder-Blaster</string>
 	<string key="ui_playertitle_factionmissions_completed3" rel_version="P2_MetaAchievements">Faction Notorious</string>
 	<string key="ui_playertitle_factionmissions_completed3_SHE" rel_version="P2_MetaAchievements">Faction Notorious</string>
 	<string key="ui_playertitle_factionmissions_completed3_THEY" rel_version="P2_MetaAchievements">Faction Notorious</string>
@@ -609,6 +615,9 @@
 	<string key="ui_playertitle_dungeonboss_shipyard" rel_version="Expedition_Ebonscale">Dungeon Dragon</string>
 	<string key="ui_playertitle_dungeonboss_shipyard_SHE" rel_version="Expedition_Ebonscale">Dungeon Dragon</string>
 	<string key="ui_playertitle_dungeonboss_shipyard_THEY" rel_version="Expedition_Ebonscale">Dungeon Dragon</string>
+	<string key="ui_playertitle_dungeonboss_isabellalair" rel_version="Expedition_ShatterMtn_00">Tempest Tamer</string>
+	<string key="ui_playertitle_dungeonboss_isabellalair_SHE" rel_version="Expedition_ShatterMtn_00">Tempest Tamer</string>
+	<string key="ui_playertitle_dungeonboss_isabellalair_THEY" rel_version="Expedition_ShatterMtn_00">Tempest Tamer</string>
 	<string key="ui_playertitle_special_askforhelp" rel_version="Feature_Titles">Need Some Help!</string>
 	<string key="ui_playertitle_special_askforhelp_SHE" rel_version="Feature_Titles">Need Some Help!</string>
 	<string key="ui_playertitle_special_askforhelp_THEY" rel_version="Feature_Titles">Need Some Help!</string>

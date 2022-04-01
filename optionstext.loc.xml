@@ -74,7 +74,7 @@
 	<string key="ui_chat_enable_alerts_desc">Show alerts when chat is closed</string>
 	<string key="ui_chat_enable_color_messages_options_desc">Sets the chat message to the channel color</string>
 	<string key="ui_streamermode_ui">Hide Social Notification Banners</string>
-	<string key="ui_streamermode_ui_desc">Recommended for streamers - hide large banners for incoming Coin transfers as well as Friend, Group, and Company invitations. Trade and Duel invitation banners will remain visible</string>
+	<string key="ui_streamermode_ui_desc">Recommended for streamers - hide large banners for incoming Friend, Group, and Company invitations. Trade and Duel invitation banners will remain visible</string>
 	<string key="ui_streamermode_server">Automatic Invite Rejection</string>
 	<string key="ui_streamermode_server_desc">Enables the automatic rejection of the different notification and invite types below</string>
 	<string key="ui_streamermode_server_friend">Block Friend Invites</string>
@@ -172,14 +172,14 @@
 	<string key="ui_options_ColorBlindness_Achromatopsia">Achromatopsia</string>
 	<string key="ui_options_ColorBlindness_Achromatomaly">Achromatomaly</string>
 	<string key="ui_options_twitch">Twitch</string>
-	<string key="ui_options_TwitchLogin">Twitch Login</string>
+	<string key="ui_options_TwitchLogin">Connect To Twitch</string>
 	<string key="ui_options_TwitchLogin_desc">Log in to Twitch to enable Twitch features</string>
 	<string key="ui_options_TwitchStreamerSpotlight">Twitch Streamer Spotlight</string>
 	<string key="ui_options_TwitchStreamerSpotlight_desc">Enable Twitch Streamer Spotlight. Allows other players to see that you are streaming on Twitch (only works while streaming)</string>
 	<string key="ui_options_TwitchHideOtherStreamers">Hide Other Streamers</string>
 	<string key="ui_options_TwitchHideOtherStreamers_desc">Enable to hide other player's Streamer Spotlight status while you are streaming and have Streamer Spotlight enabled</string>
 	<string key="ui_options_TwitchSubArmy">Twitch Subscriber Army</string>
-	<string key="ui_options_TwitchSubArmy_desc">Allows you to recruit your subscribers and followers on Twitch into your group or company</string>
+	<string key="ui_options_TwitchSubArmy_desc">Allows you to join streamers or recruit your subscribers and followers on Twitch into your group or company</string>
 	<string key="ui_textSize">Text Size</string>
 	<string key="ui_textSize_desc">Enlarge the size of Nameplates and Interact hints</string>
 	<string key="ui_options_textSize_regular">Regular</string>
@@ -190,6 +190,8 @@
 	<string key="ui_strafeCamera_desc">Character always faces camera direction</string>
 	<string key="ui_alwaysShowReticle">Always show reticle</string>
 	<string key="ui_alwaysShowReticle_desc">Reticle is visible even when your weapon is sheathed</string>
+	<string key="ui_show_pvp_xp">Show PvP Xp On Screen</string>
+	<string key="ui_show_pvp_xp_desc">Disable this to hide PvP XP gains.</string>
 	<string key="ui_showInspectHint">Social Actions Hotkey Hint</string>
 	<string key="ui_showInspectHint_desc">When looking at a nearby player, show the social actions hotkey hint on their nameplate</string>
 	<string key="ui_restore_defaults">Restore defaults</string>

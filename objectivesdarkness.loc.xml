@@ -66,7 +66,7 @@
 	<string key="objective_darkness_invasion">Invasion</string>
 	<string key="objective_darkness_invasion_description">{territoryName} Fortress</string>
 	<string key="objective_darkness_invasion_waves_title">DEFEND THE FORT</string>
-	<string key="objective_darkness_invasion_waves_desc">WAVE {currentWave} OF {totalWaves}</string>
+	<string key="objective_darkness_invasion_waves_desc">WAVE &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{currentWave}&lt;/font&gt;&lt;/font&gt; OF &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{totalWaves}&lt;/font&gt;</string>
 	<string key="objective_darkness_invasion_waves_desc_final">FINAL WAVE</string>
 </resources>
 

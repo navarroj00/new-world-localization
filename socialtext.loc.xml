@@ -173,7 +173,7 @@
 	<string key="ui_p2ptrading_failmessage_playersoutofrange">Player no longer in range.</string>
 	<string key="ui_p2ptrading_failmessage_somethingwentwrong">Something went wrong.</string>
 	<string key="ui_p2ptrading_failmessage_atmaxcurrency">One or more players will exceed coin cap.</string>
-	<string key="ui_p2ptrading_failmessage_dont_meet_requirements">You must be level 10 and have an account older than 3 days to trade things away.</string>
+	<string key="ui_p2ptrading_failmessage_dont_meet_requirements">You must be level {level} and have an account older than {time} to trade things away.</string>
 	<string key="ui_p2ptrading_trade_completed">Trade completed.</string>
 	<string key="ui_p2ptrading_overflow_title">Inventory Full</string>
 	<string key="ui_p2ptrading_overflow_message">Some of the items you received didn't fit in your inventory and were dropped on the ground.</string>
@@ -242,18 +242,19 @@
 	<string key="ui_missing_reason">Please select a reason</string>
 	<string key="ui_missing_description">Please provide a description</string>
 	<string key="ui_twitch_login_button">Connect Twitch Account</string>
+	<string key="ui_twitch_disconnect_button">Disconnect</string>
 	<string key="ui_twitch_logout_tooltip">Disconnect Twitch Account</string>
 	<string key="ui_twitch_login_tooltip">Connect Twitch Account</string>
 	<string key="ui_twitch_logged_in">Twitch Account Connected</string>
-	<string key="ui_twitch_login_popup_title">Twitch Login</string>
+	<string key="ui_twitch_login_popup_title">Connect To Twitch</string>
 	<string key="ui_twitch_login_popup_message">You are not currently logged in to Twitch. You will be taken to a web browser to log in and connect your Twitch account.</string>
-	<string key="ui_twitch_redirect_popup_title">Twitch Login</string>
+	<string key="ui_twitch_redirect_popup_title">Connect To Twitch</string>
 	<string key="ui_twitch_redirect_popup_message">Signing into your Twitch account. Close this when you have finished the login process in the web browser.</string>
-	<string key="ui_twitch_logout_popup_title">Twitch Logout</string>
+	<string key="ui_twitch_logout_popup_title">Twitch Disconnect</string>
 	<string key="ui_twitch_logout_popup_message">Do you want to sign out of your Twitch account?</string>
-	<string key="ui_twitch_logoutfailed_popup_title">Twitch Logout Failed</string>
+	<string key="ui_twitch_logoutfailed_popup_title">Twitch Disconnect Failed</string>
 	<string key="ui_twitch_logoutfailed_popup_message">There was a problem signing out of your Twitch account.</string>
-	<string key="ui_twitch_validation_failed_title">Twitch Login Failed</string>
+	<string key="ui_twitch_validation_failed_title">Twitch Connect Failed</string>
 	<string key="ui_twitch_validation_failed_message">Failed to validate your Twitch account, Twitch features will not work. Please try logging in again.</string>
 	<string key="ui_spotlight_viewer">1 viewer</string>
 	<string key="ui_spotlight_viewers">{viewers} viewers</string>
@@ -323,6 +324,15 @@
 	<string key="ui_notification_pvp_countdown">PVP PROTECTION TIMER STARTED</string>
 	<string key="ui_notification_pvp_flagging_title">FLAGGING FOR PVP</string>
 	<string key="ui_notification_pvp_flagging_message">While flagged for PvP, you can attack other PvP flagged players, but other flagged players can do the same to you. You receive a &lt;font color="#ff9900"&gt;10% XP bonus&lt;/font&gt; while flagged. \n\nWhen you leave the Sanctuary, you will have a &lt;font color="#ff9900"&gt;30 second protection&lt;/font&gt; timer.</string>
+	<string key="ui_notification_pvp_track_flagging_message">While flagged for PvP, you can attack and be attacked by other PvP flagged players. &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Up to 100 Azoth Salt may be transferred from the victim to the killer.&lt;/font&gt; You recieve a &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;10% XP bonus&lt;/font&gt; while flagged. \n\nWhen you leave the Sanctuary, you will have a &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;30 second protection&lt;/font&gt; timer.</string>
+	<string key="ui_notification_pvp_checkpoint_unlocked">CHECKPOINT UNLOCKED</string>
+	<string key="ui_pvp_rank_name_0">Recruit</string>
+	<string key="ui_pvp_rank_name_1">Iron</string>
+	<string key="ui_pvp_rank_name_2">Steel</string>
+	<string key="ui_pvp_rank_name_3">Silver</string>
+	<string key="ui_pvp_rank_name_4">Gold</string>
+	<string key="ui_pvp_rank_name_5">Platinum</string>
+	<string key="ui_pvp_rank_name_6">Starmetal</string>
 	<string key="ui_signup_selected">Selected</string>
 	<string key="ui_signup_standby">Standby</string>
 	<string key="ui_signup_not_signed_up">Not Signed Up</string>
@@ -377,6 +387,8 @@
 	<string key="ui_request_friend_failed">Friend request failed.</string>
 	<string key="ui_request_unfriend_failed">Unfriend request failed.</string>
 	<string key="ui_social">Social</string>
+	<string key="ui_social_friends">Friends</string>
+	<string key="ui_social_twitch">Twitch</string>
 	<string key="ui_streamermode_enabled">Do Not Disturb Mode Enabled</string>
 	<string key="ui_streamermode_disabled">Do Not Disturb Mode Disabled</string>
 	<string key="ui_moderation">Moderation</string>

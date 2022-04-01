@@ -27,5 +27,11 @@
 	<string key="0402_Syndicate_dye_talk_Response" speaker="Alchemist Olivera" name="AlchemistOlivera" VO="0402_Syndicate_dye_talk_Response" VO_Status="Recorded">Use it if you want to, or don't. It matters not to me.\n\nSome Syndicate members want to show off their allegiance. It's just cosmetic, though.</string>
 	<string key="0402_Covenant_dye_talk_Prompt" speaker="UI - player prompt">"Why did you give me this dye?"</string>
 	<string key="0402_Covenant_dye_talk_Response" speaker="Adjudicator Amano" name="AdjudicatorAmano" VO="0402_Covenant_dye_talk_Response" VO_Status="Recorded">It is a gift, so that you may color your robes to show your support of the Covenant.</string>
+	<string key="0428_Jones_Market_Prompt" speaker="UI - player prompt">"What's so special about the trading post?"</string>
+	<string key="0428_Jones_Market_Response" speaker="Trader Jones" name="GregoryJones" gender="M" VO="0428_Jones_Market_Response" VO_Status="Needs Recording">The joy of speculation! The ups and downs of the market! The thrill of finding out how much solvent is worth today! \n\nTrade is the lifeblood of Aeternum, if you don't have your finger on its pulse, you just aren't living!</string>
+	<string key="0428_Jones_Tips_Prompt" speaker="UI - player prompt">"Have any trading tips?"</string>
+	<string key="0428_Jones_Tips_Response" speaker="Trader Jones" name="GregoryJones" gender="M" VO="0428_Jones_Tips_Response" VO_Status="Needs Recording">Buy low, sell high. \n\nIf at all possible discover what people want before they want it and buy it all up, thus creating a shortage in the market that only you can fill. That one's a bit trickier though...</string>
+	<string key="0428_Jones_House_Prompt" speaker="UI - player prompt">"You own three houses?"</string>
+	<string key="0428_Jones_House_Response" speaker="Trader Jones" name="GregoryJones" gender="M" VO="0428_Jones_House_Response" VO_Status="Needs Recording">Dare I say three is not enough? I long for a house in every territory, so that my trading empire can flourish to its fullest extent, but I have been told time and again that I simply must abide by the current laws…</string>
 </resources>
 

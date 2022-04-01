@@ -1,4 +1,8 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="Procedural_BlunderbussT2" rel_version="Weapon_Blunderbuss">Iron Blunderbuss</string>
+	<string key="Procedural_BlunderbussT3" rel_version="Weapon_Blunderbuss">Steel Blunderbuss</string>
+	<string key="Procedural_BlunderbussT4" rel_version="Weapon_Blunderbuss">Starmetal Blunderbuss</string>
+	<string key="Procedural_BlunderbussT5" rel_version="Weapon_Blunderbuss">Orichalcum Blunderbuss</string>
 	<string key="IngotT2_Down_Name">Downgrade Steel to Iron</string>
 	<string key="IngotT3_Down_Name">Downgrade Starmetal to Steel</string>
 	<string key="IngotT4_Down_Name">Downgrade Orichalcum to Starmetal</string>
@@ -1548,8 +1552,8 @@
 	<string key="House_Jav_PRP_Cloth_Tapestry_B_CraftName">Wall\nTapestry 2</string>
 	<string key="House_JAV_PRP_Cookware_Cup_A_CraftName">Iron Cup</string>
 	<string key="House_JAV_PRP_Cookware_FryPan_A_CraftName">Iron Pan</string>
-	<string key="House_JAV_PRP_Corn Plant_A_CraftName">Corn\nGarden 1</string>
-	<string key="House_JAV_PRP_Corn Plant_B_CraftName">Corn\nGarden 2</string>
+	<string key="House_JAV_PRP_Corn_Plant_A_CraftName">Corn\nGarden 1</string>
+	<string key="House_JAV_PRP_Corn_Plant_B_CraftName">Corn\nGarden 2</string>
 	<string key="House_JAV_PRP_Cot_T1_A_CraftName">Straw Bed</string>
 	<string key="House_jav_prp_dec_branch_element_a_CraftName">Wall Branch\nWreath</string>
 	<string key="House_jav_prp_decor_wreath_a_CraftName">Wall\nLooping\nGrass Wreath</string>

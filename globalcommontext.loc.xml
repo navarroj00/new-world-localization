@@ -118,6 +118,7 @@
 	<string key="ui_affliction_mutcurse3_tooltip" rel_version="Feature_Dungeon_Mutators">At the end of this timer, the player with the lowest health is afflicted with Combustible.</string>
 	<string key="ui_affliction_mutcurse4" rel_version="Feature_Dungeon_Mutators">blowback resistance</string>
 	<string key="ui_affliction_mutcurse4_tooltip" rel_version="Feature_Dungeon_Mutators">If you run out of resistance, a silence zone will be cast on you. The zone will detonate after a time, dealing damage to players. Resistance is shared among all members of your group.</string>
+	<string key="ui_affliction_mutcurse2_tooltip" rel_version="Feature_Dungeon_Mutators">If you run out of resistance, a Weary zone will be cast on you, slowing your movement and increasing all damage you take. Using abilities increases resistance. Resistance is shared among all members of your group.</string>
 	<string key="ui_afflicted_bleeding">wounded</string>
 	<string key="ui_afflicted_bleeding_tooltip">While wounded, you regain stamina at a much lower rate</string>
 	<string key="ui_afflicted_burn">burning</string>
@@ -283,6 +284,8 @@
 	<string key="ui_hour_with_time_short">1h</string>
 	<string key="ui_minute_with_time">1 minute</string>
 	<string key="ui_minute_with_time_short">1m</string>
+	<string key="ui_lessthan_minute_with_time">&lt;1 minute</string>
+	<string key="ui_lessthan_minute_with_time_short">&lt;1m</string>
 	<string key="ui_hours_with_time">{time} hours</string>
 	<string key="ui_hours_with_time_short">{time}h</string>
 	<string key="ui_minutes_with_time">{time} minutes</string>
@@ -291,6 +294,7 @@
 	<string key="ui_seconds_with_time_short">{time}s</string>
 	<string key="ui_lastplayed">Last Played</string>
 	<string key="ui_minuteago">1 minute ago</string>
+	<string key="ui_lessthan_minuteago">&lt;1 minute ago</string>
 	<string key="ui_minutesago">{time} minutes ago</string>
 	<string key="ui_hourago">1 hour ago</string>
 	<string key="ui_hoursago">{time} hours ago</string>
@@ -579,6 +583,7 @@
 	<string key="ui_respec_cooldown_error">Cannot respec while abilities are on cooldown</string>
 	<string key="ui_respec_combat_error">Cannot respec while in combat</string>
 	<string key="ui_equipment_cooldown_error">Equipment cannot be changed while abilities are on cooldown</string>
+	<string key="ui_equipment_combat_locked_error" rel_version="Feature_InOutCombat">Equipment cannot be changed while in combat</string>
 	<string key="ui_secondary_attack">Secondary Attack</string>
 	<string key="ui_weaponcycleup">Cycle Weapon Up</string>
 	<string key="ui_weaponcycledown">Cycle Weapon Down</string>
@@ -598,18 +603,18 @@
 	<string key="ui_quickslot2">Quickslot #2</string>
 	<string key="ui_quickslot3">Quickslot #3</string>
 	<string key="ui_quickslot4">Quickslot #4</string>
-	<string key="ui_head_slot_tooltip">Head slot.</string>
-	<string key="ui_chest_slot_tooltip">Chest slot.</string>
-	<string key="ui_hands_slot_tooltip">Hand slot.</string>
-	<string key="ui_legs_slot_tooltip">Leg slot.</string>
-	<string key="ui_feet_slot_tooltip">Foot slot.</string>
-	<string key="ui_amulet_slot_tooltip">Amulet slot.</string>
-	<string key="ui_token_slot_tooltip">Token slot.</string>
-	<string key="ui_ring_slot_tooltip">Ring slot.</string>
-	<string key="ui_bag_slot_tooltip">Bag slot.</string>
-	<string key="ui_arrow_slot_tooltip">Arrow slot.</string>
-	<string key="ui_cartridge_slot_tooltip">Cartridge slot.</string>
-	<string key="ui_shield_slot_tooltip">Shield slot.</string>
+	<string key="ui_head_slot_tooltip">Head Slot.</string>
+	<string key="ui_chest_slot_tooltip">Chest Slot.</string>
+	<string key="ui_hands_slot_tooltip">Hand Slot.</string>
+	<string key="ui_legs_slot_tooltip">Leg Slot.</string>
+	<string key="ui_feet_slot_tooltip">Foot Slot.</string>
+	<string key="ui_amulet_slot_tooltip">Amulet Slot.</string>
+	<string key="ui_token_slot_tooltip">Token Slot.</string>
+	<string key="ui_ring_slot_tooltip">Ring Slot.</string>
+	<string key="ui_bag_slot_tooltip">Bag Slot.</string>
+	<string key="ui_arrow_slot_tooltip">Arrow Slot.</string>
+	<string key="ui_cartridge_slot_tooltip">Cartridge Slot.</string>
+	<string key="ui_shield_slot_tooltip">Shield Slot.</string>
 	<string key="ui_lifestaff_combat">Life Staff Combat</string>
 	<string key="ui_target_self">Target Self</string>
 	<string key="ui_exit_auto_target">Exit Auto Target</string>
@@ -858,6 +863,7 @@
 	<string key="ui_world_select_change_selection">Change Selection</string>
 	<string key="ui_world_select_select_world">Select World</string>
 	<string key="ui_world_select_world">World</string>
+	<string key="ui_world_select_region">Region</string>
 	<string key="ui_world_select_world_set">World Set</string>
 	<string key="ui_world_select_queue_time">Est. Queue Time</string>
 	<string key="ui_world_select_queue_size">Players in Queue</string>
@@ -884,14 +890,16 @@
 	<string key="ui_character_merge_destination">This world ({worldName}) is being merged into {destinationWorldName} on {date}.</string>
 	<string key="ui_xp">XP</string>
 	<string key="ui_xp_boost">XP Boost</string>
-	<string key="ui_xp_event_title">XP BOOST IS ON!</string>
-	<string key="ui_xp_event_desc">Come and enjoy the glorious XP Boost event! This is a chance to level up your characters!\nThe boost is activated on:\n</string>
-	<string key="ui_xp_event_modal_title">XP BOOST EVENT!</string>
-	<string key="ui_xp_event_modal_desc">Special XP Boost is active in this world!</string>
-	<string key="ui_xp_event_xp">XP: &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x{amount}&lt;/font&gt;</string>
-	<string key="ui_xp_event_tradeskill_xp">Trade Skill XP: &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x{amount}&lt;/font&gt;</string>
-	<string key="ui_xp_event_weaponmastery_xp">Weapon Mastery XP: &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x{amount}&lt;/font&gt;</string>
-	<string key="ui_xp_boost_reminder" comment="The leading space is intentional"> (x{bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;)</string>
+	<string key="ui_xp_event_title">XP BOOST EVENT!</string>
+	<string key="ui_xp_event_desc">Special XP Boost is active in this world!</string>
+	<string key="ui_xp_event_modal_title">XP BOOST IS ON!</string>
+	<string key="ui_xp_event_modal_desc">Come and enjoy the glorious XP Boost event! This is the chance to level up your characters!\nThe boost is activated on :</string>
+	<string key="ui_xp_event_xp">&lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_regular.font"&gt;XP (x {amount})&lt;/font&gt;</string>
+	<string key="ui_xp_event_tradeskill_xp">&lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_regular.font"&gt;Trade Skill (x {amount})&lt;/font&gt;</string>
+	<string key="ui_xp_event_weaponmastery_xp">&lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_regular.font"&gt;Weapon Mastery (x {amount})&lt;/font&gt;</string>
+	<string key="ui_xp_event_progression_xp">&lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_regular.font"&gt;{progressionName} (x {amount})&lt;/font&gt;</string>
+	<string key="ui_xp_boost_reminder" comment="The leading space is intentional"> ( x {bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1.1" yOffset="0.5"&gt;&lt;/img&gt;)</string>
+	<string key="ui_xp_multiplier_arrow" comment="The leading space is intentional"> x {bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1.1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="world_landing_title">The optimal WORLD has been selected for you</string>
 	<string key="world_set">World Set?</string>
 	<string key="world_set_title">*What is a World Set?</string>
@@ -900,6 +908,7 @@
 	<string key="world_set_characters_desc">You can have 1 character per World Set. You will need to delete your character if you want to play in another world within a World Set as characters cannot be transferred or move to other worlds.</string>
 	<string key="world_set_recommended_world">Recommended World</string>
 	<string key="world_set_region">Region:</string>
+	<string key="world_set_current_region">Current Region:</string>
 	<string key="ui_mastery">Mastery</string>
 	<string key="ui_server_list_wait_time">Wait Time</string>
 	<string key="ui_glory_update_floating_tradeskill">{masteryName}</string>
@@ -921,6 +930,7 @@
 	<string key="ui_killfeed_standing_val">+ {amount}</string>
 	<string key="ui_killfeed_tradeskill_val">+ {amount}</string>
 	<string key="ui_navmenu_friends">FRIENDS</string>
+	<string key="ui_navmenu_modes">Modes</string>
 	<string key="ui_navmenu_guild">Company</string>
 	<string key="ui_navmenu_map">Map</string>
 	<string key="ui_navmenu_journal">Journal</string>
@@ -1042,9 +1052,9 @@
 	<string key="ui_intelligence_description">(magic focused)</string>
 	<string key="ui_focus_description">(healing focused)</string>
 	<string key="ui_constitution_tooltip">Primary attribute for overall health.</string>
-	<string key="ui_strength_tooltip">Primary attribute for the War Hammer, Great Axe, Sword, and Hatchet.\n\nSecondary attribute for the Spear.</string>
+	<string key="ui_strength_tooltip">Primary attribute for the War Hammer, Great Axe, Sword, Hatchet and Blunderbuss.\n\nSecondary attribute for the Spear.</string>
 	<string key="ui_dexterity_tooltip">Primary attribute for the Bow, Rapier, Spear, and Musket.\n\nSecondary attribute for the Sword, and Hatchet.</string>
-	<string key="ui_intelligence_tooltip">Primary attribute for the Fire Staff, Ice Gauntlet, and Void Gauntlet.\n\nSecondary attribute for the Rapier and Musket.</string>
+	<string key="ui_intelligence_tooltip">Primary attribute for the Fire Staff, Ice Gauntlet, and Void Gauntlet.\n\nSecondary attribute for the Rapier, Musket and Blunderbuss.</string>
 	<string key="ui_focus_tooltip">Primary attribute for the Life Staff.\n\nSecondary attribute for the Void Gauntlet.</string>
 	<string key="ui_spirit_tooltip">FAITH\n\nPutting points into Faith increases:\n\n-- Total Mana\n-- Defense against Void Damage\n-- Corruption Resistance\n\n-- Spell Potency of Celestial Casting Gauntlets\n</string>
 	<string key="ui_vitality_tooltip">PHYSIQUE\n\nPutting points into Physique increases:\n\n-- Defense against Physical Damage\n-- Poison Resistance\n-- Maximum Equip Load\n</string>
@@ -1599,6 +1609,7 @@
 	<string key="ui_transferwarning">Are you sure you want to transfer all items to your Inventory?</string>
 	<string key="ui_transfertooltip">You can transfer items to and from other territories that are under your faction's control.</string>
 	<string key="ui_transfertoandfromtooltip">You can transfer items to and from storage sheds at your current location.</string>
+	<string key="ui_transfertoandfromrfitooltip">You can transfer items to and from storage sheds in settlements you have visited.</string>
 	<string key="ui_transferfromtooltip">You can transfer items to your Inventory from storage sheds in other territories under your faction's control for a fee.</string>
 	<string key="ui_remotetransfersingletitle">Transfer item</string>
 	<string key="ui_remotetransfersinglebody">Are you sure you want to transfer this item from {territoryName} to your Inventory?\nTransferring this item will cost {amount} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
@@ -1641,6 +1652,7 @@
 	<string key="ui_unstuck_request_accepted">Teleporting in %d seconds</string>
 	<string key="ui_generator_time_to_generate_item">Time to generate {quantity} {item}.</string>
 	<string key="ui_quantitywithx">x{quantity}</string>
+	<string key="ui_xp_bonuses_multiplier">x {quantity}</string>
 	<string key="ui_generator_at_maximum_capacity">{generator} is at maximum capacity.\nTake items to resume {item} generation.</string>
 	<string key="ui_generator_over_weight_limit">Over limit</string>
 	<string key="ui_item_unavailable_reason">This is only available for {entitlementRequirements}</string>
@@ -1828,6 +1840,14 @@
 	<string key="ui_view_my_storage">View My Storage</string>
 	<string key="ui_improve">Improve</string>
 	<string key="ui_xp_tooltip">&lt;font face="lyshineui/fonts/Pica_Regular.font" color={headerColor}&gt;CORE XP&lt;/font&gt;\n    {totalXP} Total XP\n    {xpToLevel} to level {nextLevel}{bonusXpString}</string>
+	<string key="ui_xp_tooltip_header">Core XP</string>
+	<string key="ui_xp_tooltip_total_xp">Total XP</string>
+	<string key="ui_xp_tooltip_remaining_xp">Remaining to level {nextLevel}</string>
+	<string key="ui_xp_tooltip_bonus_header">XP Bonus</string>
+	<string key="ui_xp_tooltip_rested_xp">Rested XP Bonus</string>
+	<string key="ui_xp_tooltip_rested_remaining">(Rested XP Remaining: {restedXpRemaining})</string>
+	<string key="ui_xp_tooltip_xp_boost">XP Boost</string>
+	<string key="ui_xp_tooltip_total_xp_bonus">Total XP Bonus</string>
 	<string key="ui_xp_bonuses_tooltip">\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color={headerColor}&gt;XP BONUSES&lt;/font&gt;{restedXpString}{boostXpString}\n    &lt;font color={totalBonusXpColor}&gt;{totalXpBonus} Total XP Bonus&lt;/font&gt;</string>
 	<string key="ui_xp_rested_tooltip">\n    &lt;font color={restedXpColor}&gt;{restedModifier} Rested Bonus\n    {totalRestedXP} Rest XP Remaining&lt;/font&gt;</string>
 	<string key="ui_xp_multiplier_tooltip">\n    &lt;font color={boostXpColor}&gt;{boostModifier} XP Boost&lt;/font&gt;</string>
@@ -1955,11 +1975,15 @@
 	<string key="ui_musket_mastery">Musket Mastery</string>
 	<string key="ui_musket_tree1">Sharpshooter</string>
 	<string key="ui_musket_tree2">Trapper</string>
+	<string key="ui_blunderbuss" rel_version="Weapon_Blunderbuss">Blunderbuss</string>
+	<string key="ui_blunderbuss_mastery" rel_version="Weapon_Blunderbuss">Blunderbuss Mastery</string>
+	<string key="ui_blunderbuss_tree1" rel_version="Weapon_Blunderbuss">Containment</string>
+	<string key="ui_blunderbuss_tree2" rel_version="Weapon_Blunderbuss">Chaos</string>
 	<string key="ui_firemagic">Fire Magic</string>
-	<string key="ui_firemagic_mastery">Fire Magic Mastery</string>
+	<string key="ui_firemagic_mastery">Fire Staff Mastery</string>
 	<string key="ui_firestaff">Fire Staff</string>
 	<string key="ui_lifemagic">Life Magic</string>
-	<string key="ui_lifemagic_mastery">Life Magic Mastery</string>
+	<string key="ui_lifemagic_mastery">Life Staff Mastery</string>
 	<string key="ui_lifestaff">Life Staff</string>
 	<string key="ui_lifestaff_tree1">Healing</string>
 	<string key="ui_lifestaff_tree2">Protector</string>
@@ -2046,9 +2070,9 @@
 	<string key="ui_mergefaq_question_3">Will I keep my company?</string>
 	<string key="ui_mergefaq_question_4">Can my Company still declare war on other Companies?</string>
 	<string key="ui_mergefaq_answer_1">Your character's level, attribute points, mastery points, territory standing, house, inventory, and settlement storage will be preserved.</string>
-	<string key="ui_mergefaq_answer_2">Territories on the new world will be claimed by the Companies of that world. If your Company is not of that world, you lose all your territories, any upgrades, and your company will be given 50,000 coin.</string>
+	<string key="ui_mergefaq_answer_2">Territories on the new world will be claimed by the Companies of that world. If your Company is not of that world, you lose all your territories, any upgrades, and your company will be given {coinAmount} coin.</string>
 	<string key="ui_mergefaq_answer_3">Players will never be split up from each other due to a World merge, and the Company membership and wallet will be preserved.</string>
-	<string key="ui_mergefaq_answer_4">Players will receive a 72 hour notice when a World merge is to happen. Companies cannot declare war during this time. Pending wars will be cancelled, and gold spent to declare war will be fully refunded.</string>
+	<string key="ui_mergefaq_answer_4">Players will receive {bufferTime} notice when a World merge is to happen. Companies cannot declare war during this time. Pending wars will be cancelled, and gold spent to declare war will be fully refunded.</string>
 	<string key="ui_mergewarning_title">WORLD MERGES SOON</string>
 	<string key="ui_mergewarning_body">You have one or more characters in Worlds that will be merged soon:</string>
 	<string key="ui_mergewarning_learn">LEARN MORE</string>
@@ -2171,13 +2195,13 @@
 	<string key="tooltip_salvage_remote">You cannot salvage items in remote locations.</string>
 	<string key="tooltip_salvage_cannot">This item cannot be salvaged</string>
 	<string key="twitch_link_title">Connect Twitch Account To Amazon Games</string>
-	<string key="twitch_link_desc">By connecting your Twitch account, you get to participate in exclusive features. Your account can be disconnected at anytime.</string>
-	<string key="twitch_sub_army">Sub Army</string>
-	<string key="twitch_sub_army_desc">Seamlessly invite subscribers and followers to groups and Companies using the in-game Social Pane.</string>
+	<string key="twitch_link_desc">Connect your Twitch account to participate in exclusive features. You can disconnect your account at any time.</string>
+	<string key="twitch_sub_army">Subscriber Army</string>
+	<string key="twitch_sub_army_desc">Join streamers or invite subscribers and/or followers to groups and Companies using the in-game Social Pane.</string>
 	<string key="twitch_drop_rewards">Twitch Drop Rewards</string>
-	<string key="twitch_drop_rewards_desc">Twitch Drops allow players to earn in-game rewards for watching New World streams with 'Drops Enabled' tag on Twitch.</string>
+	<string key="twitch_drop_rewards_desc">Earn in-game rewards for watching New World streams with 'Drops Enabled' tag on Twitch.</string>
 	<string key="twitch_streamer_spotlight">Streamer Spotlight</string>
-	<string key="twitch_streamer_spotlight_desc">When streaming New World, you'll be able to activate a "LIVE" tag and viewer count in your character's in-game nameplate.</string>
+	<string key="twitch_streamer_spotlight_desc">Show a "LIVE" tag and viewer count in your character's in-game nameplate while streaming New World.</string>
 	<string key="twitch_prime_gaming">Prime Gaming</string>
 	<string key="twitch_prime_gaming_desc">Linking your account to Prime Gaming allows you to claim monthly exclusive in-game content, and other special rewards for New World.</string>
 	<string key="go_crow">Go Crow</string>
@@ -2234,6 +2258,7 @@
 	<string key="ui_itemtypedescription_warhammer">War Hammer</string>
 	<string key="ui_itemtypedescription_bow">Bow</string>
 	<string key="ui_itemtypedescription_musket">Musket</string>
+	<string key="ui_itemtypedescription_blunderbuss" rel_version="Weapon_Blunderbuss">Blunderbuss</string>
 	<string key="ui_itemtypedescription_pistol">Pistol</string>
 	<string key="ui_itemtypedescription_lifestaff">Life Staff</string>
 	<string key="ui_itemtypedescription_firestaff">Fire Staff</string>
@@ -2313,7 +2338,7 @@
 	<string key="ui_complete_quests_to_unlock">Complete quests in settlement to unlock</string>
 	<string key="ui_cannot_chat_trading_blocked">Your account must be older than {hoursNeeded}, your playtime greater than {playtimeNeeded}, and the trading post unlocked to access this channel.</string>
 	<string key="ui_averageexpertise">Average\nExpertise</string>
-	<string key="ui_averageexpertisetooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Expertise&lt;/font&gt;\nExpertise is used to measure the maximum power of an item when you have it equipped.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Max Expertise that you can reach&lt;/font&gt;\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{maximum}&lt;/font&gt;\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;How to increase Expertise&lt;/font&gt;\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Elite POIs and Expeditions&lt;/font&gt;\nDrops from creatures or chests in level 60+ areas have a chance to increase this value.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Crafting&lt;/font&gt;\nCrafting a 600 GS item will increase Expertise of this item type.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Gypsum Cast&lt;/font&gt;\nOpening a Gypsum Cast will increase expertise.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Item Upgrade (with Umbral Shards)&lt;/font&gt;\nAfter you reach 600 Expertise, the only way to increase Expertise is via upgrading items with Umbral shards.</string>
+	<string key="ui_averageexpertisetooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Expertise&lt;/font&gt;\nExpertise is used to measure the maximum power of an item when you have it equipped.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Max Expertise that you can reach&lt;/font&gt;\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{maximum}&lt;/font&gt;\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;How to increase Expertise&lt;/font&gt;\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Elite POIs and Expeditions&lt;/font&gt;\nDrops from creatures or chests in level 60+ areas have a chance to increase this value.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Crafting&lt;/font&gt;\nCrafting a 600 GS item will increase Expertise of this item type.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Gypsum Cast&lt;/font&gt;\nOpening a Gypsum Cast will increase Expertise.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Item Upgrade (with Umbral Shards)&lt;/font&gt;\nAfter you reach 600 Expertise, the only way to increase Expertise is via upgrading items with Umbral Shards.</string>
 	<string key="ui_itemtypedescription_shield_only">Shield</string>
 	<string key="ui_expertise_value_with_icon">&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;{value}</string>
 	<string key="ui_expertise_warning_with_icon">&lt;font color="#ff9393"&gt;&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_red" scale="1.5" yOffset="2"&gt;&lt;/img&gt;{value}&lt;/font&gt;</string>
@@ -2324,5 +2349,15 @@
 	<string key="ui_expertise_tooltip_increase">The &lt;font color="#ffffff"&gt;maximum&lt;/font&gt; Expertise you can obtain from enemies, chests, Gyspsum Casts and crafting is &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;600&lt;/font&gt;.</string>
 	<string key="ui_expertise_tooltip_maximum">To increase Expertise past &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;600&lt;/font&gt;, upgrade an item in this slot with &lt;font color="#ffffff"&gt;Umbral Shards&lt;/font&gt;.</string>
 	<string key="ui_expertise_crafting_gain">{category} Expertise</string>
+	<string key="ui_guides">Guides</string>
+	<string key="ui_fast_travel_guide_1_header">How it works</string>
+	<string key="ui_fast_travel_guide_1_body">Open the map and select a location you wish to travel to. You can spend Azoth to fast travel between Settlements, Outposts, and Spirit Shrines you have previously visited.</string>
+	<string key="ui_fast_travel_guide_2_body">In the map, uncharted Spirit Shrines are displayed as &lt;img src="lyshineui/images/objectives/journal/guidestab/fasttraveliconinactive" scale="3" yOffset="15"&gt;&lt;/img&gt;.\nShrines you have previously visited are displayed as &lt;img src="lyshineui/images/objectives/journal/guidestab/fasttraveliconactive" scale="3" yOffset="15"&gt;&lt;/img&gt;.</string>
+	<string key="ui_fast_travel_guide_3_header">Encumbrance Cost</string>
+	<string key="ui_fast_travel_guide_3_body">The amount of Azoth required to fast travel to a location increases based on your inventory weight. Travel light, friends.</string>
+	<string key="ui_fishing_hotspot_depleted">Depleted Hotspot</string>
+	<string key="ui_fishing_hotspot_active">Active Hotspot</string>
+	<string key="ui_fishing_hotspot_depleted_body">After enough fish are caught at a hotspot, it will become depleted. You can tell a hotspot is depleted when there are no fish jumping. A depleted hotspot will become active again after some time has passed.</string>
+	<string key="ui_fishing_hotspot_active_body">You can tell a fishing hotspot is active when you see fish jumping out of it. While it’s active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you’ll see a small alert telling you you’ve hit the hotspot.</string>
 </resources>
 

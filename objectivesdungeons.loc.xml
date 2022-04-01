@@ -147,5 +147,42 @@
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Leave the Shipyard.</string>
 	<string key="dungeon_ebonscale_required_equipment">1 Azoth Staff</string>
 	<string key="dungeon_restlessshores01_required_equipment">3 Azoth Staves</string>
+	<string key="dungeon_shattermtn00_title" rel_version="Expedition_ShatterMtn_00">Tempest's Heart</string>
+	<string key="dungeon_shattermtn00_description" rel_version="Expedition_ShatterMtn_00">Pursue Isabella into a corrupted dimension of reality</string>
+	<string key="dungeon_shattermtn00_required_equipment" rel_version="Expedition_ShatterMtn_00">1 Azoth Staff</string>
+	<string key="dungeon_shattermtn00_task_explore_entry" rel_version="Expedition_ShatterMtn_00">Make your descent towards the Gate of Madness</string>
+	<string key="dungeon_shattermtn00_task_open_gate_madness" rel_version="Expedition_ShatterMtn_00">Destroy the Corrupted Monolith to open the Gate of Madness</string>
+	<string key="dungeon_shattermtn00_task_continue_descent" rel_version="Expedition_ShatterMtn_00">Continue your descent towards the Basilica</string>
+	<string key="dungeon_shattermtn00_task_hold_against_corrupted" rel_version="Expedition_ShatterMtn_00">Hold out against the Corrupted</string>
+	<string key="dungeon_shattermtn00_task_defeat_spriggan" rel_version="Expedition_ShatterMtn_00">Defeat Ekheke</string>
+	<string key="dungeon_shattermtn00_task_ascend_watchtower" rel_version="Expedition_ShatterMtn_00">The path forward is locked. Search for a way to unlock it by ascending the stairs to the Dark Watchtower.</string>
+	<string key="dungeon_shattermtn00_task_enter_portal_watchtower" rel_version="Expedition_ShatterMtn_00">Enter the portal at the base of the Dark Watchtower</string>
+	<string key="dungeon_shattermtn00_task_void_tunnel_01" rel_version="Expedition_ShatterMtn_00">Make your way through the Void Tunnel</string>
+	<string key="dungeon_shattermtn00_task_get_cellar_key" rel_version="Expedition_ShatterMtn_00">Acquire the key to the Cellar of Despair from the Dilapidated Chest</string>
+	<string key="dungeon_shattermtn00_task_exit_void_tunnel_01" rel_version="Expedition_ShatterMtn_00">Exit the Void Tunnel</string>
+	<string key="dungeon_shattermtn00_task_use_cellar_key" rel_version="Expedition_ShatterMtn_00">Use the Cellar Key to access the Cellar of Despair</string>
+	<string key="dungeon_shattermtn00_task_navigate_cave" rel_version="Expedition_ShatterMtn_00">Defeat Vroeg and then proceed through the Cellar of Despair</string>
+	<string key="dungeon_shattermtn00_task_continue_graveyard" rel_version="Expedition_ShatterMtn_00">Continue through the Corrupted Graveyard towards the Basilica</string>
+	<string key="dungeon_shattermtn00_task_open_gate_basilica" rel_version="Expedition_ShatterMtn_00">Proceed through the gate and enter the Basilica</string>
+	<string key="dungeon_shattermtn00_task_defeat_isabella_basilica_entry" rel_version="Expedition_ShatterMtn_00">Defeat Isabella</string>
+	<string key="dungeon_shattermtn00_task_pursue_isabella_basilica" rel_version="Expedition_ShatterMtn_00">Pursue Isabella further into the Basilica</string>
+	<string key="dungeon_shattermtn00_task_survive_basilica" rel_version="Expedition_ShatterMtn_00">Survive against the ambush of Corrupted</string>
+	<string key="dungeon_shattermtn00_task_pursue_isabella_chandeliers" rel_version="Expedition_ShatterMtn_00">Pursue Isabella once more towards the fallen chandeliers</string>
+	<string key="dungeon_shattermtn00_task_defeat_isabella_chandeliers" rel_version="Expedition_ShatterMtn_00">Defeat Isabella</string>
+	<string key="dungeon_shattermtn00_task_exit_basilica" rel_version="Expedition_ShatterMtn_00">Exit the Basilica</string>
+	<string key="dungeon_shattermtn00_task_search_relic" rel_version="Expedition_ShatterMtn_00">Cross the Sea of Corruption and eliminate the Void Destroyer blocking the path</string>
+	<string key="dungeon_shattermtn00_task_use_staff_relic" rel_version="Expedition_ShatterMtn_00">Use the Azoth Staff to unlock the Reliquary</string>
+	<string key="dungeon_shattermtn00_task_cross_corrupted_sea" rel_version="Expedition_ShatterMtn_00">Carry the Reliquary across the Sea of Corruption</string>
+	<string key="dungeon_shattermtn00_task_return_relic" rel_version="Expedition_ShatterMtn_00">Return the Reliquary to Isabella and gain access to the City of Darkness</string>
+	<string key="dungeon_shattermtn00_task_explore_city" rel_version="Expedition_ShatterMtn_00">Explore the City of Darkness</string>
+	<string key="dungeon_shattermtn00_task_defeat_ogre" rel_version="Expedition_ShatterMtn_00">Defeat the Priests before they can complete a ritual and create an explosion of corruption</string>
+	<string key="dungeon_shattermtn00_task_enter_portal_city" rel_version="Expedition_ShatterMtn_00">Enter the portal into the Void Tunnel</string>
+	<string key="dungeon_shattermtn00_task_void_tunnel_02" rel_version="Expedition_ShatterMtn_00">Make your way through the Void Tunnel</string>
+	<string key="dungeon_shattermtn00_task_defeat_naga" rel_version="Expedition_ShatterMtn_00">Defeat Neishatun</string>
+	<string key="dungeon_shattermtn00_task_enter_portal_naga" rel_version="Expedition_ShatterMtn_00">Enter the portal into the Void Tunnel once more</string>
+	<string key="dungeon_shattermtn00_task_void_tunnel_03" rel_version="Expedition_ShatterMtn_00">Make your way through the Void Tunnel</string>
+	<string key="dungeon_shattermtn00_task_defeat_isabella_final" rel_version="Expedition_ShatterMtn_00">Defeat Isabella</string>
+	<string key="dungeon_shattermtn00_task_dungeon_complete" rel_version="Expedition_ShatterMtn_00">Exit the Tempest's Heart Expedition</string>
+	<string key="DungeonUseRelicBubble" rel_version="Expedition_ShatterMtn_00">Requires The Reliquary</string>
 </resources>
 

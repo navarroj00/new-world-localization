@@ -119,12 +119,6 @@
 	<string key="ui_emote_Push_Ups" rel_version="Emote_Pushups">Push Ups</string>
 	<string key="ui_emote_Flex_3">Arm Flex</string>
 	<string key="ui_emote_Golf_Clap">Courteous Applause</string>
-	<string key="ui_emote_Firework1" rel_version="Feature_Premium_Emotes">Chrysanthemum Rocket</string>
-	<string key="ui_emote_Firework2" rel_version="Feature_Premium_Emotes">Dynasty Rocket</string>
-	<string key="ui_emote_Firework3" rel_version="Feature_Premium_Emotes">Dryad Rocket</string>
-	<string key="ui_emote_Firework4" rel_version="Feature_Premium_Emotes">Ancient Rocket</string>
-	<string key="ui_emote_Firework5" rel_version="Feature_Premium_Emotes">Shooting Star</string>
-	<string key="ui_emote_Firework6" rel_version="Feature_Premium_Emotes">Fountain</string>
 	<string key="ui_emote_sit_description">Sit Emote Description</string>
 	<string key="ui_emote_flex_description">Flex Emote Description</string>
 	<string key="ui_emote_flex2_description">Flex Emote Description</string>
@@ -163,12 +157,6 @@
 	<string key="ui_emote_Push_Ups_description" rel_version="Emote_Pushups">"Dost thou even lift, brother?"</string>
 	<string key="ui_emote_Flex_3_description">"Show your strength."</string>
 	<string key="ui_emote_Golf_Clap_description">"A job well done!"</string>
-	<string key="ui_emote_Firework1_description" rel_version="Feature_Premium_Emotes">Fires a rocket into the air. Explodes in a burst of color.</string>
-	<string key="ui_emote_Firework2_description" rel_version="Feature_Premium_Emotes">Fires a rocket into the air. Explodes in a burst of Dynasty colors.</string>
-	<string key="ui_emote_Firework3_description" rel_version="Feature_Premium_Emotes">Fires a rocket into the air. Explodes in a burst of Dryad colors.</string>
-	<string key="ui_emote_Firework4_description" rel_version="Feature_Premium_Emotes">Fires a rocket into the air. Explodes in a burst of Ancient colors.</string>
-	<string key="ui_emote_Firework5_description" rel_version="Feature_Premium_Emotes">Fires a rocket into the air. Shooting Stars rain across the sky</string>
-	<string key="ui_emote_Firework6_description" rel_version="Feature_Premium_Emotes">Fires a rocket into the air. Bursts into a fountain of sparks.</string>
 	<string key="UI_emote_RussianDance_name" rel_version="Emote_Leg_Kick_Dance">Leg Kick Dance</string>
 	<string key="UI_emote_RussianDance_description" rel_version="Emote_Leg_Kick_Dance">"A traditional dance."</string>
 	<string key="emote_Shiver" rel_version="Emote_Shiver">{playerName} shivers violently. Brrr!</string>
@@ -200,5 +188,14 @@
 	<string key="ui_emote_GiveFlower_name" rel_version="Emote_GiveFlower">Give Flower</string>
 	<string key="ui_emote_GiveFlower_description" rel_version="Emote_GiveFlower">"Who would not be wooed by petals so bright and fragrance so sweet?"</string>
 	<string key="emote_GiveFlower" rel_version="Emote_GiveFlower">{playerName} offers a flower.</string>
+	<string key="ui_emote_Disco_name" rel_version="Emote_DiscoDance">Disco Dance</string>
+	<string key="ui_emote_Curtsy_name" rel_version="Emote_Curtsy">Curtsy</string>
+	<string key="ui_emote_Yoga_TreePose_name" rel_version="Emote_YogaPoses">Tree Pose</string>
+	<string key="ui_emote_Disco_description" rel_version="Emote_DiscoDance">"Wow the crowd at your next cotillion with this futuristic dance."</string>
+	<string key="ui_emote_Curtsy_description" rel_version="Emote_Curtsy">"Offer polite greetings."</string>
+	<string key="ui_emote_Yoga_TreePose_description" rel_version="Emote_YogaPoses">"Stretch the mind and body with this rejuvenating posture."</string>
+	<string key="emote_Disco" rel_version="Emote_DiscoDance">{playerName} bursts into a futuristic dance.</string>
+	<string key="emote_Curtsy" rel_version="Emote_Curtsy">{playerName} presents a polite curtsy.</string>
+	<string key="emote_Yoga_TreePose" rel_version="Emote_YogaPoses">{playerName} seeks to be at one with the universe.</string>
 </resources>
 

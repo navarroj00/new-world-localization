@@ -163,6 +163,8 @@
 	<string key="objective_location_name" speaker="UI">Location Name</string>
 	<string key="objective_has_location" speaker="UI">With Specific Locations</string>
 	<string key="objective_no_location" speaker="UI">Without Specific Locations</string>
+	<string key="objective_main_story_quest" speaker="UI">Main Story Quest</string>
+	<string key="objective_skill_progression_quest" speaker="UI">Skill Progression Quest</string>
 	<string key="objective_side_quests" speaker="UI">Side Quests</string>
 	<string key="objective_event" speaker="UI">Event Quests</string>
 	<string key="objective_event_desc" speaker="UI">Objectives available during an Event</string>
@@ -202,6 +204,7 @@
 	<string key="objective_requiresitem" speaker="UI">Requires {itemName} Tier {tier}</string>
 	<string key="objective_reward" speaker="UI">Reward</string>
 	<string key="objective_rewards" speaker="UI">Rewards</string>
+	<string key="objective_activebonuses" speaker="UI">Active Bonuses</string>
 	<string key="objective_norewards" speaker="UI">Contribute to the Battle to earn Rewards</string>
 	<string key="objective_salvage" speaker="UI">Salvage {itemName}</string>
 	<string key="objective_started" speaker="UI">Objective Started</string>
@@ -291,5 +294,6 @@
 	<string key="objective_mission_kill_with_icegauntlet">Defeat {targetName} using Ice Gauntlet</string>
 	<string key="objective_mission_task_control_point_S">Capture Fort {TerritoryID} for the Syndicate</string>
 	<string key="objective_mission_task_control_point_C">Capture Fort {TerritoryID} for the Covenant</string>
+	<string key="objective_mission_faction_corruption_breach" rel_version="Quest_FM_BreachMissions">Close a Corruption Breach</string>
 </resources>
 
