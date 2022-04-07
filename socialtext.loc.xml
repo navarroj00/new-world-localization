@@ -173,7 +173,10 @@
 	<string key="ui_p2ptrading_failmessage_playersoutofrange">Player no longer in range.</string>
 	<string key="ui_p2ptrading_failmessage_somethingwentwrong">Something went wrong.</string>
 	<string key="ui_p2ptrading_failmessage_atmaxcurrency">One or more players will exceed coin cap.</string>
-	<string key="ui_p2ptrading_failmessage_dont_meet_requirements">You must be level {level} and have an account older than {time} to trade things away.</string>
+	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_level">You must be level {level} to trade things away.</string>
+	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_probation">You must have an account older than {time} to trade things away.</string>
+	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_free">Purchase New World to trade things away.</string>
+	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_generic">You are unable to trade things away.</string>
 	<string key="ui_p2ptrading_trade_completed">Trade completed.</string>
 	<string key="ui_p2ptrading_overflow_title">Inventory Full</string>
 	<string key="ui_p2ptrading_overflow_message">Some of the items you received didn't fit in your inventory and were dropped on the ground.</string>

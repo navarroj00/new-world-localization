@@ -193,7 +193,7 @@
 	<string key="ui_cancelin">Cancel Available in {time}s</string>
 	<string key="ui_canvas">Canvas</string>
 	<string key="ui_azoth_currency">Azoth</string>
-	<string key="ui_azoth_desc">Azoth can be used for fast-travel between shrines and settlements and to craft more powerful items.\n\nAzoth is primarily acquired by completing Quests and closing Corruption Breaches.</string>
+	<string key="ui_azoth_desc">Azoth can be used for fast-travel between shrines and settlements and to craft more powerful items.\n\nAzoth is primarily acquired by completing Quests and closing Corruption Breaches.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Derived From:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; Corruption Breaches, Quests&lt;/font&gt;</string>
 	<string key="ui_cards">Cards</string>
 	<string key="ui_leave_arena_coming_soon">Leaving Arena functionality Coming Soon</string>
 	<string key="ui_equipfishingpole">[{value}] to Fish</string>
@@ -889,6 +889,8 @@
 	<string key="ui_character_options">Character Options</string>
 	<string key="ui_character_merge_destination">This world ({worldName}) is being merged into {destinationWorldName} on {date}.</string>
 	<string key="ui_xp">XP</string>
+	<string key="ui_player_xp">Player XP</string>
+	<string key="ui_player_xp_desc">Character XP helps you level up your character.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Derived From:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; Completing Missions, Crafting, Killing Enemies, Participating in Events&lt;/font&gt;</string>
 	<string key="ui_xp_boost">XP Boost</string>
 	<string key="ui_xp_event_title">XP BOOST EVENT!</string>
 	<string key="ui_xp_event_desc">Special XP Boost is active in this world!</string>
@@ -920,6 +922,8 @@
 	<string key="ui_glory_to_level">&lt;font color="#ffffff"&gt;{xp} XP&lt;/font&gt; to Level {level}</string>
 	<string key="ui_glory_tooltip">You have unspent attribute or skill points. Use [{keyName}] to open the progression screen and improve your abilities.</string>
 	<string key="ui_coin">Coin</string>
+	<string key="ui_coin">Coin</string>
+	<string key="ui_coin_desc">Your primary currency used to purchase items in the Trading Post and at the Faction Shop.\nCoin is capped at &lt;font color="#ffffff"&gt;{amount}&lt;/font&gt;.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Derived From:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; Completing Missions, Killing Enemies, Participating in Events&lt;/font&gt;</string>
 	<string key="ui_coin_max">Max Coin</string>
 	<string key="ui_coin_icon">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_floating_coin_val">&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;{amount}</string>
@@ -1169,6 +1173,7 @@
 	<string key="ui_deathsdoorcooldown">Revive on Cooldown</string>
 	<string key="ui_deathsdoorcooldown_description">You can be revived again in</string>
 	<string key="ui_currency">Coin</string>
+	<string key="ui_currency_type">Currency</string>
 	<string key="ui_currency_value">{value} Coin</string>
 	<string key="ui_active_crimes">Current Crimes: {crimeList}</string>
 	<string key="ui_crime_tooltip">While you are a criminal, other players can attack you without committing a crime themselves, even in sanctuaries. If you die, you drop your equipment in addition to your inventory.\n\nCurrent Crimes: {crimeList}</string>
@@ -1820,6 +1825,8 @@
 	<string key="ui_ability3">Weapon Ability 3</string>
 	<string key="ui_pending_afk_disconnect">Are you still playing?</string>
 	<string key="ui_pending_afk_disconnect_description">You have been detected as idle and will be automatically kicked from the game. If you're still playing, move your character.</string>
+	<string key="ui_pending_freeweekend_session_ending_title">Free Session Ending Soon</string>
+	<string key="ui_pending_freeweekend_session_ending_desc">If this World has a queue, when time is up you will be returned to the Main Menu. Otherwise, session time will be extended for an additional {time}.</string>
 	<string key="ui_structure_name_too_long">Structure name too long. Please try again.</string>
 	<string key="ui_structure_name_invalid_characters">Structure name contains invalid characters. Please try again.</string>
 	<string key="ui_structure_name_profanity">Structure name contains profanity. Please try again.</string>
@@ -1888,6 +1895,7 @@
 	<string key="ui_coin_max_withdrawal_tooltip">Your wallet is capped at {amount} Coin.\nThis amount is the most you could take without exceeding that limit.</string>
 	<string key="ui_coin_max_sellorder_tooltip">Your wallet is capped at {amount} Coin.\nYou will lose any coin that exceed that limit at the time of sale.</string>
 	<string key="ui_coin_max_trade_tooltip">Your wallet is capped at {amount} Coin.\nThe other player is trying to give you more coin than you can carry. They will be refunded any excess Coin.</string>
+	<string key="ui_coin_max_cantwithdraw_tooltip">Your wallet is full. You cannot withdraw any Coin from your Company Treasury.</string>
 	<string key="ui_listing_duration_tooltip">Longer listings will result in higher listing fees.</string>
 	<string key="ui_groupsize_identifier">Recommended Group Size: {groupSize}</string>
 	<string key="ui_level_identifier">Recommended Level: {level}</string>
@@ -2090,6 +2098,8 @@
 	<string key="ui_merge_world">World</string>
 	<string key="ui_merge_character">Character</string>
 	<string key="ui_merge_time">Time Remaining</string>
+	<string key="ui_freeweekend_worldwarning_title">Free Weekend Worlds</string>
+	<string key="ui_freeweekend_worldwarning_desc">Select a world to play in during the Free Weekend. Worlds that are not marked free have limited sessions extended every {time} if there are no paid players in the queue.</string>
 	<string key="ui_queue_depth">Players in queue: &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{numplayers}&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_expected_wait_time">Expected wait time: &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{time}&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_collapse">Collapse</string>
@@ -2334,6 +2344,7 @@
 	<string key="ui_number_range">{lowNumber} - {highNumber}</string>
 	<string key="ui_recommended_level_range">Recommended Level: {lowNumber} - {highNumber}</string>
 	<string key="ui_cannot_trade_currency_blocked">Can't trade currency until you're level {level} and your account is older than {hoursNeeded} hours</string>
+	<string key="ui_treasury_purchase_nw">Purchase New World to use the company treasury</string>
 	<string key="ui_cannot_chat_global_blocked">Can't chat in this channel until your account is older than {hoursNeeded} hours and your playtime is greater than {playtimeNeeded}</string>
 	<string key="ui_complete_quests_to_unlock">Complete quests in settlement to unlock</string>
 	<string key="ui_cannot_chat_trading_blocked">Your account must be older than {hoursNeeded}, your playtime greater than {playtimeNeeded}, and the trading post unlocked to access this channel.</string>

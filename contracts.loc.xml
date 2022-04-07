@@ -110,6 +110,10 @@
 	<string key="ui_contract_failure_already_has_item">Can't purchase more of this item type.</string>
 	<string key="ui_contract_failure_insufficient_items">Insufficient items.</string>
 	<string key="ui_contract_failure_outpost_storage_full">Settlement storage full.</string>
+	<string key="ui_contract_failure_freeweekend">Free players are unable to buy or sell at the trading post.</string>
+	<string key="ui_contract_failure_previously_freeweekend">You must have 3 hours of play time to buy or sell at the trading post.</string>
+	<string key="ui_contract_freeweekend_encourage">Purchase New World to buy and sell items at the Trading Post!</string>
+	<string key="ui_contract_previous_freeweekend_encourage">You must have 3 hours of play time to buy or sell at the trading post.</string>
 	<string key="ui_contract_failure_server_error">Server error.</string>
 	<string key="ui_contract_failure_creator_cannot_complete">You cannot complete an order you created.</string>
 	<string key="ui_contract_failure_invalid_request">Order request was invalid.</string>
