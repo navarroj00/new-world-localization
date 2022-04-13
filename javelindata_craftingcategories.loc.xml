@@ -1805,6 +1805,8 @@
 	<string key="TimelessShardsCon">Timeless Shards - Constitution</string>
 	<string key="ArmorShadow_GroupName">Shadewalker</string>
 	<string key="ArmorBeast_GroupName">Beasthunter</string>
+	<string key="CategoryData_EventConsumables" rel_version="Feature_RabbitSeasonPerm">Event Consumables</string>
+	<string key="ConsumableLuck_GroupName" rel_version="Feature_RabbitSeasonPerm">Luck Consumables</string>
 	<string key="Blunderbuss_GroupName">Blunderbusses</string>
 </resources>
 
