@@ -707,5 +707,9 @@
 	<string key="ui_playertitle_special_CultInitiate_description">A low-ranking member of a surreptitious group.</string>
 	<string key="ui_playertitle_special_CultFollower">Follower of the Cult of Renewal</string>
 	<string key="ui_playertitle_special_CultFollower_description">A fully-fledged member of a surreptitious group.</string>
+	<string key="@ui_playertitle_special_warmonger">Warmonger</string>
+	<string key="@ui_playertitle_special_warmonger_SHE">Warmonger</string>
+	<string key="@ui_playertitle_special_warmonger_THEY">Warmonger</string>
+	<string key="@ui_playertitle_warmonger_description">Always answers the call to war.</string>
 </resources>
 

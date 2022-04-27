@@ -184,6 +184,7 @@
 	<string key="ui_encounter_signupDesc_invasion">Sign up for this Invasion at\n&lt;font color='#f1ede2'&gt;a War Board&lt;/font&gt; in this town.</string>
 	<string key="ui_encounter_signupDesc_invasion_minlevel">&lt;font color="#ff6363"&gt;Minimum level: {level}&lt;/font&gt;</string>
 	<string key="ui_encounter_signup_invasion_minlevel_tooltip">You must be at least level {level} to sign up for the invasion.</string>
+	<string key="ui_encounter_signup_invasion_too_early_tooltip">Sign ups are not open yet for this invasion.</string>
 	<string key="ui_encounter_signupbutton_invasion">Sign up for Invasion</string>
 	<string key="ui_encounter_viewstatusbutton_war">View Army</string>
 	<string key="ui_encounter_viewstatusbutton_invasion">View Army</string>

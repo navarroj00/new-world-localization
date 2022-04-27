@@ -431,7 +431,7 @@
 	<string key="ui_character_region_transfer" rel_version="Feature_Server_Transfer">Character Region Transfer</string>
 	<string key="server_transfer_description" rel_version="Feature_Server_Transfer">Allows you to transfer this character to another world in another region of your choice.</string>
 	<string key="server_transfer_extra_detail" rel_version="Feature_Server_Transfer">You are allowed 1 free world transfer on your account. Once claimed, it will no longer be available on other characters.</string>
-	<string key="server_transfer_names" rel_version="Feature_Server_Transfer">Transferring &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; to: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{ServerName}&lt;/font&gt; ({WorldSetName})</string>
+	<string key="server_transfer_names" rel_version="Feature_Server_Transfer">Transferring &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; to: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{ServerName}&lt;/font&gt; {WorldSetName}</string>
 	<string key="server_transfer_requirements" rel_version="Feature_Server_Transfer">REQUIREMENTS</string>
 	<string key="server_transfer_not_transfer" rel_version="Feature_Server_Transfer">WHAT WILL NOT TRANSFER</string>
 	<string key="server_transfer_refund_policy" rel_version="Feature_Server_Transfer">REFUND POLICY</string>
@@ -710,6 +710,7 @@
 	<string key="Bundle_Tool_Valentines_name" rel_version="MTX_Tool_Skins_Valentine">Labor of Love</string>
 	<string key="Apparel_Waveborne_name" rel_version="Apparel_Waveborne_Costume">Waveborne</string>
 	<string key="Weapon_Musket_AngelsDemons_name" rel_version="Weapon_Musket_AngelsDemons_MTX">Hallelujah Cannon</string>
+	<string key="Weapon_Blunderbuss_AngelsDemons_name" rel_version="Weapon_Blunderbuss_AngelsDemons_MTX">Blunderbuss of Brimstone</string>
 	<string key="Weapon_TowerShield_AngelsDemons_name" rel_version="Weapon_TowerShield_AngelsDemons_MTX">Angelic Bulwark</string>
 	<string key="Weapon_Rapier_AngelsDemons_name" rel_version="Weapon_Rapier_AngelsDemons_MTX">Spark of Light</string>
 	<string key="Weapon_VoidGauntlet_AngelsDemons_name" rel_version="Weapon_VoidGauntlet_AngelsDemons_MTX">Moloch's Fall</string>
@@ -719,6 +720,7 @@
 	<string key="Bundle_Tool_Valentines_description" rel_version="MTX_Tool_Skins_Valentine">"Love benefits from great effort… and the accumulation of resources."</string>
 	<string key="Apparel_Waveborne_description" rel_version="Apparel_Waveborne_Costume">"Rising from the dark and twisting sea, a deadly wave crashes ashore."</string>
 	<string key="Weapon_Musket_AngelsDemons_description" rel_version="Weapon_Musket_AngelsDemons_MTX">"And so the mountains rang with the cry of Hallelujah!"</string>
+	<string key="Weapon_Blunderbuss_AngelsDemons_description" rel_version="Weapon_Blunderbuss_AngelsDemons_MTX">"It feels warm in your hand, pulsing a kind of oppressive heat that almost smells of sulfur."</string>
 	<string key="Weapon_TowerShield_AngelsDemons_description" rel_version="Weapon_TowerShield_AngelsDemons_MTX">"To protect from wickedness and champion purity, one must have a proper shield."</string>
 	<string key="Weapon_Rapier_AngelsDemons_description" rel_version="Weapon_Rapier_AngelsDemons_MTX">"A beacon to slice through the darkness, to lift the spirits of all who see it wielded by a champion of the light."</string>
 	<string key="Weapon_VoidGauntlet_AngelsDemons_description" rel_version="Weapon_VoidGauntlet_AngelsDemons_MTX">"A fallen angel makes for a monstrous bearer of sacrifice."</string>
@@ -740,5 +742,13 @@
 	<string key="Apparel_Malachite_M_description" rel_version="Apparel_Malachite_M">"Become the ruler of all things verdant and green in this root-wrapped set."</string>
 	<string key="Apparel_Malachite_H_description" rel_version="Apparel_Malachite_H">"Bark as thick and heavy as stone rests on the skin of the wearer, granting them superior immunity."</string>
 	<string key="Apparel_Wicked_description" rel_version="Apparel_Wicked_Costume">"No wolf dare challenge you or Grandma now."</string>
+	<string key="Apparel_FateFortune_FortuneTellerL_name" rel_version="Apparel_Fortune_1">Moonborne</string>
+	<string key="Apparel_FateFortune_FortuneTellerL_description" rel_version="Apparel_Fortune_1">"Imbued with the shining powers of the crescent moon, lighting up Aeternum just as the lunar surface does at night."</string>
+	<string key="Bundle_Tool_FateFortune_name" rel_version="MTX_Tool_Skins_Fortune">Destiny's Guile</string>
+	<string key="Bundle_Tool_FateFortune_description" rel_version="MTX_Tool_Skins_Fortune">"Wealth and resources do not guarantee a glorious destiny."</string>
+	<string key="Bundle_Decor_FateFortune_name" rel_version="Housing_FateFortune_MTX_Pack_2022">Fate and Fortune Housing Décor Bundle</string>
+	<string key="Bundle_Decor_FateFortune_description" rel_version="Housing_FateFortune_MTX_Pack_2022">"A thoughtful arrangement of your furnishings can help you form a deeper communion with the spirits roaming Aeternum."</string>
+	<string key="Apparel_FateFortune_SteampunkH_name" rel_version="Apparel_Fortune_2">Starbound</string>
+	<string key="Apparel_FateFortune_SteampunkH_description" rel_version="Apparel_Fortune_2">"The star shines on, bathing Aeternum in the golden light of redemption."</string>
 </resources>
 

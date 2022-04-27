@@ -415,8 +415,8 @@
 	<string key="FactionMission_Windsward_Rare1_desc">A damned Lost Turncoat is impeding our troop movements between here and First Light!\n\nDestroy Emilio Rose at Buccaneer Falls.\n\n &lt;font color="#eaeaea"&gt;(Elite)&lt;/font&gt;</string>
 	<string key="FactionMission_S_Windsward_Rare1_title">Conversation Starter</string>
 	<string key="FactionMission_S_Windsward_Rare1_desc">We need to get the attention of Constable Dauti.\n\nGet Perhaps you could get an Ancient Scroll from Laocon the Tutor in Saircor?\n\n &lt;font color="#eaeaea"&gt;(Elite)&lt;/font&gt;</string>
-	<string key="ui_pvp">PVP.</string>
-	<string key="ui_pve">PVE.</string>
+	<string key="ui_pvp">PVP</string>
+	<string key="ui_pve">PVE</string>
 	<string key="FactionMission_TROPHYHUNT_title">Trophy Hunt: {POITags}</string>
 	<string key="FactionMission_TROPHYHUNT_desc">Prove your hunting skill.\n\nTake down &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; at {POITags} and bring back proof of your dominance.</string>
 	<string key="FactionMission_S_TROPHYHUNT_title">Specimen Hunt: {POITags}</string>
@@ -494,6 +494,7 @@
 	<string key="FactionMission_BREACH_title" rel_version="Quest_FM_BreachMissions">Corruption Breach</string>
 	<string key="FactionMission_BREACH_desc" rel_version="Quest_FM_BreachMissions">Marauders don't tolerate &lt;font color="#eaeaea"&gt;Corruption&lt;/font&gt; muscling in on our territory.\n\nIf you see one of their breaches, shut it down.</string>
 	<string key="FactionMission_S_BREACH_desc" rel_version="Quest_FM_BreachMissions">We now have the power to thwart &lt;font color="#eaeaea"&gt;Corruption's&lt;/font&gt; advance.\n\nSeal off any &lt;font color="#eaeaea"&gt;Corruption Breach&lt;/font&gt; you see.</string>
+	<string key="FactionMission_C_BREACH_desc" rel_version="Quest_FM_BreachMissions">&lt;font color="#eaeaea"&gt;Corruption Breaches&lt;/font&gt; threaten to extinguish the Spark\n\nEndeavor to vanquish any breach you find.</string>
 	<string key="CMissionAcquireLeather_Name_WC">Festive Tanners Needed</string>
 </resources>
 

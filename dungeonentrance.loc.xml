@@ -47,6 +47,8 @@
 	<string key="dungeon_success">Mission Complete</string>
 	<string key="dungeon_fail">Mission Failed</string>
 	<string key="dungeon_completed">Expedition Completed</string>
+	<string key="ui_dungeon_find_group" rel_version="Feature_Group_Finder">Find Group</string>
+	<string key="ui_dungeon_manage_group" rel_version="Feature_Group_Finder">Manage Group</string>
 	<string key="ui_dungeon_opened_pvpwarning_title">Abandon PvP to Enter</string>
 	<string key="ui_dungeon_enter_pvpwarning_info">Entering an Expedition will &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
 	<string key="ui_dungeon_full_header">Expedition is currently full. Join the queue to enter the expedition.</string>

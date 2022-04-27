@@ -197,5 +197,18 @@
 	<string key="emote_Disco" rel_version="Emote_DiscoDance">{playerName} bursts into a futuristic dance.</string>
 	<string key="emote_Curtsy" rel_version="Emote_Curtsy">{playerName} presents a polite curtsy.</string>
 	<string key="emote_Yoga_TreePose" rel_version="Emote_YogaPoses">{playerName} seeks to be at one with the universe.</string>
+	<string key="ui_emote_RoastMarshmallow_name" rel_version="Emote_ToastingMarshmallows">Roast Marshmallows</string>
+	<string key="ui_emote_HotFan_name" rel_version="Emote_HotFanning">Beat the Heat</string>
+	<string key="ui_emote_RightBackAtYa_name" rel_version="Emote_BackAtYa">Back At Ya</string>
+	<string key="ui_emote_RoastMarshmallow_description" rel_version="Emote_ToastingMarshmallows">"After a day spent fighting for your life on the island, sit by the campfire and prepare a classic, delicious treat."</string>
+	<string key="ui_emote_HotFan_description" rel_version="Emote_HotFanning">"Cool off!"</string>
+	<string key="ui_emote_RightBackAtYa_description" rel_version="Emote_BackAtYa">"Right back at ya!"</string>
+	<string key="emote_RoastMarshmallow" rel_version="Emote_ToastingMarshmallows">{playerName} toasts some yummy marshmallows.</string>
+	<string key="emote_HotFan" rel_version="Emote_HotFanning">{playerName} begins to fan himself to beat the heat.</string>
+	<string key="emote_HotFan_SHE" rel_version="Emote_HotFanning">{playerName} begins to fan herself to beat the heat.</string>
+	<string key="emote_HotFan_THEY" rel_version="Emote_HotFanning">{playerName} begins to fan themself to beat the heat.</string>
+	<string key="emote_RightBackAtYa" rel_version="Emote_BackAtYa">{playerName} points his fingers to mimic two guns shooting.</string>
+	<string key="emote_RightBackAtYa_SHE" rel_version="Emote_BackAtYa">{playerName} points her fingers to mimic two guns shooting.</string>
+	<string key="emote_RightBackAtYa_THEY" rel_version="Emote_BackAtYa">{playerName} points their fingers to mimic two guns shooting.</string>
 </resources>
 

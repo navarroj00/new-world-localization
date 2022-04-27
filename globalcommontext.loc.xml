@@ -246,7 +246,7 @@
 	<string key="ui_purchase_slot_button">Purchase Slot</string>
 	<string key="ui_convertitem">Convert {numItems} Items</string>
 	<string key="ui_copperaxehead">copper axe head</string>
-	<string key="ui_copyright">Copyright (c) 2021, Amazon.com, Inc. or its affiliates.  All rights reserved.</string>
+	<string key="ui_copyright">Copyright © 2021-2022, Amazon.com, Inc. or its affiliates.  All rights reserved.</string>
 	<string key="ui_craft">Craft</string>
 	<string key="ui_craft_fee">{territoryName} TAX: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{fee} &lt;/font&gt;  &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="0.9" yOffset="0.7"&gt;&lt;/img&gt;</string>
 	<string key="ui_crafting_carried">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt; Carried</string>
@@ -620,6 +620,12 @@
 	<string key="ui_exit_auto_target">Exit Auto Target</string>
 	<string key="ui_cycle_target_up">Cycle Target Up</string>
 	<string key="ui_cycle_target_down">Cycle Target Down</string>
+	<string key="ui_target_group1">Target Group Member 1</string>
+	<string key="ui_target_group2">Target Group Member 2</string>
+	<string key="ui_target_group3">Target Group Member 3</string>
+	<string key="ui_target_group4">Target Group Member 4</string>
+	<string key="ui_target_group5">Target Group Member 5</string>
+	<string key="ui_target_groupmode_toggle">Toggle Group Mode</string>
 	<string key="ui_slot_unlock_at">Unlocked at level {level}</string>
 	<string key="ui_slot_unlock_at_abbr">Lv. {level}</string>
 	<string key="ui_quickslot_mainhand_tooltip">Main-hand Slot\n\nA weapon placed in this slot can be switched to by pressing the corresponding key.</string>
@@ -1503,7 +1509,7 @@
 	<string key="ui_upgrade_tooltip_disabled_items">You need at least {quantity} more {itemName} to increase the Gear Score of this item.</string>
 	<string key="ui_upgrade_tooltip_disabled_skill">You can only upgrade item types that you have &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{neededValue} Expertise&lt;/font&gt; with.\n(Current {expertiseName} Expertise: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
 	<string key="ui_upgrade_tooltip_disabled_broken">Broken items cannot be upgraded.</string>
-	<string key="ui_upgrade_tooltip_disabled_gearscore">You can only upgrade items with {gearScore}+ Gear Score</string>
+	<string key="ui_upgrade_tooltip_disabled_gearscore">You can only upgrade items with &lt;font color="#ffffff"&gt;{gearScore}+&lt;/font&gt; Gear Score.</string>
 	<string key="ui_upgrade_notification">The item's Gear Score has been upgraded to &lt;font color="#fffd7a"&gt;{baseGearScore}&lt;/font&gt;.</string>
 	<string key="ui_cannot_replace_gem_tooltip">Cannot replace this gem.</string>
 	<string key="ui_no_gems_tooltip">No gems available</string>
@@ -1723,6 +1729,7 @@
 	<string key="ui_mapmenu_warlist_failure_timeout">Request timed out. Please try again.</string>
 	<string key="ui_mapmenu_warlist_failure_generic">Something went wrong. Please try again.</string>
 	<string key="ui_mapmenu_warlist_retry">Retry</string>
+	<string key="ui_mapmenu_manage_objectives">Manage Objectives</string>
 	<string key="ui_mapmenu_territorystandings">Territory Standings</string>
 	<string key="ui_mapmenu_territorystandings_subtext">Territory standing levels lets you unlock benefits within the territory.</string>
 	<string key="ui_mapmenu_territorystandings_spendprompt">BUY TERRITORY REWARD!</string>
@@ -1803,9 +1810,9 @@
 	<string key="ui_time_interval_format_timezone">{startTime} - {endTime}\n{timezone}</string>
 	<string key="ui_repair_tooltip">Repair requires:\nLevel {skillLevel} {skillName}\nor\nLevel {repairLevel} {repairName}</string>
 	<string key="ui_station_desc_text" comment="{stationName} is the type of station, like 'Blacksmith'. {tier} is the required tier. {current} is the current tier.">{stationName} {tier} {current}</string>
-	<string key="ui_station_skill_desc_text" comment="{skillName} is the type of skill, like 'Blacksmithing'. {skillLoc} is currently being replaced by the word for 'Skill'. If another language needs to be something like 'Skill Blacksmithing', these need to be swapped around. {level} is for required skill level. {current} is for current skill level.">{skillName} {skillLoc} {level} {current}</string>
+	<string key="ui_station_skill_desc_text" comment="{skillName} is the type of skill, like 'Blacksmithing'. {level} is for required skill level. {current} is for current skill level.">{skillName} {level} {current}</string>
 	<string key="ui_crating_tree_item_tradeskill_desc" comment="{skillName} is the type of skill, like 'Blacksmithing'. {skillLoc} is currently being replaced by the word for 'Skill'. If another language needs to be something like 'Skill Blacksmithing', these need to be swapped around.{required} is for required skill level.">{skillName} {skillLoc} Required: {required}</string>
-	<string key="ui_station_skill_header" comment="{skillName} is the type of skill, like 'Blacksmithing'. {skillLoc} is currently being replaced by the word for 'Skill'. If another language needs to be something like 'Skill Blacksmithing', these need to be swapped around.">{skillName} {skillLoc}</string>
+	<string key="ui_station_skill_header" comment="{skillName} is the type of skill, like 'Blacksmithing'.">{skillName}</string>
 	<string key="ui_station_tooltip_text">{stationName} Tier {tierRequired}</string>
 	<string key="ui_has_resources">Has Resources</string>
 	<string key="ui_deadnotification_title">YOU ARE DEAD</string>
