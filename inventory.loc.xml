@@ -167,5 +167,8 @@
 	<string key="ui_loot_bag_1_item">1 item</string>
 	<string key="ui_loot_bag_items">{amount} items</string>
 	<string key="tutorial_salvage_items">Salvage your weapons, armor, and tools for &lt;font color="#ffea00"&gt;Repair parts&lt;/font&gt;.</string>
+	<string key="inv_TargetDeathDoorNotification">Target is in Death's Door</string>
+	<string key="inv_TargetDeadNotification">Target is Dead</string>
+	<string key="inv_TargetOutsideLos">No Line of Sight to Target</string>
 </resources>
 
