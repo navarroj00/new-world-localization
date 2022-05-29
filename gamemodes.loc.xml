@@ -8,8 +8,8 @@
 	<string key="ui_queue_ready">F2 To Enter Expedition</string>
 	<string key="ui_game_mode_matchmaking_failed">An unexpected matchmaking failure has occurred.</string>
 	<string key="ui_game_mode_disabled">This game mode is currently disabled</string>
-	<string key="ui_dungeon_enter_info">At least one person must enter to keep the Expedition open. Teleport in now?</string>
-	<string key="ui_dungeon_enter_info_entered">The Expedition is now open!\nTeleport in now?</string>
+	<string key="ui_dungeon_enter_info">&lt;font color={color}&gt;At least 1 person&lt;/font&gt; must enter to keep the Expedition open. Teleport in now?</string>
+	<string key="ui_dungeon_enter_info_entered">The Expedition is now open!\n&lt;font color={color}&gt;Teleport in now?&lt;/font&gt;</string>
 	<string key="ui_duel_player">Duel Player</string>
 	<string key="ui_duel_failmessage_invalidname">{playerName} is not a valid player name.</string>
 	<string key="ui_duel_failmessage_outofrange">You cannot Duel a player further than {distance} meters.</string>
@@ -95,14 +95,14 @@
 	<string key="ui_outpost_rush_signup_playercount">{playerCount} Players</string>
 	<string key="ui_outpost_rush_signup_failsolo">You are currently in a group and cannot join as a solo player</string>
 	<string key="ui_outpost_rush_signup_failgroup">You are not currently in a group</string>
-	<string key="ui_outpost_rush_signup_failgroupinvite">You currently have a pending group invite</string>
+	<string key="ui_outpost_rush_signup_failgroupinvite">You currently have an invite to Expedition Lobby</string>
 	<string key="ui_outpost_rush_signup_faillevel">Player level {levelRequirement} &lt;font color="#f10000"&gt;is required&lt;/font&gt;</string>
 	<string key="ui_outpost_rush_signup_failwar">You cannot sign up because you are already signed up for an upcoming war that starts within the next hour.</string>
 	<string key="ui_outpost_rush_signup_failqueue">You cannot sign up because you are currently signed up for {matchname}</string>
 	<string key="ui_outpost_rush_signup_faildungeon">You cannot sign up because you are currently in queue for an expedition.</string>
 	<string key="ui_outpost_rush_signup_failevent">You cannot sign up because you are currently in an event.</string>
 	<string key="ui_outpost_rush_signup_failgeneric">You cannot sign up at this time.</string>
-	<string key="ui_outpost_rush_signup_failgrouptitle">Cannot join Outpost Rush</string>
+	<string key="ui_outpost_rush_signup_failgrouptitle">Cannot Join</string>
 	<string key="ui_outpost_rush_signup_failgrouplevel">All group members must be at least level {levelRequirement}.</string>
 	<string key="ui_outpost_rush_signup_failgroupwar">One or more of your group members are signed up for an upcoming war that starts within the next hour.</string>
 	<string key="ui_outpost_rush_signup_failgroupqueue">One or more of your group members are signed up for another event.</string>
@@ -223,5 +223,20 @@
 	<string key="ui_durability_loss_war">You are in a war(or invasion), your equipment was not damaged upon death.</string>
 	<string key="ui_item_durability_loss">All the equipment in your inventory was damaged upon death.</string>
 	<string key="ui_item_durability_loss_pvp">You were killed by another player, your equipment took reduced damage.</string>
+	<string key="ui_in_spectators_box">In Spectator's Box</string>
+	<string key="ui_in_spectators_box_description">Abilities Disabled</string>
+	<string key="ui_in_spectators_moving_to">Moving To Spectator Box in {seconds}s</string>
+	<string key="ui_round_number">Round {number}</string>
+	<string key="ui_match_point">Match Point</string>
+	<string key="ui_final_round">Final Round</string>
+	<string key="ui_begins_in">Begins In:</string>
+	<string key="ui_arena_gas_releases_in" comment="gas was replaced with ring of fire in implementation">Ring of Fire Closes in:</string>
+	<string key="ui_arena_gas_released">Ring of Fire Closing</string>
+	<string key="ui_fight">Fight!</string>
+	<string key="ui_round_won">Round Won</string>
+	<string key="ui_round_lost">Round Lost</string>
+	<string key="ui_switching_sides">Switching Sides</string>
+	<string key="ui_rounds_won">Rounds Won</string>
+	<string key="ui_see_through_label">See Through Mode</string>
 </resources>
 

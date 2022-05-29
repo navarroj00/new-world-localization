@@ -854,7 +854,7 @@
 	<string key="DungeonReps6_GroupName">Lazarus Instrumentality Replicas</string>
 	<string key="DungeonReps7_GroupName">Garden of Genesis Replicas</string>
 	<string key="DungeonReps8_GroupName">NAME PENDING</string>
-	<string key="DungeonReps9_GroupName">Tempest's Heart Replicas</string>
+	<string key="DungeonReps9_GroupName">Tempest Heart Replicas</string>
 	<string key="DungeonShields_GroupName">Expedition Shields</string>
 	<string key="Dye1_GroupDesc">Craft one of a variety of shades of Red Dye.</string>
 	<string key="Dye1_GroupName">Red Dye</string>
@@ -969,6 +969,32 @@
 	<string key="FishLarge_GroupName">Large Fish</string>
 	<string key="FishMedium_GroupName">Medium Fish</string>
 	<string key="FishSmall_GroupName">Small Fish</string>
+	<string key="Bass_GroupName">Bass</string>
+	<string key="Bluefish_GroupName">Bluefish</string>
+	<string key="Catfish_GroupName">Catfish</string>
+	<string key="Cod_GroupName">Cod</string>
+	<string key="Dragonfish_GroupName">Dragonfish</string>
+	<string key="ElectricEel_GroupName">ElectricEel</string>
+	<string key="Flounder_GroupName">Flounder</string>
+	<string key="Frogfish_GroupName">Frogfish</string>
+	<string key="Hake_GroupName">Hake</string>
+	<string key="Halibut_GroupName">Halibut</string>
+	<string key="Mackerel_GroupName">Mackerel</string>
+	<string key="Madtom_GroupName">Madtom</string>
+	<string key="Paddlefish_GroupName">Paddlefish</string>
+	<string key="Pike_GroupName">Pike</string>
+	<string key="Piranha_GroupName">Piranha</string>
+	<string key="Salmon_GroupName">Salmon</string>
+	<string key="Sculpin_GroupName">Sculpin</string>
+	<string key="Snapper_GroupName">Snapper</string>
+	<string key="SpeartoothShark_GroupName">SpeartoothShark</string>
+	<string key="Squid_GroupName">Squid</string>
+	<string key="Stingray_GroupName">Stingray</string>
+	<string key="Sturgeon_GroupName">Sturgeon</string>
+	<string key="Sunfish_GroupName">Sunfish</string>
+	<string key="Swordfish_GroupName">Swordfish</string>
+	<string key="Trout_GroupName">Trout</string>
+	<string key="Perch_GroupName">Perch</string>
 	<string key="flint_GroupName">Flints</string>
 	<string key="Flowers_GroupName">Flowers</string>
 	<string key="Flux_GroupName">Flux</string>
@@ -1699,7 +1725,7 @@
 	<string key="STRTrinkets_GroupDesc">Accessories that increase the Strength Attribute.</string>
 	<string key="STRTrinkets_GroupName">Strength Accessories</string>
 	<string key="SurvivalTools_GroupName">Survival Tools</string>
-	<string key="SwordA_GroupDesc">A pairing of melee focused weapons that, when combined, offer solid offensive and defensive capabilities. Utilizes a combination of arcing swings and lunges for the offensive melee attacks and a Shield to maximize defenses.\n\n•Light Attack: Deals {[DamageTable.1H_Sword_Attack1.DmgCoef * 100]}% Slash damage.\n•Light Ender: Deals {[DamageTable.1H_Sword_Attack1_Ender.DmgCoef * 100]}% Slash damage.\n•Heavy Attack: Deals {[DamageTable.1H_Sword_Attack2.DmgCoef * 100]}% Thrust damage.\n•Charged Heavy: Deals {[DamageTable.1H_Sword_Attack2_Charged.DmgCoef * 100]}% Thrust damage.</string>
+	<string key="SwordA_GroupDesc">A pairing of melee-focused weapons that, when combined, offer solid offensive and defensive capabilities. Utilizes a combination of arcing swings and lunges for the offensive attacks and a shield to maximize defenses.\n\n•Light Attack: Deals {[DamageTable.1H_Sword_Attack1.DmgCoef * 100]}% Slash damage.\n•Light Ender: Deals {[DamageTable.1H_Sword_Attack1_Ender.DmgCoef * 100]}% Slash damage.\n•Heavy Attack: Deals {[DamageTable.1H_Sword_Attack2.DmgCoef * 100]}% Thrust damage.\n•Charged Heavy: Deals {[DamageTable.1H_Sword_Attack2_Charged.DmgCoef * 100]}% Thrust damage.</string>
 	<string key="SwordA_GroupName">Straight Sword</string>
 	<string key="SwordB_GroupDesc">A speed oriented melee weapon with a variety of quick lunge attacks. Excels at precise timing and outmaneuvering opponents while applying bleeds that gradually drain the target’s health.\n\n•Light Attack: Deals {[DamageTable.1H_Rapier_PrimaryAttack.DmgCoef * 100]}% Thrust damage.\n•Light Middle Swipes: Deals {[DamageTable.1H_Rapier_PrimaryTwoThirdsAttack.DmgCoef * 100]}% Thrust damage.\n•Heavy Attack: Deals {[DamageTable.1H_Rapier_HeavyAttack.DmgCoef * 100]}% Thrust damage.</string>
 	<string key="SwordB_GroupName">Rapier</string>
@@ -1789,7 +1815,6 @@
 	<string key="wood_GroupName">Woods</string>
 	<string key="WoodAny_CategoryName">Any Wood</string>
 	<string key="WorkOrder_GroupName">Work Orders</string>
-	<string key="CategoryData_CookingRecipes">Cooking Recipes</string>
 	<string key="Pattern">Patterns</string>
 	<string key="PatternRecipes">Pattern Recipes</string>
 	<string key="Lodestone">Lodestone</string>
@@ -1805,8 +1830,24 @@
 	<string key="TimelessShardsCon">Timeless Shards - Constitution</string>
 	<string key="ArmorShadow_GroupName">Shadewalker</string>
 	<string key="ArmorBeast_GroupName">Beasthunter</string>
-	<string key="CategoryData_EventConsumables" rel_version="Feature_RabbitSeasonPerm">Event Consumables</string>
+	<string key="CategoryData_EventConsumables">Event Consumables</string>
 	<string key="ConsumableLuck_GroupName" rel_version="Feature_RabbitSeasonPerm">Luck Consumables</string>
+	<string key="CategoryData_DyeIngredients" rel_version="Feature_RabbitSeasonPerm">Dye Ingredients</string>
 	<string key="Blunderbuss_GroupName">Blunderbusses</string>
+	<string key="PerfectSalvageArmor_Name">Armor Scraps</string>
+	<string key="PerfectSalvageWeapons_Name">Weapon Scraps</string>
+	<string key="PerfectSalvageJewelry_Name">Jewerly Scraps</string>
+	<string key="PerfectSalvageEngineer_Name">Engineering Scraps</string>
+	<string key="PerfectSalvageArcane_Name">Arcane Scraps</string>
+	<string key="SalvageTier2_Name">Tier II Scraps</string>
+	<string key="SalvageTier3_Name">Tier III Scraps</string>
+	<string key="SalvageTier4_Name">Tier IV Scraps</string>
+	<string key="SalvageTier5_Name">Tier V Scraps</string>
+	<string key="Salvage">Salvage Scraps</string>
+	<string key="SalvageExtract">Extract</string>
+	<string key="SalvageCreate">Create</string>
+	<string key="SalvageResearch">Research</string>
+	<string key="SalvageCondense">Condense</string>
+	<string key="AlchemyCritters_GroupName">Alchemy Critters</string>
 </resources>
 

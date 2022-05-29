@@ -210,5 +210,41 @@
 	<string key="emote_RightBackAtYa" rel_version="Emote_BackAtYa">{playerName} points his fingers to mimic two guns shooting.</string>
 	<string key="emote_RightBackAtYa_SHE" rel_version="Emote_BackAtYa">{playerName} points her fingers to mimic two guns shooting.</string>
 	<string key="emote_RightBackAtYa_THEY" rel_version="Emote_BackAtYa">{playerName} points their fingers to mimic two guns shooting.</string>
+	<string key="ui_emote_Ballerina_name" rel_version="Emote_Ballerina">Ballerina</string>
+	<string key="ui_emote_Ballerina_description" rel_version="Emote_Ballerina">"Dazzle like a diva, showcasing your refined poise and grace."</string>
+	<string key="emote_Ballerina" rel_version="Emote_Ballerina">{playerName} dances like a Prima Ballerina.</string>
+	<string key="ui_emote_BreakItUp_name" rel_version="Emote_BreakItUp">Break It Up</string>
+	<string key="ui_emote_BreakItUp_description" rel_version="Emote_BreakItUp">"Alright, knock it off!"</string>
+	<string key="emote_BreakItUp" rel_version="Emote_BreakItUp">{playerName} tries to end the altercation.</string>
+	<string key="ui_emote_Frustrated_name" rel_version="Emote_Frustrated">Frustrated</string>
+	<string key="ui_emote_Frustrated_description" rel_version="Emote_Frustrated">"Sometimes things do not go your way."</string>
+	<string key="emote_Frustrated" rel_version="Emote_Frustrated">{playerName} gets frustrated.</string>
+	<string key="ui_emote_ImmatureTaunt_name" rel_version="Emote_ImmatureTaunt">Childish Taunt</string>
+	<string key="ui_emote_ImmatureTaunt_description" rel_version="Emote_ImmatureTaunt">"When words fail us, more basic gestures can work."</string>
+	<string key="emote_ImmatureTaunt" rel_version="Emote_ImmatureTaunt">{playerName} says na-na-na-na-na.</string>
+	<string key="ui_emote_MimeInBox_name" rel_version="Emote_MimeInBox">Mime in a Box</string>
+	<string key="ui_emote_MimeInBox_description" rel_version="Emote_MimeInBox">"Most reputable scholars believe they belong there."</string>
+	<string key="emote_MimeInBox" rel_version="Emote_MimeInBox">{playerName} is quite obviously trapped in a box.</string>
+	<string key="ui_emote_Pondering_name" rel_version="Emote_Pondering">Ponder</string>
+	<string key="ui_emote_Pondering_description" rel_version="Emote_Pondering">"Imagine the many mysteries you could solve with a bit of thoughtful contemplation."</string>
+	<string key="emote_Pondering" rel_version="Emote_Pondering">{playerName} ponders thoughtfully.</string>
+	<string key="ui_emote_PutUpDukes_name" rel_version="Emote_PutUpDukes">Put Up Your Dukes</string>
+	<string key="ui_emote_PutUpDukes_description" rel_version="Emote_PutUpDukes">"We'll settle this the civilized way, with organized pummeling."</string>
+	<string key="emote_PutUpDukes" rel_version="Emote_PutUpDukes">{playerName} challenges you to put up your fists.</string>
+	<string key="ui_emote_Umpire_name" rel_version="Emote_Umpire">Umpire</string>
+	<string key="ui_emote_Umpire_description" rel_version="Emote_Umpire">"Someone has to make a ruling."</string>
+	<string key="emote_Umpire" rel_version="Emote_Umpire">{playerName} says you're out of here!</string>
+	<string key="ui_emote_TalkToHand_name" rel_version="Emote_TalkToHand">Talk To The Hand</string>
+	<string key="ui_emote_TalkToHand_description" rel_version="Emote_TalkToHand">"Trust me, it's all ears."</string>
+	<string key="emote_TalkToHand" rel_version="Emote_TalkToHand">{playerName} makes you talk to the hand.</string>
+	<string key="ui_emote_Plotting_name" rel_version="Emote_Plotting">Plotting</string>
+	<string key="ui_emote_RobotDance_name" rel_version="Emote_RobotDance">The Automaton</string>
+	<string key="ui_emote_Plotting_description" rel_version="Emote_Plotting">"Be deeply suspicious of one plotting with clearly evil intent."</string>
+	<string key="ui_emote_RobotDance_description" rel_version="Emote_RobotDance">"Is some new possession spreading through Aeternum? One that produces these strange, mechanical movements?"</string>
+	<string key="emote_Plotting" rel_version="Emote_Plotting">{playerName} plots something sinister.</string>
+	<string key="emote_RobotDance" rel_version="Emote_RobotDance">{playerName} does a mechanical dance.</string>
+	<string key="ui_emote_FingerGun_name" rel_version="Emote_FingerGuns">Finger Guns</string>
+	<string key="ui_emote_FingerGun_description" rel_version="Emote_FingerGuns">"Hit them with your best shot."</string>
+	<string key="emote_FingerGun" rel_version="Emote_FingerGuns">{playerName} shoots their fingers like guns.</string>
 </resources>
 

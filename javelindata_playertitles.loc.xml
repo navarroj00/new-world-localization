@@ -3,6 +3,46 @@
 	<string key="ui_playertitle_special_TurkeyTerror_SHE">Wattle Warrior</string>
 	<string key="ui_playertitle_special_TurkeyTerror_THEY">Wattle Warrior</string>
 	<string key="ui_playertitle_TurkeyTerror_description">You have bested the monstrous turkey plaguing the land! You are the WATTLE WARRIOR!</string>
+	<string key="ui_playertitle_pvparenawins_250">Arena Fodder</string>
+	<string key="ui_playertitle_pvparenawins_250_SHE">Arena Fodder</string>
+	<string key="ui_playertitle_pvparenawins_250_THEY">Arena Fodder</string>
+	<string key="ui_playertitle_pvparenawins_250_description">Earned by winning 250 Arena matches.</string>
+	<string key="ui_playertitle_pvparenawins_500">Gladiator</string>
+	<string key="ui_playertitle_pvparenawins_500_SHE">Gladiator</string>
+	<string key="ui_playertitle_pvparenawins_500_THEY">Gladiator</string>
+	<string key="ui_playertitle_pvparenawins_500_description">Earned by winning 500 Arena matches.</string>
+	<string key="ui_playertitle_pvparenawins_1000">Arena Master</string>
+	<string key="ui_playertitle_pvparenawins_1000_SHE">Arena Master</string>
+	<string key="ui_playertitle_pvparenawins_1000_THEY">Arena Master</string>
+	<string key="ui_playertitle_pvparenawins_1000_description">Earned by winning 1000 Arena matches.</string>
+	<string key="ui_playertitle_pvparenawins_Flawless">Immortal Warrior</string>
+	<string key="ui_playertitle_pvparenawins_Flawless_SHE">Immortal Warrior</string>
+	<string key="ui_playertitle_pvparenawins_Flawless_THEY">Immortal Warrior</string>
+	<string key="ui_playertitle_pvparenawins_Flawless_description">Earned by winning an arena match without anybody on your team dying.</string>
+	<string key="ui_playertitle_pvp_rank_1" rel_version="PvP_Rewards_Track">PvP Scoundrel</string>
+	<string key="ui_playertitle_pvp_rank_2" rel_version="PvP_Rewards_Track">PvP Hellion</string>
+	<string key="ui_playertitle_pvp_rank_3" rel_version="PvP_Rewards_Track">PvP Beast</string>
+	<string key="ui_playertitle_pvp_rank_4" rel_version="PvP_Rewards_Track">PvP Maestro</string>
+	<string key="ui_playertitle_pvp_rank_5" rel_version="PvP_Rewards_Track">PvP Legend</string>
+	<string key="ui_playertitle_pvp_rank_6" rel_version="PvP_Rewards_Track">PvP Deity</string>
+	<string key="ui_playertitle_pvp_rank_1_SHE" rel_version="PvP_Rewards_Track">PvP Scoundrel</string>
+	<string key="ui_playertitle_pvp_rank_2_SHE" rel_version="PvP_Rewards_Track">PvP Hellion</string>
+	<string key="ui_playertitle_pvp_rank_3_SHE" rel_version="PvP_Rewards_Track">PvP Beast</string>
+	<string key="ui_playertitle_pvp_rank_4_SHE" rel_version="PvP_Rewards_Track">PvP Maestra</string>
+	<string key="ui_playertitle_pvp_rank_5_SHE" rel_version="PvP_Rewards_Track">PvP Legend</string>
+	<string key="ui_playertitle_pvp_rank_6_SHE" rel_version="PvP_Rewards_Track">PvP Deity</string>
+	<string key="ui_playertitle_pvp_rank_1_THEY" rel_version="PvP_Rewards_Track">PvP Scoundrel</string>
+	<string key="ui_playertitle_pvp_rank_2_THEY" rel_version="PvP_Rewards_Track">PvP Hellion</string>
+	<string key="ui_playertitle_pvp_rank_3_THEY" rel_version="PvP_Rewards_Track">PvP Beast</string>
+	<string key="ui_playertitle_pvp_rank_4_THEY" rel_version="PvP_Rewards_Track">PvP Maestro</string>
+	<string key="ui_playertitle_pvp_rank_5_THEY" rel_version="PvP_Rewards_Track">PvP Legend</string>
+	<string key="ui_playertitle_pvp_rank_6_THEY" rel_version="PvP_Rewards_Track">PvP Deity</string>
+	<string key="ui_playertitle_pvp_rank_1_description" rel_version="PvP_Rewards_Track">Reach the Steel PvP Rank milestone</string>
+	<string key="ui_playertitle_pvp_rank_2_description" rel_version="PvP_Rewards_Track">Reach the Bronze PvP Rank milestone</string>
+	<string key="ui_playertitle_pvp_rank_3_description" rel_version="PvP_Rewards_Track">Reach the Silver PvP Rank milestone</string>
+	<string key="ui_playertitle_pvp_rank_4_description" rel_version="PvP_Rewards_Track">Reach the Gold PvP Rank milestone</string>
+	<string key="ui_playertitle_pvp_rank_5_description" rel_version="PvP_Rewards_Track">Reach the Platinum PvP Rank milestone</string>
+	<string key="ui_playertitle_pvp_rank_6_description" rel_version="PvP_Rewards_Track">Reach the Starmetal PvP Rank milestone</string>
 	<string key="ui_playertitle_placeholder">ERROR: PLACEHOLDER</string>
 	<string key="ui_playertitle_select">Select Title</string>
 	<string key="ui_playertitle_current">Currently Selected:</string>

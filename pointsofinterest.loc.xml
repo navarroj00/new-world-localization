@@ -987,10 +987,10 @@
 	<string key="ui_poi_crater_settlement_description">Landmark</string>
 	<string key="ui_poi_crater_spite_50326_description">They did not ask the land if it suffered, and yet the land found a way to makes its suffering known.</string>
 	<string key="ui_poi_crater_spite_description">Landmark</string>
-	<string key="ui_poi_crater_spriggan_50322_description">Arena\n\nBeyond even a glance of civilization, nestled here in the crucible of life, Zygoramet waited.</string>
-	<string key="ui_poi_crater_spriggan_50409_description">Arena\n\nBeyond even a glance of civilization, nestled here in the crucible of life, Zygoramet waited.</string>
-	<string key="ui_poi_crater_spriggan_50323_description">Arena\n\nBeyond even a glance of civilization, nestled here in the crucible of life, Zygoramet waited.</string>
-	<string key="ui_poi_crater_spriggan_description">Arena\n\nBeyond even a glance of civilization, nestled here in the crucible of life, Zygoramet waited.</string>
+	<string key="ui_poi_crater_spriggan_50322_description">Trial\n\nBeyond even a glance of civilization, nestled here in the crucible of life, Zygoramet waited.</string>
+	<string key="ui_poi_crater_spriggan_50409_description">Trial\n\nBeyond even a glance of civilization, nestled here in the crucible of life, Zygoramet waited.</string>
+	<string key="ui_poi_crater_spriggan_50323_description">Trial\n\nBeyond even a glance of civilization, nestled here in the crucible of life, Zygoramet waited.</string>
+	<string key="ui_poi_crater_spriggan_description">Trial\n\nBeyond even a glance of civilization, nestled here in the crucible of life, Zygoramet waited.</string>
 	<string key="ui_poi_crater_stronghold_description">Landmark</string>
 	<string key="ui_poi_covenant_outpost_40276_description">The ranks of the Covenant's outreach efforts seem to grow thinner day by day...</string>
 	<string key="ui_poi_cutthroatcavern_60203_description">The loyalty of a pirate crew dries quick, when marching too far from salt and sea.</string>
@@ -1518,9 +1518,9 @@
 	<string key="ui_poi_fish_hotspot_secret">Secret Fishing Hotspot</string>
 	<string key="ui_poi_fish_hotspot_secret_description">Extraordinary things lurk in Aeternian waters.</string>
 	<string key="ui_poi_arena_siren">Spire of Melpomene</string>
-	<string key="ui_poi_arena_siren_description">Arena\n\nYou've climbed so far, only to be thrown back down.</string>
+	<string key="ui_poi_arena_siren_description">Trial\n\nYou've climbed so far, only to be thrown back down.</string>
 	<string key="ui_poi_arena_swamp">The Eternal Pool</string>
-	<string key="ui_poi_arena_swamp_description">Arena\n\nIn the heart of Reekwater, there Avarice feeds above the terminus of the Eternal Pool.</string>
+	<string key="ui_poi_arena_swamp_description">Trial\n\nIn the heart of Reekwater, there Avarice feeds above the terminus of the Eternal Pool.</string>
 	<string key="ui_poi_amrine_dungeon">The Amrine Excavation</string>
 	<string key="ui_poi_amrine_dungeon_description">Expedition\n\nWhy dig deeper, they asked him again and again. He never offered an answer.</string>
 	<string key="ui_poi_pirate_shipwreck_30226">Stormcourt Shipment</string>
@@ -1751,6 +1751,12 @@
 	<string key="ui_poi_factionarea_30146">East Werna Beach</string>
 	<string key="ui_poi_factionarea_30147">Key to Werna</string>
 	<string key="ui_poi_factionarea_30148">Devil's Sea Arch</string>
+	<string key="ui_poi_camp_40174" rel_version="AI_Evil_Knights_P2">Sorcerer's Delve</string>
+	<string key="ui_poi_camp_40174_description" rel_version="AI_Evil_Knights_P2">Unraveling the secrets of the Ancients is a task most perilous, even for the wisest of wizards…</string>
+	<string key="ui_poi_cave_40042" rel_version="AI_Evil_Knights_P2">Knight's Hideaway</string>
+	<string key="ui_poi_cave_40042_description" rel_version="AI_Evil_Knights_P2">A cavern of secrets and feuds where honor demands blood.</string>
+	<string key="ui_poi_keep_40287" rel_version="AI_Evil_Knights_P2">Riverside Keep</string>
+	<string key="ui_poi_keep_40287_description" rel_version="AI_Evil_Knights_P2">A grim fortress rises, a sentinel hungry for conquest.</string>
 	<string key="ui_poi_stinky_50251" rel_version="Feature_RewardingExploration">Stinky's Shack</string>
 	<string key="ui_poi_stinky_50251_description" rel_version="Feature_RewardingExploration">Abandoned by his friends, the Huntsman begins a new life.</string>
 	<string key="ui_poi_dynasty_harborage_20209" rel_version="Quest_MSQ_Update_4">Dynasty Harborage</string>

@@ -88,7 +88,7 @@
 	<string key="tip_overworld_combat_lifeStaff01-title">The Life Staff</string>
 	<string key="tip_overworld_combat_lifeStaff01-content">If there are no allies around, you can always use Orb of Protection at your feet to Buff yourself.</string>
 	<string key="tip_overworld_combat_lifeStaff02-title">The Life Staff</string>
-	<string key="tip_overworld_combat_lifeStaff02-content">If you want to use a Life Staff ability on yourself, press [{hint1}] + the ability key. </string>
+	<string key="tip_overworld_combat_lifeStaff02-content">If you want to use a Life Staff ability on yourself, press [{hint1}] + the ability key.</string>
 	<string key="tip_overworld_combat_iceGaunlet01-title">The Ice Gauntlet</string>
 	<string key="tip_overworld_combat_iceGaunlet01-content">The Ice Gauntlet is excellent at hindering enemy progression. Use the Slowing Effects to gain better positioning or give teammates an opening to do more damage.</string>
 	<string key="tip_overworld_combat_voidGaunlet01-title">The Void Gauntlet</string>
@@ -123,7 +123,7 @@
 	<string key="tip_overworld_crafting_azoth01-content">The top-end of the potential Gear Score range for a crafted item increases as your Trade Skill increases. This allows you to add more Azoth to improve your crafting.</string>
 	<string key="tip_overworld_darkness_events01-title">Darkness</string>
 	<string key="tip_overworld_darkness_events01-content">[Placeholder]</string>
-	<string key="tip_overworld_death_respawning01-title">Team Work Makes the Dream Work</string>
+	<string key="tip_overworld_death_respawning01-title">Teamwork Makes the Dream Work</string>
 	<string key="tip_overworld_death_respawning01-content">Chat can be accessed at the Respawn screen by pressing [{hint1}]. Check in with your team and see where you are needed most.</string>
 	<string key="tip_overworld_death_durability01-title">A Dull Blade is More Dangerous</string>
 	<string key="tip_overworld_death_durability01-content">Items take damage any time you die. Remember to Repair them before returning to the fight. Nothing is worse than a sword that breaks mid-swing.</string>
@@ -171,8 +171,6 @@
 	<string key="tip_overworld_factions_pvpMissions01-content">Some PVP Missions will be Reset if you die while they're in progress. Turn in finished PVP Missions as soon as you can to guarantee Rewards for you and your Faction!</string>
 	<string key="tip_overworld_factions_pveMissions01-title">Faction Reputation</string>
 	<string key="tip_overworld_factions_pveMissions01-content">Complete PVE Missions to increase your Faction Reputation, increase your XP, and earn access to better Faction Gear.</string>
-	<string key="tip_overworld_factions_storage01-title">Faction Benefit</string>
-	<string key="tip_overworld_factions_storage01-content">If your Faction is controlling 2 Territories, you can Transfer items from one Territory's Storage to another with a small fee.</string>
 	<string key="tip_overworld_factions_currency01-title">Faction Equipment</string>
 	<string key="tip_overworld_factions_currency01-content">Faction Representatives sell reliable Armor and Weapons. Consider purchasing some if you're looking for something specific.</string>
 	<string key="tip_overworld_factions_huntMissions01-title">Hunters Hunt</string>
@@ -194,7 +192,7 @@
 	<string key="tip_overworld_fishing_hotspots03-title">Fishing</string>
 	<string key="tip_overworld_fishing_hotspots03-content">No bites? If you're having trouble catching fish, then try finding some water. Fish don't live on land.</string>
 	<string key="tip_overworld_fishing_hotspots04-title">Fishing</string>
-	<string key="tip_overworld_fishing_hotspots04-content">Hotspots come in three categories: Broad, Rare, and Secret. Secret Hotspots offer the chance to catch the rarest fish, but they deplete the quickest. </string>
+	<string key="tip_overworld_fishing_hotspots04-content">Hotspots come in three categories: Broad, Rare, and Secret. Secret Hotspots offer the chance to catch the rarest fish, but they deplete the quickest.</string>
 	<string key="tip_overworld_fishing_hotspots05-title">Fishing</string>
 	<string key="tip_overworld_fishing_hotspots05-content">As your Fishing Level rises, more Hotspots become available for discovery.</string>
 	<string key="tip_overworld_fishing_hotspots06-title">Fishing</string>
@@ -310,15 +308,23 @@
 	<string key="tip_overworld_movement_lore01-title">Lore Pages</string>
 	<string key="tip_overworld_movement_lore01-content">Feed your head! Reading Lore Pages on Aeternum awards XP!</string>
 	<string key="tip_overworld_pings_contextualPings01-title">Contextual Pings</string>
-	<string key="tip_overworld_pings_contextualPings01-content">Quick pings [{hint1}] are contextual. Placing one in the environment, PVP enemies, or loot, will ping "Moving Here", "Danger Here", and "Loot Here". </string>
+	<string key="tip_overworld_pings_contextualPings01-content">Quick pings [{hint1}] are contextual. Placing one in the environment, PVP enemies, or loot, will ping "Moving Here", "Danger Here", and "Loot Here".</string>
 	<string key="tip_overworld_pings_pingWheel01-title">Ping Wheel</string>
 	<string key="tip_overworld_pings_pingWheel01-content">Hold [{hint1}] to open the Ping Wheel for more ping types.</string>
 	<string key="tip_overworld_pings_targetMarking01-title">Target Marking</string>
 	<string key="tip_overworld_pings_targetMarking01-content">You can mark NPC targets by pressing [{hint1}] while they are under your reticle.</string>
 	<string key="tip_overworld_pings_pingOnMapPings01-title">Pings</string>
 	<string key="tip_overworld_pings_pingOnMapPings01-content">Did you know you can ping directly on your map? Try setting a ping [{hint1}] on your map. You can even use the ping wheel by holding [{hint2}].</string>
+	<string key="tip_overworld_pvpRewardsTrack_general01-title" rel_version="PvP_Rewards_Track">PvP Rewards Track</string>
+	<string key="tip_overworld_pvpRewardsTrack_general01-content" rel_version="PvP_Rewards_Track">The player who commits the killing blow will be awarded PvP XP and Azoth Salt.</string>
+	<string key="tip_overworld_pvpRewardsTrack_general02-title" rel_version="PvP_Rewards_Track">PvP Rewards Track</string>
+	<string key="tip_overworld_pvpRewardsTrack_general02-content" rel_version="PvP_Rewards_Track">A PvP victim must have been flagged for at least 10 minutes to be worth anything to kill. This scales up the longer they are flagged.</string>
+	<string key="tip_overworld_pvpRewardsTrack_general03-title" rel_version="PvP_Rewards_Track">PvP Rewards Track</string>
+	<string key="tip_overworld_pvpRewardsTrack_general03-content" rel_version="PvP_Rewards_Track">PvP XP and Azoth Salt are awarded for overall performance in Outpost Rush or War; not per kill.</string>
+	<string key="tip_overworld_pvpRewardsTrack_general04-title" rel_version="PvP_Rewards_Track">PvP Rewards Track</string>
+	<string key="tip_overworld_pvpRewardsTrack_general04-content" rel_version="PvP_Rewards_Track">Earning XP while flagged will reward Azoth Salt at set intervals.</string>
 	<string key="tip_overworld_quests_quests01-title">New Quests</string>
-	<string key="tip_overworld_quests_quests01-content">Revisit your Map regularly to discover if any new Quests have become available. </string>
+	<string key="tip_overworld_quests_quests01-content">Revisit your Map regularly to discover if any new Quests have become available.</string>
 	<string key="tip_overworld_quests_quests02-title">Quests and Travel</string>
 	<string key="tip_overworld_quests_quests02-content">Always check before heading out to a distant location to see if any Spirit Shrines can hasten your journey.</string>
 	<string key="tip_overworld_quests_quests03-title">Main Story Quests</string>
@@ -443,6 +449,18 @@
 	<string key="tip_outpostRush_general03-content">Use summoning stones to summon powerful allies at summoning circles. Summon a bear by buying a stone from the armory or gain an ultra-powerful brute ally by donating Azoth at the corrupted portal.</string>
 	<string key="tip_outpostRush_general04-title">Outpost Rush</string>
 	<string key="tip_outpostRush_general04-content">Baroness Hain is the ghost of a long dead noble that haunts the island. Slay her to gain a powerful buff that increases the defense of your team and freezes the enemy score!</string>
+	<string key="tip_pvpArena_general01-title" rel_version="Feature_PVP_Arenas">Through the Fire and Flames</string>
+	<string key="tip_pvpArena_general01-content" rel_version="Feature_PVP_Arenas">Each round lasts for 2 minutes. After the timer ticks down, a deadly ring of fire encircles the arena and begins to shrink.</string>
+	<string key="tip_pvpArena_general02-title" rel_version="Feature_PVP_Arenas">If you aren’t first, you’re last</string>
+	<string key="tip_pvpArena_general02-content" rel_version="Feature_PVP_Arenas">The first team to win 3 rounds will win the match and claim victory!</string>
+	<string key="tip_pvpArena_general03-title" rel_version="Feature_PVP_Arenas">Cheerleading to Victory</string>
+	<string key="tip_pvpArena_general03-content" rel_version="Feature_PVP_Arenas">If you’re killed, you can continue to cheer your team on from the viewing box.</string>
+	<string key="tip_pvpArena_general04-title" rel_version="Feature_PVP_Arenas">Healers Beware</string>
+	<string key="tip_pvpArena_general04-content" rel_version="Feature_PVP_Arenas">The longer a round lasts, the less effective incoming healing becomes.</string>
+	<string key="tip_pvpArena_general05-title" rel_version="Feature_PVP_Arenas">The Deadliest Game</string>
+	<string key="tip_pvpArena_general05-content" rel_version="Feature_PVP_Arenas">Get out there and put on a show for the crowd! The announcer is sure to have them prepared for the fight.</string>
+	<string key="tip_pvpArena_general06-title" rel_version="Feature_PVP_Arenas">Riches and Glory</string>
+	<string key="tip_pvpArena_general06-content" rel_version="Feature_PVP_Arenas">Arena wins are a great way to earn PvP Reward Track experience.</string>
 	<string key="tip_warInvasionGeneral_general01-title">Shout Pings</string>
 	<string key="tip_warInvasionGeneral_general01-content">War leaders can hold [{hint1}] while placing a ping to make the ping visible to the entire Army.</string>
 	<string key="tip_war_specific01-title">War</string>

@@ -96,6 +96,16 @@
 	<string key="owg_factionwarinfo_title_4_desc_1_bullet_1">Turn your PvP flag on (default key U) from any Sanctuary, such as a Settlement or Outpost.</string>
 	<string key="owg_factionwarinfo_title_4_desc_1_bullet_2">Upon leaving a Settlement, you receive a &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;30 second timer&lt;/font&gt; before becoming flagged. Once the timer expires, you are free to engage flagged members of the opposing Factions</string>
 	<string key="owg_factionwarinfo_title_4_desc_1_bullet_3">Turning on your PvP flag grants &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;an XP Bonus&lt;/font&gt; and allows you to participate in PvP missions, control Territory Forts, and battle other players.</string>
+	<string key="owg_factionwarinfo_title_4_desc_1_bullet_4" rel_version="PvP_Rewards_Track">Completing PVP activities will progress your PvP Reward Track.</string>
+	<string key="owg_factionwarinfo_title_4_desc_1_bullet_5" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Azoth Salt will be awarded&lt;/font&gt; when PvP kills happen outside of modes.</string>
+	<string key="owg_factionwarinfo_title_5" rel_version="PvP_Rewards_Track">PVP REWARD TRACK</string>
+	<string key="owg_factionwarinfo_title_5_desc_1_bullet_1" rel_version="PvP_Rewards_Track">The PvP Reward Track contains PvP-specific rewards for doing PvP activities in the game. The track can be completed and run again to get a different selection of rewards, with more prestigious rewards becoming available as more tracks are completed.</string>
+	<string key="owg_factionwarinfo_title_5_desc_2" rel_version="PvP_Rewards_Track">PVP XP</string>
+	<string key="owg_factionwarinfo_title_5_desc_2_bullet_1" rel_version="PvP_Rewards_Track">Progress your track by engaging in PvP Missions, War, Outpost Rush, Capturing Forts, Defeating other players, 3v3 Arenas and earning XP while flagged.</string>
+	<string key="owg_factionwarinfo_title_5_desc_3" rel_version="PvP_Rewards_Track">AZOTH SALT</string>
+	<string key="owg_factionwarinfo_title_5_desc_3_bullet_1" rel_version="PvP_Rewards_Track">Azoth Salt is the currency that gets you rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, PvP open world kills, and earning XP while flagged.</string>
+	<string key="owg_factionwarinfo_title_5_desc_4" rel_version="PvP_Rewards_Track">REWARDS</string>
+	<string key="owg_factionwarinfo_title_5_desc_4_bullet_1" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
 	<string key="owg_failure_warning">Failing or abandoning this mission will result in a loss of {amount} {guildName} Tokens.</string>
 	<string key="owg_guildreputation_name">{guildName} Reputation</string>
 	<string key="owg_guildcurrency_name">{guildName} Tokens</string>
@@ -157,6 +167,8 @@
 	<string key="owg_rewardtype_azoth">&lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; Azoth</string>
 	<string key="owg_rewardtype_guildreputation">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Reputation&lt;/font&gt;</string>
 	<string key="owg_rewardtype_guildcurrency">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Tokens&lt;/font&gt;</string>
+	<string key="owg_rewardtype_pvp_xp" rel_version="PvP_Rewards_Track">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;PvP XP&lt;/font&gt;</string>
+	<string key="owg_rewardtype_azoth_salt" rel_version="PvP_Rewards_Track">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Azoth Salt&lt;/font&gt;</string>
 	<string key="owg_rewardtype_item">Item</string>
 	<string key="owg_rewardtype_standing">&lt;img src="lyshineui/images/icons/objectives/reward_territorystanding" xPadding="0" scale="2" yOffset="5"&gt;&lt;/img&gt; {amount}</string>
 	<string key="owg_rewardtype_warinfluence_low">+</string>
@@ -224,7 +236,7 @@
 	<string key="owg_pvp_acceptmission_prompt">Taking a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; will &lt;font color="#eaeaea"&gt;flag you for PvP&lt;/font&gt;.\nYou cannot toggle off your PvP Flag during this mission. To toggle it off, you must abandon the mission first.\n\nAre you sure you want to take this mission?</string>
 	<string key="owg_pvp_cannotacceptmission_title">CANNOT ACCEPT MISSION</string>
 	<string key="owg_pvp_cannotacceptmission_ingroup">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are in a PvE group which will not allow you to turn on your PvP Flag.</string>
-	<string key="owg_pvp_cannotacceptmission_pendinggroupinvite">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you have pending group invites which will not allow you to turn on your PvP Flag.</string>
+	<string key="owg_pvp_cannotacceptmission_pendinggroupinvite">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you have lobby invites which will not allow you to turn on your PvP Flag.</string>
 	<string key="owg_pvp_cannotacceptmission_nofaction">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; until you join a faction.</string>
 	<string key="owg_pvp_cannotacceptmission_nosanctuary">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; until you are in a sanctuary.</string>
 	<string key="owg_pvp_cannotacceptmission_typeblocked">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; of this type at this time.</string>

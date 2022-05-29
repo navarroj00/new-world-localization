@@ -360,6 +360,8 @@
 	<string key="LootContainer_Settlement_Tannin_DisplayName">Take Tannin</string>
 	<string key="LootContainer_Settlement_Sandpaper_DisplayName">Take Sandpaper</string>
 	<string key="LootContainer_Settlement_Water_DisplayName">Pull Well</string>
+	<string key="LootContainer_OpenStoneTomb_DisplayName">Open Sarcophagus</string>
+	<string key="LootContainer_StoneTomb_DisplayName">Steal Grave Offerings</string>
 	<string key="Item_PotionHealT1_DisplayName">Distilled Healing Tincture</string>
 	<string key="Item_ClothT2_DisplayName">Cloth Scraps</string>
 	<string key="Darkness_Monolith_DisplayName">Corrupted Monolith</string>
@@ -528,13 +530,19 @@
 	<string key="1526_1521_LynxEvidence3_DisplayName">Lynx Restraints</string>
 	<string key="1524_GoldenStash_interact">The Golden Stash</string>
 	<string key="1524_Doubloon_DisplayName">A Trail of Doubloons</string>
+	<string key="9926_0103_VKCannonA_DisplayName" rel_version="AI_Evil_Knights_P2">Rotate Cannon</string>
+	<string key="9926_0103_VKCannonB_DisplayName" rel_version="AI_Evil_Knights_P2">Fire Cannon</string>
+	<string key="9926_0103_RomacPack_DisplayName" rel_version="AI_Evil_Knights_P2">Collect Romac's Satchel</string>
+	<string key="9926_0103_ActivityReport_DisplayName" rel_version="AI_Evil_Knights_P2">Gather Activity Report</string>
+	<string key="9932_0104_RomacNotebook_DisplayName" rel_version="AI_Evil_Knights_P2">Retrieve Romac's Notebook</string>
 	<string key="MSQ_ShipsLocker_DisplayName">Ship's Locker</string>
-	<string key="MSQ_Flag_DisplayName">Ship's Flag</string>
+	<string key="MSQ_Flag_DisplayName">Collect the Ship's Flag</string>
 	<string key="MSQ_SalvagePile_A_DisplayName">Salvage Pile</string>
 	<string key="MSQ_SalvagePile_B_DisplayName">Salvage Pile</string>
 	<string key="MSQ_SalvagePile_C_DisplayName">Salvage Pile</string>
 	<string key="AzothWater_Displayname">Azoth Spring</string>
 	<string key="AzothSeal_DisplayName">Ancient Azoth Seal</string>
+	<string key="HeartforgeEncounterBattery_DisplayName">Heartforge Power Dampener</string>
 	<string key="PressurePlate_Ancient_DisplayName">Ancient Azoth Glyph</string>
 	<string key="AncientArtifactLocked">Ancient Artifact</string>
 	<string key="MSQ_OldStoneRemembers_Interact">Ancient Language Inscriptions</string>
@@ -587,6 +595,7 @@
 	<string key="PVP_0001_DeadDropGiveItem_DisplayName">Access Contents</string>
 	<string key="PVP_0002_DeadDropTakeItem_DisplayName">Access Contents</string>
 	<string key="SliceSwap_EmptyString" xsi:nil="true"/>
+	<string key="RescueHostage_DisplayName">Rescue Hostage</string>
 	<string key="dungeon_reekwater_interact_azoth_pool">Purified Azoth Pool</string>
 	<string key="dungeon_reekwater_interact_teleporter">Teleport</string>
 	<string key="dungeon_reekwater_interact_gate">Enter</string>
@@ -686,6 +695,7 @@
 	<string key="0726_BookOfIsabella_DisplayName">Book of Isabella</string>
 	<string key="1130_CursedAxe_DisplayName">Begin the Ritual</string>
 	<string key="0726_Gravestone_interact" rel_version="DEPRECATED_January_2022">Inspect Crewman's Grave</string>
+	<string key="EvilKnights_Camp_StoneDoor" rel_version="AI_Evil_Knights_P2">Activate Gate</string>
 	<string key="Dynasty_Gong_DisplayName">Dynasty Gong</string>
 	<string key="ExploreVista_EastCleave01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
 	<string key="ExploreVista_EastCutlass01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
@@ -715,11 +725,12 @@
 	<string key="ExploreVista_WestEverfall01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
 	<string key="ExploreVista_WestMourningdale01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
 	<string key="ExploreVista_WestCutlass01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
-	<string key="LuckShrine_MothersLove">Mother's Love</string>
 	<string key="GoldPile00_DisplayName" rel_version="Feature_Unbound_Island">Supply Cache</string>
 	<string key="0601_0101_weapon_01_hatchet_DisplayName">Choose the Battleworn Hatchet</string>
 	<string key="0601_0101_weapon_02_warhammer_DisplayName">Choose the Battleworn Warhammer</string>
 	<string key="0601_0101_weapon_03_bow_DisplayName">Choose the Battleworn Bow</string>
 	<string key="0601_0101_weapon_04_firestaff_DisplayName">Choose the Battleworn Firestaff</string>
+	<string key="Gimmick_FallingRubble_DisplayName">Rock Trap</string>
+	<string key="Holdout_Interact_DisplayName">Start Holdout</string>
 </resources>
 

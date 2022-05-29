@@ -202,7 +202,8 @@
 	<string key="ui_leaveguild">Leave Company</string>
 	<string key="ui_leaveguild_confirm">Are you sure you want to leave the Company?</string>
 	<string key="ui_leaveguild_governor_confirm">Are you sure you want to leave the Company?\n\nAnother member will be promoted to Governor when you leave, and any holdings the company has will remain with the company under the new governor.</string>
-	<string key="ui_leaveguild_alone_confirm">Are you sure you want to leave the Company?\n\nYou are the only member and when you leave, any holdings the company has will be lost.</string>
+	<string key="ui_leaveguild_alone_confirm">You are the only member of this Company and when you leave, any holdings the Company has will be lost and the Company Wallet will be added to your wallet.</string>
+	<string key="ui_leaveguild_alone_walletwarning">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Collecting the Company Wallet will put you over the Coin Cap. If you dissolve the Company now, any excess Coin will be lost.&lt;/font&gt;</string>
 	<string key="ui_leftguildmessage">Left the Company.</string>
 	<string key="ui_modifycrest">Edit Crest</string>
 	<string key="ui_guildcrestsaved">New Crest Saved</string>
@@ -347,11 +348,11 @@
 	<string key="ui_wardeclarationpopup_item_siege_supply_rate">Siege Supply Rate</string>
 	<string key="ui_wardeclaration_requirements_format">{territoryText}\n{permissionsText}\n{moneyText}</string>
 	<string key="ui_wardeclaration_pending_notification_title">War Declaration Pending</string>
-	<string key="ui_wardeclaration_pending_notification_text">Your war declaration is pending!\nYou will be notified shortly if it was successful or not.</string>
+	<string key="ui_wardeclaration_pending_notification_text">Your War Declaration is pending!\nYou will be notified shortly if it was successful or not.</string>
 	<string key="ui_wardeclaration_unsuccessful_notification_title">War Declaration Unsuccessful</string>
-	<string key="ui_wardeclaration_unsuccessful_notification_text">Another company's war declaration was selected. Your coin has been refunded to the Company Wallet.</string>
+	<string key="ui_wardeclaration_unsuccessful_notification_text">Another company's War Declaration was selected. Your coin has been refunded to the Company Wallet.</string>
 	<string key="ui_wardeclaration_successful_notification_title">War Declaration Accepted</string>
-	<string key="ui_wardeclaration_successful_notification_text">Your upcoming war is scheduled. Head to the territory's war board to sign up and manage your army.</string>
+	<string key="ui_wardeclaration_successful_notification_text">Your upcoming War is scheduled. Head to the Territory's War Board to sign up and manage your army.</string>
 	<string key="ui_territory_upkeep_due">Company Territory Taxes are due for {name}!</string>
 	<string key="ui_warframe_range_prewar">Pre-War</string>
 	<string key="ui_warframe_range_currentwar">Current War</string>
@@ -557,9 +558,13 @@
 	<string key="ui_siege_signup_abandon_title">Abandon War Registration</string>
 	<string key="ui_siege_signup_abandon_message">Are you sure you want to abandon your registration for this war?</string>
 	<string key="ui_siege_abandon_title">Abandon War</string>
-	<string key="ui_siege_abandon_message">Are you sure you want to abandon this war (any spent tokens or items will be lost)?</string>
+	<string key="ui_invasion_abandon_title">Abandon Invasion</string>
+	<string key="ui_siege_abandon_message">Are you sure you want to abandon this War (any spent tokens or items will be lost)?</string>
+	<string key="ui_invasion_abandon_message">Are you sure you want to abandon this Invasion (any spent tokens or items will be lost)?</string>
 	<string key="ui_siege_abandon_and_accept_group_title">Abandon War</string>
-	<string key="ui_siege_abandon_and_accept_group_message">Are you sure you want to abandon the war and accept this group invitation?\nYou will be teleported out of the war area and any spent tokens or items will be lost.</string>
+	<string key="ui_invasion_abandon_and_accept_group_title">Abandon Invasion</string>
+	<string key="ui_siege_abandon_and_accept_group_message">Are you sure you want to abandon the War and accept this group invitation?\nYou will be teleported out of the area and any spent tokens or items will be lost.</string>
+	<string key="ui_invasion_abandon_and_accept_group_message">Are you sure you want to abandon the Invasion and accept this group invitation?\nYou will be teleported out of the area and any spent tokens or items will be lost.</string>
 	<string key="ui_siege_set_roster_failed_not_permitted">You don't have permission to manage the army.</string>
 	<string key="ui_siege_set_roster_failed_invalid_player">Couldn't move one of the selected players, please try again.</string>
 	<string key="ui_siege_set_roster_failed_no_more_selections">No more manual selections allowed, please remove a player first.</string>

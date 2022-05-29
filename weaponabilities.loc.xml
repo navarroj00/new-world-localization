@@ -21,8 +21,8 @@
 	<string key="Con_Bonus_100_inactive" comment="ATTRIBUTE">• Increase max health by 10% of your physical armor \n• -10% reduction on durability loss for tools</string>
 	<string key="Con_Bonus_150_active" comment="ATTRIBUTE">• -10% to critical damage taken \n• -10% decrease in weight of logging items</string>
 	<string key="Con_Bonus_150_inactive" comment="ATTRIBUTE">• -10% to critical damage taken  \n• -10% decrease in weight of logging items</string>
-	<string key="Con_Bonus_200_active" comment="ATTRIBUTE">• +20% increase to armor \n• +10% Logging speed</string>
-	<string key="Con_Bonus_200_inactive" comment="ATTRIBUTE">• +20% increase to armor \n• +10% Logging speed</string>
+	<string key="Con_Bonus_200_active" comment="ATTRIBUTE">• +10% increase to physical armor \n• +10% Logging speed</string>
+	<string key="Con_Bonus_200_inactive" comment="ATTRIBUTE">• +10% increase to physical armor \n• +10% Logging speed</string>
 	<string key="Con_Bonus_250_active" comment="ATTRIBUTE">• -60% damage reduction when full health (60s cooldown)\n• +10% yield increase when logging</string>
 	<string key="Con_Bonus_250_inactive" comment="ATTRIBUTE">• -60% damage reduction when full health (60s cooldown)\n• +10% yield increase when logging</string>
 	<string key="Con_Bonus_300_active" comment="ATTRIBUTE">• +20% duration of stun, slow, and root spells \n• 25% chance to chop down a tree in a single swing</string>
@@ -49,14 +49,14 @@
 	<string key="Foc_Bonus_200_inactive" comment="ATTRIBUTE">• +20% duration on casted buffs \n• +10% fishing line tension</string>
 	<string key="Foc_Bonus_250_active" comment="ATTRIBUTE">• +30 mana on any self or group kill \n• +10% increase to caught fish size</string>
 	<string key="Foc_Bonus_250_inactive" comment="ATTRIBUTE">• +30 mana on any self or group kill \n• +10% increase to caught fish size</string>
-	<string key="Foc_Bonus_300_active" comment="ATTRIBUTE">• When your mana is at 15 or less gain 200% mana regen for 10s (60s cooldown) \n• -10% cooldown reduction for Inn fast travel</string>
-	<string key="Foc_Bonus_300_inactive" comment="ATTRIBUTE">• When your mana hits 15 or less gain 200% mana regen for 10s (60s cooldown) \n• -10% cooldown reduction for Inn fast travel</string>
+	<string key="Foc_Bonus_300_active" comment="ATTRIBUTE">• When your mana is at 15 or less gain 8 mana per second for 10s (60s cooldown) \n• -10% cooldown reduction for Inn fast travel</string>
+	<string key="Foc_Bonus_300_inactive" comment="ATTRIBUTE">• When your mana is at 15 or less gain 8 mana per second for 10s (60s cooldown) \n• -10% cooldown reduction for Inn fast travel</string>
 	<string key="Str_Bonus_50_active" comment="ATTRIBUTE">• +5% damage to melee weapon light attacks \n• +10% mining speed</string>
 	<string key="Str_Bonus_50_inactive" comment="ATTRIBUTE">• +5% damage to melee weapon light attacks \n• +10% mining speed</string>
 	<string key="Str_Bonus_100_active" comment="ATTRIBUTE">• +10% damage to melee weapon heavy attacks\n• +20 encumbrance</string>
 	<string key="Str_Bonus_100_inactive" comment="ATTRIBUTE">• +10% damage to melee weapon heavy attacks\n• +20 encumbrance</string>
-	<string key="Str_Bonus_150_active" comment="ATTRIBUTE">• +50% stamina damage from melee weapon light and heavy attacks \n• -10% decrease in weight of mined items</string>
-	<string key="Str_Bonus_150_inactive" comment="ATTRIBUTE">• +50% stamina damage from melee weapon light and heavy attacks \n• -10% decrease in weight of mined items</string>
+	<string key="Str_Bonus_150_active" comment="ATTRIBUTE">• +25% stamina damage from melee weapon light attacks \n• -10% decrease in weight of mined items</string>
+	<string key="Str_Bonus_150_inactive" comment="ATTRIBUTE">• +25% stamina damage from melee weapon light attacks \n• -10% decrease in weight of mined items</string>
 	<string key="Str_Bonus_200_active" comment="ATTRIBUTE">• +10% damage on stunned, slowed, or rooted enemies \n• +10% mining speed</string>
 	<string key="Str_Bonus_200_inactive" comment="ATTRIBUTE">• +10% damage on stunned, slowed, or rooted enemies \n• +10% mining speed</string>
 	<string key="Str_Bonus_250_active" comment="ATTRIBUTE">• Stamina regen is faster while performing light and heavy attacks with a melee weapon \n• +10% yield increase when mining</string>
@@ -70,9 +70,9 @@
 	<string key="Upgrade_Bow_PoisonShot_DirectDmg" comment="BOW + MOD">Direct Hit</string>
 	<string key="Upgrade_Bow_PoisonShot_DirectDmg_description" comment="BOW + MOD">Direct hits against targets are more powerful and now deal {[DamageTable.Bow_PoisonShot_Upgrade.DmgCoef * 100]}% weapon damage.</string>
 	<string key="Ability_Bow_EvadeShot" comment="BOW + ACTIVE">Evade Shot</string>
-	<string key="Ability_Bow_EvadeShot_description" comment="BOW + ACTIVE">Leap back 5m and shoot an arrow dealing {[DamageTable.BowAttackJumpBack.DmgCoef * 100]}% weapon damage.</string>
+	<string key="Ability_Bow_EvadeShot_description" comment="BOW + ACTIVE">Leap back 5m and shoot an arrow dealing {[DamageTable.BowAttackJumpBack.DmgCoef * 100]}% weapon damage to your target.</string>
 	<string key="Upgrade_Bow_EvasiveKnockback_Knockback" comment="BOW + MOD">Evasive Knockback</string>
-	<string key="Upgrade_Bow_EvasiveKnockback_Knockback_description" comment="BOW + MOD">Evade Shot knocks your target back {[DamageTable.BowAttackKnockBack.ImpactDistanceY]}m.</string>
+	<string key="Upgrade_Bow_EvasiveKnockback_Knockback_description" comment="BOW + MOD">Evade Shot staggers and pushes the target back {[DamageTable.BowAttackKnockBack.ImpactDistanceY]}m.</string>
 	<string key="Upgrade_Bow_EvasiveShot_Haste" comment="BOW + MOD">Go the Distance</string>
 	<string key="Upgrade_Bow_EvasiveShot_Haste_description" comment="BOW + MOD">Evade Shot grants you a {[Type_StatusEffectData.Status_Upgrade_Bow_EvasiveShot_Haste.MoveSpeedMod * 100]}% haste for {[Type_StatusEffectData.Status_Upgrade_Bow_EvasiveShot_Haste.BaseDuration]}s. (Haste increases movement speed.)</string>
 	<string key="Ability_Bow_RainofArrows" comment="BOW + ACTIVE">Rain of Arrows</string>
@@ -102,13 +102,13 @@
 	<string key="Ultimate_Bow_Skirmish" comment="BOW + PASSIVE">Knee Shot</string>
 	<string key="Ultimate_Bow_Skirmish_description" comment="BOW + PASSIVE">Leg shots cause {[Type_StatusEffectData.Status_Ultimate_Bow_Skirmish.MoveSpeedMod * -100]}% slow for {[Type_StatusEffectData.Status_Ultimate_Bow_Skirmish.BaseDuration]}s. (Slow reduces target's movement speed.)</string>
 	<string key="Ability_Bow_RapidShot" comment="BOW + ACTIVE">Rapid Shot</string>
-	<string key="Ability_Bow_RapidShot_description" comment="BOW + ACTIVE">Shoot 3 consecutive arrows. The first two deal {[DamageTable.Bow_RapidAttack_Standard.DmgCoef * 100]}% weapon damage each. The last shot causes a knockback and deals {[DamageTable.Bow_RapidAttack_KnockBack.DmgCoef * 100]}% weapon damage.</string>
+	<string key="Ability_Bow_RapidShot_description" comment="BOW + ACTIVE">Shoot 3 consecutive arrows. The first two deal {[DamageTable.Bow_RapidAttack_Standard.DmgCoef * 100]}% weapon damage each. The last shot staggers and deals {[DamageTable.Bow_RapidAttack_KnockBack.DmgCoef * 100]}% weapon damage.</string>
 	<string key="Upgrade_Bow_RapidAccuracy_CDROnLast" comment="BOW + MOD">Rapid Accuracy</string>
 	<string key="Upgrade_Bow_RapidAccuracy_CDROnLast_description" comment="BOW + MOD">If all 3 arrows hit the same target, Rapid Shot’s cooldown is reduced by {[BowAbilityTable.Upgrade_Bow_RapidAccuracy_CDROnLast.CooldownTimer * -100]}%.</string>
 	<string key="Upgrade_Bow_RapidAccuracy_DmgOnLast" comment="BOW + MOD">Final Blow</string>
 	<string key="Upgrade_Bow_RapidAccuracy_DmgOnLast_description" comment="BOW + MOD">The third arrow of Rapid Shot deals {[BowAbilityTable.Upgrade_Bow_RapidAccuracy_DmgOnLast.BaseDamage * 100]}% extra damage.</string>
 	<string key="Ability_Bow_PenetratingShot" comment="BOW + ACTIVE">Penetrating Shot</string>
-	<string key="Ability_Bow_PenetratingShot_description" comment="BOW + ACTIVE">Shoot an arrow that deals {[DamageTable.Bow_Penetrating_Attack.DmgCoef * 100]}% weapon damage and passes through targets. This attack has a range of 100m.</string>
+	<string key="Ability_Bow_PenetratingShot_description" comment="BOW + ACTIVE">Shoot an arrow that staggers and deals {[DamageTable.Bow_Penetrating_Attack.DmgCoef * 100]}% weapon damage and passes through targets. This attack has a range of 100m.</string>
 	<string key="Upgrade_Bow_PenetratingShot_DmgPerHit" comment="BOW + MOD">Blood Soaked Arrow</string>
 	<string key="Upgrade_Bow_PenetratingShot_DmgPerHit_description" comment="BOW + MOD">Penetrating Shot deals {[DamageTable.Bow_Penetrating_AttackA1.HitRateDmgModifier * 100]}% increased damage after each hit. (Max {[DamageTable.Bow_Penetrating_AttackA1.MaxHitRateDmgMod * 100]}% damage.)</string>
 	<string key="Upgrade_Bow_PenetratingShot_DmgPerDist" comment="BOW + MOD">Deep Strike</string>
@@ -146,7 +146,7 @@
 	<string key="Upgrade_Greataxe_Charge_SwingAttack" comment="GREATAXE + MOD">Unpredictable Strike</string>
 	<string key="Upgrade_Greataxe_Charge_SwingAttack_description" comment="GREATAXE + MOD">During Charge you may press RMB to execute a swing attack, dealing {[DamageTable.GreatAxe_Engage_Swing1.DmgCoef * 100]} - {[DamageTable.GreatAxe_Engage_Swing3.DmgCoef * 100]}% weapon damage based on how far you traveled.</string>
 	<string key="Ability_Greataxe_Reap" comment="GREATAXE + ACTIVE">Reap</string>
-	<string key="Ability_Greataxe_Reap_description" comment="GREATAXE + ACTIVE">Extend your axe 5m, pulling foes to you and dealing {[DamageTable.GreatAxe_JudgementsReach.DmgCoef * 100]}% weapon damage. \n\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your great axe, this ability inflicts taunt for {[DamageTable.GreatAxe_JudgementsReach.TauntDuration]}s when it hits. (Taunt causes monsters to focus only on you.)</string>
+	<string key="Ability_Greataxe_Reap_description" comment="GREATAXE + ACTIVE">Extend your axe 5m, pulling foes to you and dealing {[DamageTable.GreatAxe_JudgementsReach.DmgCoef * 100]}% weapon damage and staggering struck foes. \n\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your great axe, this ability inflicts taunt for {[DamageTable.GreatAxe_JudgementsReach.TauntDuration]}s when it hits. (Taunt causes monsters to focus only on you.)</string>
 	<string key="Upgrade_Greataxe_Reap_RngInc" comment="GREATAXE + MOD">The Collector</string>
 	<string key="Upgrade_Greataxe_Reap_RngInc_description" comment="GREATAXE + MOD">Reap range is now 8m.</string>
 	<string key="Upgrade_Greataxe_Reap_Lifesteal" comment="GREATAXE + MOD">Hunger</string>
@@ -178,23 +178,23 @@
 	<string key="Ultimate_Greataxe_Reaper" comment="GREATAXE + PASSIVE">Blood Lust</string>
 	<string key="Ultimate_Greataxe_Reaper_description" comment="GREATAXE + PASSIVE">You move {[Type_StatusEffectData.Status_Ultimate_Greataxe_Reaper.MoveSpeedMod * 100]}% faster and deal {[Type_StatusEffectData.Status_Ultimate_Greataxe_Reaper.DMGStandard * 100]}% more damage when looking at a foe within {[SpellDataTable_GreatAxe.Spell_Ultimate_Greataxe_Reaper.Length * 2]}m.</string>
 	<string key="Ability_Greataxe_Whirlwind" comment="GREATAXE + ACTIVE">Whirlwind</string>
-	<string key="Ability_Greataxe_Whirlwind_description" comment="GREATAXE + ACTIVE">Spin and attack all nearby foes, dealing {[DamageTable.GreatAxe_Whirlwind.DmgCoef * 100]}% weapon damage. If you hit a foe, spin again. (Max 4 spins.) You can move while spinning. This attack cannot backstab. This attack has Grit. \n\n(Grit prevents you from being staggered by incoming attacks.)</string>
-	<string key="Upgrade_Greataxe_Whirlwind_MoreSpins" comment="GREATAXE + MOD">Gusting Winds</string>
+	<string key="Ability_Greataxe_Whirlwind_description" comment="GREATAXE + ACTIVE">Spin and attack all nearby foes in a 2.5m radius, dealing {[DamageTable.GreatAxe_Whirlwind.DmgCoef * 100]}% weapon damage. If you hit a foe, spin again. (Max 4 spins.) You can move while spinning. This attack cannot backstab. \n\nThis ability has grit. (Grit prevents you from being staggered by incoming attacks.)</string>
+	<string key="Upgrade_Greataxe_Whirlwind_MoreSpins" comment="GREATAXE + MOD">Unending Winds</string>
 	<string key="Upgrade_Greataxe_Whirlwind_MoreSpins_description" comment="GREATAXE + MOD">Whirlwind's maximum number of rotations is increased to 7.</string>
-	<string key="Upgrade_Greataxe_Whirlwind_Speed" comment="GREATAXE + MOD">Unending Winds</string>
-	<string key="Upgrade_Greataxe_Whirlwind_Speed_description" comment="GREATAXE + MOD">Whirlwind's movement speed is increased by 50%.</string>
+	<string key="Upgrade_Greataxe_Whirlwind_Speed" comment="GREATAXE + MOD">Gusting Winds</string>
+	<string key="Upgrade_Greataxe_Whirlwind_Speed_description" comment="GREATAXE + MOD">Whirlwind's movement speed is increased by 100%.</string>
 	<string key="Upgrade_Greataxe_Whirlwind_DmgWhenFoesNear" comment="GREATAXE + MOD">Surrounded</string>
 	<string key="Upgrade_Greataxe_Whirlwind_DmgWhenFoesNear_description" comment="GREATAXE + MOD">If you have {[GreatAxeAbilityTable.Upgrade_Greataxe_Whirlwind_DmgWhenFoesNear.NumAroundMe]} or more foes around you, deal {[GreatAxeAbilityTable.Upgrade_Greataxe_Whirlwind_DmgWhenFoesNear.BaseDamage * 100]}% more damage.</string>
 	<string key="Ability_Greataxe_Maelstorm" comment="GREATAXE + ACTIVE">Maelstrom</string>
-	<string key="Ability_Greataxe_Maelstorm_description" comment="GREATAXE + ACTIVE">Perform a fast, spinning attack that pulls targets closer to you and deals {[DamageTable.GreatAxe_Maelstrom.DmgCoef * 100]}% weapon damage.</string>
+	<string key="Ability_Greataxe_Maelstorm_description" comment="GREATAXE + ACTIVE">Perform a fast, spinning attack that pulls targets within a 2.5m radius closer to you. Deals {[DamageTable.GreatAxe_Maelstrom.DmgCoef * 100]}% weapon damage.</string>
 	<string key="Upgrade_Greataxe_Maelstorm_AbsorbProjectiles" comment="GREATAXE + MOD">Absorb</string>
 	<string key="Upgrade_Greataxe_Maelstorm_AbsorbProjectiles_description" comment="GREATAXE + MOD">Consumes all projectiles while Maelstrom is active.</string>
 	<string key="Upgrade_Greataxe_Maelstorm_Rng" comment="GREATAXE + MOD">Storm's Reach</string>
 	<string key="Upgrade_Greataxe_Maelstorm_Rng_description" comment="GREATAXE + MOD">Extends Maelstrom's pull range by 50%.</string>
 	<string key="Upgrade_Greataxe_Maelstorm_SpinAttack" comment="GREATAXE + MOD">No Reprieve</string>
-	<string key="Upgrade_Greataxe_Maelstorm_SpinAttack_description" comment="GREATAXE + MOD">Maelstrom does an extra spin attack, pulling in foes and dealing {[DamageTable.GreatAxe_Maelstrom_NoReprieve.DmgCoef * 100]}% weapon damage.</string>
+	<string key="Upgrade_Greataxe_Maelstorm_SpinAttack_description" comment="GREATAXE + MOD">Maelstrom does an extra spin attack, pulling in foes and dealing {[DamageTable.GreatAxe_Maelstrom_NoReprieve.DmgCoef * 100]}% weapon damage. Additionally it gains grit during its startup.\n\n(Grit prevents you from being staggered by incoming attacks.)</string>
 	<string key="Ability_Greataxe_GravityWell" comment="GREATAXE + ACTIVE">Gravity Well</string>
-	<string key="Ability_Greataxe_GravityWell_description" comment="GREATAXE + ACTIVE">An upward swing dealing {[DamageTable.GreatAxe_GravityWell.DmgCoef * 100]}% weapon damage and projecting a powerful tear in reality that creates a vortex up to {[SpellDataTable_GreatAxe.Spell_GreatAxe_GravityWell_Projectile.CastDistance]}m away. The vortex pulls foes within {[SpellDataTable_GreatAxe.Spell_GreatAxe_GravityWell_Vortex.Radius]}m to its center. Foes within the vortex cannot dodge and their movement speed is reduced by {[Type_StatusEffectData.GreatAxe_Vortex.MoveSpeedMod * -100]}% due to the intense gravity.  The collapsing vortex ends after 3s with a damaging burst dealing {[DamageTable.GreatAxe_GravityWell_Burst.DmgCoef * 100]}% weapon damage.</string>
+	<string key="Ability_Greataxe_GravityWell_description" comment="GREATAXE + ACTIVE">An upward swing dealing {[DamageTable.GreatAxe_GravityWell.DmgCoef * 100]}% weapon damage and projecting a powerful tear in reality that creates a vortex up to {[SpellDataTable_GreatAxe.Spell_GreatAxe_GravityWell_Projectile.CastDistance]}m away. The vortex pulls foes within {[SpellDataTable_GreatAxe.Spell_GreatAxe_GravityWell_Vortex.Radius]}m to its center and roots them for {[Type_StatusEffectData.GreatAxe_Vortex_Root.BaseDuration]}s. Foes within the vortex cannot dodge and their movement speed is reduced by {[Type_StatusEffectData.GreatAxe_Vortex.MoveSpeedMod * -100]}% due to the intense gravity.  The collapsing vortex ends after 3s with a damaging burst dealing {[DamageTable.GreatAxe_GravityWell_Burst.DmgCoef * 100]}% weapon damage.</string>
 	<string key="Upgrade_Greataxe_GravityWell_ArmorInWell" comment="GREATAXE + MOD">Unyielding</string>
 	<string key="Upgrade_Greataxe_GravityWell_ArmorInWell_description" comment="GREATAXE + MOD">Allies gain {[Type_StatusEffectData.Status_Upgrade_Greataxe_GravityWell_ArmorInWell.ABSStandard * 100]}% Fortify while standing in your well. (Fortify reduces incoming damage.)</string>
 	<string key="Upgrade_Greataxe_GravityWell_DmgPerFoe" comment="GREATAXE + MOD">Crowded Well</string>
@@ -212,7 +212,7 @@
 	<string key="Passive_Greataxe_Mauler_HeavyAddPull" comment="GREATAXE + PASSIVE">Heavy Pull</string>
 	<string key="Passive_Greataxe_Mauler_HeavyAddPull_description" comment="GREATAXE + PASSIVE">Heavy attacks with a great axe pull foes closer to you.</string>
 	<string key="Passive_Greataxe_Mauler_PullDur" comment="GREATAXE + PASSIVE">Gravity</string>
-	<string key="Passive_Greataxe_Mauler_PullDur_description" comment="GREATAXE + PASSIVE">After you cause a pull, your foe is rooted for {[Type_StatusEffectData.Status_Passive_GreatAxe_Gravity_Root.BaseDuration]}s.</string>
+	<string key="Passive_Greataxe_Mauler_PullDur_description" comment="GREATAXE + PASSIVE">After you cause a pull, your foe is rooted for {[Type_StatusEffectData.Status_Passive_GreatAxe_Gravity_Root.BaseDuration]}s.\n\n</string>
 	<string key="Ultimate_Greataxe_Mauler" comment="GREATAXE + PASSIVE">Mauler's Fury</string>
 	<string key="Ultimate_Greataxe_Mauler_description" comment="GREATAXE + PASSIVE">Great axe attacks grant a stacking {[Type_StatusEffectData.Status_Ultimate_Greataxe_Mauler.DMGStandard * 100]}% damage increase for {[Type_StatusEffectData.Status_Ultimate_Greataxe_Mauler.DurationMax]}s. (Max {[Type_StatusEffectData.Status_Ultimate_Greataxe_Mauler.StackMax]} stacks.)</string>
 	<string key="Ability_Lifestaff_DivineEmbrace" comment="LIFESTAFF + ACTIVE">Divine Embrace</string>
@@ -244,7 +244,7 @@
 	<string key="Passive_Lifestaff_Healing_CDROnLight" comment="LIFESTAFF + PASSIVE">Revitalize</string>
 	<string key="Passive_Lifestaff_Healing_CDROnLight_description" comment="LIFESTAFF + PASSIVE">When you hit with a light attack, reduce Life Staff ability cooldowns by {[LifeMagicAbilityTable.Passive_Lifestaff_Healing_CDROnLight.CooldownTimer * -100]}%.</string>
 	<string key="Passive_Lifestaff_Healing_CDROnLow" comment="LIFESTAFF + PASSIVE">Desperate Speed</string>
-	<string key="Passive_Lifestaff_Healing_CDROnLow_description" comment="LIFESTAFF + PASSIVE">When you heal an ally below 50% health, Life Staff ability cooldowns are reduced by {[LifeMagicAbilityTable.Passive_Lifestaff_Healing_CDROnLow.CooldownTimer * -100]}%. (Can only be triggered once every {[Type_StatusEffectData.Status_Passive_Lifestaff_Healing_CDROnLow_Timer.BaseDuration]}s.)</string>
+	<string key="Passive_Lifestaff_Healing_CDROnLow_description" comment="LIFESTAFF + PASSIVE">When you heal an ally below 50% health, Life Staff ability cooldowns are reduced by {[LifeMagicAbilityTable.Passive_Lifestaff_Healing_CDROnLow.CooldownTimer * -100]}%. (Can only be triggered once every {[LifeMagicAbilityTable.Passive_Lifestaff_Healing_CDROnLow.ActivationCooldown]}s.)</string>
 	<string key="Passive_Lifestaff_Healing_AoeHealWhenHit" comment="LIFESTAFF + PASSIVE">Enchanted Justice</string>
 	<string key="Passive_Lifestaff_Healing_AoeHealWhenHit_description" comment="LIFESTAFF + PASSIVE">When hit in battle, activate a healing aura for you and nearby friends in a 4m radius. The aura heals for {[Type_StatusEffectData.Status_Passive_Lifestaff_Healing_AoeHealWhenHit.HealthModifierDamageBased * 100]}% weapon damage each second for {[Type_StatusEffectData.Status_Passive_Lifestaff_Healing_AoeHealWhenHit.BaseDuration]}s. (Cooldown {[Type_StatusEffectData.Status_Passive_Lifestaff_Healing_AoeHealWhenHit_Timer.BaseDuration]}s.)</string>
 	<string key="Passive_Lifestaff_Healing_GroupHealth" comment="LIFESTAFF + PASSIVE">Sacred Protection</string>
@@ -270,9 +270,9 @@
 	<string key="Ultimate_Lifestaff_Protection" comment="LIFESTAFF + MOD">Magnify</string>
 	<string key="Ultimate_Lifestaff_Protection_description" comment="LIFESTAFF + MOD">When you heal a target with Light's Embrace, extend the duration of Life Staff buffs on that target by {[LifeMagicAbilityTable.Ultimate_Lifestaff_Protection.TargetStatusEffectDurationMod]}s.</string>
 	<string key="Ability_Lifestaff_Beacon" comment="LIFESTAFF + ACTIVE">Beacon</string>
-	<string key="Ability_Lifestaff_Beacon_description" comment="LIFESTAFF + ACTIVE">Shoot out a light projectile that deals {[DamageTable.LifeStaff_Beacon.DmgCoef * 100]}% weapon damage to enemies, attaches to its target and heals all nearby allies for {[Type_StatusEffectData.Status_Ability_Lifestaff_Beacon.HealthModifierDamageBased * 100]}% weapon damage each second for 10s. \n\nCosts {[ManaCosts_Player.70.ManaCost]} Mana.</string>
+	<string key="Ability_Lifestaff_Beacon_description" comment="LIFESTAFF + ACTIVE">Shoot out a light projectile that deals {[DamageTable.LifeStaff_Beacon.DmgCoef * 100]}% weapon damage to enemies, attaches to its target and heals all allies in a {[SpellDataTable_LifeMagic.Spell_Ability_Lifestaff_Beacon_AOE.Radius]}m radius for {[Type_StatusEffectData.Status_Ability_Lifestaff_Beacon.HealthModifierDamageBased * 100]}% weapon damage each second for 10s. \n\nCosts {[ManaCosts_Player.70.ManaCost]} Mana.</string>
 	<string key="Upgrade_Lifestaff_Protection_AoeInc" comment="LIFESTAFF + MOD">Infused Light</string>
-	<string key="Upgrade_Lifestaff_Protection_AoeInc_description" comment="LIFESTAFF + MOD">Beacon's area of effect is now 50% larger.</string>
+	<string key="Upgrade_Lifestaff_Protection_AoeInc_description" comment="LIFESTAFF + MOD">Beacon's area of effect radius is increased to {[SpellDataTable_LifeMagic.Spell_Ability_Lifestaff_Beacon_AOE_Upgrade.Radius]}m.</string>
 	<string key="Upgrade_Lifestaff_Protection_DurOnLow" comment="LIFESTAFF + MOD">Radiance's Blessing</string>
 	<string key="Upgrade_Lifestaff_Protection_DurOnLow_description" comment="LIFESTAFF + MOD">Beacon lasts 5s longer.</string>
 	<string key="Upgrade_Lifestaff_Protection_AddHaste" comment="LIFESTAFF + PASSIVE">Speed of Light</string>
@@ -292,13 +292,13 @@
 	<string key="Passive_Lifestaff_Protection_BuffDur" comment="LIFESTAFF + PASSIVE">Glowing Focus</string>
 	<string key="Passive_Lifestaff_Protection_BuffDur_description" comment="LIFESTAFF + PASSIVE">Life Staff buffs you grant last {[LifeMagicAbilityTable.Passive_Lifestaff_Protection_BuffDur.TargetStatusEffectDurationMult * 100]}% longer.</string>
 	<string key="Ability_Firestaff_PillarofFire" comment="FIRESTAFF + ACTIVE">Pillar of Fire</string>
-	<string key="Ability_Firestaff_PillarofFire_description" comment="FIRESTAFF + ACTIVE">Invoke a burst of flames at the target area that deals {[DamageTable.Firestaff_Pillar.DmgCoef * 100]}% weapon damage. \n\nCosts {[ManaCosts_Player.44.ManaCost]} Mana.</string>
+	<string key="Ability_Firestaff_PillarofFire_description" comment="FIRESTAFF + ACTIVE">Invoke a burst of flames with a {[SpellDataTable_FireMagic.FireStaff_PillarOfFire.Radius]}m radius at the target area that deals {[DamageTable.Firestaff_Pillar.DmgCoef * 100]}% weapon damage. \n\nCosts {[ManaCosts_Player.44.ManaCost]} Mana.</string>
 	<string key="Upgrade_Firestaff_PillarofFire_Dmg" comment="FIRESTAFF + MOD">First Strike</string>
 	<string key="Upgrade_Firestaff_PillarofFire_Dmg_description" comment="FIRESTAFF + MOD">Pillar of Fire deals {[FireMagicAbilityTable.Upgrade_Firestaff_PillarofFire_Dmg.BaseDamage * 100]}% more damage to foes at full health.</string>
 	<string key="Upgrade_Firestaff_PillarofFire_Mana" comment="FIRESTAFF + MOD">Arson's Advantage</string>
 	<string key="Upgrade_Firestaff_PillarofFire_Mana_description" comment="FIRESTAFF + MOD">Gain {[FireMagicAbilityTable.Upgrade_Firestaff_PillarofFire_Mana.Mana * 100]}% of your max mana per enemy hit by Pillar of Fire.</string>
 	<string key="Ability_Firestaff_MeteorShower" comment="FIRESTAFF + ACTIVE">Meteor Shower</string>
-	<string key="Ability_Firestaff_MeteorShower_description" comment="FIRESTAFF + ACTIVE">Call down a rain of meteors for 6 seconds in the target area, dealing {[DamageTable.FireStaff_Storm.DmgCoef * 100]}% weapon damage on initial impact and an additional {[Type_StatusEffectData.Status_FireStaff_MeteorShower_Damage.HealthModifierDamageBased * -100]}% weapon damage per second while targets remain in the area. \n\nCosts {[ManaCosts_Player.45.ManaCost / 6]} Mana Per Second ({[ManaCosts_Player.45.ManaCost]} total mana at full cast).</string>
+	<string key="Ability_Firestaff_MeteorShower_description" comment="FIRESTAFF + ACTIVE">Call down a rain of meteors for 6s in a targeted {[SpellDataTable_FireMagic.FireStaff_Storm.Radius]}m radius area, dealing {[DamageTable.FireStaff_Storm.DmgCoef * 100]}% weapon damage on initial impact and an additional {[Type_StatusEffectData.Status_FireStaff_MeteorShower_Damage.HealthModifierDamageBased * -100]}% weapon damage per second while targets remain in the area. \n\nCosts {[ManaCosts_Player.45.ManaCost / 6]} Mana Per Second ({[ManaCosts_Player.45.ManaCost]} total mana at full cast).</string>
 	<string key="Upgrade_Firestaff_MeteorShower_Mana" comment="FIRESTAFF + MOD">Immolation</string>
 	<string key="Upgrade_Firestaff_MeteorShower_Mana_description" comment="FIRESTAFF + MOD">The initial hit of Meteor Shower gives you {[FireMagicAbilityTable.Upgrade_Firestaff_MeteorShower_Mana.Mana * 100]}% of your max mana for each target hit.</string>
 	<string key="Upgrade_Firestaff_MeteorShower_Extra" comment="FIRESTAFF + MOD">Fiery Determination</string>
@@ -330,7 +330,7 @@
 	<string key="Passive_Firestaff_FireMage_Ultimate" comment="FIRESTAFF + PASSIVE">Runes of Helios</string>
 	<string key="Passive_Firestaff_FireMage_Ultimate_description" comment="FIRESTAFF + PASSIVE">Using a fire staff ability places a 2m rune on the ground that increases your damage by {[Type_StatusEffectData.Status_Ultimate_Firemage_DMG.DMGStandard * 100]}% while standing in the rune. The rune lasts for {[Type_StatusEffectData.Status_Ultimate_Firemage.BaseDuration]}s. (Cooldown {[Type_StatusEffectData.Status_Ultimate_Firemage_Timer.BaseDuration]}s).</string>
 	<string key="Ability_Firestaff_Incinerate" comment="FIRESTAFF + ACTIVE">Incinerate</string>
-	<string key="Ability_Firestaff_Incinerate_description" comment="FIRESTAFF + ACTIVE">Cause a fiery explosion around yourself that deals {[DamageTable.Firestaff_Incinerate.DmgCoef * 100]}% weapon damage and pushes back all enemies {[DamageTable.Firestaff_Incinerate.ImpactDistanceY]}m. Inflicts burning on struck foes, dealing {[Type_StatusEffectData.FireStaff_Pyro_DOT.HealthModifierDamageBased * -100]}% weapon damage each second for {[Type_StatusEffectData.FireStaff_Pyro_DOT.BaseDuration]}s. \n\nCosts {[ManaCosts_Player.42.ManaCost]} Mana.</string>
+	<string key="Ability_Firestaff_Incinerate_description" comment="FIRESTAFF + ACTIVE">Cause a fiery explosion in a {[SpellDataTable_FireMagic.Spell_Ability_FireStaff_Incinerate.Radius]}m radius area around yourself that deals {[DamageTable.Firestaff_Incinerate.DmgCoef * 100]}% weapon damage and pushes back all enemies {[DamageTable.Firestaff_Incinerate.ImpactDistanceY]}m. Inflicts burning on struck foes, dealing {[Type_StatusEffectData.FireStaff_Pyro_DOT.HealthModifierDamageBased * -100]}% weapon damage each second for {[Type_StatusEffectData.FireStaff_Pyro_DOT.BaseDuration]}s. \n\nCosts {[ManaCosts_Player.42.ManaCost]} Mana.</string>
 	<string key="Upgrade_Firestaff_Incinerate_Burn" comment="FIRESTAFF + MOD">Scorched</string>
 	<string key="Upgrade_Firestaff_Incinerate_Burn_description" comment="FIRESTAFF + MOD">Each hit of Incinerate causes an additional stack of burning.</string>
 	<string key="Upgrade_Firestaff_Incinerate_Heal" comment="FIRESTAFF + MOD">Cauterize Wounds</string>
@@ -348,7 +348,7 @@
 	<string key="Ability_Firestaff_BurnOut" comment="FIRESTAFF + ACTIVE">Burn Out</string>
 	<string key="Ability_Firestaff_BurnOut_description" comment="FIRESTAFF + ACTIVE">Dash forward up to 11 meters through targets dealing {[DamageTable.FireStaff_FireDash.DmgCoef * 100]}% weapon damage on hit. Passing through a target will inflict burning that deals {[Type_StatusEffectData.FireStaff_Burnout_DOT.HealthModifierDamageBased * -100]}% weapon damage each second for {[Type_StatusEffectData.FireStaff_Burnout_DOT.BaseDuration]}s. \n\nCosts {[ManaCosts_Player.56.ManaCost]} Mana.</string>
 	<string key="Upgrade_Firestaff_BurnOut_CDR" comment="FIRESTAFF + MOD">All In</string>
-	<string key="Upgrade_Firestaff_BurnOut_CDR_description" comment="FIRESTAFF + MOD">Fire staff cooldowns are reduced by {[FireMagicAbilityTable.Upgrade_Firestaff_BurnOut_CDR.CooldownTimer * -100]}% for each foe hit by Burn Out.</string>
+	<string key="Upgrade_Firestaff_BurnOut_CDR_description" comment="FIRESTAFF + MOD">Fire staff cooldowns are reduced by {[FireMagicAbilityTable.Upgrade_Firestaff_BurnOut_CDR.CooldownTimer * -100]}% for each foe hit by Burn Out. (Max {[FireMagicAbilityTable.Upgrade_Firestaff_BurnOut_CDR.NumberOfTrackedHits]} reductions per ability use.)</string>
 	<string key="Upgrade_Firestaff_BurnOut_Aoe" comment="FIRESTAFF + MOD">Heat it Up!</string>
 	<string key="Upgrade_Firestaff_BurnOut_Aoe_description" comment="FIRESTAFF + MOD">Burn Out goes 50% further.</string>
 	<string key="Passive_Firestaff_Pyro_DmgOnLow" comment="FIRESTAFF + PASSIVE">Pyromania</string>
@@ -368,11 +368,11 @@
 	<string key="Passive_Firestaff_Pyro_Ultimate" comment="FIRESTAFF + PASSIVE">Reheat</string>
 	<string key="Passive_Firestaff_Pyro_Ultimate_description" comment="FIRESTAFF + PASSIVE">After {[Type_StatusEffectData.Status_Passive_Firestaff_Pyro_Ultimate_Timer.BaseDuration]}s without activating a fire staff ability, your mana regen is increased by {[Type_StatusEffectData.Status_Passive_Firestaff_Pyro_Ultimate.ManaRate * 100]}%.</string>
 	<string key="Ability_Sword_ReverseStab" comment="SWORD + ACTIVE">Reverse Stab</string>
-	<string key="Ability_Sword_ReverseStab_description" comment="SWORD + ACTIVE">A stab attack that deals {[DamageTable.1H_Sword_Attack_Stab.DmgCoef * 100]}% weapon damage.</string>
+	<string key="Ability_Sword_ReverseStab_description" comment="SWORD + ACTIVE">A stab attack that deals {[DamageTable.1H_Sword_Attack_Stab.DmgCoef * 100]}% weapon damage and staggers your target.</string>
 	<string key="Upgrade_Sword_ReverseStab_Grit" comment="SWORD + MOD">Unstoppable Stab</string>
 	<string key="Upgrade_Sword_ReverseStab_Grit_description" comment="SWORD + MOD">Reverse Stab now has Grit. \n\n(Grit prevents you from being staggered by incoming attacks.)</string>
 	<string key="Upgrade_Sword_ReverseStab_CDRonHit" comment="SWORD + MOD">Tactician</string>
-	<string key="Upgrade_Sword_ReverseStab_CDRonHit_description" comment="SWORD + MOD">On a successful hit with Reverse Stab, all other sword cooldowns are reduced by {[SwordAbilityTable.Upgrade_Sword_ReverseStab_CDRonHit.CooldownTimer * -100]}%.</string>
+	<string key="Upgrade_Sword_ReverseStab_CDRonHit_description" comment="SWORD + MOD">On a successful hit with Reverse Stab, all other sword cooldowns are reduced by {[SwordAbilityTable.Upgrade_Sword_ReverseStab_CDRonHit.CooldownTimer * -100]}%. (Max 1 reduction per ability use.)</string>
 	<string key="Ability_Sword_WhirlingBlade" comment="SWORD + ACTIVE">Whirling Blade</string>
 	<string key="Ability_Sword_WhirlingBlade_description" comment="SWORD + ACTIVE">Deal {[DamageTable.1H_Sword_Attack_Spin.DmgCoef * 100]}% weapon damage to all foes within 2m.</string>
 	<string key="Upgrade_Sword_WhirlingBlade_Rend" comment="SWORD + MOD">Opportunity</string>
@@ -380,7 +380,7 @@
 	<string key="Upgrade_Sword_WhirlingBlade_CDR" comment="SWORD + MOD">Tactical Strike</string>
 	<string key="Upgrade_Sword_WhirlingBlade_CDR_description" comment="SWORD + MOD">Whirling Blade reduces its own cooldown by {[SwordAbilityTable.Upgrade_Sword_WhirlingBlade_CDR.CooldownTimer * -100]}% for each enemy hit.</string>
 	<string key="Ability_Sword_LeapingStrike" comment="SWORD + ACTIVE">Leaping Strike</string>
-	<string key="Ability_Sword_LeapingStrike_description" comment="SWORD + ACTIVE">Leap forward and deal {[DamageTable.1H_Sword_Attack_Charge.DmgCoef * 100]}% weapon damage.</string>
+	<string key="Ability_Sword_LeapingStrike_description" comment="SWORD + ACTIVE">Leap forward dealing {[DamageTable.1H_Sword_Attack_Charge.DmgCoef * 100]}% weapon damage and staggering your target.</string>
 	<string key="Upgrade_Sword_LeapingStrike_Extra" comment="SWORD + MOD">Final Strike</string>
 	<string key="Upgrade_Sword_LeapingStrike_Extra_description" comment="SWORD + MOD">If you hit a foe below 30% health, deal {[SwordAbilityTable.Upgrade_Sword_LeapingStrike_Extra.BaseDamage * 100]}% more damage.</string>
 	<string key="Upgrade_Sword_LeapingStrike_Slow" comment="SWORD + MOD">Cowardly Punishment</string>
@@ -406,19 +406,19 @@
 	<string key="Ultimate_Sword_Swordmaster" comment="SWORD + PASSIVE">Leadership</string>
 	<string key="Ultimate_Sword_Swordmaster_description" comment="SWORD + PASSIVE">While holding a sword, the damage of all group members is increased by {[Type_StatusEffectData.Sword_Leadership.DMGStandard * 100]}%.</string>
 	<string key="Ability_Sword_Rush" comment="SHIELD + ACTIVE">Shield Rush</string>
-	<string key="Ability_Sword_Rush_description" comment="SHIELD + ACTIVE">Rush forward 5m and knock back foes. This attack deals {[DamageTable.OH_Shield_Attack_Rush.DmgCoef * 100]}% weapon damage.</string>
+	<string key="Ability_Sword_Rush_description" comment="SHIELD + ACTIVE">Rush forward 5m, staggering and pushing back foes. This attack deals {[DamageTable.OH_Shield_Attack_Rush.DmgCoef * 100]}% weapon damage.\n\nThis ability has grit. (Grit prevents you from being staggered by incoming attacks.)</string>
 	<string key="Upgrade_Sword_Rush_Weak" comment="SHIELD + MOD">Improved Rush</string>
 	<string key="Upgrade_Sword_Rush_Weak_description" comment="SHIELD + MOD">On a successful hit, all enemies within 5m are weakened {[Type_StatusEffectData.Status_Upgrade_Sword_Rush_Weak.DMGStandard * -100]}% for {[Type_StatusEffectData.Status_Upgrade_Sword_Rush_Weak.BaseDuration]}s. (Weaken reduces damage.)</string>
 	<string key="Upgrade_Sword_Rush_Slow" comment="SHIELD + MOD">Intimidating Rush</string>
 	<string key="Upgrade_Sword_Rush_Slow_description" comment="SHIELD + MOD">On a successful hit, all enemies within 5m of you are slowed by {[Type_StatusEffectData.Status_Upgrade_Sword_Rush_Slow.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.Status_Upgrade_Sword_Rush_Slow.BaseDuration]}s. (Slow reduces target's movement speed.)</string>
 	<string key="Ability_Sword_Bash" comment="SHIELD + ACTIVE">Shield Bash</string>
-	<string key="Ability_Sword_Bash_description" comment="SHIELD + ACTIVE">Deals {[DamageTable.OH_Shield_Attack_Bash.DmgCoef * 100]}% weapon damage and stuns foes in front of you for {[Type_StatusEffectData.Sword_ShieldBash_Stun2.BaseDuration]}s.  \n\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your sword, this ability inflicts taunt for 6s to all enemies hit. (Taunt causes monsters to focus only on you.)</string>
+	<string key="Ability_Sword_Bash_description" comment="SHIELD + ACTIVE">Deals {[DamageTable.OH_Shield_Attack_Bash.DmgCoef * 100]}% weapon damage, staggering and stunning foes in front of you for {[Type_StatusEffectData.Sword_ShieldBash_Stun2.BaseDuration]}s. \n\nThis ability has grit. (Grit prevents you from being staggered by incoming attacks.) \n\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your sword, this ability inflicts taunt for 6s to all enemies hit. (Taunt causes monsters to focus only on you.)</string>
 	<string key="Upgrade_Sword_Bash_Dmg" comment="SHIELD + MOD">Intimidating Bash</string>
 	<string key="Upgrade_Sword_Bash_Dmg_description" comment="SHIELD + MOD">Shield Bash causes greatly increased threat and deals 100% more damage.</string>
 	<string key="Upgrade_Sword_Bash_StunDur" comment="SHIELD + MOD">Concussive Bash</string>
 	<string key="Upgrade_Sword_Bash_StunDur_description" comment="SHIELD + MOD">Shield Bash stun duration increased by 1s.</string>
 	<string key="Ability_Sword_FinalStand" comment="SHIELD + ACTIVE">Defiant Stance</string>
-	<string key="Ability_Sword_FinalStand_description" comment="SHIELD + ACTIVE">For 8s, reduce the incoming base damage from attackers by {[SwordAbilityTable.Ability_Sword_FinalStand.BaseDamageReduction * 100]}%. \n\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your sword, this ability inflicts taunt for 6s to all enemies within 8m. (Taunt causes monsters to focus only on you.)</string>
+	<string key="Ability_Sword_FinalStand_description" comment="SHIELD + ACTIVE">For 8s, reduce the incoming base damage from attackers by {[SwordAbilityTable.Ability_Sword_FinalStand.BaseDamageReduction * 100]}%. \n\nThis ability has grit. (Grit prevents you from being staggered by incoming attacks.)\n\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your sword, this ability inflicts taunt for 6s to all enemies within 8m. (Taunt causes monsters to focus only on you.)</string>
 	<string key="Upgrade_Sword_FinalStand_ArmorAboveHalf" comment="SHIELD + MOD">Final Countdown</string>
 	<string key="Upgrade_Sword_FinalStand_ArmorAboveHalf_description" comment="SHIELD + MOD">If your health is above 50%, damage reduction is increased by {[SwordAbilityTable.Upgrade_Sword_FinalStand_ArmorAboveHalf.BaseDamageReduction * 100]}%.</string>
 	<string key="Upgrade_Sword_FinalStand_Heal" comment="SHIELD + MOD">Restoration</string>
@@ -470,7 +470,7 @@
 	<string key="VoidGauntlet_Passive_BonusCritChanceOnCooldown" comment="VOID + PASSIVE" rel_version="Weapon_Void_Gauntlet">Keen Humility</string>
 	<string key="VoidGauntlet_Passive_BonusCritChanceOnCooldown_description" comment="VOID + PASSIVE" rel_version="Weapon_Void_Gauntlet">+{[VoidGauntletAbilityTable.Passive_VoidGauntlet_BonusCritChanceOnCooldown.CritChance * 100]}% Critical Chance while all abilities are on cooldown.</string>
 	<string key="VoidGauntlet_Passive_CDROnCrit" comment="VOID + PASSIVE" rel_version="Weapon_Void_Gauntlet">Refreshing Precision</string>
-	<string key="VoidGauntlet_Passive_CDROnCrit_description" comment="VOID + PASSIVE" rel_version="Weapon_Void_Gauntlet">+{[VoidGauntletAbilityTable.Passive_VoidGauntlet_CDROnCrit.CooldownTimer * -100]}% Cooldown Reduction on all abilities on Critical Hit.</string>
+	<string key="VoidGauntlet_Passive_CDROnCrit_description" comment="VOID + PASSIVE" rel_version="Weapon_Void_Gauntlet">+{[VoidGauntletAbilityTable.Passive_VoidGauntlet_CDROnCrit.CooldownTimer * -100]}% Cooldown Reduction on all abilities on Critical Hit. (Max {[VoidGauntletAbilityTable.Passive_VoidGauntlet_CDROnCrit.NumberOfTrackedHits]} hits per attack.)</string>
 	<string key="VoidGauntlet_Passive_EmpowerCloseRange" comment="VOID + PASSIVE" rel_version="Weapon_Void_Gauntlet">Empowering Proximity</string>
 	<string key="VoidGauntlet_Passive_EmpowerCloseRange_description" comment="VOID + PASSIVE" rel_version="Weapon_Void_Gauntlet">Gain Empower when casting abilities within {[SpellDataTable_VoidGauntlet.VoidGauntlet_EmpowerCloseRange_Detection.Radius]}m of an enemy, increasing damage by {[Type_StatusEffectData.VoidGauntlet_EmpowerCloseRange.DMGStandard * 100]}% for {[Type_StatusEffectData.VoidGauntlet_EmpowerCloseRange.BaseDuration]}s. Stacks up to {[Type_StatusEffectData.VoidGauntlet_EmpowerCloseRange.StackMax]} times.</string>
 	<string key="VoidGauntlet_Passive_HarvestReducedCostLowMana" comment="VOID + PASSIVE" rel_version="Weapon_Void_Gauntlet">Efficient Harvest</string>
@@ -478,7 +478,7 @@
 	<string key="VoidGauntlet_Passive_HealOnCrit" comment="VOID + PASSIVE" rel_version="Weapon_Void_Gauntlet">Leeching Agony</string>
 	<string key="VoidGauntlet_Passive_HealOnCrit_description" comment="VOID + PASSIVE" rel_version="Weapon_Void_Gauntlet">On Critical Hit, gain health equal to {[VoidGauntletAbilityTable.Passive_VoidGauntlet_HealOnCrit.DmgPctToHealth * 100]}% of damage done.</string>
 	<string key="VoidGauntlet_Passive_CDRVsDebuff" comment="VOID + PASSIVE" rel_version="Weapon_Void_Gauntlet">Refreshing Frailty</string>
-	<string key="VoidGauntlet_Passive_CDRVsDebuff_description" comment="VOID + PASSIVE" rel_version="Weapon_Void_Gauntlet">+{[VoidGauntletAbilityTable.Passive_VoidGauntlet_CDRVsDebuff.CooldownTimer * -100]}% Cooldown Reduction on all abilities when successfully hitting enemies afflicted by {[VoidGauntletAbilityTable.Passive_VoidGauntlet_CDRVsDebuff.TargetStatusEffectStackSize]} or more debuff stacks (can be from different debuffs).</string>
+	<string key="VoidGauntlet_Passive_CDRVsDebuff_description" comment="VOID + PASSIVE" rel_version="Weapon_Void_Gauntlet">+{[VoidGauntletAbilityTable.Passive_VoidGauntlet_CDRVsDebuff.CooldownTimer * -100]}% Cooldown Reduction on all abilities when successfully hitting enemies afflicted by {[VoidGauntletAbilityTable.Passive_VoidGauntlet_CDRVsDebuff.TargetStatusEffectStackSize]} or more debuff stacks (can be from different debuffs). (Max {[VoidGauntletAbilityTable.Passive_VoidGauntlet_CDRVsDebuff.NumberOfTrackedHits]} hits per attack.)</string>
 	<string key="VoidGauntlet_Ultimate_DotHealAura" comment="VOID + PASSIVE" rel_version="Weapon_Void_Gauntlet">Voidcaller</string>
 	<string key="VoidGauntlet_Ultimate_DotHealAura_description" comment="VOID + PASSIVE" rel_version="Weapon_Void_Gauntlet">On successful ability hit, gain a stack of Void Essence. At 6 stacks, consume all stacks and gain a {[SpellDataTable_VoidGauntlet.VoidGauntlet_SiphonAura_AoE.Radius]}m aura that heals self and friendlies for {[Type_StatusEffectData.VoidGauntlet_SiphonAura_Heal.HealthModifierDamageBased * 100]}% weapon damage and deals {[Type_StatusEffectData.VoidGauntlet_SiphonAura_DoT.HealthModifierDamageBased * -100]}% weapon damage per second to enemies within. Healing scales exclusively with Focus. {[SpellDataTable_VoidGauntlet.VoidGauntlet_SiphonAura_AoE.Duration * .001]}s duration. {[Type_StatusEffectData.VoidGauntlet_SiphonAura_Timer.BaseDuration]}s cooldown.</string>
 	<string key="VoidGauntlet_Ability_DecayingOrb" comment="VOID + ACTIVE" rel_version="Weapon_Void_Gauntlet">Orb of Decay</string>
@@ -498,7 +498,7 @@
 	<string key="VoidGauntlet_Upgrade_DrainingTether_HealthOnDeath" comment="VOID + MOD" rel_version="Weapon_Void_Gauntlet">Soul Eater</string>
 	<string key="VoidGauntlet_Upgrade_DrainingTether_HealthOnDeath_description" comment="VOID + MOD" rel_version="Weapon_Void_Gauntlet">Regain {[Type_StatusEffectData.VoidGauntlet_DrainingTether_Heal.HealthModifierDamageBased * 100]}% weapon damage as health if the tethered target dies. Scales exclusively with Focus.</string>
 	<string key="VoidGauntlet_Ability_EssenceRupture" comment="VOID + ACTIVE" rel_version="Weapon_Void_Gauntlet">Essence Rupture</string>
-	<string key="VoidGauntlet_Ability_EssenceRupture_description" comment="VOID + ACTIVE" rel_version="Weapon_Void_Gauntlet">Fire a projectile that inflicts Essence Rupture for {[Type_StatusEffectData.VoidGauntlet_EssenceRupture.BaseDuration]} seconds, healing anyone that hits the target for {[Type_StatusEffectData.VoidGauntlet_EssenceRupture_Heal.HealthModifierDamageBased * 100]}% of the damage done. Does not apply to damage-over-time.\n\nCosts {[ManaCosts_Player.78.ManaCost]} Mana.</string>
+	<string key="VoidGauntlet_Ability_EssenceRupture_description" comment="VOID + ACTIVE" rel_version="Weapon_Void_Gauntlet">Fire a projectile that inflicts Essence Rupture for {[Type_StatusEffectData.VoidGauntlet_EssenceRupture.BaseDuration]} seconds, healing anyone that hits the target for {[Type_StatusEffectData.VoidGauntlet_EssenceRupture_Heal.HealthModifierDamageBased * 100]}% of the damage done. (Does not apply to damage-over-time or damage done to inanimate objects.)\n\nCosts {[ManaCosts_Player.78.ManaCost]} Mana.</string>
 	<string key="VoidGauntlet_Upgrade_EssenceRupture_StaminaOnHit" comment="VOID + MOD" rel_version="Weapon_Void_Gauntlet">Invigorating Rupture</string>
 	<string key="VoidGauntlet_Upgrade_EssenceRupture_StaminaOnHit_description" comment="VOID + MOD" rel_version="Weapon_Void_Gauntlet">Players additionally receive {[Type_StatusEffectData.VoidGauntlet_EssenceRupture_Heal_Stamina.Stamina]} stamina when hitting the afflicted target.</string>
 	<string key="VoidGauntlet_Upgrade_EssenceRupture_HealAoEOnEnd" comment="VOID + MOD" rel_version="Weapon_Void_Gauntlet">Overflowing Essence</string>
@@ -629,7 +629,7 @@
 	<string key="SharpshooterTree0Passive6" comment="MUSKET  +  PASSIVE">Called Shot Resupply</string>
 	<string key="SharpshooterTree0Passive6_description" comment="MUSKET  +  PASSIVE">Standard attack headshots reduce all musket ability cooldowns by {[MusketAbilityTable.Passive_Musket_Sharpshooter_CDROnHeadshot.CooldownTimer * -100]}%.</string>
 	<string key="SharpshooterTree0Passive7" comment="MUSKET  +  PASSIVE">Hit Your Mark</string>
-	<string key="SharpshooterTree0Passive7_description" comment="MUSKET  +  PASSIVE">Increased headshot and critical hit damage to a target the further the target is away from the player. Maximum increase is {[MusketAbilityTable.Passive_Musket_Sharpshooter_CritChanceDistance.HeadshotDamage * 100]}% at or beyond {[MusketAbilityTable.Passive_Musket_Sharpshooter_CritChanceDistance.LinearlyScaleToDistance]}m away.\N\NDoes not forgo damage fall off.</string>
+	<string key="SharpshooterTree0Passive7_description" comment="MUSKET  +  PASSIVE">Standard musket shots deal increased headshot and critical hit damage the further away the target is away from the player. Maximum increase is {[MusketAbilityTable.Passive_Musket_Sharpshooter_CritChanceDistance.HeadshotDamage * 100]}% at or beyond {[MusketAbilityTable.Passive_Musket_Sharpshooter_CritChanceDistance.LinearlyScaleToDistance]}m away.\N\NDoes not forgo damage fall off.</string>
 	<string key="SharpshooterTree0Passive8" comment="MUSKET  +  PASSIVE">Heightened Precision</string>
 	<string key="SharpshooterTree0Passive8_description" comment="MUSKET  +  PASSIVE">While aiming, successful hits with a musket grant a stackable 2.5% damage increase. This effect ends when the player stops aiming down sight or after more than {[Type_StatusEffectData.Musket_Pass_Damage_EveryADSShot.BaseDuration]}s passes between shots. (Max {[Type_StatusEffectData.Musket_Pass_Damage_EveryADSShot.StackMax]} stacks.)</string>
 	<string key="SharpshooterTree0Ult" comment="MUSKET  +  PASSIVE">Sniper</string>
@@ -643,7 +643,7 @@
 	<string key="Traps_Mod3" comment="MUSKET + MOD">Double Trap</string>
 	<string key="Traps_Mod3_description" comment="MUSKET + MOD">Ability to have two active traps.</string>
 	<string key="StickyBomb" comment="MUSKET + ACTIVE">Sticky Bomb</string>
-	<string key="StickyBomb_description" comment="MUSKET + ACTIVE">Throw a short range bomb that sticks to anything it makes contact with. Detonation will occur 3 seconds after impact dealing {[DamageTable.Musket_StickyBomb_Explosion.DmgCoef * 100]}% weapon damage to all targets within {[SpellDataTable_Musket.Musket_StickyBomb_Explosion.Radius]}m.</string>
+	<string key="StickyBomb_description" comment="MUSKET + ACTIVE">Throw a short range bomb that sticks to anything it makes contact with. Detonation will occur 3 seconds after impact dealing {[DamageTable.Musket_StickyBomb_Explosion.DmgCoef * 100]}% weapon damage and staggering all targets within {[SpellDataTable_Musket.Musket_StickyBomb_Explosion.Radius]}m.</string>
 	<string key="StickyBomb_Mod1" comment="MUSKET + MOD">Unflinching Walk</string>
 	<string key="StickyBomb_Mod1_description" comment="MUSKET + MOD">Sticky Bomb grants the player {[Type_StatusEffectData.Musket_Sticky_StaminaRegen.Stamina]} stamina when it deals damage with an explosion.</string>
 	<string key="StickyBomb_Mod2" comment="MUSKET + MOD">Sticky Slow</string>
@@ -691,11 +691,11 @@
 	<string key="JusticeForAll" comment="WARHAMMER + MOD">Justice For All</string>
 	<string key="JusticeForAll_description" comment="WARHAMMER + MOD">Pressing light attack during Mighty Gavel performs a followup attack that deals {[DamageTable.Warhammer_Damage_MightyGavel_upg.DmgCoef * 100]}% weapon damage.</string>
 	<string key="WreckingBall" comment="WARHAMMER + ACTIVE">Wrecking Ball</string>
-	<string key="WreckingBall_description" comment="WARHAMMER + ACTIVE">Strike the ground with your war hammer, dealing {[DamageTable.Warhammer_Damage_WreckingBall.DmgCoef * 100]}% weapon damage and flattening your target.</string>
+	<string key="WreckingBall_description" comment="WARHAMMER + ACTIVE">Strike the ground with your war hammer, dealing {[DamageTable.Warhammer_Damage_WreckingBall.DmgCoef * 100]}% weapon damage and knocking down your target. \n\nThis ability has grit. (Grit prevents you from being staggered by incoming attacks.)</string>
 	<string key="WreckingBall_Mod1" comment="WARHAMMER + MOD">Safety Measures</string>
 	<string key="WreckingBall_Mod1_description" comment="WARHAMMER + MOD">On a successful hit, gain fortify, granting {[Type_StatusEffectData.WarHammer_WreckingBall_Fortify.ABSStandard * 100]}% damage resistance for {[Type_StatusEffectData.WarHammer_WreckingBall_Fortify.BaseDuration]}s.</string>
 	<string key="WreckingBall_Mod2" comment="WARHAMMER + MOD">Breathing Room</string>
-	<string key="WreckingBall_Mod2_description" comment="WARHAMMER + MOD">All targets within 1.5m of the impact point are also flattened.</string>
+	<string key="WreckingBall_Mod2_description" comment="WARHAMMER + MOD">Expands the range of Wrecking Ball to a 1.5m radius.</string>
 	<string key="JuggernautTree0Passive1" comment="WARHAMMER  +  PASSIVE">Epitome Of Bonk!</string>
 	<string key="JuggernautTree0Passive1_description" comment="WARHAMMER  +  PASSIVE">Increase armor penetration by {[WarHammerAbilityTable.Passive_WarHammer_Juggernaut_LightHeavyPenetrate.ArmorPenetration * 100]}% for all war hammer light and heavy attacks.</string>
 	<string key="JuggernautTree0Passive2" comment="WARHAMMER  +  PASSIVE">Hammer Time</string>
@@ -707,11 +707,11 @@
 	<string key="JuggernautTree0Passive5" comment="WARHAMMER  +  PASSIVE">Contemption</string>
 	<string key="JuggernautTree0Passive5_description" comment="WARHAMMER  +  PASSIVE">Increase heavy attack damage by {[WarHammerAbilityTable.Passive_WarHammer_Juggernaut_HeavyvsLowHP.BaseDamage * 100]}% against targets under {[WarHammerAbilityTable.Passive_WarHammer_Juggernaut_HeavyvsLowHP.TargetHealthPercent]}% health.</string>
 	<string key="JuggernautTree0Passive6" comment="WARHAMMER  +  PASSIVE">Quick Recovery</string>
-	<string key="JuggernautTree0Passive6_description" comment="WARHAMMER  +  PASSIVE">Heavy attacks that hit reduce cooldowns by 7%.</string>
+	<string key="JuggernautTree0Passive6_description" comment="WARHAMMER  +  PASSIVE">Heavy attacks that hit reduce cooldowns by 7%. (Max {[WarHammerAbilityTable.Passive_WarHammer_Juggernaut_CDROnHit.NumberOfTrackedHits]} reductions per attack.)</string>
 	<string key="JuggernautTree0Passive7" comment="WARHAMMER  +  PASSIVE">Power Through Pain</string>
 	<string key="JuggernautTree0Passive7_description" comment="WARHAMMER  +  PASSIVE">Deal {[Type_StatusEffectData.WarHammer_Pass_EmpowerOnDmgTaken.DMGStandard * 100]}% extra damage for {[Type_StatusEffectData.WarHammer_Pass_EmpowerOnDmgTaken.BaseDuration]}s after taking damage.</string>
 	<string key="ClearOut" comment="WARHAMMER + ACTIVE">Clear Out</string>
-	<string key="ClearOut_description" comment="WARHAMMER + ACTIVE">A wide swing that knocks enemies back 4m and deals {[DamageTable.Warhammer_Damage_ClearOut.DmgCoef * 100]}% weapon damage.</string>
+	<string key="ClearOut_description" comment="WARHAMMER + ACTIVE">A wide swing that knocks enemies back 4m and deals {[DamageTable.Warhammer_Damage_ClearOut.DmgCoef * 100]}% weapon damage. \n\nThis ability has grit. (Grit prevents you from being staggered by incoming attacks.)</string>
 	<string key="ClearOut_Mod1" comment="WARHAMMER + MOD">Power Cleaner</string>
 	<string key="ClearOut_Mod1_description" comment="WARHAMMER + MOD">Hitting a target with Clear Out grants fortify, providing a {[Type_StatusEffectData.WarHammer_ClearOut_FortifyBuff.ABSStandard * 100]}% defense bonus for {[Type_StatusEffectData.WarHammer_ClearOut_FortifyBuff.BaseDuration]}s to all friendlies within {[SpellDataTable_WarHammer.WarHammer_Spell_ClearOut_Fortify.Radius]}m.</string>
 	<string key="ClearOut_Mod2" comment="WARHAMMER + MOD">Clean and Refreshed</string>
@@ -719,7 +719,7 @@
 	<string key="ClearOut_Mod3" comment="WARHAMMER + MOD">Swing Away</string>
 	<string key="ClearOut_Mod3_description" comment="WARHAMMER + MOD">Using Clear Out on a target grants haste, increasing movement speed by {[Type_StatusEffectData.WarHammer_ClearOut_Haste.MoveSpeedMod * 100]}% for {[Type_StatusEffectData.WarHammer_ClearOut_Haste.BaseDuration]}s.</string>
 	<string key="Shockwave" comment="WARHAMMER + ACTIVE">Shockwave</string>
-	<string key="Shockwave_description" comment="WARHAMMER + ACTIVE">Slam your war hammer into the ground, causing a {[SpellDataTable_WarHammer.WarHammer_Spell_Shockwave.Radius]}m radius earthquake that deals {[DamageTable.Warhammer_Damage_Shockwave.DmgCoef * 100]}% weapon damage. Stuns to all impacted targets for {[Type_StatusEffectData.WarHammer_Shockwave_Stun.BaseDuration]}s. \n\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your war hammer, this ability inflicts taunt for {[DamageTable.Warhammer_Damage_Shockwave.TauntDuration]}s to all enemies hit. (Taunt causes monsters to focus only on you.)</string>
+	<string key="Shockwave_description" comment="WARHAMMER + ACTIVE">Slam your war hammer into the ground, causing a {[SpellDataTable_WarHammer.WarHammer_Spell_Shockwave.Radius]}m radius earthquake that deals {[DamageTable.Warhammer_Damage_Shockwave.DmgCoef * 100]}% weapon damage, staggering and stunning all impacted targets for {[Type_StatusEffectData.WarHammer_Shockwave_Stun.BaseDuration]}s. \n\nThis ability has grit. (Grit prevents you from being staggered by incoming attacks.)\n\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your war hammer, this ability inflicts taunt for {[DamageTable.Warhammer_Damage_Shockwave.TauntDuration]}s to all enemies hit. (Taunt causes monsters to focus only on you.)</string>
 	<string key="Shockwave_Mod1" comment="WARHAMMER + MOD">Frailty</string>
 	<string key="Shockwave_Mod1_description" comment="WARHAMMER + MOD">The trauma of the attack causes weaken, decreasing the damage dealt from the target's attacks by {[Type_StatusEffectData.WarHammer_Shockwave_Weaken.DMGStandard * -100]}% for {[Type_StatusEffectData.WarHammer_Shockwave_Weaken.BaseDuration]}s.</string>
 	<string key="Shockwave_Mod2" comment="WARHAMMER + MOD">Meteoric Crater</string>
@@ -739,7 +739,7 @@
 	<string key="CCTree1Passive3" comment="WARHAMMER  +  PASSIVE">Guarded Sprint</string>
 	<string key="CCTree1Passive3_description" comment="WARHAMMER  +  PASSIVE">Reduce damage taken by {[Type_StatusEffectData.WarHammer_Pass_SprintDmgReduction.ABSThrust * 100]}% while sprinting.</string>
 	<string key="CCTree1Passive4" comment="WARHAMMER  +  PASSIVE">Acceleration</string>
-	<string key="CCTree1Passive4_description" comment="WARHAMMER  +  PASSIVE">Reduce war hammer cooldowns by {[WarHammerAbilityTable.Passive_WarHammer_CrowdCrusher_CDROnDebuffHit.CooldownTimer * -100]}% when using light attacks against targets with an active debuff.</string>
+	<string key="CCTree1Passive4_description" comment="WARHAMMER  +  PASSIVE">Reduce war hammer cooldowns by {[WarHammerAbilityTable.Passive_WarHammer_CrowdCrusher_CDROnDebuffHit.CooldownTimer * -100]}% when using light attacks against targets with an active debuff. (Max {[WarHammerAbilityTable.Passive_WarHammer_CrowdCrusher_CDROnDebuffHit.NumberOfTrackedHits]} reductions per attack.)</string>
 	<string key="CCTree1Passive5" comment="WARHAMMER  +  PASSIVE">Facilitated Expedition</string>
 	<string key="CCTree1Passive5_description" comment="WARHAMMER  +  PASSIVE">After hitting a target with an active debuff, gain haste, increasing movement speed by {[Type_StatusEffectData.WarHammer_Pass_Haste.MoveSpeedMod * 100]}% for {[Type_StatusEffectData.WarHammer_Pass_Haste.BaseDuration]}s.</string>
 	<string key="CCTree1Passive6" comment="WARHAMMER  +  PASSIVE">Concussive Impact</string>
@@ -763,13 +763,13 @@
 	<string key="Spear_Javelin_CDROnHeadshot" comment="SPEAR + MOD">Refreshing Precision</string>
 	<string key="Spear_Javelin_CDROnHeadshot_description" comment="SPEAR + MOD">Headshots reduce Javelin cooldown by {[SpearAbilityTable.Ability_Spear_Javelin_CDROnHeadshot.cooldownTimer * -100]}%.</string>
 	<string key="Spear_Cyclone" comment="SPEAR + ACTIVE">Cyclone</string>
-	<string key="Spear_Cyclone_description" comment="SPEAR + ACTIVE">Spin attack that deals {[DamageTable.2H_Spear_Cyclone.DmgCoef * 100]}% weapon damage, pushes targets back {[DamageTable.2H_Spear_Cyclone.ImpactDistanceY]}m and applies {[Type_StatusEffectData.Spear_Cyclone_Slow.MoveSpeedMod * -100]}% slow for {[Type_StatusEffectData.Spear_Cyclone_Slow.BaseDuration]}s. (Slow reduces target's movement speed.)</string>
+	<string key="Spear_Cyclone_description" comment="SPEAR + ACTIVE">Perform a spin attack that deals {[DamageTable.2H_Spear_Cyclone.DmgCoef * 100]}% weapon damage to targets within a 3m radius, pushes them back {[DamageTable.2H_Spear_Cyclone.ImpactDistanceY]}m and applies a {[Type_StatusEffectData.Spear_Cyclone_Slow.MoveSpeedMod * -100]}% slow for {[Type_StatusEffectData.Spear_Cyclone_Slow.BaseDuration]}s. (Slow reduces target's movement speed.)</string>
 	<string key="Spear_Cyclone_BonusStaminaOnMultiHit" comment="SPEAR + MOD">Invigorating Combo</string>
 	<string key="Spear_Cyclone_BonusStaminaOnMultiHit_description" comment="SPEAR + MOD">Restore {[Type_StatusEffectData.Spear_Cyclone_BonusStaminaOnMultiHit.Stamina]} stamina per target hit.</string>
 	<string key="Spear_Cyclone_Grit" comment="SPEAR + MOD">Strong Momentum</string>
 	<string key="Spear_Cyclone_Grit_description" comment="SPEAR + MOD">Grit is now active during the attack.\n\n(Grit prevents you from being staggered by incoming attacks.)</string>
 	<string key="Spear_CDROnHvyHit" comment="SPEAR + MOD">Refreshing Reach</string>
-	<string key="Spear_CDROnHvyHit_description" comment="SPEAR + MOD">Successful heavy attacks reduce all spear cooldowns by {[SpearAbilityTable.Ability_Spear_CDROnHvyHit.CooldownTimer * -100]}%.</string>
+	<string key="Spear_CDROnHvyHit_description" comment="SPEAR + MOD">Successful heavy attacks reduce all spear cooldowns by {[SpearAbilityTable.Ability_Spear_CDROnHvyHit.CooldownTimer * -100]}%. (Max 1 reduction per attack.)</string>
 	<string key="Spear_BonusCritChanceAtRng" comment="SPEAR + PASSIVE">Deadly Reach</string>
 	<string key="Spear_BonusCritChanceAtRng_description" comment="SPEAR + PASSIVE">Critical chance is increased by {[SpearAbilityTable.Ability_Spear_BonusCritChanceAtRng.CritChance * 100]}% when attacking targets that are at least 3m away.</string>
 	<string key="Spear_BonusCritChanceOnLight" comment="SPEAR + PASSIVE">Precise Jabs</string>
@@ -801,13 +801,13 @@
 	<string key="Spear_Sweep_FollowupAttack" comment="SPEAR + MOD">Coup de Grâce</string>
 	<string key="Spear_Sweep_FollowupAttack_description" comment="SPEAR + MOD">Press Basic Attack during Sweep to follow up with a heavy stab that deals {[DamageTable.2H_Spear_Sweep_Finish.DmgCoef * 100]}% weapon damage.</string>
 	<string key="Spear_VaultKick" comment="SPEAR + ACTIVE">Vault Kick</string>
-	<string key="Spear_VaultKick_description" comment="SPEAR + ACTIVE">Use your spear to vault forward and kick your target, dealing {[DamageTable.2H_Spear_VaultKick.DmgCoef * 100]}% weapon damage. Applies stun for {[Type_StatusEffectData.Spear_VaultKick_Stun.BaseDuration]}s. \n\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your spear, this ability inflicts taunt for {[DamageTable.2H_Spear_VaultKick.TauntDuration]}s when it hits. (Taunt causes monsters to focus only on you.)</string>
+	<string key="Spear_VaultKick_description" comment="SPEAR + ACTIVE">Use your spear to vault forward and kick your target, dealing {[DamageTable.2H_Spear_VaultKick.DmgCoef * 100]}% weapon damage and staggering them. Applies stun for {[Type_StatusEffectData.Spear_VaultKick_Stun.BaseDuration]}s. \n\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your spear, this ability inflicts taunt for {[DamageTable.2H_Spear_VaultKick.TauntDuration]}s when it hits. (Taunt causes monsters to focus only on you.)</string>
 	<string key="Spear_VaultKick_EmpowerVsLowHP" comment="SPEAR + MOD">Relentless Blows</string>
 	<string key="Spear_VaultKick_EmpowerVsLowHP_description" comment="SPEAR + MOD">Gain empower after successful hits on targets below {[SpearAbilityTable.Ability_Spear_VaultKick_EmpowerVsLowHP.TargetHealthPercent]}% health, increasing damage by {[Type_StatusEffectData.Spear_VaultKick_EmpowerVsLowHP.DMGThrust * 100]}% for {[Type_StatusEffectData.Spear_VaultKick_EmpowerVsLowHP.BaseDuration]}s.</string>
 	<string key="Spear_VaultKick_CDROnHit" comment="SPEAR + MOD">Continuous Motion</string>
-	<string key="Spear_VaultKick_CDROnHit_description" comment="SPEAR + MOD">Cooldowns for other spear abilities are reduced by {[SpearAbilityTable.Ability_Spear_VaultKick_CDROnHit.cooldownTimer * -100]}% on successful hit.</string>
+	<string key="Spear_VaultKick_CDROnHit_description" comment="SPEAR + MOD">Cooldowns for other spear abilities are reduced by {[SpearAbilityTable.Ability_Spear_VaultKick_CDROnHit.cooldownTimer * -100]}% on successful hit. (Max 1 reduction per ability use.)</string>
 	<string key="Spear_CDROnLight" comment="SPEAR + PASSIVE">Refreshing Jabs</string>
-	<string key="Spear_CDROnLight_description" comment="SPEAR + PASSIVE">All spear ability cooldowns are reduced by {[SpearAbilityTable.Ability_Spear_CDROnLight.cooldownTimer * -100]}% on the second hit of the light attack chain.</string>
+	<string key="Spear_CDROnLight_description" comment="SPEAR + PASSIVE">All spear ability cooldowns are reduced by {[SpearAbilityTable.Ability_Spear_CDROnLight.cooldownTimer * -100]}% on the second hit of the light attack chain. (Max 1 reduction per attack.)</string>
 	<string key="Spear_SlowOnLightVsLowHP" comment="SPEAR + PASSIVE">Crippling Jabs</string>
 	<string key="Spear_SlowOnLightVsLowHP_description" comment="SPEAR + PASSIVE">The last hit of the light attack chain applies {[Type_StatusEffectData.Spear_SlowOnLightVsLowHP.MoveSpeedMod * -100]}% slow for {[Type_StatusEffectData.Spear_SlowOnLightVsLowHP.BaseDuration]}s to targets below {[SpearAbilityTable.Ability_Spear_SlowOnLightVsLowHP.TargetHealthPercent]}% health. (Slow reduces target's movement speed.)</string>
 	<string key="Spear_BonusDmgVsGrit" comment="SPEAR + PASSIVE">Unerring Precision</string>
@@ -817,7 +817,7 @@
 	<string key="Spear_BonusDmgVsLowHP" comment="SPEAR + PASSIVE">Finishing Blows</string>
 	<string key="Spear_BonusDmgVsLowHP_description" comment="SPEAR + PASSIVE">Deal {[SpearAbilityTable.Ability_Spear_BonusDmgVsLowHP.BaseDamage * 100]}% increased damage against targets with less than {[SpearAbilityTable.Ability_Spear_BonusDmgVsLowHP.TargetHealthPercent]}% health.</string>
 	<string key="Spear_CDROnHitAfterDodge" comment="SPEAR + PASSIVE">Aggressive Maneuvers</string>
-	<string key="Spear_CDROnHitAfterDodge_description" comment="SPEAR + PASSIVE">The first successful hit with an ability within {[Type_StatusEffectData.Spear_CDROnHitAfterDodge.BaseDuration]}s of dodging reduces all spear cooldowns by {[SpearAbilityTable.Ability_Spear_CDROnHitAfterDodge.CooldownTimer * -100]}%.</string>
+	<string key="Spear_CDROnHitAfterDodge_description" comment="SPEAR + PASSIVE">The first successful hit with an ability within {[Type_StatusEffectData.Spear_CDROnHitAfterDodge.BaseDuration]}s of dodging reduces all spear cooldowns by {[SpearAbilityTable.Ability_Spear_CDROnHitAfterDodge.CooldownTimer * -100]}%. (Max 1 reduction per ability use.)</string>
 	<string key="Spear_ExtendDebuffOnCrit" comment="SPEAR + PASSIVE">Exacerbating Crits</string>
 	<string key="Spear_ExtendDebuffOnCrit_description" comment="SPEAR + PASSIVE">Critical hits extend the duration of your spear debuffs and damage over time effects by {[SpearAbilityTable.Ability_Spear_ExtendDebuffOnCrit.TargetStatusEffectDurationMult * 100]}%.</string>
 	<string key="Spear_BonusCritChanceVsBleed" comment="SPEAR + PASSIVE">Exposed Wounds</string>
@@ -843,7 +843,7 @@
 	<string key="Rapier_02_Mod4" comment="RAPIER + MOD">Finalize</string>
 	<string key="Rapier_02_Mod4_description" comment="RAPIER + MOD">The last hit of Flurry will cause the enemy to stagger.</string>
 	<string key="Rapier_03" comment="RAPIER + ACTIVE">Flourish and Finish</string>
-	<string key="Rapier_03_description" comment="RAPIER + ACTIVE">Flourish performs an attack dealing {[DamageTable.1H_Rapier_Flourish.DmgCoef * 100]}% weapon damage and knocking back enemies. Pressing light attack at the end of Flourish will perform the followup attack, Finish. Finish lunges forward dealing {[DamageTable.1H_Rapier_Finish.DmgCoef * 100]}% direct weapon damage and consumes all rapier bleeds on any target hit dealing {[RapierAbilityTable.Ability_Rapier_Flourish.ConsumeTargetStatusEffectMult * 100]}% of their damage immediately.</string>
+	<string key="Rapier_03_description" comment="RAPIER + ACTIVE">Flourish performs an attack dealing {[DamageTable.1H_Rapier_Flourish.DmgCoef * 100]}% weapon damage, staggering and pushing back enemies. Pressing light attack at the end of Flourish will perform the followup attack, Finish. Finish lunges forward staggering and dealing {[DamageTable.1H_Rapier_Finish.DmgCoef * 100]}% direct weapon damage and consumes all rapier bleeds on any target hit dealing {[RapierAbilityTable.Ability_Rapier_Flourish.ConsumeTargetStatusEffectMult * 100]}% of their damage immediately.</string>
 	<string key="Rapier_03_Mod1" comment="RAPIER + MOD">With Flair</string>
 	<string key="Rapier_03_Mod1_description" comment="RAPIER + MOD">Gain grit on both Flourish and Finish. \n\n(Grit prevents you from being staggered by incoming attacks.)</string>
 	<string key="Rapier_03_Mod2" comment="RAPIER + MOD">Swagger</string>
@@ -853,7 +853,7 @@
 	<string key="Rapier_03_Mod4" comment="RAPIER + MOD">Bloody End</string>
 	<string key="Rapier_03_Mod4_description" comment="RAPIER + MOD">Finish deals {[RapierAbilityTable.Rapier_Flourish_Mod4.ConsumeTargetStatusEffectMult * 100]}% of the rapier's bleed damage instead of only {[RapierAbilityTable.Ability_Rapier_Flourish.ConsumeTargetStatusEffectMult * 100]}%.</string>
 	<string key="Rapier_04" comment="RAPIER + ACTIVE">Riposte</string>
-	<string key="Rapier_04_description" comment="RAPIER + ACTIVE">Enter into a defensive stance for 1s. If struck during this ability, counter the attacker dealing {[DamageTable.1H_Rapier_Riposte_Stun.DmgCoef * 100]}% weapon damage and stunning them briefly for {[Type_StatusEffectData.Rapier_Riposte_Stun.BaseDuration]}s. You are briefly invulnerable upon a successful Riposte. \n\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your rapier, this ability inflicts taunt for {[DamageTable.1H_Rapier_Riposte_Taunt.TauntDuration]}s to all foes within 5m. (Taunt causes monsters to focus only on you.)</string>
+	<string key="Rapier_04_description" comment="RAPIER + ACTIVE">Enter into a defensive stance for 1s. If struck during this ability, counter the attacker dealing {[DamageTable.1H_Rapier_Riposte_Stun.DmgCoef * 100]}% weapon damage, staggering and stunning them for {[Type_StatusEffectData.Rapier_Riposte_Stun.BaseDuration]}s. You are briefly invulnerable upon a successful Riposte. \n\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your rapier, this ability inflicts taunt for {[DamageTable.1H_Rapier_Riposte_Taunt.TauntDuration]}s to all foes within 5m. (Taunt causes monsters to focus only on you.)</string>
 	<string key="Rapier_04_Mod1" comment="RAPIER + MOD">Insult to Injury</string>
 	<string key="Rapier_04_Mod1_description" comment="RAPIER + MOD">If the Riposte is triggered successfully, all of your attacks become uninterruptible for {[Type_StatusEffectData.Rapier_Riposte_Uninterruptible.BaseDuration]}s.</string>
 	<string key="Rapier_04_Mod2" comment="RAPIER + MOD">Priority</string>
@@ -879,7 +879,7 @@
 	<string key="Rapier_06_Mod4" comment="RAPIER + MOD">Crescendo</string>
 	<string key="Rapier_06_Mod4_description" comment="RAPIER + MOD">Individual successful light attacks reduce the cooldown of this ability by {[RapierAbilityTable.Rapier_Evasion_Mod1.cooldownTimer * -100]}% each.</string>
 	<string key="RapierPassive02" comment="RAPIER + PASSIVE">Refreshing Strikes</string>
-	<string key="RapierPassive02_description" comment="RAPIER + PASSIVE">Reduce all rapier cooldowns by {[RapierAbilityTable.PassiveRapier02.cooldownTimer * -100]}% on any hit.</string>
+	<string key="RapierPassive02_description" comment="RAPIER + PASSIVE">Reduce all rapier cooldowns by {[RapierAbilityTable.PassiveRapier02.cooldownTimer * -100]}% on any hit. (Max {[RapierAbilityTable.PassiveRapier02.NumberOfTrackedHits]} reductions per attack.)</string>
 	<string key="RapierPassive03" comment="RAPIER + PASSIVE">Heavy Puncture</string>
 	<string key="RapierPassive03_description" comment="RAPIER + PASSIVE">Any heavy attack on a bleeding enemy will extend their rapier bleeds by {[RapierAbilityTable.PassiveRapier03.TargetStatusEffectDurationMod]} seconds. Future stacking applications of this extended bleed will also be extended to its longer duration.</string>
 	<string key="RapierPassive05" comment="RAPIER + PASSIVE">Engarde</string>
@@ -891,7 +891,7 @@
 	<string key="Rapier_BonusDMGMaxHP" comment="RAPIER + PASSIVE">Perfectionist</string>
 	<string key="Rapier_BonusDMGMaxHP_description" comment="RAPIER + PASSIVE">Deal {[RapierAbilityTable.Rapier_BonusDMGMaxHP.BaseDamage * 100]}% more damage when your health is full.</string>
 	<string key="Rapier_BonusCDOnCrit" comment="RAPIER + PASSIVE">Red Curtains</string>
-	<string key="Rapier_BonusCDOnCrit_description" comment="RAPIER + PASSIVE">Critical strikes reduce all cooldowns by {[RapierAbilityTable.Rapier_BonusCDOnCrit.cooldownTimer * -100]}%.</string>
+	<string key="Rapier_BonusCDOnCrit_description" comment="RAPIER + PASSIVE">Critical strikes reduce all cooldowns by {[RapierAbilityTable.Rapier_BonusCDOnCrit.cooldownTimer * -100]}%. (Max {[RapierAbilityTable.Rapier_BonusCDOnCrit.NumberOfTrackedHits]} reductions per attack.)</string>
 	<string key="Rapier_BonusStamRegenOnHit" comment="RAPIER + PASSIVE">Controlled Breathing</string>
 	<string key="Rapier_BonusStamRegenOnHit_description" comment="RAPIER + PASSIVE">Gain {[Type_StatusEffectData.Rapier_BonusStamOnHit.Stamina]} stamina on any hit.</string>
 	<string key="Rapier_BonusSpeedOnKill" comment="RAPIER + PASSIVE">Swiftness</string>
@@ -901,7 +901,7 @@
 	<string key="Rapier_BonusDMGAfterAbility" comment="RAPIER + PASSIVE">Momentum</string>
 	<string key="Rapier_BonusDMGAfterAbility_description" comment="RAPIER + PASSIVE">Deal {[RapierAbilityTable.Rapier_BonusDMGAfterAbility.BaseDamage * 100]}% increased damage on your next light or heavy attack after performing an ability. Ends on hit or after {[Type_StatusEffectData.Rapier_BonusDMGAfterAbility.BaseDuration]}s.</string>
 	<string key="IceSpikes" comment="ICEMAGIC + ACTIVE">Ice Spikes</string>
-	<string key="IceSpikes_description" comment="ICEMAGIC + ACTIVE">Creates a trail of spikes that start from the player and go out in a straight line for 8m dealing {[DamageTable.IceMagic_Spikes.DmgCoef * 100]}% weapon damage. The final spike is a Mighty Spike that will deal {[DamageTable.IceMagic_Spikes_End.DmgCoef * 100]}% weapon damage and apply pushback.  Pressing light attack before the path fully forms will spawn the Mighty Spike early.\n\nCost {[ManaCosts_Player.60.ManaCost]} Mana.</string>
+	<string key="IceSpikes_description" comment="ICEMAGIC + ACTIVE">Creates a trail of spikes that start from the player and go out in a straight line for 8m dealing {[DamageTable.IceMagic_Spikes.DmgCoef * 100]}% weapon damage. The final spike is a Mighty Spike that will deal {[DamageTable.IceMagic_Spikes_End.DmgCoef * 100]}% weapon damage, staggering and pushing back enemies.  Pressing light attack before the path fully forms will spawn the Mighty Spike early.\n\nCost {[ManaCosts_Player.60.ManaCost]} Mana.</string>
 	<string key="RefreshingSpikes" comment="ICEMAGIC + MOD">Refreshing Spikes</string>
 	<string key="RefreshingSpikes_description" comment="ICEMAGIC + MOD">Cooldown for this ability reduced by {[IceMagicAbilityTable.SpikesRefreshingSpikes.CooldownTimer * -100]}% if an enemy is hit by the Mighty Spike.</string>
 	<string key="EmpoweredSpikes" comment="ICEMAGIC + MOD">Empowered Spikes</string>
@@ -949,7 +949,7 @@
 	<string key="PylonRefresh" comment="ICEMAGIC + PASSIVE">Pylon Refresh</string>
 	<string key="PylonRefresh_description" comment="ICEMAGIC + PASSIVE">A successful hit from the Ice Pylon extends its lifetime by 1s. (Maximum {[Type_StatusEffectData.IceMagic_PylonCooldownSafety.BaseDuration]}s.)</string>
 	<string key="IceShower" comment="ICEMAGIC + ACTIVE">Ice Shower</string>
-	<string key="IceShower_description" comment="ICEMAGIC + ACTIVE">Summon a shower of ice that creates a frosted area approximately 1m by 5m that lasts for 4s.  Enemies that enter the Ice Shower will be stricken with a powerful frostbite.  Frostbite roots for {[Type_StatusEffectData.IceMagic_IceShower_Freeze.BaseDuration]}s, blocks sprinting and dodging, slows movement speed by {[Type_StatusEffectData.IceMagic_Frostbite.MoveSpeedMod * -100]}%, and will remain on target for {[Type_StatusEffectData.IceMagic_Frostbite_Dur3.BaseDuration]}s after exiting the Ice Shower.\n\nCost {[ManaCosts_Player.66.ManaCost]} Mana.</string>
+	<string key="IceShower_description" comment="ICEMAGIC + ACTIVE">Summon a shower of ice that creates a frosted area approximately 1m by 5m that lasts for 4s.  Enemies that enter the Ice Shower will be stricken with a powerful frostbite.  Frostbite roots for {[Type_StatusEffectData.IceMagic_IceShower_Freeze.BaseDuration]}s, blocks sprinting and dodging, slows movement speed by {[Type_StatusEffectData.IceMagic_Frostbite.MoveSpeedMod * -100]}%, and will remain on target for {[Type_StatusEffectData.IceMagic_Frostbite_Dur3.BaseDuration]}s after exiting the Ice Shower. Ice Shower's root can only be applied once every {[Type_StatusEffectData.IceMagic_IceShower_Freeze_Cooldown.BaseDuration]}s to the same target.)\n\nCost {[ManaCosts_Player.66.ManaCost]} Mana.</string>
 	<string key="EnduringShower" comment="ICEMAGIC + MOD">Enduring Shower</string>
 	<string key="EnduringShower_description" comment="ICEMAGIC + MOD">Increase Ice Shower duration to 7s.</string>
 	<string key="QuickShower" comment="ICEMAGIC + MOD">Quick Shower</string>
@@ -957,7 +957,7 @@
 	<string key="ShowerSlush" comment="ICEMAGIC + MOD">Frigid Showers</string>
 	<string key="ShowerSlush_description" comment="ICEMAGIC + MOD">Frostbite applies rend to target, reducing their defense by {[Type_StatusEffectData.IceMagic_Frostbite_Rend.ABSStandard * -100]}%.</string>
 	<string key="Entombed" comment="ICEMAGIC + ACTIVE">Entombed</string>
-	<string key="Entombed_description" comment="ICEMAGIC + ACTIVE">Entomb yourself in ice to become invulnerable and greatly increase mana regeneration.  The tomb lasts for 10s but can be destroyed early.  Press block to exit the tomb normally or press light attack to exit while causing a damaging knockback at the cost of {[ManaCosts_Player.65.ManaCost]} mana.\n\nCost {[ManaCosts_Player.64.ManaCost]} Mana.</string>
+	<string key="Entombed_description" comment="ICEMAGIC + ACTIVE">Entomb yourself in ice to become invulnerable and greatly increase mana regeneration. The tomb lasts for 10s but can be destroyed early.\n\nPress block to exit the tomb normally or press light attack to exit while causing a damaging push at the cost of {[ManaCosts_Player.65.ManaCost]} mana. The push deals {[DamageTable.IceMagic_Entombed_Break.DmgCoef * 100]}% weapon damage to enemies in a 3m radius.\n\nCost {[ManaCosts_Player.64.ManaCost]} Mana.</string>
 	<string key="StrengthenedTomb" comment="ICEMAGIC + MOD">Strengthened Tomb</string>
 	<string key="StrengthenedTomb_description" comment="ICEMAGIC + MOD">Increase defense by {[Type_StatusEffectData.IceMagic_StrengthenedTomb.ABSStandard * 100]}% for {[Type_StatusEffectData.IceMagic_StrengthenedTomb.BaseDuration]}s after breaking out of Entombed.</string>
 	<string key="CleansingTomb" comment="ICEMAGIC + MOD">Cleansing Tomb</string>
@@ -977,7 +977,7 @@
 	<string key="IceConjurorUltimate" comment="ICEMAGIC + PASSIVE">Ultimate Frost</string>
 	<string key="IceConjurorUltimate_description" comment="ICEMAGIC + PASSIVE">Doubles Ice Pylon's health and extends Ice Pylon's frosted area radius to 5m.  Standing in this frosted area doubles Quick Frost and Empowered Frost bonuses.</string>
 	<string key="Leviathon_01" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Claw Shot</string>
-	<string key="Leviathon_01_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Shoot forward a four pronged claw attached to a chain from the muzzle. The projectile will travel up to 14m and cannot pull you upwards more than 3m. \nIf it connects to an enemy it will deal {[DamageTable.Blunderbuss_ClawShot_Attack.DmgCoef * 100]}% weapon damage and inflict root for {[Type_StatusEffectData.Blunderbuss_ClawShot_Root.BaseDuration]}s before quickly pulling you towards them. \n\nThe pull can be canceled by any ability use or primary fire. \n\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your blunderbuss, this ability inflicts taunt for {[DamageTable.Blunderbuss_ClawShot_Attack.TauntDuration]}s when it hits. (Taunt causes monsters to focus only on you.)</string>
+	<string key="Leviathon_01_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Shoot forward a four pronged claw attached to a chain from the muzzle. The projectile will travel up to 14m and cannot pull you upwards more than 3m. \nIf it connects to an enemy it will deal {[DamageTable.Blunderbuss_ClawShot_Attack.DmgCoef * 100]}% weapon damage and inflict root for {[Type_StatusEffectData.Blunderbuss_ClawShot_Root.BaseDuration]}s before quickly pulling you towards them. \n\nThe pull can be canceled by any ability use or primary fire.\n\nTaunt Gem Compatible: If you have a Carnelian gem equipped in your blunderbuss, this ability inflicts taunt for {[DamageTable.Blunderbuss_ClawShot_Attack.TauntDuration]}s when it hits. (Taunt causes monsters to focus only on you.)</string>
 	<string key="Leviathon_01_Mod1" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">In-and-Out</string>
 	<string key="Leviathon_01_Mod1_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Upon usage, restore {[Type_StatusEffectData.Blunderbuss_ClawShot_Mod1.Stamina]} stamina every second for {[Type_StatusEffectData.Blunderbuss_ClawShot_Mod1.BaseDuration]} seconds.</string>
 	<string key="Leviathon_01_Mod2" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Combat Readiness</string>
@@ -985,15 +985,15 @@
 	<string key="Leviathon_01_Mod3" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Mobile Overload</string>
 	<string key="Leviathon_01_Mod3_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Successful pulls will automatically grant one loaded ammunition. If you currently have 2 loaded ammunition this will exceed the max cap and grant a third.</string>
 	<string key="Leviathon_02" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Net Shot</string>
-	<string key="Leviathon_02_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Fire a large sized net projectile out of the blunderbuss dealing {[DamageTable.Blunderbuss_Net_Shot.DmgCoef * 100]}% weapon damage. \nThe net is a large projectile that will slow anyone hit by {[Type_StatusEffectData.Blunderbuss_NetShot.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.Blunderbuss_NetShot.BaseDuration]}s. \n\nIf standing still or moving backwards, the recoil from this attack will knock you further backwards. If moving sideways or forwards, you will continue forward unhindered.</string>
+	<string key="Leviathon_02_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Fire a large net out of the blunderbuss that deals {[DamageTable.Blunderbuss_Net_Shot.DmgCoef * 100]}% weapon damage and slows targets it hits by {[Type_StatusEffectData.Blunderbuss_NetShot.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.Blunderbuss_NetShot.BaseDuration]}s. \n\nIf standing still or moving backwards, the recoil from this attack will knock you further backwards. If moving sideways or forwards, you will continue forward unhindered.</string>
 	<string key="Leviathon_02_Mod1" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Fast Hands</string>
 	<string key="Leviathon_02_Mod1_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">If Net Shot hits a target, reduce this cooldown by {[BlunderbussAbilityTable.Blunderbuss_NetShot_Mod1.CooldownTimer * -100]}%.</string>
 	<string key="Leviathon_02_Mod2" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Barbed Netting</string>
-	<string key="Leviathon_02_Mod2_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Net Shot's initial hit is reduced to {[DamageTable.Blunderbuss_Net_Shot_Upgraded_Final.DmgCoef * 100]}% weapon damage. However, it now deals {[Type_StatusEffectData.Blunderbuss_BarbedNet.HealthModifierDamageBased * -100]}% additional weapon damage as poison each second for {[Type_StatusEffectData.Blunderbuss_BarbedNet.BaseDuration]}s.</string>
+	<string key="Leviathon_02_Mod2_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Net Shot's initial hit is reduced to {[DamageTable.Blunderbuss_Net_Shot_Upgraded_Final.DmgCoef * 100]}% weapon damage. However, it now deals {[Type_StatusEffectData.Blunderbuss_BarbedNet.HealthModifierDamageBased * -100]}% additional weapon damage as bleeding each second for {[Type_StatusEffectData.Blunderbuss_BarbedNet.BaseDuration]}s.</string>
 	<string key="Leviathon_02_Mod3" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Apparatus</string>
 	<string key="Leviathon_02_Mod3_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">The net now inflicts a {[Type_StatusEffectData.Blunderbuss_NetShot_Upgraded.MoveSpeedMod * -100]}% slow that degrades to normal move speed over {[Type_StatusEffectData.Blunderbuss_NetShot_Upgraded.BaseDuration]}s.</string>
 	<string key="Leviathon_03" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Blast Shot</string>
-	<string key="Leviathon_03_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Blast immense wind out of the blunderbuss knocking down any target immediately in front of you. Blast Shot deals {[DamageTable.Blunderbuss_Vortex_Knockback.DmgCoef * 100]}% weapon damage.</string>
+	<string key="Leviathon_03_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Blast immense wind out of the blunderbuss knocking down any target immediately in front of you. Blast Shot deals {[DamageTable.Blunderbuss_Vortex_Knockback.DmgCoef * 100]}% weapon damage. \n\nThis ability has grit. (Grit prevents you from being staggered by incoming attacks.)</string>
 	<string key="Leviathon_03_Mod1" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Preparation</string>
 	<string key="Leviathon_03_Mod1_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Blast Shot applies Rend, increasing damage applied to all targets affected by this ability by {[Type_StatusEffectData.Blunderbuss_Increase_Damage_Taken.ABSStandard * -100]}% for {[Type_StatusEffectData.Blunderbuss_Increase_Damage_Taken.BaseDuration]}s.</string>
 	<string key="Leviathon_03_Mod2" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Lingering Flow</string>
@@ -1009,11 +1009,11 @@
 	<string key="Leviathon_Passive05" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Future Planning</string>
 	<string key="Leviathon_Passive05_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Using an ability reduces all other ability cooldowns by {[BlunderbussAbilityTable.Blunderbuss_FuturePlanning.CooldownTimer * -100]}% of their remaining time.</string>
 	<string key="Leviathon_Passive06" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Deep Load</string>
-	<string key="Leviathon_Passive06_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">The last shot loaded into the Blunderbuss will do {[BlunderbussAbilityTable.Blunderbuss_DeepLoad.BaseDamage * 100]}% increased damage.</string>
+	<string key="Leviathon_Passive06_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">The last shot loaded into the blunderbuss will do {[BlunderbussAbilityTable.Blunderbuss_DeepLoad.BaseDamage * 100]}% increased damage.</string>
 	<string key="Leviathon_ContUltimate" comment="LEVIATHON + PASSIVE" rel_version="Weapon_Blunderbuss">Unload</string>
-	<string key="Leviathon_ContUltimate_description" comment="LEVIATHON + PASSIVE" rel_version="Weapon_Blunderbuss">The next shot fired within {[Type_StatusEffectData.Blunderbuss_Nine.BaseDuration]}s after triggering an ability will have 9 pellets instead of 6.</string>
+	<string key="Leviathon_ContUltimate_description" comment="LEVIATHON + PASSIVE" rel_version="Weapon_Blunderbuss">The next shot fired within {[Type_StatusEffectData.Blunderbuss_Nine.BaseDuration]}s after triggering an ability will have 8 pellets instead of 6.</string>
 	<string key="Leviathon_04" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Splitting Grenade</string>
-	<string key="Leviathon_04_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Shoot a grenade out of the blunderbuss that will bounce up to 4 times and will detonate after 1.5s. \nThe Splitting Grenade can also be manually detonated by reactivating its ability key at any time. \n\nUpon detonation, it will create 3 mini grenades that will disperse and explode 1s after landing, dealing {[DamageTable.Blunderbuss_SplittingGrenade.DmgCoef * 100]}% weapon damage in a 3m area. \n\nEach successive grenade hit against the same target deals {[BlunderbussAbilityTable.Ability_Blunderbuss_SplittingGrenade.BaseDamage * -100]}% less base damage.</string>
+	<string key="Leviathon_04_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Shoot a grenade out of the blunderbuss that can bounce up to 4 times. \nThe Splitting Grenade will detonate after 1.5s but can be detonated early by reactivating its ability key within this time period. \n\nUpon detonation, it will create 3 mini grenades that will disperse and explode 1s after landing, dealing {[DamageTable.Blunderbuss_SplittingGrenade.DmgCoef * 100]}% weapon damage in a 3m area. \n\nEach successive grenade hit against the same target deals {[BlunderbussAbilityTable.Ability_Blunderbuss_SplittingGrenade.BaseDamage * -100]}% less base damage.</string>
 	<string key="Leviathon_04_Mod1" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Soften</string>
 	<string key="Leviathon_04_Mod1_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Deal {[BlunderbussAbilityTable.Blunderbuss_SplittingGrenade_Mod1.BaseDamage * 100]}% increased damage to targets greater than {[BlunderbussAbilityTable.Blunderbuss_SplittingGrenade_Mod1.TargetHealthPercent]}% health.</string>
 	<string key="Leviathon_04_Mod2" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Delayed Escape</string>
@@ -1029,13 +1029,13 @@
 	<string key="Leviathon_05_Mod3" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Refresh</string>
 	<string key="Leviathon_05_Mod3_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Each individual hit from this ability or from the blunderbuss primary fire will lower the cooldown of this ability by {[BlunderbussAbilityTable.Blunderbuss_AzothShrapnelBlast_Mod3.CooldownTimer * -100]}%.</string>
 	<string key="Leviathon_05_Mod4" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Azoth Bomb</string>
-	<string key="Leviathon_05_Mod4_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Fire a singular bomb down the center of the fan. This bomb will impant itself in the world and explode dealing {[DamageTable.Blunderbuss_ASB_Bomb.DmgCoef * 100]}% damage in a 3m area after a .5s delay</string>
+	<string key="Leviathon_05_Mod4_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Fire a singular bomb down the center of the fan. This bomb will implant itself in the world and explode dealing {[DamageTable.Blunderbuss_ASB_Bomb.DmgCoef * 100]}% damage in a 3m area after a 1s delay</string>
 	<string key="Leviathon_06" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Mortar Charge</string>
 	<string key="Leviathon_06_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Load the blunderbuss with heavy canisters. For the next 15s or 3 shots, shots will no longer fire multiple pellets but instead will fire a heavy, fast diving, mortar-style canister that causes a tall explosion upon impact, dealing {[DamageTable.Blunderbuss_Mortar_Charge.DmgCoef * 100]}% weapon damage in a 3m area. \n\nIf the target is {[BlunderbussAbilityTable.Ability_Blunderbuss_MortarShot.DistFromDefender]}m away or further, they will take {[BlunderbussAbilityTable.Ability_Blunderbuss_MortarShot.BaseDamage * 100]}% increased damage from the mortar.</string>
 	<string key="Leviathon_06_Mod1" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Steady</string>
 	<string key="Leviathon_06_Mod1_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Each hit grants {[Type_StatusEffectData.Blunderbuss_SmallStam.Stamina]} stamina.</string>
 	<string key="Leviathon_06_Mod2" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Freedom</string>
-	<string key="Leviathon_06_Mod2_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">With each shot fired, gain a burst of {[Type_StatusEffectData.Blunderbuss_Freedom.MoveSpeedMod * 100]}% movespeed which decays in power over {[Type_StatusEffectData.Blunderbuss_Freedom.BaseDuration]}s.</string>
+	<string key="Leviathon_06_Mod2_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Firing increases your move speed by {[Type_StatusEffectData.Blunderbuss_Freedom.MoveSpeedMod * 100]}% for {[Type_StatusEffectData.Blunderbuss_Freedom.BaseDuration]}s.</string>
 	<string key="Leviathon_06_Mod3" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Streak</string>
 	<string key="Leviathon_06_Mod3_description" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Gain an extra canister, you can now fire up to 4 shots.</string>
 	<string key="Leviathon_Passive07" comment="LEVIATHON + ACTIVE" rel_version="Weapon_Blunderbuss">Artillery</string>

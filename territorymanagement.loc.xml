@@ -96,7 +96,7 @@
 	<string key="ui_leaving_settlement">Leaving Settlement</string>
 	<string key="ui_leaving_settlement_recall_no_cd">Recall back at any time using the map.</string>
 	<string key="ui_leaving_settlement_recall_time">Inn available in &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{time}&lt;/font&gt;</string>
-	<string key="ui_leaving_settlement_recall_time_desc">Inn recall is only available once every 30 minutes.</string>
+	<string key="ui_leaving_settlement_recall_time_desc">Inn recall is only available once every {numMinutes} minutes.</string>
 	<string key="ui_leaving_settlement_no_inn_desc">You are leaving without checking in to the inn.</string>
 	<string key="ui_leaving_settlement_no_inn">Not Checked in</string>
 	<string key="ui_leaving_settlement_inn_elsewhere">You are leaving without checking in to the inn, current inn is at {territoryName} {distance}</string>
@@ -452,19 +452,19 @@
 	<string key="ui_upgrade_desc_CookingProjectId">Upgrade Kitchen to Tier 3 that can craft &lt;font color="#ffd058"&gt;Tier 3 meals.&lt;/font&gt;</string>
 	<string key="ui_upgrade_desc_CookingProjectId2">Upgrade Kitchen to Tier 4 that can craft &lt;font color="#ffd058"&gt;Tier 4 meals.&lt;/font&gt;</string>
 	<string key="ui_upgrade_desc_CookingProjectId3">Upgrade Kitchen to Tier 5 that can craft &lt;font color="#ffd058"&gt;Tier 5 meals.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_FortGatesProjectId">Upgrade Gates to Tier 2.The gates increases in HP.</string>
-	<string key="ui_upgrade_desc_FortGatesProjectId2">Upgrade Gates to Tier 3.The gates increases in HP.</string>
+	<string key="ui_upgrade_desc_FortGatesProjectId">Upgrade Gates to Tier 2. The gates increases in HP.</string>
+	<string key="ui_upgrade_desc_FortGatesProjectId2">Upgrade Gates to Tier 3. The gates increases in HP.</string>
 	<string key="ui_upgrade_desc_FortHardPointsProjectId">Unlocks an additional point to deploy an emplacement (e.g: Ballista, Burning Oil Vat, etc..)</string>
 	<string key="ui_upgrade_desc_FortHardPointsProjectId2">Unlocks an additional point to deploy an emplacement (e.g: Ballista, Burning Oil Vat, etc..)</string>
 	<string key="ui_upgrade_desc_BallistaProjectId">Upgrade Ballista to Tier 2. When upgraded, any existing Ballista (deployed or otherwise) are also upgraded.</string>
 	<string key="ui_upgrade_desc_BallistaProjectId2">Upgrade Ballista to Tier 3. When upgraded, any existing Ballista (deployed or otherwise) are also upgraded.</string>
-	<string key="ui_upgrade_desc_FireBarrelProjectId">Upgrade Burning Oil Vat to Tier 2.When upgraded, any existing Burning Oil Vats (deployed or otherwise) are also upgraded.</string>
-	<string key="ui_upgrade_desc_FireBarrelProjectId2">Upgrade Burning Oil Vat to Tier 3.When upgraded, any existing Burning Oil Vats (deployed or otherwise) are also upgraded.</string>
-	<string key="ui_upgrade_desc_RepeaterProjectId">Upgrade Repeaters to Tier 2.When upgraded, any existing Repeaters (deployed or otherwise) are also upgraded.</string>
-	<string key="ui_upgrade_desc_RepeaterProjectId2">Upgrade Repeaters to Tier 3.When upgraded, any existing Repeaters (deployed or otherwise) are also upgraded.</string>
-	<string key="ui_upgrade_desc_HornProjectId">Upgrade Warhorns to Tier 2.When upgraded, any existing Warhorns (deployed or otherwise) are also upgraded.</string>
-	<string key="ui_upgrade_desc_HornProjectId2">Upgrade Warhorns to Tier 3.When upgraded, any existing Warhorns (deployed or otherwise) are also upgraded.</string>
-	<string key="ui_upgrade_desc_ExplosiveProjectId">Upgrade Explosives to Tier 2.When upgraded, any existing Explosives (deployed or otherwise) are also upgraded.</string>
+	<string key="ui_upgrade_desc_FireBarrelProjectId">Upgrade Burning Oil Vat to Tier 2. When upgraded, any existing Burning Oil Vats (deployed or otherwise) are also upgraded.</string>
+	<string key="ui_upgrade_desc_FireBarrelProjectId2">Upgrade Burning Oil Vat to Tier 3. When upgraded, any existing Burning Oil Vats (deployed or otherwise) are also upgraded.</string>
+	<string key="ui_upgrade_desc_RepeaterProjectId">Upgrade Repeaters to Tier 2. When upgraded, any existing Repeaters (deployed or otherwise) are also upgraded.</string>
+	<string key="ui_upgrade_desc_RepeaterProjectId2">Upgrade Repeaters to Tier 3. When upgraded, any existing Repeaters (deployed or otherwise) are also upgraded.</string>
+	<string key="ui_upgrade_desc_HornProjectId">Upgrade Warhorns to Tier 2. When upgraded, any existing Warhorns (deployed or otherwise) are also upgraded.</string>
+	<string key="ui_upgrade_desc_HornProjectId2">Upgrade Warhorns to Tier 3. When upgraded, any existing Warhorns (deployed or otherwise) are also upgraded.</string>
+	<string key="ui_upgrade_desc_ExplosiveProjectId">Upgrade Explosives to Tier 2. When upgraded, any existing Explosives (deployed or otherwise) are also upgraded.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId2">Upgrade Explosives to Tier 3. When upgraded, any existing Explosives (deployed or otherwise) are also upgraded.</string>
 	<string key="ui_territory_level">Territory Level: {level}</string>
 	<string key="ui_enter_house">Enter House Menu</string>

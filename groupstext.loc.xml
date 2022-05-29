@@ -11,7 +11,7 @@
 	<string key="ui_receivedgroupinvite_hide" comment="">Hide</string>
 	<string key="ui_togglepvpblocked_title" comment="">PvP Flag Warning</string>
 	<string key="ui_togglepvpblocked_ingroup" comment="">PvP and PvE players cannot be grouped together. Changing your PvP flagging will kick you from this group.\n\nAre you sure you want to change your PvP flag?</string>
-	<string key="ui_togglepvpblocked_pendinginvites" comment="">Changing your PvP flagging will rescind all of your pending group invites.\n\nAre you sure you want to change your PvP flag?</string>
+	<string key="ui_togglepvpblocked_pendinginvites" comment="">Changing your PvP flagging will rescind all of your invites to Expedition lobby.\n\nAre you sure you want to change your PvP flag?</string>
 	<string key="ui_receivedwargroupinvitetitle" comment="">Join the war!</string>
 	<string key="ui_receivedwargroupinvitemessage" comment="">You have been invited to join the war at {territoryName} from {startTime} to {endTime}. Accept to be teleported to the battlefield.</string>
 	<string key="ui_receivedinvasiongroupinvitetitle" comment="">Defend against the invasion!</string>
@@ -51,10 +51,12 @@
 	<string key="ui_cannotinvite" comment="">You cannot invite someone at this time.</string>
 	<string key="ui_cannotinviteingroup" comment="">You cannot invite someone in your group.</string>
 	<string key="ui_cannotinvitegroupfull" comment="">Your group is already full.</string>
-	<string key="ui_cannotinviteinraid" comment="">You cannot invite someone during War.</string>
+	<string key="ui_cannotinviteinraid" comment="">You cannot invite someone during a War.</string>
+	<string key="ui_cannotinviteinInvasion" comment="">You cannot invite someone during an Invasion.</string>
 	<string key="ui_cannotinvitein_pvp_wrong_faction" comment="">Must be in same faction for PvP group.</string>
 	<string key="ui_cannotleavegroup_in_arena" comment="">You cannot leave your group while in an Arena.</string>
 	<string key="ui_cannotleavegroup_in_war" comment="">You cannot leave your group while in a War.</string>
+	<string key="ui_cannotleavegroup_in_invasion" comment="">You cannot leave your group while in an Invasion.</string>
 	<string key="ui_cannotleavegroup_in_dungeon" comment="">You cannot leave your group while in an Expedition.</string>
 	<string key="ui_cannotjoingroup_in_arena" comment="">You cannot join a different group while in an Arena.</string>
 	<string key="ui_cannotjoingroup_in_dungeon" comment="">You cannot join a different group while in an Expedition.</string>

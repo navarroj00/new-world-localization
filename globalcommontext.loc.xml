@@ -118,6 +118,7 @@
 	<string key="ui_affliction_mutcurse3_tooltip" rel_version="Feature_Dungeon_Mutators">At the end of this timer, the player with the lowest health is afflicted with Combustible.</string>
 	<string key="ui_affliction_mutcurse4" rel_version="Feature_Dungeon_Mutators">blowback resistance</string>
 	<string key="ui_affliction_mutcurse4_tooltip" rel_version="Feature_Dungeon_Mutators">If you run out of resistance, a silence zone will be cast on you. The zone will detonate after a time, dealing damage to players. Resistance is shared among all members of your group.</string>
+	<string key="ui_affliction_mutcurse2" rel_version="Feature_Dungeon_Mutators_pt2">weary resistance</string>
 	<string key="ui_affliction_mutcurse2_tooltip" rel_version="Feature_Dungeon_Mutators">If you run out of resistance, a Weary zone will be cast on you, slowing your movement and increasing all damage you take. Using abilities increases resistance. Resistance is shared among all members of your group.</string>
 	<string key="ui_afflicted_bleeding">wounded</string>
 	<string key="ui_afflicted_bleeding_tooltip">While wounded, you regain stamina at a much lower rate</string>
@@ -231,8 +232,8 @@
 	<string key="ui_company_name_input">Name Your Company</string>
 	<string key="ui_customize_company_information">These settings can be changed at any time</string>
 	<string key="ui_no_points_spent">No Points Spent</string>
-	<string key="ui_commit_1_point">Commit &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt; 1 &lt;/font&gt; Point</string>
-	<string key="ui_commit_points">Commit &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt; {points} &lt;/font&gt; Points</string>
+	<string key="ui_commit_1_point">Assign &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt; 1 &lt;/font&gt; Point</string>
+	<string key="ui_commit_points">Assign &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt; {points} &lt;/font&gt; Points</string>
 	<string key="ui_abilities_on_cooldown">Abilities on Cooldown</string>
 	<string key="ui_abilities_in_combat">In Combat</string>
 	<string key="ui_componentname">Component Name</string>
@@ -261,6 +262,8 @@
 	<string key="ui_twitch_reward_notification">Twitch Reward</string>
 	<string key="ui_twitch_reward_text">You've received a Twitch Drop</string>
 	<string key="ui_twitch_reward_view">View Reward(s)</string>
+	<string key="ui_prime_reward_notification">Prime Gaming Reward</string>
+	<string key="ui_prime_reward_text">You've received a Prime Gaming item</string>
 	<string key="ui_createnewcharacter">CREATE NEW CHARACTER</string>
 	<string key="ui_crest">Crest</string>
 	<string key="ui_crest_emblem">Crest Emblem</string>
@@ -280,6 +283,8 @@
 	<string key="ui_days_with_time_short">{time}d</string>
 	<string key="ui_day_with_time">1 day</string>
 	<string key="ui_day_with_time_short">1d</string>
+	<string key="ui_lessthan_day_with_time">Less than 1 day</string>
+	<string key="ui_lessthan_day_with_time_short">&lt;1d</string>
 	<string key="ui_hour_with_time">1 hour</string>
 	<string key="ui_hour_with_time_short">1h</string>
 	<string key="ui_minute_with_time">1 minute</string>
@@ -299,6 +304,7 @@
 	<string key="ui_hourago">1 hour ago</string>
 	<string key="ui_hoursago">{time} hours ago</string>
 	<string key="ui_dayago">1 day ago</string>
+	<string key="ui_lessthan_dayago">>Less than 1 day ago</string>
 	<string key="ui_daysago">{time} days ago</string>
 	<string key="ui_morethanoneyear">More than 1 year</string>
 	<string key="ui_morethanoneyearago">Over 1 year ago</string>
@@ -445,6 +451,7 @@
 	<string key="ui_interactdetailed">Secondary Interact</string>
 	<string key="ui_inventory">Inventory</string>
 	<string key="ui_inventoryfull">Inventory Full</string>
+	<string key="ui_inventory_warning_toofullforrewards">Too many items in inventory to receive rewards.</string>
 	<string key="ui_inventoryslotsremaining">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{count}&lt;/font&gt; inventory slots remaining</string>
 	<string key="ui_inventoryweightremaining">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{Weight}&lt;/font&gt; pounds remaining</string>
 	<string key="ui_inventoryMaxWeight">Carrying maximum weight</string>
@@ -579,7 +586,7 @@
 	<string key="ui_ability_locked_error">Ability cannot be used until it's unlocked</string>
 	<string key="ui_ability_cooldown_error">Abilities cannot be changed until off cooldown</string>
 	<string key="ui_ability_combat_error">Abilities cannot be changed while in combat</string>
-	<string key="ui_ability_points_combat_error">Cannot commit points while in combat</string>
+	<string key="ui_ability_points_combat_error">Cannot assign points while in combat</string>
 	<string key="ui_respec_cooldown_error">Cannot respec while abilities are on cooldown</string>
 	<string key="ui_respec_combat_error">Cannot respec while in combat</string>
 	<string key="ui_equipment_cooldown_error">Equipment cannot be changed while abilities are on cooldown</string>
@@ -761,7 +768,7 @@
 	<string key="ui_tesat">tsetsdr</string>
 	<string key="ui_killed_notification">You defeated {playerName} in combat.</string>
 	<string key="ui_downed_notification">You knocked down {playerName}.</string>
-	<string key="ui_activate_arena">Activate Arena</string>
+	<string key="ui_activate_arena">Activate Trial</string>
 	<string key="ui_theyareinthegreen">They are in the green.</string>
 	<string key="ui_timedays">Days</string>
 	<string key="ui_timehours">Hours</string>
@@ -897,17 +904,19 @@
 	<string key="ui_xp">XP</string>
 	<string key="ui_player_xp">Player XP</string>
 	<string key="ui_player_xp_desc">Character XP helps you level up your character.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Derived From:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; Completing Missions, Crafting, Killing Enemies, Participating in Events&lt;/font&gt;</string>
+	<string key="ui_pvp_xp" rel_version="PvP_Rewards_Track">PvP XP</string>
 	<string key="ui_xp_boost">XP Boost</string>
 	<string key="ui_xp_event_title">XP BOOST EVENT!</string>
 	<string key="ui_xp_event_desc">Special XP Boost is active in this world!</string>
 	<string key="ui_xp_event_modal_title">XP BOOST IS ON!</string>
 	<string key="ui_xp_event_modal_desc">Come and enjoy the glorious XP Boost event! This is the chance to level up your characters!\nThe boost is activated on :</string>
-	<string key="ui_xp_event_xp">&lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_regular.font"&gt;XP (x {amount})&lt;/font&gt;</string>
-	<string key="ui_xp_event_tradeskill_xp">&lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_regular.font"&gt;Trade Skill (x {amount})&lt;/font&gt;</string>
-	<string key="ui_xp_event_weaponmastery_xp">&lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_regular.font"&gt;Weapon Mastery (x {amount})&lt;/font&gt;</string>
-	<string key="ui_xp_event_progression_xp">&lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_regular.font"&gt;{progressionName} (x {amount})&lt;/font&gt;</string>
+	<string key="ui_xp_event_xp">&lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_regular.font"&gt;XP (x {amount})&lt;/font&gt;</string>
+	<string key="ui_xp_event_tradeskill_xp">&lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_regular.font"&gt;Trade Skill (x {amount})&lt;/font&gt;</string>
+	<string key="ui_xp_event_weaponmastery_xp">&lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_regular.font"&gt;Weapon Mastery (x {amount})&lt;/font&gt;</string>
+	<string key="ui_xp_event_progression_xp">{progressionName} (x {amount})</string>
 	<string key="ui_xp_boost_reminder" comment="The leading space is intentional"> ( x {bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1.1" yOffset="0.5"&gt;&lt;/img&gt;)</string>
 	<string key="ui_xp_multiplier_arrow" comment="The leading space is intentional"> x {bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1.1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_reached_max_daily_pvp_arena_rewards">Daily PvP Arena Salt Limit Reached!</string>
 	<string key="world_landing_title">The optimal WORLD has been selected for you</string>
 	<string key="world_set">World Set?</string>
 	<string key="world_set_title">*What is a World Set?</string>
@@ -1418,6 +1427,7 @@
 	<string key="ui_claimstreak">Day {number}</string>
 	<string key="ui_random_location">Random Location</string>
 	<string key="ui_scroll_hint">Scroll to Zoom</string>
+	<string key="ui_map_rotate_camera">(Hold) Rotate Camera</string>
 	<string key="ui_global_storage_description">Other players can not take or see items you leave here. You must return to this outpost to retrieve items.</string>
 	<string key="ui_apply_all_resources">Apply All Resources</string>
 	<string key="ui_apply_resources">Apply Resources</string>
@@ -1673,6 +1683,8 @@
 	<string key="ui_skin_available_count">{count} Skins Available</string>
 	<string key="ui_skin_change_skin">Change Skin</string>
 	<string key="ui_added_to_inventory">Added to &lt;font color="#c0c0c0"&gt;Inventory&lt;/font&gt;</string>
+	<string key="ui_currency_added">Currency Added</string>
+	<string key="ui_xp_added">XP Added</string>
 	<string key="ui_shareObjective">Share with group</string>
 	<string key="ui_objective_type_full">You can not take any more objectives of this type.</string>
 	<string key="ui_failed_to_accept_quest">This Quest is Currently Disabled</string>
@@ -1739,17 +1751,17 @@
 	<string key="ui_territory_standing_with_icon">{territoryName} Standing</string>
 	<string key="ui_redeem_a_reward">CLAIM YOUR REWARD</string>
 	<string key="ui_not_enough_faction_standing">You don't have available standing points to redeem a territory reward.</string>
-	<string key="ui_exit_arena_title">Leave Arena?</string>
-	<string key="ui_exit_arena_desc">You cannot reenter an Arena once abandoned and will forfeit rewards. \n You will be teleported outside the Arena.</string>
+	<string key="ui_exit_arena_title">Leave Trial?</string>
+	<string key="ui_exit_arena_desc">You cannot reenter a Trial once abandoned and will forfeit rewards. \n You will be teleported outside the Trial.</string>
 	<string key="ui_giveup_arena_header">Immobilized</string>
 	<string key="ui_giveup_arena_desc">You will not bleed out while immobilized.</string>
-	<string key="ui_arena_leave">Leave Arena</string>
-	<string key="ui_arena_title">{monstername} Arena</string>
+	<string key="ui_arena_leave">Leave Trial</string>
+	<string key="ui_arena_title">{monstername} Trial</string>
 	<string key="ui_how_to_play">Details</string>
 	<string key="ui_required_to_active">Requirements</string>
-	<string key="ui_arena_time_remaining">Timing remaining for entering the Arena</string>
-	<string key="ui_arena_occupied">A group is already fighting in the Arena.</string>
-	<string key="ui_arena_description">Gather group near the entrance to enter the Arena.&lt;font color="#ffffff"&gt; One group is allowed in the Arena at a time.&lt;/font&gt;\n\nRespawning is disabled while inside the Arena. An Immobilized state will be entered upon knockdown.</string>
+	<string key="ui_arena_time_remaining">Timing remaining for entering the Trial</string>
+	<string key="ui_arena_occupied">A group is already fighting in the Trial.</string>
+	<string key="ui_arena_description">Gather group near the entrance to enter the Trial.&lt;font color="#ffffff"&gt; One group is allowed in the Trial at a time.&lt;/font&gt;\n\nRespawning is disabled while inside the Trial. An Immobilized state will be entered upon knockdown.</string>
 	<string key="ui_arena_objective">Challenge and defeat {monstername} within &lt;font color="#ffffff"&gt;15 minutes.&lt;/font&gt;</string>
 	<string key="ui_arena_item_reward">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt; {itemname}&lt;/font&gt;</string>
 	<string key="AwardAngryEarthEvent_MasterName">Angry Earth Equipment Cache</string>
@@ -1758,11 +1770,12 @@
 	<string key="ui_arena_group_proximity">Group member too far away</string>
 	<string key="ui_arena_group_dead">Group member is dead</string>
 	<string key="ui_arena_activating">Activation in progress</string>
+	<string key="ui_arena_required_item_disabled">Required item temporarily disabled</string>
 	<string key="spriggan_name">Zygoramet</string>
 	<string key="ui_exit_dungeon_title">Exit Expedition?</string>
 	<string key="ui_dungeon_exit">Expedition Exit Portal</string>
 	<string key="ui_exit_dungeon_desc">You will be teleported outside of the Expedition.\nYou will be able to re-enter the Expedition until it is closed.</string>
-	<string key="ui_exit_dungeon_will_close_desc">You will be teleported outside of the Expedition.\nIf everyone in your group leaves the Expedition it will be closed.\n</string>
+	<string key="ui_exit_dungeon_will_close_desc">You will be teleported outside of the Expedition.\nIf everyone in your group leaves the Expedition it will be closed.</string>
 	<string key="ui_exit_dungeon_incombat">You cannot leave an expedition when you have recently been in-combat. \nYou can leave in &lt;font color="#ffd45f"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_enable_newDamageNumbers">Floating Damage Numbers</string>
 	<string key="ui_enable_newDamageNumbers_description">When off, damage numbers will be docked to the enemy's health bar</string>
@@ -1817,10 +1830,10 @@
 	<string key="ui_has_resources">Has Resources</string>
 	<string key="ui_deadnotification_title">YOU ARE DEAD</string>
 	<string key="ui_deadnotification_body">You must respawn before you can respond to this notification.</string>
-	<string key="ui_vitals_health_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">Health\n{currentValue} / {maxValue}\n\nThis represents your overall level of health. If it runs out, you will enter Death's Door. Non-enemy players have an opportunity to revive you while in this incapacitated state.\n\nConsume tinctures to regain health quickly, and consume food to regain it slowly over time after a quick immediate increase.\n\nUpgrade Constitution to increase your maximum health.</string>
+	<string key="ui_vitals_health_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">Health\n{currentValue} / {maxValue}\n\nTo &lt;font color="#ffe940"&gt;regain&lt;/font&gt; health\n- Consume tinctures to regain it quickly\n- Consume food to regain it slowly over time after a quick increase\n\nUpgrade &lt;font color="#ffe940"&gt;Constitution&lt;/font&gt; to increase your maximum health.</string>
 	<string key="ui_vitals_stamina_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">Stamina\n{currentValue} / {maxValue}\n\nDefensive actions like blocking or dodging will drain your stamina, and if you run out you may be unable to perform those actions until it replenishes.\n\nStamina replenishes on its own over time unless you are sprinting or attacking.</string>
 	<string key="ui_vitals_mana_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">Mana\n{currentValue} / {maxValue}\n\nA mysterious resource required in order to use magic. If this is low, you may be unable to make use of certain supernatural abilities.\n\nMana replenishes over time.</string>
-	<string key="ui_vitals_mana_rate_tooltip">Mana replenishes over time.</string>
+	<string key="ui_vitals_mana_rate_tooltip">Mana replenishes over time.\n\nIncrease Mana Regen Rate by upgrading Focus to &lt;font color="#ffe940"&gt;50&lt;/font&gt;</string>
 	<string key="ui_vitals_cooldown_tooltip">Decreases the amount of time before you are able to use an ability again.</string>
 	<string key="ui_vitals_food_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">Food\n{currentValue} / {maxValue}\n\nEating increases the rate your health regenerates. If your food is too low, you could stop healing altogether!\n\nYou will not lose health due to hunger. It only affects the regeneration rate.</string>
 	<string key="ui_vitals_drink_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">Drink\n{currentValue} / {maxValue}\n\nStaying hydrated increases the rate your stamina regenerates. Keep it high to maximize your effectiveness.\n\nYou will not lose stamina due to thirst. It only affects the regeneration rate.</string>
@@ -1888,6 +1901,12 @@
 	<string key="ui_reputation_warning_title">Warning, Reputation Cap</string>
 	<string key="ui_reputation_warning_desc">You are almost at your Faction Reputation cap. {amount}/{maxAmount}</string>
 	<string key="ui_reputation_max_tooltip">Reputation is capped at {amount}</string>
+	<string key="ui_azoth_salt_max_title" rel_version="PvP_Rewards_Track">Azoth Salt Maximum</string>
+	<string key="ui_azoth_salt_max_desc" rel_version="PvP_Rewards_Track">You have reached Azoth Salt cap. Excess Azoth Salt will be lost.</string>
+	<string key="ui_azoth_salt_warning_title" rel_version="PvP_Rewards_Track">Warning, Azoth Salt Cap</string>
+	<string key="ui_azoth_salt_warning_desc" rel_version="PvP_Rewards_Track">You are almost at your Azoth Salt cap. {amount}/{maxAmount}</string>
+	<string key="ui_azoth_salt_max_tooltip" rel_version="PvP_Rewards_Track">You cannot open this because you have reached Azoth Salt cap.</string>
+	<string key="ui_azoth_salt_open_warning" rel_version="PvP_Rewards_Track">Opening this will put you at the Azoth Salt cap.  Excess Azoth Salt will be lost.</string>
 	<string key="ui_tokens_max_title">Tokens Maximum</string>
 	<string key="ui_tokens_max_desc">You have reached Faction Tokens cap. Excess Faction Tokens will be lost.</string>
 	<string key="ui_tokens_warning_title">Warning, Tokens Cap</string>
@@ -2049,7 +2068,7 @@
 	<string key="ui_sickle">Sickle</string>
 	<string key="ui_skinningknife">Skinning Knife</string>
 	<string key="ui_camp_reconnect_failed">Your camp was abandoned. Place a new one.</string>
-	<string key="ui_weapon_mastery_respec_warning">Are you sure you want to respec this weapon?\n\n Cost: {azoth}&lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_weapon_mastery_respec_warning">Are you sure you want to respec this weapon?\n\n Cost: {azoth}&lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.4" yOffset="3"&gt;&lt;/img&gt;</string>
 	<string key="ui_weapon_mastery_insufficient_azoth">You have insufficient Azoth.</string>
 	<string key="ui_you_have_unlocked">You have unlocked</string>
 	<string key="ui_you_have_earned">You have earned</string>
@@ -2058,6 +2077,29 @@
 	<string key="ui_now_track_banner">{resourceName} can now be tracked</string>
 	<string key="ui_now_gather">Now you can gather</string>
 	<string key="ui_standing_up">Standing Rank Increased</string>
+	<string key="hwm_loot_head">Expertise Head</string>
+	<string key="hwm_loot_chest">Expertise Chest</string>
+	<string key="hwm_loot_hands">Expertise Hands</string>
+	<string key="hwm_loot_legs">Expertise Legs</string>
+	<string key="hwm_loot_feet">Expertise Feet</string>
+	<string key="hwm_loot_amulet">Expertise Amulet</string>
+	<string key="hwm_loot_ring">Expertise Ring</string>
+	<string key="hwm_loot_token">Expertise Token</string>
+	<string key="hwm_loot_sword">Expertise Sword</string>
+	<string key="hwm_loot_hatchet">Expertise Hatchet</string>
+	<string key="hwm_loot_2h_hammer">Expertise Warhammer</string>
+	<string key="hwm_loot_2h_axe">Expertise Greataxe</string>
+	<string key="hwm_loot_bow">Expertise Bow</string>
+	<string key="hwm_loot_musket">Expertise Musket</string>
+	<string key="hwm_loot_shield">Expertise Shield</string>
+	<string key="hwm_loot_fire_staff">Expertise Fire Staff</string>
+	<string key="hwm_loot_life_staff">Expertise Life Staff</string>
+	<string key="hwm_loot_rapier">Expertise Rapier</string>
+	<string key="hwm_loot_spear">Expertise Spear</string>
+	<string key="hwm_loot_ice_magic">Expertise Ice Magic</string>
+	<string key="hwm_loot_void_gauntlet">Expertise Void Gauntlet</string>
+	<string key="hwm_loot_blunderbuss">Expertise Blunderbuss</string>
+	<string key="hwm_loot_greatsword">Expertise Greatsword</string>
 	<string key="ui_time_display">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{time}&lt;/font&gt; ({timezone})</string>
 	<string key="ui_clusterwarning_title">PLAY IN {worldName}</string>
 	<string key="ui_clusterwarning_warning">&lt;font color={colorHex1}&gt;You can only have 1 character in the &lt;/font&gt; &lt;font face="lyshineui/fonts/nimbus_bold.font"&gt;&lt;font color={colorHex2}&gt;{worldSetName} World Set&lt;/font&gt;&lt;/font&gt;&lt;font color={colorHex1}&gt;.&lt;/font&gt;</string>
@@ -2098,8 +2140,8 @@
 	<string key="ui_mergecomplete_question_3">Did I keep my company?</string>
 	<string key="ui_mergecomplete_question_4">Did my open Buy/Sell contracts remain posted?</string>
 	<string key="ui_mergecomplete_answer_1">Your character's level, attribute points, mastery points, territory standing, house, inventory, and settlement storage have been preserved.</string>
-	<string key="ui_mergecomplete_answer_2">Territories on the new world will be claimed by the Companies of that world. If your Company is not of that world, you lose all your territories, any upgrades, and your company will be given 50,000 coin.</string>
-	<string key="ui_mergecomplete_answer_3">Players will never be split up from each other due to a merge, and the Company membership and wallet have been preserved. Wars cannot be declared 3 days before the merge.</string>
+	<string key="ui_mergecomplete_answer_2">Territories on the new world will be claimed by the Companies of that world. If your Company is not of that world, you lose all your territories, any upgrades, and your company will be given {coinAmount} coin.</string>
+	<string key="ui_mergecomplete_answer_3">Players will never be split up from each other due to a World merge, and the Company membership and wallet have been preserved. Wars cannot be declared {bufferTime} before the merge.</string>
 	<string key="ui_mergecomplete_answer_4">Items posted for sale will be returned to you, and you will retain coin earned from partial sales. Coin paid for taxes or listing fees will not be returned.</string>
 	<string key="ui_merge_region">Region</string>
 	<string key="ui_merge_world">World</string>
@@ -2170,7 +2212,7 @@
 	<string key="ui_num_hotspot_type_1">{num1} {type1} Hotspot</string>
 	<string key="ui_num_hotspot_type_1_plural">{num1} {type1} Hotspots</string>
 	<string key="ui_num_hotspot_type_2">{num1} {type1} and {num2} {type2} Hotspots</string>
-	<string key="ui_num_hotspot_type_3">{num1} {type1}, {num2} {type2}, amd {num3} {type3} Hotspots</string>
+	<string key="ui_num_hotspot_type_3">{num1} {type1}, {num2} {type2}, and {num3} {type3} Hotspots</string>
 	<string key="ui_fishing_hook_too_early">Miss - too early!</string>
 	<string key="ui_fishing_hook_too_late">Miss - too late!</string>
 	<string key="ui_fishing_hook_line_broke">Miss - line broke!</string>
@@ -2312,6 +2354,7 @@
 	<string key="ui_itemtypedescription_Earringjewelry">Earring Jewelry</string>
 	<string key="ui_itemtypedescription_resource">Resource</string>
 	<string key="ui_itemtypedescription_tool">Tool</string>
+	<string key="ui_itemtypedescription_instrument">Instrument</string>
 	<string key="ui_itemtypedescription_dye">Dye</string>
 	<string key="ui_itemtypedescription_bag">Bag</string>
 	<string key="ui_itemtypedescription_consumable">Consumable</string>
@@ -2377,5 +2420,7 @@
 	<string key="ui_fishing_hotspot_active">Active Hotspot</string>
 	<string key="ui_fishing_hotspot_depleted_body">After enough fish are caught at a hotspot, it will become depleted. You can tell a hotspot is depleted when there are no fish jumping. A depleted hotspot will become active again after some time has passed.</string>
 	<string key="ui_fishing_hotspot_active_body">You can tell a fishing hotspot is active when you see fish jumping out of it. While it’s active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you’ll see a small alert telling you you’ve hit the hotspot.</string>
+	<string key="ui_event_token_disappears">&lt;font face="lyshineui/fonts/Nimbus_Medium.font" color="#cca000"&gt;Tokens will disappear at the end of the event.&lt;/font&gt;</string>
+	<string key="ui_event_time_left">&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Event ends in: &lt;font color="#cca000"&gt;{timeLeft}&lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass.png" xPadding="0" scale="1.1" yOffset="2"&gt;&lt;/img&gt;&lt;/font&gt;&lt;/font&gt;</string>
 </resources>
 

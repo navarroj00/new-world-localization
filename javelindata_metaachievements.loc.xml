@@ -476,6 +476,37 @@
 	<string key="ui_metachievement_pvp_countrolpointcount_title5">Ownership Rites</string>
 	<string key="ui_metachievement_pvp_countrolpointcount_title5_SHE">Ownership Rites</string>
 	<string key="ui_metachievement_pvp_countrolpointcount_title5_THEY">Ownership Rites</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title1" rel_version="Feature_PvP_Arenas">First Step To Glory</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title2" rel_version="Feature_PvP_Arenas">Rookie Combatant</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title3" rel_version="Feature_PvP_Arenas">Arena Aficionado</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title4" rel_version="Feature_PvP_Arenas">Hero of Hundreds</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title5" rel_version="Feature_PvP_Arenas">Conqueror of Many</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title6" rel_version="Feature_PvP_Arenas">Glorious Gladiator</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title7" rel_version="Feature_PvP_Arenas">Legend of the Arena</string>
+	<string key="ui_metachievement_pvp_pvparenaflawlesswin_title1" rel_version="Feature_PvP_Arenas">Flawless Victory</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title1_SHE" rel_version="Feature_PvP_Arenas">>First Step To Glory</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title1_THEY" rel_version="Feature_PvP_Arenas">>First Step To Glory</string>
+	<string key="ui_metachievement_pvp_pvparenawin_first_desc" rel_version="Feature_PvP_Arenas">Win 1 Arena match.</string>
+	<string key="ui_metachievement_pvp_pvparenawin_second_desc" rel_version="Feature_PvP_Arenas">Win 10 Arena matches.</string>
+	<string key="ui_metachievement_pvp_pvparenawin_third_desc" rel_version="Feature_PvP_Arenas">Win 50 Arena matches.</string>
+	<string key="ui_metachievement_pvp_pvparenawin_fourth_desc" rel_version="Feature_PvP_Arenas">Win 100 Arena matches.</string>
+	<string key="ui_metachievement_pvp_pvparenawin_fifth_desc" rel_version="Feature_PvP_Arenas">Win 250 Arena matches.</string>
+	<string key="ui_metachievement_pvp_pvparenawin_sixth_desc" rel_version="Feature_PvP_Arenas">Win 500 Arena matches.</string>
+	<string key="ui_metachievement_pvp_pvparenawin_seventh_desc" rel_version="Feature_PvP_Arenas">Win 1000 Arena matches.</string>
+	<string key="ui_metachievement_pvp_pvparenawin_flawless_desc" rel_version="Feature_PvP_Arenas">Win 100 Arena matches without anybody on your team dying.</string>
+	<string key="ui_meta_achievements_pvp_rewards_track" rel_version="PvP_Rewards_Track">PvP Rewards Track</string>
+	<string key="ui_metachievement_PvP_rank_title1" rel_version="PvP_Rewards_Track">It’s a Steel</string>
+	<string key="ui_metachievement_PvP_rank_title2" rel_version="PvP_Rewards_Track">All Bronzed Up</string>
+	<string key="ui_metachievement_PvP_rank_title3" rel_version="PvP_Rewards_Track">Hi Ho Silver!</string>
+	<string key="ui_metachievement_PvP_rank_title4" rel_version="PvP_Rewards_Track">The Golden Child</string>
+	<string key="ui_metachievement_PvP_rank_title5" rel_version="PvP_Rewards_Track">Gone Platinum</string>
+	<string key="ui_metachievement_PvP_rank_title6" rel_version="PvP_Rewards_Track">I’ve Touched the Stars!</string>
+	<string key="ui_metachievement_PvP_rank_title_desc1">Reach the Steel PvP Rank</string>
+	<string key="ui_metachievement_PvP_rank_title_desc2">Reach the Bronze PvP Rank</string>
+	<string key="ui_metachievement_PvP_rank_title_desc3">Reach the Silver PvP Rank</string>
+	<string key="ui_metachievement_PvP_rank_title_desc4">Reach the Gold PvP Rank</string>
+	<string key="ui_metachievement_PvP_rank_title_desc5">Reach the Platinum PvP Rank</string>
+	<string key="ui_metachievement_PvP_rank_title_desc6">Reach the Starmetal PvP Rank</string>
 	<string key="ui_metachievement_questarc_brightwood_title1">Bright Woods, Dark Past</string>
 	<string key="ui_metachievement_questarc_brightwood_title1_SHE">Bright Woods, Dark Past</string>
 	<string key="ui_metachievement_questarc_brightwood_title1_THEY">Bright Woods, Dark Past</string>
@@ -2692,7 +2723,7 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_genesis_desc">Defeat the Blighted Greenskeeper in The Garden Of Genesis.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_lazarus_desc">Defeat Chardis in the Lazarus Instrumentality.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_shipyard_desc">Defeat Empress Zhou in the Dynasty Shipyard.</string>
-	<string key="ui_metachievement_pve_bossKill_dungeon_isabellalair_desc" rel_version="Expedition_ShatterMtn_00">Defeat 'The Tempest' in !UNDEFINED!.</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_isabellalair_desc" rel_version="Expedition_ShatterMtn_00">Defeat Isabella in Tempest's Heart.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Amrine Excavation, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_obelisk_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Starstone Barrows, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_depths_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete The Depths, difficulty {number}.</string>
@@ -2975,6 +3006,7 @@
 	<string key="ui_meta_achievements_wars">Wars</string>
 	<string key="ui_meta_achievements_outpost_rush">Outpost Rush</string>
 	<string key="ui_meta_achievements_control_points">Control Points</string>
+	<string key="ui_meta_achievements_pvp_arenas">3v3 Arenas</string>
 	<string key="ui_meta_achievements_kill_counts_cristina">Kill Counts</string>
 	<string key="ui_meta_achievements_quests">Quests</string>
 	<string key="ui_meta_achievements_territory_stories">Territory Stories</string>
@@ -3046,6 +3078,7 @@
 	<string key="ui_meta_achievements_roman_numeral_iv">IV</string>
 	<string key="ui_meta_achievements_roman_numeral_v">V</string>
 	<string key="ui_meta_achievements_roman_numeral_vi">VI</string>
+	<string key="ui_meta_achievements_roman_numeral_vii">VII</string>
 	<string key="ui_meta_achievements_no_completed">No achievements are completed yet</string>
 	<string key="ui_meta_achievements_no_nearly_completed">No achievements are nearly completed yet</string>
 </resources>

@@ -21,6 +21,8 @@
 	<string key="ui_notoolmining">No equipped Pick</string>
 	<string key="ui_lowskillmining" comment="the required skill level will be shown in a circle immediately to the right of this string">Requires Mining skill</string>
 	<string key="ui_notoolazothstaff">No equipped {itemName} Tier {tier}</string>
+	<string key="ui_notoolitem_multiple">Requires {count}x {itemName}</string>
+	<string key="ui_notoolitem">Requires {itemName}</string>
 	<string key="ui_nopermission">No public access.</string>
 	<string key="ui_nopermissionrank">Rank '{rank}' doesn't have permission to '{action}'.</string>
 	<string key="ui_nopermissionpublic">'{action}' not allowed on public structures.</string>
@@ -63,6 +65,7 @@
 	<string key="ui_interact_territory_functionality_down">SERVER ERROR: Try again in a few minutes.</string>
 	<string key="ui_interact_with_item_cost">{interactionName} ({amount} {itemName})</string>
 	<string key="ui_interact_with_item_cost_sufficient">{interactionName} ({have}/{need} &lt;img src="{itemName}" xPadding="2" scale="1.25" yOffset="0.5"&gt;&lt;/img&gt;)</string>
+	<string key="ui_interact_with_item_cost_sufficient_no_qty">{interactionName} (&lt;img src="{itemName}" xPadding="2" scale="1.25" yOffset="0.5"&gt;&lt;/img&gt;)</string>
 	<string key="ui_interact_with_item_cost_insufficient">{interactionName} (&lt;font color="#f14b4b"&gt;{have}&lt;/font&gt;/{need} &lt;img src="{itemName}" xPadding="2" scale="1.25" yOffset="0.5"&gt;&lt;/img&gt;)</string>
 	<string key="ui_interact_with_item_cost_not_needed">{interactionName} - Not Needed</string>
 	<string key="ui_interactable_only_in_conquest_phase">{interactionName} - Only usable during active war</string>

@@ -20,6 +20,7 @@
 	<string key="mm_defaultworldname">New World</string>
 	<string key="mm_defaultworlddesc">No Description</string>
 	<string key="mm_defaultworldmotd">No MotD</string>
+	<string key="mm_defaultclustername">No Region</string>
 	<string key="ui_banned">Banned</string>
 	<string key="mm_loginerrortitle">Login Error</string>
 	<string key="mm_connectionfailed">Connection Failed</string>
@@ -217,11 +218,13 @@
 	<string key="mm_authresult_Denied_LoginTokenWrongHost">You have been routed to the wrong server. Please try again.</string>
 	<string key="mm_authresult_Denied_EasyAntiCheatFailure">EAC Configuration Error. Please see the New World community site for more information, https://forums.newworld.com</string>
 	<string key="mm_authresult_Error_InvalidSetup">Invalid authentication setup.</string>
+	<string key="mm_authresult_Error_Jwt_Persona">Invalid response from login services in obtaining credentials.</string>
 	<string key="mm_authresult_Error_Persona">Failed to authenticate with Persona.</string>
 	<string key="mm_authresult_Error_Persona_Assume_Role">Failed to retrieve credentials.\nPlease try again or contact New World community for more information, https://forums.newworld.com</string>
 	<string key="mm_authresult_Error_Steam">Failed to authenticate with Steam.</string>
 	<string key="mm_authresult_Denied_DatasheetVersionCheckFailed">Datasheet version mismatch.</string>
-	<string key="mm_authresult_Http_Error_Response_Code">Your client could not be authenticated. Please try again soon.</string>
+	<string key="mm_authresult_Http_Error_Response">Your client could not be authenticated. Please try again soon.</string>
+	<string key="mm_authresult_Http_Error_Response_Code">Invalid response during authentication. Please try again soon.</string>
 	<string key="mm_http_NoResponse">HTTP request failed; no response</string>
 	<string key="mm_queuesoon">Estimated Time: &lt; 1 minute\nPosition in Queue: {rank}\n{status}</string>
 	<string key="mm_queuewithestimate">Estimated Time: {time}\nPosition in Queue: {rank}\n{status}</string>
@@ -295,6 +298,50 @@
 	<string key="ui_attributes">Attributes</string>
 	<string key="ui_trade_skills">Trade Skills</string>
 	<string key="ui_how_it_works">How It Works</string>
+	<string key="ui_pvp_track_skills_tab" rel_version="PvP_Rewards_Track">PvP</string>
+	<string key="ui_pvp_track" rel_version="PvP_Rewards_Track">PvP Track</string>
+	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Checkpoint {checkpoint}:&lt;/font&gt; {currentProgression}/{maxProgression}\n\nProgress your track by engaging in PvP Missions, War, Outpost Rush, Capturing Forts, Defeating other players, 3v3 Arenas and earning XP while flagged.</string>
+	<string key="ui_pvp_track_next_track_tooltip" rel_version="PvP_Rewards_Track">You must complete all the checkpoints before starting the next track. If you choose a reward from each checkpoint, you will automatically start the next track.\n\nFor every checkpoint that you forgo choosing a reward, you’ll be granted 300 Azoth Salt when the next track starts.</string>
+	<string key="ui_pvp_track_unknown_item_tooltip" rel_version="PvP_Rewards_Track">Reward options will be revealed after completing the checkpoint.</string>
+	<string key="ui_pvp_track_completions" comment="The number of times they have completed the track. Like a level" rel_version="PvP_Rewards_Track">Tracks Completed</string>
+	<string key="ui_pvp_track_purchasehint" rel_version="PvP_Rewards_Track">Choose up to &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color={itemColor}&gt;1 item per checkpoint&lt;/font&gt; to purchase with &lt;font color={azothColor}&gt;Azoth Salt&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/icon_azoth_salt" scale="1.5" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_pvp_track_openemblems" rel_version="PvP_Rewards_Track">Emblems and Rewards</string>
+	<string key="ui_pvp_track_checkpoint" rel_version="PvP_Rewards_Track">Checkpoint &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{index}&lt;/font&gt;</string>
+	<string key="ui_pvp_track_pvpprogress" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color={colorProgress}&gt;{amount}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/icon_warsmall_white" scale="1.5" yOffset="4"&gt;&lt;/img&gt; &lt;font color={colorCheckpoint} face="lyshineui/fonts/Nimbus_regular.font"&gt; to Checkpoint {index}&lt;/font&gt;</string>
+	<string key="ui_pvp_currency_amount" rel_version="PvP_Rewards_Track">{amount}&lt;img src="lyshineui/images/icons/misc/icon_azoth_salt" scale="1.5" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_pvp_insufficient_azoth_salt" rel_version="PvP_Rewards_Track">Not enough Azoth Salt</string>
+	<string key="ui_pvp_cant_unlock" rel_version="PvP_Rewards_Track">Can't unlock more of this item</string>
+	<string key="ui_pvp_track_nexttrack" rel_version="PvP_Rewards_Track">Complete Track</string>
+	<string key="ui_pvp_track_nexttrack_popup_title" rel_version="PvP_Rewards_Track">Start Next Track</string>
+	<string key="azoth_salt_currency_name" rel_version="PvP_Rewards_Track">Azoth Salt</string>
+	<string key="azoth_salt_currency_desc" rel_version="PvP_Rewards_Track">Azoth Salt is the currency that gets you rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, PvP open world kills, and earning XP while flagged.\n\nAzoth Salt balance is capped at 100,000.</string>
+	<string key="azoth_salt_currency_lost" rel_version="PvP_Rewards_Track">Azoth Salt Loss</string>
+	<string key="azoth_salt_lost_tooltip" rel_version="PvP_Rewards_Track">Azoth Salt is the currency that gets you rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, PvP open world kills, and earning XP while flagged.\n\nAzoth Salt is not awarded when killing players 10+ levels below your current level and the victim also needs to have been flagged for longer than 10 minutes.</string>
+	<string key="ui_pvp_track_tut_title1" rel_version="PvP_Rewards_Track">PvP Reward Track</string>
+	<string key="ui_pvp_track_tut_title2" rel_version="PvP_Rewards_Track">PvP XP</string>
+	<string key="ui_pvp_track_tut_title3" rel_version="PvP_Rewards_Track">Azoth Salt</string>
+	<string key="ui_pvp_track_tut_title4" rel_version="PvP_Rewards_Track">Rewards</string>
+	<string key="ui_pvp_track_tut_desc1" rel_version="PvP_Rewards_Track">The PvP Reward Track contains PvP-specific rewards for doing PvP activities in the game. The track can be completed and run again to get a different selection of rewards, with more prestigious rewards becoming available as more tracks are completed.</string>
+	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Progress your track by engaging in PvP Missions, War, Outpost Rush, Capturing Forts, Defeating other players, 3v3 Arenas and earning XP while flagged.</string>
+	<string key="ui_pvp_track_tut_desc3" rel_version="PvP_Rewards_Track">Azoth Salt is the currency that gets you rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, PvP open world kills, and earning XP while flagged.</string>
+	<string key="ui_pvp_track_tut_desc4" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
+	<string key="ui_pvp_track_leveltext" rel_version="PvP_Rewards_Track">&lt;font color="#FFFFFF" &gt;{level}&lt;/font&gt; Tracks Completed</string>
+	<string key="ui_pvp_track_leveltext_header" rel_version="PvP_Rewards_Track">Tracks Completed: &lt;font face="lyshineui/fonts/CaslonAnt.font" color="#FFFFFF"&gt;{level}&lt;/font&gt;</string>
+	<string key="ui_pvp_track_current_balance" rel_version="PvP_Rewards_Track">Current Balance: &lt;font color={colorBalance} face="lyshineui/fonts/CaslonAnt.font"&gt;{balance}&lt;/font&gt;</string>
+	<string key="ui_pvp_track_addtopool" rel_version="PvP_Rewards_Track">+ Reward Pool</string>
+	<string key="ui_pvp_track_rankup_confirmation" rel_version="PvP_Rewards_Track">Receive a bonus for each Checkpoint that has an unclaimed reward, and carry your Azoth Salt over to a new track with new rewards.</string>
+	<string key="ui_pvp_track_rankup_stagesummary" rel_version="PvP_Rewards_Track">\n&lt;font color={colorBonus}&gt;Checkpoint Bonus: &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffffff"&gt;{amount}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/icon_azoth_salt" scale="1.5" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_pvp_track_rankup_bonussalt" rel_version="PvP_Rewards_Track">&lt;font color={colorBonus}&gt; Track Completion Bonus: &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{amount}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/icon_azoth_salt" scale="1.5" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_pvp_track_bannertext" rel_version="PvP_Rewards_Track">PvP Track Completed</string>
+	<string key="ui_pvp_track_bannerrewards_1" rel_version="PvP_Rewards_Track">Reward Pool: \n+Emote</string>
+	<string key="ui_pvp_track_bannerrewards_2" rel_version="PvP_Rewards_Track">Reward Pool: \n+Named Equipment \n+More Currency</string>
+	<string key="ui_pvp_track_bannerrewards_3" rel_version="PvP_Rewards_Track">Reward Pool: \n+Prestige Equipment  \n+Emote \n+Salt Vial Packs</string>
+	<string key="ui_pvp_track_bannerrewards_4" rel_version="PvP_Rewards_Track">Reward Pool: \n+Gypsum \n+More Currency \n+More Umbral Shards</string>
+	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Reward Pool: \n+Emote \n+More Umbral Shards </string>
+	<string key="ui_pvp_track_bannerrewards_6" rel_version="PvP_Rewards_Track">Reward Pool: \n+Emote \n+More Currency \n+More Item Drops</string>
+	<string key="ui_pvp_track_next_milestone" rel_version="PvP_Rewards_Track">{milestone} Track Milestone At:</string>
+	<string key="ui_pvp_track_milestone" rel_version="PvP_Rewards_Track">{milestone} Track Milestone</string>
+	<string key="ui_pvp_track_reward" rel_version="PvP_Rewards_Track">Reward</string>
 	<string key="ui_blacksmithing">Weaponsmithing</string>
 	<string key="ui_estimated_time">Estimated Time</string>
 	<string key="ui_queue_soon">&lt; 1 minute</string>

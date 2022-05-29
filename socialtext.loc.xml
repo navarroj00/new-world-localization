@@ -249,6 +249,7 @@
 	<string key="ui_twitch_logout_tooltip">Disconnect Twitch Account</string>
 	<string key="ui_twitch_login_tooltip">Connect Twitch Account</string>
 	<string key="ui_twitch_logged_in">Twitch Account Connected</string>
+	<string key="ui_twitch_connected_to">Connected to:</string>
 	<string key="ui_twitch_login_popup_title">Connect To Twitch</string>
 	<string key="ui_twitch_login_popup_message">You are not currently logged in to Twitch. You will be taken to a web browser to log in and connect your Twitch account.</string>
 	<string key="ui_twitch_redirect_popup_title">Connect To Twitch</string>
@@ -259,16 +260,21 @@
 	<string key="ui_twitch_logoutfailed_popup_message">There was a problem signing out of your Twitch account.</string>
 	<string key="ui_twitch_validation_failed_title">Twitch Connect Failed</string>
 	<string key="ui_twitch_validation_failed_message">Failed to validate your Twitch account, Twitch features will not work. Please try logging in again.</string>
+	<string key="ui_twitch_socialpane_subarmy">Subscriber Army</string>
+	<string key="ui_twitch_socialpane_spotlight">Spotlight</string>
+	<string key="ui_twitch_socialpane_spotlight_active">Streamer Spotlight</string>
+	<string key="ui_twitch_socialpane_spotlight_hide">Hide Other Streamers</string>
 	<string key="ui_spotlight_viewer">1 viewer</string>
 	<string key="ui_spotlight_viewers">{viewers} viewers</string>
-	<string key="ui_spotlight_failed">&lt;font color="#835acd"&gt;Spotlight :&lt;/font&gt; &lt;font color="#f25d5d"&gt; Failed&lt;/font&gt;</string>
-	<string key="ui_spotlight_notconnected">&lt;font color="#835acd"&gt;Spotlight :&lt;/font&gt; &lt;font color="#f25d5d"&gt; Not Connected&lt;/font&gt;</string>
-	<string key="ui_spotlight_connecting">&lt;font color="#835acd"&gt;Spotlight :&lt;/font&gt; &lt;font color="#ffffff"&gt; Starting&lt;/font&gt;</string>
+	<string key="ui_spotlight_failed">&lt;font color="#835acd"&gt;Status:&lt;/font&gt; &lt;font color="#f25d5d"&gt; Failed&lt;/font&gt;</string>
+	<string key="ui_spotlight_notconnected">&lt;font color="#835acd"&gt;Status:&lt;/font&gt; &lt;font color="#f25d5d"&gt; Off&lt;/font&gt;</string>
+	<string key="ui_spotlight_connecting">&lt;font color="#835acd"&gt;Status:&lt;/font&gt; &lt;font color="#ffffff"&gt; Starting&lt;/font&gt;</string>
 	<string key="ui_spotlight_failed_notification_title">Connection Failed</string>
 	<string key="ui_spotlight_failed_notification_message">Unable to start Twitch Streamer Spotlight. Make sure your stream is live and try again.</string>
-	<string key="ui_spotlight_error">&lt;font color="#835acd"&gt;Spotlight :&lt;/font&gt; &lt;font color="#f25d5d"&gt; Error&lt;/font&gt;</string>
+	<string key="ui_spotlight_error">&lt;font color="#835acd"&gt;Status:&lt;/font&gt; &lt;font color="#f25d5d"&gt; Error&lt;/font&gt;</string>
 	<string key="ui_subarmy_title">Twitch Subscriber Army</string>
 	<string key="ui_subarmy_join_desc">Join other streamers' subscriber army session.</string>
+	<string key="ui_subarmy_tooltip">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Enable&lt;/font&gt; it in &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Settings&lt;/font&gt; to create or join Twitch Subscriber Army.</string>
 	<string key="ui_subarmy_subtitle_sessions">{number} sessions available</string>
 	<string key="ui_subarmy_subtitle_requests">{number} joined</string>
 	<string key="ui_subarmy_tab_join">Join session</string>
@@ -327,11 +333,12 @@
 	<string key="ui_notification_pvp_countdown">PVP PROTECTION TIMER STARTED</string>
 	<string key="ui_notification_pvp_flagging_title">FLAGGING FOR PVP</string>
 	<string key="ui_notification_pvp_flagging_message">While flagged for PvP, you can attack other PvP flagged players, but other flagged players can do the same to you. You receive a &lt;font color="#ff9900"&gt;10% XP bonus&lt;/font&gt; while flagged. \n\nWhen you leave the Sanctuary, you will have a &lt;font color="#ff9900"&gt;30 second protection&lt;/font&gt; timer.</string>
-	<string key="ui_notification_pvp_track_flagging_message">While flagged for PvP, you can attack and be attacked by other PvP flagged players. &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Up to 100 Azoth Salt may be transferred from the victim to the killer.&lt;/font&gt; You recieve a &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;10% XP bonus&lt;/font&gt; while flagged. \n\nWhen you leave the Sanctuary, you will have a &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;30 second protection&lt;/font&gt; timer.</string>
-	<string key="ui_notification_pvp_checkpoint_unlocked">CHECKPOINT UNLOCKED</string>
+	<string key="ui_notification_pvp_track_flagging_message">While flagged for PvP, you can attack and be attacked by other PvP flagged players. &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Successful kills can get you Azoth Salt and PvP XP.&lt;/font&gt; You recieve a &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;10% XP bonus&lt;/font&gt; while flagged. \n\nWhen you leave the Sanctuary, you will have a &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;30 second protection&lt;/font&gt; timer.</string>
+	<string key="ui_notification_pvp_checkpoint_unlocked">Checkpoint Unlocked</string>
+	<string key="ui_notification_pvp_reward_options">View Reward Options</string>
 	<string key="ui_pvp_rank_name_0">Recruit</string>
-	<string key="ui_pvp_rank_name_1">Iron</string>
-	<string key="ui_pvp_rank_name_2">Steel</string>
+	<string key="ui_pvp_rank_name_1">Steel</string>
+	<string key="ui_pvp_rank_name_2">Bronze</string>
 	<string key="ui_pvp_rank_name_3">Silver</string>
 	<string key="ui_pvp_rank_name_4">Gold</string>
 	<string key="ui_pvp_rank_name_5">Platinum</string>
@@ -402,9 +409,9 @@
 	<string key="ui_subarmy_decline_tooltip">You are declined to join the streamer's Subscriber Army.</string>
 	<string key="ui_subarmy_waiting">Waiting for the streamer's approval..</string>
 	<string key="ui_subarmy_pending">Pending...</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_findtabtitle">Find Group</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_managetabtitle">Manage Group</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_creategroup">Create a New Group</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_findtabtitle">Find Lobby</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_managetabtitle">Lobby</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_creategroup">Create Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_refresh">Refresh</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_screen_header">Expedition Group Finder</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_expeditionname">Expedition Name</string>
@@ -417,29 +424,33 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voippreference_tooltip">Voice Chat: &lt;font color={color} face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{preference}&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_size">Minimum Players: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{amount}&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_recommendedgearscore">Recommended Gear Score: &lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;600 - {score}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_minimum_gear_score">Minimum Gear Score: &lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;{score}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_minimum_level">Minimum Level: &lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;{level}&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_recommendedlevel">Recommended Level: &lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;{level}&lt;/font&gt;</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_no_group">There's currently no group for this Expedition.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_no_group_at_level">There's currently no group for difficulty level {level} of this Expedition.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_no_group_manage">You're currently not in an Expedition Group.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_your_group">Your Expedition Group</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_no_group">There's currently no Lobby for this Expedition.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_no_group_at_level">There's currently no Lobby for difficulty level {level} of this Expedition.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_no_group_manage">You're currently not in a Lobby.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_your_group">Expedition</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_difficulty">Difficulty {level}</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_members">Members</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_apply">Apply</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_only_accept">Only Accept</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_looking_for">Looking For</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_applicationrejected">Application Rejected</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_groupmembers">Group Members</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_currentmembers">Current Members</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_groupmembers">Members</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_currentmembers">In Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_requests">Requests</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_requeststojoin">Requests to Join</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_requeststojoin">Requests</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_role">Role</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_preferredrole">Preferred Role</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_level">Level</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_gearscore">Gear Score</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_gearscore_short">G.S.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_stats">Stats</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_gearscore_average">Average Gear Score</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_viewstats">View Stats</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_leavegroup">Leave Group</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_removefromgroup">Remove From Group</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_leavegroup">Leave</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_removefromgroup">Kick</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invite">Invite</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invited">Invited</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_reject">Reject</string>
@@ -449,24 +460,28 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_timeout">Request Timed Out</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_requestfailed">Request Failed</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_invalidrequest">Invalid Request</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_group_title">Create a new group</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_group_title">Create New Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voip_preferred">Preferred</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voip_preferred_with_icon">&lt;img src="lyshineui/images/icons/misc/icon_microphone" scale="1.8" xPadding="-2" yOffset="5.0"&gt;&lt;/img&gt; Preferred</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voip_not_required">Not Required</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_level">Minimum Level</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_gear_score">Minimum Gear Score</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_gear_score_requirement_not_met">You do not meet the level and/or gear score requirement to join this group.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_level_unlist_pending_group">Unlist Pending Group</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_gear_score_requirement_not_met">You do not meet the level and/or gear score requirement to join this Lobby.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_level_unlist_pending_group">Delete Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending">Pending...</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_accepted">Accepted</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_accepted_roles_label">Accept Only</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_select_role_label">Select Your Role</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_your_role_label">Your Role</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_choose_role_title">Choose your role</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_comment_label">Comment</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invite_current_group_label">Invite Current Group Members</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_button_confirm">Request to join</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_button_confirm_disabled_tooltip">You must select a role.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_required_item_tooltip">You need to have {quantity} {item} to create a new group for this expedition.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_required_item_tooltip">You need to have {quantity} {item} to create a new Lobby for this expedition.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_current_roles_label">Current roles in this group</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_current_role_text">&lt;img src="{icon}" scale="2.5" yOffset="8.0"&gt;&lt;/img&gt;  {count} {role}</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_disabled">This role is not needed for this group.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_disabled">This role is not needed for this Lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_recommended_label">RECOMMENDED TO HAVE:</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_tank_name">Tank</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_tank_description">A tank's role in the party is to absorb damage and attract the attention of enemies away from their allies. Tanks should wear heavy armor and equip Carnellian gems to allow them to taunt foes. A tank usually has some form of crowd control (stun, root, flatten) to stop foes from getting to their allies.</string>
@@ -477,22 +492,22 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_healer_name">Healer</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_healer_description">Healers are responsible for keeping the party alive utilizing healing and mitigation buffs such as fortify. Healers can also be responsible for removing harmful debuffs from their allies such as bleeding or poison. Healers should invest in the Focus stat to maximize their healing effectiveness.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_healer_recommended">Life Staff</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_groupcreated">Group Listing Created</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_groupupdated">Group Listing Updated</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_groupremoved">Group Listing Removed</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_applicationsubmitted">Group Application Submitted</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_applicationremoved">Group Application Removed</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_allapplicationsremoved">All Group Applications Removed</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_groupcreated">Lobby Created</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_groupupdated">Lobby Updated</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_groupremoved">Lobby Removed</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_applicationsubmitted">Application Submitted</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_applicationremoved">Application Removed</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_allapplicationsremoved">All Applications Removed</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_applicationaccepted">Invitation Sent</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_applicationrejected">Request Rejected</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_application_accepted_title">Application Accepted</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_application_accepted">{creator} invited you to join:\n&lt;font color="#85e74c" &gt;[{expedition}]&lt;/font&gt; as &lt;font color={roleColor}&gt;[{role}]&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_application_accepted">&lt;font color={creatorColor}&gt;{creator}&lt;/font&gt; invited you as &lt;img src="{icon}" scale="2.2" yOffset="7"&gt;&lt;/img&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_group_ready_check_title">Form Expedition Group</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_group_ready_check">Are you ready to form your group and enter the Expedition?</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_group_ready_check">Are you ready to start the Expedition?</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_accept">Accept</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_decline">Decline</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_join_with_group">Join Expedition Queue With Your Group</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_difficulty_locked">You must unlock this difficulty level to create a group.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_join_with_group">Open Expedition With Your Group</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_difficulty_locked">You must unlock this difficulty level to create a new Lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_decline">Decline</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationaccepted">Invitation Accepted</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationdeclined">Invitation Declined</string>
@@ -500,30 +515,37 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_memberupdated">Group Listing member updated</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_memberremoved">Member removed from Group Listing</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_looking_for_more">Looking for more members...</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_outpost_rush_signup_fail">You cannot sign up because you are currently in a pending expedition group.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail">You cannot enter the Expedition Queue while in a pending group.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_outpost_rush_signup_fail">You cannot sign up while in a Lobby.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail">You cannot enter the Expedition Queue while in a Lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_group_full">Group full</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_open_expedition">Open Expedition</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_min_players">A minimum of {amount} members are required to open this expedition.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_min_players">A minimum of {amount} members are required to start this expedition.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_creator">Creator: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ffffff"&gt;{name}&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_gear_score_requirement">Gear Score Requirement: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color={scoreColor}&gt;{score}&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_level_requirement">Level Requirement: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color={scoreColor}&gt;{score}&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_num_members">Players: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ffffff"&gt;{numMembers}&lt;/font&gt; / 5</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_member_stat">{name}   &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ffffff"&gt;{value}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_member_stat_attribute">{name}  &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ffffff"&gt;{value}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_member_stat_mastery">&lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ffffff"&gt;{value}&lt;/font&gt;  {name}</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_none_equipped">No weapons equipped</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_member_list_creator">Creator</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_group">Pending Group</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_leave_group_title">Leave Pending Group</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_leave_group_desc">Are you sure you want to leave your pending group?</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_unlist_group_title">Unlist Pending Group</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_unlist_group_desc">Are you sure you want to unlist your pending group?\nAll members will be kicked from the group.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_leave_and_unlist_group_desc">Are you sure you want to leave your pending group?\nThis action will kick all members and unlist the group.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invite_reject">Only the group creator can invite or reject member applications.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_group_invites_header">Expedition Pending Group Invites</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_group">Lobby</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_manage_group">Manage</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_view_group">View</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_leave_group_title">Leave Lobby</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_leave_group_desc">Are you sure you want to leave this Lobby?</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_remove_from_group_title">Remove Member</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_remove_from_group_desc">Are you sure you want to kick {playerName} from your Lobby?</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_unlist_group_title">Delete Lobby</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_unlist_group_desc">Are you sure you want to delete your Lobby?\n\nAll members will be kicked.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_leave_and_unlist_group_desc">Are you sure you want to delete the Lobby?\n\nAll members will be kicked.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invite_reject">Only the Lobby Creator can invite or reject member applications.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_group_invites_header">Lobby Invites</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_group_description">&lt;font color="#ffea00" &gt;{creator}&lt;/font&gt; invited you as &lt;font color={roleColor} &gt;{role}&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_convert_to_group">Ready for Expedition</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_not_enough_members">Not enough members in group</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_start_expedition">Start</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_not_enough_members">Not enough members in Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_appended_difficulty">Difficulty {difficulty}</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_appended_difficulty_queue_hud">Difficulty &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{difficulty}&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_level_desc">Your level: {level}\nMinimum level cannot exceed your level.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_gear_score_desc">Your Gear Score: {gearscore}\nMinimum gear score cannot exceed your gear score.</string>
 </resources>
