@@ -917,6 +917,7 @@
 	<string key="ui_xp_boost_reminder" comment="The leading space is intentional"> ( x {bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1.1" yOffset="0.5"&gt;&lt;/img&gt;)</string>
 	<string key="ui_xp_multiplier_arrow" comment="The leading space is intentional"> x {bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1.1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_reached_max_daily_pvp_arena_rewards">Daily PvP Arena Salt Limit Reached!</string>
+	<string key="ui_reached_max_fort_takeover_rewards">Daily Fort Takeover Rewards Limit Reached!</string>
 	<string key="world_landing_title">The optimal WORLD has been selected for you</string>
 	<string key="world_set">World Set?</string>
 	<string key="world_set_title">*What is a World Set?</string>
