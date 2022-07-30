@@ -35,8 +35,8 @@
 	<string key="ui_claimmarker_not_enough_resources">Not Enough Resources</string>
 	<string key="ui_claimmarker_startclaiminstructions">Build a protection ward to claim this territory.</string>
 	<string key="ui_claimmarker_companycollect">By claiming this territory, your company can unlock great features as a governing company.</string>
-	<string key="ui_claimmarker_propertytax">Property tax</string>
-	<string key="ui_claimmarker_propertytaxdesc">The governing company can collect property taxes from houses in the settlement.</string>
+	<string key="ui_claimmarker_propertytax">Property upkeep</string>
+	<string key="ui_claimmarker_propertytaxdesc">The governing company can collect property upkeep from houses in the settlement.</string>
 	<string key="ui_claimmarker_tradingfee">Trading fee</string>
 	<string key="ui_claimmarker_tradingfeedesc">The governing company can collect fees for trading post transactions made in the territory.</string>
 	<string key="ui_claimmarker_craftingfee">Crafting &amp; refining fee</string>
@@ -148,7 +148,7 @@
 	<string key="ui_global_average_fee">Global Average: &lt;font color='#FFFFFF'&gt;{tax}&lt;/font&gt;</string>
 	<string key="ui_confirm_set_tax_title">Are you sure?</string>
 	<string key="ui_confirm_set_tax_desc">This will set a new tax or fee value, which can't be changed again until the next update period.</string>
-	<string key="ui_property_tax_description">Residents of this territory should pay property taxes every 7 days</string>
+	<string key="ui_property_tax_description">Residents of this territory should pay property upkeep every 7 days</string>
 	<string key="ui_trading_tax_description">Trades within this territory are subject to a value tax</string>
 	<string key="ui_crafting_fee_description">Crafting items in this territory costs a fee per item</string>
 	<string key="ui_refining_fee_description">Refining resources in this territory costs a fee per resource</string>
@@ -280,7 +280,7 @@
 	<string key="ui_upgradebutton_upgradescomplete">Upgrades Complete</string>
 	<string key="ui_active_project_completed">An active project has completed.</string>
 	<string key="ui_wait_for_cooldown">The cooldown period for adding new projects is still active.</string>
-	<string key="ui_you_have_n_completed_missions">You have {count} completed missions.</string>
+	<string key="ui_you_have_n_completed_missions">You have {count} completed mission(s).</string>
 	<string key="ui_project_completeallmissions">Complete All Missions</string>
 	<string key="ui_project_turningin">You are turning in</string>
 	<string key="ui_project_totalreward">Total reward</string>
@@ -466,6 +466,23 @@
 	<string key="ui_upgrade_desc_HornProjectId2">Upgrade Warhorns to Tier 3. When upgraded, any existing Warhorns (deployed or otherwise) are also upgraded.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId">Upgrade Explosives to Tier 2. When upgraded, any existing Explosives (deployed or otherwise) are also upgraded.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId2">Upgrade Explosives to Tier 3. When upgraded, any existing Explosives (deployed or otherwise) are also upgraded.</string>
+	<string key="event_summer_station" rel_version="Event_Summer_Temp">Medleyfaire Stage</string>
+	<string key="ui_upgrade_title_EventSummerProjectId" rel_version="Event_Summer_Temp">Upgrade Medleyfaire Stage to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
+	<string key="ui_upgrade_title_EventSummerProjectId2" rel_version="Event_Summer_Temp">Upgrade Medleyfaire Stage to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
+	<string key="ui_upgrade_title_EventSummerProjectId3" rel_version="Event_Summer_Temp">Medleyfaire Stage Upgrades Complete!</string>
+	<string key="ui_upgrade_titleNoMarkup_EventSummerProjectId" rel_version="Event_Summer_Temp">Upgrade Medleyfaire Stage to Tier 2</string>
+	<string key="ui_upgrade_titleNoMarkup_EventSummerProjectId2" rel_version="Event_Summer_Temp">Upgrade Medleyfaire Stage to Tier 3</string>
+	<string key="ui_upgrade_titleNoMarkup_EventSummerProjectId3" rel_version="Event_Summer_Temp">Medleyfaire Stage at maxiumum Upgrade!</string>
+	<string key="ui_upgrade_button_EventSummerProjectId" rel_version="Event_Summer_Temp">Medleyfaire Stage Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
+	<string key="ui_upgrade_button_EventSummerProjectId2" rel_version="Event_Summer_Temp">Medleyfaire Stage Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
+	<string key="ui_upgrade_button_EventSummerProjectId3" rel_version="Event_Summer_Temp">Medleyfaire Stage Upgrades Complete!</string>
+	<string key="ui_upgrade_desc_EventSummerProjectId" rel_version="Event_Summer_Temp">Upgrade Medleyfaire Stage to Tier 2 to surround it with &lt;font color="#ffd058"&gt;Beautifully Packed Baskets!&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_EventSummerProjectId2" rel_version="Event_Summer_Temp">Upgrade Medleyfaire Stage to Tier 3 to surround it with &lt;font color="#ffd058"&gt;Exquisitely Packed Baskets!&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_EventSummerProjectId3" rel_version="Event_Summer_Temp">Complete Medleyfaire Town Projects to earn Event Reputation!</string>
+	<string key="ui_upgradebutton_label_event_summer" rel_version="Event_Summer_Temp">Upgrade Medleyfaire Stage</string>
+	<string key="ui_event_details_SummerMedley" rel_version="Event_Summer_Temp">&lt;font color="#ffd058"&gt;Complete Medleyfaire Quests and Activities&lt;/font&gt; to earn Event Reputation and Medleyfaire Tokens to gain access to a trove of event rewards! \n\n&lt;font color="#ffd058"&gt;Catch delicious-yet-finicky Aeternum Sturgeons and supply the Medleyfaire&lt;/font&gt; by locating Maudlinbug Swarms and performing the Maudlinbug Haze to capture Maudlinbug Bait! Keep watch for glittering hotspots!\n\n&lt;font color="#ffd058"&gt;Collect daily rewards from each Medleyfaire Dance Floor and Settlement’s Medleyfaire Stage Centerpiece! &lt;/font&gt; Completing an endless supply of Medleyfaire Town Projects upgrades the splendor and rewards earned from the centerpiece!</string>
+	<string key="ui_event_summer_project_complete" rel_version="Event_Summer_Temp">Upgrade Medleyfaire Stage Project Complete</string>
+	<string key="ui_event_project_endless" rel_version="Event_Summer_Temp">Endless</string>
 	<string key="ui_territory_level">Territory Level: {level}</string>
 	<string key="ui_enter_house">Enter House Menu</string>
 	<string key="ui_purchase_house">Purchase House</string>
@@ -592,7 +609,7 @@
 	<string key="ui_territory_standing_upgrade_category_housepoint">House Items</string>
 	<string key="ui_territory_standing_upgrade_category_trading_tax">Trading Tax</string>
 	<string key="ui_territory_standing_upgrade_category_crafting_fee">Station fee</string>
-	<string key="ui_territory_standing_upgrade_category_property_tax">Property tax</string>
+	<string key="ui_territory_standing_upgrade_category_property_tax">Property Upkeep</string>
 	<string key="ui_territory_standing_upgrade_category_xp_gain">XP Gain</string>
 	<string key="ui_territory_standing_upgrade_category_standing_gain">Standing Gain</string>
 	<string key="ui_territory_standing_upgrade_category_gather">Gather</string>
@@ -609,7 +626,7 @@
 	<string key="ui_territory_standing_upgrade_stat_detection_distance">Detection distance</string>
 	<string key="ui_territory_standing_upgrade_stat_trading_tax">Trading tax rate</string>
 	<string key="ui_territory_standing_upgrade_stat_crafting_fee">Crafting fee</string>
-	<string key="ui_territory_standing_upgrade_stat_property_tax">Property tax</string>
+	<string key="ui_territory_standing_upgrade_stat_property_tax">Property Upkeep</string>
 	<string key="ui_darkness_threshold_0">None</string>
 	<string key="ui_darkness_threshold_1">Low</string>
 	<string key="ui_darkness_threshold_2">Medium</string>

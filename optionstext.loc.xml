@@ -107,6 +107,8 @@
 	<string key="ui_streamermode_server_chat_desc">Block direct messages and notifications</string>
 	<string key="ui_streamermode_server_currency">Block Coin Transfers</string>
 	<string key="ui_streamermode_server_currency_desc">Block coin transfers and notifications</string>
+	<string key="ui_streamermode_server_music_invite" rel_version="Feature_MusicalPerformances">Block Music Invites</string>
+	<string key="ui_streamermode_server_music_invite_desc" rel_version="Feature_MusicalPerformances">Block Musical Performance Invites and Notifications</string>
 	<string key="ui_voicechatmode">Voice Chat Mode</string>
 	<string key="ui_voicechatmode_desc">Your current voice chat mode</string>
 	<string key="ui_voicechatmode_enabled">Enabled</string>
@@ -215,6 +217,14 @@
 	<string key="ui_restore_defaults_prompt">Are you sure you want to restore these options to their default settings?</string>
 	<string key="ui_audiooutput_headphones">Headphones</string>
 	<string key="ui_audiooutput_speakers">Home Theater</string>
+	<string key="ui_mute_performance" rel_version="Feature_MusicalPerformances">Mute Other Player's Musical Instrument</string>
+	<string key="ui_mute_performance_desc" rel_version="Feature_MusicalPerformances">Mute the music performed by other players</string>
+	<string key="ui_mute_combat_music" rel_version="Feature_MusicalPerformances">Mute Combat Music</string>
+	<string key="ui_mute_combat_music_desc" rel_version="Feature_MusicalPerformances">Mute combat music</string>
+	<string key="ui_mute_secondary_music" rel_version="Feature_MusicalPerformances">Mute Secondary Performance Audio</string>
+	<string key="ui_mute_secondary_music_desc" rel_version="Feature_MusicalPerformances">Mute clapping and secondary musical performance effects</string>
+	<string key="ui_musicInstrument_volume" rel_version="Feature_MusicalPerformances">Musical Instruments Volume</string>
+	<string key="ui_musicInstrument_volume_desc" rel_version="Feature_MusicalPerformances">Adjust music played by local and remote players performing musical instruments</string>
 	<string key="ui_outputconfiguration">Output Configuration</string>
 	<string key="ui_outputconfiguration_desc">Switch between 360 degree audio panning for Home Theater and 180 degree audio panning for Headphones</string>
 	<string key="ui_texttospeech">Text-to-Speech</string>

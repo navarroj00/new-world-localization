@@ -90,7 +90,8 @@
 	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">You cannot have active trading post buy/sell orders before transferring</string>
 	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">You must be at least level {level} before transferring</string>
 	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">You must not own any houses before transferring</string>
-	<string key="ui_transfer_requirement_cooldown" rel_version="Feature_MTX">You must wait till the end of the cooldown before you may transfer regions again.</string>
+	<string key="ui_transfer_requirement_cooldown" rel_version="Feature_MTX">You must wait till the end of the cooldown before you may transfer worlds or regions again.</string>
+	<string key="ui_transfer_requirement_cooldown_prefix" rel_version="Feature_MTX">&lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;</string>
 	<string key="ui_item_restrictions" rel_version="Feature_MTX">Item Restrictions</string>
 	<string key="ui_item_restrictions_item_skins" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; require the base item to be equipped in order to be visible. &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; cannot be dyed.</string>
 	<string key="ui_item_restrictions_crests" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Company Crests&lt;/font&gt; can only be used if you are the governor (creator) of a company.</string>
@@ -122,7 +123,9 @@
 	<string key="ui_disabled_default_description" rel_version="Feature_MTX">This content is currently unavailable.</string>
 	<string key="ui_disabled_freeplayer_description" rel_version="Feature_MTX">Purchase New World to access the store.</string>
 	<string key="ui_preview_emote">Preview Emote</string>
+	<string key="ui_preview_skin">Preview Skin</string>
 	<string key="ui_end_preview">End Preview</string>
+	<string key="ui_preview_item_withname">{itemName} Preview</string>
 	<string key="ui_limited_time">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Limited Time&lt;/font&gt;</string>
 	<string key="ui_release_date">Release Date</string>
 	<string key="ui_price">Price</string>
@@ -136,6 +139,7 @@
 	<string key="ui_skin_applied">Skin applied to item</string>
 	<string key="ui_skins_applied">Skins applied to items</string>
 	<string key="ui_purchase_skin">Browse Skins</string>
+	<string key="ui_shop_tier">TIER &lt;font face="lyshineui/fonts/Pica_Italic.font"&gt;&lt;font color="#ffffff"&gt;{number}&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_mtx_coming_soon">Coming Soon!</string>
 	<string key="ui_button_disabled_dead">You cannot perform this action when you are dead.</string>
 	<string key="url_refundpolicy_US" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/en-us/support/new-world/articles/amazon-games-refund-policy</string>
@@ -159,7 +163,7 @@
 	<string key="ui_notification_unlock_desc">Items have been added to your account.</string>
 	<string key="ui_notification_unlock_title">Unlocked!</string>
 	<string key="ui_view_item">View Items</string>
-	<string key="ui_claim_fail_achievementmissing" comment="DO NOT TRANSLATE" note="This is internal error">Entitlement isn't tied to an Achievement! Failed to claim item.</string>
+	<string key="ui_claim_fail_achievementmissing" comment="DO NOT TRANSLATE">Entitlement isn't tied to an Achievement! Failed to claim item.</string>
 	<string key="ui_claim_fail_alreadyunlocked">You have already claimed this entitlement.</string>
 	<string key="ui_claim_fail_inventoryfull">Cannot claim entitlement while your inventory is full. Please free up some space and try again.</string>
 	<string key="ui_claim_fail_transactionerror">Transaction error. Please try again.</string>
@@ -466,8 +470,8 @@
 	<string key="server_transfer_unavailable_target_region_characters_slots_full" rel_version="Feature_Server_Transfer">Character slots in this region are full. You will need to delete or transfer an existing character in this region before you can transfer in another one.</string>
 	<string key="server_transfer_more_details" rel_version="Feature_Server_Transfer">For more details see</string>
 	<string key="server_transfer_transfer_faq" rel_version="Feature_Server_Transfer">Region Transfer FAQ</string>
-	<string key="server_transfer_final_details" rel_version="Feature_Server_Transfer">Confirming Transfer will log you out to the character select main menu.</string>
-	<string key="server_transfer_final_details_purchase" rel_version="Feature_Server_Transfer">After purchasing, you will be logged out to the character select main menu.</string>
+	<string key="server_transfer_final_details" rel_version="Feature_Server_Transfer">Confirming Transfer will log you out to the Character Select Main Menu.</string>
+	<string key="server_transfer_final_details_purchase" rel_version="Feature_Server_Transfer">After purchasing, you will be logged out to the Character Select Main Menu.</string>
 	<string key="server_transfer_change_world" rel_version="Feature_Server_Transfer">Change World</string>
 	<string key="server_transfer_select_world" rel_version="Feature_Server_Transfer">Select World</string>
 	<string key="server_transfer_select_region" rel_version="Feature_Server_Transfer">Select Region</string>
@@ -804,6 +808,25 @@
 	<string key="Bundle_Tool_SilentDeath_name" rel_version="ToolSkins_SilentDeath_MTX">Assassin's Tools</string>
 	<string key="Bundle_Tool_SilentDeath_description" rel_version="ToolSkins_SilentDeath_MTX">"For those in the dark trades, even resource gathering is done in the black of night."</string>
 	<string key="Bundle_Decor_ClassicRPG_name" rel_version="Housing_RPG_MTX_Pack_2022">The Dragon's Trove Décor Bundle</string>
-	<string key="Bundle_Decor_ClassicRPG_description" rel_version="Housing_RPG_MTX_Pack_2022">"A horde within the home, reminders of a glorious life of adventuring."</string>
+	<string key="Bundle_Decor_ClassicRPG_description" rel_version="Housing_RPG_MTX_Pack_2022">"A hoard within the home, reminders of a glorious life of adventuring."</string>
+	<string key="Apparel_Metal_L_name" rel_version="Apparel_Metal_L">Spiked Shredder</string>
+	<string key="Apparel_Metal_L_description" rel_version="Apparel_Metal_L">"Because you're not hardcore unless you live hardcore."</string>
+	<string key="Apparel_Metal_M_name" rel_version="Apparel_Metal_M">Horned Hero</string>
+	<string key="Apparel_Metal_M_description" rel_version="Apparel_Metal_M">"Be the diehard hero of the Medleyfaire with this intimidating style."</string>
+	<string key="Apparel_Metal_H_name" rel_version="Apparel_Metal_H">Devil Went Down To Aeternum</string>
+	<string key="Apparel_Metal_H_description" rel_version="Apparel_Metal_H">"Proof you've outsmarted the devil himself in a fiddle play-off."</string>
+	<string key="Bundle_Tool_Metal_name" rel_version="ToolSkins_Metal_MTX">Heavy Metal Toolset</string>
+	<string key="Bundle_Tool_Metal_description" rel_version="ToolSkins_Metal_MTX">"For those who find the harshest melodies in the simplest of tasks."</string>
+	<string key="Bundle_Decor_Metal_name" rel_version="Housing_Metal_MTX_Pack_2022">Heavy Metal Décor Bundle</string>
+	<string key="Bundle_Decor_Metal_description" rel_version="Housing_Metal_MTX_Pack_2022">"Know that if you come knocking, this house will be rocking."</string>
+	<string key="reward_type_Instrumentskin_Flute" rel_version="Instrument_Flute_Metal_MTX">Azoth Flute Skin</string>
+	<string key="reward_type_Instrumentskin_Drum" rel_version="Instrument_Drums_Metal_MTX">Drum Skin</string>
+	<string key="reward_type_Instrumentskin_Guitar" rel_version="Instrument_Guitar_Metal_MTX">Guitar Skin</string>
+	<string key="reward_type_Instrumentskin_UprightBass" rel_version="Instrument_Bass_Metal_MTX">Upright Bass Skin</string>
+	<string key="reward_type_Instrumentskin_Mandolin" rel_version="Instrument_Mandolin_Metal_MTX">Mandolin Skin</string>
+	<string key="Bundle_PR_Metal_Instruments_name" rel_version="Entitlements_July_2022">Heavy Metal Instrument Bundle</string>
+	<string key="Bundle_PR_Metal_Instruments_description" rel_version="Entitlements_July_2022">"Test your metal."</string>
+	<string key="Bundle_PR_Metal_Megapack_name" rel_version="Entitlements_July_2022">Heavy Metal Mega-pack</string>
+	<string key="Bundle_PR_Metal_Megapack_description" rel_version="Entitlements_July_2022">"Heavy lies the head that tunes down."</string>
 </resources>
 

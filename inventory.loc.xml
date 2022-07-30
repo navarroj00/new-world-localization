@@ -22,6 +22,7 @@
 	<string key="inv_cooking">Cooking</string>
 	<string key="inv_furniture">Furniture</string>
 	<string key="inv_outpostrush">Outpost Rush</string>
+	<string key="inv_pvparenas">PvP Arenas</string>
 	<string key="inv_crafting_modifiers">Craft Mods</string>
 	<string key="inv_repair_kit_count">{count} Repair Kit</string>
 	<string key="inv_repair_kits">Repair Kits</string>
@@ -90,11 +91,12 @@
 	<string key="inv_repairparts_tooltip_description">Repair Parts are a unique resource used to repair items.\n\nRepair Parts cannot be traded, sold, or purchased. To receive more, salvage weapon and armor items you no longer need.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Derived From:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; Weapons, Armor&lt;/font&gt;</string>
 	<string key="inv_repairparts_tooltip_drivedfrom">Weapons and Armor</string>
 	<string key="inv_azoth_tooltip_drivedfrom">Corruption Breaches, Quests</string>
-	<string key="inv_repairparts_nearlimit">&lt;font color="#ff2e2e"&gt;You are almost at your Repair Parts limit.&lt;/font&gt;</string>
-	<string key="inv_repairparts_atlimit">&lt;font color="#ff2e2e"&gt;You are at your Repair Parts limit.&lt;/font&gt;</string>
+	<string key="inv_repairparts_nearlimit">&lt;font color="#f25d5d"&gt;You are almost at your Repair Parts limit.&lt;/font&gt;</string>
+	<string key="inv_repairparts_atlimit">&lt;font color="#f25d5d"&gt;You are at your Repair Parts limit.&lt;/font&gt;</string>
 	<string key="inv_repairparts_resources_nearlimit">Salvaging this item will return {min}-{max} {itemName} and {numRepairParts} Repair Parts.</string>
-	<string key="inv_repairparts_resources_atlimit">Salvaging this item will return {min}-{max} {itemName} and &lt;font color="#ff2e2e"&gt;{numRepairParts} Repair Parts.&lt;/font&gt;</string>
+	<string key="inv_repairparts_resources_atlimit">Salvaging this item will return {min}-{max} {itemName} and &lt;font color="#f25d5d"&gt;{numRepairParts} Repair Parts.&lt;/font&gt;</string>
 	<string key="inv_repairparts_onlyrepairparts">Salvaging this item will return {numRepairParts} Repair Parts.</string>
+	<string key="inv_repairparts_onlyrepairparts_withcoin">Salvaging this item will return {numRepairParts} Repair Parts and {coinAmount}.</string>
 	<string key="salvage_notification_obtained_1">Obtained {entry1}</string>
 	<string key="salvage_notification_obtained_2">Obtained {entry1} and {entry2}</string>
 	<string key="salvage_notification_obtained_3">Obtained {entry1}, {entry2} and {entry3}</string>
@@ -182,5 +184,6 @@
 	<string key="inv_TargetDeathDoorNotification">Target is in Death's Door</string>
 	<string key="inv_TargetDeadNotification">Target is Dead</string>
 	<string key="inv_TargetOutsideLos">No Line of Sight to Target</string>
+	<string key="inv_moreItems">&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;{value}&lt;/font&gt; More Items</string>
 </resources>
 

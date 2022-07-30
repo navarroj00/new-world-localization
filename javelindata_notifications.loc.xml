@@ -25,6 +25,7 @@
 	<string key="ui_notification_warzone_warning_description">Entered War Zone, combatants are free to attack you!</string>
 	<string key="ui_notification_war_conquest_time_set_by_defender_description">{guildName} has set the CONQUEST window, CONQUEST will begin in {time}. Go to WAR window to view details?</string>
 	<string key="ui_notification_world_bound_exit">Please return to the playable area.</string>
+	<string key="ui_notification_new_items_dropped">Item(s) have been dropped.</string>
 	<string key="ui_area_discovered">Area Discovered</string>
 	<string key="ui_area_charted">Area Charted</string>
 	<string key="ui_poi_discovered">Landmark Discovered</string>

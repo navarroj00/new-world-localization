@@ -74,7 +74,7 @@
 	<string key="1414_0101_Start_Prompt" speaker="UI - Player Prompt">"I can deliver your message."</string>
 	<string key="1414_0101_c_Proposal" speaker="Watcher Reynolds- Edengrove" name="WatcherReynolds" VO_Status="Recorded">You will? Excellent. Although, It is a bit of a trek. But! If you're sure...\n\nThis message is for the local Magistrate, Legatus Fulvius. He will have need of your talents beyond the lightness of your feet. Of that, I am certain.</string>
 	<string key="1414_0101_e_Incomplete" speaker="Watcher Reynolds- Edengrove" name="WatcherReynolds" VO_Status="Recorded">Just head south for… ages, really. Make sure you have plenty of rations for the journey.</string>
-	<string key="1414_0101_f_Complete" speaker="Legatus Fulvius - Reekwater" name="LegatusFulvius" VO_Status="Recorded">What's this, then? A message all the way from Edengrove? I don't know many who could make that trek in one piece. Consider me impressed.\n\nSince you're here, I believe I can make use of a hardy traveler like yourself.</string>
+	<string key="1414_0101_f_Complete" speaker="Legatus Fulvius - Reekwater" name="LegatusFulvius" VO="1414_0101_f_Complete" VO_Status="Recorded">What's this, then? A message all the way from Edengrove? I don't know many who could make that trek in one piece. Consider me impressed.\n\nSince you're here, I believe I can make use of a hardy traveler like yourself.</string>
 	<string key="1418_0201_a_Title" speaker="UI">Fading Lights</string>
 	<string key="1418_0201_b_Description" speaker="UI">Investigate the Ancient Guardians and their movements in the Primal Lochan. Then report back to Ranger Wardell in Edengrove.</string>
 	<string key="1418_0201_Start_Prompt" speaker="UI - Player Prompt">"How are the Guardians a threat?"</string>

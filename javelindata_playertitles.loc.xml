@@ -658,6 +658,9 @@
 	<string key="ui_playertitle_dungeonboss_isabellalair" rel_version="Expedition_ShatterMtn_00">Tempest Tamer</string>
 	<string key="ui_playertitle_dungeonboss_isabellalair_SHE" rel_version="Expedition_ShatterMtn_00">Tempest Tamer</string>
 	<string key="ui_playertitle_dungeonboss_isabellalair_THEY" rel_version="Expedition_ShatterMtn_00">Tempest Tamer</string>
+	<string key="ui_playertitle_dungeonboss_barnacles" rel_version="Expedition_CutlassKeys_00">Dissonant Dissident</string>
+	<string key="ui_playertitle_dungeonboss_barnacles_SHE" rel_version="Expedition_CutlassKeys_00">Dissonant Dissident</string>
+	<string key="ui_playertitle_dungeonboss_barnacles_THEY" rel_version="Expedition_CutlassKeys_00">Dissonant Dissident</string>
 	<string key="ui_playertitle_special_askforhelp" rel_version="Feature_Titles">Need Some Help!</string>
 	<string key="ui_playertitle_special_askforhelp_SHE" rel_version="Feature_Titles">Need Some Help!</string>
 	<string key="ui_playertitle_special_askforhelp_THEY" rel_version="Feature_Titles">Need Some Help!</string>
@@ -710,6 +713,15 @@
 	<string key="ui_playertitle_territory_permanent_owner_15_SHE" rel_version="Feature_Titles">Restless Shores Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_15_THEY" rel_version="Feature_Titles">Restless Shores Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_desc" rel_version="Feature_Titles">Your company just won this territory.</string>
+	<string key="ui_playertitle_music_easy">Minstrel</string>
+	<string key="ui_playertitle_music_easy_SHE">Minstrel</string>
+	<string key="ui_playertitle_music_easy_THEY">Minstrel</string>
+	<string key="ui_playertitle_music_medium">Bard</string>
+	<string key="ui_playertitle_music_medium_SHE">Bard</string>
+	<string key="ui_playertitle_music_medium_THEY">Bard</string>
+	<string key="ui_playertitle_music_hard">Prodigy</string>
+	<string key="ui_playertitle_music_hard_SHE">Prodigy</string>
+	<string key="ui_playertitle_music_hard_THEY">Prodigy</string>
 	<string key="ui_player_titles_territory_ownership_label">Territory Ownership</string>
 	<string key="ui_player_titles_section_label_special">Special</string>
 	<string key="ui_player_titles_section_label_totalkills">Total Kills</string>

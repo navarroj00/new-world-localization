@@ -305,6 +305,9 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_isabellalair_title" rel_version="Expedition_ShatterMtn_00">Brighter Days</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_isabellalair_title_SHE" rel_version="Expedition_ShatterMtn_00">Brighter Days</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_isabellalair_title_THEY" rel_version="Expedition_ShatterMtn_00">Brighter Days</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_title" rel_version="Expedition_CutlassKeys_00">Cleanest Keel In Aeternum</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_title_SHE" rel_version="Expedition_CutlassKeys_00">Cleanest Keel In Aeternum</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_title_THEY" rel_version="Expedition_CutlassKeys_00">Cleanest Keel In Aeternum</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1" rel_version="Feature_Dungeon_Mutators">Excavation Excitement</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1_SHE" rel_version="Feature_Dungeon_Mutators">Excavation Excitement</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1_THEY" rel_version="Feature_Dungeon_Mutators">Excavation Excitement</string>
@@ -347,6 +350,12 @@
 	<string key="ui_metachievement_pve_mutate_dungeon_isabellalair_title2" rel_version="Expedition_ShatterMtn_00">Belly Of The Beast</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_isabellalair_title2_SHE" rel_version="Expedition_ShatterMtn_00">Belly Of The Beast</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_isabellalair_title2_THEY" rel_version="Expedition_ShatterMtn_00">Belly Of The Beast</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_barnacles_title1" rel_version="Expedition_CutlassKeys_00">Cavern Of Corruption</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_barnacles_title1_SHE" rel_version="Expedition_CutlassKeys_00">Cavern Of Corruption</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_barnacles_title1_THEY" rel_version="Expedition_CutlassKeys_00">Cavern Of Corruption</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_barnacles_title2" rel_version="Expedition_CutlassKeys_00">Treasure Island</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_barnacles_title2_SHE" rel_version="Expedition_CutlassKeys_00">Treasure Island</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_barnacles_title2_THEY" rel_version="Expedition_CutlassKeys_00">Treasure Island</string>
 	<string key="ui_metachievement_pve_arenascompleted_title">Arena Fighting</string>
 	<string key="ui_metachievement_pve_arenascompleted_title_SHE">Arena Fighting</string>
 	<string key="ui_metachievement_pve_arenascompleted_title_THEY">Arena Fighting</string>
@@ -476,24 +485,24 @@
 	<string key="ui_metachievement_pvp_countrolpointcount_title5">Ownership Rites</string>
 	<string key="ui_metachievement_pvp_countrolpointcount_title5_SHE">Ownership Rites</string>
 	<string key="ui_metachievement_pvp_countrolpointcount_title5_THEY">Ownership Rites</string>
-	<string key="ui_metachievement_pvp_pvparenawin_title1" rel_version="Feature_PvP_Arenas">First Step To Glory</string>
-	<string key="ui_metachievement_pvp_pvparenawin_title2" rel_version="Feature_PvP_Arenas">Rookie Combatant</string>
-	<string key="ui_metachievement_pvp_pvparenawin_title3" rel_version="Feature_PvP_Arenas">Arena Aficionado</string>
-	<string key="ui_metachievement_pvp_pvparenawin_title4" rel_version="Feature_PvP_Arenas">Hero of Hundreds</string>
-	<string key="ui_metachievement_pvp_pvparenawin_title5" rel_version="Feature_PvP_Arenas">Conqueror of Many</string>
-	<string key="ui_metachievement_pvp_pvparenawin_title6" rel_version="Feature_PvP_Arenas">Glorious Gladiator</string>
-	<string key="ui_metachievement_pvp_pvparenawin_title7" rel_version="Feature_PvP_Arenas">Legend of the Arena</string>
-	<string key="ui_metachievement_pvp_pvparenaflawlesswin_title1" rel_version="Feature_PvP_Arenas">Flawless Victory</string>
-	<string key="ui_metachievement_pvp_pvparenawin_title1_SHE" rel_version="Feature_PvP_Arenas">>First Step To Glory</string>
-	<string key="ui_metachievement_pvp_pvparenawin_title1_THEY" rel_version="Feature_PvP_Arenas">>First Step To Glory</string>
-	<string key="ui_metachievement_pvp_pvparenawin_first_desc" rel_version="Feature_PvP_Arenas">Win 1 Arena match.</string>
-	<string key="ui_metachievement_pvp_pvparenawin_second_desc" rel_version="Feature_PvP_Arenas">Win 10 Arena matches.</string>
-	<string key="ui_metachievement_pvp_pvparenawin_third_desc" rel_version="Feature_PvP_Arenas">Win 50 Arena matches.</string>
-	<string key="ui_metachievement_pvp_pvparenawin_fourth_desc" rel_version="Feature_PvP_Arenas">Win 100 Arena matches.</string>
-	<string key="ui_metachievement_pvp_pvparenawin_fifth_desc" rel_version="Feature_PvP_Arenas">Win 250 Arena matches.</string>
-	<string key="ui_metachievement_pvp_pvparenawin_sixth_desc" rel_version="Feature_PvP_Arenas">Win 500 Arena matches.</string>
-	<string key="ui_metachievement_pvp_pvparenawin_seventh_desc" rel_version="Feature_PvP_Arenas">Win 1000 Arena matches.</string>
-	<string key="ui_metachievement_pvp_pvparenawin_flawless_desc" rel_version="Feature_PvP_Arenas">Win 100 Arena matches without anybody on your team dying.</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title1" rel_version="Feature_PVP_Arenas">First Step To Glory</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title2" rel_version="Feature_PVP_Arenas">Rookie Combatant</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title3" rel_version="Feature_PVP_Arenas">Arena Aficionado</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title4" rel_version="Feature_PVP_Arenas">Hero of Hundreds</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title5" rel_version="Feature_PVP_Arenas">Conqueror of Many</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title6" rel_version="Feature_PVP_Arenas">Glorious Gladiator</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title7" rel_version="Feature_PVP_Arenas">Legend of the Arena</string>
+	<string key="ui_metachievement_pvp_pvparenaflawlesswin_title1" rel_version="Feature_PVP_Arenas">Flawless Victory</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title1_SHE" rel_version="Feature_PVP_Arenas">First Step To Glory</string>
+	<string key="ui_metachievement_pvp_pvparenawin_title1_THEY" rel_version="Feature_PVP_Arenas">First Step To Glory</string>
+	<string key="ui_metachievement_pvp_pvparenawin_first_desc" rel_version="Feature_PVP_Arenas">Win 1 Arena match.</string>
+	<string key="ui_metachievement_pvp_pvparenawin_second_desc" rel_version="Feature_PVP_Arenas">Win 10 Arena matches.</string>
+	<string key="ui_metachievement_pvp_pvparenawin_third_desc" rel_version="Feature_PVP_Arenas">Win 50 Arena matches.</string>
+	<string key="ui_metachievement_pvp_pvparenawin_fourth_desc" rel_version="Feature_PVP_Arenas">Win 100 Arena matches.</string>
+	<string key="ui_metachievement_pvp_pvparenawin_fifth_desc" rel_version="Feature_PVP_Arenas">Win 250 Arena matches.</string>
+	<string key="ui_metachievement_pvp_pvparenawin_sixth_desc" rel_version="Feature_PVP_Arenas">Win 500 Arena matches.</string>
+	<string key="ui_metachievement_pvp_pvparenawin_seventh_desc" rel_version="Feature_PVP_Arenas">Win 1000 Arena matches.</string>
+	<string key="ui_metachievement_pvp_pvparenawin_flawless_desc" rel_version="Feature_PVP_Arenas">Win 100 Arena matches without anybody on your team dying.</string>
 	<string key="ui_meta_achievements_pvp_rewards_track" rel_version="PvP_Rewards_Track">PvP Rewards Track</string>
 	<string key="ui_metachievement_PvP_rank_title1" rel_version="PvP_Rewards_Track">It’s a Steel</string>
 	<string key="ui_metachievement_PvP_rank_title2" rel_version="PvP_Rewards_Track">All Bronzed Up</string>
@@ -2724,6 +2733,7 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_lazarus_desc">Defeat Chardis in the Lazarus Instrumentality.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_shipyard_desc">Defeat Empress Zhou in the Dynasty Shipyard.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_isabellalair_desc" rel_version="Expedition_ShatterMtn_00">Defeat Isabella in Tempest's Heart.</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_desc" rel_version="Expedition_CutlassKeys_00">Defeat Siren Queen in Barnacles And Black Powder.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Amrine Excavation, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_obelisk_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Starstone Barrows, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_depths_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete The Depths, difficulty {number}.</string>
@@ -2731,6 +2741,7 @@
 	<string key="ui_metachievement_pve_mutate_dungeon_lazarus_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Lazarus Instrumentality, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_shipyard_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Dynasty Shipyard, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_isabellalair_generic_desc" rel_version="Expedition_ShatterMtn_00">Complete !undefined dungeon!, difficulty {number}.</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_barnacle_generic_desc" rel_version="Expedition_CutlassKeys_00">Complete Barnacles And Black Powder, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_arenascompleted_desc">Complete {number} arena battles.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_covenant_desc">Personally defeat {number} Covenant players.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_marauder_desc">Personally defeat {number} Marauder players.</string>
@@ -2838,7 +2849,7 @@
 	<string key="ui_metachievement_pvpfactionmissions_shatteredmtn_generic_desc">Fulfill {number} PvP faction missions in Shattered Mountain.</string>
 	<string key="ui_metachievement_pvpfactionmissions_weaversfen_generic_desc">Fulfill {number} PvP faction missions in Weaver's Fen.</string>
 	<string key="ui_metachievement_pvpfactionmissions_windsward_generic_desc">Fulfill {number} PvP faction missions in Windsward.</string>
-	<string key="ui_metachievement_factionmissionscompleted_generic_desc">FulFill {number} Faction Missions, any type, anywhere.</string>
+	<string key="ui_metachievement_factionmissionscompleted_generic_desc">Fulfill {number} Faction Missions, any type, anywhere.</string>
 	<string key="ui_metachievement_progression_characterlevel_generic_desc">Reach character level {number}.</string>
 	<string key="ui_metachievement_totaltimeplayed_generic_desc">Play for {number} hours.</string>
 	<string key="ui_metachievement_skilllevelarcana_generic_desc">Reach Arcana skill level {number}.</string>
@@ -2966,9 +2977,9 @@
 	<string key="ui_metachievement_hidden_progression_characterlevel4">You're starting to see more than the mundane.</string>
 	<string key="ui_metachievement_hidden_progression_characterlevel4_SHE">You're starting to see more than the mundane.</string>
 	<string key="ui_metachievement_hidden_progression_characterlevel4_THEY">You're starting to see more than the mundane.</string>
-	<string key="ui_metachievement_hidden_progression_characterlevel5">The self-made path often creates the greated change.</string>
-	<string key="ui_metachievement_hidden_progression_characterlevel5_SHE">The self-made path often creates the greated change.</string>
-	<string key="ui_metachievement_hidden_progression_characterlevel5_THEY">The self-made path often creates the greated change.</string>
+	<string key="ui_metachievement_hidden_progression_characterlevel5">The self-made path often creates the greatest change.</string>
+	<string key="ui_metachievement_hidden_progression_characterlevel5_SHE">The self-made path often creates the greatest change.</string>
+	<string key="ui_metachievement_hidden_progression_characterlevel5_THEY">The self-made path often creates the greatest change.</string>
 	<string key="ui_metachievement_hidden_progression_characterlevel6">Lots of pain, lots of gain.</string>
 	<string key="ui_metachievement_hidden_progression_characterlevel6_SHE">Lots of pain, lots of gain.</string>
 	<string key="ui_metachievement_hidden_progression_characterlevel6_THEY">Lots of pain, lots of gain.</string>
@@ -3081,5 +3092,42 @@
 	<string key="ui_meta_achievements_roman_numeral_vii">VII</string>
 	<string key="ui_meta_achievements_no_completed">No achievements are completed yet</string>
 	<string key="ui_meta_achievements_no_nearly_completed">No achievements are nearly completed yet</string>
+	<string key="ui_meta_achievements_Musical_Instruments">Musical Instruments</string>
+	<string key="ui_metaachievement_Music_Easy1_title">Stage Hand</string>
+	<string key="ui_metaachievement_Music_Easy1_title_SHE">Stage Hand</string>
+	<string key="ui_metaachievement_Music_Easy1_title_THEY">Stage Hand</string>
+	<string key="ui_metaachievement_Music_Easy1_desc">Complete 1 novice song with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Easy2_title">Performer</string>
+	<string key="ui_metaachievement_Music_Easy2_title_SHE">Performer</string>
+	<string key="ui_metaachievement_Music_Easy2_title_THEY">Performer</string>
+	<string key="ui_metaachievement_Music_Easy2_desc">Complete 10 unique novice songs with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Easy3_title">Minstrel</string>
+	<string key="ui_metaachievement_Music_Easy3_title_SHE">Minstrel</string>
+	<string key="ui_metaachievement_Music_Easy3_title_THEY">Minstrel</string>
+	<string key="ui_metaachievement_Music_Easy3_desc">Complete 25 unique novice songs with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Medium1_title">Musician</string>
+	<string key="ui_metaachievement_Music_Medium1_title_SHE">Musician</string>
+	<string key="ui_metaachievement_Music_Medium1_title_THEY">Musician</string>
+	<string key="ui_metaachievement_Music_Medium1_desc">Complete 1 skilled song with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Medium2_title">Muse</string>
+	<string key="ui_metaachievement_Music_Medium2_title_SHE">Muse</string>
+	<string key="ui_metaachievement_Music_Medium2_title_THEY">Muse</string>
+	<string key="ui_metaachievement_Music_Medium2_desc">Complete 10 unique skilled songs with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Medium3_title">Bard</string>
+	<string key="ui_metaachievement_Music_Medium3_title_SHE">Bard</string>
+	<string key="ui_metaachievement_Music_Medium3_title_THEY">Bard</string>
+	<string key="ui_metaachievement_Music_Medium3_desc">Complete 25 unique skilled songs with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Hard1_title">Virtuoso</string>
+	<string key="ui_metaachievement_Music_Hard1_title_SHE">Virtuoso</string>
+	<string key="ui_metaachievement_Music_Hard1_title_THEY">Virtuoso</string>
+	<string key="ui_metaachievement_Music_Hard1_desc">Complete 1 expert song with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Hard2_title">Maestro</string>
+	<string key="ui_metaachievement_Music_Hard2_title_SHE">Maestro</string>
+	<string key="ui_metaachievement_Music_Hard2_title_THEY">Maestro</string>
+	<string key="ui_metaachievement_Music_Hard2_desc">Complete 10 unqiue expert songs with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Hard3_title">Prodigy</string>
+	<string key="ui_metaachievement_Music_Hard3_title_SHE">Prodigy</string>
+	<string key="ui_metaachievement_Music_Hard3_title_THEY">Prodigy</string>
+	<string key="ui_metaachievement_Music_Hard3_desc">Complete 25 unique expert songs with an amazing score.</string>
 </resources>
 

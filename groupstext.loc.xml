@@ -11,7 +11,9 @@
 	<string key="ui_receivedgroupinvite_hide" comment="">Hide</string>
 	<string key="ui_togglepvpblocked_title" comment="">PvP Flag Warning</string>
 	<string key="ui_togglepvpblocked_ingroup" comment="">PvP and PvE players cannot be grouped together. Changing your PvP flagging will kick you from this group.\n\nAre you sure you want to change your PvP flag?</string>
-	<string key="ui_togglepvpblocked_pendinginvites" comment="">Changing your PvP flagging will rescind all of your invites to Expedition lobby.\n\nAre you sure you want to change your PvP flag?</string>
+	<string key="ui_togglepvpblocked_pendinginvites" comment="">Changing your PvP flagging will rescind all of your pending group invites.\n\nAre you sure you want to change your PvP flag?</string>
+	<string rel_version="Feature_Group_Finder" key="ui_togglepvpblocked_ingroupfindergroup" comment="">PvP and PvE players cannot be in the same Lobby. Changing your PvP flagging will kick you from this Lobby.\n\nAre you sure you want to change your PvP flag?</string>
+	<string rel_version="Feature_Group_Finder" key="ui_togglepvpblocked_pendinggroupfinderapplications" comment="">Changing your PvP flagging will rescind all of your Lobby applications.\n\nAre you sure you want to change your PvP flag?</string>
 	<string key="ui_receivedwargroupinvitetitle" comment="">Join the war!</string>
 	<string key="ui_receivedwargroupinvitemessage" comment="">You have been invited to join the war at {territoryName} from {startTime} to {endTime}. Accept to be teleported to the battlefield.</string>
 	<string key="ui_receivedinvasiongroupinvitetitle" comment="">Defend against the invasion!</string>
@@ -22,6 +24,7 @@
 	<string key="ui_groupinviteacceptraid" comment="">Accepted group invite</string>
 	<string key="ui_groupinvitedeclinesentmessage" comment="">Declined group invite from &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt;.</string>
 	<string key="ui_groupinvitedeclineraid" comment="">Declined group invite</string>
+	<string key="ui_groupinvitedeclinerequeue" comment="">Re-entered queue because a player declined</string>
 	<string key="ui_groupinvitewithdrawnreceivermessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; withdrew his group invite.</string>
 	<string key="ui_groupinvitewithdrawnreceivermessage_SHE" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; withdrew her group invite.</string>
 	<string key="ui_groupinvitewithdrawnreceivermessage_THEY" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; withdrew their group invite.</string>

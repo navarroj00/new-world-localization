@@ -212,6 +212,9 @@
 	<string key="ui_reserved_binding_openStyleGuide">Open Style Guide</string>
 	<string key="ui_reserved_binding_toggleFishingBaitWindow">Toggle Fishing Bait Window</string>
 	<string key="ui_reserved_binding_ui_repairKitItemModifier">Use Repair Kit</string>
+	<string key="ui_reserved_binding_ui_nav_home">Home</string>
+	<string key="ui_reserved_binding_ui_nav_select">Select</string>
+	<string key="ui_reserved_binding_musicalactions_invite_performer">Performer Invitation</string>
 	<string key="ui_chat">Chat</string>
 	<string key="ui_chat_command">Chat Command</string>
 	<string key="ui_chat_display_settings">DISPLAY SETTINGS</string>
@@ -289,8 +292,8 @@
 	<string key="ui_hour_with_time_short">1h</string>
 	<string key="ui_minute_with_time">1 minute</string>
 	<string key="ui_minute_with_time_short">1m</string>
-	<string key="ui_lessthan_minute_with_time">&lt;1 minute</string>
-	<string key="ui_lessthan_minute_with_time_short">&lt;1m</string>
+	<string key="ui_lessthan_minute_with_time">less than 1 minute</string>
+	<string key="ui_lessthan_minute_with_time_short">less than 1m</string>
 	<string key="ui_hours_with_time">{time} hours</string>
 	<string key="ui_hours_with_time_short">{time}h</string>
 	<string key="ui_minutes_with_time">{time} minutes</string>
@@ -299,7 +302,7 @@
 	<string key="ui_seconds_with_time_short">{time}s</string>
 	<string key="ui_lastplayed">Last Played</string>
 	<string key="ui_minuteago">1 minute ago</string>
-	<string key="ui_lessthan_minuteago">&lt;1 minute ago</string>
+	<string key="ui_lessthan_minuteago">less than 1 minute ago</string>
 	<string key="ui_minutesago">{time} minutes ago</string>
 	<string key="ui_hourago">1 hour ago</string>
 	<string key="ui_hoursago">{time} hours ago</string>
@@ -391,7 +394,7 @@
 	<string key="ui_european">European</string>
 	<string key="ui_exit">Exit</string>
 	<string key="ui_exitnewworld">Exit to Main Menu</string>
-	<string key="ui_quittodesktop">Quit to Desktop</string>
+	<string key="ui_quittodesktop">Exit to Desktop</string>
 	<string key="ui_expatriate">Expatriate</string>
 	<string key="ui_expertise">Aptitude</string>
 	<string key="ui_expertise_tooltip_warning">You cannot earn any more aptitude levels until you reach the new trade skill level limit.</string>
@@ -426,6 +429,7 @@
 	<string key="ui_gettingstarted">Getting Started</string>
 	<string key="ui_global">Global</string>
 	<string key="ui_group">Group</string>
+	<string key="ui_groupmode">Group Mode</string>
 	<string key="ui_hairstyle">HAIR STYLE</string>
 	<string key="ui_eyecolor">EYE COLOR</string>
 	<string key="ui_facemarks">FEATURES</string>
@@ -451,6 +455,7 @@
 	<string key="ui_interactdetailed">Secondary Interact</string>
 	<string key="ui_inventory">Inventory</string>
 	<string key="ui_inventoryfull">Inventory Full</string>
+	<string key="ui_craftingnearitemlimit">Near inventory item limit. Crafted items may be dropped.</string>
 	<string key="ui_inventory_warning_toofullforrewards">Too many items in inventory to receive rewards.</string>
 	<string key="ui_inventoryslotsremaining">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{count}&lt;/font&gt; inventory slots remaining</string>
 	<string key="ui_inventoryweightremaining">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{Weight}&lt;/font&gt; pounds remaining</string>
@@ -542,6 +547,13 @@
 	<string key="ui_openmap">Open Map</string>
 	<string key="ui_openui">Open UI</string>
 	<string key="ui_open">Open</string>
+	<string key="ui_learn">Learn</string>
+	<string key="ui_alreadylearned">Already Learned</string>
+	<string key="ui_schematicpopuptitle">Learned New Schematic</string>
+	<string key="ui_recipepopuptitle">Learned New Recipe</string>
+	<string key="ui_musicpopuptitle">Learned New Music Sheet</string>
+	<string key="ui_craftable">&lt;img src="lyshineui/images/icons/misc/icon_exclamation_white_small" xPadding="0" scale="2.0" yOffset="4"&gt;&lt;/img&gt; Craft the item at</string>
+	<string key="ui_craftlocation">{craftable} {craftingStationIcon} {craftingStation}</string>
 	<string key="ui_options">Options</string>
 	<string key="ui_otherplayername">Other player name</string>
 	<string key="ui_output">Output</string>
@@ -643,6 +655,16 @@
 	<string key="ui_quickslot_skinning_tooltip">Skinning Knife Slot</string>
 	<string key="ui_quickslot_pickaxe_tooltip">Mining Pickaxe Slot</string>
 	<string key="ui_quickslot_azoth_tooltip">Azoth Staff Slot</string>
+	<string key="ui_quickslot_flute_tooltip" rel_version="Feature_MusicalPerformances">Flute Slot</string>
+	<string key="ui_quickslot_guitar_tooltip" rel_version="Feature_MusicalPerformances">Guitar Slot</string>
+	<string key="ui_quickslot_mandolin_tooltip" rel_version="Feature_MusicalPerformances">Mandolin Slot</string>
+	<string key="ui_quickslot_bass_tooltip" rel_version="Feature_MusicalPerformances">Upright Bass Slot</string>
+	<string key="ui_quickslot_drums_tooltip" rel_version="Feature_MusicalPerformances">Drums Slot</string>
+	<string key="ui_instrument-flute-slot_name" rel_version="Feature_MusicalPerformances">Flute</string>
+	<string key="ui_instrument-guitar-slot_name" rel_version="Feature_MusicalPerformances">Guitar</string>
+	<string key="ui_instrument-mandolin-slot_name" rel_version="Feature_MusicalPerformances">Mandolin</string>
+	<string key="ui_instrument-uprightbass-slot_name" rel_version="Feature_MusicalPerformances">Upright Bass</string>
+	<string key="ui_instrument-drums-slot_name" rel_version="Feature_MusicalPerformances">Drums</string>
 	<string key="ui_buildmode_grid">Buildmode Grid</string>
 	<string key="ui_wave">Wave</string>
 	<string key="ui_inspect_player">Social Actions</string>
@@ -664,7 +686,7 @@
 	<string key="ui_options_brightness_desc">Adjust brightness</string>
 	<string key="ui_options_contrast">Contrast</string>
 	<string key="ui_options_contrast_desc">Adjust contrast</string>
-	<string key="ui_quit">Quit</string>
+	<string key="ui_quit">Exit</string>
 	<string key="ui_randomize">Randomize</string>
 	<string key="ui_receivevolume">Receive Volume</string>
 	<string key="ui_reelinwhenyoufeelabite">Reel in when you feel a bite...</string>
@@ -678,7 +700,7 @@
 	<string key="ui_confirm_respawn_cooldown">Confirm respawn?</string>
 	<string key="ui_confirm_respawn_cooldown_desc">This will put this respawn position in cooldown. Continue?</string>
 	<string key="ui_respawn_home_location">{territoryName} House</string>
-	<string key="ui_respawn_home_location_unpaid">{territoryName} : Pay property tax to respawn at your house.</string>
+	<string key="ui_respawn_home_location_unpaid">{territoryName} : Pay property upkeep to respawn at your house.</string>
 	<string key="ui_respawn">Respawn</string>
 	<string key="ui_return_to_aeternum">Return To Aeternum</string>
 	<string key="ui_respawnpoints">Respawn points</string>
@@ -909,11 +931,19 @@
 	<string key="ui_xp_event_title">XP BOOST EVENT!</string>
 	<string key="ui_xp_event_desc">Special XP Boost is active in this world!</string>
 	<string key="ui_xp_event_modal_title">XP BOOST IS ON!</string>
-	<string key="ui_xp_event_modal_desc">Come and enjoy the glorious XP Boost event! This is the chance to level up your characters!\nThe boost is activated on :</string>
-	<string key="ui_xp_event_xp">&lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_regular.font"&gt;XP (x {amount})&lt;/font&gt;</string>
-	<string key="ui_xp_event_tradeskill_xp">&lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_regular.font"&gt;Trade Skill (x {amount})&lt;/font&gt;</string>
-	<string key="ui_xp_event_weaponmastery_xp">&lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_regular.font"&gt;Weapon Mastery (x {amount})&lt;/font&gt;</string>
-	<string key="ui_xp_event_progression_xp">{progressionName} (x {amount})</string>
+	<string key="ui_xp_event_modal_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Come and enjoy the glorious XP Boost event! This is the chance to level up your characters!\nThe boost is activated on:&lt;/font&gt;</string>
+	<string key="ui_xp_event_xp">XP &lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x {amount}&lt;/font&gt;</string>
+	<string key="ui_xp_event_some_tradeskill_xp">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Trade Skills</string>
+	<string key="ui_xp_event_some_weaponmastery_xp">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Weapon Masteries</string>
+	<string key="ui_xp_event_some_territory_xp">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Territory Standings</string>
+	<string key="ui_xp_event_some_faction_xp">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Faction Reputation</string>
+	<string key="ui_xp_event_some_factiontoken_xp">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Faction Tokens</string>
+	<string key="ui_xp_event_all_tradeskill_xp">All Trade Skills</string>
+	<string key="ui_xp_event_all_weaponmastery_xp">All Weapon Masteries</string>
+	<string key="ui_xp_event_all_territory_xp">All Territory Standings</string>
+	<string key="ui_xp_event_all_faction_xp">All Faction Reputation</string>
+	<string key="ui_xp_event_all_factiontoken_xp">All Faction Tokens</string>
+	<string key="ui_xp_event_progression_xp">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;{progressionName}&lt;/font&gt; &lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x {amount}&lt;/font&gt;</string>
 	<string key="ui_xp_boost_reminder" comment="The leading space is intentional"> ( x {bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1.1" yOffset="0.5"&gt;&lt;/img&gt;)</string>
 	<string key="ui_xp_multiplier_arrow" comment="The leading space is intentional"> x {bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1.1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_reached_max_daily_pvp_arena_rewards">Daily PvP Arena Salt Limit Reached!</string>
@@ -959,7 +989,7 @@
 	<string key="ui_navmenu_game_menu">Menu</string>
 	<string key="ui_navmenu_benchmark">BENCHMARK</string>
 	<string key="ui_navmenu_store">Store</string>
-	<string key="ui_navmenu_quit">QUIT</string>
+	<string key="ui_navmenu_quit">EXIT</string>
 	<string key="ui_escapemenu_submit_feedback">Submit Feedback</string>
 	<string key="ui_escapemenu_respawn">Respawn</string>
 	<string key="ui_escapemenu_recall_to_inn">Recall to Inn</string>
@@ -978,12 +1008,12 @@
 	<string key="ui_help">help</string>
 	<string key="ui_navmenu_get_help">Get Help</string>
 	<string key="ui_navmenu_get_help_desc">Visit the New World help page for FAQ, technical support, and other helpful resources.</string>
-	<string key="ui_quitpopup_title">CONFIRM QUIT</string>
+	<string key="ui_quitpopup_title">CONFIRM EXIT</string>
 	<string key="ui_quitpopup_incombat_title">EXIT RECENT COMBAT</string>
 	<string key="ui_quitpopup_criminal_title">EXIT AS CRIMINAL</string>
 	<string key="ui_quitpopup_murderer_title">EXIT AS MURDERER</string>
-	<string key="ui_quitdesktoppopup_message">Are you sure you want to quit to desktop?</string>
-	<string key="ui_quitmainmenupopup_message">Are you sure you want to quit to main menu?</string>
+	<string key="ui_quitdesktoppopup_message">Are you sure you want to exit to Desktop?</string>
+	<string key="ui_quitmainmenupopup_message">Are you sure you want to exit to Main Menu?</string>
 	<string key="ui_quitpopup_incombat_message" comment="Player is still in a combat situation and tries to log-out">If you log out when you have recently been in-combat,\nyour body will remain for &lt;font color="#ffd45f"&gt;[{timeremaining}]&lt;/font&gt; in the world.\n\nDo you want to proceed?</string>
 	<string key="ui_quitpopup_criminal_message">If you log out when you are a criminal,\nyour body will remain for &lt;font color="#ffd45f"&gt;[{timeremaining}]&lt;/font&gt; in the world.\n\nDo you want to proceed?</string>
 	<string key="ui_quitpopup_murderer_message">If you log out when you are a murderer,\nyour body will remain for &lt;font color="#ffd45f"&gt;[{timeremaining}]&lt;/font&gt; in the world.\n\nDo you want to proceed?</string>
@@ -1264,6 +1294,7 @@
 	<string key="ui_camping_error_not_unlocked">Camping not unlocked yet</string>
 	<string key="ui_bind_to_camp_disabled">Binding To Camp disabled</string>
 	<string key="ui_bind_to_camp">Set Camp Recall Point</string>
+	<string key="ui_camping_error_poi_restricted_outpost_rush">Camping restricted in Outpost Rush</string>
 	<string key="ui_camping_error_poi_restricted">&lt;img src="lyshineui/images/campingrestrictions/campingRestricted" xPadding="0" scale="2.5" yOffset="15" &gt;&lt;/img&gt; Camping restricted in landmarks</string>
 	<string key="ui_camp_obstructed">Move Back To Complete</string>
 	<string key="ui_camping_restricted">Camping Restricted</string>
@@ -1600,8 +1631,8 @@
 	<string key="ui_loading">Loading</string>
 	<string key="ui_digital_deluxe">Digital Deluxe</string>
 	<string key="ui_twitch_prime_members">Twitch Prime</string>
-	<string key="ui_remote_house_payment_need_coin">Unable to pay taxes, not enough coin.</string>
-	<string key="ui_remote_house_payment_unavailable">Unable to pay taxes at this time, please try again.</string>
+	<string key="ui_remote_house_payment_need_coin">Unable to pay upkeep, not enough coin.</string>
+	<string key="ui_remote_house_payment_unavailable">Unable to pay upkeep at this time, please try again.</string>
 	<string key="ui_available_entitlements">&lt;font color="#979081"&gt;{num} Skins Available&lt;/font&gt;</string>
 	<string key="ui_entitlements_new_items">New Items.</string>
 	<string key="ui_entitlements">Entitlements</string>
@@ -1834,7 +1865,7 @@
 	<string key="ui_vitals_health_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">Health\n{currentValue} / {maxValue}\n\nTo &lt;font color="#ffe940"&gt;regain&lt;/font&gt; health\n- Consume tinctures to regain it quickly\n- Consume food to regain it slowly over time after a quick increase\n\nUpgrade &lt;font color="#ffe940"&gt;Constitution&lt;/font&gt; to increase your maximum health.</string>
 	<string key="ui_vitals_stamina_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">Stamina\n{currentValue} / {maxValue}\n\nDefensive actions like blocking or dodging will drain your stamina, and if you run out you may be unable to perform those actions until it replenishes.\n\nStamina replenishes on its own over time unless you are sprinting or attacking.</string>
 	<string key="ui_vitals_mana_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">Mana\n{currentValue} / {maxValue}\n\nA mysterious resource required in order to use magic. If this is low, you may be unable to make use of certain supernatural abilities.\n\nMana replenishes over time.</string>
-	<string key="ui_vitals_mana_rate_tooltip">Mana replenishes over time.\n\nIncrease Mana Regen Rate by upgrading Focus to &lt;font color="#ffe940"&gt;50&lt;/font&gt;</string>
+	<string key="ui_vitals_mana_rate_tooltip">Mana replenishes over time.\n\n Base 1.5 mana per second.</string>
 	<string key="ui_vitals_cooldown_tooltip">Decreases the amount of time before you are able to use an ability again.</string>
 	<string key="ui_vitals_food_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">Food\n{currentValue} / {maxValue}\n\nEating increases the rate your health regenerates. If your food is too low, you could stop healing altogether!\n\nYou will not lose health due to hunger. It only affects the regeneration rate.</string>
 	<string key="ui_vitals_drink_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">Drink\n{currentValue} / {maxValue}\n\nStaying hydrated increases the rate your stamina regenerates. Keep it high to maximize your effectiveness.\n\nYou will not lose stamina due to thirst. It only affects the regeneration rate.</string>
@@ -1959,6 +1990,7 @@
 	<string key="ui_unlock_third_bag_slot">Third Bag Slot</string>
 	<string key="ui_unlock_pvp_flagging">PVP Flagging</string>
 	<string key="ui_current_level">Current Level</string>
+	<string key="ui_current_gear_score">Current Gear Score</string>
 	<string key="ui_next_milestone">Next Unlock</string>
 	<string key="ui_unlocked">UNLOCKED</string>
 	<string key="ui_attribute_scale">{name}\n\nScales with {attribute}</string>
@@ -2169,7 +2201,7 @@
 	<string key="ui_framepersec">FPS:</string>
 	<string key="ui_category">Category</string>
 	<string key="ui_common_uses">Common Uses :</string>
-	<string key="ui_governing_propertytax">The governing company can collect property tax from houses in the settlement.</string>
+	<string key="ui_governing_propertytax">The governing company can collect upkeep from houses in the settlement.</string>
 	<string key="ui_nameplate_slider">Player Nameplate amount</string>
 	<string key="ui_nameplate_slider_desc">Increase or decrease the amount of nameplates shown on screen. WARNING: High amounts of nameplates can severely affect framerate</string>
 	<string key="ui_stat_bonus_tooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;+{amount}&lt;/font&gt; {attribute}</string>
@@ -2186,9 +2218,9 @@
 	<string key="ui_fishing_very_shallow">Very shallow</string>
 	<string key="ui_fishing_shallow">Shallow</string>
 	<string key="ui_fishing_deep">Deep</string>
-	<string key="ui_fishing_fresh_water_bait">Fresh Water Bait</string>
-	<string key="ui_fishing_salt_water_bait">Salt Water Bait</string>
-	<string key="ui_fishing_selected_bait">Selected Bait</string>
+	<string key="ui_fishing_fresh_water_bait">Fresh Water</string>
+	<string key="ui_fishing_salt_water_bait">Salt Water</string>
+	<string key="ui_fishing_selected_bait">Selected</string>
 	<string key="ui_fishing_attach_bait">Equip Bait</string>
 	<string key="ui_fishing_no_bait">No Bait</string>
 	<string key="ui_fishing_change_bait">Change Bait</string>
@@ -2204,6 +2236,7 @@
 	<string key="ui_fishing_ready">Get ready!</string>
 	<string key="ui_start_fishing_instruction">Start fishing</string>
 	<string key="ui_no_pole_instruction">You need a fishing pole equipped to fish.</string>
+	<string key="ui_no_pole_short">Requires Fishing Pole</string>
 	<string key="ui_pole_broken">Equipped fishing pole is broken.</string>
 	<string key="ui_num_of_hotspots">{num} Hotspots</string>
 	<string key="ui_landed_hotspot">Landed on Hotspot!</string>
@@ -2242,6 +2275,9 @@
 	<string key="reward_new_recipe">New Recipe: {name}</string>
 	<string key="tradeskill_required_level">Lv. {skillLevel}</string>
 	<string key="ui_add_summoning_stone">Add Summoning Stone</string>
+	<string key="ui_tip_performers" rel_version="Feature_MusicalPerformances">Tip Performers</string>
+	<string key="ui_performance_area" rel_version="Feature_MusicalPerformances">Tip To Receive Buff</string>
+	<string key="ui_performance_area_desc" rel_version="Feature_MusicalPerformances">Tip performers coin at the end of their performance to receive a buff.</string>
 	<string key="Siren_Name">the Siren Queen</string>
 	<string key="Protector_Name">Avarice</string>
 	<string key="ui_gather_faction_mismatch">You cannot gather this because you are not {factionName}.</string>
@@ -2292,6 +2328,9 @@
 	<string key="ui_notificationdecline">Decline Notification</string>
 	<string key="ui_banneraccept">Accept Banner</string>
 	<string key="ui_togglepopupoption">Toggle Popup Option</string>
+	<string key="ui_quick_salvage_modifier">Quick Salvage Item</string>
+	<string key="ui_quick_salvagelock_modifier">Quick Salvage Lock Item</string>
+	<string key="ui_quick_repair_modifier">Quick Repair Item</string>
 	<string key="ui_dialogue">Dialogue</string>
 	<string key="ui_dialogueoption1">Option #1</string>
 	<string key="ui_dialogueoption2">Option #2</string>
@@ -2398,13 +2437,14 @@
 	<string key="ui_treasury_purchase_nw">Purchase New World to use the company treasury</string>
 	<string key="ui_cannot_chat_global_blocked">Can't chat in this channel until your account is older than {hoursNeeded} hours and your playtime is greater than {playtimeNeeded}</string>
 	<string key="ui_complete_quests_to_unlock">Complete quests in settlement to unlock</string>
+	<string key="ui_interact_required_level">You must be level {level} to use</string>
 	<string key="ui_cannot_chat_trading_blocked">Your account must be older than {hoursNeeded}, your playtime greater than {playtimeNeeded}, and the trading post unlocked to access this channel.</string>
 	<string key="ui_averageexpertise">Average\nExpertise</string>
 	<string key="ui_averageexpertisetooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Expertise&lt;/font&gt;\nExpertise is used to measure the maximum power of an item when you have it equipped.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Max Expertise that you can reach&lt;/font&gt;\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{maximum}&lt;/font&gt;\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;How to increase Expertise&lt;/font&gt;\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Elite POIs and Expeditions&lt;/font&gt;\nDrops from creatures or chests in level 60+ areas have a chance to increase this value.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Crafting&lt;/font&gt;\nCrafting a 600 GS item will increase Expertise of this item type.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Gypsum Cast&lt;/font&gt;\nOpening a Gypsum Cast will increase Expertise.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Item Upgrade (with Umbral Shards)&lt;/font&gt;\nAfter you reach 600 Expertise, the only way to increase Expertise is via upgrading items with Umbral Shards.</string>
 	<string key="ui_itemtypedescription_shield_only">Shield</string>
 	<string key="ui_expertise_value_with_icon">&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;{value}</string>
 	<string key="ui_expertise_warning_with_icon">&lt;font color="#ff9393"&gt;&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_red" scale="1.5" yOffset="2"&gt;&lt;/img&gt;{value}&lt;/font&gt;</string>
-	<string key="ui_expertise_increased">Expertise Increased!</string>
+	<string key="ui_expertise_increased">+{amount} Expertise</string>
 	<string key="ui_expertise_tooltip_header">Total {category} Expertise</string>
 	<string key="ui_expertise_tooltip_breakdown">(&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{value} &lt;/font&gt; &lt;font color="#ffffff"&gt;+ {additional}&lt;/font&gt; from Umbral Upgrade)</string>
 	<string key="ui_expertise_tooltip_breakdown_multiple">(&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{value} &lt;/font&gt; &lt;font color="#ffffff"&gt;+ {additional}&lt;/font&gt; from Umbral Upgrades)</string>
@@ -2422,6 +2462,12 @@
 	<string key="ui_fishing_hotspot_depleted_body">After enough fish are caught at a hotspot, it will become depleted. You can tell a hotspot is depleted when there are no fish jumping. A depleted hotspot will become active again after some time has passed.</string>
 	<string key="ui_fishing_hotspot_active_body">You can tell a fishing hotspot is active when you see fish jumping out of it. While it’s active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you’ll see a small alert telling you you’ve hit the hotspot.</string>
 	<string key="ui_event_token_disappears">&lt;font face="lyshineui/fonts/Nimbus_Medium.font" color="#cca000"&gt;Tokens will disappear at the end of the event.&lt;/font&gt;</string>
-	<string key="ui_event_time_left">&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Event ends in: &lt;font color="#cca000"&gt;{timeLeft}&lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass.png" xPadding="0" scale="1.1" yOffset="2"&gt;&lt;/img&gt;&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_event_item_disappears">&lt;font face="lyshineui/fonts/Nimbus_Medium.font" color="#cca000"&gt;This item will disappear at the end of the event.&lt;/font&gt;</string>
+	<string key="ui_event_time_left">&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Event ends in: &lt;font color="#cca000"&gt;{timeLeft} &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_event_time_left_compass">Event ends in &lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{timeLeft}&lt;/font&gt;</string>
+	<string key="attribution_WinterConvergence_2021" rel_version="Event_WinterConvergence_Perm">Winter Convergence 2021</string>
+	<string key="attribution_SummerMedleyfaire_2022" rel_version="Event_Summer_Perm">Summer Medleyfaire 2022</string>
+	<string key="ui_reset_daily_time">Resets daily at {time}</string>
+	<string key="ui_reset_weekly_time">Resets weekly each {time}</string>
 </resources>
 

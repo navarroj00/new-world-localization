@@ -236,10 +236,12 @@
 	<string key="owg_pvp_acceptmission_prompt">Taking a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; will &lt;font color="#eaeaea"&gt;flag you for PvP&lt;/font&gt;.\nYou cannot toggle off your PvP Flag during this mission. To toggle it off, you must abandon the mission first.\n\nAre you sure you want to take this mission?</string>
 	<string key="owg_pvp_cannotacceptmission_title">CANNOT ACCEPT MISSION</string>
 	<string key="owg_pvp_cannotacceptmission_ingroup">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are in a PvE group which will not allow you to turn on your PvP Flag.</string>
-	<string key="owg_pvp_cannotacceptmission_pendinggroupinvite">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you have lobby invites which will not allow you to turn on your PvP Flag.</string>
+	<string key="owg_pvp_cannotacceptmission_pendinggroupinvite">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you have group invites which will not allow you to turn on your PvP flag.</string>
 	<string key="owg_pvp_cannotacceptmission_nofaction">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; until you join a faction.</string>
 	<string key="owg_pvp_cannotacceptmission_nosanctuary">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; until you are in a sanctuary.</string>
 	<string key="owg_pvp_cannotacceptmission_typeblocked">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; of this type at this time.</string>
+	<string rel_version="Feature_Group_Finder" key="owg_pvp_cannotacceptmission_ingroupfindergroup">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are in a PvE Lobby which will not allow you to turn on your PvP flag.</string>
+	<string rel_version="Feature_Group_Finder" key="owg_pvp_cannotacceptmission_pendinggroupfinderapplications">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you have Lobby invites which will not allow you to turn on your PvP flag.</string>
 	<string key="owg_pvp_cannotacceptmission_unknown">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; at this time.</string>
 	<string key="owg_tooltip_warning">Only 1 Mission can be active at a time.</string>
 	<string key="owg_unlock_previous_rank">Unlocked Rank {rankName}</string>
@@ -377,6 +379,7 @@
 	<string key="FactionMission_PRESERVE_desc">Help deliver the good news of the Spark.</string>
 	<string key="FactionMission_EXPEDITIONRAID_title">Raid: {POITags}</string>
 	<string key="FactionMission_EXPEDITIONRAID_desc">Delve into {POITags} for the Marauders and defeat every &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; necessary. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
+	<string key="FactionMission_EXPEDITIONRAID_desc_singular">Delve into {POITags} for the Marauders and defeat &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_EXPEDITIONLOOT_title">Plunder: {POITags}</string>
 	<string key="FactionMission_EXPEDITIONLOOT_desc">Delve into {POITags} for the Marauders and collect each &lt;font color="#eaeaea"&gt;{itemName}&lt;/font&gt; within. \n\n&lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_INTERCEPT_title">Dominate (PvP)</string>
@@ -387,10 +390,12 @@
 	<string key="FactionMission_C_INTERCEPT_desc">Defeat &lt;font color="#eaeaea"&gt;Syndicate&lt;/font&gt; or &lt;font color="#eaeaea"&gt;Marauder&lt;/font&gt; members to purify their souls.\n\n (This mission keeps your progress even on death)</string>
 	<string key="FactionMission_S_EXPEDITIONRAID_title">Purge: {POITags}</string>
 	<string key="FactionMission_S_EXPEDITIONRAID_desc">Delve into {POITags} for the Syndicate and defeat every &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; necessary. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
+	<string key="FactionMission_S_EXPEDITIONRAID_desc_singular">Delve into {POITags} for the Syndicate and defeat &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; . \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_S_EXPEDITIONLOOT_title">Procure: {POITags}</string>
 	<string key="FactionMission_S_EXPEDITIONLOOT_desc">Delve into {POITags} for the Syndicate and collect each &lt;font color="#eaeaea"&gt;{itemName}&lt;/font&gt; within.\n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_C_EXPEDITIONRAID_title">Crusade: {POITags}</string>
 	<string key="FactionMission_C_EXPEDITIONRAID_desc">Delve into {POITags} for the Covenant and defeat every &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; necessary.\n\n  &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
+	<string key="FactionMission_C_EXPEDITIONRAID_desc_singular">Delve into {POITags} for the Covenant and defeat &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt;.\n\n  &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_C_EXPEDITIONLOOT_title">Reclaim: {POITags}</string>
 	<string key="FactionMission_C_EXPEDITIONLOOT_desc">Delve into {POITags} for the Covenant and collect each &lt;font color="#eaeaea"&gt;{itemName}&lt;/font&gt; within.\n\n  &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_ASSASSINATE_title">Bounty: {POITags}</string>
@@ -507,6 +512,21 @@
 	<string key="FactionMission_BREACH_desc" rel_version="Quest_FM_BreachMissions">Marauders don't tolerate &lt;font color="#eaeaea"&gt;Corruption&lt;/font&gt; muscling in on our territory.\n\nIf you see one of their breaches, shut it down.</string>
 	<string key="FactionMission_S_BREACH_desc" rel_version="Quest_FM_BreachMissions">We now have the power to thwart &lt;font color="#eaeaea"&gt;Corruption's&lt;/font&gt; advance.\n\nSeal off any &lt;font color="#eaeaea"&gt;Corruption Breach&lt;/font&gt; you see.</string>
 	<string key="FactionMission_C_BREACH_desc" rel_version="Quest_FM_BreachMissions">&lt;font color="#eaeaea"&gt;Corruption Breaches&lt;/font&gt; threaten to extinguish the Spark\n\nEndeavor to vanquish any breach you find.</string>
-	<string key="CMissionAcquireLeather_Name_WC">Festive Tanners Needed</string>
+	<string key="CMissionAcquireStoneworker">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Stonecutting Table.</string>
+	<string key="CMissionAcquireWoodWorker">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Woodshop.</string>
+	<string key="CMissionAcquireOutfitter">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from an Outfitting Station.</string>
+	<string key="CMissionAcquireEngineer">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Workshop.</string>
+	<string key="CMissionAcquireBlock_Name_SE" rel_version="Event_Summer_Temp">Festive Stonemasons Needed</string>
+	<string key="CMissionAcquireTimber_Name_SE" rel_version="Event_Summer_Temp">Festive Carpenters Needed</string>
+	<string key="CMissionAcquireCloth_Name_SE" rel_version="Event_Summer_Temp">Festive Weavers Needed</string>
+	<string key="CMissionAcquireMetal_Name_SE" rel_version="Event_Summer_Temp">Festive Metalworkers Needed</string>
+	<string key="CMissionAcquireFibers_Name_SE" rel_version="Event_Summer_Temp">Festive Harvesters Needed</string>
+	<string key="CMissionAcquireFood_Name_SE" rel_version="Event_Summer_Temp">Festive Cooks Needed</string>
+	<string key="CMissionAcquirePotions_Name_SE" rel_version="Event_Summer_Temp">Festive Alchemists Needed</string>
+	<string key="CMissionAcquireGeneric_Name_SE" rel_version="Event_Summer_Temp">Festive Supplies Needed</string>
+	<string key="CMissionAcquireWood_Name_SE" rel_version="Event_Summer_Temp">Festive Lumberjacks Needed</string>
+	<string key="CMissionAcquireRawhide_Name_SE" rel_version="Event_Summer_Temp">Festive Hunters Needed</string>
+	<string key="CMissionAcquireLeather_Name_SE" rel_version="Event_Summer_Temp">Festive Tanners Needed</string>
+	<string key="CMissionAcquirePaint_Name_SE" rel_version="Event_Summer_Temp">Festive Painters Needed</string>
 </resources>
 

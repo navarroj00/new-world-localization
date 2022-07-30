@@ -120,7 +120,7 @@
 	<string key="ui_icon_shattermtn00_title_isabella" rel_version="Expedition_ShatterMtn_00">ISABELLA</string>
 	<string key="ui_icon_shattermtn00_description_isabella" rel_version="Expedition_ShatterMtn_00">LEVEL 66 BOSS\nLEADER OF AETERNUM'S CORRUPTED FORCES</string>
 	<string key="ui_icon_shattermtn00_unconverted" rel_version="Expedition_ShatterMtn_00">ISABELLA</string>
-	<string key="ui_icon_shattermtn00_title_naga" rel_version="Expedition_ShatterMtn_00">CORRUPTED NAGA</string>
+	<string key="ui_icon_shattermtn00_title_naga" rel_version="Expedition_ShatterMtn_00">NEISHATUN</string>
 	<string key="ui_icon_shattermtn00_description_naga" rel_version="Expedition_ShatterMtn_00">LEVEL 66 BOSS\nGUARDIAN TO THE THRONE</string>
 	<string key="ui_icon_shattermtn00_voidtunnel" rel_version="Expedition_ShatterMtn_00">PORTAL</string>
 	<string key="ui_icon_shattermtn00_voidtunnelexit" rel_version="Expedition_ShatterMtn_00">EXIT</string>
@@ -130,5 +130,28 @@
 	<string key="ui_icon_amrine_vestibuleseal">Azoth Seal</string>
 	<string key="ui_icon_amrine_spectralshrine">Spectral Shrine</string>
 	<string key="ui_icon_amrine_portalstone">Exit Portal</string>
+	<string key="ui_area_cutlasskeys00_docks" rel_version="Expedition_CutlassKeys_00">THE DOCKS</string>
+	<string key="ui_area_cutlasskeys00_footpath" rel_version="Expedition_CutlassKeys_00">OLD SALT FOOTPATH</string>
+	<string key="ui_area_cutlasskeys00_cove" rel_version="Expedition_CutlassKeys_00">BLACK FLAG COVE</string>
+	<string key="ui_area_cutlasskeys00_passageway" rel_version="Expedition_CutlassKeys_00">DRY RUM PASSAGEWAY</string>
+	<string key="ui_area_cutlasskeys00_crowsnest" rel_version="Expedition_CutlassKeys_00">CROW'S NEST</string>
+	<string key="ui_area_cutlasskeys00_arena" rel_version="Expedition_CutlassKeys_00">THE BROKEN BONES</string>
+	<string key="ui_area_cutlasskeys00_fireagent" rel_version="Expedition_CutlassKeys_00">DEVIL'S GAZE</string>
+	<string key="ui_area_cutlasskeys00_gauntlet" rel_version="Expedition_CutlassKeys_00">GUNPOWDER GAUNTLET</string>
+	<string key="ui_area_cutlasskeys00_treasurecave" rel_version="Expedition_CutlassKeys_00">CAVERN OF FORBIDDEN PLUNDER</string>
+	<string key="ui_area_cutlasskeys00_retreat" rel_version="Expedition_CutlassKeys_00">DEAD MAN'S RETREAT</string>
+	<string key="ui_area_cutlasskeys00_depths" rel_version="Expedition_CutlassKeys_00">SUNKEN DEPTHS</string>
+	<string key="ui_area_cutlasskeys00_domain" rel_version="Expedition_CutlassKeys_00">DREADED DOMAIN</string>
+	<string key="ui_icon_cutlasskeys00_title_admiral" rel_version="Expedition_CutlassKeys_00">Admiral Blackpowder</string>
+	<string key="ui_icon_cutlasskeys00_description_admiral" rel_version="Expedition_CutlassKeys_00">Leader of the Black Flag Pirates</string>
+	<string key="ui_icon_cutlasskeys00_title_siren" rel_version="Expedition_CutlassKeys_00">Nereid</string>
+	<string key="ui_icon_cutlasskeys00_description_siren" rel_version="Expedition_CutlassKeys_00">Water Elemental</string>
+	<string key="ui_icon_cutlasskeys00_chestfuse" rel_version="Expedition_CutlassKeys_00">Toolbox</string>
+	<string key="ui_icon_cutlasskeys00_explosives" rel_version="Expedition_CutlassKeys_00">Explosives</string>
+	<string key="ui_icon_cutlasskeys00_lever" rel_version="Expedition_CutlassKeys_00">Lever</string>
+	<string key="ui_icon_cutlasskeys00_spring" rel_version="Expedition_CutlassKeys_00">Nereid's Offering</string>
+	<string key="ui_icon_cutlasskeys00_waterstatue" rel_version="Expedition_CutlassKeys_00">Nereid's Blessing</string>
+	<string key="ui_icon_cutlasskeys00_antonio" rel_version="Expedition_CutlassKeys_00">Antonio</string>
+	<string key="ui_icon_cutlasskeys00_mariner" rel_version="Expedition_CutlassKeys_00">Tye</string>
 </resources>
 

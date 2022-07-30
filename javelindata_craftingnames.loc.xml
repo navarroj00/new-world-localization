@@ -1890,5 +1890,65 @@
 	<string key="Procedural_GauntletVoidT3_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
 	<string key="Procedural_GauntletVoidT4_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
 	<string key="Procedural_GauntletVoidT5_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
+	<string key="FiletToken" rel_version="Event_Summer_Temp">Medleyfaire Token - Filet</string>
+	<string key="ScaleToken" rel_version="Event_Summer_Temp">Medleyfaire Token - Scale</string>
+	<string key="DustToken" rel_version="Event_Summer_Temp">Medleyfaire Token - Maudlindust</string>
+	<string key="ScrapExtractMetalT2">Extract Metal - Iron</string>
+	<string key="ScrapExtractMetalT3">Extract Metal - Steel</string>
+	<string key="ScrapExtractMetalT4">Extract Metal - Starmetal</string>
+	<string key="ScrapExtractMetalT5">Extract Metal - Orichalcum</string>
+	<string key="ScrapExtractMetalT51">Extract Metal - Asmodeum</string>
+	<string key="ScrapExtractMetalPreciousT2">Extract Precious Metal - Silver</string>
+	<string key="ScrapExtractMetalPreciousT3">Extract Precious Metal - Gold</string>
+	<string key="ScrapExtractMetalPreciousT4">Extract Precious Metal - Platinum</string>
+	<string key="ScrapExtractClothT2">Extract Cloth - Linen</string>
+	<string key="ScrapExtractClothT3">Extract Cloth - Sateen</string>
+	<string key="ScrapExtractClothT4">Extract Cloth - Silk</string>
+	<string key="ScrapExtractClothT5">Extract Cloth - Infused Silk</string>
+	<string key="ScrapExtractClothT51">Extract Cloth - Pheonixweave</string>
+	<string key="ScrapExtractLeatherT2">Extract Leather - Coarse</string>
+	<string key="ScrapExtractLeatherT3">Extract Leather - Rugged</string>
+	<string key="ScrapExtractLeatherT4">Extract Leather - Layered</string>
+	<string key="ScrapExtractLeatherT5">Extract Leather - Infused</string>
+	<string key="ScrapExtractLeatherT51">Extract Leather - Runic</string>
+	<string key="ScrapExtractTimberT2">Extract Wood - Timber</string>
+	<string key="ScrapExtractTimberT3">Extract Wood - Lumber</string>
+	<string key="ScrapExtractTimberT4">Extract Wood - Wyrdwood</string>
+	<string key="ScrapExtractTimberT5">Extract Wood - Ironwood</string>
+	<string key="ScrapExtractTimberT51">Extract Wood - Glittering Ebony</string>
+	<string key="InstrumentFluteT2" rel_version="Feature_MusicalPerformances">Apprentice's Azoth Flute</string>
+	<string key="InstrumentFluteT3" rel_version="Feature_MusicalPerformances">Musician's Azoth Flute</string>
+	<string key="InstrumentFluteT4" rel_version="Feature_MusicalPerformances">Composer's Azoth Flute</string>
+	<string key="InstrumentFluteT5" rel_version="Feature_MusicalPerformances">Virtuoso's Azoth Flute</string>
+	<string key="InstrumentDrumT2" rel_version="Feature_MusicalPerformances">Apprentice's Drum</string>
+	<string key="InstrumentDrumT3" rel_version="Feature_MusicalPerformances">Musician's Drum</string>
+	<string key="InstrumentDrumT4" rel_version="Feature_MusicalPerformances">Composer's Drum</string>
+	<string key="InstrumentDrumT5" rel_version="Feature_MusicalPerformances">Virtuoso's Drum</string>
+	<string key="InstrumentGuitarT2" rel_version="Feature_MusicalPerformances">Apprentice's Guitar</string>
+	<string key="InstrumentGuitarT3" rel_version="Feature_MusicalPerformances">Musician's Guitar</string>
+	<string key="InstrumentGuitarT4" rel_version="Feature_MusicalPerformances">Composer's Guitar</string>
+	<string key="InstrumentGuitarT5" rel_version="Feature_MusicalPerformances">Virtuoso's Guitar</string>
+	<string key="InstrumentUprightBassT2" rel_version="Feature_MusicalPerformances">Apprentice's Upright Bass</string>
+	<string key="InstrumentUprightBassT3" rel_version="Feature_MusicalPerformances">Musician's Upright Bass</string>
+	<string key="InstrumentUprightBassT4" rel_version="Feature_MusicalPerformances">Composer's Upright Bass</string>
+	<string key="InstrumentUprightBassT5" rel_version="Feature_MusicalPerformances">Virtuoso's Upright Bass</string>
+	<string key="InstrumentMandolinT2" rel_version="Feature_MusicalPerformances">Apprentice's Mandolin</string>
+	<string key="InstrumentMandolinT3" rel_version="Feature_MusicalPerformances">Musician's Mandolin</string>
+	<string key="InstrumentMandolinT4" rel_version="Feature_MusicalPerformances">Composer's Mandolin</string>
+	<string key="InstrumentMandolinT5" rel_version="Feature_MusicalPerformances">Virtuoso's Mandolin</string>
+	<string key="InfuseOrbArmor">Infused Orb - Armor</string>
+	<string key="InfuseOrbWeapon">Infused Orb - Weapon</string>
+	<string key="InfuseOrbEngineer">Infused Orb - Engineer</string>
+	<string key="InfuseOrbArcane">Infused Orb - Arcane</string>
+	<string key="InfuseOrbJewelry">Infused Orb - Jewelry</string>
+	<string key="GypsumOrbRed">Gypsum Orb - Ruby</string>
+	<string key="GypsumOrbGarnet">Gypsum Orb - Garnet</string>
+	<string key="GypsumOrbBlue">Gypsum Orb - Sapphire</string>
+	<string key="GypsumOrbGreen">Gypsum Orb - Emerald</string>
+	<string key="GypsumOrbBlack">Gypsum Orb - Obsidian</string>
+	<string key="GypsumOrbYellow">Gypsum Orb - Topaz</string>
+	<string key="GypsumOrbOrange">Gypsum Orb - Citrine</string>
+	<string key="GypsumOrbPurple">Gypsum Orb - Amethyst</string>
+	<string key="GypsumOrbWhite">Gypsum Orb - Diamond</string>
 </resources>
 

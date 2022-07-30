@@ -24,11 +24,11 @@
 	<string key="tip_overworld_azoth_acquireFrom01-title">Fast Travel</string>
 	<string key="tip_overworld_azoth_acquireFrom01-content">The most reliable sources for acquiring Azoth are completing Quests and closing Corruption Breaches.</string>
 	<string key="tip_overworld_azoth_acquireFrom02-title">Fast Travel</string>
-	<string key="tip_overworld_azoth_acquireFrom02-content">You'll rarely collect azoth from defeating enemies, but the likelihood can be increased with certain item perks.</string>
+	<string key="tip_overworld_azoth_acquireFrom02-content">You'll rarely collect Azoth from defeating enemies, but the likelihood can be increased with certain item perks.</string>
 	<string key="tip_overworld_camping_resting01-title">Camping</string>
 	<string key="tip_overworld_camping_resting01-content">Rest at your Camp to recover Health before going into unknown areas.</string>
 	<string key="tip_overworld_camping_crafting01-title">Camping</string>
-	<string key="tip_overworld_camping_crafting01-content">Craft basic items, food, and potions at your camp to avoid taxes.</string>
+	<string key="tip_overworld_camping_crafting01-content">Craft basic items, food, and potions at your camp to avoid upkeep.</string>
 	<string key="tip_overworld_camping_upgrades01-title">Camp Upgrades</string>
 	<string key="tip_overworld_camping_upgrades01-content">You can unlock upgrades to your Camp by completing Special Quests at Levels 15, 25, 40, and 55. These Quests are located in Monarch's Bluffs, Cutlass Keys, Restless Shore, and Edengrove.</string>
 	<string key="tip_overworld_camping_respawn01-title">Camping</string>
@@ -60,7 +60,7 @@
 	<string key="tip_overworld_combat_pvpFlagging01-title">PVP Flagging</string>
 	<string key="tip_overworld_combat_pvpFlagging01-content">You can turn your PVP flag on and off inside of Settlements, Outposts, Watchtowers, and at Spirit Shrines.</string>
 	<string key="tip_overworld_combat_pvpFlagging02-title">PVP Flagging</string>
-	<string key="tip_overworld_combat_pvpFlagging02-content">Before leaving a Territory, be sure to double check if you're Flagged for PVP!</string>
+	<string key="tip_overworld_combat_pvpFlagging02-content">Before leaving a Territory, be sure to double-check if you're Flagged for PVP!</string>
 	<string key="tip_overworld_combat_npcNameplates01-title">Enemy Nameplates</string>
 	<string key="tip_overworld_combat_npcNameplates01-content">If the enemy has a Skull &lt;img src="lyshineui/images/loadingscreen/icons/nameplateskull" xPadding="0" scale="2.0" yOffset="6.0"&gt;&lt;/img&gt; over their health bar, don't engage! This indicates a level, and difficulty, much higher than yours. Aeternum does not show mercy.</string>
 	<string key="tip_overworld_combat_weaponCoatings01-title">Weapon Coatings</string>
@@ -98,7 +98,7 @@
 	<string key="tip_overworld_company_benefits01-title">Companies</string>
 	<string key="tip_overworld_company_benefits01-content">Join a Company and fight alongside your friends against the Corrupted. Also, siege opposing Faction Territories.</string>
 	<string key="tip_overworld_company_benefits02-title">Companies</string>
-	<string key="tip_overworld_company_benefits02-content">Only Companies can declare war and siege Territories to take them over. As Governor of a Territory, your Company earns coin through taxes, gets huge discounts on Fast Travel, and contributes to the success of your whole Faction.</string>
+	<string key="tip_overworld_company_benefits02-content">Only Companies can declare war and siege Territories to take them over. As Governor of a Territory, your Company earns coin through upkeep, gets huge discounts on Fast Travel, and contributes to the success of your whole Faction.</string>
 	<string key="tip_overworld_company_benefits03-title">Companies</string>
 	<string key="tip_overworld_company_benefits03-content">Communicate and Group up easily with company members. See when members were last online and get access to a shared amount of Coin in the Company Treasury.</string>
 	<string key="tip_overworld_crafting_resources01-title">Resource Locations</string>
@@ -121,6 +121,8 @@
 	<string key="tip_overworld_crafting_perks01-content">If you want to see all existing Perks in the game, go to a Trading Post and choose "Select Perks" in the Browse tab.</string>
 	<string key="tip_overworld_crafting_azoth01-title">Crafting</string>
 	<string key="tip_overworld_crafting_azoth01-content">The top-end of the potential Gear Score range for a crafted item increases as your Trade Skill increases. This allows you to add more Azoth to improve your crafting.</string>
+	<string key="tip_overworld_crafting_gypsum01-title">Crafting</string>
+	<string key="tip_overworld_crafting_gypsum01-content">Craft a Topaz Gypsum Attunement Potion at any Arcana Station or Tier 5 Camp. When attuned, you can earn Topaz Gypsum as a random drop from level 55+ enemies.</string>
 	<string key="tip_overworld_darkness_events01-title">Darkness</string>
 	<string key="tip_overworld_darkness_events01-content">[Placeholder]</string>
 	<string key="tip_overworld_death_respawning01-title">Teamwork Makes the Dream Work</string>
@@ -142,7 +144,7 @@
 	<string key="tip_overworld_equipment_skins01-title">Item Skins</string>
 	<string key="tip_overworld_equipment_skins01-content">To equip a skin, Left-Click a weapon or piece of armor in your Inventory and select the "Change Skin" option to equip any skin you own for that item.</string>
 	<string key="tip_overworld_equipment_dyes01-title">Dyes</string>
-	<string key="tip_overworld_equipment_dyes01-content">Dye can be applied to different parts of each item. Make sure you try out different combinations before commiting to a color scheme.</string>
+	<string key="tip_overworld_equipment_dyes01-content">Dye can be applied to different parts of each item. Make sure you try out different combinations before committing to a color scheme.</string>
 	<string key="tip_overworld_equipment_rarity01-title">Utility Determines Value</string>
 	<string key="tip_overworld_equipment_rarity01-content">Items with higher rarity generally have special effects or gem sockets. Make sure to weigh all the benefits, not just gear score.</string>
 	<string key="tip_overworld_equipment_gems01-title">Gems</string>
@@ -152,7 +154,7 @@
 	<string key="tip_overworld_equipment_storage01-title">Fully Stocked</string>
 	<string key="tip_overworld_equipment_storage01-content">Crafting in a Settlement can pull resources from Inventory or Storage, no need to haul all those ingredients around.</string>
 	<string key="tip_overworld_equipment_damage01-title">Equipment Damage</string>
-	<string key="tip_overworld_equipment_damage01-content">Equipped items take damage on use, but ALL equipment in your Inventory is damaged when you die.</string>
+	<string key="tip_overworld_equipment_damage01-content">Equipped items take damage on use and on death.</string>
 	<string key="tip_overworld_equipment_repairing01-title">Quick Repair and Salvage</string>
 	<string key="tip_overworld_equipment_repairing01-content">Press the Hotkey Shortcut to Repair or Salvage an item in one click. [{hint1}] + Left-Click for quick Repair and [{hint2}] + Left-Click for quick Salvage.</string>
 	<string key="tip_overworld_equipment_lockingItems01-title">Locking Items</string>
@@ -245,8 +247,6 @@
 	<string key="tip_ftue_keybindings-content">[Placeholder]</string>
 	<string key="tip_overworld_gameModes_arenaKeys01-title">Arenas</string>
 	<string key="tip_overworld_gameModes_arenaKeys01-content">Have you found one yet? An Arena is a rare event where you and your friends fight a deadly, legendary creature.</string>
-	<string key="tip_overworld_gameModes_dungeonKeys01-title">Crafting Orbs</string>
-	<string key="tip_overworld_gameModes_dungeonKeys01-content">Expedition Orbs can be crafted at Stonecutting tables.</string>
 	<string key="tip_overworld_gameModes_outpostRush01-title">Outpost Rush</string>
 	<string key="tip_overworld_gameModes_outpostRush01-content">Seek out Scott Newman in Cleave's Point Outpost or talk to your faction representative to compete in this 20 vs 20 match.</string>
 	<string key="tip_overworld_gameModes_war01-title">War</string>
@@ -274,9 +274,9 @@
 	<string key="tip_overworld_housing_ownership04-title">Housing</string>
 	<string key="tip_overworld_housing_ownership04-content">Not all houses are the same. Some are more spacious than others which increases their tier. These houses require a higher standing in that Territory and will cost more gold.</string>
 	<string key="tip_overworld_housing_ownership05-title">Housing</string>
-	<string key="tip_overworld_housing_ownership05-content">Owning a house has perks, but only if you pay your taxes. If taxes are due, you will no longer be able to enjoy Fast Travel or trophy buffs until they are paid.</string>
+	<string key="tip_overworld_housing_ownership05-content">Owning a house has perks, but only if you pay your upkeep. If upkeep is due, you will no longer be able to enjoy Fast Travel or trophy buffs until they are paid.</string>
 	<string key="tip_overworld_housing_ownership06-title">Housing</string>
-	<string key="tip_overworld_housing_ownership06-content">Want to Fast Travel to your House, but you haven't paid your Taxes? Pay them from the Map [{hint1}] to re-enable your Housing Perks instantly.</string>
+	<string key="tip_overworld_housing_ownership06-content">Want to Fast Travel to your House, but you haven't paid your upkeep? Pay them from the Map [{hint1}] to re-enable your Housing Perks instantly.</string>
 	<string key="tip_overworld_housing_buffs01-title">Housing</string>
 	<string key="tip_overworld_housing_buffs01-content">You can only place 5 different types of Trophies in each House you own. 15 total if you own 3 Houses.</string>
 	<string key="tip_overworld_housing_buffs02-title">Housing</string>

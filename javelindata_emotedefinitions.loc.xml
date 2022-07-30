@@ -237,14 +237,40 @@
 	<string key="ui_emote_TalkToHand_name" rel_version="Emote_TalkToHand">Talk To The Hand</string>
 	<string key="ui_emote_TalkToHand_description" rel_version="Emote_TalkToHand">"Trust me, it's all ears."</string>
 	<string key="emote_TalkToHand" rel_version="Emote_TalkToHand">{playerName} makes you talk to the hand.</string>
+	<string key="ui_emote_BaladiDance_name" rel_version="Emote_BaladiDance">Baladi Dance</string>
+	<string key="ui_emote_BaladiDance_description" rel_version="Emote_BaladiDance">"A skillful and sultry set of movements."</string>
+	<string key="emote_BaladiDance" rel_version="Emote_BaladiDance">{playerName} gyrates rhythmically.</string>
+	<string key="ui_emote_PinCount_name" rel_version="Emote_PinCount">Referee Count</string>
 	<string key="ui_emote_Plotting_name" rel_version="Emote_Plotting">Plotting</string>
 	<string key="ui_emote_RobotDance_name" rel_version="Emote_RobotDance">The Automaton</string>
+	<string key="ui_emote_Headbang_name" rel_version="Emote_HeadBanging">Headbanging</string>
+	<string key="ui_emote_SparklerDance_name" rel_version="Emote_SparklerDance">Sparkler Dance</string>
+	<string key="ui_emote_PinCount_description" rel_version="Emote_PinCount">"The judge looks for the shoulders pinned to the ground, then ratifies the indisputable dominance of the challenger."</string>
 	<string key="ui_emote_Plotting_description" rel_version="Emote_Plotting">"Be deeply suspicious of one plotting with clearly evil intent."</string>
 	<string key="ui_emote_RobotDance_description" rel_version="Emote_RobotDance">"Is some new possession spreading through Aeternum? One that produces these strange, mechanical movements?"</string>
+	<string key="ui_emote_Headbang_description" rel_version="Emote_HeadBanging">"For when the spirit of the music consumes one completely."</string>
+	<string key="ui_emote_SparklerDance_description" rel_version="Emote_SparklerDance">"Fire dance with me."</string>
+	<string key="emote_PinCount" rel_version="Emote_PinCount">{playerName} counts and… rules it a pin!</string>
 	<string key="emote_Plotting" rel_version="Emote_Plotting">{playerName} plots something sinister.</string>
 	<string key="emote_RobotDance" rel_version="Emote_RobotDance">{playerName} does a mechanical dance.</string>
+	<string key="emote_Headbang" rel_version="Emote_HeadBanging">{playerName} bangs his head up and down.</string>
+	<string key="emote_Headbang_SHE" rel_version="Emote_HeadBanging">{playerName} bangs her head up and down.</string>
+	<string key="emote_Headbang_THEY" rel_version="Emote_HeadBanging">{playerName} bangs their head up and down.</string>
+	<string key="emote_SparklerDance" rel_version="Emote_SparklerDance">{playerName} dances with sparklers.</string>
 	<string key="ui_emote_FingerGun_name" rel_version="Emote_FingerGuns">Finger Guns</string>
 	<string key="ui_emote_FingerGun_description" rel_version="Emote_FingerGuns">"Hit them with your best shot."</string>
 	<string key="emote_FingerGun" rel_version="Emote_FingerGuns">{playerName} shoots their fingers like guns.</string>
+	<string key="ui_emote_AirGuitar_name" rel_version="Emote_AirGuitar">Guitar Shred</string>
+	<string key="ui_emote_AirViolin_name" rel_version="Emote_AirViolin">Sad Violin</string>
+	<string key="ui_emote_AirGuitar_description" rel_version="Emote_AirGuitar">"Demonstrate your worthiness to ascend the pyramid of guitar heroes."</string>
+	<string key="ui_emote_AirViolin_description" rel_version="Emote_AirViolin">"Virtuosity is understood in all languages, though not necessarily appreciated."</string>
+	<string key="emote_AirGuitar" rel_version="Emote_AirGuitar">{playerName} pretends to play a sick riff.</string>
+	<string key="emote_AirViolin" rel_version="Emote_AirViolin">{playerName} plays a sad song on the world's smallest violin.</string>
+	<string key="ui_emote_RunningMan_name" rel_version="Emote_RunningMan">Medleyfaire Shuffle</string>
+	<string key="ui_emote_RunningMan_description" rel_version="Emote_RunningMan">"You're not running away. You're demonstrating what running away might look like, if you ever had to do it."</string>
+	<string key="emote_RunningMan" rel_version="Emote_RunningMan">{playerName} does a running dance.</string>
+	<string key="ui_emote_WiggleArms_name" rel_version="Emote_WiggleArms">Wiggle Dance</string>
+	<string key="ui_emote_WiggleArms_description" rel_version="Emote_WiggleArms">"On an island full of terrors, sometimes it's good to just let your body relax."</string>
+	<string key="emote_WiggleArms" rel_version="Emote_WiggleArms">{playerName} wiggles their body.</string>
 </resources>
 

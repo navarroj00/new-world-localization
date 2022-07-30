@@ -543,7 +543,7 @@
 	<string key="BoostVoidAbs_GroupName">Void Defense Potions</string>
 	<string key="bounty_GroupName">Talisman</string>
 	<string key="bountymagic_GroupName">Vacant Animus</string>
-	<string key="BowA_GroupDesc">A versatile ranged weapon that can rapidly fire arrows or be fully drawn to achieve maximum damage. Great for maintaining distance while utilizing a variety of attacks to hinder and damage enemies.\n\n•Short Draw: Deals {[DamageTable.BowAttack1.DmgCoef * 100]}% Thrust damage.\n•Long Draw: Deals {[DamageTable.BowAttack2.DmgCoef * 100]}% Thrust damage.</string>
+	<string key="BowA_GroupDesc">A versatile ranged weapon that can rapidly fire arrows or be fully drawn to achieve maximum damage. Great for maintaining distance while utilizing a variety of attacks to hinder and damage enemies.\n\n•Hip-Fire: Deals {[DamageTable.BowAttack_Hipshot.DmgCoef * 100]}% Thrust damage.\n•Short Draw: Deals {[DamageTable.BowAttack1.DmgCoef * 100]}% Thrust damage.\n•Long Draw: Deals {[DamageTable.BowAttack2.DmgCoef * 100]}% Thrust damage.</string>
 	<string key="BowA_GroupName">Bows</string>
 	<string key="BowA2_GroupName">Bows</string>
 	<string key="BowB_GroupDesc">2-Handed. A ranged weapon that uses arrows. Arrows must be fully drawn before loosing to achieve maximum damage.</string>
@@ -728,6 +728,7 @@
 	<string key="ClothT3_GroupName">Tier 3 Cloth</string>
 	<string key="ClothT4_GroupName">Tier 4 Cloth</string>
 	<string key="ClothT5_GroupName">Tier 5 Cloth</string>
+	<string key="ClothT51_GroupName">Legendary Cloth</string>
 	<string key="CoatingAncient_GroupDesc">Coatings that enhance damage against Ancients.</string>
 	<string key="CoatingAncient_GroupName">Ancient Coating</string>
 	<string key="CoatingAngryEarth_GroupDesc">Coatings that enhance damage against Angry Earth Creatures.</string>
@@ -856,6 +857,7 @@
 	<string key="DungeonReps8_GroupName">NAME PENDING</string>
 	<string key="DungeonReps9_GroupName">Tempest Heart Replicas</string>
 	<string key="DungeonShields_GroupName">Expedition Shields</string>
+	<string key="DungeonReps12_GroupName">Unique Expedition Rewards</string>
 	<string key="Dye1_GroupDesc">Craft one of a variety of shades of Red Dye.</string>
 	<string key="Dye1_GroupName">Red Dye</string>
 	<string key="Dye10_GroupDesc">Umber Dye for your armor.</string>
@@ -1256,6 +1258,7 @@
 	<string key="LeatherT3_GroupName">Tier 3 Leather</string>
 	<string key="LeatherT4_GroupName">Tier 4 Leather</string>
 	<string key="LeatherT5_GroupName">Tier 5 Leather</string>
+	<string key="LeatherT51_GroupName">Legendary Leather</string>
 	<string key="lightChestA_GroupName">Crafted Duelist Shirt</string>
 	<string key="lightChestAFound_GroupName">Recovered Duelist Shirt</string>
 	<string key="lightChestB_GroupName">Crafted Sage Robe</string>
@@ -1384,6 +1387,7 @@
 	<string key="MetalT3_GroupName">Tier 3 Metals</string>
 	<string key="MetalT4_GroupName">Tier 4 Metals</string>
 	<string key="MetalT5_GroupName">Tier 5 Metals</string>
+	<string key="MetalT51_GroupName">Legendary Metals</string>
 	<string key="MinerChest_GroupName">Miner's Shirt</string>
 	<string key="MinerFeet_GroupName">Miner's Boots</string>
 	<string key="MinerHands_GroupName">Miner's Gloves</string>
@@ -1742,9 +1746,10 @@
 	<string key="TimberT3_GroupName">Tier 3 Timber</string>
 	<string key="TimberT4_GroupName">Tier 4 Timber</string>
 	<string key="TimberT5_GroupName">Tier 5 Timber</string>
+	<string key="TimberT51_GroupName">Legendary Timber</string>
 	<string key="TinctureBlight_GroupName">Blight Tinctures</string>
 	<string key="TinctureCorruption_GroupName">Corruption Tinctures</string>
-	<string key="Tokens_GroupName">Winter Convergence Tokens</string>
+	<string key="Tokens_GroupName">Event Tokens</string>
 	<string key="TokenCreation_GroupName">Token Creation</string>
 	<string key="TokenConversion_GroupName">Token Conversion</string>
 	<string key="ToolHatchet_GroupDesc">1-Handed. Gathers wood.</string>
@@ -1836,7 +1841,7 @@
 	<string key="Blunderbuss_GroupName">Blunderbusses</string>
 	<string key="PerfectSalvageArmor_Name">Armor Scraps</string>
 	<string key="PerfectSalvageWeapons_Name">Weapon Scraps</string>
-	<string key="PerfectSalvageJewelry_Name">Jewerly Scraps</string>
+	<string key="PerfectSalvageJewelry_Name">Jewelry Scraps</string>
 	<string key="PerfectSalvageEngineer_Name">Engineering Scraps</string>
 	<string key="PerfectSalvageArcane_Name">Arcane Scraps</string>
 	<string key="SalvageTier2_Name">Tier II Scraps</string>
@@ -1845,9 +1850,27 @@
 	<string key="SalvageTier5_Name">Tier V Scraps</string>
 	<string key="Salvage">Salvage Scraps</string>
 	<string key="SalvageExtract">Extract</string>
-	<string key="SalvageCreate">Create</string>
+	<string key="SalvageCreate">Fabricate</string>
 	<string key="SalvageResearch">Research</string>
 	<string key="SalvageCondense">Condense</string>
 	<string key="AlchemyCritters_GroupName">Alchemy Critters</string>
+	<string key="SummerMemento" rel_version="Event_Summer_Temp">Summer Mementos</string>
+	<string key="MementoStand" rel_version="Event_Summer_Temp">Memento Stands</string>
+	<string key="SmallMemento" rel_version="Event_Summer_Temp">Small Fish Mementos</string>
+	<string key="MediumMemento" rel_version="Event_Summer_Temp">Medium Fish Mementos</string>
+	<string key="LargeMemento" rel_version="Event_Summer_Temp">Large Fish Mementos</string>
+	<string key="Instruments_GroupName" rel_version="Feature_MusicalPerformances">Instruments</string>
+	<string key="CategoryData_Instruments" rel_version="Feature_MusicalPerformances">Instruments</string>
+	<string key="InstrumentParts_GroupName" rel_version="Feature_MusicalPerformances">Instrument Parts</string>
+	<string key="CategoryData_MusicSheets" rel_version="Feature_MusicalPerformances">Music Sheets</string>
+	<string key="Flutes_GroupName" rel_version="Feature_MusicalPerformances">Azoth Flute</string>
+	<string key="Drums_GroupName" rel_version="Feature_MusicalPerformances">Drums</string>
+	<string key="Guitars_GroupName" rel_version="Feature_MusicalPerformances">Guitar</string>
+	<string key="UprightBass_GroupName" rel_version="Feature_MusicalPerformances">Upright Bass</string>
+	<string key="Mandolins_GroupName" rel_version="Feature_MusicalPerformances">Mandolin</string>
+	<string key="DungeonReps11_GroupName" rel_version="Expedition_CutlassKeys_00">Barnacles and Black Powder Replicas</string>
+	<string key="TerritorySupplies_GroupName">Territory Supplies</string>
+	<string key="TerritoryContribution_GroupName">Territory Contributions</string>
+	<string key="InstrumentComponents_GroupName" rel_version="Feature_MusicalPerformances">Instruments Components</string>
 </resources>
 

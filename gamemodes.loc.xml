@@ -5,6 +5,7 @@
 	<string key="ui_queue_leave_group">Leave Group</string>
 	<string key="ui_queue_leave_group_confirm_title">Leave Group</string>
 	<string key="ui_queue_leave_group_confirm_message">If the remaining group size drops below {minGroupSize} members, the group will be removed from the queue.\n\nAre you sure?</string>
+	<string key="ui_queue_leave_notification_generic">You have been removed from your game mode queue</string>
 	<string key="ui_queue_ready">F2 To Enter Expedition</string>
 	<string key="ui_game_mode_matchmaking_failed">An unexpected matchmaking failure has occurred.</string>
 	<string key="ui_game_mode_disabled">This game mode is currently disabled</string>
@@ -110,6 +111,7 @@
 	<string key="ui_outpost_rush_signup_failgroupoffline">One or more of your group members are offline.</string>
 	<string key="ui_outpost_rush_signup_failgrouppenalty">One or more of your group members have a penalty timer for leaving a previous Outpost Rush match.</string>
 	<string key="ui_outpost_rush_signup_failgrouptimeout">One or more of your group members did not respond to the invitation.</string>
+	<string key="ui_outpost_rush_signup_failgroupfinder">One or more of your group members are in a Lobby.</string>
 	<string key="ui_outpost_rush_signup_failpenalty">Since you left mid-match, a penalty is applied</string>
 	<string key="ui_outpost_rush_signup_penaltytimer">You are blocked for: {time}</string>
 	<string key="ui_outpost_rush_signup_joingroup_desc">You won't be able to add any additional group members once your group is in the queue.</string>
@@ -232,6 +234,8 @@
 	<string key="ui_begins_in">Begins In:</string>
 	<string key="ui_arena_gas_releases_in" comment="gas was replaced with ring of fire in implementation">Ring of Fire Closes in:</string>
 	<string key="ui_arena_gas_released">Ring of Fire Closing</string>
+	<string key="ui_pvp_arena_invite_status">Accept to join the battle!</string>
+	<string key="ui_pvp_arena_title">3v3 Arena</string>
 	<string key="ui_fight">Fight!</string>
 	<string key="ui_round_won">Round Won</string>
 	<string key="ui_round_lost">Round Lost</string>

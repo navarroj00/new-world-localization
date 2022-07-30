@@ -67,6 +67,38 @@
 	<string key="dungeon_reekwater_task_complete">Leave the Lazarus Instrumentality.</string>
 	<string key="dungeon_ebonscale00_title">The Dynasty Shipyard</string>
 	<string key="dungeon_ebonscale00_description">Foil the Empress' plans</string>
+	<string key="dungeon_cutlasskeys00_title" rel_version="Expedition_CutlassKeys_00">Barnacles and Black Powder</string>
+	<string key="dungeon_cutlasskeys00_description" rel_version="Expedition_CutlassKeys_00">Infiltrate the Black Flag Pirates hideout and discover what lies in the depths beneath the cove.</string>
+	<string key="dungeon_cutlasskeys00_required_equipment" rel_version="Expedition_CutlassKeys_00">1 Ranged Weapon</string>
+	<string key="dungeon_cutlasskeys00_lever_interact" rel_version="Expedition_CutlassKeys_00">Pull Lever</string>
+	<string key="dungeon_cutlasskeys00_task_explore" rel_version="Expedition_CutlassKeys_00">Gain entry to the Black Flag pirates hideout.</string>
+	<string key="dungeon_cutlasskeys00_task_explore_talk" rel_version="Expedition_CutlassKeys_00">Speak with Antonio to learn more about the Black Flag pirates.</string>
+	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Use a ranged weapon to activate the lever and enter the Black Flag hideout.</string>
+	<string key="dungeon_cutlasskeys00_task_enter_hideout" rel_version="Expedition_CutlassKeys_00">Track down Admiral Blackpowder and his crew.</string>
+	<string key="dungeon_cutlasskeys00_task_destroy_barrier" rel_version="Expedition_CutlassKeys_00">Search for a lever to open the gate.</string>
+	<string key="dungeon_cutlasskeys00_task_dockpassage" rel_version="Expedition_CutlassKeys_00">Find a passage down to the ship in the Black Flag Cove.</string>
+	<string key="dungeon_cutlasskeys00_task_find_lever_docks" rel_version="Expedition_CutlassKeys_00">Look for another lever to open the gate.</string>
+	<string key="dungeon_cutlasskeys00_task_enter_passage" rel_version="Expedition_CutlassKeys_00">Proceed into the Dry Rum Passageway.</string>
+	<string key="dungeon_cutlasskeys00_task_open_blocked_passage" rel_version="Expedition_CutlassKeys_00">Navigate around the blocked passage and search for a fuse to ignite the explosives.</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00">Defeat the Black Flag alligators and pirate crew.</string>
+	<string key="dungeon_cutlasskeys00_task_find_explosives" rel_version="Expedition_CutlassKeys_00">Proceed through the open gate and continue to search for a fuse to unblock the collapsed passage.</string>
+	<string key="dungeon_cutlasskeys00_task_pickup_explosives" rel_version="Expedition_CutlassKeys_00">Pick up the fuse from the toolbox.</string>
+	<string key="dungeon_cutlasskeys00_task_return_explosives" rel_version="Expedition_CutlassKeys_00">Take the fuse back to the collapsed passage in the Dry Rum Passageway.</string>
+	<string key="dungeon_cutlasskeys00_task_detonate_explosives" rel_version="Expedition_CutlassKeys_00">Ignite the fuse to detonate the explosives and open the blocked passage.</string>
+	<string key="dungeon_cutlasskeys00_task_go_to_docks" rel_version="Expedition_CutlassKeys_00">Proceed to the Black Flag Cove.</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_pirates" rel_version="Expedition_CutlassKeys_00">Defeat the Black Flag Pirates.</string>
+	<string key="dungeon_cutlasskeys00_task_enter_ship" rel_version="Expedition_CutlassKeys_00">Use the lever to lower the bridge and board the ship.</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_pirates_ship" rel_version="Expedition_CutlassKeys_00">Defeat the last of the pirate crew and First Officer Wells.</string>
+	<string key="dungeon_cutlasskeys00_task_exit_ship" rel_version="Expedition_CutlassKeys_00">Find the lever to lower the bridge and get off the ship.</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_admiral" rel_version="Expedition_CutlassKeys_00">Defeat Admiral Blackpowder.</string>
+	<string key="dungeon_cutlasskeys00_task_exit_pirate_cove" rel_version="Expedition_CutlassKeys_00">Make your way through the Cavern of Forbidden Plunder.</string>
+	<string key="dungeon_cutlasskeys00_task_enter_dead_mans_retreat" rel_version="Expedition_CutlassKeys_00">Proceed to Dead Man's Retreat.</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_berserker" rel_version="Expedition_CutlassKeys_00">Defeat Sergeant Morris.</string>
+	<string key="dungeon_cutlasskeys00_task_talk_mariner" rel_version="Expedition_CutlassKeys_00">Speak with Tye to learn more about the gate.</string>
+	<string key="dungeon_cutlasskeys00_task_open_siren_gate" rel_version="Expedition_CutlassKeys_00">Open the gate to the Sunken Depths.</string>
+	<string key="dungeon_cutlasskeys00_task_survive_depths" rel_version="Expedition_CutlassKeys_00">Survive the Sunken Depths.</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_siren_boss" rel_version="Expedition_CutlassKeys_00">Defeat Nereid.</string>
+	<string key="dungeon_cutlasskeys00_task_complete" rel_version="Expedition_CutlassKeys_00">Leave Barnacles and Black Powder</string>
 	<string key="dungeon_restlessshores01_title">The Depths</string>
 	<string key="dungeon_restlessshores01_description">Find and eliminate Thorpe</string>
 	<string key="dungeon_restlessshores01_task_break_in">Break into Commander Thorpe's Stronghold</string>
@@ -184,5 +216,6 @@
 	<string key="dungeon_shattermtn00_task_defeat_isabella_final" rel_version="Expedition_ShatterMtn_00">Defeat Isabella</string>
 	<string key="dungeon_shattermtn00_task_dungeon_complete" rel_version="Expedition_ShatterMtn_00">Exit the Tempest's Heart Expedition</string>
 	<string key="DungeonUseRelicBubble" rel_version="Expedition_ShatterMtn_00">Requires The Reliquary</string>
+	<string key="dungeon_open_conversation" rel_version="Expedition_CutlassKeys_00">Examine</string>
 </resources>
 

@@ -77,10 +77,14 @@
 	<string key="ui_not_available">Not available</string>
 	<string key="ui_blowhorn">Use Horn</string>
 	<string key="ui_useturret">Use Turret</string>
+	<string key="ui_useturret_12MB04_inactivity">You have been removed for inactivity.</string>
+	<string key="ui_useturret_12MB04_timeout">You have been using this for too long!</string>
 	<string key="ui_usefiredropper">Use Burning Oil Vat</string>
 	<string key="ui_notification_turret_repair">TURRET REPAIRED</string>
 	<string key="ui_notification_turret_reload">TURRET RELOADED</string>
 	<string key="ui_notification_turret_not_ready">TURRET NOT READY</string>
+	<string key="ui_notification_turret_timeout">You have been removed for exceeding the max usage time</string>
+	<string key="ui_notification_turret_inactive_timeout">You have been removed due to inactivity</string>
 	<string key="ui_build_structure_menu">Build Structure</string>
 	<string key="ui_replace_structure_menu">Replace Structure</string>
 	<string key="ui_place_structure">Place Structure</string>
@@ -88,5 +92,14 @@
 	<string key="ui_notification_summoning_stone_placed">SUMMONING STONE PLACED</string>
 	<string key="ui_watcherscampfire">Watcher's Campfire</string>
 	<string key="ui_hunterscampfire">Hunter's Campfire</string>
+	<string key="ui_interact_tip_coin" rel_version="Feature_MusicalPerformances">{interactionName} {coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_notification_tip_donated" rel_version="Feature_MusicalPerformances">Tip Donated</string>
+	<string key="ui_any_song_gather">[{keybind}] Perform any song to Gather</string>
+	<string key="ui_song_gather">[{keybind}] Perform {songName} to Gather</string>
+	<string key="ui_restriction_learn_song">Learn {songName} to Gather</string>
+	<string key="ui_restriction_equip_instrument">Equip instrument to Gather</string>
+	<string key="ui_reset_available_in">Available in {time}</string>
+	<string key="ui_emote_gather">[{keybind}] Perform {tagName} Emote to Gather</string>
+	<string key="ui_emotetag_dance">Dance</string>
 </resources>
 

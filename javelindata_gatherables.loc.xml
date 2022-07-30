@@ -542,7 +542,7 @@
 	<string key="MSQ_SalvagePile_C_DisplayName">Salvage Pile</string>
 	<string key="AzothWater_Displayname">Azoth Spring</string>
 	<string key="AzothSeal_DisplayName">Ancient Azoth Seal</string>
-	<string key="HeartforgeEncounterBattery_DisplayName">Heartforge Power Dampener</string>
+	<string key="HeartforgeEncounterBattery_DisplayName">Ignite Heartforge Flame</string>
 	<string key="PressurePlate_Ancient_DisplayName">Ancient Azoth Glyph</string>
 	<string key="AncientArtifactLocked">Ancient Artifact</string>
 	<string key="MSQ_OldStoneRemembers_Interact">Ancient Language Inscriptions</string>
@@ -678,6 +678,8 @@
 	<string key="FM_1624_Supplies_DisplayName">Destroy Supplies</string>
 	<string key="FM_1624_Banners_DisplayName">Ignite Banner</string>
 	<string key="FM_1624_Weapons_DisplayName">Destroy Weapons Rack</string>
+	<string key="dungeon_cutlasskeys00_gunpowdercask" rel_version="Expedition_CutlassKeys_00">Take Explosives</string>
+	<string key="Dungeon_CutlassKeys00_CannonBall" rel_version="Expedition_CutlassKeys_00">Grab Cannon Ball</string>
 	<string key="0411_Armillary_interact">Armillary Sphere</string>
 	<string key="0202_0101_Inquisitor_DisplayName">Inquisitor's Toolchest</string>
 	<string key="DungeonShatterMtn00_RelicBox_DisplayName" rel_version="Expedition_ShatterMtn_00">Reliquary</string>
@@ -687,6 +689,21 @@
 	<string key="DungeonShatterMtn_RelicStatue_DisplayName" rel_version="Expedition_ShatterMtn_00">Recall Reliquary\n(Requires 2 Azoth Staves)</string>
 	<string key="DungeonShatterMtn00_ChestStatue_DisplayName" rel_version="Expedition_ShatterMtn_00">Antiquated Coffer</string>
 	<string key="DungeonShatterMtn00_Statue_DisplayName" rel_version="Expedition_ShatterMtn_00">Antiquated Statue</string>
+	<string key="DungeonCutlassKeys00_Explosives_DisplayName" rel_version="Expedition_CutlassKeys_00">Set Fuse</string>
+	<string key="DungeonCutlassKeys00_ChestFuse_DisplayName" rel_version="Expedition_CutlassKeys_00">Toolbox</string>
+	<string key="DungeonCutlassKeys00_WaterStatue_DisplayName" rel_version="Expedition_CutlassKeys_00">Nereid's Offering</string>
+	<string key="DungeonCutlassKeys00_Spring_DisplayName" rel_version="Expedition_CutlassKeys_00">Offer</string>
+	<string key="SummerMedley_Settlement_Stage_Master_DisplayName" rel_version="Event_Summer_Temp">Medleyfaire Stage Centerpiece</string>
+	<string key="SummerMedley_Settlement_Stage_T1_DisplayName" rel_version="Event_Summer_Temp">Dismal Bestowment</string>
+	<string key="SummerMedley_Settlement_Stage_T2_DisplayName" rel_version="Event_Summer_Temp">Grand Bestowment</string>
+	<string key="SummerMedley_Settlement_Stage_T3_DisplayName" rel_version="Event_Summer_Temp">Opulent Bestowment</string>
+	<string key="SummerMedley_Settlement_Stage_Description" rel_version="Event_Summer_Temp">Compete Medleyfaire Town Projects to upgrade the glory and rewards bestowed by the stage!</string>
+	<string key="SummerMedley_Village_BonfireBlast_DisplayName" rel_version="Event_Summer_Temp">Medleyfaire Pyre</string>
+	<string key="SummerMedley_Village_BonfireBlast_Description" rel_version="Event_Summer_Temp">Toss an Aeternum Sturgeon Magic Fishbone into the fires to receive a tremendous reward!</string>
+	<string key="SummerMedley_Maudlindust_DisplayName" rel_version="Event_Summer_Temp">Maudlindust</string>
+	<string key="SummerMedley_Maudlindust_Particle_DisplayName" rel_version="Event_Summer_Temp">Maudlindust Particle</string>
+	<string key="SummerMedley_Village_Dancefloor_DisplayName" rel_version="Event_Summer_Temp">Medleyfaire Dance Floor</string>
+	<string key="SummerMedley_Village_Dancefloor_Description" rel_version="Event_Summer_Temp">Polish up and show off your best moves on the Medleyfaire Dance Floor to earn Event Reputation!</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">War Camp Chest</string>
 	<string key="1130_ArcaneFocus1_DisplayName">Arcane Focus</string>
 	<string key="1130_ArcaneFocus2_DisplayName">Arcane Focus</string>
@@ -725,12 +742,32 @@
 	<string key="ExploreVista_WestEverfall01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
 	<string key="ExploreVista_WestMourningdale01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
 	<string key="ExploreVista_WestCutlass01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
+	<string key="LuckShrine_MothersLove">Mother's Love</string>
 	<string key="GoldPile00_DisplayName" rel_version="Feature_Unbound_Island">Supply Cache</string>
 	<string key="0601_0101_weapon_01_hatchet_DisplayName">Choose the Battleworn Hatchet</string>
 	<string key="0601_0101_weapon_02_warhammer_DisplayName">Choose the Battleworn Warhammer</string>
 	<string key="0601_0101_weapon_03_bow_DisplayName">Choose the Battleworn Bow</string>
 	<string key="0601_0101_weapon_04_firestaff_DisplayName">Choose the Battleworn Firestaff</string>
-	<string key="Gimmick_FallingRubble_DisplayName">Rock Trap</string>
-	<string key="Holdout_Interact_DisplayName">Start Holdout</string>
+	<string key="98_Covenant_02_Captive_DisplayName">Release prisoner</string>
+	<string key="98_Covenant_03_Pyre_DisplayName">Burn the artifact</string>
+	<string key="13_Summer_AzFluteT1_DisplayName" rel_version="Quest_Event_Summer">Collect Flute</string>
+	<string key="13_Summer_DrumT1_DisplayName" rel_version="Quest_Event_Summer">Collect Drum</string>
+	<string key="13_Summer_GuitarT1_DisplayName" rel_version="Quest_Event_Summer">Collect Guitar</string>
+	<string key="13_Summer_MandolinT1_DisplayName" rel_version="Quest_Event_Summer">Collect Mandolin</string>
+	<string key="13_Summer_URBassT1_DisplayName" rel_version="Quest_Event_Summer">Collect Upright Bass</string>
+	<string key="13_Summer_Carpenter1_DisplayName" rel_version="Quest_Event_Summer">Repair Table</string>
+	<string key="13_Summer_Carpenter2_DisplayName" rel_version="Quest_Event_Summer">Attach Vices</string>
+	<string key="13_Summer_Apiary_DisplayName" rel_version="Quest_Event_Summer">Ignite Smoker Jug</string>
+	<string key="13_Summer_Oven_DisplayName" rel_version="Quest_Event_Summer">Scrub Oven</string>
+	<string key="13_Summer_FlowerBoxA_DisplayName" rel_version="Quest_Event_Summer">Water Sunflowers</string>
+	<string key="13_Summer_FlowerBoxB_DisplayName" rel_version="Quest_Event_Summer">Water Hibiscus</string>
+	<string key="13_Summer_FlowerBoxC_DisplayName" rel_version="Quest_Event_Summer">Water Daisies</string>
+	<string key="06A_MSQ_Lijsbet_Trapped_DisplayName">Rescue Lijsbet</string>
+	<string key="06A_MSQ_Michael_Trapped_DisplayName">Rescue Michael</string>
+	<string key="06A_MSQ_Nessa_Trapped_DisplayName">Rescue Nessa</string>
+	<string key="06A_MSQ_Gideon_Trapped_DisplayName">Rescue Gideon</string>
+	<string key="06A_MSQ_11_pirateCrates_DisplayName">Smash Crate</string>
+	<string key="06A_MSQ_14_map_DisplayName">Copy Map</string>
+	<string key="Cyclic_06A_MSQ_puzzlestone_DisplayName">Rotate Stone</string>
 </resources>
 

@@ -1,2 +1,11 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="Dungeon_CutlassKeys00_Scalleywag_01_Prompt" rel_version="Expedition_CutlassKeys_00">"Tell me about the curse."</string>
+	<string key="Dungeon_CutlassKeys00_Scalleywag_01_Response" rel_version="Expedition_CutlassKeys_00">Don't believe me, do you? No, poor Antonio, no one listens to his tall tales. \n\nMock me if it pleases you. But I wouldn't touch a coin of that treasure, not unless yer keen on eternal suffering.</string>
+	<string key="Dungeon_CutlassKeys00_Scalleywag_02_Prompt" rel_version="Expedition_CutlassKeys_00">"Tell me about the watery wench."</string>
+	<string key="Dungeon_CutlassKeys00_Scalleywag_02_Response" rel_version="Expedition_CutlassKeys_00">Blackpowder called her something funny. Think, Antonio…Nerry? Nerry-id? Anyhow, he hates her something fierce, has most of his crew battering at her door. If yer fool enough to go after her, you'll have to get through HIM first.</string>
+	<string key="Dungeon_CutlassKeys00_Scalleywag_03_Prompt" rel_version="Expedition_CutlassKeys_00">"What are you doing here?"</string>
+	<string key="Dungeon_CutlassKeys00_Scalleywag_03_Response" rel_version="Expedition_CutlassKeys_00">Heh heh…eyes on the prize, young'un. Eyes on the prize. If anyone breaks that curse, I'll be out of here with as much gold as these old arms can carry.</string>
+	<string key="Dungeon_CutlassKeys00_Mariner_01_Prompt" rel_version="Expedition_CutlassKeys_00">"Had any luck opening the door?"</string>
+	<string key="Dungeon_CutlassKeys00_Mariner_01_Response" rel_version="Expedition_CutlassKeys_00">Alas, no. My lady wants something, but no matter what I present to the door in offering, it refuses to budge. Perhaps I'm unworthy of such a wondrous creature…</string>
+</resources>
 

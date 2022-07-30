@@ -1,2 +1,6 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="01_recoveritems_returntowatchtower" speaker="UI">Return to the {POITags}</string>
+	<string key="01_demonstorm2_complete_next_prompt" speaker="UI - Player Prompt">"It was some kind of ritual."</string>
+	<string key="01_raisealarm_task_investigatestatue" speaker="UI - Player Prompt">Investigate the Ancient Statue</string>
+</resources>
 

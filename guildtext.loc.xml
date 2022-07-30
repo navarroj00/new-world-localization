@@ -129,12 +129,12 @@
 	<string key="ui_treasury_tooltip_withdrawal_nopermissons">You do not have permissions to withdraw.</string>
 	<string key="ui_treasury_tooltip_withdrawal_overlimit">You have reached your daily limit.</string>
 	<string key="ui_treasury_tooltip_changedailywithdrawallimit_nopermissons">You do not have permissions to change the daily withdrawal limit.</string>
-	<string key="ui_treasury_notification_depositsuccess">&lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage} was deposited to the company treasury.</string>
-	<string key="ui_treasury_notification_depositcappedtreasurymax">&lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage} was deposited to the company treasury (capped by Treasury maximum).</string>
-	<string key="ui_treasury_notification_depositcappedplayerfunds">&lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage} was deposited to the company treasury (capped by personal funds).</string>
-	<string key="ui_treasury_notification_withdrawalsuccess">&lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage} was withdrawn from the company treasury.</string>
-	<string key="ui_treasury_notification_withdrawalcappedfunds">&lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage} was withdrawn from the company treasury (capped by lack of funds).</string>
-	<string key="ui_treasury_notification_withdrawalcappeddailylimit">&lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage} was withdrawn from the company treasury (capped by daily limit).</string>
+	<string key="ui_treasury_notification_depositsuccess">&lt;font color={colorHex} face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt; {coinImage} was deposited to the company treasury.</string>
+	<string key="ui_treasury_notification_depositcappedtreasurymax">Treasury deposit failed (above Treasury maximum).</string>
+	<string key="ui_treasury_notification_depositcappedplayerfunds">Treasury deposit failed (not enough personal funds).</string>
+	<string key="ui_treasury_notification_withdrawalsuccess">&lt;font color={colorHex} face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt; {coinImage} was withdrawn from the company treasury.</string>
+	<string key="ui_treasury_notification_withdrawalcappedfunds"> Treasury withdrawal failed (not enough Treasury funds).</string>
+	<string key="ui_treasury_notification_withdrawalcappeddailylimit">Treasury withdrawal failed (above daily limit).</string>
 	<string key="ui_treasury_notification_setdailylimitsuccess">Daily withdrawal limit is set to &lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage}.</string>
 	<string key="ui_treasury_notification_setdailylimitsuccessinfinite">Daily withdrawal limit is set to {infinityImage}.</string>
 	<string key="ui_treasury_notification_cointransferaldisabled">You need to be at least level {minLevel} to use the guild treasury.</string>
@@ -185,10 +185,10 @@
 	<string key="ui_guildranksettler_SHE">Settler</string>
 	<string key="ui_guildranksettler_THEY">Settler</string>
 	<string key="ui_guildrankpublic">Public</string>
-	<string key="ui_guildrankgovernor_and_above">1. Governor</string>
-	<string key="ui_guildrankconsul_and_above">2. Consul and above</string>
-	<string key="ui_guildrankofficer_and_above">3. Officer and above</string>
-	<string key="ui_guildranksettler_and_above">4. Settler and above</string>
+	<string key="ui_guildrankgovernor_and_above">Governor only</string>
+	<string key="ui_guildrankconsul_and_above">Consul and above</string>
+	<string key="ui_guildrankofficer_and_above">Officer and above</string>
+	<string key="ui_guildranksettler_and_above">Settler and above</string>
 	<string key="ui_guildrankpublic_and_above">Public, full access</string>
 	<string key="ui_guildrank_no_permissions">Your Company rank ({rank}) is not high enough.</string>
 	<string key="ui_guildsystemerror">A system error occured.</string>
@@ -636,5 +636,10 @@
 	<string key="ui_high">High</string>
 	<string key="ui_highest">Highest</string>
 	<string key="ui_kick_disabled_invasion">Cannot kick players from invasion</string>
+	<string key="ui_war_schedule_adjustment_title">{warType} {scheduleAdjustmentType}</string>
+	<string key="ui_war_schedule_adjustment_message">{warType} in {territoryName} was {scheduleAdjustmentType}.</string>
+	<string key="ui_war_schedule_adjustment_cancelled">cancelled</string>
+	<string key="ui_war_schedule_adjustment_rescheduled">rescheduled</string>
+	<string key="ui_war_camp_tier">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{value}&lt;/font&gt;</string>
 </resources>
 

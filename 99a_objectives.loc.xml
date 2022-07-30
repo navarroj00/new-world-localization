@@ -1,2 +1,10 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="99A_MSQ_01B_04_TaskTrigger_MeetGrace" speaker="UI">Seek out Yonas along the road</string>
+	<string key="99A_MSQ_02_02a_TownGuard_Prompt" speaker="UI - Player Prompt">"Actually, I'm looking for someone."</string>
+	<string key="99A_MSQ_02_02a_TownGuard_Response" speaker="Hannos Lembe" name="HannosLembe" gender="Male" VO_Status="Script Generated">Aren't we all? But information is power here. What you know, who you know… it could get you thrown down a hole somewhere. \n\nIf you're determined, look for Saira. She knows things, whether she admits it or not.</string>
+	<string key="99A_MSQ_10_02A_GetSilver" speaker="UI">Unearth pieces of silver from the rubble</string>
+	<string key="99A_MSQ_10_02B_02_SuccessEvent" speaker="UI">Gain access to the inner sanctum</string>
+	<string key="99A_MSQ_10_03_DefeatEzraGetHammer" speaker="UI">Defeat Forgemaster Ezra and claim his hammer</string>
+	<string key="99A_MSQ_10_04A_CraftCrosspiece" speaker="UI">Use the Ancient Forge to craft your Crosspiece</string>
+</resources>
 
