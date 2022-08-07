@@ -74,6 +74,7 @@
 	<string key="inv_rarity_salvage_confirm">You are about to salvage a powerful item. Are you sure?</string>
 	<string key="inv_cannotsalvage_equipped">You cannot salvage equipped items.</string>
 	<string key="inv_cannotsalvage_full">You cannot salvage. Your inventory is full.</string>
+	<string key="inv_cannotsalvage_currencyfull">Cannot salvage because {currency} is at maximum capacity.</string>
 	<string key="ui_move_hint">Move</string>
 	<string key="ui_link_to_chat_hint">Link to Chat</string>
 	<string key="ui_split_stack_hint">Split Stack</string>
@@ -968,7 +969,6 @@
 	<string key="ui_glory_to_level">&lt;font color="#ffffff"&gt;{xp} XP&lt;/font&gt; to Level {level}</string>
 	<string key="ui_glory_tooltip">You have unspent attribute or skill points. Use [{keyName}] to open the progression screen and improve your abilities.</string>
 	<string key="ui_coin">Coin</string>
-	<string key="ui_coin">Coin</string>
 	<string key="ui_coin_desc">Your primary currency used to purchase items in the Trading Post and at the Faction Shop.\nCoin is capped at &lt;font color="#ffffff"&gt;{amount}&lt;/font&gt;.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Derived From:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; Completing Missions, Killing Enemies, Participating in Events&lt;/font&gt;</string>
 	<string key="ui_coin_max">Max Coin</string>
 	<string key="ui_coin_icon">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
@@ -1702,6 +1702,7 @@
 	<string key="ui_unstuck_request_denied_no_breadcrumbs">Cannot request unstuck without moving</string>
 	<string key="ui_unstuck_request_denied_too_frequent">Cannot request unstuck that frequently</string>
 	<string key="ui_unstuck_request_denied_teleport_failed">Unable to teleport to unstuck location</string>
+	<string key="ui_unstuck_request_denied_in_musical_performance">Cannot request unstuck while in a Musical Performance</string>
 	<string key="ui_unstuck_request_accepted">Teleporting in %d seconds</string>
 	<string key="ui_generator_time_to_generate_item">Time to generate {quantity} {item}.</string>
 	<string key="ui_quantitywithx">x{quantity}</string>

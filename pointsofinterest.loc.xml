@@ -123,7 +123,7 @@
 	<string key="ui_poi_crater_brutalruins_50362">50362_MERGEWITH_50309</string>
 	<string key="ui_poi_crater_feralruins_50363">50363_MERGEWITH_50313</string>
 	<string key="ui_poi_dryad_cavern">Abadier's Anger</string>
-	<string key="ui_poi_shipwreck_30102">Corbenic Castle</string>
+	<string key="ui_poi_shipwreck_30102">Abadier's Anger</string>
 	<string key="ui_poi_abandoned_campsite">Abandoned Campsite</string>
 	<string key="ui_poi_abandoned_farm_mill">Abandoned Farm Mill</string>
 	<string key="ui_poi_abandoned_farm_village">Abandoned Farm Village</string>
@@ -134,7 +134,7 @@
 	<string key="ui_poi_wolf_cave_40334">Abhorscorn Cave</string>
 	<string key="ui_poi_accursedcamp_60223">Accursed Camp</string>
 	<string key="ui_poi_corrupted_fort_provisioning_00_40317">Acedia Bastion</string>
-	<string key="ui_poi_ancient_ruins_30119">Khalladan</string>
+	<string key="ui_poi_ancient_ruins_30119">Achernar</string>
 	<string key="ui_poi_outpost_alchemy">Alchemy Outpost</string>
 	<string key="ui_poi_alpha_wolf_den">Alpha Wolf Den</string>
 	<string key="ui_poi_lowermine_40419">Ambusti Inferior</string>
@@ -370,7 +370,7 @@
 	<string key="ui_poi_crater_prowlerhole">Ferocious Lair</string>
 	<string key="ui_poi_crater_prowlerplateau">Ferocious Plateau</string>
 	<string key="ui_poi_crater_prowlerridge">Ferocious Ridge</string>
-	<string key="ui_poi_witheredfarm_2_30115">Teyrnon Keep</string>
+	<string key="ui_poi_witheredfarm_2_30115">Tres Campos</string>
 	<string key="ui_poi_fishing_village_30015">Festering Fishery</string>
 	<string key="ui_poi_festeringflotsam_60212">Festering Flotsam</string>
 	<string key="ui_poi_crater_blightedvillage_50358">Festermire</string>
@@ -476,7 +476,7 @@
 	<string key="ui_poi_haunted_graveyard_40252">Kristofer's Resting Place</string>
 	<string key="ui_poi_shipwreck_50210">La Escamilla</string>
 	<string key="ui_poi_ancient_lookout_40112">Lacerta</string>
-	<string key="ui_poi_witheredfarm_3_30113">Preiddeu Farms</string>
+	<string key="ui_poi_witheredfarm_3_30113">Lakeside Farm</string>
 	<string key="ui_poi_abandoned_village_lakeside">Lakeside Village</string>
 	<string key="ui_poi_corrupted_fort_provisioning_01_40404">Lapsus</string>
 	<string key="ui_poi_weaversfen_temple_50338">Aqua Acadia</string>
@@ -506,8 +506,8 @@
 	<string key="ui_poi_drownedshipwreck_2_40142">Mesnard's Might</string>
 	<string key="ui_poi_wolf_den_40226">Midnight Den</string>
 	<string key="ui_poi_mine">Mine</string>
-	<string key="ui_poi_witherd_mines">Cynefin Mine</string>
-	<string key="ui_poi_witherd_mines_30112">Cynefin Mine</string>
+	<string key="ui_poi_witherd_mines">Mines de Miclot</string>
+	<string key="ui_poi_witherd_mines_30112">Mines de Miclot</string>
 	<string key="ui_poi_blightedwreck_60217">Minnow's Revenge</string>
 	<string key="ui_poi_abandoned_farm_village_40303">Misty Borough</string>
 	<string key="ui_poi_outpost_monarchbay_a">Monarch Station</string>
@@ -1240,7 +1240,7 @@
 	<string key="ui_poi_wolf_den_40023_description">"I see the moon, and the moon sees me.\nGods keep me safe.\nSo mote it be."\n- the Traveler's Prayer</string>
 	<string key="ui_poi_wolf_den_40226_description">Stay on the roads, and keep keen for wolfsign.</string>
 	<string key="ui_poi_wolf_den_40228_description">A lonesome howl is a warning. A second howl means dinner.</string>
-	<string key="ui_poi_warrior_tomb_40230_description">PLACEHOLDER until quest team addresses.</string>
+	<string key="ui_poi_warrior_tomb_40230_description">A warrior's work is never done. A warrior's rest is hard earned.</string>
 	<string key="ui_poi_wolf_den_50214_description">Landmark</string>
 	<string key="ui_poi_wolf_den_50303_description">'Pitt-patt' go dusty paws.\n'Slish-slash' go lethal claws.</string>
 	<string key="ui_poi_wolf_den_description">Landmark</string>
@@ -1333,7 +1333,7 @@
 	<string key="ui_poi_crater_spite">Spite</string>
 	<string key="ui_poi_ancient_ruins_30011">Spiti Ruins</string>
 	<string key="ui_poi_blightcave_50415">Split Bark</string>
-	<string key="ui_poi_bear_den_30108">Hiraeth Peak</string>
+	<string key="ui_poi_bear_den_30108">Adamant Mine</string>
 	<string key="ui_poi_crater_spriggan">Zygoramet's Grove</string>
 	<string key="ui_poi_dryadlookout_50418">Spryla Tower</string>
 	<string key="ui_poi_shipwreck_40003">Standing Shallows</string>
@@ -1356,8 +1356,8 @@
 	<string key="ui_poi_crater_feralruins_50375">Tadeas Stronghold</string>
 	<string key="ui_poi_abandoned_farm_village_50223">Taryville</string>
 	<string key="ui_poi_ancient_bridge_40329">Meridian Walk</string>
-	<string key="ui_poi_drownedshipwreck_1">Le Caraquon</string>
-	<string key="ui_poi_drownedshipwreck_1_40144">Le Caraquon</string>
+	<string key="ui_poi_drownedshipwreck_1">The Crown of Corpora</string>
+	<string key="ui_poi_drownedshipwreck_1_40144">The Crown of Corpora</string>
 	<string key="ui_poi_bombasticwreckage_60215">The Golden Princess</string>
 	<string key="ui_poi_shipwreck_30101">The Montore Expedition</string>
 	<string key="ui_poi_googlywreck_60218">The Plundering Shark</string>
@@ -1377,7 +1377,7 @@
 	<string key="ui_poi_blightcave_50414">Tox</string>
 	<string key="ui_poi_undeadbastion">Traitor's Hold</string>
 	<string key="ui_poi_wolf_cave_40332">Tundramouth Burrow</string>
-	<string key="ui_poi_cavern_mb_01_30122">Hideaway Caverns</string>
+	<string key="ui_poi_cavern_mb_01_30122">Turtlespit Cave</string>
 	<string key="ui_poi_haunted_village_40250">Twineborough</string>
 	<string key="ui_poi_crater_brutalviewsite_50311">Twisted Roots</string>
 	<string key="ui_poi_ancient_bridge_40126">Twofork Crossing</string>
@@ -1417,7 +1417,7 @@
 	<string key="ui_poi_haunted_village_40262">Wraithburg</string>
 	<string key="ui_poi_wrecked_galleon_60339">Broken Promise</string>
 	<string key="ui_poi_ancient_ruins_30012">Yafda Steps</string>
-	<string key="ui_poi_devilspit_30134">Hiraeth Lookout</string>
+	<string key="ui_poi_devilspit_30134">Devil's Pit</string>
 	<string key="ui_poi_devilspit_30134_description">Such a sweet temptation, this honey never runs dry.</string>
 	<string key="ui_poi_ancient_lighthouse_60343">Scorpius</string>
 	<string key="ui_poi_ancient_lighthouse_60343_description">Elite Stronghold\n\nA beacon of despair, a monument to plagues, and sickness, and madness.</string>
@@ -1429,7 +1429,7 @@
 	<string key="ui_poi_gracewatercave_50233_description">The scents of healing herbs fill the air.</string>
 	<string key="ui_poi_alpha_wolf_den_30135">Offal Grotto</string>
 	<string key="ui_poi_alpha_wolf_den_30135_description">Try not to upset the cats.</string>
-	<string key="ui_poi_shipwreck_30222">Brysedd Shore</string>
+	<string key="ui_poi_shipwreck_30222">The Grey Mist</string>
 	<string key="ui_poi_shipwreck_30222_description">Ripe with activity, a port ever preparing to lay siege upon settlements both near and far.</string>
 	<string key="ui_poi_shipwreck_30223">The Dagger</string>
 	<string key="ui_poi_shipwreck_30223_description">It cut cleanly through the ocean, dispatching ships to the depths. But like any good blade, in time it lost its edge.</string>
