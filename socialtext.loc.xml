@@ -610,7 +610,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_appended_difficulty_queue_hud">Difficulty &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{difficulty}&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_level_desc">Your level: {level}\nMinimum level cannot exceed your level.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_gear_score_desc">Your Gear Score: {gearscore}\nMinimum gear score cannot exceed your gear score.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_comment_format">"{text}"</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_comment_format">&quot;{text}&quot;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_chat_name_group_finder_group">Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_lobbies_header">Lobbies</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_time_ago">{time} ago</string>
