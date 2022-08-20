@@ -463,6 +463,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invited">Invited</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_reject">Reject</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_rejected">Rejected</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_unknownerror">Unknown Error</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_servererror">Server Error</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_notfound">Lobby Not Found</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_timeout">Request Timed Out</string>
@@ -471,6 +472,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_pvp_flag_mismatch">Your PvP flag does not match the Lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_pvp_faction_mismatch">You must be in the same faction for a PvP Lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_requirements_not_met">Lobby requirements have changed and you do not meet them.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_cleanspeakerror">Chat filter error. Please update your text and try again.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_atmaxapplications">You cannot send any more requests.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_groupfull">Lobby Full</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_convert_to_group_declined">{playerName} declined the ready check.</string>
@@ -542,6 +544,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_sorted_by">Sorted by</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_time_posted">Time Posted</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_join_with_group">Open Expedition With Your Group</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_in_probation">Your account must be older than {accountProbationTimeRequired} with a playtime greater than {characterProbationTimeRequired} in order to create a lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_difficulty_locked">You must unlock this difficulty level to create a new Lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_decline">Decline</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationaccepted">Invitation Accepted</string>
