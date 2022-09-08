@@ -245,11 +245,13 @@
 	<string key="ui_emote_RobotDance_name" rel_version="Emote_RobotDance">The Automaton</string>
 	<string key="ui_emote_Headbang_name" rel_version="Emote_HeadBanging">Headbanging</string>
 	<string key="ui_emote_SparklerDance_name" rel_version="Emote_SparklerDance">Sparkler Dance</string>
+	<string key="ui_emote_TugOfWar_name" rel_version="Emote_TugOfWar">Tug of War</string>
 	<string key="ui_emote_PinCount_description" rel_version="Emote_PinCount">"The judge looks for the shoulders pinned to the ground, then ratifies the indisputable dominance of the challenger."</string>
 	<string key="ui_emote_Plotting_description" rel_version="Emote_Plotting">"Be deeply suspicious of one plotting with clearly evil intent."</string>
 	<string key="ui_emote_RobotDance_description" rel_version="Emote_RobotDance">"Is some new possession spreading through Aeternum? One that produces these strange, mechanical movements?"</string>
 	<string key="ui_emote_Headbang_description" rel_version="Emote_HeadBanging">"For when the spirit of the music consumes one completely."</string>
 	<string key="ui_emote_SparklerDance_description" rel_version="Emote_SparklerDance">"Fire dance with me."</string>
+	<string key="ui_emote_TugOfWar_description" rel_version="Emote_TugOfWar">"Pull for all you're worth! Pull like you're back at sea, hauling the mainsail aloft."</string>
 	<string key="emote_PinCount" rel_version="Emote_PinCount">{playerName} counts and… rules it a pin!</string>
 	<string key="emote_Plotting" rel_version="Emote_Plotting">{playerName} plots something sinister.</string>
 	<string key="emote_RobotDance" rel_version="Emote_RobotDance">{playerName} does a mechanical dance.</string>
@@ -257,6 +259,7 @@
 	<string key="emote_Headbang_SHE" rel_version="Emote_HeadBanging">{playerName} bangs her head up and down.</string>
 	<string key="emote_Headbang_THEY" rel_version="Emote_HeadBanging">{playerName} bangs their head up and down.</string>
 	<string key="emote_SparklerDance" rel_version="Emote_SparklerDance">{playerName} dances with sparklers.</string>
+	<string key="emote_TugOfWar" rel_version="Emote_TugOfWar">{playerName} pantomimes a lasso and tug-of-war.</string>
 	<string key="ui_emote_FingerGun_name" rel_version="Emote_FingerGuns">Finger Guns</string>
 	<string key="ui_emote_FingerGun_description" rel_version="Emote_FingerGuns">"Hit them with your best shot."</string>
 	<string key="emote_FingerGun" rel_version="Emote_FingerGuns">{playerName} shoots their fingers like guns.</string>
@@ -272,5 +275,17 @@
 	<string key="ui_emote_WiggleArms_name" rel_version="Emote_WiggleArms">Wiggle Dance</string>
 	<string key="ui_emote_WiggleArms_description" rel_version="Emote_WiggleArms">"On an island full of terrors, sometimes it's good to just let your body relax."</string>
 	<string key="emote_WiggleArms" rel_version="Emote_WiggleArms">{playerName} wiggles their body.</string>
+	<string key="ui_emote_DrinkCheer_name" rel_version="Emote_DrinkCheers">Cheers!</string>
+	<string key="ui_emote_DrinkCheer_description" rel_version="Emote_DrinkCheers">"Drink a health to your fine companions."</string>
+	<string key="emote_DrinkCheer" rel_version="Emote_DrinkCheers">{playerName} cheers a drink to good health.</string>
+	<string key="ui_emote_TableFlip_name" rel_version="Emote_TableFlip">Table Flip</string>
+	<string key="ui_emote_CrazyTapDance_name" rel_version="Emote_CrazyTapDance">Wild Tap Dance</string>
+	<string key="ui_emote_ChaplinWalk_name" rel_version="Emote_TrampWalk">Tramp Walk</string>
+	<string key="ui_emote_TableFlip_description" rel_version="Emote_TableFlip">"When your rage boils over, the table pays the price."</string>
+	<string key="ui_emote_CrazyTapDance_description" rel_version="Emote_CrazyTapDance">"Tap tap tap tap tap tap tap."</string>
+	<string key="ui_emote_ChaplinWalk_description" rel_version="Emote_TrampWalk">"You may not have much, but you have this walk."</string>
+	<string key="emote_TableFlip" rel_version="Emote_TableFlip">{playerName} flips a table.</string>
+	<string key="emote_CrazyTapDance" rel_version="Emote_CrazyTapDance">{playerName} begins a wild tap dance.</string>
+	<string key="emote_ChaplinWalk" rel_version="Emote_TrampWalk">{playerName} does a funny walk with a cane.</string>
 </resources>
 

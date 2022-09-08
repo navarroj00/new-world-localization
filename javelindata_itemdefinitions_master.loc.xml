@@ -11448,8 +11448,6 @@
 	<string key="BaitSaltNightcrawlerT2_MasterName">Nightcrawler Bait</string>
 	<string key="BaitSaltSnailT2_Description">Gives a medium boost to chance of catching bigger fish in salt water.</string>
 	<string key="BaitSaltSnailT2_MasterName">Snail Bait</string>
-	<string key="BaitMaudlinbugT1_Description" rel_version="Event_Summer_Temp">Catch Aeternum Sturgeons and other Medleyfaire items in any open water or Aeternum Sturgeon hotspots!</string>
-	<string key="BaitMaudlinbugT1_MasterName" rel_version="Event_Summer_Temp">Maudlinbug Bait</string>
 	<string key="BandageT2_Description">USE: Removes the Bleeding Effect.</string>
 	<string key="BandageT2_MasterName">Bandages</string>
 	<string key="BarbvineT1_Description">A woody vine with razor sharp barbs. If not properly treated, the barbs will even catch on metal.</string>
@@ -11800,7 +11798,7 @@
 	<string key="Charged_Azoth_MasterName">Charged Azoth</string>
 	<string key="CheeseT1_Description">Milk's highest form.</string>
 	<string key="CheeseT1_MasterName">Cheese</string>
-	<string key="ChefCharmT1_Description">Crafting item with an attunement to the Gourmand's Burden perk.</string>
+	<string key="ChefCharmT1_Description">Crafting item with an attunement to the Gourmand's Burden perk. &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Can be used when crafting Bags.&lt;/font&gt;</string>
 	<string key="ChefCharmT1_MasterName">Steel Chef's Charm</string>
 	<string key="ChefCharmT2_Description">Crafting item with an attunement to the Chef's Luck armor trait.</string>
 	<string key="ChefCharmT2_MasterName">Starmetal Chef's Charm</string>
@@ -12677,11 +12675,11 @@
 	<string key="CoatingLostT4_MasterName">Powerful Lost Coating</string>
 	<string key="CoatingLostT5_Description">USE: Apply to currently drawn weapon. Gives a maximal bonus to damage against Lost. Lasts for {[ConsumableItemDefinitions.CoatingLostT5.DurationOverrides / 60]} minutes or upon unequip, whichever comes first. Only one Coating may be applied to a weapon at a time. Coatings stack with Weapon Traits.</string>
 	<string key="CoatingLostT5_MasterName">Infused Lost Coating</string>
-	<string key="CobaltT1_Description">Crafting item with an attunement to the Prospector's Burden perk.</string>
+	<string key="CobaltT1_Description">Crafting item with an attunement to the Prospector's Burden perk. &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Can be used when crafting Bags.&lt;/font&gt;</string>
 	<string key="CobaltT1_MasterName">Sliver of Cobalt</string>
 	<string key="CobaltT2_Description">Crafting item with an attunement to the Sturdy perk.</string>
 	<string key="CobaltT2_MasterName">Shard of Cobalt</string>
-	<string key="CobaltT3_Description">Crafting item with an attunement to the Mining Luck perk.</string>
+	<string key="CobaltT3_Description">Crafting item with an attunement to the Mining Luck perk. &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Can be used when crafting Amulets.&lt;/font&gt;</string>
 	<string key="CobaltT3_MasterName">Chunk of Cobalt</string>
 	<string key="CoconutT1_Description">A large tree seed, the contents of which can be eaten.</string>
 	<string key="CoconutT1_MasterName">Coconut</string>
@@ -15351,14 +15349,6 @@
 	<string key="FishingSturgeonMediumT2_MasterName">Medium Sturgeon</string>
 	<string key="FishingSturgeonSmallT2_Description">A small sturgeon. This can be cooked whole or salvaged into filets. If salvaged, fish oil will definitely be obtained and there is also a chance of obtaining fish roe.</string>
 	<string key="FishingSturgeonSmallT2_MasterName">Small Sturgeon</string>
-	<string key="FishingSummerMedleyCacheT3_Description" rel_version="Event_Summer_Temp">A bountiful cache of items commemorating the Summer Medleyfaire! Crack it open and see what's inside!</string>
-	<string key="FishingSummerMedleyCacheT3_MasterName" rel_version="Event_Summer_Temp">Medleyfaire Cache</string>
-	<string key="FishingSummerMedleySturgeonLargeT3_Description" rel_version="Event_Summer_Temp">A large Aeternum Sturgeon. Open it up and trade its parts for Medleyfaire Tokens at any Medleyfaire Festival Cart!</string>
-	<string key="FishingSummerMedleySturgeonLargeT3_MasterName" rel_version="Event_Summer_Temp">Large Aeternum Sturgeon</string>
-	<string key="FishingSummerMedleySturgeonMediumT3_Description" rel_version="Event_Summer_Temp">A medium-sized Aeternum Sturgeon. Open it up and trade its parts for Medleyfaire Tokens at any Medleyfaire Festival Cart!</string>
-	<string key="FishingSummerMedleySturgeonMediumT3_MasterName" rel_version="Event_Summer_Temp">Medium Aeternum Sturgeon</string>
-	<string key="FishingSummerMedleySturgeonSmallT3_Description" rel_version="Event_Summer_Temp">A small Aeternum Sturgeon. Open it up and trade its parts for Medleyfaire Tokens at any Medleyfaire Festival Cart!</string>
-	<string key="FishingSummerMedleySturgeonSmallT3_MasterName" rel_version="Event_Summer_Temp">Small Aeternum Sturgeon</string>
 	<string key="FishingSunfishLargeT1_Description">A large sunfish. This can be salvaged into food with a chance of acquiring fish oil.</string>
 	<string key="FishingSunfishLargeT1_MasterName">Large Sunfish</string>
 	<string key="FishingSunfishMediumT1_Description">A medium-sized sunfish. This can be salvaged into food with a chance of acquiring fish oil.</string>
@@ -28413,17 +28403,17 @@
 	<string key="Schematic_House_HousingItem_Bed_Bunk_T2_MasterName" comment="NA-Basic">Schematic: Old Wooden Bunk Bed</string>
 	<string key="Schematic_House_HousingItem_Bed_Cot_T1_A_Description" comment="NA-Basic">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
 	<string key="Schematic_House_HousingItem_Bed_Cot_T1_A_MasterName" comment="NA-Basic">Schematic: Old Straw Cot</string>
-	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed01_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Teak Carved Canopy Bed</string>
-	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed01_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Rosewood Carved Canopy Bed</string>
-	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed01_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Jade Carved Canopy Bed</string>
-	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed02_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed02_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed02_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Goldenrod Silk Daybed</string>
-	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed02_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed02_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed02_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Turquoise Silk Daybed</string>
-	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed02_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed02_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Bed_Dynasty_Bed02_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: White Gold Silk Daybed</string>
 	<string key="Schematic_House_HousingItem_Bed_Pirate_Bed01_A_Description" comment="Set-02-Pirate">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
 	<string key="Schematic_House_HousingItem_Bed_Pirate_Bed01_A_MasterName" comment="Set-02-Pirate">Schematic: Maritime Velvet Captain's Bed</string>
@@ -28451,23 +28441,23 @@
 	<string key="Schematic_House_HousingItem_Bed_Single_T2_MasterName" comment="NA-Basic">Schematic: Old Wooden Full Bed</string>
 	<string key="Schematic_House_HousingItem_Cairn_D_Description" comment="NA-Basic">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
 	<string key="Schematic_House_HousingItem_Cairn_D_MasterName" comment="NA-Basic">Schematic: Stone Cairn</string>
-	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair01_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Carved Teak Armchair</string>
-	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair01_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Carved Rosewood Armchair</string>
-	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair01_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Carved Jade Armchair</string>
-	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair02_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair02_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair02_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Graceful Teak Chair</string>
-	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair02_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair02_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair02_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Graceful Rosewood Chair</string>
-	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair02_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair02_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Chair_Dynasty_Chair02_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Graceful Jade Chair</string>
-	<string key="Schematic_House_HousingItem_Chair_Dynasty_Stool_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Chair_Dynasty_Stool_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Chair_Dynasty_Stool_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Carved Teak Stool</string>
-	<string key="Schematic_House_HousingItem_Chair_Dynasty_Stool_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Chair_Dynasty_Stool_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Chair_Dynasty_Stool_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Carved Rosewood Stool</string>
-	<string key="Schematic_House_HousingItem_Chair_Dynasty_Stool_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Chair_Dynasty_Stool_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Chair_Dynasty_Stool_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Carved Jade Stool</string>
 	<string key="Schematic_House_HousingItem_Chair_FineChair_A_Description" comment="NA-Basic">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
 	<string key="Schematic_House_HousingItem_Chair_FineChair_A_MasterName" comment="NA-Basic">Schematic: Rickety Wooden Chair</string>
@@ -28519,83 +28509,83 @@
 	<string key="Schematic_House_HousingItem_Chair_Settler_Stool_D_MasterName" comment="Set-01-Settler">Schematic: Mahogany Barstool</string>
 	<string key="Schematic_House_HousingItem_Chair_StoolB_T2_Description" comment="NA-Basic">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
 	<string key="Schematic_House_HousingItem_Chair_StoolB_T2_MasterName" comment="NA-Basic">Schematic: Old Log Stool</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Armoire01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Armoire01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Armoire01_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Teak Apothecary Cabinet</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Armoire01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Armoire01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Armoire01_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Rosewood Apothecary Cabinet</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Armoire01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Armoire01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Armoire01_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Jade Apothecary Cabinet</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Bookcase01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Bookcase01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Bookcase01_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Large Teak Bookcase</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Bookcase01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Bookcase01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Bookcase01_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Large Rosewood Bookcase</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Bookcase01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Bookcase01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Bookcase01_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Large Jade Bookcase</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Bookcase02_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Bookcase02_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Bookcase02_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Narrow Teak Bookcase</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Bookcase02_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Bookcase02_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Bookcase02_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Narrow Rosewood Bookcase</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Bookcase02_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Bookcase02_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Bookcase02_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Narrow Jade Bookcase</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Cabinet01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Cabinet01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Cabinet01_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Painted Teak Chest</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Cabinet01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Cabinet01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Cabinet01_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Painted Rosewood Chest</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Cabinet01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Cabinet01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Cabinet01_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Painted Jade Chest</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Cabinet02_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Cabinet02_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Cabinet02_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Teak Weapon Rack</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Cabinet02_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Cabinet02_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Cabinet02_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Rosewood Weapon Rack</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Cabinet02_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Cabinet02_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Cabinet02_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Jade Weapon Rack</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Decor_Floor_WeaponRack01_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Decor_Floor_WeaponRack01_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Decor_Floor_WeaponRack01_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Crowded Armory Rack</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain01_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Teak Painted Bamboo Blinds</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain01_B_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain01_B_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain01_B_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Ebony Painted Bamboo Blinds</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain02_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain02_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain02_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Goldenrod Brocade Drapes</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain02_B_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain02_B_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain02_B_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Ruby Brocade Drapes</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain03_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain03_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain03_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Goldenrod Brocade Valance</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain03_B_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain03_B_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Decor_Wall_Curtain03_B_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Ruby Brocade Valance</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Dresser01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Dresser01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Dresser01_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Teak Dresser</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Dresser01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Dresser01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Dresser01_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Rosewood Dresser</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Dresser01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Dresser01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Dresser01_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Jade Dresser</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Shelf01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Shelf01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Shelf01_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Teak Circular Curio Shelf</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Shelf01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Shelf01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Shelf01_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Rosewood Circular Curio Shelf</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Shelf01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Shelf01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Shelf01_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Jade Circular Curio Shelf</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Shelf02_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Shelf02_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Shelf02_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Teak Pedestal Shelf</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Shelf02_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Shelf02_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Shelf02_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Rosewood Pedestal Shelf</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Shelf02_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Shelf02_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Shelf02_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Jade Pedestal Shelf</string>
-	<string key="Schematic_House_HousingItem_Dynasty_Stove01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Dynasty_Stove01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Dynasty_Stove01_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Dynastic Stove</string>
 	<string key="Schematic_House_HousingItem_Lighting_CandleHolder_A_Description" comment="NA-Basic">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
 	<string key="Schematic_House_HousingItem_Lighting_CandleHolder_A_MasterName" comment="NA-Basic">Schematic: Rusty Iron Candelabra</string>
-	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightCeiling01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightCeiling01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightCeiling01_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Four-tasseled Hanging Lantern</string>
-	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightCeiling01_B_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightCeiling01_B_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightCeiling01_B_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Eight-tasseled Hanging Lantern</string>
-	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightTable01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightTable01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightTable01_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Cutout Standing Lantern</string>
-	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightTable01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightTable01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightTable01_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Chrysanthemum Standing Lantern</string>
-	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightWall01_B_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightWall01_B_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightWall01_B_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Iron-bound Wall-mounted Lantern</string>
-	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightWall01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightWall01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Lighting_Dynasty_LightWall01_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Simple Wall-mounted Lantern</string>
 	<string key="Schematic_House_HousingItem_Lighting_Pirate_LightCeiling01_A_Description" comment="Set-02-Pirate">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
 	<string key="Schematic_House_HousingItem_Lighting_Pirate_LightCeiling01_A_MasterName" comment="Set-02-Pirate">Schematic: Hard-Working Helm Chandelier</string>
@@ -28683,13 +28673,13 @@
 	<string key="Schematic_House_HousingItem_PowderHorn_MasterName" comment="NA-Basic">Schematic: Powder Horn</string>
 	<string key="Schematic_House_HousingItem_RoundBirdCage_Description" comment="NA-Basic">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
 	<string key="Schematic_House_HousingItem_RoundBirdCage_MasterName" comment="NA-Basic">Schematic: Round Birdcage</string>
-	<string key="Schematic_House_HousingItem_Rug_Dynasty_Decor_Floor_Rug01_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Rug_Dynasty_Decor_Floor_Rug01_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Rug_Dynasty_Decor_Floor_Rug01_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Goldenrod Geometric Rug</string>
-	<string key="Schematic_House_HousingItem_Rug_Dynasty_Decor_Floor_Rug04_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Rug_Dynasty_Decor_Floor_Rug04_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Rug_Dynasty_Decor_Floor_Rug04_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: White Gold Geometric Rug</string>
-	<string key="Schematic_House_HousingItem_Rug_Dynasty_Decor_Floor_Rug06_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Rug_Dynasty_Decor_Floor_Rug06_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Rug_Dynasty_Decor_Floor_Rug06_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Ruby Woven Floor Mat</string>
-	<string key="Schematic_House_HousingItem_Rug_Dynasty_Decor_Floor_Rug07_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Rug_Dynasty_Decor_Floor_Rug07_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Rug_Dynasty_Decor_Floor_Rug07_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Turquoise Woven Floor Mat</string>
 	<string key="Schematic_House_HousingItem_Rug_Pirate_Decor_Rug01_Description" comment="Set-02-Pirate">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
 	<string key="Schematic_House_HousingItem_Rug_Pirate_Decor_Rug01_MasterName" comment="Set-02-Pirate">Schematic: Curved Maritime Rug</string>
@@ -28763,7 +28753,7 @@
 	<string key="Schematic_House_HousingItem_SmallAlchemyCabinet_MasterName" comment="NA-Basic">Schematic: Small Rustic Cabinet</string>
 	<string key="Schematic_House_HousingItem_Statue_MothersLove_Description" rel_version="Housing_MothersLove_Memorial">A schematic that teaches you how to craft the tribute statuette "Mother's Love"</string>
 	<string key="Schematic_House_HousingItem_Statue_MothersLove_MasterName" rel_version="Housing_MothersLove_Memorial">Schematic: Mother's Love statuette</string>
-	<string key="Schematic_House_HousingItem_Storage_T3_Dynasty_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Storage_T3_Dynasty_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Storage_T3_Dynasty_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Dynasty Storage Chest</string>
 	<string key="Schematic_House_HousingItem_Storage_T3_Settler_Description" comment="Set-01-Settler">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
 	<string key="Schematic_House_HousingItem_Storage_T3_Settler_MasterName" comment="Set-01-Settler">Schematic: Hope Storage Chest</string>
@@ -28771,29 +28761,29 @@
 	<string key="Schematic_House_HousingItem_Storage_T4_ChestSteel_MasterName" comment="NA-Basic">Schematic: Golden Steel Storage Chest</string>
 	<string key="Schematic_House_HousingItem_Table_DinTable_Lg_A_Description" comment="NA-Basic">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
 	<string key="Schematic_House_HousingItem_Table_DinTable_Lg_A_MasterName" comment="NA-Basic">Schematic: Old Wood Dining Table</string>
-	<string key="Schematic_House_HousingItem_Table_Dynasty_BedSideTable_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Table_Dynasty_BedSideTable_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Table_Dynasty_BedSideTable_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Teak End Table</string>
-	<string key="Schematic_House_HousingItem_Table_Dynasty_BedSideTable_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Table_Dynasty_BedSideTable_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Table_Dynasty_BedSideTable_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Rosewood End Table</string>
-	<string key="Schematic_House_HousingItem_Table_Dynasty_BedSideTable_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Table_Dynasty_BedSideTable_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Table_Dynasty_BedSideTable_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Jade End Table</string>
-	<string key="Schematic_House_HousingItem_Table_Dynasty_Desk01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Table_Dynasty_Desk01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Table_Dynasty_Desk01_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Teak Writing Desk</string>
-	<string key="Schematic_House_HousingItem_Table_Dynasty_Desk01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Table_Dynasty_Desk01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Table_Dynasty_Desk01_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Rosewood Writing Desk</string>
-	<string key="Schematic_House_HousingItem_Table_Dynasty_Desk01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Table_Dynasty_Desk01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Table_Dynasty_Desk01_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Jade Writing Desk</string>
-	<string key="Schematic_House_HousingItem_Table_Dynasty_Table01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Table_Dynasty_Table01_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Table_Dynasty_Table01_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Teak Dining Table</string>
-	<string key="Schematic_House_HousingItem_Table_Dynasty_Table01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Table_Dynasty_Table01_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Table_Dynasty_Table01_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Rosewood Dining Table</string>
-	<string key="Schematic_House_HousingItem_Table_Dynasty_Table01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Table_Dynasty_Table01_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Table_Dynasty_Table01_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Jade Dining Table</string>
-	<string key="Schematic_House_HousingItem_Table_Dynasty_Table02_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Table_Dynasty_Table02_A_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Table_Dynasty_Table02_A_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Graceful Teak Table</string>
-	<string key="Schematic_House_HousingItem_Table_Dynasty_Table02_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Table_Dynasty_Table02_C_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Table_Dynasty_Table02_C_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Graceful Rosewood Table</string>
-	<string key="Schematic_House_HousingItem_Table_Dynasty_Table02_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
+	<string key="Schematic_House_HousingItem_Table_Dynasty_Table02_D_Description" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">A schematic that teaches you how to craft a piece of furniture. Learn the recipe for crafting.</string>
 	<string key="Schematic_House_HousingItem_Table_Dynasty_Table02_D_MasterName" comment="Set-03-Dynasty" rel_version="FurnitureRecipes_Dynasty">Schematic: Graceful Jade Table</string>
 	<string key="Schematic_House_HousingItem_Table_LogTable_Description" comment="NA-Basic">A schematic that teaches you how to craft a piece of furniture. Salvage the schematic to learn the recipe.</string>
 	<string key="Schematic_House_HousingItem_Table_LogTable_MasterName" comment="NA-Basic">Schematic: Tree Stump Table</string>
@@ -30084,54 +30074,18 @@
 	<string key="StructuralBracesT5_MasterName">Orichalcum Structural Braces</string>
 	<string key="SugarT1_Description">Common sugar, used to sweeten a dish during cooking or make confections.</string>
 	<string key="SugarT1_MasterName">Sugar</string>
-	<string key="SummerMedley_AeternumSturgeonBundle_Description" rel_version="Event_Summer_Temp">The most succulent Aeternum Sturgeon filets. Trade them in for Medleyfaire Tokens at any Medleyfaire Festival Cart!</string>
-	<string key="SummerMedley_AeternumSturgeonBundle_MasterName" rel_version="Event_Summer_Temp">Aeternum Sturgeon Filets</string>
-	<string key="SummerMedley_AssortedCoral_Description" rel_version="Event_Summer_Temp">An eye-catching assortment of seagrass. Use it to craft Memento Stands at the Medleyfaire Mount-A-Catch station!</string>
-	<string key="SummerMedley_AssortedCoral_MasterName" rel_version="Event_Summer_Temp">Assorted Seagrass</string>
-	<string key="SummerMedley_BrilliantAeternumSturgeonScale_Description" rel_version="Event_Summer_Temp">This Aeternum Sturgeon scale gleams with exceptional brilliance! Trade it in for Medleyfaire Tokens at any Medleyfaire Festival Cart!</string>
-	<string key="SummerMedley_BrilliantAeternumSturgeonScale_MasterName" rel_version="Event_Summer_Temp">Brilliant Aeternum Sturgeon Scale</string>
-	<string key="SummerMedley_CautiouslyWrappedStuffing_Description" rel_version="Event_Summer_Temp">A bundle of cautiously wrapped stuffing. Use it to craft Memento Stands at the Medleyfaire Mount-A-Catch station!</string>
-	<string key="SummerMedley_CautiouslyWrappedStuffing_MasterName" rel_version="Event_Summer_Temp">Cautiously Wrapped Stuffing</string>
 	<string key="SummerMedley_Caviar_Description" rel_version="Event_Summer_Perm">Increase Intelligence by {[Type_StatusEffectData.SummerMedley_Caviar.MODIntelligence * {ConsumablePotency}]} for {[Type_StatusEffectData.SummerMedley_Caviar.BaseDuration / 60]} minutes. Your health slowly recovers while under these effects.</string>
 	<string key="SummerMedley_Caviar_MasterName" rel_version="Event_Summer_Perm">Enchanted Aeternum Sturgeon Caviar</string>
-	<string key="SummerMedley_DepositBox_Description" rel_version="Event_Summer_Temp">Craft Medleyfaire Tokens here!</string>
-	<string key="SummerMedley_DepositBox_MasterName" rel_version="Event_Summer_Temp">Festival Cart</string>
 	<string key="SummerMedley_FirecrackerSturgeon_Description" rel_version="Event_Summer_Perm">Increase Dexterity by {[Type_StatusEffectData.SummerMedley_FirecrackerSturgeon.MODDexterity * {ConsumablePotency}]} for {[Type_StatusEffectData.SummerMedley_FirecrackerSturgeon.BaseDuration / 60]} minutes. Your health slowly recovers while under these effects.</string>
 	<string key="SummerMedley_FirecrackerSturgeon_MasterName" rel_version="Event_Summer_Perm">Firecracker Aeternum Sturgeon</string>
 	<string key="SummerMedley_FlatWraps_Description" rel_version="Event_Summer_Perm">Increase Focus by {[Type_StatusEffectData.SummerMedley_FlatWraps.MODFocus * {ConsumablePotency}]} for {[Type_StatusEffectData.SummerMedley_FlatWraps.BaseDuration / 60]} minutes. Your health slowly recovers while under these effects.</string>
 	<string key="SummerMedley_FlatWraps_MasterName" rel_version="Event_Summer_Perm">Grilled Aeternum Sturgeon Flatwraps</string>
 	<string key="SummerMedley_GrilledFishPlate_Description" rel_version="Event_Summer_Perm">Increase Constitution by {[Type_StatusEffectData.SummerMedley_GrilledFishPlate.MODConstitution * {ConsumablePotency}]} for {[Type_StatusEffectData.SummerMedley_GrilledFishPlate.BaseDuration / 60]} minutes. Your health slowly recovers while under these effects.</string>
 	<string key="SummerMedley_GrilledFishPlate_MasterName" rel_version="Event_Summer_Perm">Aeternum Sturgeon Grilled Fish Plate</string>
-	<string key="SummerMedley_IntactAeternumSturgeonGland_Description" rel_version="Event_Summer_Temp">The legends of a magical fishbone were true! Toss it in the Medleyfaire Pyre at any Medleyfaire venue for a big reward!</string>
-	<string key="SummerMedley_IntactAeternumSturgeonGland_MasterName" rel_version="Event_Summer_Temp">Enchanted Aeternum Sturgeon Fishbone</string>
-	<string key="SummerMedley_IntenseEtherVial_Description" rel_version="Event_Summer_Temp">This vial of ether is rather intense. Use it to craft Tier 4 mementos at the Medleyfaire Mount-A-Catch station!</string>
-	<string key="SummerMedley_IntenseEtherVial_MasterName" rel_version="Event_Summer_Temp">Intense Ether Vial</string>
 	<string key="SummerMedley_Kebabs_Description" rel_version="Event_Summer_Perm">Increase Strength by {[Type_StatusEffectData.SummerMedley_Kebabs.MODStrength * {ConsumablePotency}]} for {[Type_StatusEffectData.SummerMedley_Kebabs.BaseDuration / 60]} minutes. Your health slowly recovers while under these effects.</string>
 	<string key="SummerMedley_Kebabs_MasterName" rel_version="Event_Summer_Perm">Spiced Aeternum Sturgeon Kebabs</string>
-	<string key="SummerMedley_LightEtherVial_Description" rel_version="Event_Summer_Temp">This vial of ether is rather light. Use it to craft Tier 1 mementos at the Medleyfaire Mount-A-Catch station!</string>
-	<string key="SummerMedley_LightEtherVial_MasterName" rel_version="Event_Summer_Temp">Light Ether Vial</string>
-	<string key="SummerMedley_MaudlinDust_Description" rel_version="Event_Summer_Temp">Glittering dust of the Maudlinbug, bursting with undiscovered magical properties. Trade it in for Medleyfaire Tokens at any Medleyfaire Festival Cart!</string>
-	<string key="SummerMedley_MaudlinDust_MasterName" rel_version="Event_Summer_Temp">Maudlindust</string>
-	<string key="SummerMedley_PotentEtherVial_Description" rel_version="Event_Summer_Temp">This vial of ether is rather potent. Use it to craft Tier 2 mementos at the Medleyfaire Mount-A-Catch station!</string>
-	<string key="SummerMedley_PotentEtherVial_MasterName" rel_version="Event_Summer_Temp">Potent Ether Vial</string>
-	<string key="SummerMedley_PowerfulEtherVial_Description" rel_version="Event_Summer_Temp">This vial of ether is rather powerful. Use it to craft Tier 3 mementos at the Medleyfaire Mount-A-Catch station!</string>
-	<string key="SummerMedley_PowerfulEtherVial_MasterName" rel_version="Event_Summer_Temp">Powerful Ether Vial</string>
-	<string key="SummerMedley_PremiumToken_Description" rel_version="Event_Summer_Temp">A very fancy, bright, shining token. Trade them in at any Medleyfaire Shop for special rewards!</string>
-	<string key="SummerMedley_PremiumToken_MasterName" rel_version="Event_Summer_Temp">Premium Medleyfaire Token</string>
-	<string key="SummerMedley_PristineSoakedWood_Description" rel_version="Event_Summer_Temp">A perfect piece of soaked wood. Use it to craft Memento Stands at the Medleyfaire Mount-A-Catch station!</string>
-	<string key="SummerMedley_PristineSoakedWood_MasterName" rel_version="Event_Summer_Temp">Pristine Soaked Wood</string>
 	<string key="SummerMedley_ScaledustDelight_Description" rel_version="Event_Summer_Perm">Grants +25% Fishing XP and improves Medleyfaire fishing luck for {[Type_StatusEffectData.SummerMedley_ScaledustDelight.BaseDuration / 60]} minutes.</string>
 	<string key="SummerMedley_ScaledustDelight_MasterName" rel_version="Event_Summer_Perm">Scaledust Delight</string>
-	<string key="SummerMedley_Token_Description" rel_version="Event_Summer_Temp">A bright, shining token. Trade them in at any Medleyfaire Shop for special rewards!</string>
-	<string key="SummerMedley_Token_MasterName" rel_version="Event_Summer_Temp">Medleyfaire Token</string>
-	<string key="SummerMedley_TrophyStandT1_Description" rel_version="Event_Summer_Temp">A memento stand that excudes greatness. Use it to craft Small Mementos at the Medleyfaire Mount-A-Catch station!</string>
-	<string key="SummerMedley_TrophyStandT1_MasterName" rel_version="Event_Summer_Temp">Great Memento Stand</string>
-	<string key="SummerMedley_TrophyStandT2_Description" rel_version="Event_Summer_Temp">A glorious memento stand. Use it to craft Medium Mementos at the Medleyfaire Mount-A-Catch station!</string>
-	<string key="SummerMedley_TrophyStandT2_MasterName" rel_version="Event_Summer_Temp">Glorious Memento Stand</string>
-	<string key="SummerMedley_TrophyStandT3_Description" rel_version="Event_Summer_Temp">This memento stand is simply magnificent! Use it to craft Large Mementos at the Medleyfaire Mount-A-Catch station!</string>
-	<string key="SummerMedley_TrophyStandT3_MasterName" rel_version="Event_Summer_Temp">Magnificent Memento Stand</string>
-	<string key="SummerMedley_TrophyStation_Description" rel_version="Event_Summer_Temp">Mount your best catch and display proudly in your home!</string>
-	<string key="SummerMedley_TrophyStation_MasterName" rel_version="Event_Summer_Temp">Mount-A-Catch</string>
 	<string key="SuncreeperT1_Description">The tendril of a Suncreeper mushroom.</string>
 	<string key="SuncreeperT1_MasterName">Suncreeper Tendril</string>
 	<string key="SupportHornResilience_Description">Provides health regeneration and increased defenses to allies.</string>
@@ -31308,36 +31262,6 @@
 	<string key="WyrdwoodSapT3_MasterName" rel_version="MorePerksV2">Draught of Wyrdwood Sap</string>
 	<string key="YeastT1_Description">A leavening ingredient. Also used in fermentation.</string>
 	<string key="YeastT1_MasterName">Yeast</string>
-	<string key="SummerMedley_Container_HastilyPackedBasket_MasterName" rel_version="Event_Summer_Temp">Hastily Packed Basket</string>
-	<string key="SummerMedley_Container_HastilyPackedBasket_Description" rel_version="Event_Summer_Temp">A hastily packed basket. It's addressed to you! There's surely something good inside!</string>
-	<string key="SummerMedley_Container_BeautifullyPackedBasket_MasterName" rel_version="Event_Summer_Temp">Beautifully Packed Basket</string>
-	<string key="SummerMedley_Container_BeautifullyPackedBasket_Description" rel_version="Event_Summer_Temp">A beautifully packed basket. It's addressed to you! There's surely something great inside!</string>
-	<string key="SummerMedley_Container_ExquisitelyPackedBasket_MasterName" rel_version="Event_Summer_Temp">Exquisitely Packed Basket</string>
-	<string key="SummerMedley_Container_ExquisitelyPackedBasket_Description" rel_version="Event_Summer_Temp">An exquisitely packed basket. It's addressed to you! There's surely something amazing inside!</string>
-	<string key="SE_MedleyfaireBaskets_Name" rel_version="Event_Summer_Temp">Medleyfaire Baskets</string>
-	<string key="SE_MedleyfaireBaskets_Description" rel_version="Event_Summer_Temp">Intricately woven baskets for carrying the legendary Aeternum Sturgeon once caught.</string>
-	<string key="SE_BrightcolorBouquets_Name" rel_version="Event_Summer_Temp">Brightcolor Bouquets</string>
-	<string key="SE_BrightcolorBouquets_Description" rel_version="Event_Summer_Temp">A bundle of flowers and herbs tied together with string.</string>
-	<string key="SE_SummertimeSpotlights_Name" rel_version="Event_Summer_Temp">Summertime Spotlights</string>
-	<string key="SE_SummertimeSpotlights_Description" rel_version="Event_Summer_Temp">Barrels with iron bracings that hold spotlights for the Medleyfaire stages.</string>
-	<string key="SE_SparkwoodTorches_Name" rel_version="Event_Summer_Temp">Sparkwood Torches</string>
-	<string key="SE_SparkwoodTorches_Description" rel_version="Event_Summer_Temp">Blazing torches that light up the dark summer nights of Aeternum.</string>
-	<string key="SE_PartyglowBanners_Name" rel_version="Event_Summer_Temp">Partyglow Banners</string>
-	<string key="SE_PartyglowBanners_Description" rel_version="Event_Summer_Temp">Banners declaring it is time to get down and party!</string>
-	<string key="SE_SweatproofStagepaint_Name" rel_version="Event_Summer_Temp">Sweatproof Stagepaint</string>
-	<string key="SE_SweatproofStagepaint_Description" rel_version="Event_Summer_Temp">Paint for the performers of Medleyfaire that will withstand the heat.</string>
-	<string key="WorkOrder_SE_MedleyfaireBaskets_Name" rel_version="Event_Summer_Temp">Work Order: Medleyfaire Baskets</string>
-	<string key="WorkOrder_SE_MedleyfaireBaskets_Description" rel_version="Event_Summer_Temp">A Work Order for Medleyfaire Baskets</string>
-	<string key="WorkOrder_SE_BrightcolorBouquets_Name" rel_version="Event_Summer_Temp">Work Order: Brightcolor Bouquets</string>
-	<string key="WorkOrder_SE_BrightcolorBouquets_Description" rel_version="Event_Summer_Temp">A Work Order for Brightcolor Bouquets</string>
-	<string key="WorkOrder_SE_SummertimeSpotlights_Name" rel_version="Event_Summer_Temp">Work Order: Summertime Spotlights</string>
-	<string key="WorkOrder_SE_SummertimeSpotlights_Description" rel_version="Event_Summer_Temp">A Work Order for Summertime Spotlights</string>
-	<string key="WorkOrder_SE_SparkwoodTorches_Name" rel_version="Event_Summer_Temp">Work Order: Sparkwood Torches</string>
-	<string key="WorkOrder_SE_SparkwoodTorches_Description" rel_version="Event_Summer_Temp">A Work Order for Sparkwood Torches</string>
-	<string key="WorkOrder_SE_PartyglowBanners_Name" rel_version="Event_Summer_Temp">Work Order: Partyglow Banners</string>
-	<string key="WorkOrder_SE_PartyglowBanners_Description" rel_version="Event_Summer_Temp">A Work Order for Partyglow Banners</string>
-	<string key="WorkOrder_SE_SweatproofStagepaint_Name" rel_version="Event_Summer_Temp">Work Order: Sweatproof Stagepaint</string>
-	<string key="WorkOrder_SE_SweatproofStagepaint_Description" rel_version="Event_Summer_Temp">A Work Order for Sweatproof Stagepaint</string>
 	<string key="Skin_Chest_Metal_L_MasterName" rel_version="Apparel_Metal_L">Spiked Shredder Jacket</string>
 	<string key="Skin_Chest_Metal_L_Description" rel_version="Apparel_Metal_L">Because you're not hardcore unless you live hardcore.</string>
 	<string key="Skin_Head_Metal_L_MasterName" rel_version="Apparel_Metal_L">Spiked Shredder Mask</string>
@@ -31892,10 +31816,6 @@
 	<string key="WeaponsmithingResearchNotesT5_Description">Study the salvage parts to learn a large amount of Weaponsmithing trade skill experience.</string>
 	<string key="WeaponsmithingResearchNotesT51_MasterName">Grandmaster Weaponsmithing Research Notes</string>
 	<string key="WeaponsmithingResearchNotesT51_Description">Study the salvage parts to learn a very large amount of Weaponsmithing trade skill experience.</string>
-	<string key="SE_BeeSmoker_Name" rel_version="Event_Summer_Temp">Bee Smoker</string>
-	<string key="SE_BeeSmoker_Description" rel_version="Event_Summer_Temp">A fragrant smoke to put bees to sleep.</string>
-	<string key="WorkOrder_SE_BeeSmoker_Name" rel_version="Event_Summer_Temp">Work Order: Bee Smoker</string>
-	<string key="WorkOrder_SE_BeeSmoker_Description" rel_version="Event_Summer_Temp">A Work Order For Bee Smoker</string>
 	<string key="Ancient_AzothFlute_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Click &lt;font color="#eaeaea"&gt;Learn&lt;/font&gt; page 1/1 of Call of the Ancients for Azoth Flute</string>
 	<string key="Ancient_AzothFlute_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Call of the Ancients\nAzoth Flute Sheet Music\nPage 1/1</string>
 	<string key="Ancient_AzothFlute_Part2_Page1_Description" rel_version="Feature_MusicalPerformances">Click &lt;font color="#eaeaea"&gt;Learn&lt;/font&gt; page 1/2 of Call of the Ancients for Second Azoth Flute</string>
@@ -31950,6 +31870,8 @@
 	<string key="Set_AzothFlute_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Before the Storm\nAzoth Flute Sheet Music\nPage 1/2</string>
 	<string key="Set_AzothFlute_Part1_Page2_Description" rel_version="Feature_MusicalPerformances">Click &lt;font color="#eaeaea"&gt;Learn&lt;/font&gt; page 2/2 of Before the Storm for Azoth Flute</string>
 	<string key="Set_AzothFlute_Part1_Page2_MasterName" rel_version="Feature_MusicalPerformances">Before the Storm\nAzoth Flute Sheet Music\nPage 2/2</string>
+	<string key="CampSkin_Phoenix01_A_description" comment="Player Camp Skin" rel_version="Campskin_Phoenix_1">Relax in repose with a tent that springs forth from the ashes of Aeternum.</string>
+	<string key="CampSkin_Phoenix01_A_mastername" comment="Player Camp Skin" rel_version="Campskin_Phoenix_1">Phoenix Rising</string>
 	<string key="Skin_Chest_FemNobleTwitch_L_MasterName" rel_version="Feminine_Noble_LT5">Fanciful Capelet</string>
 	<string key="Skin_Head_FemNobleTwitch_L_MasterName" rel_version="Feminine_Noble_LT5">Fanciful Plumed Hat</string>
 	<string key="Skin_Legs_FemNobleTwitch_L_MasterName" rel_version="Feminine_Noble_LT5">Fanciful Britches</string>
@@ -32088,6 +32010,66 @@
 	<string key="KingStanley_URBass_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Young King Stanley\nUpright Bass Sheet Music\nPage 1/2</string>
 	<string key="KingStanley_URBass_Part1_Page2_Description" rel_version="Feature_MusicalPerformances">Click &lt;font color="#eaeaea"&gt;Learn&lt;/font&gt; page 2/2 of Young King Stanley for Upright Bass</string>
 	<string key="KingStanley_URBass_Part1_Page2_MasterName" rel_version="Feature_MusicalPerformances">Young King Stanley\nUpright Bass Sheet Music\nPage 2/2</string>
+	<string key="Skin_Chest_Phoenix_L_MasterName" rel_version="Apparel_Phoenix_L">Birds of a Feather Capelet</string>
+	<string key="Skin_Head_Phoenix_L_MasterName" rel_version="Apparel_Phoenix_L">Birds of a Feather Mask</string>
+	<string key="Skin_Legs_Phoenix_L_MasterName" rel_version="Apparel_Phoenix_L">Birds of a Feather Tights</string>
+	<string key="Skin_Feet_Phoenix_L_MasterName" rel_version="Apparel_Phoenix_L">Birds of a Feather Shoes</string>
+	<string key="Skin_Hands_Phoenix_L_MasterName" rel_version="Apparel_Phoenix_L">Birds of a Feather Handcovers</string>
+	<string key="Skin_Chest_Phoenix_M_MasterName" rel_version="Apparel_Phoenix_M">Dancing Flames Jacket</string>
+	<string key="Skin_Head_Phoenix_M_MasterName" rel_version="Apparel_Phoenix_M">Dancing Flames Hood</string>
+	<string key="Skin_Legs_Phoenix_M_MasterName" rel_version="Apparel_Phoenix_M">Dancing Flames Pantaloons</string>
+	<string key="Skin_Feet_Phoenix_M_MasterName" rel_version="Apparel_Phoenix_M">Dancing Flames Boots</string>
+	<string key="Skin_Hands_Phoenix_M_MasterName" rel_version="Apparel_Phoenix_M">Dancing Flames Gloves</string>
+	<string key="Skin_Chest_Phoenix_H_MasterName" rel_version="Apparel_Phoenix_H">Sunblaze Breastplate</string>
+	<string key="Skin_Head_Phoenix_H_MasterName" rel_version="Apparel_Phoenix_H">Sunblaze Helm</string>
+	<string key="Skin_Legs_Phoenix_H_MasterName" rel_version="Apparel_Phoenix_H">Sunblaze Pants</string>
+	<string key="Skin_Feet_Phoenix_H_MasterName" rel_version="Apparel_Phoenix_H">Sunblaze Sabatons</string>
+	<string key="Skin_Hands_Phoenix_H_MasterName" rel_version="Apparel_Phoenix_H">Sunblaze Gauntlets</string>
+	<string key="Skin_Chest_Phoenix_L_Description" rel_version="Apparel_Phoenix_L">As it is said, they flock together.</string>
+	<string key="Skin_Head_Phoenix_L_Description" rel_version="Apparel_Phoenix_L">As it is said, they flock together.</string>
+	<string key="Skin_Legs_Phoenix_L_Description" rel_version="Apparel_Phoenix_L">As it is said, they flock together.</string>
+	<string key="Skin_Feet_Phoenix_L_Description" rel_version="Apparel_Phoenix_L">As it is said, they flock together.</string>
+	<string key="Skin_Hands_Phoenix_L_Description" rel_version="Apparel_Phoenix_L">As it is said, they flock together.</string>
+	<string key="Skin_Chest_Phoenix_M_Description" rel_version="Apparel_Phoenix_M">As the pyre burns higher, so too does your spirit of battle within.</string>
+	<string key="Skin_Head_Phoenix_M_Description" rel_version="Apparel_Phoenix_M">As the pyre burns higher, so too does your spirit of battle within.</string>
+	<string key="Skin_Legs_Phoenix_M_Description" rel_version="Apparel_Phoenix_M">As the pyre burns higher, so too does your spirit of battle within.</string>
+	<string key="Skin_Feet_Phoenix_M_Description" rel_version="Apparel_Phoenix_M">As the pyre burns higher, so too does your spirit of battle within.</string>
+	<string key="Skin_Hands_Phoenix_M_Description" rel_version="Apparel_Phoenix_M">As the pyre burns higher, so too does your spirit of battle within.</string>
+	<string key="Skin_Chest_Phoenix_H_Description" rel_version="Apparel_Phoenix_H">Outshine, outwit, and bring your opponents to their knees.</string>
+	<string key="Skin_Head_Phoenix_H_Description" rel_version="Apparel_Phoenix_H">Outshine, outwit, and bring your opponents to their knees.</string>
+	<string key="Skin_Legs_Phoenix_H_Description" rel_version="Apparel_Phoenix_H">Outshine, outwit, and bring your opponents to their knees.</string>
+	<string key="Skin_Feet_Phoenix_H_Description" rel_version="Apparel_Phoenix_H">Outshine, outwit, and bring your opponents to their knees.</string>
+	<string key="Skin_Hands_Phoenix_H_Description" rel_version="Apparel_Phoenix_H">Outshine, outwit, and bring your opponents to their knees.</string>
+	<string key="Skin_WarHammer_Phoenix_MasterName" rel_version="Weapon_Phoenix_Warhammer_MTX">Wingclipper</string>
+	<string key="Skin_Rapier_Phoenix_MasterName" rel_version="Weapon_Phoenix_Rapier_MTX">Wingpiercer</string>
+	<string key="Skin_Spear_Phoenix_MasterName" rel_version="Weapon_Phoenix_Spear_MTX">Ascendance</string>
+	<string key="Skin_Hatchet_Phoenix_MasterName" rel_version="Weapon_Phoenix_Hatchet_MTX">Featherbeater</string>
+	<string key="Skin_Lifestaff_Phoenix_MasterName" rel_version="Weapon_Phoenix_LifeStaff_MTX">The Winged Savior</string>
+	<string key="Skin_Blunderbuss_Phoenix_MasterName" rel_version="Weapon_Phoenix_Blunderbuss_MTX">Blazing Phoenix</string>
+	<string key="Skin_WarHammer_Phoenix_Description" rel_version="Weapon_Phoenix_Warhammer_MTX">Bring down what none thought could be grounded.</string>
+	<string key="Skin_Rapier_Phoenix_Description" rel_version="Weapon_Phoenix_Rapier_MTX">Strike true to send your enemies careening back to the unforgiving earth of Aeternum.</string>
+	<string key="Skin_Spear_Phoenix_Description" rel_version="Weapon_Phoenix_Spear_MTX">Each strike is elevated with the beauty of your weapon.</string>
+	<string key="Skin_Hatchet_Phoenix_Description" rel_version="Weapon_Phoenix_Hatchet_MTX">It's imbued with magic to weigh more when striking a foe.</string>
+	<string key="Skin_Lifestaff_Phoenix_Description" rel_version="Weapon_Phoenix_LifeStaff_MTX">Let your healing lift your team to the heights of the heavens.</string>
+	<string key="Skin_Blunderbuss_Phoenix_Description" rel_version="Weapon_Phoenix_Blunderbuss_MTX">Rise from the ashes to shoot down your foes.</string>
+	<string key="Skin_Flute_FateFortune_MasterName" rel_version="Instrument_Flute_FateFortune_MTX">Shining Sun Flute</string>
+	<string key="Skin_Guitar_FateFortune_MasterName" rel_version="Instrument_Guitar_FateFortune_MTX">Crescent Moon Strummer</string>
+	<string key="Skin_UprightBass_FateFortune_MasterName" rel_version="Instrument_Bass_FateFortune_MTX">Palm Reader's Bass</string>
+	<string key="Skin_Flute_FateFortune_Description" rel_version="Instrument_Flute_FateFortune_MTX">Call down the power of the sun itself to brighten your performance.</string>
+	<string key="Skin_Guitar_FateFortune_Description" rel_version="Instrument_Guitar_FateFortune_MTX">Play with the power of the waning moon behind your notes.</string>
+	<string key="Skin_UprightBass_FateFortune_Description" rel_version="Instrument_Bass_FateFortune_MTX">It takes a strong palm to play this instrument, one you can spot from several meters away in another musician.</string>
+	<string key="Skin_Phoenix_SkinningKnife_MasterName" rel_version="ToolSkins_Phoenix_MTX">Avian Edge</string>
+	<string key="Skin_Phoenix_Sickle_MasterName" rel_version="ToolSkins_Phoenix_MTX">Feathered Harvester</string>
+	<string key="Skin_Phoenix_Pickaxe_MasterName" rel_version="ToolSkins_Phoenix_MTX">Flight of the Ferrous</string>
+	<string key="Skin_Phoenix_LoggingAxe_MasterName" rel_version="ToolSkins_Phoenix_MTX">Gradient Chopper</string>
+	<string key="Skin_Phoenix_FishingPole_MasterName" rel_version="ToolSkins_Phoenix_MTX">Phoenix Pole</string>
+	<string key="Skin_Phoenix_AzothScepter_MasterName" rel_version="ToolSkins_Phoenix_MTX">Songbird Scepter</string>
+	<string key="Skin_Phoenix_SkinningKnife_Description" rel_version="ToolSkins_Phoenix_MTX">For skinning the diverse birds of Aeternum.</string>
+	<string key="Skin_Phoenix_Sickle_Description" rel_version="ToolSkins_Phoenix_MTX">This golden bird wishes to help you with all of your gathering projects.</string>
+	<string key="Skin_Phoenix_Pickaxe_Description" rel_version="ToolSkins_Phoenix_MTX">All rocks and minerals crumble before the rising phoenix.</string>
+	<string key="Skin_Phoenix_LoggingAxe_Description" rel_version="ToolSkins_Phoenix_MTX">Let trees take flight as this axe separates them from their stumps.</string>
+	<string key="Skin_Phoenix_FishingPole_Description" rel_version="ToolSkins_Phoenix_MTX">A feathered bobber would be most appropriate here.</string>
+	<string key="Skin_Phoenix_AzothScepter_Description" rel_version="ToolSkins_Phoenix_MTX">Let it sing its song, and close the portals that Corruption has brought forth.</string>
 	<string key="ClothingArcane_Name">Pattern: Arcane Clothing</string>
 	<string key="ClothingArmoring_Name">Pattern: Armoring Clothing</string>
 	<string key="ClothingCooking_Name">Pattern: Cooking Clothing</string>
@@ -32128,5 +32110,15 @@
 	<string key="Omega_Box_Music_AzothFlutePages_Description" rel_version="Feature_MusicalPerformances">A box containing music pages for Azoth Flute</string>
 	<string key="1036_0101_BlackpowderBlunderbuss_Description" rel_version="Weapon_Blunderbuss">An old weapon, from an older time.</string>
 	<string key="1036_0101_BlackpowderBlunderbuss_MasterName" rel_version="Weapon_Blunderbuss">Blackpowder Blunderbuss</string>
+	<string key="Skin_Chest_FanaticSaintM_MasterName" rel_version="Apparel_FanaticSaint_Prime_Medium">Fanatic Saint's Coat</string>
+	<string key="Skin_Head_FanaticSaintM_MasterName" rel_version="Apparel_FanaticSaint_Prime_Medium">Fanatic Saint's Mask</string>
+	<string key="Skin_Legs_FanaticSaintM_MasterName" rel_version="Apparel_FanaticSaint_Prime_Medium">Fanatic Saint's Pants</string>
+	<string key="Skin_Feet_FanaticSaintM_MasterName" rel_version="Apparel_FanaticSaint_Prime_Medium">Fanatic Saint's Boots</string>
+	<string key="Skin_Hands_FanaticSaintM_MasterName" rel_version="Apparel_FanaticSaint_Prime_Medium">Fanatic Saint's Gauntlets</string>
+	<string key="Skin_Chest_FanaticSaintM_Description" rel_version="Apparel_FanaticSaint_Prime_Medium">Feel the fervor of your patron raging through your mortal veins.</string>
+	<string key="Skin_Head_FanaticSaintM_Description" rel_version="Apparel_FanaticSaint_Prime_Medium">Feel the fervor of your patron raging through your mortal veins.</string>
+	<string key="Skin_Legs_FanaticSaintM_Description" rel_version="Apparel_FanaticSaint_Prime_Medium">Feel the fervor of your patron raging through your mortal veins.</string>
+	<string key="Skin_Feet_FanaticSaintM_Description" rel_version="Apparel_FanaticSaint_Prime_Medium">Feel the fervor of your patron raging through your mortal veins.</string>
+	<string key="Skin_Hands_FanaticSaintM_Description" rel_version="Apparel_FanaticSaint_Prime_Medium">Feel the fervor of your patron raging through your mortal veins.</string>
 </resources>
 

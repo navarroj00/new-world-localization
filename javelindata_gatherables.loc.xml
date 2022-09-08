@@ -693,17 +693,6 @@
 	<string key="DungeonCutlassKeys00_ChestFuse_DisplayName" rel_version="Expedition_CutlassKeys_00">Toolbox</string>
 	<string key="DungeonCutlassKeys00_WaterStatue_DisplayName" rel_version="Expedition_CutlassKeys_00">Nereid's Offering</string>
 	<string key="DungeonCutlassKeys00_Spring_DisplayName" rel_version="Expedition_CutlassKeys_00">Offer</string>
-	<string key="SummerMedley_Settlement_Stage_Master_DisplayName" rel_version="Event_Summer_Temp">Medleyfaire Stage Centerpiece</string>
-	<string key="SummerMedley_Settlement_Stage_T1_DisplayName" rel_version="Event_Summer_Temp">Dismal Bestowment</string>
-	<string key="SummerMedley_Settlement_Stage_T2_DisplayName" rel_version="Event_Summer_Temp">Grand Bestowment</string>
-	<string key="SummerMedley_Settlement_Stage_T3_DisplayName" rel_version="Event_Summer_Temp">Opulent Bestowment</string>
-	<string key="SummerMedley_Settlement_Stage_Description" rel_version="Event_Summer_Temp">Compete Medleyfaire Town Projects to upgrade the glory and rewards bestowed by the stage!</string>
-	<string key="SummerMedley_Village_BonfireBlast_DisplayName" rel_version="Event_Summer_Temp">Medleyfaire Pyre</string>
-	<string key="SummerMedley_Village_BonfireBlast_Description" rel_version="Event_Summer_Temp">Toss an Aeternum Sturgeon Magic Fishbone into the fires to receive a tremendous reward!</string>
-	<string key="SummerMedley_Maudlindust_DisplayName" rel_version="Event_Summer_Temp">Maudlindust</string>
-	<string key="SummerMedley_Maudlindust_Particle_DisplayName" rel_version="Event_Summer_Temp">Maudlindust Particle</string>
-	<string key="SummerMedley_Village_Dancefloor_DisplayName" rel_version="Event_Summer_Temp">Medleyfaire Dance Floor</string>
-	<string key="SummerMedley_Village_Dancefloor_Description" rel_version="Event_Summer_Temp">Polish up and show off your best moves on the Medleyfaire Dance Floor to earn Event Reputation!</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">War Camp Chest</string>
 	<string key="1130_ArcaneFocus1_DisplayName">Arcane Focus</string>
 	<string key="1130_ArcaneFocus2_DisplayName">Arcane Focus</string>
@@ -750,18 +739,6 @@
 	<string key="0601_0101_weapon_04_firestaff_DisplayName">Choose the Battleworn Firestaff</string>
 	<string key="98_Covenant_02_Captive_DisplayName">Release prisoner</string>
 	<string key="98_Covenant_03_Pyre_DisplayName">Burn the artifact</string>
-	<string key="13_Summer_AzFluteT1_DisplayName" rel_version="Quest_Event_Summer">Collect Flute</string>
-	<string key="13_Summer_DrumT1_DisplayName" rel_version="Quest_Event_Summer">Collect Drum</string>
-	<string key="13_Summer_GuitarT1_DisplayName" rel_version="Quest_Event_Summer">Collect Guitar</string>
-	<string key="13_Summer_MandolinT1_DisplayName" rel_version="Quest_Event_Summer">Collect Mandolin</string>
-	<string key="13_Summer_URBassT1_DisplayName" rel_version="Quest_Event_Summer">Collect Upright Bass</string>
-	<string key="13_Summer_Carpenter1_DisplayName" rel_version="Quest_Event_Summer">Repair Table</string>
-	<string key="13_Summer_Carpenter2_DisplayName" rel_version="Quest_Event_Summer">Attach Vices</string>
-	<string key="13_Summer_Apiary_DisplayName" rel_version="Quest_Event_Summer">Ignite Smoker Jug</string>
-	<string key="13_Summer_Oven_DisplayName" rel_version="Quest_Event_Summer">Scrub Oven</string>
-	<string key="13_Summer_FlowerBoxA_DisplayName" rel_version="Quest_Event_Summer">Water Sunflowers</string>
-	<string key="13_Summer_FlowerBoxB_DisplayName" rel_version="Quest_Event_Summer">Water Hibiscus</string>
-	<string key="13_Summer_FlowerBoxC_DisplayName" rel_version="Quest_Event_Summer">Water Daisies</string>
 	<string key="06A_MSQ_Lijsbet_Trapped_DisplayName">Rescue Lijsbet</string>
 	<string key="06A_MSQ_Michael_Trapped_DisplayName">Rescue Michael</string>
 	<string key="06A_MSQ_Nessa_Trapped_DisplayName">Rescue Nessa</string>
