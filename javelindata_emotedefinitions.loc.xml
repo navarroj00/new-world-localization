@@ -275,16 +275,27 @@
 	<string key="ui_emote_WiggleArms_name" rel_version="Emote_WiggleArms">Wiggle Dance</string>
 	<string key="ui_emote_WiggleArms_description" rel_version="Emote_WiggleArms">"On an island full of terrors, sometimes it's good to just let your body relax."</string>
 	<string key="emote_WiggleArms" rel_version="Emote_WiggleArms">{playerName} wiggles their body.</string>
+	<string key="ui_emote_MicDrop_name" rel_version="Emote_MicDrop">Mic Drop</string>
+	<string key="ui_emote_MicDrop_description" rel_version="Emote_MicDrop">"Make your closing remarks clear, then depart."</string>
+	<string key="emote_MicDrop" rel_version="Emote_MicDrop">{playerName} drops his projecting device with finality.</string>
+	<string key="emote_MicDrop_SHE" rel_version="Emote_MicDrop">{playerName} drops her projecting device with finality.</string>
+	<string key="emote_MicDrop_THEY" rel_version="Emote_MicDrop">{playerName} drops their projecting device with finality.</string>
 	<string key="ui_emote_DrinkCheer_name" rel_version="Emote_DrinkCheers">Cheers!</string>
 	<string key="ui_emote_DrinkCheer_description" rel_version="Emote_DrinkCheers">"Drink a health to your fine companions."</string>
 	<string key="emote_DrinkCheer" rel_version="Emote_DrinkCheers">{playerName} cheers a drink to good health.</string>
 	<string key="ui_emote_TableFlip_name" rel_version="Emote_TableFlip">Table Flip</string>
+	<string key="ui_emote_Vanity_name" rel_version="Emote_Vanity">Vanity</string>
+	<string key="ui_emote_KnightThee_name" rel_version="Emote_KnightThee">I Knight Thee</string>
 	<string key="ui_emote_CrazyTapDance_name" rel_version="Emote_CrazyTapDance">Wild Tap Dance</string>
 	<string key="ui_emote_ChaplinWalk_name" rel_version="Emote_TrampWalk">Tramp Walk</string>
 	<string key="ui_emote_TableFlip_description" rel_version="Emote_TableFlip">"When your rage boils over, the table pays the price."</string>
+	<string key="ui_emote_Vanity_description" rel_version="Emote_Vanity">"View to verify you are indeed the most beautiful of all."</string>
+	<string key="ui_emote_KnightThee_description" rel_version="Emote_KnightThee">"Bestow the honor and obligation of knighthood."</string>
 	<string key="ui_emote_CrazyTapDance_description" rel_version="Emote_CrazyTapDance">"Tap tap tap tap tap tap tap."</string>
 	<string key="ui_emote_ChaplinWalk_description" rel_version="Emote_TrampWalk">"You may not have much, but you have this walk."</string>
 	<string key="emote_TableFlip" rel_version="Emote_TableFlip">{playerName} flips a table.</string>
+	<string key="emote_Vanity" rel_version="Emote_Vanity">{playerName} admires themselves in a mirror.</string>
+	<string key="emote_KnightThee" rel_version="Emote_KnightThee">{playerName} bestows knighthood.</string>
 	<string key="emote_CrazyTapDance" rel_version="Emote_CrazyTapDance">{playerName} begins a wild tap dance.</string>
 	<string key="emote_ChaplinWalk" rel_version="Emote_TrampWalk">{playerName} does a funny walk with a cane.</string>
 </resources>
