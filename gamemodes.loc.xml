@@ -10,6 +10,7 @@
 	<string key="ui_game_mode_matchmaking_failed">An unexpected matchmaking failure has occurred.</string>
 	<string key="ui_game_mode_disabled">This game mode is currently disabled</string>
 	<string key="ui_dungeon_enter_info">&lt;font color={color}&gt;At least 1 person&lt;/font&gt; must enter to keep the Expedition open. Teleport in now?</string>
+	<string key="ui_dungeon_enter_info_solo">&lt;font color={color}&gt;Soul Trial is ready&lt;/font&gt;. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_entered">The Expedition is now open!\n&lt;font color={color}&gt;Teleport in now?&lt;/font&gt;</string>
 	<string key="ui_duel_player">Duel Player</string>
 	<string key="ui_duel_failmessage_invalidname">{playerName} is not a valid player name.</string>
@@ -84,7 +85,8 @@
 	<string key="ui_outpost_rush_title">Outpost Rush</string>
 	<string key="ui_outpost_rush_invite_status">Accept to join the battle!</string>
 	<string key="ui_outpost_rush_signup_title">OUTPOST RUSH</string>
-	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;Outpost Rush&lt;/font&gt; is a 20 vs 20 match that takes place on a large island with three Outposts.\nPlayers compete to capture and hold these Outposts for as long as possible, increasing their team's score in the process.</string>
+	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;Outpost Rush&lt;/font&gt; is a 20v20 match that takes place on a large island with three Outposts.\nTeams compete to capture and hold these Outposts in order to increase their team's score.</string>
+	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;Outpost Rush&lt;/font&gt; is a 20v20 match that takes place on a large island with three Outposts.\nTeams compete to capture and hold these Outposts in order to increase their team's score.\nThis mode has &lt;font color="#ffe940"&gt;Gear Score Scaling&lt;/font&gt;, increasing the gear score of all equipment below 600 gear score to 600.</string>
 	<string key="ui_outpost_rush_signup_goal1">Capture and hold Outposts to increase your team's score</string>
 	<string key="ui_outpost_rush_signup_goal2">The first team to reach a score of 1000 wins</string>
 	<string key="ui_outpost_rush_signup_goal3">Utilize special resources on the island to attack &amp; defend</string>
@@ -222,8 +224,10 @@
 	<string key="or_tutorial_summoning_creature_body">Try a different one, or wait until this one is available again.</string>
 	<string key="emote_unable_to_use_emote">Unable to use Emote in this game mode</string>
 	<string key="ui_durability_loss_outpost_rush">You are in an Outpost Rush, your equipment was not damaged upon death.</string>
-	<string key="ui_durability_loss_war">You are in a war(or invasion), your equipment was not damaged upon death.</string>
-	<string key="ui_item_durability_loss">All the equipment in your inventory was damaged upon death.</string>
+	<string key="ui_durability_loss_war">You are in a War (or Invasion), your equipment was not damaged upon death.</string>
+	<string key="ui_item_durability_loss">Your equipment took damage upon death.</string>
+	<string key="ui_item_durability_dungeon">You are in an Expedition, your equipment was not damaged upon death.</string>
+	<string key="ui_item_durability_arena" rel_version="Feature_PVP_Arenas">You are in an Arena, your equipment was not damaged upon death.</string>
 	<string key="ui_item_durability_loss_pvp">You were killed by another player, your equipment took reduced damage.</string>
 	<string key="ui_in_spectators_box">In Spectator's Box</string>
 	<string key="ui_in_spectators_box_description">Abilities Disabled</string>
@@ -242,5 +246,6 @@
 	<string key="ui_switching_sides">Switching Sides</string>
 	<string key="ui_rounds_won">Rounds Won</string>
 	<string key="ui_see_through_label">See Through Mode</string>
+	<string key="ui_invasion_leave">Leave Invasion</string>
 </resources>
 

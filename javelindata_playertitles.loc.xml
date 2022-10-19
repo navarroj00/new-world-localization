@@ -310,6 +310,12 @@
 	<string key="ui_playertitle_territorystanding_brightwood4" rel_version="P2_MetaAchievements">Brightwood Mythic</string>
 	<string key="ui_playertitle_territorystanding_brightwood4_SHE" rel_version="P2_MetaAchievements">Brightwood Mythic</string>
 	<string key="ui_playertitle_territorystanding_brightwood4_THEY" rel_version="P2_MetaAchievements">Brightwood Mythic</string>
+	<string key="ui_playertitle_territorystanding_brimstone3" rel_version="Territory_Brimstone_Sands">Brimstone Famous</string>
+	<string key="ui_playertitle_territorystanding_brimstone3_SHE" rel_version="Territory_Brimstone_Sands">Brimstone Famous</string>
+	<string key="ui_playertitle_territorystanding_brimstone3_THEY" rel_version="Territory_Brimstone_Sands">Brimstone Famous</string>
+	<string key="ui_playertitle_territorystanding_brimstone4" rel_version="Territory_Brimstone_Sands">Brimstone Mythic</string>
+	<string key="ui_playertitle_territorystanding_brimstone4_SHE" rel_version="Territory_Brimstone_Sands">Brimstone Mythic</string>
+	<string key="ui_playertitle_territorystanding_brimstone4_THEY" rel_version="Territory_Brimstone_Sands">Brimstone Mythic</string>
 	<string key="ui_playertitle_territorystanding_cutlass3" rel_version="P2_MetaAchievements">Cutlass Famous</string>
 	<string key="ui_playertitle_territorystanding_cutlass3_SHE" rel_version="P2_MetaAchievements">Cutlass Famous</string>
 	<string key="ui_playertitle_territorystanding_cutlass3_THEY" rel_version="P2_MetaAchievements">Cutlass Famous</string>
@@ -457,6 +463,12 @@
 	<string key="ui_playertitle_weaponmaster_blunderbuss3" rel_version="Weapon_Blunderbuss">Bombastic Blunder-Blaster</string>
 	<string key="ui_playertitle_weaponmaster_blunderbuss3_SHE" rel_version="Weapon_Blunderbuss">Bombastic Blunder-Blaster</string>
 	<string key="ui_playertitle_weaponmaster_blunderbuss3_THEY" rel_version="Weapon_Blunderbuss">Bombastic Blunder-Blaster</string>
+	<string key="ui_playertitle_weaponmaster_greatsword2" rel_version="Territory_Brimstone_Sands">Greatsword Expert</string>
+	<string key="ui_playertitle_weaponmaster_greatsword2_SHE" rel_version="Territory_Brimstone_Sands">Greatsword Expert</string>
+	<string key="ui_playertitle_weaponmaster_greatsword2_THEY" rel_version="Territory_Brimstone_Sands">Greatsword Expert</string>
+	<string key="ui_playertitle_weaponmaster_greatsword3" rel_version="Territory_Brimstone_Sands">Blade of the Titan</string>
+	<string key="ui_playertitle_weaponmaster_greatsword3_SHE" rel_version="Territory_Brimstone_Sands">Blade of the Titan</string>
+	<string key="ui_playertitle_weaponmaster_greatsword3_THEY" rel_version="Territory_Brimstone_Sands">Blade of the Titan</string>
 	<string key="ui_playertitle_factionmissions_completed3" rel_version="P2_MetaAchievements">Faction Notorious</string>
 	<string key="ui_playertitle_factionmissions_completed3_SHE" rel_version="P2_MetaAchievements">Faction Notorious</string>
 	<string key="ui_playertitle_factionmissions_completed3_THEY" rel_version="P2_MetaAchievements">Faction Notorious</string>
@@ -661,6 +673,9 @@
 	<string key="ui_playertitle_dungeonboss_barnacles" rel_version="Expedition_CutlassKeys_00">Dissonant Dissident</string>
 	<string key="ui_playertitle_dungeonboss_barnacles_SHE" rel_version="Expedition_CutlassKeys_00">Dissonant Dissident</string>
 	<string key="ui_playertitle_dungeonboss_barnacles_THEY" rel_version="Expedition_CutlassKeys_00">Dissonant Dissident</string>
+	<string key="ui_playertitle_dungeonboss_ennead" rel_version="Territory_Brimstone_Sands">Magister Militum</string>
+	<string key="ui_playertitle_dungeonboss_ennead_SHE" rel_version="Territory_Brimstone_Sands">Magister Militum</string>
+	<string key="ui_playertitle_dungeonboss_ennead_THEY" rel_version="Territory_Brimstone_Sands">Magister Militum</string>
 	<string key="ui_playertitle_special_askforhelp" rel_version="Feature_Titles">Need Some Help!</string>
 	<string key="ui_playertitle_special_askforhelp_SHE" rel_version="Feature_Titles">Need Some Help!</string>
 	<string key="ui_playertitle_special_askforhelp_THEY" rel_version="Feature_Titles">Need Some Help!</string>
@@ -712,6 +727,9 @@
 	<string key="ui_playertitle_territory_permanent_owner_15" rel_version="Feature_Titles">Restless Shores Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_15_SHE" rel_version="Feature_Titles">Restless Shores Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_15_THEY" rel_version="Feature_Titles">Restless Shores Owner</string>
+	<string key="ui_playertitle_territory_permanent_owner_16" rel_version="Territory_Brimstone_Sands">Brimstone Owner</string>
+	<string key="ui_playertitle_territory_permanent_owner_16_SHE" rel_version="Territory_Brimstone_Sands">Brimstone Owner</string>
+	<string key="ui_playertitle_territory_permanent_owner_16_THEY" rel_version="Territory_Brimstone_Sands">Brimstone Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_desc" rel_version="Feature_Titles">Your company just won this territory.</string>
 	<string key="ui_playertitle_music_easy">Minstrel</string>
 	<string key="ui_playertitle_music_easy_SHE">Minstrel</string>
@@ -759,13 +777,47 @@
 	<string key="ui_playertitle_special_CultInitiate_description">A low-ranking member of a surreptitious group.</string>
 	<string key="ui_playertitle_special_CultFollower">Follower of the Cult of Renewal</string>
 	<string key="ui_playertitle_special_CultFollower_description">A fully-fledged member of a surreptitious group.</string>
-	<string key="@ui_playertitle_special_warmonger">Warmonger</string>
-	<string key="@ui_playertitle_special_warmonger_SHE">Warmonger</string>
-	<string key="@ui_playertitle_special_warmonger_THEY">Warmonger</string>
-	<string key="@ui_playertitle_warmonger_description">Always answers the call to war.</string>
+	<string key="ui_playertitle_special_warmonger">Warmonger</string>
+	<string key="ui_playertitle_special_warmonger_SHE">Warmonger</string>
+	<string key="ui_playertitle_special_warmonger_THEY">Warmonger</string>
+	<string key="ui_playertitle_warmonger_description">Always answers the call to war.</string>
 	<string key="ui_playertitle_special_superdeluxe">Desert Vanguard</string>
 	<string key="ui_playertitle_special_superdeluxe_SHE">Desert Vanguard</string>
 	<string key="ui_playertitle_special_superdeluxe_THEY">Desert Vanguard</string>
 	<string key="ui_playertitle_superdeluxe_description">First to explore the mysterious deserts of Aeternum.</string>
+	<string key="ui_playertitle_brimstone_allsq" rel_version="Territory_Brimstone_Sands">Desert Hawk</string>
+	<string key="ui_playertitle_brimstone_allsq_SHE" rel_version="Territory_Brimstone_Sands">Desert Hawk</string>
+	<string key="ui_playertitle_brimstone_allsq_THEY" rel_version="Territory_Brimstone_Sands">Desert Hawk</string>
+	<string key="ui_playertitle_brimstone_activateennead" rel_version="Territory_Brimstone_Sands">Herald of Night</string>
+	<string key="ui_playertitle_brimstone_activateennead_SHE" rel_version="Territory_Brimstone_Sands">Herald of Night</string>
+	<string key="ui_playertitle_brimstone_activateennead_THEY" rel_version="Territory_Brimstone_Sands">Herald of Night</string>
+	<string key="ui_playertitle_brimstone_allzq" rel_version="Territory_Brimstone_Sands">New Corsican Champion</string>
+	<string key="ui_playertitle_brimstone_allzq_SHE" rel_version="Territory_Brimstone_Sands">New Corsican Champion</string>
+	<string key="ui_playertitle_brimstone_allzq_THEY" rel_version="Territory_Brimstone_Sands">New Corsican Champion</string>
+	<string key="ui_playertitle_brimstone_thothshrine" rel_version="Territory_Brimstone_Sands">Opener of the Way</string>
+	<string key="ui_playertitle_brimstone_thothshrine_SHE" rel_version="Territory_Brimstone_Sands">Opener of the Way</string>
+	<string key="ui_playertitle_brimstone_thothshrine_THEY" rel_version="Territory_Brimstone_Sands">Opener of the Way</string>
+	<string key="ui_playertitle_brimstone_coronation" rel_version="Territory_Brimstone_Sands">Queenmaker</string>
+	<string key="ui_playertitle_brimstone_coronation_SHE" rel_version="Territory_Brimstone_Sands">Queenmaker</string>
+	<string key="ui_playertitle_brimstone_coronation_THEY" rel_version="Territory_Brimstone_Sands">Queenmaker</string>
+	<string key="ui_playertitle_brimstone_heartgem" rel_version="Territory_Brimstone_Sands">Radiance of the Soulwarden</string>
+	<string key="ui_playertitle_brimstone_heartgem_SHE" rel_version="Territory_Brimstone_Sands">Radiance of the Soulwarden</string>
+	<string key="ui_playertitle_brimstone_heartgem_THEY" rel_version="Territory_Brimstone_Sands">Radiance of the Soulwarden</string>
+	<string key="ui_playertitle_brimstone_ancientglyphs" rel_version="Territory_Brimstone_Sands">Scrivener of the Ancients</string>
+	<string key="ui_playertitle_brimstone_ancientglyphs_SHE" rel_version="Territory_Brimstone_Sands">Scrivener of the Ancients</string>
+	<string key="ui_playertitle_brimstone_ancientglyphs_THEY" rel_version="Territory_Brimstone_Sands">Scrivener of the Ancients</string>
+	<string key="ui_playertitle_brimstone_unlock" rel_version="Territory_Brimstone_Sands">Strider of the Sands</string>
+	<string key="ui_playertitle_brimstone_unlock_SHE" rel_version="Territory_Brimstone_Sands">Strider of the Sands</string>
+	<string key="ui_playertitle_brimstone_unlock_THEY" rel_version="Territory_Brimstone_Sands">Strider of the Sands</string>
+	<string key="ui_playertitle_brimstone_allmsq" rel_version="Territory_Brimstone_Sands">Sword of Brimstone</string>
+	<string key="ui_playertitle_brimstone_allmsq_SHE" rel_version="Territory_Brimstone_Sands">Sword of Brimstone</string>
+	<string key="ui_playertitle_brimstone_allmsq_THEY" rel_version="Territory_Brimstone_Sands">Sword of Brimstone</string>
+	<string key="ui_playertitle_brimstone_devourer" rel_version="Territory_Brimstone_Sands">Twilight Sentinel</string>
+	<string key="ui_playertitle_brimstone_devourer_SHE" rel_version="Territory_Brimstone_Sands">Twilight Sentinel</string>
+	<string key="ui_playertitle_brimstone_devourer_THEY" rel_version="Territory_Brimstone_Sands">Twilight Sentinel</string>
+	<string key="ui_playerTitle_archaeologist" rel_version="Title_Nightmares_Prime">Archaeologist</string>
+	<string key="ui_playerTitle_archaeologist_SHE" rel_version="Title_Nightmares_Prime">Archaeologist</string>
+	<string key="ui_playerTitle_archaeologist_THEY" rel_version="Title_Nightmares_Prime">Archaeologist</string>
+	<string key="ui_playerTitle_archaeologist_description" rel_version="Title_Nightmares_Prime">Some secrets should remain buried.</string>
 </resources>
 

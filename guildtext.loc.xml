@@ -55,6 +55,7 @@
 	<string key="ui_guild_creation_failed_throttled">Company creation failed, you cannot create more than one company every 24 hours.</string>
 	<string key="ui_guild_creation_failed_invalidName">Company creation failed, invalid name.</string>
 	<string key="ui_guild_creation_failed_notInFaction">Company creation failed, you are not in a faction.</string>
+	<string key="ui_guild_cannont_accept_invite_invalid_level">Unable to accept Invite. You must be at least level {requiredLevel}.</string>
 	<string key="ui_no_guild_message">To create a Company, invite another player.</string>
 	<string key="ui_guildinviteacceptedmessage">Joined &lt;font color="#9e947e"&gt;{guildName}&lt;/font&gt;.</string>
 	<string key="ui_guildinviterecipientmessage">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; has invited you to join &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{guildName}&lt;/font&gt;.</string>
@@ -137,7 +138,7 @@
 	<string key="ui_treasury_notification_withdrawalcappeddailylimit">Treasury withdrawal failed (above daily limit).</string>
 	<string key="ui_treasury_notification_setdailylimitsuccess">Daily withdrawal limit is set to &lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage}.</string>
 	<string key="ui_treasury_notification_setdailylimitsuccessinfinite">Daily withdrawal limit is set to {infinityImage}.</string>
-	<string key="ui_treasury_notification_cointransferaldisabled">You need to be at least level {minLevel} to use the guild treasury.</string>
+	<string key="ui_treasury_notification_cointransferaldisabled">You need to be at least level {minLevel} to use the company treasury.</string>
 	<string key="ui_treasury_notification_error_generic">Treasury operation failed. Please retry.</string>
 	<string key="ui_setSiegeWindow">Set Siege Window</string>
 	<string key="ui_forDefending">For defending your territories</string>
@@ -181,6 +182,7 @@
 	<string key="ui_guildrankofficer_THEY">Officer</string>
 	<string key="ui_guildCannotInviteNoPrivilege">Unable to send Company invites. Insufficient rank.</string>
 	<string key="ui_guildCannotInviteNoFaction">Unable to send Company invites. Not in a Faction.</string>
+	<string key="ui_guildcannotpromote_nofaction">Unable to promote to Governor. Not in a Faction.</string>
 	<string key="ui_guildranksettler" comment="Pronoun for Target Player">Settler</string>
 	<string key="ui_guildranksettler_SHE">Settler</string>
 	<string key="ui_guildranksettler_THEY">Settler</string>
@@ -200,10 +202,16 @@
 	<string key="ui_kickfromcompany">Kick From Company</string>
 	<string key="ui_kickguildmember_confirm">Are you sure you want to remove {playerName} from the Company?</string>
 	<string key="ui_leaveguild">Leave Company</string>
-	<string key="ui_leaveguild_confirm">Are you sure you want to leave the Company?</string>
-	<string key="ui_leaveguild_governor_confirm">Are you sure you want to leave the Company?\n\nAnother member will be promoted to Governor when you leave, and any holdings the company has will remain with the company under the new governor.</string>
+	<string key="ui_disbandguild">Disband Company</string>
+	<string key="ui_leaveguild_confirm">If you leave the company, &lt;font color="#FFD600"&gt;the following will occur: \n\n&lt;/font&gt;</string>
+	<string key="ui_leaveguild_final_confirm">Are you sure you want to leave the company?</string>
+	<string key="ui_leaveguild_cooldown_warning">&lt;font color="#FFD600"&gt;COMPANY WAR COOLDOWN ({cooldownTimeWar}).&lt;/font&gt; While the cooldown is active, you will only be able to fight as a mercenary in any defensive wars led by the Company you join next. \n\n&lt;font color="#FFD600"&gt;COMPANY WAR VANGAURD CONTRIBUTION COOLDOWN ({cooldownTimeInfluence}).&lt;/font&gt;  While the cooldown is active, you will be able to earn Influence for your Faction by completing PVP Missions, but the influence you earn will not go toward your new Company's selection as the War Vanguard.</string>
+	<string key="ui_leaveguild_governor_confirm">&lt;font color="#FFD600"&gt;Forfeit Holdings. &lt;/font&gt;Another member will be promoted to Governor when you leave, and any holdings the company has will remain with the company under the new governor.</string>
 	<string key="ui_leaveguild_alone_confirm">You are the only member of this Company and when you leave, any holdings the Company has will be lost and the Company Wallet will be added to your wallet.</string>
 	<string key="ui_leaveguild_alone_walletwarning">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Collecting the Company Wallet will put you over the Coin Cap. If you dissolve the Company now, any excess Coin will be lost.&lt;/font&gt;</string>
+	<string key="ui_guild_influence_cooldown_heading">WAR COOLDOWN</string>
+	<string key="ui_guild_influence_cooldown_body">You have recently left a Company, and are still on cooldown for earning Vanguard Contribution along with Influence for your Faction.\n Your Influence will help your Faction, but would not weigh your Company toward being selected as the Vanguard if you declare war. \n This cooldown will end in: {cooldownTime}</string>
+	<string key="ui_cannot_leaveguild_ownwarsignup">You cannot leave while signed up for a War for your Company. Please abandon your War registration(s) first.</string>
 	<string key="ui_leftguildmessage">Left the Company.</string>
 	<string key="ui_modifycrest">Edit Crest</string>
 	<string key="ui_guildcrestsaved">New Crest Saved</string>
@@ -220,6 +228,7 @@
 	<string key="ui_becomegovernor">Become Governor</string>
 	<string key="ui_becomegovernor_SHE">Become Governor</string>
 	<string key="ui_becomegovernor_THEY">Become Governor</string>
+	<string key="ui_becomegovernor_requires_faction">Join the Guild's Faction to become Governor</string>
 	<string key="ui_permission_assign_structures">{allowed} assign Company structures</string>
 	<string key="ui_permission_build_structures">{allowed} build on Company land</string>
 	<string key="ui_permission_cancel_structures">{allowed} cancel planned structures</string>
@@ -312,7 +321,7 @@
 	<string key="ui_wardeclarationpopup_cost">Cost:</string>
 	<string key="ui_wardeclarationpopup_title">Declaration of War</string>
 	<string key="ui_wardeclarationpopup_target">vs {guildName}</string>
-	<string key="ui_wardeclarationpopup_message">During a war, both companies can attack each other without becoming criminals. During the defending company's Siege Window, the attacking company can attack their structures even if their territory is protected.</string>
+	<string key="ui_wardeclarationpopup_message">During a war, the attacking company tries to claim the defending company's territory by capturing its fort within the Siege window.</string>
 	<string key="ui_wardeclarationpopup_declarebutton">Declare War!  {cost} {coinImage}</string>
 	<string key="ui_wardeclarationpopup_mywallet" comment="When presented to the user, the name for currency is always Coin">Coin</string>
 	<string key="ui_wardeclarationpopup_extendtitle">Counter attack</string>
@@ -456,6 +465,7 @@
 	<string key="ui_cantpromote_leaderatwar">Cannot transfer Company leadership while at war</string>
 	<string key="ui_cantpromote_lackpermissionforrank">You don't have permission to promote members to your rank or above</string>
 	<string key="ui_cantpromote_lackpermission">You don't have permission to promote members</string>
+	<string key="ui_cantpromote_nonfactionmember">Member must join a Faction to be promoted</string>
 	<string key="ui_cantdemote_lowestrank">Already lowest possible rank</string>
 	<string key="ui_cantdemote_lackpermissionforrank">You don't have permission to demote members at or above your rank</string>
 	<string key="ui_cantdemote_lackpermission">You don't have permission to demote members</string>
@@ -487,6 +497,7 @@
 	<string key="ui_forcedrename">Company Rename</string>
 	<string key="ui_forcedrename_title">Company Name Change</string>
 	<string key="ui_forcedrename_description">Your company name has been flagged as inappropriate. We have assigned a temporary name that can be changed at any time.\n\nCode of Conduct:\n&lt;font color="#0000ff"&gt;&lt;a data="coc"&gt;View Code of Conduct&lt;/a&gt;&lt;/font&gt;\n\nIf you believe you have received this penalty in error, you may appeal it by visiting:\n&lt;font color="#0000ff"&gt;&lt;a data="appealban"&gt;Appeal Decision&lt;/a&gt;&lt;/font&gt;\n\nWould you like to update your company name now?</string>
+	<string key="ui_forcedrename_message">The system has changed the company name to &lt;font color="#9e947e"&gt;{guildName}&lt;/font&gt;.</string>
 	<string key="ui_conquest_active_attack">Attack</string>
 	<string key="ui_conquest_active_defend">Defend</string>
 	<string key="ui_conquest_upcoming_attack">Attack starts in</string>
@@ -538,8 +549,9 @@
 	<string key="ui_siege_signup_fightdarkness">Fight the Corrupted</string>
 	<string key="ui_siege_signup_description_attackers">You will be helping the attacking company to take this territory.\nAttackers will be playing from &lt;font color="#ffffff"&gt;The War Camp&lt;/font&gt;, and the objective is to capture the claim point in the fort.</string>
 	<string key="ui_siege_signup_description_defenders">You will be helping the defending company to keep the territory.\nDefenders will be playing from &lt;font color="#ffffff"&gt;inside of the fort&lt;/font&gt;, and the objective is to protect the claim point from being captured.</string>
-	<string key="ui_siege_signup_description_invasion">The corrupted army will attack &lt;font color="#ffffff"&gt;Fort {territoryName}&lt;/font&gt; to take over the territory and destroy the settlement.\nFight for the territory, Protect the settlement, Be part of the great battle and Get rewards!</string>
+	<string key="ui_siege_signup_description_invasion">The corrupted army will attack &lt;font color="#ffffff"&gt;Fort {territoryName}&lt;/font&gt; to take over the territory and destroy the settlement.\nFight for the territory, protect the settlement, be part of the great battle, and get rewards!</string>
 	<string key="ui_invasion_desc_short">The corrupted army will attack &lt;font color="#ffffff"&gt;Fort {territoryName}&lt;/font&gt; to take over the territory and destroy the settlement.</string>
+	<string key="ui_siege_signup_myfaction">My Faction :</string>
 	<string key="ui_siege_signup_successfultitle">Sign Up Successful!</string>
 	<string key="ui_siege_signup_war_successfulmessage">We will notify you if you are selected to be in the war as soon as possible.</string>
 	<string key="ui_siege_signup_invasion_successfulmessage">You will receive a notification 5 minutes before the invasion.</string>
@@ -552,6 +564,7 @@
 	<string key="ui_siege_signup_failed_notinfaction">You have to join a faction before you can participate in war.</string>
 	<string key="ui_siege_signup_failed_invasionlevelrequirement">You need to be at least level {minLevel} to sign up.</string>
 	<string key="ui_siege_signup_failed_banned">You have been removed from the roster by the governing company and cannot rejoin their army.</string>
+	<string key="ui_siege_signup_failed_on_defensive_cooldown">You recently left a company and cannot fight in a defensive war for your company for 72 hours</string>
 	<string key="ui_siege_signup_failed">There was a problem signing up for this war.</string>
 	<string key="ui_siege_signup_conquest_overlap_title">Are you sure?</string>
 	<string key="ui_siege_signup_conquest_overlap_confirm">You are already signed up for a war that is scheduled around the same time.\nDo you want to abandon your registration in {territoryName}?</string>
@@ -569,6 +582,7 @@
 	<string key="ui_siege_set_roster_failed_invalid_player">Couldn't move one of the selected players, please try again.</string>
 	<string key="ui_siege_set_roster_failed_no_more_selections">No more manual selections allowed, please remove a player first.</string>
 	<string key="ui_siege_set_roster_failed_waiting_for_invite_response">Cannot move a player with a pending invitation.</string>
+	<string key="ui_siege_set_roster_failed_non_company_slots_full">Cannot add any more Mercenaries (non-Company members).</string>
 	<string key="ui_siege_set_roster_failed">There was a problem modifying the roster.</string>
 	<string key="ui_siege_set_backfill_failed_not_permitted">You don't have permission to change the backfill state.</string>
 	<string key="ui_siege_set_backfill_failed_not_permitted_invasion">Backfill state cannot be changed for invasions</string>

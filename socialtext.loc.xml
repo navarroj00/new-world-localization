@@ -94,6 +94,7 @@
 	<string key="trade_column_status">Status</string>
 	<string key="trade_column_rarity">Rarity</string>
 	<string key="trade_column_craftsmanship">Craftsman-\nship</string>
+	<string key="trade_column_completion_time">Completion Time</string>
 	<string key="trade_noitemmessage">Select an Item to View</string>
 	<string key="trade_not_enough_money">Not Enough Money</string>
 	<string key="trade_none_available">Sold Out</string>
@@ -354,6 +355,7 @@
 	<string key="ui_signup_siege_window">Siege Window</string>
 	<string key="ui_signup_starts_in" comment="Time until the siege starts">Starts in</string>
 	<string key="ui_signup_your_status">Your status</string>
+	<string key="ui_signup_restriction_cooldown">Due to war cooldown, you'll be counted as a mercenary if chosen.\nYou will be able to participate as a non-mercenary in wars after: {cooldownTime}</string>
 	<string key="ui_no_permission_alert">You don't have permission to send an alert.</string>
 	<string key="ui_title_alpha">Founder</string>
 	<string key="ui_title_preorder">Expedition One</string>
@@ -551,7 +553,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationdeclined">Invitation Declined</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_ingroup">Invite Declined. Player already in Lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_pvpflagmismatched">Invite Declined. Player has mismatched PVP flagging.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_atdungeonlimit">Invite Declined. Player at Dungeon Limit.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_atdungeonlimit">Invite Declined. Player at Expedition Limit.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_mismatchedfaction">Invite Declined. Player in different Faction.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite">Invite to Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite_tooltip_not_creator">Only the Lobby creator can invite.</string>
@@ -565,6 +567,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_looking_for_more">Looking for more members...</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_outpost_rush_signup_fail">You cannot sign up while in a Lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail">You cannot enter the Expedition Queue while in a Lobby.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail_solo">You cannot enter the Soul Trial Queue while in a Lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_group_full">Group full</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_open_expedition">Open Expedition</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_min_players">A minimum of {amount} members are required to start this expedition.</string>

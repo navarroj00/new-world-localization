@@ -1,2 +1,68 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="12_RegentJinJae" gender="Female" rel_version="Quest_MSQ2_Revamp">Knight-Regent Jin Jae</string>
+	<string key="12_RegentJinJae_title" rel_version="Quest_MSQ2_Revamp">Monarch's Bluffs</string>
+	<string key="12_RegentJinJae_title1" rel_version="Quest_MSQ2_Revamp">Crowned Queen of Monarch's Bluffs</string>
+	<string key="12_Lochnir" gender="Male" rel_version="Quest_MSQ2_Revamp">Minister Lochnir</string>
+	<string key="12_Lochnir_title" rel_version="Quest_MSQ2_Revamp">Monarch's Bluffs</string>
+	<string key="12_MB_Grace_title" rel_version="Quest_MSQ2_Revamp">Shipwreck Survivor</string>
+	<string key="12_GaetanFortier" gender="Male" rel_version="Quest_MSQ2_Revamp">Gaetan Fortier</string>
+	<string key="12_GaetanFortier_title" rel_version="Quest_MSQ2_Revamp">Guard Captain</string>
+	<string key="12_AllyaMusa" gender="Female" rel_version="Quest_MSQ2_Revamp">Allya Musa</string>
+	<string key="12_AllyaMusa_title" rel_version="Quest_MSQ2_Revamp">Mine Foreman</string>
+	<string key="12_EliasDerit" gender="Male" rel_version="Quest_MSQ2_Revamp">Elias Derit</string>
+	<string key="12_EliasDerit_title" rel_version="Quest_MSQ2_Revamp">Miner</string>
+	<string key="12_AsheDubois" gender="Female" rel_version="Quest_MSQ2_Revamp">Ashe Dubois</string>
+	<string key="12_AsheDubois_title" rel_version="Quest_MSQ2_Revamp">Squire of Monarch's Bluffs</string>
+	<string key="12_SerPayneBennett" gender="Male" rel_version="Quest_MSQ2_Revamp">Ser Payne Bennett</string>
+	<string key="12_SerPayneBennett_title" rel_version="Quest_MSQ2_Revamp">Knight of Monarch's Bluffs</string>
+	<string key="12_PercillaWallen" gender="Female" rel_version="Quest_MSQ2_Revamp">Percilla Wallen</string>
+	<string key="12_PercillaWallen_title" rel_version="Quest_MSQ2_Revamp">Farmer</string>
+	<string key="12_PercillaWallen_title1" rel_version="Quest_MSQ2_Revamp">Knight of Monarch's Bluffs</string>
+	<string key="12_OldeGeiser" gender="Male" rel_version="Quest_MSQ2_Revamp">Olde Geiser</string>
+	<string key="12_OldeGeiser_title" rel_version="Quest_MSQ2_Revamp">Memorial Maker</string>
+	<string key="12_EddaYonkers" gender="Female" rel_version="Quest_MSQ2_Revamp">Edda Koning</string>
+	<string key="12_EddaYonkers_title" rel_version="Quest_MSQ2_Revamp">Seamstress</string>
+	<string key="12_FionaMurphy" gender="Female" rel_version="Quest_MSQ2_Revamp">Fiona Murphy</string>
+	<string key="12_FionaMurphy_title" rel_version="Quest_MSQ2_Revamp">Minstrel of Monarch's Bluffs</string>
+	<string key="12_HugoMolina" gender="Male" rel_version="Quest_MSQ2_Revamp">Hugo Molina</string>
+	<string key="12_HugoMolina_title" rel_version="Quest_MSQ2_Revamp">Knight of Monarch's Bluffs</string>
+	<string key="12_JeongNabi" gender="Female" rel_version="Quest_MSQ2_Revamp">Jeong Nabi</string>
+	<string key="12_JeongNabi_title" rel_version="Quest_MSQ2_Revamp">Ma-Ma</string>
+	<string key="12_JeongIseul" gender="Female" rel_version="Quest_MSQ2_Revamp">Jeong Iseul</string>
+	<string key="12_JeongIseul_title" rel_version="Quest_MSQ2_Revamp">Ma-Ma</string>
+	<string key="12_HamzaKillic" gender="Male" rel_version="Quest_MSQ2_Revamp">Hamza Killic</string>
+	<string key="12_HamzaKillic_title" rel_version="Quest_MSQ2_Revamp">Dental Mechanic</string>
+	<string key="12_OliviaBarovier" gender="Female" rel_version="Quest_MSQ2_Revamp">Olivia Barovier</string>
+	<string key="12_OliviaBarovier_title" rel_version="Quest_MSQ2_Revamp">Glassmaker</string>
+	<string key="12_CemalQadir" gender="Male" rel_version="Quest_MSQ2_Revamp">Cemal Qadir</string>
+	<string key="12_CemalQadir_title" rel_version="Quest_MSQ2_Revamp">Master Builder of Monarch's Bluffs</string>
+	<string key="12_DayoMusa" gender="Male" rel_version="Quest_MSQ2_Revamp">Dayo Musa</string>
+	<string key="12_DayoMusa_title" rel_version="Quest_MSQ2_Revamp">Cleric</string>
+	<string key="12_ShaeGarcia" gender="Female" rel_version="Quest_MSQ2_Revamp">Shae Garcia</string>
+	<string key="12_ShaeGarcia_title" rel_version="Quest_MSQ2_Revamp">Scribe of Monarch's Bluffs</string>
+	<string key="12_DonQuixolay" gender="Male" rel_version="Quest_MSQ2_Revamp">Diego Lopez</string>
+	<string key="12_DonQuixolay_title" rel_version="Quest_MSQ2_Revamp">Knight of Monarch's Bluffs</string>
+	<string key="12_GeertieLother" gender="Female" rel_version="Quest_MSQ2_Revamp">Geertie Lother</string>
+	<string key="12_GeertieLother_title" rel_version="Quest_MSQ2_Revamp">Tavern Keeper</string>
+	<string key="12_YoungeGeiser" gender="Male" rel_version="Quest_MSQ2_Revamp">Younge Geiser</string>
+	<string key="12_YoungeGeiser_title" rel_version="Quest_MSQ2_Revamp">Sage of Monarch's Bluffs</string>
+	<string key="12_ShazaanCortis" gender="Male" rel_version="Quest_MSQ2_Revamp">Shazaan Cortis</string>
+	<string key="12_ShazaanCortis_title" rel_version="Quest_MSQ2_Revamp">Miner</string>
+	<string key="12_TomiraDudek" gender="Female" rel_version="Quest_MSQ2_Revamp">Tomira Dudek</string>
+	<string key="12_TomiraDudek_title" rel_version="Quest_MSQ2_Revamp">Miner</string>
+	<string key="12_ChanduIyer" gender="Male" rel_version="Quest_MSQ2_Revamp">Chandu Iyer</string>
+	<string key="12_ChanduIyer_title" rel_version="Quest_MSQ2_Revamp">Miner</string>
+	<string key="12_KnightsDecree" gender="Object" rel_version="Quest_MSQ2_Revamp">Preserved Parchment</string>
+	<string key="12_KnightsDecree_InteractOverride" gender="Object" rel_version="Quest_MSQ2_Revamp">Read</string>
+	<string key="12_ClericLetter" gender="Object" rel_version="Quest_MSQ2_Revamp">Scrawled Musings</string>
+	<string key="12_ClericLetter_InteractOverride" gender="Object" rel_version="Quest_MSQ2_Revamp">Read</string>
+	<string key="12_AdjudicatorOwgan" gender="Female" rel_version="Quest_MSQ2_Revamp">Mora Owgan</string>
+	<string key="12_AdjudicatorOwgan_title" rel_version="Quest_MSQ2_Revamp">Adjudicator of Monarch's Bluffs</string>
+	<string key="12_AlchemistTuit" gender="Male" rel_version="Quest_MSQ2_Revamp">Gyles Tuit</string>
+	<string key="12_AlchemistTuit_title" rel_version="Quest_MSQ2_Revamp">Alchemist of Monarch's Bluffs</string>
+	<string key="12_CommanderPurcell" gender="Male" rel_version="Quest_MSQ2_Revamp">Rodger Purcell</string>
+	<string key="12_CommanderPurcell_title" rel_version="Quest_MSQ2_Revamp">Commander of Monarch's Bluffs</string>
+	<string key="12_InnkeepBiton" gender="Male" rel_version="Quest_MSQ2_Revamp">Demetrius Biton</string>
+	<string key="12_InnkeepBiton_title" rel_version="Quest_MSQ2_Revamp">The Regent's Rise Innkeep</string>
+</resources>
 

@@ -308,6 +308,9 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_title" rel_version="Expedition_CutlassKeys_00">Cleanest Keel In Aeternum</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_title_SHE" rel_version="Expedition_CutlassKeys_00">Cleanest Keel In Aeternum</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_title_THEY" rel_version="Expedition_CutlassKeys_00">Cleanest Keel In Aeternum</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_title" rel_version="Expedition_BrimstoneSands_00">Two For The Price Of One</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_title_SHE" rel_version="Expedition_BrimstoneSands_00">Two For The Price Of One</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_title_THEY" rel_version="Expedition_BrimstoneSands_00">Two For The Price Of One</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1" rel_version="Feature_Dungeon_Mutators">Excavation Excitement</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1_SHE" rel_version="Feature_Dungeon_Mutators">Excavation Excitement</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1_THEY" rel_version="Feature_Dungeon_Mutators">Excavation Excitement</string>
@@ -356,6 +359,12 @@
 	<string key="ui_metachievement_pve_mutate_dungeon_barnacles_title2" rel_version="Expedition_CutlassKeys_00">Treasure Island</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_barnacles_title2_SHE" rel_version="Expedition_CutlassKeys_00">Treasure Island</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_barnacles_title2_THEY" rel_version="Expedition_CutlassKeys_00">Treasure Island</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title1" rel_version="Expedition_BrimstoneSands_00">Scouring Things Clean</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title1_SHE" rel_version="Expedition_BrimstoneSands_00">Scouring Things Clean</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title1_THEY" rel_version="Expedition_BrimstoneSands_00">Scouring Things Clean</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title2" rel_version="Expedition_BrimstoneSands_00">Fortune And Glory</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title2_SHE" rel_version="Expedition_BrimstoneSands_00">Fortune And Glory</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title2_THEY" rel_version="Expedition_BrimstoneSands_00">Fortune And Glory</string>
 	<string key="ui_metachievement_pve_arenascompleted_title">Arena Fighting</string>
 	<string key="ui_metachievement_pve_arenascompleted_title_SHE">Arena Fighting</string>
 	<string key="ui_metachievement_pve_arenascompleted_title_THEY">Arena Fighting</string>
@@ -525,6 +534,21 @@
 	<string key="ui_metachievement_questarc_brightwood_title3">Heart Of Darkness</string>
 	<string key="ui_metachievement_questarc_brightwood_title3_SHE">Heart Of Darkness</string>
 	<string key="ui_metachievement_questarc_brightwood_title3_THEY">Heart Of Darkness</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title1" rel_version="Territory_Brimstone_Sands">The Cursed Expedition</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title1_SHE" rel_version="Territory_Brimstone_Sands">The Cursed Expedition</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title1_THEY" rel_version="Territory_Brimstone_Sands">The Cursed Expedition</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title2" rel_version="Territory_Brimstone_Sands">The Fallen Legion</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title2_SHE" rel_version="Territory_Brimstone_Sands">The Fallen Legion</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title2_THEY" rel_version="Territory_Brimstone_Sands">The Fallen Legion</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title3" rel_version="Territory_Brimstone_Sands">One For All</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title3_SHE" rel_version="Territory_Brimstone_Sands">One For All</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title3_THEY" rel_version="Territory_Brimstone_Sands">One For All</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title4" rel_version="Territory_Brimstone_Sands">Field Of Mars</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title4_SHE" rel_version="Territory_Brimstone_Sands">Field Of Mars</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title4_THEY" rel_version="Territory_Brimstone_Sands">Field Of Mars</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title5" rel_version="Territory_Brimstone_Sands">It's Alive!</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title5_SHE" rel_version="Territory_Brimstone_Sands">It's Alive!</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title5_THEY" rel_version="Territory_Brimstone_Sands">It's Alive!</string>
 	<string key="ui_metachievement_questarc_cutlasskeys_title1">Cutlass Cuisine</string>
 	<string key="ui_metachievement_questarc_cutlasskeys_title1_SHE">Cutlass Cuisine</string>
 	<string key="ui_metachievement_questarc_cutlasskeys_title1_THEY">Cutlass Cuisine</string>
@@ -564,6 +588,12 @@
 	<string key="ui_metachievement_questarc_everfall_title3">Gruel Intentions</string>
 	<string key="ui_metachievement_questarc_everfall_title3_SHE">Gruel Intentions</string>
 	<string key="ui_metachievement_questarc_everfall_title3_THEY">Gruel Intentions</string>
+	<string key="ui_metachievement_quest_everfall_reborn">Soulwardens, Reborn</string>
+	<string key="ui_metachievement_quest_everfall_reborn_SHE">Soulwardens, Reborn</string>
+	<string key="ui_metachievement_quest_everfall_reborn_THEY">Soulwardens, Reborn</string>
+	<string key="ui_metachievement_quest_everfall_steward">Everfall's Steward</string>
+	<string key="ui_metachievement_quest_everfall_steward_SHE">Everfall's Steward</string>
+	<string key="ui_metachievement_quest_everfall_steward_THEY">Everfall's Steward</string>
 	<string key="ui_metachievement_questarc_firstlight_title1">Evolution Of Corruption</string>
 	<string key="ui_metachievement_questarc_firstlight_title1_SHE">Evolution Of Corruption</string>
 	<string key="ui_metachievement_questarc_firstlight_title1_THEY">Evolution Of Corruption</string>
@@ -591,6 +621,12 @@
 	<string key="ui_metachievement_questarc_monarchsbluffs_title3">Agent Of Change</string>
 	<string key="ui_metachievement_questarc_monarchsbluffs_title3_SHE">Agent Of Change</string>
 	<string key="ui_metachievement_questarc_monarchsbluffs_title3_THEY">Agent Of Change</string>
+	<string key="ui_metachievement_quest_monarchsbluffs_msq_title">The Circlet of Swords</string>
+	<string key="ui_metachievement_quest_monarchsbluffs_msq_title_SHE">The Circlet of Swords</string>
+	<string key="ui_metachievement_quest_monarchsbluffs_msq_title_THEY">The Circlet of Swords</string>
+	<string key="ui_metachievement_quest_monarchsbluffs_side_title">In Ser Payne's Footsteps</string>
+	<string key="ui_metachievement_quest_monarchsbluffs_side_title_SHE">In Ser Payne's Footsteps</string>
+	<string key="ui_metachievement_quest_monarchsbluffs_side_title_THEY">In Ser Payne's Footsteps</string>
 	<string key="ui_metachievement_questarc_mourningdale_title1">The Padre's Price</string>
 	<string key="ui_metachievement_questarc_mourningdale_title1_SHE">The Padre's Price</string>
 	<string key="ui_metachievement_questarc_mourningdale_title1_THEY">The Padre's Price</string>
@@ -648,6 +684,18 @@
 	<string key="ui_metachievement_questarc_windsward_title4">Dauti's Diplomacy</string>
 	<string key="ui_metachievement_questarc_windsward_title4_SHE">Dauti's Diplomacy</string>
 	<string key="ui_metachievement_questarc_windsward_title4_THEY">Dauti's Diplomacy</string>
+	<string key="ui_metachievement_quest_windsward_Windmills">Tilting the Windmills</string>
+	<string key="ui_metachievement_quest_windsward_Windmills_SHE">Tilting the Windmills</string>
+	<string key="ui_metachievement_quest_windsward_Windmills_THEY">Tilting the Windmills</string>
+	<string key="ui_metachievement_quest_windsward_Power">Green Power</string>
+	<string key="ui_metachievement_quest_windsward_Power_SHE">Green Power</string>
+	<string key="ui_metachievement_quest_windsward_Power_THEY">Green Power</string>
+	<string key="ui_metachievement_quest_windsward_Resolve">Iron Resolve</string>
+	<string key="ui_metachievement_quest_windsward_Resolve_SHE">Iron Resolve</string>
+	<string key="ui_metachievement_quest_windsward_Resolve_THEY">Iron Resolve</string>
+	<string key="ui_metachievement_quest_windsward_Mercy">Medea's Mercy</string>
+	<string key="ui_metachievement_quest_windsward_Mercy_SHE">Medea's Mercy</string>
+	<string key="ui_metachievement_quest_windsward_Mercy_THEY">Medea's Mercy</string>
 	<string key="ui_metachievement_questarc_fishingtraining_title">I Be A Fisherman, I Be</string>
 	<string key="ui_metachievement_questarc_fishingtraining_title_SHE">I Be A Fisherman, I Be</string>
 	<string key="ui_metachievement_questarc_fishingtraining_title_THEY">I Be A Fisherman, I Be</string>
@@ -911,6 +959,21 @@
 	<string key="ui_metachievement_pvefactionmissions_brightwood_title5">Proper Alignment</string>
 	<string key="ui_metachievement_pvefactionmissions_brightwood_title5_SHE">Proper Alignment</string>
 	<string key="ui_metachievement_pvefactionmissions_brightwood_title5_THEY">Proper Alignment</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title1" rel_version="Territory_Brimstone_Sands">Studious Undertakings</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title1_SHE" rel_version="Territory_Brimstone_Sands">Studious Undertakings</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title1_THEY" rel_version="Territory_Brimstone_Sands">Studious Undertakings</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title2" rel_version="Territory_Brimstone_Sands">Pitching In</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title2_SHE" rel_version="Territory_Brimstone_Sands">Pitching In</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title2_THEY" rel_version="Territory_Brimstone_Sands">Pitching In</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title3" rel_version="Territory_Brimstone_Sands">Local Aid</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title3_SHE" rel_version="Territory_Brimstone_Sands">Local Aid</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title3_THEY" rel_version="Territory_Brimstone_Sands">Local Aid</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title4" rel_version="Territory_Brimstone_Sands">Service In Action</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title4_SHE" rel_version="Territory_Brimstone_Sands">Service In Action</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title4_THEY" rel_version="Territory_Brimstone_Sands">Service In Action</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title5" rel_version="Territory_Brimstone_Sands">A Localized Effect</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title5_SHE" rel_version="Territory_Brimstone_Sands">A Localized Effect</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title5_THEY" rel_version="Territory_Brimstone_Sands">A Localized Effect</string>
 	<string key="ui_metachievement_pvefactionmissions_cutlasskey_title1">Cutting A Swath</string>
 	<string key="ui_metachievement_pvefactionmissions_cutlasskey_title1_SHE">Cutting A Swath</string>
 	<string key="ui_metachievement_pvefactionmissions_cutlasskey_title1_THEY">Cutting A Swath</string>
@@ -1181,6 +1244,21 @@
 	<string key="ui_metachievement_pvpfactionmissions_brightwood_title5">Keeping Things Bright</string>
 	<string key="ui_metachievement_pvpfactionmissions_brightwood_title5_SHE">Keeping Things Bright</string>
 	<string key="ui_metachievement_pvpfactionmissions_brightwood_title5_THEY">Keeping Things Bright</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title1" rel_version="Territory_Brimstone_Sands">Blood From Stones</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title1_SHE" rel_version="Territory_Brimstone_Sands">Blood From Stones</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title1_THEY" rel_version="Territory_Brimstone_Sands">Blood From Stones</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title2" rel_version="Territory_Brimstone_Sands">Heated Encounters</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title2_SHE" rel_version="Territory_Brimstone_Sands">Heated Encounters</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title2_THEY" rel_version="Territory_Brimstone_Sands">Heated Encounters</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title3" rel_version="Territory_Brimstone_Sands">Grains Of Progress</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title3_SHE" rel_version="Territory_Brimstone_Sands">Grains Of Progress</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title3_THEY" rel_version="Territory_Brimstone_Sands">Grains Of Progress</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title4" rel_version="Territory_Brimstone_Sands">Perilous Exploits</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title4_SHE" rel_version="Territory_Brimstone_Sands">Perilous Exploits</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title4_THEY" rel_version="Territory_Brimstone_Sands">Perilous Exploits</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title5" rel_version="Territory_Brimstone_Sands">Traffic Impediments</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title5_SHE" rel_version="Territory_Brimstone_Sands">Traffic Impediments</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title5_THEY" rel_version="Territory_Brimstone_Sands">Traffic Impediments</string>
 	<string key="ui_metachievement_pvpfactionmissions_cutlasskey_title1">Our Wits Make Us What We Are</string>
 	<string key="ui_metachievement_pvpfactionmissions_cutlasskey_title1_SHE">Our Wits Make Us What We Are</string>
 	<string key="ui_metachievement_pvpfactionmissions_cutlasskey_title1_THEY">Our Wits Make Us What We Are</string>
@@ -1679,6 +1757,21 @@
 	<string key="ui_metachievement_skilllevelfishing_title5">Fishing Master</string>
 	<string key="ui_metachievement_skilllevelfishing_title5_SHE">Fishing Master</string>
 	<string key="ui_metachievement_skilllevelfishing_title5_THEY">Fishing Master</string>
+	<string key="ui_metachievement_skilllevelmusic_title1">Novice Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title1_SHE">Novice Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title1_THEY">Novice Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title2">Apprentice Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title2_SHE">Apprentice Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title2_THEY">Apprentice Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title3">Journeyman Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title3_SHE">Journeywoman Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title3_THEY">Journeyman Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title4">Expert Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title4_SHE">Expert Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title4_THEY">Expert Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title5">Master Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title5_SHE">Master Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title5_THEY">Master Musician</string>
 	<string key="ui_metachievement_skilllevelexpert_title1">Aptitude For The Trades</string>
 	<string key="ui_metachievement_skilllevelexpert_title1_SHE">Aptitude For The Trades</string>
 	<string key="ui_metachievement_skilllevelexpert_title1_THEY">Aptitude For The Trades</string>
@@ -1730,9 +1823,9 @@
 	<string key="ui_metachievement_gearsstatbonus_intelligence_title2">I See It as Sapphire. Or Maybe Teal</string>
 	<string key="ui_metachievement_gearsstatbonus_intelligence_title2_SHE">I See It as Sapphire. Or Maybe Teal</string>
 	<string key="ui_metachievement_gearsstatbonus_intelligence_title2_THEY">I See It as Sapphire. Or Maybe Teal</string>
-	<string key="ui_metachievement_gearsstatbonus_intelligence_title3">A Transcendent Seafoam With A Splash of Arctic</string>
-	<string key="ui_metachievement_gearsstatbonus_intelligence_title3_SHE">A Transcendent Seafoam With A Splash of Arctic</string>
-	<string key="ui_metachievement_gearsstatbonus_intelligence_title3_THEY">A Transcendent Seafoam With A Splash of Arctic</string>
+	<string key="ui_metachievement_gearsstatbonus_intelligence_title3">A Transcendent Sea Foam With A Splash of Arctic</string>
+	<string key="ui_metachievement_gearsstatbonus_intelligence_title3_SHE">A Transcendent Sea Foam With A Splash of Arctic</string>
+	<string key="ui_metachievement_gearsstatbonus_intelligence_title3_THEY">A Transcendent Sea Foam With A Splash of Arctic</string>
 	<string key="ui_metachievement_gearsstatbonus_focus_title1">Can Do Homework While Listening To Music</string>
 	<string key="ui_metachievement_gearsstatbonus_focus_title1_SHE">Can Do Homework While Listening To Music</string>
 	<string key="ui_metachievement_gearsstatbonus_focus_title1_THEY">Can Do Homework While Listening To Music</string>
@@ -1772,6 +1865,18 @@
 	<string key="ui_metachievement_territorystanding_brightwood_title4">Brightwood: When Everyone Knows Your Name</string>
 	<string key="ui_metachievement_territorystanding_brightwood_title4_SHE">Brightwood: When Everyone Knows Your Name</string>
 	<string key="ui_metachievement_territorystanding_brightwood_title4_THEY">Brightwood: When Everyone Knows Your Name</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title1" rel_version="Territory_Brimstone_Sands">Brimstone Sands: Making Headway</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title1_SHE" rel_version="Territory_Brimstone_Sands">Brimstone Sands: Making Headway</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title1_THEY" rel_version="Territory_Brimstone_Sands">Brimstone Sands: Making Headway</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title2" rel_version="Territory_Brimstone_Sands">Brimstone Sands: Earning A Good Reputation</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title2_SHE" rel_version="Territory_Brimstone_Sands">Brimstone Sands: Earning A Good Reputation</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title2_THEY" rel_version="Territory_Brimstone_Sands">Brimstone Sands: Earning A Good Reputation</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title3" rel_version="Territory_Brimstone_Sands">Brimstone Sands: Helping Out Is Its Own Reward</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title3_SHE" rel_version="Territory_Brimstone_Sands">Brimstone Sands: Helping Out Is Its Own Reward</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title3_THEY" rel_version="Territory_Brimstone_Sands">Brimstone Sands: Helping Out Is Its Own Reward</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title4" rel_version="Territory_Brimstone_Sands">Brimstone Sands: When Everyone Knows Your Name</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title4_SHE" rel_version="Territory_Brimstone_Sands">Brimstone Sands: When Everyone Knows Your Name</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title4_THEY" rel_version="Territory_Brimstone_Sands">Brimstone Sands: When Everyone Knows Your Name</string>
 	<string key="ui_metachievement_territorystanding_cutlasskeys_title1">Cutlass Keys: Making Headway</string>
 	<string key="ui_metachievement_territorystanding_cutlasskeys_title1_SHE">Cutlass Keys: Making Headway</string>
 	<string key="ui_metachievement_territorystanding_cutlasskeys_title1_THEY">Cutlass Keys: Making Headway</string>
@@ -2054,6 +2159,15 @@
 	<string key="ui_metachievement_weaponmastery_blunderbuss_title3">This Is My Boom Stick!</string>
 	<string key="ui_metachievement_weaponmastery_blunderbuss_title3_SHE">This Is My Boom Stick!</string>
 	<string key="ui_metachievement_weaponmastery_blunderbuss_title3_THEY">This Is My Boom Stick!</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title1">This Blade You Can Trust</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title1_SHE">This Blade You Can Trust</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title1_THEY">This Blade You Can Trust</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title2">Power Is The Hand That Wields It</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title2_SHE">Power Is The Hand That Wields It</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title2_THEY">Power Is The Hand That Wields It</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title3">All Is Riven Asunder</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title3_SHE">All Is Riven Asunder</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title3_THEY">All Is Riven Asunder</string>
 	<string key="ui_metachievement_repairscount_title1">Handy With A Bit Of Tape</string>
 	<string key="ui_metachievement_repairscount_title1_SHE">Handy With A Bit Of Tape</string>
 	<string key="ui_metachievement_repairscount_title1_THEY">Handy With A Bit Of Tape</string>
@@ -2141,9 +2255,9 @@
 	<string key="ui_metachievement_craftcount_furnishing_title5">It All Starts With Using Good Wood</string>
 	<string key="ui_metachievement_craftcount_furnishing_title5_SHE">It All Starts With Using Good Wood</string>
 	<string key="ui_metachievement_craftcount_furnishing_title5_THEY">It All Starts With Using Good Wood</string>
-	<string key="ui_metachievement_craftcount_jewelcrafting_title1">A Litte Crude, But It's Real Silver</string>
-	<string key="ui_metachievement_craftcount_jewelcrafting_title1_SHE">A Litte Crude, But It's Real Silver</string>
-	<string key="ui_metachievement_craftcount_jewelcrafting_title1_THEY">A Litte Crude, But It's Real Silver</string>
+	<string key="ui_metachievement_craftcount_jewelcrafting_title1">A Little Crude, But It's Real Silver</string>
+	<string key="ui_metachievement_craftcount_jewelcrafting_title1_SHE">A Little Crude, But It's Real Silver</string>
+	<string key="ui_metachievement_craftcount_jewelcrafting_title1_THEY">A Little Crude, But It's Real Silver</string>
 	<string key="ui_metachievement_craftcount_jewelcrafting_title2">EAR Training: Earrings, Amulets And Rings</string>
 	<string key="ui_metachievement_craftcount_jewelcrafting_title2_SHE">EAR Training: Earrings, Amulets And Rings</string>
 	<string key="ui_metachievement_craftcount_jewelcrafting_title2_THEY">EAR Training: Earrings, Amulets And Rings</string>
@@ -2384,6 +2498,9 @@
 	<string key="ui_metachievement_lore_pagescount_brightwood_title">Recover &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Tales Of Brightwood&lt;/font&gt;</string>
 	<string key="ui_metachievement_lore_pagescount_brightwood_title_SHE">Recover &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Tales Of Brightwood&lt;/font&gt;</string>
 	<string key="ui_metachievement_lore_pagescount_brightwood_title_THEY">Recover &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Tales Of Brightwood&lt;/font&gt;</string>
+	<string key="ui_metachievement_lore_pagescount_brimstone_title" rel_version="Territory_Brimstone_Sands">Recover &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Tales Of Brimstone Sands&lt;/font&gt;</string>
+	<string key="ui_metachievement_lore_pagescount_brimstone_title_SHE" rel_version="Territory_Brimstone_Sands">Recover &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Tales Of Brimstone Sands&lt;/font&gt;</string>
+	<string key="ui_metachievement_lore_pagescount_brimstone_title_THEY" rel_version="Territory_Brimstone_Sands">Recover &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Tales Of Brimstone Sands&lt;/font&gt;</string>
 	<string key="ui_metachievement_lore_pagescount_cutlasskeys_title">Recover &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Tales Of Cutlass Keys&lt;/font&gt;</string>
 	<string key="ui_metachievement_lore_pagescount_cutlasskeys_title_SHE">Recover &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Tales Of Cutlass Keys&lt;/font&gt;</string>
 	<string key="ui_metachievement_lore_pagescount_cutlasskeys_title_THEY">Recover &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Tales Of Cutlass Keys&lt;/font&gt;</string>
@@ -2474,6 +2591,9 @@
 	<string key="ui_metachievement_firstnamedcraft_blunderbuss_title">Craft A Named Blunderbuss</string>
 	<string key="ui_metachievement_firstnamedcraft_blunderbuss_title_SHE">Craft A Named Blunderbuss</string>
 	<string key="ui_metachievement_firstnamedcraft_blunderbuss_title_THEY">Craft A Named Blunderbuss</string>
+	<string key="ui_metachievement_firstnamedcraft_greatsword_title">Craft A Named Greatsword</string>
+	<string key="ui_metachievement_firstnamedcraft_greatsword_title_SHE">Craft A Named Greatsword</string>
+	<string key="ui_metachievement_firstnamedcraft_greatsword_title_THEY">Craft A Named Greatsword</string>
 	<string key="ui_metachievement_craft_namedweaponcount_title1">It's More Luck Than Skill</string>
 	<string key="ui_metachievement_craft_namedweaponcount_title1_SHE">It's More Luck Than Skill</string>
 	<string key="ui_metachievement_craft_namedweaponcount_title1_THEY">It's More Luck Than Skill</string>
@@ -2612,6 +2732,9 @@
 	<string key="ui_metachievement_territorypoicount_brightwood_title">Get To Know Brightwood</string>
 	<string key="ui_metachievement_territorypoicount_brightwood_title_SHE">Get To Know Brightwood</string>
 	<string key="ui_metachievement_territorypoicount_brightwood_title_THEY">Get To Know Brightwood</string>
+	<string key="ui_metachievement_territorypoicount_brimstone_title" rel_version="Territory_Brimstone_Sands">Get To Know Brimstone Sands</string>
+	<string key="ui_metachievement_territorypoicount_brimstone_title_SHE" rel_version="Territory_Brimstone_Sands">Get To Know Brimstone Sands</string>
+	<string key="ui_metachievement_territorypoicount_brimstone_title_THEY" rel_version="Territory_Brimstone_Sands">Get To Know Brimstone Sands</string>
 	<string key="ui_metachievement_territorypoicount_cutlasskey_title">Get To Know Cutlass Keys</string>
 	<string key="ui_metachievement_territorypoicount_cutlasskey_title_SHE">Get To Know Cutlass Keys</string>
 	<string key="ui_metachievement_territorypoicount_cutlasskey_title_THEY">Get To Know Cutlass Keys</string>
@@ -2699,6 +2822,9 @@
 	<string key="ui_metachievement_reached_shatteredmountainhome_title">Mountainhome Outpost: An Experience Of A Lifetime</string>
 	<string key="ui_metachievement_reached_shatteredmountainhome_title_SHE">Mountainhome Outpost: An Experience Of A Lifetime</string>
 	<string key="ui_metachievement_reached_shatteredmountainhome_title_THEY">Mountainhome Outpost: An Experience Of A Lifetime</string>
+	<string key="ui_metachievement_reached_brimstonetown_title" rel_version="Territory_Brimstone_Sands">Go Big Or Go Home, At 'New Corsica'</string>
+	<string key="ui_metachievement_reached_brimstonetown_title_SHE" rel_version="Territory_Brimstone_Sands">Go Big Or Go Home, At 'New Corsica'</string>
+	<string key="ui_metachievement_reached_brimstonetown_title_THEY" rel_version="Territory_Brimstone_Sands">Go Big Or Go Home, At 'New Corsica'</string>
 	<string key="ui_metachievement_reached_ebonscalehamlet_title">Live Like Royalty, In 'Ebonscale Hamlet'</string>
 	<string key="ui_metachievement_reached_ebonscalehamlet_title_SHE">Live Like Royalty, In 'Ebonscale Hamlet'</string>
 	<string key="ui_metachievement_reached_ebonscalehamlet_title_THEY">Live Like Royalty, In 'Ebonscale Hamlet'</string>
@@ -2734,6 +2860,7 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_shipyard_desc">Defeat Empress Zhou in the Dynasty Shipyard.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_isabellalair_desc" rel_version="Expedition_ShatterMtn_00">Defeat Isabella in Tempest's Heart.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_desc" rel_version="Expedition_CutlassKeys_00">Defeat Siren Queen in Barnacles And Black Powder.</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_desc" rel_version="Expedition_BrimstoneSands_00">Defeat the Goliaths of Ennead in the Ennead.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Amrine Excavation, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_obelisk_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Starstone Barrows, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_depths_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete The Depths, difficulty {number}.</string>
@@ -2742,6 +2869,7 @@
 	<string key="ui_metachievement_pve_mutate_dungeon_shipyard_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Dynasty Shipyard, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_isabellalair_generic_desc" rel_version="Expedition_ShatterMtn_00">Complete !undefined dungeon!, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_barnacle_generic_desc" rel_version="Expedition_CutlassKeys_00">Complete Barnacles And Black Powder, difficulty {number}.</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_ennead_generic_desc" rel_version="Expedition_BrimstoneSands_00">Complete the Ennead, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_arenascompleted_desc">Complete {number} arena battles.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_covenant_desc">Personally defeat {number} Covenant players.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_marauder_desc">Personally defeat {number} Marauder players.</string>
@@ -2758,6 +2886,11 @@
 	<string key="ui_metachievement_questarc_brightwood_desc1">Complete the Brightwood arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Inquisitor's Legacy&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_brightwood_desc2">Complete the Brightwood arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Secrets of the Earth&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_brightwood_desc3">Complete the Brightwood arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Dark Legacy&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_brimstonesands_desc1" rel_version="Territory_Brimstone_Sands">Complete the Brimstone Sands arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Secrets in the Sands&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_brimstonesands_desc2" rel_version="Territory_Brimstone_Sands">Complete the Brimstone Sands arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;A Hero No More&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_brimstonesands_desc3" rel_version="Territory_Brimstone_Sands">Complete the Brimstone Sands arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;The Missing Praetorians&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_brimstonesands_desc4" rel_version="Territory_Brimstone_Sands">Complete the Brimstone Sands arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Cursed Across Centuries&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_brimstonesands_desc5" rel_version="Territory_Brimstone_Sands">Complete the Brimstone Sands arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Audience with the Pontifex&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_cutlasskeys_desc1">Complete the Cutlass Keys arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Out of the Frying Pan&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_cutlasskeys_desc2">Complete the Cutlass Keys arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;In Search of Plunder&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_cutlasskeys_desc3">Complete the Cutlass Keys arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Explosive Prospecting&lt;/font&gt;.</string>
@@ -2771,6 +2904,8 @@
 	<string key="ui_metachievement_questarc_everfall_desc1">Complete the Everfall arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Opening Supply Lines&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_everfall_desc2">Complete the Everfall arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Stars as Our Guide&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_everfall_desc3">Complete the Everfall arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Tainting the Tainted&lt;/font&gt;.</string>
+	<string key="ui_metachievement_quest_everfall_reborn_desc">Your efforts to become a Soulwarden have been noticed by all, enemies and allies alike.</string>
+	<string key="ui_metachievement_quest_everfall_steward_desc">Helping the citizens of Everfall with all of their woes has earned you their respect and admiration.</string>
 	<string key="ui_metachievement_questarc_firstlight_desc1">Complete the First Light arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Dayspring Barley&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_firstlight_desc2">Complete the First Light arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Truth and Consequences&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_firstlight_desc3">Complete the First Light arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;One Threat at a Time&lt;/font&gt;.</string>
@@ -2780,6 +2915,8 @@
 	<string key="ui_metachievement_questarc_monarchsbluffs_desc1">Complete the Monarch's Bluffs arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Between Settlements&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_monarchsbluffs_desc2">Complete the Monarch's Bluffs arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Taste Of Honey&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_monarchsbluffs_desc3">Complete the Monarch's Bluffs arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Friends In Fashion&lt;/font&gt;.</string>
+	<string key="ui_metachievement_quest_monarchsbluffs_msq_desc">The True Ruler wears the crown because of you! Monarch's Bluff will be eternally grateful.</string>
+	<string key="ui_metachievement_quest_monarchsbluffs_side_desc">You didn't deny anyone who needed help. Such chivalry! You'd make a fine knight.</string>
 	<string key="ui_metachievement_questarc_mourningdale_desc1">Complete the Mourningdale arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Tears of a Wraith&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_mourningdale_desc2">Complete the Mourningdale arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Après Moi, le Déluge&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_mourningdale_desc3">Complete the Mourningdale arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Abandoned Duties&lt;/font&gt;.</string>
@@ -2799,6 +2936,10 @@
 	<string key="ui_metachievement_questarc_windsward_desc2">Complete the Windsward arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;No Confidence Stew&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_windsward_desc3">Complete the Windsward arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Predator, Prey&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_windsward_desc4">Complete the Windsward arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;To the Rescue&lt;/font&gt;.</string>
+	<string key="ui_metachievement_quest_windsward_windmills_desc">The Windsward windmills are turning once more.</string>
+	<string key="ui_metachievement_quest_windsward_power_desc">Restored power to all the Verdant Gemstones in Windsward.</string>
+	<string key="ui_metachievement_quest_windsward_resolve_desc">Helped start a new order of the Iron Rose Mercenaries</string>
+	<string key="ui_metachievement_quest_windsward_mercy_desc">Convinced Medea to give Windsward a second chance.</string>
 	<string key="ui_metachievement_questarc_fishingtraining_desc">Complete the fishing quest arc that starts with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Fishing With Shields&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questtotals_generic_desc">Complete {number} quests.</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_generic_desc">Do {number} Arcana PvE faction missions.</string>
@@ -2818,6 +2959,7 @@
 	<string key="ui_metachievement_pvefactionmissions_loot_generic_desc">Do {number} Covenant &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Reclaim&lt;/font&gt; or Marauder &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Loot&lt;/font&gt; or Syndicate &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Collect&lt;/font&gt; missions.</string>
 	<string key="ui_metachievement_pvefactionmissions_raid_generic_desc">Do {number} Covenant &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Crusade&lt;/font&gt; or Marauder &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Raid&lt;/font&gt; or Syndicate &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Purge&lt;/font&gt; missions.</string>
 	<string key="ui_metachievement_pvefactionmissions_brightwood_generic_desc">Fulfill {number} PvE faction missions in Brightwood.</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_generic_desc" rel_version="Territory_Brimstone_Sands">Fulfill {number} PvE faction missions in Brimstone Sands.</string>
 	<string key="ui_metachievement_pvefactionmissions_cutlasskey_generic_desc">Fulfill {number} PvE faction missions in Cutlass Keys.</string>
 	<string key="ui_metachievement_pvefactionmissions_edengrove_generic_desc">Fulfill {number} PvE faction missions in Edengrove.</string>
 	<string key="ui_metachievement_pvefactionmissions_everfall_generic_desc">Fulfill {number} PvE faction missions in Everfall.</string>
@@ -2836,6 +2978,7 @@
 	<string key="ui_metachievement_pvpfactionmissions_Intercept_generic_desc">Complete {number} Intercept PvP faction missions.</string>
 	<string key="ui_metachievement_pvpfactionmissions_Poach_generic_desc">Do {number} Covenant &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Tithe&lt;/font&gt; or Marauder &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Pillage&lt;/font&gt; or Syndicate &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Disrupt&lt;/font&gt; missions.</string>
 	<string key="ui_metachievement_pvpfactionmissions_brightwood_generic_desc">Fulfill {number} PvP faction missions in Brightwood.</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_generic_desc" rel_version="Territory_Brimstone_Sands">Fulfill {number} PvP faction missions in Brimstone Sands.</string>
 	<string key="ui_metachievement_pvpfactionmissions_cutlasskey_generic_desc">Fulfill {number} PvP faction missions in Cutlass Keys.</string>
 	<string key="ui_metachievement_pvpfactionmissions_edengrove_generic_desc">Fulfill {number} PvP faction missions in Edengrove.</string>
 	<string key="ui_metachievement_pvpfactionmissions_everfall_generic_desc">Fulfill {number} PvP faction missions in Everfall.</string>
@@ -2869,6 +3012,7 @@
 	<string key="ui_metachievement_skilllevelmining_generic_desc">Reach Mining skill level {number}.</string>
 	<string key="ui_metachievement_skillleveltracknskin_generic_desc">Reach Tracking &amp; Skinning skill level {number}.</string>
 	<string key="ui_metachievement_skilllevelfishing_generic_desc">Reach Fishing skill level {number}.</string>
+	<string key="ui_metachievement_skilllevelmusic_generic_desc">Reach Music skill level {number}.</string>
 	<string key="ui_metachievement_skilllevelexpert_generic_desc">Get all Trade Skills up to {number}.</string>
 	<string key="ui_metachievement_gearscoreprogression_desc">Get an equippable item with at least {number} Gear Score.</string>
 	<string key="ui_metachievement_gearsstatbonus_str_generic_desc">Equipped items boost Strength by at least {number}.</string>
@@ -2895,6 +3039,7 @@
 	<string key="ui_metachievement_weaponmastery_icegauntlet_generic_desc">Reach Ice Gauntlet Mastery level {number}.</string>
 	<string key="ui_metachievement_weaponmastery_voidgauntlet_generic_desc">Reach Void Gauntlet Mastery level {number}.</string>
 	<string key="ui_metachievement_weaponmastery_blunderbuss_generic_desc">Reach Blunderbuss Mastery level {number}.</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_generic_desc">Reach Greatsword Mastery level {number}.</string>
 	<string key="ui_metachievement_repairscount_generic_desc">Repair {number} inventory items.</string>
 	<string key="ui_metachievement_craftcount_armoring_generic_desc">Craft {number} Armoring items.</string>
 	<string key="ui_metachievement_craftcount_cooking_generic_desc">Craft {number} Cooking items.</string>
@@ -3096,38 +3241,65 @@
 	<string key="ui_metaachievement_Music_Easy1_title">Stage Hand</string>
 	<string key="ui_metaachievement_Music_Easy1_title_SHE">Stage Hand</string>
 	<string key="ui_metaachievement_Music_Easy1_title_THEY">Stage Hand</string>
-	<string key="ui_metaachievement_Music_Easy1_desc">Complete 1 novice song with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Easy1_desc">Complete 1 Novice song with an Amazing score.</string>
 	<string key="ui_metaachievement_Music_Easy2_title">Performer</string>
 	<string key="ui_metaachievement_Music_Easy2_title_SHE">Performer</string>
 	<string key="ui_metaachievement_Music_Easy2_title_THEY">Performer</string>
-	<string key="ui_metaachievement_Music_Easy2_desc">Complete 10 unique novice songs with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Easy2_desc">Complete 10 unique Novice songs with an Amazing score.</string>
 	<string key="ui_metaachievement_Music_Easy3_title">Minstrel</string>
 	<string key="ui_metaachievement_Music_Easy3_title_SHE">Minstrel</string>
 	<string key="ui_metaachievement_Music_Easy3_title_THEY">Minstrel</string>
-	<string key="ui_metaachievement_Music_Easy3_desc">Complete 25 unique novice songs with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Easy3_desc">Complete 25 unique Novice songs with an Amazing score.</string>
 	<string key="ui_metaachievement_Music_Medium1_title">Musician</string>
 	<string key="ui_metaachievement_Music_Medium1_title_SHE">Musician</string>
 	<string key="ui_metaachievement_Music_Medium1_title_THEY">Musician</string>
-	<string key="ui_metaachievement_Music_Medium1_desc">Complete 1 skilled song with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Medium1_desc">Complete 1 Skilled song with an Amazing score.</string>
 	<string key="ui_metaachievement_Music_Medium2_title">Muse</string>
 	<string key="ui_metaachievement_Music_Medium2_title_SHE">Muse</string>
 	<string key="ui_metaachievement_Music_Medium2_title_THEY">Muse</string>
-	<string key="ui_metaachievement_Music_Medium2_desc">Complete 10 unique skilled songs with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Medium2_desc">Complete 10 unique Skilled songs with an Amazing score.</string>
 	<string key="ui_metaachievement_Music_Medium3_title">Bard</string>
 	<string key="ui_metaachievement_Music_Medium3_title_SHE">Bard</string>
 	<string key="ui_metaachievement_Music_Medium3_title_THEY">Bard</string>
-	<string key="ui_metaachievement_Music_Medium3_desc">Complete 25 unique skilled songs with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Medium3_desc">Complete 25 unique Skilled songs with an Amazing score.</string>
 	<string key="ui_metaachievement_Music_Hard1_title">Virtuoso</string>
 	<string key="ui_metaachievement_Music_Hard1_title_SHE">Virtuoso</string>
 	<string key="ui_metaachievement_Music_Hard1_title_THEY">Virtuoso</string>
-	<string key="ui_metaachievement_Music_Hard1_desc">Complete 1 expert song with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Hard1_desc">Complete 1 Expert song with an Amazing score.</string>
 	<string key="ui_metaachievement_Music_Hard2_title">Maestro</string>
 	<string key="ui_metaachievement_Music_Hard2_title_SHE">Maestro</string>
 	<string key="ui_metaachievement_Music_Hard2_title_THEY">Maestro</string>
-	<string key="ui_metaachievement_Music_Hard2_desc">Complete 10 unqiue expert songs with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Hard2_desc">Complete 10 unqiue Expert songs with an Amazing score.</string>
 	<string key="ui_metaachievement_Music_Hard3_title">Prodigy</string>
 	<string key="ui_metaachievement_Music_Hard3_title_SHE">Prodigy</string>
 	<string key="ui_metaachievement_Music_Hard3_title_THEY">Prodigy</string>
-	<string key="ui_metaachievement_Music_Hard3_desc">Complete 25 unique expert songs with an amazing score.</string>
+	<string key="ui_metaachievement_Music_Hard3_desc">Complete 25 unique Expert songs with an Amazing score.</string>
+	<string key="ui_metachievement_reached_brimstonewikala_title" rel_version="Territory_Brimstone_Sands">Gaze Upon Dunes, At Wikala al-Waha Outpost</string>
+	<string key="ui_metachievement_reached_brimstonetaberna_title" rel_version="Territory_Brimstone_Sands">Beat The Heat, In Taberna Mercatus Outpost</string>
+	<string key="ui_metachievement_quest_brimstonesands_allmsq_title" rel_version="Territory_Brimstone_Sands">Sword of Brimstone</string>
+	<string key="ui_metachievement_quest_brimstonesands_allzq_title" rel_version="Territory_Brimstone_Sands">New Corsican Champion</string>
+	<string key="ui_metachievement_quest_brimstonesands_allsq_title" rel_version="Territory_Brimstone_Sands">Desert Hawk</string>
+	<string key="ui_metachievement_quest_brimstonesands_coronation_title" rel_version="Territory_Brimstone_Sands">Queenmaker</string>
+	<string key="ui_metachievement_quest_brimstonesands_devourer_title" rel_version="Territory_Brimstone_Sands">Twilight Sentinel</string>
+	<string key="ui_metachievement_quest_brimstonesands_unlock_title" rel_version="Territory_Brimstone_Sands">Strider of the Sands</string>
+	<string key="ui_metachievement_quest_brimstonesands_activateennead_title" rel_version="Territory_Brimstone_Sands">Herald of Night</string>
+	<string key="ui_metachievement_quest_brimstonesands_thothshrine_title" rel_version="Territory_Brimstone_Sands">Opener of the Way</string>
+	<string key="ui_metachievement_quest_brimstonesands_heartgem_title" rel_version="Territory_Brimstone_Sands">Radiance of the Soulwarden</string>
+	<string key="ui_metachievement_quest_brimstonesands_allmsq_desc" rel_version="Territory_Brimstone_Sands">Having banished the primordial demon Apophis back to the sands, you have become a legend to all of Brimstone Sands.</string>
+	<string key="ui_metachievement_quest_brimstonesands_allzq_desc" rel_version="Territory_Brimstone_Sands">Your deeds have defeated the Corrupted Legion, restored order, and brought renewed hope to the people of New Corsica.</string>
+	<string key="ui_metachievement_quest_brimstonesands_allsq_desc" rel_version="Territory_Brimstone_Sands">Your heroic deeds throughout Brimstone have spread your legend to the farthest reaches of the land.</string>
+	<string key="ui_metachievement_quest_brimstonesands_coronation_desc" rel_version="Territory_Brimstone_Sands">Having ushered in Cleopatra's new reign as Queen of Brimstone Sands, you have become her greatest defender and most trusted confidant.</string>
+	<string key="ui_metachievement_quest_brimstonesands_devourer_desc" rel_version="Territory_Brimstone_Sands">You've discovered the reawakening of Shah-Neshen the Devourer, the Terror of the Desert whom all beings fear.</string>
+	<string key="ui_metachievement_quest_brimstonesands_unlock_desc" rel_version="Territory_Brimstone_Sands">You have unlocked the secret to enduring the blistering heat of Brimstone opening the way into this land of mystery.</string>
+	<string key="ui_metachievement_quest_brimstonesands_activateennead_desc" rel_version="Territory_Brimstone_Sands">Like the Ancients of old, you have activated the Gate of Night and sent forth a beacon into the impenetrable dark.</string>
+	<string key="ui_metachievement_quest_brimstonesands_thothshrine_desc" rel_version="Territory_Brimstone_Sands">You have reactivated the Ancient's miraculous portals, allowing for swift travel across the vast land of Brimstone Sands.</string>
+	<string key="ui_metachievement_quest_brimstonesands_heartgem_desc" rel_version="Territory_Brimstone_Sands">The secrets of improving your Heartgem have been revealed to you, forging you into an even more formidable champion of Aeternum.</string>
+	<string key="ui_metachievement_lore_brimstone_ancientglyphs_title" rel_version="Territory_Brimstone_Sands">Scrivener of the Ancients</string>
+	<string key="ui_metachievement_lore_brimstone_ancientglyphs_desc" rel_version="Territory_Brimstone_Sands">Having found all of the Ancient glyphs, your journey towards enlightenment has only just begun…</string>
+	<string key="ui_metachievement_hidden_brimstone">Keep playing in Brimstone Sands to complete this hidden achievement.</string>
+	<string key="ui_metachievement_hidden_brimstone_ancientglyphs">Collect more Ancient glyphs in Brimstone Sands to complete this hidden achievement.</string>
+	<string key="ui_metachievement_hidden_monarchs">Keep playing in Monarch's Bluffs to complete this hidden achievement.</string>
+	<string key="ui_metachievement_hidden_windsward">Keep playing in Windsward to complete this hidden achievement.</string>
+	<string key="ui_metachievement_hidden_everfall">Keep playing in Everfall to complete this hidden achievement.</string>
 </resources>
 

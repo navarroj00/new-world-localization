@@ -73,7 +73,7 @@
 	<string key="mm_loginservices_Commerce">Your account has been locked for suspicious activity. Please reach out to customer service for more information.</string>
 	<string key="mm_loginservices_warning_title">WARNING</string>
 	<string key="mm_loginservices_warning_BannedOffensiveName">Your Character's name was flagged as inappropriate. When logging back in, you will be asked to rename it.</string>
-	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">Your Company's name was flagged as inappropriate and was updated. You may rename it at any time in the Company UI panel [G].</string>
+	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">Your Company's name was flagged as inappropriate and was updated. You may rename it at any time in the Company UI panel [F4].</string>
 	<string key="mm_loginservices_warning_BannedHacking">You have been flagged for hacking</string>
 	<string key="mm_loginservices_warning_BannedCheating">You have been flagged for cheating</string>
 	<string key="mm_loginservices_warning_BannedExploit">You have been flagged for exploiting a bug</string>
@@ -82,7 +82,7 @@
 	<string key="mm_loginservices_warning_BannedLeaking">You have been flagged for leaking protected content</string>
 	<string key="mm_loginservices_warning_BannedDisruptive">You have been flagged for disruptive behavior</string>
 	<string key="mm_loginservices_warning_OffensiveName">Your Character's name was flagged as inappropriate. When logging back in, you will be asked to rename it.</string>
-	<string key="mm_loginservices_warning_OffensiveCompanyName">Your Company's name was flagged as inappropriate and was updated. You may rename it at any time in the Company UI panel [G].</string>
+	<string key="mm_loginservices_warning_OffensiveCompanyName">Your Company's name was flagged as inappropriate and was updated. You may rename it at any time in the Company UI panel [F4].</string>
 	<string key="mm_loginservices_warning_Cheating">You have been flagged for cheating</string>
 	<string key="mm_loginservices_warning_Exploit">You have been flagged for exploiting a bug</string>
 	<string key="mm_loginservices_warning_Botting">You have been flagged for bot activity</string>
@@ -105,6 +105,7 @@
 	<string key="mm_loginservices_NotEligibleForFTUE">Login denied: FTUE was already completed.</string>
 	<string key="mm_loginservices_InternalError">Login malfunction, please try again soon.</string>
 	<string key="mm_loginservices_InternalServerErrorException">Login server malfunction, please try again soon.</string>
+	<string key="mm_loginservices_InternalFailureException">Login server malfunction, please try again later.</string>
 	<string key="mm_loginservices_CredentialsError">Invalid credentials for login services.</string>
 	<string key="mm_loginservices_NameLengthError">Invalid name length.</string>
 	<string key="mm_loginservices_NameNotAvailableError">This name is in use.</string>
@@ -115,6 +116,8 @@
 	<string key="mm_loginservices_UnableToConnectError">Unable to connect to login service. Reconnecting, please wait...</string>
 	<string key="mm_loginservices_TooManyRequestsException">Login server is too busy, please try again soon.</string>
 	<string key="mm_loginservices_NoConnection">Login service isn't available at this moment. This may indicate trouble connecting to the internet. Reconnecting, please wait...</string>
+	<string key="mm_loginservices_SteamAuthRequired">Steam authentication failure.\nPlease exit the game, restart Steam, and try again.</string>
+	<string key="mm_loginservices_NO_GATEWAY">Login configuration is not valid.</string>
 	<string key="mm_loginservices_location_DEFAULT000">You are queueing for the open world...</string>
 	<string key="mm_loginservices_location_FTUE000">You are queueing as a new player...</string>
 	<string key="mm_loginservices_location_FTUE9011">You are queueing as a new player...</string>
@@ -173,6 +176,8 @@
 	<string key="mm_rejected_No_Ghost_Client">Server error: Failed to start replication.</string>
 	<string key="mm_rejected_Server_Crash">Unexpectedly lost contact with gameplay server, please try again later.</string>
 	<string key="mm_rejected_Free_Session_Expired">Free play time has ended.</string>
+	<string key="mm_rejected_Client_Kicked_Login_Ticket_Error">Login ticket is not valid for the world</string>
+	<string key="mm_rejected_Player_Not_Entitled_To_World">Access denied: Not entitled to this game world.</string>
 	<string key="mm_rejected_Client_Kicked_Title">Kicked</string>
 	<string key="mm_rejected_Client_Kicked_NoMessage">You have been kicked from the game.</string>
 	<string key="mm_rejected_Client_Kicked_AFK">You have been kicked from the game for being away too long.</string>
@@ -300,7 +305,7 @@
 	<string key="ui_how_it_works">How It Works</string>
 	<string key="ui_pvp_track_skills_tab" rel_version="PvP_Rewards_Track">PvP</string>
 	<string key="ui_pvp_track" rel_version="PvP_Rewards_Track">PvP Track</string>
-	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Checkpoint {checkpoint}:&lt;/font&gt; {currentProgression}/{maxProgression}\n\nProgress your track by engaging in PvP Missions, War, Outpost Rush, Capturing Forts, Defeating other players, 3v3 Arenas and earning XP while flagged.</string>
+	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Checkpoint {checkpoint}:&lt;/font&gt; {currentProgression}/{maxProgression}\n\nProgress your track by engaging in PvP Missions, War, Outpost Rush, Capturing Forts, Defeating other players and 3v3 Arenas.</string>
 	<string key="ui_pvp_track_next_track_tooltip" rel_version="PvP_Rewards_Track">You must complete all the checkpoints before starting the next track. If you choose a reward from each checkpoint, you will automatically start the next track.\n\nFor every checkpoint that you forgo choosing a reward, you’ll be granted 300 Azoth Salt when the next track starts.</string>
 	<string key="ui_pvp_track_unknown_item_tooltip" rel_version="PvP_Rewards_Track">Reward options will be revealed after completing the checkpoint.</string>
 	<string key="ui_pvp_track_completions" comment="The number of times they have completed the track. Like a level" rel_version="PvP_Rewards_Track">Tracks Completed</string>
@@ -322,7 +327,7 @@
 	<string key="ui_pvp_track_tut_title3" rel_version="PvP_Rewards_Track">Azoth Salt</string>
 	<string key="ui_pvp_track_tut_title4" rel_version="PvP_Rewards_Track">Rewards</string>
 	<string key="ui_pvp_track_tut_desc1" rel_version="PvP_Rewards_Track">The PvP Reward Track contains PvP-specific rewards for doing PvP activities in the game. The track can be completed and run again to get a different selection of rewards, with more prestigious rewards becoming available as more tracks are completed.</string>
-	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Progress your track by engaging in PvP Missions, War, Outpost Rush, Capturing Forts, Defeating other players, 3v3 Arenas and earning XP while flagged.</string>
+	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Progress your track by engaging in PvP Missions, War, Outpost Rush, Capturing Forts, Defeating other players and 3v3 Arenas.</string>
 	<string key="ui_pvp_track_tut_desc3" rel_version="PvP_Rewards_Track">Azoth Salt is the currency that gets you rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, PvP open world kills, and earning XP while flagged.</string>
 	<string key="ui_pvp_track_tut_desc4" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
 	<string key="ui_pvp_track_leveltext" rel_version="PvP_Rewards_Track">&lt;font color="#FFFFFF" &gt;{level}&lt;/font&gt; Tracks Completed</string>
@@ -337,7 +342,7 @@
 	<string key="ui_pvp_track_bannerrewards_2" rel_version="PvP_Rewards_Track">Reward Pool: \n+Named Equipment \n+More Currency</string>
 	<string key="ui_pvp_track_bannerrewards_3" rel_version="PvP_Rewards_Track">Reward Pool: \n+Prestige Equipment  \n+Emote \n+Salt Vial Packs</string>
 	<string key="ui_pvp_track_bannerrewards_4" rel_version="PvP_Rewards_Track">Reward Pool: \n+Gypsum \n+More Currency \n+More Umbral Shards</string>
-	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Reward Pool: \n+Emote \n+More Umbral Shards </string>
+	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Reward Pool: \n+Emote \n+More Umbral Shards</string>
 	<string key="ui_pvp_track_bannerrewards_6" rel_version="PvP_Rewards_Track">Reward Pool: \n+Emote \n+More Currency \n+More Item Drops</string>
 	<string key="ui_pvp_track_next_milestone" rel_version="PvP_Rewards_Track">{milestone} Track Milestone At:</string>
 	<string key="ui_pvp_track_milestone" rel_version="PvP_Rewards_Track">{milestone} Track Milestone</string>
@@ -446,7 +451,7 @@
 	<string key="inv_salvage_tooltip_range_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {min}-{max} {itemName} and {numRepairParts} Repair Parts. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {min}-{max} {itemName} and {coinAmount}. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Salvaging this item will return {min}-{max} {itemName}, {numRepairParts} Repair Parts, and {coinAmount}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front">There is a small chance of recovering the attached gem.</string>
+	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front">There is a chance of recovering the attached gem.</string>
 	<string key="inv_salvage_tooltip_additional_item" comment="This only applies to fishing when there is a chance to receive additional items.">Additional items such as {itemName} may also be acquired.</string>
 	<string key="inv_salvage_tooltip_recipe">Salvaging this item will teach you the {recipeName} recipe.</string>
 	<string key="inv_salvage_tooltip_recipe_known">You already know the {recipeName} recipe.</string>
@@ -472,6 +477,7 @@
 	<string key="minspec_os_win7_warning">Warning: Windows 7 detected.  New World is best experienced on Windows 10 or greater.  Your experience may be sub-optimal.</string>
 	<string key="minspec_fail_try_again">Please check the failure log to further determine what minimum requirement is failing.</string>
 	<string key="ui_rename_character">Character Rename</string>
+	<string key="ui_rename">Rename</string>
 	<string key="ui_rename_character_title">Character Name</string>
 	<string key="ui_rename_report_description">Your Character's name was flagged as inappropriate. When logging back in, you will be asked to rename it.</string>
 	<string key="ui_rename_required">You are required to rename &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{name}&lt;/font&gt;.</string>

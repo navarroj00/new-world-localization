@@ -107,7 +107,10 @@
 	<string key="crafting_no_bonus">No bonus can be added to this item.</string>
 	<string key="crafting_tree_learned">Learned</string>
 	<string key="crafting_tree_unlearned">Unlearned</string>
+	<string key="crafting_quality_fixed">This bar indicates the gear score range that the item will craft within.</string>
 	<string key="crafting_quality_desc">This bar indicates the gear score range that the item will craft within. Its base is governed by your skill level. You can also use different tiers and rarities of resources to adjust this range.</string>
+	<string key="crafting_quality_expertise">This bar indicates the gear score range that the item will craft within. The gear score for this item will be calculated based on your {expertiseName} Expertise and Player Level.\n(Current {expertiseName} Expertise: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
+	<string key="crafting_recipe_expertise">The gear score for this item will be calculated based on your {expertiseName} Expertise and Player Level.\n(Current {expertiseName} Expertise: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
 	<string key="crafting_quest_recipes">Recipes from Quests</string>
 	<string key="crafting_select_resources">Select Resources</string>
 	<string key="new_recipe_unlocked">NEW RECIPE UNLOCKED</string>
@@ -208,7 +211,7 @@
 	<string key="ui_dyes">Dyes.</string>
 	<string key="ui_armordyes">Armor Dyes</string>
 	<string key="ui_craftprogress">Crafting {amount} of {maximum}</string>
-	<string key="ui_crafting_summary_header">Crafting Results</string>
+	<string key="ui_crafting_summary_header">Items Crafted</string>
 	<string key="ui_crafted_from">Crafted From {item}</string>
 	<string key="ui_stationName">{station}</string>
 	<string key="crafting_sort_name">Sort by Name</string>
@@ -225,5 +228,10 @@
 	<string key="crafting_category_select_title">SELECT {type}</string>
 	<string key="crafting_discount_base">Base Fee</string>
 	<string key="ui_crafting_resource_origin_message">Note: Resources used are first taken from your inventory, then your settlement storage.</string>
+	<string key="cr_firstcraft_bonusavailable">First Craft Bonus Available</string>
+	<string key="cr_firstcraft_bonus">First Craft Bonus</string>
+	<string key="cr_tradeskillbonus_title">Trade Skill XP Bonus</string>
+	<string key="cr_tradeskillbonus_basecraft">Trade Skill XP Bonus</string>
+	<string key="cr_tradeskillbonus_description">You get an extra trade skill XP bonus for crafting a recipe for the first time.</string>
 </resources>
 

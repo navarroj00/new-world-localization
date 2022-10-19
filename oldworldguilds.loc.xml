@@ -43,8 +43,10 @@
 	<string key="owg_drop_item_title">Drop Mission Item</string>
 	<string key="owg_drop_item_warning">Dropping or Storing this item will destroy it.</string>
 	<string key="owg_entershop_button">Buy Rewards</string>
+	<string key="owg_price_update">Prices have changed due to Faction activity</string>
 	<string key="owg_faction_select_no">No, let me think about it.</string>
 	<string key="owg_faction_select_title">Join This Faction?</string>
+	<string key="owg_faction_select_title_incompany">Warning! Your Company Has A Different Faction!</string>
 	<string key="owg_faction_select_warning">This decision cannot be undone.</string>
 	<string key="owg_faction_select_yes">Yes, align with the {faction}.</string>
 	<string key="owg_faction_select_confirm">You will only be able to join a Company with players of the same Faction. If flagged for PVP, you will only be able to group up with players from the same Faction. Before joining, you might want to double-check the Faction choices of your friends in New World.\n\nYour choice isn't permanent--you can change your faction from the Bio screen once. After that, you can change it again every &lt;font color="#FFD45F"&gt;60 days&lt;/font&gt;.</string>
@@ -101,7 +103,7 @@
 	<string key="owg_factionwarinfo_title_5" rel_version="PvP_Rewards_Track">PVP REWARD TRACK</string>
 	<string key="owg_factionwarinfo_title_5_desc_1_bullet_1" rel_version="PvP_Rewards_Track">The PvP Reward Track contains PvP-specific rewards for doing PvP activities in the game. The track can be completed and run again to get a different selection of rewards, with more prestigious rewards becoming available as more tracks are completed.</string>
 	<string key="owg_factionwarinfo_title_5_desc_2" rel_version="PvP_Rewards_Track">PVP XP</string>
-	<string key="owg_factionwarinfo_title_5_desc_2_bullet_1" rel_version="PvP_Rewards_Track">Progress your track by engaging in PvP Missions, War, Outpost Rush, Capturing Forts, Defeating other players, 3v3 Arenas and earning XP while flagged.</string>
+	<string key="owg_factionwarinfo_title_5_desc_2_bullet_1" rel_version="PvP_Rewards_Track">Progress your track by engaging in PvP Missions, War, Outpost Rush, Capturing Forts, Defeating other players and 3v3 Arenas.</string>
 	<string key="owg_factionwarinfo_title_5_desc_3" rel_version="PvP_Rewards_Track">AZOTH SALT</string>
 	<string key="owg_factionwarinfo_title_5_desc_3_bullet_1" rel_version="PvP_Rewards_Track">Azoth Salt is the currency that gets you rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, PvP open world kills, and earning XP while flagged.</string>
 	<string key="owg_factionwarinfo_title_5_desc_4" rel_version="PvP_Rewards_Track">REWARDS</string>
@@ -240,8 +242,8 @@
 	<string key="owg_pvp_cannotacceptmission_nofaction">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; until you join a faction.</string>
 	<string key="owg_pvp_cannotacceptmission_nosanctuary">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; until you are in a sanctuary.</string>
 	<string key="owg_pvp_cannotacceptmission_typeblocked">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; of this type at this time.</string>
-	<string rel_version="Feature_Group_Finder" key="owg_pvp_cannotacceptmission_ingroupfindergroup">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are in a PvE Lobby which will not allow you to turn on your PvP flag.</string>
-	<string rel_version="Feature_Group_Finder" key="owg_pvp_cannotacceptmission_pendinggroupfinderapplications">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you have Lobby invites which will not allow you to turn on your PvP flag.</string>
+	<string key="owg_pvp_cannotacceptmission_ingroupfindergroup" rel_version="Feature_Group_Finder">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are in a PvE Lobby which will not allow you to turn on your PvP flag.</string>
+	<string key="owg_pvp_cannotacceptmission_pendinggroupfinderapplications" rel_version="Feature_Group_Finder">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you have Lobby invites which will not allow you to turn on your PvP flag.</string>
 	<string key="owg_pvp_cannotacceptmission_unknown">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; at this time.</string>
 	<string key="owg_tooltip_warning">Only 1 Mission can be active at a time.</string>
 	<string key="owg_unlock_previous_rank">Unlocked Rank {rankName}</string>
@@ -274,11 +276,29 @@
 	<string key="ui_faction_desc1">Clever Disciples who fight with Cunning for the sake of Truth and Progress</string>
 	<string key="ui_faction_desc2">Proud Warriors who fight with Honor for Glory and Self-Improvement</string>
 	<string key="ui_faction_desc3">Divine Champions who fight with Conviction for Righteousness and Justice</string>
+	<string key="ui_faction_calltoaction1" rel_version="Feature_Faction_Selection">Master the secrets of Aeternum for knowledge is power</string>
+	<string key="ui_faction_calltoaction2" rel_version="Feature_Faction_Selection">Claim honor and glory through strength of arms</string>
+	<string key="ui_faction_calltoaction3" rel_version="Feature_Faction_Selection">Wield the Light of Justice and banish the darkness</string>
+	<string key="ui_become_a">Become a</string>
+	<string key="ui_faction_calltoaction_title1">Clever Sage</string>
+	<string key="ui_faction_calltoaction_title2">Proud Warrior</string>
+	<string key="ui_faction_calltoaction_title3">Divine Champion</string>
 	<string key="ui_faction_none">None</string>
 	<string key="ui_faction_name1">Syndicate</string>
 	<string key="ui_faction_name2">Marauders</string>
 	<string key="ui_faction_name3">Covenant</string>
+	<string key="ui_faction_name_with_article1">The Syndicate</string>
+	<string key="ui_faction_name_with_article2">The Marauders</string>
+	<string key="ui_faction_name_with_article3">The Covenant</string>
+	<string key="ui_faction_join_name1">Join the Syndicate</string>
+	<string key="ui_faction_join_name2">Join the Marauders</string>
+	<string key="ui_faction_join_name3">Join the Covenant</string>
+	<string key="ui_stats_friends_in_faction">{friendCountInFaction} Friends in Faction</string>
+	<string key="ui_stats_faction_tokens">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{factionTokens}&lt;/font&gt; Tokens</string>
+	<string key="ui_stats_faction_rep">{factionRep} Faction Reputation</string>
+	<string key="ui_faction_items_label">Do missions to earn items like</string>
 	<string key="ui_faction_unaligned">Unaligned</string>
+	<string key="ui_unlocks_pvp">Unlocks PvP</string>
 	<string key="CMissionExplore_Name">Explorers Needed</string>
 	<string key="CMissionExplore_Desc">Search for &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; at &lt;font color="#eaeaea"&gt;{POITags}.&lt;/font&gt;Return here for delivery.</string>
 	<string key="CMissionAcquireBlock_Name">Stonemasons Needed</string>
@@ -296,6 +316,7 @@
 	<string key="CMissionHuntCreature_Name">{enemyName} Hunters Needed</string>
 	<string key="CMissionHuntCreature_Desc">Hunt &lt;font color="#eaeaea"&gt;{killAmount} {enemyName}&lt;/font&gt;</string>
 	<string key="CMissionAcquire1_Desc">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt;.</string>
+	<string key="CMissionAcquire1_Desc_Cook">Cook and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt;.</string>
 	<string key="M_fetch_title">Explore and Find</string>
 	<string key="M_fetch_desc">Search for &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt;</string>
 	<string key="M_kill_token_title">Defeat and Acquire</string>
@@ -338,7 +359,7 @@
 	<string key="FactionMission_RAID_title">Raid: {POITags}</string>
 	<string key="FactionMission_RAID_desc">We've identified a threat to Marauder interests in this region.\n\nGo to {POITags} and defeat every &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; necessary - with extreme prejudice.</string>
 	<string key="FactionMission_EXPLORE_title">Scout: {POITags}</string>
-	<string key="FactionMission_EXPLORE_desc">Perform reconnaissance here to give the Marauders an edge. \n\nYour report is critical to formulate our strategy.</string>
+	<string key="FactionMission_EXPLORE_desc">Perform reconnaissance at {POITags} to give the Marauders an edge. \n\nYour report is critical to formulate our strategy.</string>
 	<string key="FactionMission_LOOT_title">Plunder: {POITags}</string>
 	<string key="FactionMission_LOOT_desc">There are items at {POITags} that could be valuable to the Marauder campaign. \n\nAcquire each &lt;font color="#eaeaea"&gt;{itemName}&lt;/font&gt; using whatever means necessary.</string>
 	<string key="FactionMission_HUNT_title">Hunt: {POITags}</string>
@@ -360,23 +381,23 @@
 	<string key="FactionMission_C_HUNT_title">Hunt: {POITags}</string>
 	<string key="FactionMission_C_HUNT_desc">We need supplies to support the Covenant cause.\n\nHunt the {POITags} area for the &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; that roam there and bring us back your yield.</string>
 	<string key="FactionMission_PILLAGE_title">Sabotage</string>
-	<string key="FactionMission_PILLAGE_desc">Weaken our enemy by destructing their resources.</string>
+	<string key="FactionMission_PILLAGE_desc">Weaken our enemy by destructing their resources at {POITags}.</string>
 	<string key="FactionMission_SHOWOFSTRENGTH_title">Show of Strength (PvP)</string>
 	<string key="FactionMission_SHOWOFSTRENGTH_desc">All of Aeturnum belongs to us. Prove it.</string>
 	<string key="FactionMission_INFILTRATE_title">Infiltrate (PvP)</string>
-	<string key="FactionMission_INFILTRATE_desc">Retrieve Marauder asset and await further instructions.</string>
+	<string key="FactionMission_INFILTRATE_desc">Retrieve Marauder assets from {POITags}.</string>
 	<string key="FactionMission_DISRUPT_title">Disrupt (PvP)</string>
-	<string key="FactionMission_DISRUPT_desc">Capture or destroy resources before they can be used against us.</string>
+	<string key="FactionMission_DISRUPT_desc">Capture or destroy resources at {POITags} before they can be used against us.</string>
 	<string key="FactionMission_STABILIZE_title">Stabilize (PvP)</string>
-	<string key="FactionMission_STABILIZE_desc">This spot is of strategic import. Don't let it fall into enemy hands.</string>
+	<string key="FactionMission_STABILIZE_desc">{POITags} is of strategic import. Don't let it fall into enemy hands.</string>
 	<string key="FactionMission_GATHERINTEL_title">Gather Intel (PvP)</string>
-	<string key="FactionMission_GATHERINTEL_desc">Retrieve important experiment data and wait for instructions.</string>
+	<string key="FactionMission_GATHERINTEL_desc">Retrieve important experiment data from the cache at {POITags}.</string>
 	<string key="FactionMission_TITHE_title">Tithe (PvP)</string>
 	<string key="FactionMission_TITHE_desc">Starve the enemy, feed the Spark.</string>
 	<string key="FactionMission_SANCTIFY_title">Sanctify (PvP)</string>
-	<string key="FactionMission_SANCTIFY_desc">Liberate this area. Stand strong, walk in the light.</string>
+	<string key="FactionMission_SANCTIFY_desc">Liberate {POITags}. Stand strong, walk in the light.</string>
 	<string key="FactionMission_PRESERVE_title">Preserve (PvP)</string>
-	<string key="FactionMission_PRESERVE_desc">Help deliver the good news of the Spark.</string>
+	<string key="FactionMission_PRESERVE_desc">Bless {POITags} with the light of the Spark.</string>
 	<string key="FactionMission_EXPEDITIONRAID_title">Raid: {POITags}</string>
 	<string key="FactionMission_EXPEDITIONRAID_desc">Delve into {POITags} for the Marauders and defeat every &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; necessary. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_EXPEDITIONRAID_desc_singular">Delve into {POITags} for the Marauders and defeat &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
@@ -516,5 +537,14 @@
 	<string key="CMissionAcquireWoodWorker">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Woodshop.</string>
 	<string key="CMissionAcquireOutfitter">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from an Outfitting Station.</string>
 	<string key="CMissionAcquireEngineer">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Workshop.</string>
+	<string key="ui_already_in_faction">You are already in this faction</string>
+	<string key="ui_cant_switch_faction_pvp">Cannot change factions while flagged for PvP</string>
+	<string key="ui_cant_switch_faction_azoth">Not enough Azoth</string>
+	<string key="ui_cant_switch_faction_sanctuary">You must be in a sanctuary to change factions</string>
+	<string key="ui_cant_switch_faction_war">You cannot change factions while signed up for a war</string>
+	<string key="ui_cant_switch_faction_intro">You have not yet proven yourself to this faction. Talk to a faction representative to join.</string>
+	<string key="ui_cant_switch_faction_incompany">You are currently in a company associated with a different faction. If you continue, You will be removed from that company.\n\nYou will only be able to join a Company with players of the same Faction. If flagged for PVP, you will only be able to group up with players from the same Faction. Before joining, you might want to double-check the Faction choices of your friends in New World.\n\nYour choice isn't permanent--you can change your faction from the Bio screen once. After that, you can change it again every &lt;font color="#FFD45F"&gt;60 days&lt;/font&gt;.</string>
+	<string key="ui_join">Join</string>
+	<string key="ui_faction_join_restrictions">You can switch factions once every 60 days. You will only be able to join companies of your own faction.</string>
 </resources>
 

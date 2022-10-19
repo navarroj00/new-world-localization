@@ -23,6 +23,7 @@
 	<string key="inv_furniture">Furniture</string>
 	<string key="inv_outpostrush">Outpost Rush</string>
 	<string key="inv_pvparenas">PvP Arenas</string>
+	<string key="inv_runes" rel_version="Feature_Heartgems">Runes</string>
 	<string key="inv_crafting_modifiers">Craft Mods</string>
 	<string key="inv_repair_kit_count">{count} Repair Kit</string>
 	<string key="inv_repair_kits">Repair Kits</string>
@@ -64,21 +65,33 @@
 	<string key="inv_equipLoadNormal">Medium</string>
 	<string key="inv_equipLoadSlow">Heavy</string>
 	<string key="inv_equipLoadOverburdened">Over-Equipped</string>
-	<string key="inv_equipLoadTooltip">The combined weight of your equipped armor and shield determines your Equip Load. Each Equip Load offers a unique dodge and other bonuses.</string>
-	<string key="inv_equipLoadFastTooltip">While wearing light armor, your dodge is a quick roll that covers a lot of distance and consumes {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} stamina. You deal {[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]}% bonus damage and have 30% bonus healing.</string>
-	<string key="inv_equipLoadNormalTooltip">While wearing medium weight armor, your dodge is a quick hop that consumes {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} stamina. Crowd control debuffs you apply last 10% longer. You deal {[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]}% bonus damage.</string>
-	<string key="inv_equipLoadSlowTooltip">While wearing heavy armor, your dodge is a slow sidestep that consumes {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} stamina. Your block stability is increased by 15% and crowd control debuffs you apply last 20% longer.  You have -30% reduced healing.</string>
-	<string key="inv_equipLoadOverburdenedTooltip">When you exceed your maximum Equip Load, you cannot dodge, sprint or use abilities. You should unequip some items.</string>
-	<string key="inv_equipLoadEncumberedTooltip">You are carrying too much in your inventory. While encumbered, it doesn't matter what your Equip Load is. You cannot sprint or dodge and lose more stamina while blocking. You should remove some items from your bag.</string>
-	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">You have equipped more than your maximum equip load. You cannot dodge or sprint, and you suffer a significant penalty to stamina recharge rate. You should unequip some items.</string>
+	<string key="inv_equipLoadTooltip">The combined weight of your equipped armor and shield determines your Equip Load. Each Equip Load offers a unique dodge and various other effects.</string>
+	<string key="inv_equipLoadFastTooltip">Your dodge is a quick roll that covers a large distance. This equip load has the following effects: 
+	\n• Dodge Stamina Cost: {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]}
+	\n• Base Damage: +{[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]}% increase 
+	\n• Outgoing Healing: +30% increase 
+	\n• For {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.</string>
+	<string key="inv_equipLoadNormalTooltip">Your dodge is a quick hop. This equip load has the following effects: \n• Dodge Stamina Cost: {[StaminaCosts_Player.Dodge_Roll.StaminaCost]}
+	\n• Base Damage: +{[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]}% increase 
+	\n• Outgoing Crowd Control Debuffs: +10% increased duration 
+	\n• For {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.</string>
+	<string key="inv_equipLoadSlowTooltip">Your dodge is a directional step. This equip load has the following effects: 
+	\n• Dodge Stamina Cost: {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]}
+	\n• Block Stability: +15% increase
+	\n• Outgoing Crowd Control Debuffs: +20% increased duration 
+	\n• Outgoing Healing: -30% decrease
+	\n• For {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]}s after taking a melee hit, you cannot run.</string>
+	<string key="inv_equipLoadOverburdenedTooltip">When you exceed your maximum Equip Load, you cannot dodge, run, or use abilities. You should unequip some items.</string>
+	<string key="inv_equipLoadEncumberedTooltip">You are carrying too much in your inventory. While encumbered, it doesn't matter what your Equip Load is. You cannot run or dodge and lose more stamina while blocking. You should remove some items from your bag.</string>
+	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">You have equipped more than your maximum equip load. You cannot dodge or run, and you suffer a significant penalty to stamina recharge rate. You should unequip some items.</string>
 	<string key="inv_equipLoadFastNotification">Equip Load is now Light</string>
 	<string key="inv_equipLoadNormalNotification">Equip Load is now Medium</string>
 	<string key="inv_equipLoadSlowNotification">Equip Load is now Heavy</string>
-	<string key="inv_equipLoadOverburdenedNotification">Over-Equipped - Cannot dodge or sprint</string>
-	<string key="inv_equipLoadEncumberedNotification">Encumbered - Cannot dodge, jump, or sprint</string>
+	<string key="inv_equipLoadOverburdenedNotification">Over-Equipped - Cannot dodge or run</string>
+	<string key="inv_equipLoadEncumberedNotification">Encumbered - Cannot dodge, jump, or run</string>
 	<string key="inv_encumbranceTooltip">Your encumbrance is the total weight of everything in your bag. Equipped items do not affect it. You can increase your maximum encumbrance by equipping bags.</string>
 	<string key="inv_encumbranceUnencumberedTooltip">While carrying less than your weight limit, your encumbrance does not affect you.</string>
-	<string key="inv_encumbranceEncumberedTooltip">When you are carrying too much in your inventory, you cannot dodge, run, or sprint. Once maximum encumbrance is reached, you can no longer move or attack. You should remove some items from your bag.</string>
+	<string key="inv_encumbranceEncumberedTooltip">When you are carrying too much in your inventory, you cannot dodge, run, or run. Once maximum encumbrance is reached, you can no longer move or attack. You should remove some items from your bag.</string>
 	<string key="inv_does_not_meet_weapon_requirements">Insufficient attributes</string>
 	<string key="inv_encumbranceAttackNotification">Too encumbered to attack</string>
 	<string key="inv_insufficientManaNotification">Insufficient Mana</string>
@@ -97,6 +110,7 @@
 	<string key="inv_repairparts_resources_atlimit">Salvaging this item will return {min}-{max} {itemName} and &lt;font color="#f25d5d"&gt;{numRepairParts} Repair Parts.&lt;/font&gt;</string>
 	<string key="inv_repairparts_onlyrepairparts">Salvaging this item will return {numRepairParts} Repair Parts.</string>
 	<string key="inv_repairparts_onlyrepairparts_withcoin">Salvaging this item will return {numRepairParts} Repair Parts and {coinAmount}.</string>
+	<string key="inv_coin_atlimit">&lt;font color="#f25d5d"&gt;You are at your Coin Cap.&lt;/font&gt;</string>
 	<string key="salvage_notification_obtained_1">Obtained {entry1}</string>
 	<string key="salvage_notification_obtained_2">Obtained {entry1} and {entry2}</string>
 	<string key="salvage_notification_obtained_3">Obtained {entry1}, {entry2} and {entry3}</string>

@@ -17,6 +17,7 @@
 	<string key="BlockT4_RefinedAt">Stonecutter Tier 4</string>
 	<string key="BlockT5_RefinedAt">Stonecutter Tier 5</string>
 	<string key="BlockT51_RefinedAt">Stonecutter Tier 5</string>
+	<string key="PerfectSalvage_Timer_RefinedAt">Stonecutter Tier 5</string>
 	<string key="FlintT1_DerivedFrom">Found on the ground.</string>
 	<string key="OreT1_DerivedFrom">Iron Veins</string>
 	<string key="OreT4_DerivedFrom">Starmetal Veins</string>
@@ -50,10 +51,10 @@
 	<string key="ClothT5_RefinedAt">Loom Tier 5</string>
 	<string key="ClothT51_RefinedAt">Loom Tier 5</string>
 	<string key="ScalyHideT1_DerivedFrom">Alligators</string>
-	<string key="SandT1_DerivedFrom" xsi:nil="true"/>
-	<string key="SandT2_DerivedFrom" xsi:nil="true"/>
-	<string key="SandT3_DerivedFrom" xsi:nil="true"/>
-	<string key="SandT4_DerivedFrom" xsi:nil="true"/>
+	<string key="SandT1_DerivedFrom">Sandstone</string>
+	<string key="SandT2_DerivedFrom">Sandstone</string>
+	<string key="SandT3_DerivedFrom">Sandstone</string>
+	<string key="SandT4_DerivedFrom">Sandstone</string>
 	<string key="FaeIronT1_DerivedFrom">Iron Veins, Rare</string>
 	<string key="VoidsteelT1_DerivedFrom">Iron Veins, Rare</string>
 	<string key="BlessedCrucibleT1_DerivedFrom">Supply Containers, Rare</string>
@@ -221,6 +222,7 @@
 	<string key="PaprikaT1_DerivedFrom">Herb Plants</string>
 	<string key="GingerT1_DerivedFrom">Herb Plants</string>
 	<string key="GarlicT1_DerivedFrom">Herb Plants</string>
+	<string key="AloeGelT1_DerivedFrom">Succulent Plants</string>
 	<string key="SaltT1_DerivedFrom">Provision Containers</string>
 	<string key="SugarT1_DerivedFrom">Provision Containers</string>
 	<string key="SeasoningBlendT1_DerivedFrom">Kitchen Tier 2</string>
@@ -3309,5 +3311,10 @@
 	<string key="LightLegs_ArenaAncient1T5_DerivedFrom">Encounters with Powerful Ancients</string>
 	<string key="LightFeet_ArenaAncient1T4_DerivedFrom">Encounters with Powerful Ancients</string>
 	<string key="LightFeet_ArenaAncient1T5_DerivedFrom">Encounters with Powerful Ancients</string>
+	<string key="EnrichedRedMeatT5_DerivedFrom" rel_version="Territory_Brimstone_Sands">Animals in the Brimstone Sands territory</string>
+	<string key="EnrichedMeatPortionT5_DerivedFrom" rel_version="Territory_Brimstone_Sands">Kitchen Tier 2</string>
+	<string key="ArmadilloMeatT5_DerivedFrom" rel_version="Territory_Brimstone_Sands">Armadillos</string>
+	<string key="ScorpionMeatT5_DerivedFrom" rel_version="Territory_Brimstone_Sands">Scorpions</string>
+	<string key="FishSauceT1_DerivedFrom" rel_version="Territory_Brimstone_Sands">Kitchen Tier 2</string>
 </resources>
 

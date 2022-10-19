@@ -23,6 +23,7 @@
 	<string key="ui_groupinviteacceptsentmessage" comment="">Accepted group invite from &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt;.</string>
 	<string key="ui_groupinviteacceptraid" comment="">Accepted group invite</string>
 	<string key="ui_groupinvitedeclinesentmessage" comment="">Declined group invite from &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt;.</string>
+	<string key="ui_groupinvitedeclinesentmessage_withsource" comment="">Group invite from &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; declined by &lt;font color="#ffffff"&gt;{sourcePlayerName}&lt;/font&gt;.</string>
 	<string key="ui_groupinvitedeclineraid" comment="">Declined group invite</string>
 	<string key="ui_groupinvitedeclinerequeue" comment="">Re-entered queue because a player declined</string>
 	<string key="ui_groupinvitewithdrawnreceivermessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; withdrew his group invite.</string>
@@ -31,6 +32,8 @@
 	<string key="ui_groupinvitewithdrawnsendermessage" comment="">Withdrew group invite to &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt;.</string>
 	<string key="ui_groupinvitewithdrawnraid" comment="">Group invite withdrawn</string>
 	<string key="ui_leftgroupmessage" comment="">Left Group</string>
+	<string key="ui_kickedfromgroupmessage" comment="">You have been kicked from your group.</string>
+	<string key="ui_groupmemberkickedmessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; was kicked from the group.</string>
 	<string key="ui_groupmemberleftmessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; left the group.</string>
 	<string key="ui_groupmemberjoinedmessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; joined the group.</string>
 	<string key="ui_joinedgroupmessage" comment="">Joined Group</string>
@@ -54,7 +57,7 @@
 	<string key="ui_cannotinvite" comment="">You cannot invite someone at this time.</string>
 	<string key="ui_cannotinviteingroup" comment="">You cannot invite someone in your group.</string>
 	<string key="ui_cannotinvitegroupfull" comment="">Your group is already full.</string>
-	<string key="ui_cannotinviteinraid" comment="">You cannot invite someone during a War.</string>
+	<string key="ui_cannotinviteinWar" comment="">You cannot invite someone during a War.</string>
 	<string key="ui_cannotinviteinInvasion" comment="">You cannot invite someone during an Invasion.</string>
 	<string key="ui_cannotinvitein_pvp_wrong_faction" comment="">Must be in same faction for PvP group.</string>
 	<string key="ui_cannotleavegroup_in_arena" comment="">You cannot leave your group while in an Arena.</string>
@@ -191,6 +194,7 @@
 	<string key="ui_backfill_auto_tooltip" comment="">Automatically backfill players from Standby list based on sign up time.</string>
 	<string key="ui_backfill_manual_tooltip" comment="">Manually select players from Standby list to backfill abandoned spots.</string>
 	<string key="ui_raid_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
+	<string key="ui_raid_count_with_mercenaries" comment="">Mercenaries: &lt;font color="#ffffff"&gt;{nonCompanyNumber}&lt;/font&gt; / {nonCompanyTotal} Total: &lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
 	<string key="ui_invasion_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
 	<string key="ui_promote_disabled_max_tooltip" comment="">Can't promote this player any further</string>
 	<string key="ui_demote_disabled_min_tooltip" comment="">Can't demote this player any further</string>

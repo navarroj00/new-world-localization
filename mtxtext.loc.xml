@@ -60,7 +60,7 @@
 	<string key="reward_type_extra" rel_version="Feature_MTX">Extra</string>
 	<string key="reward_type_entitlement" rel_version="Feature_MTX">ENTITLEMENT</string>
 	<string key="reward_type_marks_of_fortune" rel_version="Feature_MTX">Marks of Fortune</string>
-	<string key="reward_type_service" rel_version="Feature_MTX">World Transfer (Single Use)</string>
+	<string key="reward_type_service" rel_version="Feature_MTX">World or Region Transfer (Single Use)</string>
 	<string key="entitlement_included" rel_version="Feature_MTX">Included</string>
 	<string key="ui_account_bound" rel_version="Feature_MTX">All items are account bound (non-tradeable) and non-refundable</string>
 	<string key="ui_account_bound_tooltip" rel_version="Feature_MTX">All items are account bound (can be used on all of your characters) and cannot be discarded, traded, or sold at the trading post. All items are also non-refundable.\n\n&lt;font face="lyshineui/fonts/Nimbus_Bold.font" &gt;Consumable items: &lt;/font&gt; These items have limited usage and using one on a specific character depletes the count across the account. For example, if you have five dyes and use one on a character, you will now have four dyes if you log onto a different character under the same account.</string>
@@ -83,13 +83,13 @@
 	<string key="ui_fixed_appearance" rel_version="Feature_MTX">Fixed Appearance</string>
 	<string key="ui_fixed_appearance_tooltip" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; are applied to your character and will be applied to any item equipped in the same slot until you change the appearance or remove it.\n\n&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; cannot be dyed.</string>
 	<string key="ui_transfer_requirement" rel_version="Feature_MTX">Transfer Requirements</string>
-	<string key="ui_transfer_requirement_tooltip_world_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;To transfer to a new world:&lt;/font&gt;</string>
-	<string key="ui_transfer_requirement_tooltip_region_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;To transfer to a new region:&lt;/font&gt;</string>
+	<string key="ui_transfer_requirement_tooltip_world_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;To transfer to a new world or region:&lt;/font&gt;</string>
+	<string key="ui_transfer_requirement_tooltip_region_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Region transfer requirements:&lt;/font&gt;</string>
 	<string key="ui_transfer_requirement_sanctuary" rel_version="Feature_MTX">You must be in a Sanctuary (Settlement, Outpost, Spirit Shrine, or Watchtower) before transferring</string>
 	<string key="ui_transfer_requirement_not_in_company" rel_version="Feature_MTX">You cannot belong to a company before transferring</string>
 	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">You cannot have active trading post buy/sell orders before transferring</string>
 	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">You must be at least level {level} before transferring</string>
-	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">You must not own any houses before transferring</string>
+	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">You cannot own any houses before transferring</string>
 	<string key="ui_transfer_requirement_cooldown" rel_version="Feature_MTX">You must wait till the end of the cooldown before you may transfer worlds or regions again.</string>
 	<string key="ui_transfer_requirement_cooldown_prefix" rel_version="Feature_MTX">&lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;</string>
 	<string key="ui_item_restrictions" rel_version="Feature_MTX">Item Restrictions</string>
@@ -443,8 +443,8 @@
 	<string key="ui_character_region_transfer" rel_version="Feature_Server_Transfer">Character Region Transfer</string>
 	<string key="server_transfer_description" rel_version="Feature_Server_Transfer">Allows you to transfer this character to another world or region of your choice.</string>
 	<string key="server_transfer_description_region_disabled" rel_version="Feature_Server_Transfer">Allows you to transfer this character to another world that is within the current region.</string>
-	<string key="server_transfer_extra_detail" rel_version="Feature_Server_Transfer">You are allowed 1 free world transfer on your account. Once claimed, it will no longer be available on other characters.</string>
-	<string key="server_transfer_names" rel_version="Feature_Server_Transfer">Transferring &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; to: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{ServerName}&lt;/font&gt; {WorldSetName}</string>
+	<string key="server_transfer_extra_detail" rel_version="Feature_Server_Transfer">You are allowed {count} free world or region transfer(s) on your account. Once claimed, it will no longer be available on other characters.</string>
+	<string key="server_transfer_names" rel_version="Feature_Server_Transfer">Transferring &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; to: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{ServerName}&lt;/font&gt;</string>
 	<string key="server_transfer_requirements" rel_version="Feature_Server_Transfer">REQUIREMENTS</string>
 	<string key="server_transfer_not_transfer" rel_version="Feature_Server_Transfer">WHAT WILL NOT TRANSFER</string>
 	<string key="server_transfer_refund_policy" rel_version="Feature_Server_Transfer">REFUND POLICY</string>
@@ -838,6 +838,9 @@
 	<string key="Apparel_Phoenix_H_description" rel_version="Apparel_Phoenix_H">"Outshine, outwit, and bring your opponents to their knees."</string>
 	<string key="Bundle_Tool_Phoenix_name" rel_version="ToolSkins_Phoenix_MTX">On Fire's Wing Toolset</string>
 	<string key="Bundle_Tool_Phoenix_description" rel_version="ToolSkins_Phoenix_MTX">"Airily light, to make it easy to lift your fortunes."</string>
+	<string key="Emote_HearSeeSpeakNoEvil_name" rel_version="Emote_HearNoEvil">Hear No Evil, See no Evil, Speak No Evil</string>
+	<string key="Emote_HearSeeSpeakNoEvil_description" rel_version="Emote_HearNoEvil">"Just generally avoid all engagement with evil."</string>
+	<string key="reward_type_Weaponskin_Greatsword" rel_version="Weapon_Egyptian_Greatsword_MTX">Greatsword Skin</string>
 	<string key="Apparel_EgyptianGods_1_name" rel_version="Apparel_Egyptian_1">Horus' Sight</string>
 	<string key="Apparel_EgyptianGods_2_name" rel_version="Apparel_Egyptian_2">Bastet's Courage</string>
 	<string key="Apparel_EgyptianGods_3_name" rel_version="Apparel_Egyptian_3">Anubian Conquest</string>
@@ -850,8 +853,12 @@
 	<string key="Bundle_Tool_EgyptianGods_description" rel_version="ToolSkins_Egyptian_MTX">"Uncover ancient mysteries with these magnificent relics."</string>
 	<string key="Apparel_SandDune_name" rel_version="Apparel_SandDune">Scorching Sand</string>
 	<string key="Apparel_SandDune_description" rel_version="Apparel_SandDune">With only your eyes exposed to the elements, look upon the dunes of sand and chart your course to victory.</string>
+	<string key="Bundle_SuperDeluxePack_name" rel_version="Weapon_Wicked_Bow_MTX">Desert Sands Deluxe Pack</string>
+	<string key="Bundle_SuperDeluxePack_description" rel_version="Weapon_Wicked_Bow_MTX">Rise up with the might of the desert wind and unleash forces of an ancient evil. This bundle also includes the "Desert Vanguard" title.</string>
 	<string key="Bundle_Decor_Egyptian_name" rel_version="Housing_Egyptian_MTX_Pack_2022">Aegyptus Décor Bundle</string>
 	<string key="Bundle_Decor_Egyptian_description" rel_version="Housing_Egyptian_MTX_Pack_2022">Some treasures should remain buried beneath the desert sands.</string>
+	<string key="Bundle_Weapon_Wicked_name" rel_version="Weapon_Wicked_ShieldT_MTX">Wicked Ways Weapon Set</string>
+	<string key="Bundle_Weapon_Wicked_description" rel_version="Weapon_Wicked_ShieldT_MTX">When you stare into the gem, evil stares back.</string>
 	<string key="Bundle_Crest_Egyptian_name" rel_version="Crest_Pack_Egyptian">Aegyptus Crest pack</string>
 	<string key="Bundle_Crest_Egyptian_description" rel_version="Crest_Pack_Egyptian">Do you curse your foes or simply crush them with your might? Does it matter as long as they flee from your presence?</string>
 	<string key="ui_crestforeground_216" rel_version="Crest_Pack_Egyptian">Horus Rising</string>
@@ -861,5 +868,40 @@
 	<string key="ui_crestforeground_220" rel_version="Crest_Pack_Egyptian">Tears of the Falcon</string>
 	<string key="ui_crestforeground_221" rel_version="Crest_Pack_Egyptian">Power of Anubis</string>
 	<string key="reward_type_title" rel_version="Crest_Pack_Egyptian">Title</string>
+	<string key="Apparel_RomanSoldier_name" rel_version="Armor_Legion">Roman Vexillarius</string>
+	<string key="Apparel_RomanSoldier_description" rel_version="Armor_Legion">The standard-bearing soldier of the Roman army marches with purpose and pride.</string>
+	<string key="Bundle_Egyptian_MegaPack_name" rel_version="Bundle_Egyptian_MegaPack">Aegyptus Mega-pack</string>
+	<string key="Bundle_Egyptian_MegaPack_description" rel_version="Bundle_Egyptian_MegaPack">Ancient relics that demonstrate your glorious power, whether in life or in your tomb after death.</string>
+	<string key="Apparel_Nightmares_1_name" rel_version="Apparel_Nightmares_1">Sewn Shut</string>
+	<string key="Apparel_Nightmares_2_name" rel_version="Apparel_Nightmares_2">Baretooth</string>
+	<string key="Apparel_Nightmares_3_name" rel_version="Apparel_Nightmares_3">The Studded Warrior</string>
+	<string key="Apparel_NightmaresDeluxe_1_name" rel_version="Apparel_Nightmares_Deluxe_1">Nightmare Hellion</string>
+	<string key="Apparel_NightmaresDeluxe_2_name" rel_version="Apparel_Nightmares_Deluxe_2">The Silver Maws</string>
+	<string key="Apparel_Nightmares_1_description" rel_version="Apparel_Nightmares_1">Wrapped and sealed tight for comfort and protection. Just try not to get blood in the eye stitches.</string>
+	<string key="Apparel_Nightmares_2_description" rel_version="Apparel_Nightmares_2">Bare your sharpest of fangs to rip through armor and flesh.</string>
+	<string key="Apparel_Nightmares_3_description" rel_version="Apparel_Nightmares_3">Protect yourself from the horrors of Aeternum with your stalwart combatant's spirit and this armor fit for a true warrior.</string>
+	<string key="Apparel_NightmaresDeluxe_1_description" rel_version="Apparel_Nightmares_Deluxe_1">The red fabric resembles sinewy muscle tissue, all exposed for the battle.</string>
+	<string key="Apparel_NightmaresDeluxe_2_description" rel_version="Apparel_Nightmares_Deluxe_2">Gnashing teeth and twirling tongues reflect in shining silver.</string>
+	<string key="Bundle_Tool_Nightmares_name" rel_version="ToolSkins_Nightmares_MTX">Nightmares Toolset</string>
+	<string key="Bundle_Tool_Nightmares_description" rel_version="ToolSkins_Nightmares_MTX">Ancient horrors can help reap new nightmares.</string>
+	<string key="Apparel_Nightmares_Twitch_name" rel_version="Apparel_Nightmares_Twitch">Spiked Nightmares</string>
+	<string key="Apparel_Nightmares_Twitch_description" rel_version="Apparel_Nightmares_Twitch">Leave your enemies wondering if they're trapped in a horrible dream as you approach them on the battlefield.</string>
+	<string key="Bundle_Decor_Nightmare_name" rel_version="Housing_Nightveil_MTX_Pack_2022">Nightmare Housing Décor</string>
+	<string key="Bundle_Decor_Nightmare_description" rel_version="Housing_Nightveil_MTX_Pack_2022">Sleep tight. No need to dream of your worst fears.</string>
+	<string key="Bundle_PR_Nightmare_Apparel_name" rel_version="Apparel_Nightmares_1">Nightmare Threads Apparel Bundle</string>
+	<string key="Bundle_PR_Nightmare_Apparel_description" rel_version="Apparel_Nightmares_1">Clothe yourself in the darkness of ancient memories.</string>
+	<string key="Bundle_PR_Nightmare_Weapons_name" rel_version="Weapon_Monster_ShieldK_MTX">Forged in Nightmares Weapon Bundle</string>
+	<string key="Bundle_PR_Nightmare_Weapons_description" rel_version="Weapon_Monster_ShieldK_MTX">Weapons that will lodge themselves in the nightmares, and flesh, of your foes.</string>
+	<string key="Bundle_PR_ClassicMonster_Apparel_name" rel_version="Apparel_Nightmares_2">Classic Monster Apparel Bundle</string>
+	<string key="Bundle_PR_ClassicMonster_Apparel_description" rel_version="Apparel_Nightmares_2">Costumes sure to cause a stir at the party, and make partygoers draw their blades in fear at your arrival.</string>
+	<string key="Bundle_PR_ClassicMonster_Weapons_name" rel_version="Weapon_Monster_ShieldK_MTX">Classic Monster Weapon Bundle</string>
+	<string key="Bundle_PR_ClassicMonster_Weapons_description" rel_version="Weapon_Monster_ShieldK_MTX">Conjure the most primordial fears in those who oppose you.</string>
+	<string key="Bundle_Crest_Nightmares_name" rel_version="Crest_Pack_Nightmares">Nightmares Crest Pack</string>
+	<string key="Bundle_Crest_Nightmares_description" rel_version="Crest_Pack_Nightmares">Terrify the armies foolish enough to rise against you.</string>
+	<string key="Bundle_PR_Nightmare_Mask_Set_name" rel_version="Apparel_Nightmares_Masks">Nightmare Mask Bundle</string>
+	<string key="Bundle_PR_Nightmare_Mask_Set_description" rel_version="Apparel_Nightmares_Masks">They may not know your name, but they will know you by your deeds.</string>
+	<string key="ui_crestforeground_222" rel_version="Crest_Pack_Nightmares">Bonecrown King</string>
+	<string key="ui_crestforeground_223" rel_version="Crest_Pack_Nightmares">Baalphazu's Haunt</string>
+	<string key="ui_crestforeground_224" rel_version="Crest_Pack_Nightmares">Pumpkinite In Flight</string>
 </resources>
 

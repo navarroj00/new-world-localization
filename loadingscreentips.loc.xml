@@ -4,19 +4,19 @@
 	<string key="tip_overworld_aeternumFactions_theLost01-title">The Lost</string>
 	<string key="tip_overworld_aeternumFactions_theLost01-content">The Lost are proof that eternal existence is not the same as fairy-tale immortality; for some, it comes at a terrible price. People become Lost through endless cycles of death and rebirth that wither their souls until there's nothing left.</string>
 	<string key="tip_overworld_aeternumFactions_theLost02-title">The Lost</string>
-	<string key="tip_overworld_aeternumFactions_theLost02-content">Lost are weak to Strike, Ice, and Nature damage, but resistant to Thrust and Void damage.</string>
+	<string key="tip_overworld_aeternumFactions_theLost02-content">Lost are weak to Strike, Ice, and Nature damage.</string>
 	<string key="tip_overworld_aeternumFactions_theAncients01-title">The Ancients</string>
 	<string key="tip_overworld_aeternumFactions_theAncients01-content">The origin of the Ancients, and any knowledge of their civilization, has been lost to dusty memory. All that remains are relics: crumbled monuments, ruins of cities, and legions of skeletal warriors.</string>
 	<string key="tip_overworld_aeternumFactions_theAncients02-title">The Ancients</string>
-	<string key="tip_overworld_aeternumFactions_theAncients02-content">Ancient Guardians are weak to Strike, Lightning, and Void damage, but resistant to Slash and Fire damage.</string>
+	<string key="tip_overworld_aeternumFactions_theAncients02-content">Ancient Guardians are weak to Strike, Lightning, and Void damage.</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth01-title">The Angry Earth</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth01-content">The intermingling of Azoth and nature is most evident in the Angry Earth, a variety of plant-like creatures so named for their fierce guardianship of the wilderness of Aeternum.</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth02-title">The Angry Earth</string>
-	<string key="tip_overworld_aeternumFactions_theAngryEarth02-content">Angry Earth are weak to Slash and Fire damage, but resistant to Thrust and Lightning damage.</string>
+	<string key="tip_overworld_aeternumFactions_theAngryEarth02-content">Angry Earth are weak to Slash and Fire damage.</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted01-title">The Corrupted</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted01-content">The Corrupted serve as the immortal thralls of an ancient and unknowable force that warps all within its reach.</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted02-title">The Corrupted</string>
-	<string key="tip_overworld_aeternumFactions_theCorrupted02-content">Corrupted are weak to Thrust, Arcane, and Nature damage, but resistant to Strike and Ice damage.</string>
+	<string key="tip_overworld_aeternumFactions_theCorrupted02-content">Corrupted are weak to Thrust, Arcane, and Nature damage.</string>
 	<string key="tip_overworld_azoth_fastTravel01-title">Fast Travel</string>
 	<string key="tip_overworld_azoth_fastTravel01-content">The cost of Fast Travel scales with the amount of weight you're carrying in inventory. Travel light, friends.</string>
 	<string key="tip_overworld_azoth_crafting01-title">Azoth</string>
@@ -160,11 +160,11 @@
 	<string key="tip_overworld_equipment_lockingItems01-title">Locking Items</string>
 	<string key="tip_overworld_equipment_lockingItems01-content">Prevent Salvaging items in your Inventory by clicking the item and selecting "Lock" [{hint1}]. A lock icon will appear on the item when it is locked.</string>
 	<string key="tip_overworld_factions_types01-title">Syndicate</string>
-	<string key="tip_overworld_factions_types01-content">Clever Disciples who fight with Cunning for the sake of Truth and Progress.</string>
+	<string key="tip_overworld_factions_types01-content">Clever disciples who fight with cunning for the sake of truth and progress.</string>
 	<string key="tip_overworld_factions_types02-title">Marauders</string>
-	<string key="tip_overworld_factions_types02-content">Proud Warriors who fight with Honor for Glory and Self-Improvement.</string>
+	<string key="tip_overworld_factions_types02-content">Proud warriors who fight with honor for glory and self-improvement.</string>
 	<string key="tip_overworld_factions_types03-title">Covenant</string>
-	<string key="tip_overworld_factions_types03-content">Divine Champions who fight with Conviction for Righteousness and Justice.</string>
+	<string key="tip_overworld_factions_types03-content">Divine champions who fight with conviction for righteousness and justice.</string>
 	<string key="tip_overworld_factions_benefits01-title">Factions</string>
 	<string key="tip_overworld_factions_benefits01-content">Join a Faction to flag for PVP, control Territory, and participate in Wars.</string>
 	<string key="tip_overworld_factions_benefits02-title">Faction Benefit</string>
@@ -245,8 +245,8 @@
 	<string key="tip_overworld_fishing_fishItems09-content">Delicate Fish Filet can be obtained by Salvaging Electric Eels and Swordfish.</string>
 	<string key="tip_ftue_keybindings-title">[Placeholder]</string>
 	<string key="tip_ftue_keybindings-content">[Placeholder]</string>
-	<string key="tip_overworld_gameModes_arenaKeys01-title">Arenas</string>
-	<string key="tip_overworld_gameModes_arenaKeys01-content">Have you found one yet? An Arena is a rare event where you and your friends fight a deadly, legendary creature.</string>
+	<string key="tip_overworld_gameModes_arenaKeys01-title">Trials</string>
+	<string key="tip_overworld_gameModes_arenaKeys01-content">Have you found one yet? A Trial is a rare event where you and your friends fight a deadly, legendary creature.</string>
 	<string key="tip_overworld_gameModes_outpostRush01-title">Outpost Rush</string>
 	<string key="tip_overworld_gameModes_outpostRush01-content">Seek out Scott Newman in Cleave's Point Outpost or talk to your faction representative to compete in this 20 vs 20 match.</string>
 	<string key="tip_overworld_gameModes_war01-title">War</string>
@@ -411,6 +411,66 @@
 	<string key="tip_overworld_zone_mourningdale_lore01-content">[Placeholder]</string>
 	<string key="tip_overworld_zone_mourningdale_eliteStronghold01-title">Scorpius</string>
 	<string key="tip_overworld_zone_mourningdale_eliteStronghold01-content">Stray too far from the path, and you risk being lost to Corruption's tendrils.</string>
+	<string key="tip_overworld_zone_brimstone_lore01-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore01-content" rel_version="Territory_Brimstone_Sands">The harsh, bitter sun of Brimstone Sands requires proper protection to survive.</string>
+	<string key="tip_overworld_zone_brimstone_lore02-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore02-content" rel_version="Territory_Brimstone_Sands">The Ancients’ language was lost to the sands of time. Until now…</string>
+	<string key="tip_overworld_zone_brimstone_lore03-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore03-content" rel_version="Territory_Brimstone_Sands">A monstrous behemoth has awakened in the desert. Local legends refer to it as “The Devourer.”</string>
+	<string key="tip_overworld_zone_brimstone_lore04-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore04-content" rel_version="Territory_Brimstone_Sands">It is said that Ancients conducted rituals deep inside the heart of a massive wall built between Brimstone Sands and Shattered Mountain.</string>
+	<string key="tip_overworld_zone_brimstone_lore05-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore05-content" rel_version="Territory_Brimstone_Sands">Crassus and his Corrupted 19th Legion are an eternal threat to the safety and stability of New Corsica.</string>
+	<string key="tip_overworld_zone_brimstone_lore06-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore06-content" rel_version="Territory_Brimstone_Sands">One of the oldest living humans on Aeternum, Imhotep the Wise, is said to wander the deserts in search of knowledge.</string>
+	<string key="tip_overworld_zone_brimstone_lore07-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore07-content" rel_version="Territory_Brimstone_Sands">Tread cautiously when navigating the sulfur pools of Brimstone Sands. If the giant lizards don't get you, the boiling, burning water most certainly will...</string>
+	<string key="tip_overworld_zone_brimstone_lore08-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore08-content" rel_version="Territory_Brimstone_Sands">Sandstone is plentiful in Brimstone Sands, and can be smelted into glass items.</string>
+	<string key="tip_overworld_zone_brimstone_lore09-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore09-content" rel_version="Territory_Brimstone_Sands">Thirsty? Try cutting down a Cactus for small amounts of Water.</string>
+	<string key="tip_overworld_zone_brimstone_lore10-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore10-content" rel_version="Territory_Brimstone_Sands">No one knows how Armadillos got to Brimstone Sands, but they seem to be thriving nonetheless.</string>
+	<string key="tip_overworld_zone_brimstone_lore11-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore11-content" rel_version="Territory_Brimstone_Sands">A great tree has somehow flourished in the middle of Brimstone Sands. Some even say that the tree still blooms high in its branches.</string>
+	<string key="tip_overworld_zone_brimstone_lore12-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore12-content" rel_version="Territory_Brimstone_Sands">Some believe that a deadly manticore stalks the sands of Brimstone, so travel with care…</string>
+	<string key="tip_overworld_zone_brimstone_lore13-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore13-content" rel_version="Territory_Brimstone_Sands">Legends say that an Ancient lies sleeping somewhere in Brimstone Sands.</string>
+	<string key="tip_overworld_zone_brimstone_lore14-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore14-content" rel_version="Territory_Brimstone_Sands">The massive scorpions that prowl the desert have more weapons than mere pincers and claws.</string>
+	<string key="tip_overworld_zone_brimstone_lore15-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore15-content" rel_version="Territory_Brimstone_Sands">Ancient Glyphs are the key to unlocking chests, exploring sealed ruins, and much more. How many can you find?</string>
+	<string key="tip_overworld_zone_brimstone_lore16-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore16-content" rel_version="Territory_Brimstone_Sands">Would-be tomb robbers beware: the restless dead sometimes guard their earthly treasures.</string>
+	<string key="tip_overworld_zone_brimstone_lore17-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore17-content" rel_version="Territory_Brimstone_Sands">Some of the Anubian constructs that prowl Brimstone Sands can be mined for resources.</string>
+	<string key="tip_overworld_zone_brimstone_lore18-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore18-content" rel_version="Territory_Brimstone_Sands">New Corsica’s gilded facade conceals a viper’s nest of politics, intrigue, and paranoia.</string>
+	<string key="tip_overworld_zone_brimstone_lore19-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore19-content" rel_version="Territory_Brimstone_Sands">The Legionnaires of Brimstone Sands have lost none of their legendary discipline and fighting skill, despite becoming Corrupted.</string>
+	<string key="tip_overworld_zone_brimstone_lore20-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore20-content" rel_version="Territory_Brimstone_Sands">Marc Antony founded the 19th “Seaborne” Legion, though they could not save him from ruin at the Battle of Actium.</string>
+	<string key="tip_overworld_zone_brimstone_lore21-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore21-content" rel_version="Territory_Brimstone_Sands">The dying Queen Cleopatra was brought to Brimstone Sands by the Romans who sought to save her life.</string>
+	<string key="tip_overworld_zone_brimstone_lore22-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore22-content" rel_version="Territory_Brimstone_Sands">Soulwardens are rare in Brimstone Sands. But with Ancients and Corruption both stirring, that may soon change.</string>
+	<string key="tip_overworld_zone_brimstone_lore23-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore23-content" rel_version="Territory_Brimstone_Sands">There are legends of mysterious, shape-changing spirits known as ifrit that haunt the wastes of the desert. Some can be bargained with.</string>
+	<string key="tip_overworld_zone_brimstone_lore24-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore24-content" rel_version="Territory_Brimstone_Sands">If you hear a familiar voice calling from the darkness of the wastelands, do not approach.</string>
+	<string key="tip_overworld_zone_brimstone_lore25-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore25-content" rel_version="Territory_Brimstone_Sands">Twisted abominations have begun appearing in Brimstone Sands, the products of some Ancient sorcery.</string>
+	<string key="tip_overworld_zone_brimstone_lore26-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore26-content" rel_version="Territory_Brimstone_Sands">Brimstone Sands has had two great civilizations shape the land over the millennia, the Egyptians and the Romans.</string>
+	<string key="tip_overworld_zone_brimstone_lore27-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore27-content" rel_version="Territory_Brimstone_Sands">The Anubian Ancients are far more robust than the dusty skeletons that guard other Ancient ruins. Approach with caution.</string>
+	<string key="tip_overworld_zone_brimstone_lore28-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore28-content" rel_version="Territory_Brimstone_Sands">The circular stone gates scattered across Brimstone Sands are magical as well as magnificent.</string>
+	<string key="tip_overworld_zone_brimstone_lore29-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore29-content" rel_version="Territory_Brimstone_Sands">Vast streams of azoth flow through the Great Pyramid of Akhet. Hopefully, such power will never be turned to nefarious purposes...</string>
+	<string key="tip_overworld_zone_brimstone_lore30-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="tip_overworld_zone_brimstone_lore30-content" rel_version="Territory_Brimstone_Sands">The Angry Earth of Brimstone Sands have no fear of fire, and often employ burning sulfur to destroy their foes.</string>
 	<string key="tip_overworld_zone_greatCleave_lore01-title">Great Cleave</string>
 	<string key="tip_overworld_zone_greatCleave_lore01-content">[Placeholder]</string>
 	<string key="tip_overworld_zone_greatCleave_eliteStronghold01-title">Stranglepitch Road</string>

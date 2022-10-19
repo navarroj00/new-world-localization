@@ -1,2 +1,59 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="98_NPCMisc_Dummy" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">DO NOT TRANSLATE</string>
+	<string key="9801_Florina" comment="DO NOT TRANSLATE" gender="Female" rel_version="Quest_MSQ2_Revamp">Florina</string>
+	<string key="9801_Florina_title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Covenant Initiate</string>
+	<string key="9802_Lethold" comment="DO NOT TRANSLATE" gender="Male" rel_version="Quest_MSQ2_Revamp">Lethold</string>
+	<string key="9802_Lethold_title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Covenant Adjudicator</string>
+	<string key="9803_Morellus" comment="DO NOT TRANSLATE" gender="Female" rel_version="Quest_MSQ2_Revamp">Morellus</string>
+	<string key="9803_Morellus_title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Covenant Lumen</string>
+	<string key="9804_Feldan" comment="DO NOT TRANSLATE" gender="Male" rel_version="Quest_MSQ2_Revamp">Feldan Olcott</string>
+	<string key="9804_Feldan_title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Last of His Name</string>
+	<string key="9805_Tibbs" comment="DO NOT TRANSLATE" gender="Male" rel_version="Quest_MSQ2_Revamp">Lieutenant Tibbs</string>
+	<string key="9805_Tibbs_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Marauder Ravager</string>
+	<string key="9806_StrouDahia" comment="DO NOT TRANSLATE" gender="Female" rel_version="Quest_MSQ2_Revamp">Gladiator Strou'Dahia</string>
+	<string key="9806_StrouDahia_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Lord Doctore</string>
+	<string key="9807_Aventus" comment="DO NOT TRANSLATE" gender="Male" rel_version="Quest_MSQ2_Revamp">Aventus Valenti</string>
+	<string key="9807_Aventus_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Syndicate Scrivener</string>
+	<string key="9808_Cleo" comment="DO NOT TRANSLATE" gender="Female" rel_version="Quest_MSQ2_Revamp">Cleo Elsayad</string>
+	<string key="9808_Cleo_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Syndicate Cabalist</string>
+	<string comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
+	<string key="9809_CovenantGuard" comment="DO NOT TRANSLATE" gender="Both" rel_version="Quest_MSQ2_Revamp">Covenant Guardian</string>
+	<string key="9809_CovenantGuard_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Enclave Guard</string>
+	<string key="9810_Alejandro" comment="DO NOT TRANSLATE" gender="Male" rel_version="Quest_MSQ2_Revamp">Alejandro</string>
+	<string key="9810_Alejandro_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Covenant Lumen</string>
+	<string key="9811_Gregario" comment="DO NOT TRANSLATE" gender="Male" rel_version="Quest_MSQ2_Revamp">Gregario</string>
+	<string key="9811_Gregario_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Templar</string>
+	<string key="9812_Peta" comment="DO NOT TRANSLATE" gender="Female" rel_version="Quest_MSQ2_Revamp">Peta</string>
+	<string key="9812_Peta_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Kitchen Master</string>
+	<string key="9813_Damiano" comment="DO NOT TRANSLATE" gender="Male" rel_version="Quest_MSQ2_Revamp">Damiano</string>
+	<string key="9813_Damiano_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Templar Captain</string>
+	<string key="9814_Beyza" comment="DO NOT TRANSLATE" gender="Female" rel_version="Quest_MSQ2_Revamp">Beyza</string>
+	<string key="9814_Beyza_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Covenant Representative</string>
+	<string comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
+	<string key="9815_MarauderGuard" comment="DO NOT TRANSLATE" gender="Both" rel_version="Quest_MSQ2_Revamp">Marauder Sentinel</string>
+	<string key="9815_MarauderGuard_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Enclave Guard</string>
+	<string key="9816_Pavel" comment="DO NOT TRANSLATE" gender="Male" rel_version="Quest_MSQ2_Revamp">Pavel</string>
+	<string key="9816_Pavel_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Feast Master</string>
+	<string key="9817_Mersha" comment="DO NOT TRANSLATE" gender="Female" rel_version="Quest_MSQ2_Revamp">Mersha</string>
+	<string key="9817_Mersha_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Marauder Ravager</string>
+	<string key="9818_Doc" comment="DO NOT TRANSLATE" gender="Female" rel_version="Quest_MSQ2_Revamp">Doc</string>
+	<string key="9818_Doc_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Barber Surgeon</string>
+	<string key="9819_Hedge" comment="DO NOT TRANSLATE" gender="Male" rel_version="Quest_MSQ2_Revamp">Hedge</string>
+	<string key="9819_Hedge_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Assistant to the Representative</string>
+	<string key="9820_Smiggs" comment="DO NOT TRANSLATE" gender="Male" rel_version="Quest_MSQ2_Revamp">Smiggs</string>
+	<string key="9820_Smiggs_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Marauder Representative</string>
+	<string comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
+	<string key="9821_SyndicateGuard" comment="DO NOT TRANSLATE" gender="Both" rel_version="Quest_MSQ2_Revamp">Syndicate Watchman</string>
+	<string key="9821_SyndicateGuard_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Enclave Guard</string>
+	<string key="9822_Abayomi" comment="DO NOT TRANSLATE" gender="Male" rel_version="Quest_MSQ2_Revamp">Abayomi</string>
+	<string key="9822_Abayomi_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Syndicate Cabalist</string>
+	<string key="9823_Amelia" comment="DO NOT TRANSLATE" gender="Female" rel_version="Quest_MSQ2_Revamp">Amelia</string>
+	<string key="9823_Amelia_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Syndicate Adept</string>
+	<string key="9824_Kuro" comment="DO NOT TRANSLATE" gender="Male" rel_version="Quest_MSQ2_Revamp">Kuro Kin</string>
+	<string key="9824_Kuro_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Syndicate Mixologist</string>
+	<string key="9825_Pop" comment="DO NOT TRANSLATE" gender="Female" rel_version="Quest_MSQ2_Revamp">Pop</string>
+	<string key="9825_Pop_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Syndicate Agent</string>
+	<string key="9826_Astrid" comment="DO NOT TRANSLATE" gender="Female" rel_version="Quest_MSQ2_Revamp">Astrid</string>
+	<string key="9826_Astrid_Title" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">Syndicate Representative</string>
+</resources>
 

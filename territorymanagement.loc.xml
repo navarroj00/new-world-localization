@@ -588,7 +588,7 @@
 	<string key="ui_territory_standing_upgrade_description_own_house">You can own a house in {territory}.</string>
 	<string key="ui_territory_standing_upgrade_value">&lt;font color='#e1ddd4'&gt; ({current}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/arrow_right" xPadding="8" scale="0.8" yOffset="-0.4"&gt;&lt;/img&gt;&lt;font color='#e1ddd4'&gt;{value})&lt;/font&gt;</string>
 	<string key="ui_territory_standing_upgrade_category_generic">Some Category</string>
-	<string key="ui_territory_standing_upgrade_category_reputation">Faction Tokens</string>
+	<string key="ui_territory_standing_upgrade_category_reputation">Faction Reputation</string>
 	<string key="ui_territory_standing_upgrade_category_housepoint">House Items</string>
 	<string key="ui_territory_standing_upgrade_category_trading_tax">Trading Tax</string>
 	<string key="ui_territory_standing_upgrade_category_crafting_fee">Station fee</string>

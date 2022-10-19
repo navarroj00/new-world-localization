@@ -271,6 +271,7 @@
 	<string key="ui_playerMarketplace">Player Marketplace</string>
 	<string key="ui_playerMarketplaceDesc">Buy items from other players, Sell items to other players</string>
 	<string key="ui_contract_gearscore">G.S</string>
+	<string key="ui_contract_gearscore_icon">&lt;img src="lyshineui/images/icons/misc/icon_gearscore_tan" xPadding="0" scale="1.8" yOffset="4"&gt;&lt;/img&gt;</string>
 	<string key="ui_contract_time">Time</string>
 	<string key="ui_order_tooltip">Available orders in this category :\n&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{number}&lt;/font&gt;</string>
 	<string key="ui_available_buy_orders">Orders that are buying this item</string>

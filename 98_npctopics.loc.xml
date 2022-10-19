@@ -1,2 +1,5 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="98_NPCTopics_Dummy" comment="DO NOT TRANSLATE" rel_version="Quest_MSQ2_Revamp">DO NOT TRANSLATE</string>
+	<string key="98_PvP_prompt">Why join a Faction?</string>
+</resources>
 

@@ -1,2 +1,63 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="06_NessaHarrower" gender="F" rel_version="Quest_MSQ2_Revamp">Nessa Harrower</string>
+	<string key="06_NessaHarrower_title" rel_version="Quest_MSQ2_Revamp">Druid Acolyte</string>
+	<string key="06_FrancisTurner" gender="M" rel_version="Quest_MSQ2_Revamp">Francis Turner</string>
+	<string key="06_Speaker_title" rel_version="Quest_MSQ2_Revamp">Speaker of the Winds</string>
+	<string key="06_SaatvikAgrawal" gender="M" rel_version="Quest_MSQ2_Revamp">Saatvik Agrawal</string>
+	<string key="06_SaatvikAgrawal_title" rel_version="Quest_MSQ2_Revamp">Quartermaster</string>
+	<string key="06_LeovixSilva" gender="M" rel_version="Quest_MSQ2_Revamp">Leovix Silva</string>
+	<string key="06_LeovixSilva_title" gender="M" rel_version="Quest_MSQ2_Revamp">Iron Rose Captain</string>
+	<string key="06_LeovixSilva_title2" rel_version="Quest_MSQ2_Revamp">Windsward Guard Commander</string>
+	<string key="06_MarcelDupont" gender="M" rel_version="Quest_MSQ2_Revamp">Marcel Dupont</string>
+	<string key="06_MarcelDupont_title" rel_version="Quest_MSQ2_Revamp">Windsward Guard Captain</string>
+	<string key="06_TalesaSerrano" gender="F" rel_version="Quest_MSQ2_Revamp">Talesa Serrano</string>
+	<string key="06_AhuraFarid" gender="M" rel_version="Quest_MSQ2_Revamp">Ahura Farid</string>
+	<string key="06_MoiraChapman" gender="F" rel_version="Quest_MSQ2_Revamp">Moira Chapman</string>
+	<string key="06_KathrijnJanssen" gender="F" rel_version="Quest_MSQ2_Revamp">Kathrijn Janssen</string>
+	<string key="06_Farmer_title" rel_version="Quest_MSQ2_Revamp">Farmer</string>
+	<string key="06_TsuiFen" gender="F" rel_version="Quest_MSQ2_Revamp">Tsui Fen</string>
+	<string key="06_Tanner_title" rel_version="Quest_MSQ2_Revamp">Tanner</string>
+	<string key="06_ZhangHaoyu" gender="M" rel_version="Quest_MSQ2_Revamp">Zhang Haoyu</string>
+	<string key="06_Mason_title" rel_version="Quest_MSQ2_Revamp">Mason</string>
+	<string key="06_LionelDeLaRue" gender="M" rel_version="Quest_MSQ2_Revamp">Lionel De La Rue</string>
+	<string key="06_Weaver_title" rel_version="Quest_MSQ2_Revamp">Weaver</string>
+	<string key="06_UtkarshSingh" gender="M" rel_version="Quest_MSQ2_Revamp">Utkarsh Singh</string>
+	<string key="06_Historian_title" rel_version="Quest_MSQ2_Revamp">Historian</string>
+	<string key="06_VerildisJannsen" gender="F" rel_version="Quest_MSQ2_Revamp">Verildis Jannsen</string>
+	<string key="06_VerildisJannsen_title" rel_version="Quest_MSQ2_Revamp">Southern Breeze Innkeep</string>
+	<string key="06_LiZihan" gender="M" rel_version="Quest_MSQ2_Revamp">Li Zihan</string>
+	<string key="06_LiZihan_title" rel_version="Quest_MSQ2_Revamp">Tavern Keeper</string>
+	<string key="06_FudeHinode" gender="F" rel_version="Quest_MSQ2_Revamp">Fude Hinode</string>
+	<string key="06_FudeHinode_title" rel_version="Quest_MSQ2_Revamp">Landscape Artist</string>
+	<string key="06_MargotEmerson" gender="F" rel_version="Quest_MSQ2_Revamp">Margot Emerson</string>
+	<string key="06_TowerJournal" rel_version="Quest_MSQ2_Revamp">Tower Journal</string>
+	<string key="06_TowerJournal_title" rel_version="Quest_MSQ2_Revamp">Bursting at the seams with data</string>
+	<string key="06_FancyBrushSet" rel_version="Quest_MSQ2_Revamp">Artist's Brushes</string>
+	<string key="06_FancyBrushSet_title" rel_version="Quest_MSQ2_Revamp">Looks very fancy</string>
+	<string key="06_YelenaPajitnova" gender="F" rel_version="Quest_MSQ2_Revamp">Yelena Pajitnova</string>
+	<string key="06_YelenaPajitnova_title" rel_version="Quest_MSQ2_Revamp">Antiquarian</string>
+	<string key="06_RoyaHakimi" gender="F" rel_version="Quest_MSQ2_Revamp">Roya Hakimi</string>
+	<string key="06_RoyaHakimi_title" rel_version="Quest_MSQ2_Revamp">Admirer of the Iron Rose</string>
+	<string key="06_RoyaHakimi_title2" rel_version="Quest_MSQ2_Revamp">Iron Rose Page</string>
+	<string key="06_GideonStormsbane" gender="M" rel_version="Quest_MSQ2_Revamp">Gideon Sturm</string>
+	<string key="06_GideonStormsbane_title" rel_version="Quest_MSQ2_Revamp">Iron Rose Knight</string>
+	<string key="06_ElricChapman" gender="M" rel_version="Quest_MSQ2_Revamp">Elric Chapman</string>
+	<string key="06_PriyaThakur" gender="F" rel_version="Quest_MSQ2_Revamp">Priya Thakur</string>
+	<string key="06_MichaelLewis" gender="M" rel_version="Quest_MSQ2_Revamp">Michael Lewis</string>
+	<string key="06_LijsbetDeVries" gender="F" rel_version="Quest_MSQ2_Revamp">Lijsbet De Vries</string>
+	<string key="06_Medea" gender="F" rel_version="Quest_MSQ2_Revamp">Medea</string>
+	<string key="06_Medea_title" rel_version="Quest_MSQ2_Revamp">Sorceress</string>
+	<string key="0607_Commander" gender="F" rel_version="Quest_MSQ2_Revamp">Uzma Joshi</string>
+	<string key="0607_Commander_title" rel_version="Quest_MSQ2_Revamp">Marauder Commander</string>
+	<string key="0608_Alchemist" gender="M" rel_version="Quest_MSQ2_Revamp">Aleit Jansz</string>
+	<string key="0608_Alchemist_title" rel_version="Quest_MSQ2_Revamp">Syndicate Alchemist</string>
+	<string key="0609_Adjudicator" gender="M" rel_version="Quest_MSQ2_Revamp">Gilander Dempster</string>
+	<string key="0609_Adjudicator_title" rel_version="Quest_MSQ2_Revamp">Covenant Adjudicator</string>
+	<string key="06_Sweeper" gender="F" rel_version="Quest_MSQ2_Revamp">Dorothea Chloros</string>
+	<string key="06_Sweeper_title" rel_version="Quest_MSQ2_Revamp">Citizen of Corinth</string>
+	<string key="0623_Fisher" comment="male" gender="M" rel_version="Quest_MSQ2_Revamp">Michael Shields</string>
+	<string key="0623_Fisher_title" rel_version="Quest_MSQ2_Revamp">Master Fisher</string>
+	<string key="0699_Barkimedes" comment="male" gender="M" rel_version="Quest_MSQ2_Revamp">Barkimedes</string>
+	<string key="0699_Barkimedes_title" rel_version="Quest_MSQ2_Revamp">Eternal Hound</string>
+</resources>
 

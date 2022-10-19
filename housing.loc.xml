@@ -8,6 +8,7 @@
 	<string key="ui_house_abandon_this_house_desc" comment="Abandon House">{percent}% of the original purchase cost will be refunded if this house is abandoned. All trophies and furniture in the house will be moved to the town storage.</string>
 	<string key="ui_house_abandon_this_popup_desc" comment="Abandon House">&lt;font color="#f25d5d"&gt;{percent}% of the original purchase cost will be refunded if this house is abandoned.&lt;/font&gt;\nAll trophies &amp; furniture in the abandoned house will be moved into Town Storage.\n\nTo continue, type {territoryName} below.</string>
 	<string key="ui_house_abandon_this_popup_title" comment="Abandon House">Abandon House?</string>
+	<string key="ui_house_abandon_no_storage_warning" comment="Abandon House">You must have at least one free slot of Settlement storage before you can remove all items from your house.</string>
 	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Pay {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; to reset cooldown.</string>
 	<string key="ui_cannot_travel_currency" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; is required to fast travel</string>
 	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; is required to fast travel</string>
@@ -149,15 +150,15 @@
 	<string key="ui_house_overdue_label" comment="Housing Taxes">Property upkeep OVERDUE</string>
 	<string key="ui_house_property_tax_desc" comment="Housing Taxes">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_house_property_tax_sub_desc" comment="Housing Taxes">/ pay period is required to maintain this house.</string>
-	<string key="ui_house_tax" comment="Housing Taxes">Property Tax</string>
+	<string key="ui_house_tax" comment="Housing Taxes">Property Upkeep</string>
 	<string key="ui_house_tax_unpaid_flyout_warning" comment="Housing Taxes">House disabled due to unpaid property upkeep.</string>
 	<string key="ui_house_unpaid_taxes" comment="Housing Taxes">Overdue Amount</string>
-	<string key="ui_house_unpaid_taxes_due_soon" comment="Housing Taxes">Property Tax due at {territoryName} in: {time}. Pay the property upkeep to continue using Fast-travel and decoration</string>
+	<string key="ui_house_unpaid_taxes_due_soon" comment="Housing Taxes">Property Upkeep due at {territoryName} in: {time}. Pay the property upkeep to continue using Fast-travel and decoration</string>
 	<string key="ui_house_unpaid_taxes_string" comment="Housing Taxes">Your House (Disabled)</string>
 	<string key="ui_housing_disabled_tooltip" comment="Housing Taxes">Your house is disabled. Pay upkeep now to re-enable your house!</string>
 	<string key="ui_housing_pay_taxes" comment="Housing Taxes">Pay Upkeep</string>
 	<string key="ui_pay_house_tax_fail" comment="Housing Taxes">Error paying upkeep on home, please try again.</string>
-	<string key="ui_pay_property_tax" comment="Housing Taxes">Pay Property Upkeep</string>
+	<string key="ui_pay_property_tax" comment="Housing Taxes">Pay Upkeep</string>
 	<string key="ui_pay_property_tax_desc" comment="Housing Taxes">Pay Property upkeep via the map or at your house.</string>
 	<string key="ui_pay_property_tax_popup_desc" comment="Housing Taxes">Property upkeep must be paid in order to recall to your house, respawn at your house, and decorate your house.\nUpkeep is due {firstCycle} after you buy a house, and every {otherCycle} thereafter.</string>
 	<string key="ui_property_tax" comment="Housing Taxes">Property Upkeep</string>
@@ -175,7 +176,7 @@
 	<string key="ui_housing_trophy_buff_desc_tooltip" comment="Housing Trophy Buffs">A trophy that inspires you when placed in your home.</string>
 	<string key="ui_housing_trophy_buffs" comment="Housing Trophy Buffs">Trophy Buffs</string>
 	<string key="ui_housing_trophy_buffs_disabled" comment="Housing Trophy Buffs">Trophy Buffs (Disabled)</string>
-	<string key="ui_housing_tip_description1" comment="Load Screen Housing Tips">While in &lt;font color={colorHex}&gt;Decoration Mode&lt;/font&gt;, use &lt;font color={colorHex}&gt;rotate, grid snap&lt;/font&gt;, and ‘&lt;font color={colorHex}&gt;lock to surface&lt;/font&gt;’ features to decorate your house exactly how you want.</string>
+	<string key="ui_housing_tip_description1" comment="Load Screen Housing Tips">While in &lt;font color={colorHex}&gt;Decoration Mode&lt;/font&gt;, use &lt;font color={colorHex}&gt;Rotate, Grid Placement&lt;/font&gt;, and ‘&lt;font color={colorHex}&gt;Lock To Surface&lt;/font&gt;’ features to decorate your house exactly how you want.</string>
 	<string key="ui_housing_tip_description2" comment="Load Screen Housing Tips">Placing items that don’t clip through other items is the optimal way to increase your &lt;font color={colorHex}&gt;Decoration Score&lt;/font&gt; for each item placed.</string>
 	<string key="ui_housing_tip_description3" comment="Load Screen Housing Tips">Mount &lt;font color={colorHex}&gt;Trophies&lt;/font&gt; to activate &lt;font color={colorHex}&gt;passive bonuses&lt;/font&gt;.\n\nTip: Only 5 Trophies can be placed per house, but the effects from duplicate trophies can stack.</string>
 	<string key="ui_housing_tip_description4" comment="Load Screen Housing Tips">The panel on the right of your screen gives you your house &lt;font color={colorHex}&gt;Decoration Score&lt;/font&gt; and &lt;font color={colorHex}&gt;Decoration Limits&lt;/font&gt;.\n\nTip: Placing too many of the same item will result in a deduction in Decoration Score.</string>

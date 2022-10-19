@@ -68,5 +68,89 @@
 	<string key="objective_darkness_invasion_waves_title">DEFEND THE FORT</string>
 	<string key="objective_darkness_invasion_waves_desc">WAVE &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{currentWave}&lt;/font&gt;&lt;/font&gt; OF &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{totalWaves}&lt;/font&gt;</string>
 	<string key="objective_darkness_invasion_waves_desc_final">FINAL WAVE</string>
+	<string key="ui_preddieu_farm_attack" rel_version="Quest_MSQ2_Revamp">Sneed's Revenge</string>
+	<string key="ui_preddieu_farm_attack_description" rel_version="Quest_MSQ2_Revamp">Farmer Sneed still thinks this land is his and will stop at nothing to reclaim it. Protect the farms and drive him away.</string>
+	<string key="objective_preddieu_farm_attack_title">Stop Lost from Destroying Supplies</string>
+	<string key="objective_preddieu_farm_attack_wave_01">Remaining Supplies: {remainingCount}/3 \nTime Remaining:</string>
+	<string key="objective_preddieu_farm_attack_wave_02">Defeat Farmer Sneed</string>
+	<string key="ui_boatencounter_scallywag" rel_version="Quest_MSQ2_Revamp">The Captain's Arrival</string>
+	<string key="ui_boatencounter_scallywag_description" rel_version="Quest_MSQ2_Revamp">Brutal Captain Esteban and his crew are attacking the shore. Send the scurvy rats scurrying back to sea!</string>
+	<string key="ui_boatencounter_brysedd" rel_version="Quest_MSQ2_Revamp">Rumble on the Docks</string>
+	<string key="ui_boatencounter_brysedd_description" rel_version="Quest_MSQ2_Revamp">Captain Fyodor seeks to add more mates to his Lost crew. Fight him and free the shores of his foul stench!</string>
+	<string key="ui_holdout_chamber" rel_version="Quest_MSQ2_Revamp">Trial of the Old Warrior</string>
+	<string key="ui_holdout_chamber_description" rel_version="Quest_MSQ2_Revamp">Worthiness is never a given, it must be earned.</string>
+	<string key="ui_holdout_chamber_Obj_Task_01" rel_version="Quest_MSQ2_Revamp">Begin the Trial</string>
+	<string key="ui_holdout_chamber_Obj_Task_01_desc" rel_version="Quest_MSQ2_Revamp">Interact with gylph to begin trial</string>
+	<string key="ui_holdout_chamber_Obj_Task_02" rel_version="Quest_MSQ2_Revamp">Survive the Trial</string>
+	<string key="ui_holdout_chamber_Obj_Task_02_desc" rel_version="Quest_MSQ2_Revamp">Time Remaining: </string>
+	<string key="event_completed">Event Completed</string>
+	<string key="ui_nightveil_worldboss_baalphazu" rel_version="Event_Halloween_Temp">Baalphazu's Rising</string>
+	<string key="ui_nightveil_worldboss_baalphazu_description" rel_version="Event_Halloween_Temp">Nightveil Hallow has brought with it the dark entity Baalphazu, the Marquee of Terror and lord of his legion of Pumpkinites!</string>
+	<string key="objective_worldboss_task_clearpumpkinites_title" rel_version="Event_Halloween_Temp">Clear the Field of Pumpkinites!</string>
+	<string key="objective_worldboss_task_clearpumpkinites_desc" rel_version="Event_Halloween_Temp">Pumpkinites Remaining: {remainingCount}</string>
+	<string key="objective_worldboss_task_destroybaalphazu_title" rel_version="Event_Halloween_Temp">Destroy Baalphazu's Physical Form</string>
+	<string key="objective_worldboss_task_destroybaalphazu_desc" rel_version="Event_Halloween_Temp">Weaponize Pumpklin Heads Against Baalphazu to Break His Defenses.</string>
+	<string key="ui_legion_outpost_attack" rel_version="Territory_Brimstone_Sands">Brimstone Under Siege</string>
+	<string key="ui_legion_outpost_attack_description" rel_version="Territory_Brimstone_Sands">The Legion are advancing! Stop them before they reach the outpost of Wikala al-Waha!</string>
+	<string key="objective_legion_outpost_attack_title" rel_version="Territory_Brimstone_Sands">Stop the Legion's Advance</string>
+	<string key="objective_legion_outpost_attack_wave_01" rel_version="Territory_Brimstone_Sands">Investigate the Campsite</string>
+	<string key="objective_legion_outpost_attack_wave_02" rel_version="Territory_Brimstone_Sands">Defeat the Legion: {remainingCount}/5</string>
+	<string key="ui_sulfurpool_attack" rel_version="Territory_Brimstone_Sands">Demon's Cauldron</string>
+	<string key="ui_sulfurpool_attack_description" rel_version="Territory_Brimstone_Sands">Interrupt the ritual at the Pools of Orcus!</string>
+	<string key="objective_sulfurpool_attack_wave_01_title" rel_version="Territory_Brimstone_Sands">Approach the Crystal</string>
+	<string key="objective_sulfurpool_attack_wave_01_desc" rel_version="Territory_Brimstone_Sands">Time Remaining:</string>
+	<string key="objective_sulfurpool_attack_wave_02_title" rel_version="Territory_Brimstone_Sands">Drain the Azoth Shield</string>
+	<string key="objective_sulfurpool_attack_wave_02_desc" rel_version="Territory_Brimstone_Sands">Destroy the Crystal</string>
+	<string key="objective_sulfurpool_attack_wave_03_title" rel_version="Territory_Brimstone_Sands">Collect a Fragment</string>
+	<string key="objective_sulfurpool_attack_wave_03_desc" rel_version="Territory_Brimstone_Sands">Time Remaining:</string>
+	<string key="ui_solariumkhepri_attack" rel_version="Territory_Brimstone_Sands">Solarium Khepri</string>
+	<string key="ui_solariumkhepri_attack_description" rel_version="Territory_Brimstone_Sands">Elite Overlord</string>
+	<string key="objective_solariumkhepri_attack_wave_00_title" rel_version="Territory_Brimstone_Sands">Awaken the Overlord:</string>
+	<string key="objective_solariumkhepri_attack_wave_00_desc" rel_version="Territory_Brimstone_Sands">Enter the Solarium</string>
+	<string key="objective_solariumkhepri_attack_wave_01_title" rel_version="Territory_Brimstone_Sands">Defeat the Overlord:</string>
+	<string key="objective_solariumkhepri_attack_wave_01_desc" rel_version="Territory_Brimstone_Sands">Dawn's Chariot Khepri</string>
+	<string key="objective_solariumkhepri_attack_wave_02_title" rel_version="Territory_Brimstone_Sands">Explore the Solarium</string>
+	<string key="objective_solariumkhepri_attack_wave_02_desc" rel_version="Territory_Brimstone_Sands">Time Remaining:</string>
+	<string key="ui_ordealscorpio_attack" rel_version="Territory_Brimstone_Sands">Ordeal of the Scorpion</string>
+	<string key="ui_ordealscorpio_attack_description" rel_version="Territory_Brimstone_Sands">Elite Overlord</string>
+	<string key="objective_ordealscorpio_attack_wave_00_title" rel_version="Territory_Brimstone_Sands">Awaken the Overlord:</string>
+	<string key="objective_ordealscorpio_attack_wave_00_desc" rel_version="Territory_Brimstone_Sands">Enter the Cavern</string>
+	<string key="objective_ordealscorpio_attack_wave_01_title" rel_version="Territory_Brimstone_Sands">Defeat the Overlord:</string>
+	<string key="objective_ordealscorpio_attack_wave_01_desc" rel_version="Territory_Brimstone_Sands">Scorpio Supernal</string>
+	<string key="objective_ordealscorpio_attack_wave_02_title" rel_version="Territory_Brimstone_Sands">Explore the Cavern</string>
+	<string key="objective_ordealscorpio_attack_wave_02_desc" rel_version="Territory_Brimstone_Sands">Time Remaining:</string>
+	<string key="objective_msq_beach_chaplain">Eye of the Storm</string>
+	<string key="objective_msq_beach_chaplain_description">Challenge and defeat the Tempest Priest in the corrupted cavern to dispel the storm.</string>
+	<string key="objective_msq_beach_chaplain_task_defeat_title">Dispel the Corruption Storm</string>
+	<string key="objective_msq_beach_chaplain_task_defeat_desc">Defeat Tempest Priest</string>
+	<string key="objective_msq_beach_chaplain_task_destroy_title">Destroy Corruption Maws</string>
+	<string key="objective_msq_beach_chaplain_task_destroy_desc">Corruption Maws Remaining: {remainingCount}</string>
+	<string key="objective_msq_heartforge_guardian">Trial of the Heartforge</string>
+	<string key="objective_msq_heartforge_guardian_description">Challenge and defeat the Heartforge Guardian.</string>
+	<string key="objective_msq_heartforge_guardian_task_approach_title">Approach the Heartforge Guardian to Begin the Trial.</string>
+	<string key="objective_msq_heartforge_guardian_task_approach_desc">Approach the Heartforge Guardian</string>
+	<string key="objective_msq_heartforge_guardian_task_ignite_title">Ignite the Heartforge Flames to Break the Guardians Defenses.</string>
+	<string key="objective_msq_heartforge_guardian_task_ignite_desc">Heartforge Flames Ignited</string>
+	<string key="objective_msq_heartforge_guardian_task_defeat_title">Defeat the Heartforge Guardian.</string>
+	<string key="objective_msq_heartforge_guardian_task_defeat_desc">Heartforge Guardian Defeated</string>
+	<string key="objective_thornhall_medea_title" rel_version="Quest_MSQ2_Revamp">Medea</string>
+	<string key="objective_thornhall_medea_desc" rel_version="Quest_MSQ2_Revamp">Release the crystal energy to stun enemies</string>
+	<string key="06A_Encounter_Medea_Boss_Obj_Enc_Title" rel_version="Quest_MSQ2_Revamp">Path of Thorns</string>
+	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_Title" rel_version="Quest_MSQ2_Revamp">The Final Trial</string>
+	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_Title_description" rel_version="Quest_MSQ2_Revamp">Overcome the Remnant.</string>
+	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_defeat" rel_version="Quest_MSQ2_Revamp">Defeat the Remnant</string>
+	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_defeat_desc" rel_version="Quest_MSQ2_Revamp">Weaken the Remnant by destroying Inert Remnants near it.</string>
+	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_setup" rel_version="Quest_MSQ2_Revamp">Approach the Remnant</string>
+	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_setup_desc" rel_version="Quest_MSQ2_Revamp">Overcome the Remnant</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_Title" rel_version="Quest_MSQ2_Revamp">Corrupting of Nature</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_Title_desc" rel_version="Quest_MSQ2_Revamp">Defeat Zane to stop any further corruption of nature.</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_confront" rel_version="Quest_MSQ2_Revamp">Weaken Overseer Zane</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_confront_desc" rel_version="Quest_MSQ2_Revamp">Destroy the Corrupted Tendrils to weaken Zane. \nTendrils Remaining: {remainingCount}</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_defeat" rel_version="Quest_MSQ2_Revamp">Defeat Overseer Zane</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_defeat_desc" rel_version="Quest_MSQ2_Revamp">With Zane weakened, deal the finishing blow.</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_setup" rel_version="Quest_MSQ2_Revamp">Defeat Overseer Zane</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_setup_desc" rel_version="Quest_MSQ2_Revamp">Confront Overseer Zane</string>
+	<string key="ui_turkeyterror_worldboss_Turkulon">Turkulon's Terror</string>
+	<string key="ui_turkeyterror_worldboss_Turkulon_description">Turkulon has returned to avenge their fallen brethren</string>
 </resources>
 

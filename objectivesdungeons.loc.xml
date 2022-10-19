@@ -64,6 +64,7 @@
 	<string key="dungeon_reekwater_task_control_07">Gather the Ancient Guardian Heart.</string>
 	<string key="dungeon_reekwater_task_boss_01">Bring the Ancient Guardian Heart to the device at the center of the Lazarus Instrumentality.</string>
 	<string key="dungeon_reekwater_task_boss_02">Defeat Chardis.</string>
+	<string key="dungeon_reekwater_task_victory_celebration">Leave the Lazarus Instrumentality.</string>
 	<string key="dungeon_reekwater_task_complete">Leave the Lazarus Instrumentality.</string>
 	<string key="dungeon_ebonscale00_title">The Dynasty Shipyard</string>
 	<string key="dungeon_ebonscale00_description">Foil the Empress' plans</string>
@@ -125,6 +126,7 @@
 	<string key="dungeon_restlessshores01_task_get_thru_door">Get Through the Barrier with 3 Azoth Staffs</string>
 	<string key="dungeon_restlessshores01_task_enter_arena">Enter Commander Thorpe's Arena</string>
 	<string key="dungeon_restlessshores01_task_defeat_thorpe">Defeat Commander Thorpe</string>
+	<string key="dungeon_restlessshores01_task_victory_celebration">Return to Restless Shores</string>
 	<string key="dungeon_restlessshores01_task_return_shores">Return to Restless Shores</string>
 	<string key="DungeonRestlessShores_MinorMonolith">Destroy the Monolith</string>
 	<string key="dungeon_edengrove00_title">Garden of Genesis</string>
@@ -149,6 +151,7 @@
 	<string key="dungeon_edengrove00_task_defeat_fulgda">Defeat the Archer Fulg'da.</string>
 	<string key="dungeon_edengrove00_task_find_heart">Go now to the Blighted Heart of Genesis. It must be purified.</string>
 	<string key="dungeon_edengrove00_task_defeat_greenskeeper">Defeat the Blighted Greenskeeper.</string>
+	<string key="dungeon_edengrove_task_victory_celebration">Return to the surface, the Blighted Heart of Genesis has been cleansed.</string>
 	<string key="dungeon_edengrove00_task_use_portalstone">Return to the surface, the Blighted Heart of Genesis has been cleansed.</string>
 	<string key="DungeonUsePurifyingFlame">Requires a Purifying Flame</string>
 	<string key="DungeonDepositPurifyingFlame">Light with the Purifying Flame</string>
@@ -177,6 +180,21 @@
 	<string key="dungeon_ebonscale00_task_find_empress">Find Empress Zhou at the palace.</string>
 	<string key="dungeon_ebonscale00_task_defeat_empress">Defeat Empress Zhou!</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Leave the Shipyard.</string>
+	<string key="dungeon_brimstone_title" rel_version="Expedition_BrimstoneSands_00">The Ennead</string>
+	<string key="dungeon_brimstonesands00_title" rel_version="Expedition_BrimstoneSands_00">The Ennead</string>
+	<string key="dungeon_brimstone_description" rel_version="Expedition_BrimstoneSands_00">Investigate The Ennead and discover what secrets the Ancients hid in this timeless place</string>
+	<string key="dungeon_brimstonesands00_description" rel_version="Expedition_BrimstoneSands_00">Investigate The Ennead and discover what secrets the Ancients hid in this timeless place</string>
+	<string key="dungeon_brimstonesands00_required_equipment" rel_version="Expedition_BrimstoneSands_00">3 Azoth Staves</string>
+	<string key="dungeon_brimstone_task_defeat_shai" rel_version="Expedition_BrimstoneSands_00">Defeat Shai and his minions to open the door and explore the depths of the Ennead</string>
+	<string key="dungeon_brimstone_task_reach_scarab" rel_version="Expedition_BrimstoneSands_00">Find a way through the defenders of the Ennead</string>
+	<string key="dungeon_brimstone_task_defeat_scarab_boss" rel_version="Expedition_BrimstoneSands_00">Defeat Godling Khepri Supernal</string>
+	<string key="dungeon_brimstone_task_open_corrupted_gate" rel_version="Expedition_BrimstoneSands_00">Use the power of 3 Azoth staves to destroy the corruption blocking the way forward</string>
+	<string key="dungeon_brimstone_task_battle_through_legion" rel_version="Expedition_BrimstoneSands_00">Battle through the remnants of the 19th Legion</string>
+	<string key="dungeon_brimstone_task_defeat_crassus" rel_version="Expedition_BrimstoneSands_00">Defeat General Crassus</string>
+	<string key="dungeon_brimstone_task_reach_apex_of_ennead" rel_version="Expedition_BrimstoneSands_00">Reach the Apex of the Ennead</string>
+	<string key="dungeon_brimstone_task_defeat_goliaths" rel_version="Expedition_BrimstoneSands_00">Defeat Anpu and Heru</string>
+	<string key="dungeon_brimstone_task_victory_celebration" rel_version="Expedition_BrimstoneSands_00">Leave The Ennead</string>
+	<string key="dungeon_brimstone_task_exit_expedition" rel_version="Expedition_BrimstoneSands_00">Leave The Ennead</string>
 	<string key="dungeon_ebonscale_required_equipment">1 Azoth Staff</string>
 	<string key="dungeon_restlessshores01_required_equipment">3 Azoth Staves</string>
 	<string key="dungeon_shattermtn00_title" rel_version="Expedition_ShatterMtn_00">Tempest's Heart</string>
@@ -214,8 +232,20 @@
 	<string key="dungeon_shattermtn00_task_enter_portal_naga" rel_version="Expedition_ShatterMtn_00">Enter the portal into the Void Tunnel once more</string>
 	<string key="dungeon_shattermtn00_task_void_tunnel_03" rel_version="Expedition_ShatterMtn_00">Make your way through the Void Tunnel</string>
 	<string key="dungeon_shattermtn00_task_defeat_isabella_final" rel_version="Expedition_ShatterMtn_00">Defeat Isabella</string>
+	<string key="dungeon_shattermtn00_task_victory_celebration" rel_version="Expedition_ShatterMtn_00">Exit the Tempest's Heart Expedition</string>
 	<string key="dungeon_shattermtn00_task_dungeon_complete" rel_version="Expedition_ShatterMtn_00">Exit the Tempest's Heart Expedition</string>
 	<string key="DungeonUseRelicBubble" rel_version="Expedition_ShatterMtn_00">Requires The Reliquary</string>
 	<string key="dungeon_open_conversation" rel_version="Expedition_CutlassKeys_00">Examine</string>
+	<string key="Quest_Apophis_title" rel_version="Territory_Brimstone_Sands">Necropolis of Sutekh</string>
+	<string key="Quest_Apophis_description" rel_version="Territory_Brimstone_Sands">Prevent Apophis from reawakening the mighty Ancient, Sutekh, or all of Aeternum shall be flung into madness</string>
+	<string key="quest_apophis_task_approach" rel_version="Territory_Brimstone_Sands">Approach the Ancient Sarcophagus</string>
+	<string key="quest_apophis_task_destroy_apophis" rel_version="Territory_Brimstone_Sands">Defeat Apophis</string>
+	<string key="quest_apophis_task_leave" rel_version="Territory_Brimstone_Sands">Explore the Necropolis and Exit the Soul Trial</string>
+	<string key="Quest_Apophis_required_equipment" rel_version="Territory_Brimstone_Sands">1 Azoth Staff</string>
+	<string key="ui_solo_arena_leave" rel_version="Territory_Brimstone_Sands">Leave Soul Trial</string>
+	<string key="ui_solo_arena_leave_desc" rel_version="Territory_Brimstone_Sands">Are you sure you want to leave Soul Trial?</string>
+	<string key="ui_solo_arena_leave_desc_time" rel_version="Territory_Brimstone_Sands">Are you sure you want to leave Soul Trial?\nYou will be unable to queue for Soul Trial again for &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt;.</string>
+	<string key="ui_solo_arena_leave_title" rel_version="Territory_Brimstone_Sands">Leave Soul Trial?</string>
+	<string key="ui_cannot_travel_solo_arena" rel_version="Territory_Brimstone_Sands">You cannot fast travel while in Soul Trial</string>
 </resources>
 

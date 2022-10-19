@@ -1,0 +1,50 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_penalty_title_warning">Warning</string>
+	<string key="ui_penalty_title_cslock">Locked</string>
+	<string key="ui_penalty_title_permaban">Permanent Ban</string>
+	<string key="ui_penalty_title_suspension">Suspended</string>
+	<string key="ui_penalty_severity_suspension"> Your account has been suspended until {dateandtime}.</string>
+	<string key="ui_penalty_severity_permaban"> Your account has been permanently banned.</string>
+	<string key="ui_penalty_source_automated">Activity on your account has triggered an automated penalty for violating our Code of Conduct.</string>
+	<string key="ui_penalty_source_moderator">Activity on your account has been flagged and reviewed by a moderator for violating our Code of Conduct.</string>
+	<string key="ui_penalty_source_temp_lock">Your account is temporarily locked.</string>
+	<string key="ui_penalty_type_temp_lock">Temporary Lock</string>
+	<string key="ui_penalty_type_cheating">Cheating</string>
+	<string key="ui_penalty_type_disruptive">Disruptive Behavior</string>
+	<string key="ui_penalty_type_abusive">Abusive Language</string>
+	<string key="ui_penalty_type_character_name">Character Naming Policy</string>
+	<string key="ui_penalty_type_company_name">Company Naming Policy</string>
+	<string key="ui_penalty_type_group_lobby">Group Lobby Naming Policy</string>
+	<string key="ui_penalty_type_commerce">Commerce Lock</string>
+	<string key="ui_penalty_subtype_cs_impersonation">A GM is currently investigating an issue you've reported</string>
+	<string key="ui_penalty_subtype_cs_compromised">Account Compromised</string>
+	<string key="ui_penalty_subtype_cs_bypass">Character Issue</string>
+	<string key="ui_penalty_subtype_bot">Botting Behavior</string>
+	<string key="ui_penalty_subtype_exploit">Exploting a Bug</string>
+	<string key="ui_penalty_subtype_rmt_buy">Real Money Trade - Buying</string>
+	<string key="ui_penalty_subtype_rmt_sell">Real Money Trade - Selling</string>
+	<string key="ui_penalty_subtype_hack">Tampering with Game Files</string>
+	<string key="ui_penalty_subtype_accountshare">Account Sharing</string>
+	<string key="ui_penalty_subtype_harassthreat">Harassing/Threatening Players</string>
+	<string key="ui_penalty_subtype_discrimination">Discriminating Against Other Groups</string>
+	<string key="ui_penalty_subtype_doxx">Revealing Personal Information</string>
+	<string key="ui_penalty_subtype_bully">Bullying</string>
+	<string key="ui_penalty_subtype_toxicity">Toxicity</string>
+	<string key="ui_penalty_subtype_scam">Scamming</string>
+	<string key="ui_penalty_subtype_grieftroll">Griefing/Trolling</string>
+	<string key="ui_penalty_subtype_groupplay">Impeding/Sabotaging group play</string>
+	<string key="ui_penalty_subtype_employee">Impersonating Amazon Games Staff</string>
+	<string key="ui_penalty_subtype_vulgar">Vulgar / Offensive Language</string>
+	<string key="ui_penalty_subtype_hate">Hate Speech / Racist Language</string>
+	<string key="ui_penalty_subtype_fraud">Fraud Detected</string>
+	<string key="ui_penalty_subtype_chargeback">Chargeback / Refund Detected</string>
+	<string key="ui_penalty_subtype_invalid_key">Valid Game Key Not Detected</string>
+	<string key="ui_penalty_subtype_eac">Known Cheat Program Detected</string>
+	<string key="ui_penalty_reason">Reason: {type} : {subtype}</string>
+	<string key="ui_penalty_appeal_prefix_default">If you believe you have received this penalty in error,</string>
+	<string key="ui_penalty_appeal_prefix_cslock">If you believe you have received this in error,</string>
+	<string key="ui_penalty_appeal_prefix_wait">This shouldn't take longer than 30 minutes. If it's taking longer than expected,</string>
+	<string key="ui_penalty_appeal_link"> please follow the steps at &lt;font color="#0000ff"&gt;&lt;a data="appealban"&gt;Appeal a Penalty.&lt;/a&gt;&lt;/font&gt;</string>
+	<string key="ui_penalty_coc_link">We suggest that you review the &lt;font color="#0000ff"&gt;&lt;a data="coc"&gt;Amazon Games Code of Conduct.&lt;/a&gt;&lt;/font&gt;</string>
+</resources>
+

@@ -7,6 +7,7 @@
 	<string key="GypsumCasting_GroupName">Gypsum Casting</string>
 	<string key="GypsumRaw_GroupName">Gypsum Orbs</string>
 	<string key="GypsumCasts_GroupName">Gypsum Casts</string>
+	<string key="InfusedCasts_GroupName">Infused Casts</string>
 	<string key="GemstoneT2_GroupName">Standard Gemstones</string>
 	<string key="GemstoneT3_GroupName">Brilliant Gemstones</string>
 	<string key="GemstoneT4_GroupName">Pristine Gemstones</string>
@@ -643,6 +644,8 @@
 	<string key="CategoryData_PotionDesc">Potions are items that temporarily enhance performance.</string>
 	<string key="CategoryData_Alkahest">Alkahest</string>
 	<string key="CategoryData_AlkahestDesc">Alkahest are items used to craft potions.</string>
+	<string key="CategoryData_Ampoule">Ampoule</string>
+	<string key="CategoryData_AmpouleDesc">Ampoule are items used to craft reflexive potions.</string>
 	<string key="CategoryData_RangedWeapons">Ranged Weapons</string>
 	<string key="CategoryData_rawresources">Raw Resources</string>
 	<string key="CategoryData_RefinedMaterial">Refined Materials</string>
@@ -854,7 +857,7 @@
 	<string key="DungeonReps5_GroupName">Dynasty Shipyard Replicas</string>
 	<string key="DungeonReps6_GroupName">Lazarus Instrumentality Replicas</string>
 	<string key="DungeonReps7_GroupName">Garden of Genesis Replicas</string>
-	<string key="DungeonReps8_GroupName">NAME PENDING</string>
+	<string key="DungeonReps8_GroupName">Ennead Replicas</string>
 	<string key="DungeonReps9_GroupName">Tempest Heart Replicas</string>
 	<string key="DungeonShields_GroupName">Expedition Shields</string>
 	<string key="DungeonReps12_GroupName">Unique Expedition Rewards</string>
@@ -1089,8 +1092,10 @@
 	<string key="GatheringFood_GroupName">Gathering Foods</string>
 	<string key="GauntletIce_GroupDesc">Gauntlet that consumes Mana to summon the freezing powers of Ice spells. Great for dealing persistent damage by calling upon elemental storms, summoning ice, and utilizing freezing attacks that hinder and damage enemies.\n\n•Light Attack: Deals {[DamageTable.IceMagic_Primary.DmgCoef * 100]}% Ice damage.\n•Heavy Attack: Deals {[DamageTable.IceMagic_Heavy.DmgCoef * 100]}% Ice damage.</string>
 	<string key="GauntletIce_GroupName">Ice Gauntlets</string>
-	<string key="GauntletVoid_GroupDesc" rel_version="Weapon_Void_Gauntlet">Gauntlet that consumes Mana to debilitate foes and strengthen allies. Specializing in close-range buffs and dealing damage-over-time or mid-range debuffs and healing, the Void Gauntlet is particularly dangerous when used in a group.\n\n•Light Attack: Deals {[DamageTable.VoidGauntlet_Primary.DmgCoef * 100]}% Void damage.\n•Heavy Attack: Deals {[DamageTable.VoidGauntlet_Heavy.DmgCoef * 100]}% Void damage and heals self for {[VoidGauntletAbilityTable.Passive_VoidGauntlet_HealOnHeavy.DmgPctToHealth * 100]}% of the damage done.\n•Harvest Essence (Hold "Block"): Converts your health into mana over time. Rate scales with weapon damage.</string>
+	<string key="GauntletVoid_GroupDesc" rel_version="Weapon_Void_Gauntlet">Gauntlet that consumes Mana to debilitate foes and strengthen allies. Specializing in close - range buffs and dealing damage - over - time or mid - range debuffs and healing, the Void Gauntlet is particularly dangerous when used in a group.\n\n•Light Attack: Deals {[DamageTable.VoidGauntlet_Primary.DmgCoef * 100]}% Void damage.\n•Heavy Attack: Deals {[DamageTable.VoidGauntlet_Heavy.DmgCoef * 100]}% Void damage and heals self for {[VoidGauntletAbilityTable.Passive_VoidGauntlet_HealOnHeavy.DmgPctToHealth * 100]}% of the damage done.\n•Harvest Essence (Hold "Block"): Converts your health into mana over time. Rate scales with weapon damage.</string>
 	<string key="GauntletVoid_GroupName" rel_version="Weapon_Void_Gauntlet">Void Gauntlets</string>
+	<string key="GreatSword_GroupDesc" rel_version="Weapon_GreatSword">A versitile melee weapon that utilizes stances to adapt to different combat situations. It embodies relentless offense paired with aggressive defense to cut through any challenge.\n\n•Light Attack 1 and 2: Deals {[DamageTable.GreatSword_PrimaryAttack1.DmgCoef * 100]}% Slash damage.\n•Light Attack 3: Deals {[DamageTable.GreatSword_PrimaryAttack3.DmgCoef * 100]}% Slash damage.\n•Charged Heavy Attack 1 and 2: Deals {[DamageTable.GreatSword_HeavyAttack1.DmgCoef * 100]}% Slash damage.\n•Charged Heavy Attack 3: Deals {[DamageTable.GreatSword_HeavyAttack3.DmgCoef * 100]}% Slash damage.</string>
+	<string key="GreatSword_GroupName" rel_version="Weapon_GreatSword">Greatswords</string>
 	<string key="GemAmbe_CategoryName">Amber Gemstones</string>
 	<string key="GemAmet_CategoryName">Amethyst Gemstones</string>
 	<string key="GemAqua_CategoryName">Aquamarine Gemstones</string>
@@ -1841,7 +1846,7 @@
 	<string key="Blunderbuss_GroupName">Blunderbusses</string>
 	<string key="PerfectSalvageArmor_Name">Armor Scraps</string>
 	<string key="PerfectSalvageWeapons_Name">Weapon Scraps</string>
-	<string key="PerfectSalvageJewelry_Name">Jewelry Scraps</string>
+	<string key="PerfectSalvageJewelry_Name">Jewerly Scraps</string>
 	<string key="PerfectSalvageEngineer_Name">Engineering Scraps</string>
 	<string key="PerfectSalvageArcane_Name">Arcane Scraps</string>
 	<string key="SalvageTier2_Name">Tier II Scraps</string>
@@ -1854,7 +1859,9 @@
 	<string key="SalvageCreate">Fabricate</string>
 	<string key="SalvageResearch">Research</string>
 	<string key="SalvageCondense">Condense</string>
+	<string key="AlchemyAlkahestT1_GroupName">Alkahest</string>
 	<string key="AlchemyCritters_GroupName">Alchemy Critters</string>
+	<string key="Summer">Summer</string>
 	<string key="Instruments_GroupName" rel_version="Feature_MusicalPerformances">Instruments</string>
 	<string key="CategoryData_Instruments" rel_version="Feature_MusicalPerformances">Instruments</string>
 	<string key="InstrumentParts_GroupName" rel_version="Feature_MusicalPerformances">Instrument Parts</string>
@@ -1868,5 +1875,81 @@
 	<string key="TerritorySupplies_GroupName">Territory Supplies</string>
 	<string key="TerritoryContribution_GroupName">Territory Contributions</string>
 	<string key="InstrumentComponents_GroupName" rel_version="Feature_MusicalPerformances">Instruments Components</string>
+	<string key="InstrumentGuitarPick_GroupName">Guitar Parts</string>
+	<string key="InstrumentDrumHead_GroupName">Drum Parts</string>
+	<string key="InstrumentReed_GroupName">Reed Parts</string>
+	<string key="InstrumentSoundhole_GroupName">Mandolin Parts</string>
+	<string key="InstrumentFingerboard_GroupName">Bass Parts</string>
+	<string key="InstrumentGuitarPickT4_GroupName">Tier 4 Guitar Parts</string>
+	<string key="InstrumentDrumHeadT4_GroupName">Tier 4 Drum Parts</string>
+	<string key="InstrumentReedT4_GroupName">Tier 4 Reed Parts</string>
+	<string key="InstrumentSoundholeT4_GroupName">Tier 4 Mandolin Parts</string>
+	<string key="InstrumentFingerboardT4_GroupName">Tier 4 Bass Parts</string>
+	<string key="CategoryData_RuneglassFamily" rel_version="Territory_Brimstone_Sands">Runeglass Components</string>
+	<string key="RuneglassEmpty_GroupName" rel_version="Territory_Brimstone_Sands">Empty Runeglass Cases</string>
+	<string key="RuneglassAmber_GroupName" rel_version="Territory_Brimstone_Sands">Amber Runeglass Gems</string>
+	<string key="RuneglassAmethyst_GroupName" rel_version="Territory_Brimstone_Sands">Amethyst Runeglass Gems</string>
+	<string key="RuneglassAquamarine_GroupName" rel_version="Territory_Brimstone_Sands">Aquamarine Runeglass Gems</string>
+	<string key="RuneglassCarnelian_GroupName" rel_version="Territory_Brimstone_Sands">Carnelian Runeglass Gems</string>
+	<string key="RuneglassDiamond_GroupName" rel_version="Territory_Brimstone_Sands">Diamond Runeglass Gems</string>
+	<string key="RuneglassEmerald_GroupName" rel_version="Territory_Brimstone_Sands">Emerald Runeglass Gems</string>
+	<string key="RuneglassJasper_GroupName" rel_version="Territory_Brimstone_Sands">Jasper Runeglass Gems</string>
+	<string key="RuneglassMalachite_GroupName" rel_version="Territory_Brimstone_Sands">Malachite Runeglass Gems</string>
+	<string key="RuneglassMoonstone_GroupName" rel_version="Territory_Brimstone_Sands">Moonstone Runeglass Gems</string>
+	<string key="RuneglassOnyx_GroupName" rel_version="Territory_Brimstone_Sands">Onyx Runeglass Gems</string>
+	<string key="RuneglassOpal_GroupName" rel_version="Territory_Brimstone_Sands">Opal Runeglass Gems</string>
+	<string key="RuneglassRuby_GroupName" rel_version="Territory_Brimstone_Sands">Ruby Runeglass Gems</string>
+	<string key="RuneglassSapphire_GroupName" rel_version="Territory_Brimstone_Sands">Sapphire Runeglass Gems</string>
+	<string key="RuneglassTopaz_GroupName" rel_version="Territory_Brimstone_Sands">Topaz Runeglass Gems</string>
+	<string key="RuneglassFamily_GroupName" rel_version="Territory_Brimstone_Sands">Runeglass</string>
+	<string key="Glasswares_GroupName" rel_version="Territory_Brimstone_Sands">Glasswares</string>
+	<string key="GoldenScarabStr_GroupName">Golden Scarab - Strength</string>
+	<string key="GoldenScarabDex_GroupName">Golden Scarab - Dexterity</string>
+	<string key="GoldenScarabInt_GroupName">Golden Scarab - Intelligence</string>
+	<string key="GoldenScarabFoc_GroupName">Golden Scarab - Focus</string>
+	<string key="GoldenScarabCon_GroupName">Golden Scarab - Constitution</string>
+	<string key="Scarab_GroupName">Scarab</string>
+	<string key="Sulfur_GroupName">Sulfur</string>
+	<string key="Rune_GroupName">Runes</string>
+	<string key="DungeonNamedReplicas_GroupName">Unique Expedition Replicas</string>
+	<string key="UniqueDungeonReps1_GroupName">Unique Amrine Excavation Replicas</string>
+	<string key="UniqueDungeonReps10_GroupName">NAME PENDING</string>
+	<string key="UniqueDungeonReps2_GroupName">Unique Shattered Obelisk Replicas</string>
+	<string key="UniqueDungeonReps3_GroupName">NAME PENDING</string>
+	<string key="UniqueDungeonReps4_GroupName">Unique The Depths Replicas</string>
+	<string key="UniqueDungeonReps5_GroupName">Unique Dynasty Shipyard Replicas</string>
+	<string key="UniqueDungeonReps6_GroupName">Unique Lazarus Instrumentality Replicas</string>
+	<string key="UniqueDungeonReps7_GroupName">Unique Garden of Genesis Replicas</string>
+	<string key="UniqueDungeonReps8_GroupName">Unique Ennead Replicas</string>
+	<string key="UniqueDungeonReps9_GroupName">Unique Tempest Heart Replicas</string>
+	<string key="UniqueDungeonReps11_GroupName">Unique Barnacles and Black Powder Replicas</string>
+	<string key="HideT5_GroupName">Hide Tier 5</string>
+	<string key="CategoryData_ArmorHeavy">Heavy Armor</string>
+	<string key="CategoryData_ArmorMedium">Medium Armor</string>
+	<string key="CategoryData_ArmorLight">Light Armor</string>
+	<string key="SlotChest_GroupName">Chest Armor</string>
+	<string key="SlotFeet_GroupName">Foot Armor</string>
+	<string key="SlotHands_GroupName">Hand Armor</string>
+	<string key="SlotHead_GroupName">Head Armor</string>
+	<string key="SlotLegs_GroupName">Leg Armor</string>
+	<string key="ScarabAmulets_GroupName">Amulets - Golden Scarab</string>
+	<string key="ScarabRings_GroupName">Rings - Golden Scarab</string>
+	<string key="ScarabEarrings_GroupName">Earrings - Golden Scarab</string>
+	<string key="ScarabMeleeWeapons_GroupName">Melee Weapons - Golden Scarab</string>
+	<string key="ScarabMagicStaves_GroupName">Magic Staves - Golden Scarab</string>
+	<string key="ScarabStaffFire_GroupName">Fire Staffs - Golden Scarab</string>
+	<string key="ScarabStaffLife_GroupName">Ice Staffs - Golden Scarab</string>
+	<string key="ScarabGauntletIce_GroupName">Ice Gauntlets - Golden Scarab</string>
+	<string key="ScarabGauntletVoid_GroupName">Void Gauntlets - Golden Scarab</string>
+	<string key="ScarabRangedWeapons_GroupName">Ranged Weapons - Golden Scarab</string>
+	<string key="ScarabArmorPlate_GroupName">Plate Armor - Golden Scarab</string>
+	<string key="ScarabArmorFur_GroupName">Fur Armor - Golden Scarab</string>
+	<string key="ScarabArmorCloth_GroupName">Cloth Armor - Golden Scarab</string>
+	<string key="ScarabArmorLeather_GroupName">Leather Armor - Golden Scarab</string>
+	<string key="ScarabArmorRobe_GroupName">Robes - Golden Scarab</string>
+	<string key="ScarabArmorPlateHeavy_GroupName">Heavy Plate Armor - Golden Scarab</string>
+	<string key="WinterConvergence_GroupName">(Event) Winter Convergence</string>
+	<string key="NightveilHallow_GroupName">(Event) Nightveil Hallow</string>
+	<string key="SummerMedleyfaire_GroupName">(Event) Summer Medleyfaire</string>
 </resources>
 

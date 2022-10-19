@@ -295,5 +295,8 @@
 	<string key="objective_mission_task_control_point_S">Capture Fort {TerritoryID} for the Syndicate</string>
 	<string key="objective_mission_task_control_point_C">Capture Fort {TerritoryID} for the Covenant</string>
 	<string key="objective_mission_faction_corruption_breach" rel_version="Quest_FM_BreachMissions">Close a Corruption Breach</string>
+	<string key="objective_mission_rescue_npc_generic" rel_version="Quest_MSQ2_Revamp">Rescue Hostages</string>
+	<string key="objective_mission_boatencounter_obj_title" rel_version="Quest_MSQ2_Revamp">Destroy Boat</string>
+	<string key="objective_mission_boatencounter_obj_desc" rel_version="Quest_MSQ2_Revamp">Fire Cannons</string>
 </resources>
 

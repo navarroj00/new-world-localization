@@ -251,15 +251,16 @@
 	<string key="TradeskillBuilding8_Description">Your skill as a builder grows. Structures that you build are now slightly sturdier than before and can sustain more damage before falling. Only new structures are affected.</string>
 	<string key="TradeskillBuilding9_Description">Your skill as a builder grows. Structures that you build are now slightly sturdier than before and can sustain more damage before falling. Only new structures are affected.</string>
 	<string key="TradeskillBuilding10_Description">MASTER ARCHITECT: Your skill as a builder grows. Structures that you build are now significantly sturdier than before and can sustain more damage before falling. Only new structures are affected.</string>
-	<string key="ui_onehanded_weapons">One-Handed Weapons</string>
-	<string key="ui_twohanded_weapons">Two-Handed Weapons</string>
-	<string key="ui_ranged_weapons">Ranged Weapons</string>
+	<string key="ui_onehanded_weapons">One-Handed</string>
+	<string key="ui_twohanded_weapons">Two-Handed</string>
+	<string key="ui_ranged_weapons">Ranged</string>
 	<string key="ui_magic_skills">Magic Skills</string>
 	<string key="ui_weaponmastery_description">Weapon skills are advanced by using weapons of that type. Each level grants a point to spend to unlock upgrades specific to that weapon.</string>
 	<string key="ui_weaponmastery_in_progress" comment="this is a temporary message to explain the limited number of weapon mastery trees available">Weapon Mastery trees are still in development. More weapons coming soon.</string>
 	<string key="ui_farmplants">Farm Plants</string>
 	<string key="ui_hemp">Hemp</string>
 	<string key="ui_hempt4">Silkweed</string>
+	<string key="ui_aloe">Aloe Gel</string>
 	<string key="ui_hempt5">Wirefiber</string>
 	<string key="ui_alchemy1">Magical Plants</string>
 	<string key="ui_alchemy2">Magical Stones</string>
@@ -276,7 +277,9 @@
 	<string key="ui_lodestone">Lodestone</string>
 	<string key="ui_gold">Gold</string>
 	<string key="ui_starmetal">Starmetal</string>
+	<string key="ui_sandstone">Sandstone</string>
 	<string key="ui_platinum">Platinum</string>
+	<string key="ui_brimstone">Brimstone</string>
 	<string key="ui_orichalcum">Orichalcum</string>
 	<string key="ui_wyrdwood">Wyrdwood</string>
 	<string key="ui_ironwood">Ironwood</string>
@@ -287,8 +290,8 @@
 	<string key="ui_canSkinLevel">You can skin animals that are up to &lt;font color={levelColor}&gt;level {maxGatherLevel}&lt;/font&gt;</string>
 	<string key="ui_skillToSkinLevel">At skill level {skillLevel} you will be able to skin animals up to level {maxGatherLevel}</string>
 	<string key="ui_skillToSkinLevelShort">Skill level: {skillLevel} - Animal level: {maxGatherLevel}</string>
-	<string key="iconTypeUnlock_youngtrees">Young Trees</string>
-	<string key="iconTypeUnlock_maturetrees">Mature Trees</string>
+	<string key="iconTypeUnlock_youngtrees">Young Trees and Cacti</string>
+	<string key="iconTypeUnlock_maturetrees">Mature Trees and Cacti</string>
 	<string key="ui_fishing_hotspot_tutorial_label">How Fishing Hotspots Work</string>
 	<string key="ui_fishing_hotspot_tutorial">You can tell a fishing hotspot is active when you see fish jumping out of it.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotactive.png" height="115"&gt;&lt;/img&gt;\nWhile it's active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you'll see a small alert telling you you've hit the hotspot.\n\nAfter enough fish are caught at a hotspot it will become depleted. You can tell a hotspot is depleted when there are no fish jumping.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotdepleted.png" height="115"&gt;&lt;/img&gt;\nA depleted hotspot will become active again after some time has passed.\n\nAs your fishing skill improves, you will be able to find more and better hotspots.</string>
 </resources>

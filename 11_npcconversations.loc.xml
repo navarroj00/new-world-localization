@@ -85,5 +85,7 @@
 	<string key="1129_Sculpture_Default" comment="at 13997.510 8018.511 39.738" speaker="Ancient Head - Mourningdale" name="StrangeSculpture" VO="1129_Sculpture_Default" VO_Status="Recorded?">This sculpted head has a strange aura. \n\nStranger than usual.</string>
 	<string key="1129_Jaansen_Note_1" comment="In Mourningdale Tavern on the wall" speaker="Tavern - Mourningdale" name="JanJaansen" VO="1129_Jaansen_Note_1" VO_Status="Recorded">A public letter posted by Jan Jaansen.</string>
 	<string key="1129_Jaansen_Note_Default" comment="In Mourningdale Tavern on the wall" speaker="Tavern - Mourningdale" name="JanJaansen" VO="1129_Jaansen_Note_Default" VO_Status="Recorded">A public letter posted by Jan Jaansen.</string>
+	<string key="1141_Halloween_Bucket_Default" comment="DO NOT TRANSLATE" speaker="All Settlements for Nightveil" name="Pumpklin Innard Bucket" VO_Status="N/A" rel_version="Event_Halloween_Temp" gender="Object">(A bucket of Pumpkinite Innards sits next to the Nightveil Hallow Cauldron.)</string>
+	<string key="1141_Halloween_Bucket_2" comment="DO NOT TRANSLATE" speaker="All Settlements for Nightveil" name="Pumpklin Innard Bucket" VO_Status="N/A" rel_version="Event_Halloween_Temp" gender="Object">(Salvatore mentioned something about keeping this bucket full to fuel the Cauldron. Should you put in Pumpkinite Innards?)</string>
 </resources>
 

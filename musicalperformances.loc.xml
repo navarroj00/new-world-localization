@@ -22,6 +22,7 @@
 	<string key="ui_musical_performances_instrument_required_to_start" rel_version="Feature_MusicalPerformances">You need at least 2 parts selected to start a performance.</string>
 	<string key="ui_musical_performances_timeout_inactivity" rel_version="Feature_MusicalPerformances">Your performance has timed out because of inactivity.</string>
 	<string key="ui_musical_performances_cannot_place_too_close_to_restricted" rel_version="Feature_MusicalPerformances">You cannot place a performance here - too close to a restricted area.</string>
+	<string key="ui_musical_performances_createfailed_inhouse" rel_version="Feature_MusicalPerformances">You cannot start a performance while inside of a house.</string>
 	<string key="ui_musical_performances_no_part_selected" rel_version="Feature_MusicalPerformances">There is no part selected.</string>
 	<string key="ui_musical_performances_tooltip_description" rel_version="Feature_MusicalPerformances">{instrument} Music Sheet</string>
 	<string key="ui_musical_performances_tooltip_tip" rel_version="Feature_MusicalPerformances">Collect pages to complete the music sheet for each instrument.</string>
@@ -72,6 +73,7 @@
 	<string key="ui_musical_performances_watching_tips_timer" rel_version="Feature_MusicalPerformances">TIP TIMER</string>
 	<string key="ui_musical_performances_waiting_for_tips" rel_version="Feature_MusicalPerformances">WAITING FOR TIPS...</string>
 	<string key="ui_musical_performances_end_tipping" rel_version="Feature_MusicalPerformances">End Now and Collect Tips</string>
+	<string key="ui_musical_performances_tip_timer_duration" rel_version="Feature_MusicalPerformances">{seconds}s</string>
 	<string key="ui_musical_performances_complete" rel_version="Feature_MusicalPerformances">PERFORMANCE\nCOMPLETE!</string>
 	<string key="ui_musical_performances_score_00" rel_version="Feature_MusicalPerformances">Amazing!</string>
 	<string key="ui_musical_performances_score_01" rel_version="Feature_MusicalPerformances">Great!</string>
@@ -92,7 +94,7 @@
 	<string key="ui_musical_performance_failmessage_system_error" rel_version="Feature_MusicalPerformances">An unknown error occured inviting that player.</string>
 	<string key="ui_musical_performance_failmessage_cancelled" rel_version="Feature_MusicalPerformances">The invite was cancelled.</string>
 	<string key="ui_musical_performance_failmessage_blocked" rel_version="Feature_MusicalPerformances">That player is blocked.</string>
-	<string key="ui_musical_performance_failmessage_fasttravelchanneling" rel_version="Feature_MusicalPerformances">You can't invite a plyaer that is fast travel channeling.</string>
+	<string key="ui_musical_performance_failmessage_fasttravelchanneling" rel_version="Feature_MusicalPerformances">You can't invite a player that is fast travel channeling.</string>
 	<string key="ui_musical_performance_failmessage_declined" rel_version="Feature_MusicalPerformances">That player declined your invite.</string>
 	<string key="ui_musical_performance_failmessage_throttled" rel_version="Feature_MusicalPerformances">Your invite was throttled.</string>
 	<string key="ui_musical_performance_invite_sent" rel_version="Feature_MusicalPerformances">Music Performance invite sent.</string>
@@ -145,6 +147,7 @@
 	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Playing solo rewards the player with a 10% Music XP Boost</string>
 	<string key="ui_music_guitar_part_1" rel_version="Feature_MusicalPerformances">Guitar (Part 1)</string>
 	<string key="ui_music_guitar_part_2" rel_version="Feature_MusicalPerformances">Guitar (Part 2)</string>
+	<string key="ui_music_guitar_part_3" rel_version="Feature_MusicalPerformances">Guitar (Part 3)</string>
 	<string key="ui_music_flute_part_1" rel_version="Feature_MusicalPerformances">Flute (Part 1)</string>
 	<string key="ui_music_flute_part_2" rel_version="Feature_MusicalPerformances">Flute (Part 2)</string>
 	<string key="ui_music_ubass_part_1" rel_version="Feature_MusicalPerformances">Upright Bass (Part 1)</string>
@@ -187,28 +190,17 @@
 	<string key="songtitle_Seed" rel_version="Feature_MusicalPerformances">Wild Meadowsweet</string>
 	<string key="songtitle_Set" rel_version="Feature_MusicalPerformances">Before The Storm</string>
 	<string key="songtitle_Trust" rel_version="Feature_MusicalPerformances">Waning Light</string>
-	<string key="songtitle_Gatherers_Rush" rel_version="Feature_MusicalPerformances">Gatherers' Rush</string>
-	<string key="songtitle_Sap_Of_Brightwood" rel_version="Feature_MusicalPerformances">Sap Of Brightwood</string>
-	<string key="songtitle_Old_Windsward_Shack" rel_version="Feature_MusicalPerformances">Old Windsward Shack</string>
-	<string key="songtitle_Brown_Leaves" rel_version="Feature_MusicalPerformances">Ironwood Leaves</string>
-	<string key="songtitle_My_Beef_Is_With_The_Butcher" rel_version="Feature_MusicalPerformances">Stoke The Forge</string>
-	<string key="songtitle_Sword_And_Board" rel_version="Feature_MusicalPerformances">Trading Post Hustle</string>
-	<string key="songtitle_Wayfaring_Stranger" rel_version="Feature_MusicalPerformances">Wayfaring Stranger</string>
-	<string key="songtitle_Second_Coming" rel_version="Feature_MusicalPerformances">Memories Of Brightwood</string>
-	<string key="songtitle_9_Pound_Hammer" rel_version="Feature_MusicalPerformances">9 Pound Hammer</string>
-	<string key="songtitle_Down_The_Lane" rel_version="Feature_MusicalPerformances">Fellows Of Windsward</string>
-	<string key="songtitle_How_Ore_You_Today" rel_version="Feature_MusicalPerformances">How Ore You Today</string>
-	<string key="songtitle_Tavern_Blues" rel_version="Feature_MusicalPerformances">Last Call</string>
-	<string key="songtitle_The_Camp" rel_version="Feature_MusicalPerformances">My Camp</string>
-	<string key="songtitle_The_Camp_Grows" rel_version="Feature_MusicalPerformances">My Home</string>
-	<string key="songtitle_Before_This_Time" rel_version="Feature_MusicalPerformances">Before This Time</string>
-	<string key="songtitle_Blue_Leaves" rel_version="Feature_MusicalPerformances">Wyrdwood Leaves</string>
-	<string key="songtitle_Sounds_Of_Bells" rel_version="Feature_MusicalPerformances">Sounds Of Bells</string>
-	<string key="songtitle_Fight" rel_version="Feature_MusicalPerformances">Victory At Hand</string>
-	<string key="songtitle_Weavers_Webb" rel_version="Feature_MusicalPerformances">Weaver's Webb</string>
-	<string key="songtitle_The_OldWood" rel_version="Feature_MusicalPerformances">The Old Wood</string>
-	<string key="songtitle_Honor_Of_The_Warrior" rel_version="Feature_MusicalPerformances">Honor Of The Warrior</string>
-	<string key="songtitle_Heed_The_Stead" rel_version="Feature_MusicalPerformances">Road To Everfall</string>
-	<string key="songtitle_The_Kid_On_The_Mountain" rel_version="Feature_MusicalPerformances">The Kid On The Mountain</string>
+	<string key="songtitle_Brown_Leaves" rel_version="Feature_MusicalPerformancesV2">Ironwood Leaves</string>
+	<string key="songtitle_Down_The_Lane" rel_version="Feature_MusicalPerformancesV2">Fellows Of Windsward</string>
+	<string key="songtitle_How_Ore_You_Today" rel_version="Feature_MusicalPerformancesV2">How Ore You Today</string>
+	<string key="songtitle_The_Camp" rel_version="Feature_MusicalPerformancesV2">My Camp</string>
+	<string key="songtitle_The_Camp_Grows" rel_version="Feature_MusicalPerformancesV2">My Home</string>
+	<string key="songtitle_Blue_Leaves" rel_version="Feature_MusicalPerformancesV2">Wyrdwood Leaves</string>
+	<string key="songtitle_Sounds_Of_Bells" rel_version="Feature_MusicalPerformancesV2">Sounds Of Bells</string>
+	<string key="songtitle_Weavers_Webb" rel_version="Feature_MusicalPerformancesV2">Weaver's Webb</string>
+	<string key="songtitle_The_Kid_On_The_Mountain" rel_version="Feature_MusicalPerformancesV2">The Kid On The Mountain</string>
+	<string key="songtitle_That_Damn_Fish" rel_version="Feature_MusicalPerformancesV2">That Damn Fish</string>
+	<string key="songtitle_Soup_Of_The_Day" rel_version="Feature_MusicalPerformancesV2">Soup Of The Day</string>
+	<string key="songtitle_Canarios" rel_version="Feature_MusicalPerformancesV2">Canarios</string>
 </resources>
 

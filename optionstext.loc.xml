@@ -34,7 +34,7 @@
 	<string key="ui_voicechatsettings">Voice Chat</string>
 	<string key="ui_openvoicechatsettings">Open Voice Chat Settings</string>
 	<string key="ui_invertlook">Invert Camera</string>
-	<string key="ui_invertlook_desc">Invert the Y Axis</string>
+	<string key="ui_invertlook_desc">Invert the Y axis</string>
 	<string key="ui_looksensitivity">Camera Sensitivity</string>
 	<string key="ui_looksensitivity_desc">Change how fast your camera moves</string>
 	<string key="ui_window_mode">Window Mode</string>
@@ -45,30 +45,30 @@
 	<string key="ui_windowed_fullscreen">Windowed Fullscreen</string>
 	<string key="ui_borderless_window">Borderless Window</string>
 	<string key="ui_resolution">Resolution</string>
-	<string key="ui_resolution_desc">Your Resolution</string>
+	<string key="ui_resolution_desc">Your resolution</string>
 	<string key="ui_monitor">Monitor</string>
-	<string key="ui_monitor_desc">Your Monitor</string>
+	<string key="ui_monitor_desc">Your monitor</string>
 	<string key="ui_show_fps">Show FPS</string>
-	<string key="ui_show_fps_desc">Show or Hide your FPS</string>
+	<string key="ui_show_fps_desc">Show or hide your FPS</string>
 	<string key="ui_enable_vsync">V-Sync</string>
 	<string key="ui_enable_vsync_description">Limit frame rate to monitor refresh setting. Turn on to reduce screen tearing</string>
 	<string key="ui_enable_motionblur">Motion Blur</string>
 	<string key="ui_enable_motionblur_description">Toggle motion blur</string>
-	<string key="ui_graphics_effect">Effects details</string>
+	<string key="ui_graphics_effect">Effects Details</string>
 	<string key="ui_graphics_effect_description">Pre-set quality of effects, particles, and volumetric effects in the game</string>
-	<string key="ui_graphics_lighting">Lighting details</string>
+	<string key="ui_graphics_lighting">Lighting Details</string>
 	<string key="ui_graphics_lighting_description">Pre-set quality of lighting in the game, not including shadows</string>
-	<string key="ui_graphics_objects">Object details</string>
+	<string key="ui_graphics_objects">Object Details</string>
 	<string key="ui_graphics_objects_description">Pre-set quality of objects in the game</string>
-	<string key="ui_graphics_postprocessing">Post processing details</string>
-	<string key="ui_graphics_postprocessing_description">Pre-set quality of postprocessing in the game</string>
-	<string key="ui_graphics_shadows">Shadows details</string>
+	<string key="ui_graphics_postprocessing">Post Processing Details</string>
+	<string key="ui_graphics_postprocessing_description">Pre-set quality of post processing in the game</string>
+	<string key="ui_graphics_shadows">Shadows Details</string>
 	<string key="ui_graphics_shadows_description">Pre-set quality of shadows in the game, not including lighting</string>
-	<string key="ui_graphics_terrain">Terrain details</string>
+	<string key="ui_graphics_terrain">Terrain Details</string>
 	<string key="ui_graphics_terrain_description">Pre-set quality of terrain in the game</string>
-	<string key="ui_graphics_textures">Texture details</string>
+	<string key="ui_graphics_textures">Texture Details</string>
 	<string key="ui_graphics_textures_description">Pre-set quality of textures in the game</string>
-	<string key="ui_graphics_water">Water details</string>
+	<string key="ui_graphics_water">Water Details</string>
 	<string key="ui_graphics_water_description">Pre-set quality of water in the game</string>
 	<string key="ui_graphics_emote_fx">Emotes special fx</string>
 	<string key="ui_graphics_emote_fx_description">Toggle showing special fx from other players' emotes.</string>
@@ -108,7 +108,7 @@
 	<string key="ui_streamermode_server_currency">Block Coin Transfers</string>
 	<string key="ui_streamermode_server_currency_desc">Block coin transfers and notifications</string>
 	<string key="ui_streamermode_server_music_invite" rel_version="Feature_MusicalPerformances">Block Music Invites</string>
-	<string key="ui_streamermode_server_music_invite_desc" rel_version="Feature_MusicalPerformances">Block Musical Performance Invites and Notifications</string>
+	<string key="ui_streamermode_server_music_invite_desc" rel_version="Feature_MusicalPerformances">Block musical performance invites and notifications</string>
 	<string key="ui_voicechatmode">Voice Chat Mode</string>
 	<string key="ui_voicechatmode_desc">Your current voice chat mode</string>
 	<string key="ui_voicechatmode_enabled">Enabled</string>
@@ -145,7 +145,7 @@
 	<string key="ui_ambvolume_desc">Change the volume of ambient effects</string>
 	<string key="ui_vocalsvolume">Vocals Volume</string>
 	<string key="ui_vocalsvolume_desc">Change the volume of vocals</string>
-	<string key="ui_vovolume">Voice-over Volume</string>
+	<string key="ui_vovolume">Voice-Over Volume</string>
 	<string key="ui_vovolume_desc">Change the volume of voice-over</string>
 	<string key="ui_musicvolume">Music Volume</string>
 	<string key="ui_musicvolume_desc">Change the volume of the music</string>
@@ -172,7 +172,7 @@
 	<string key="es-ES">Español – ES</string>
 	<string key="es-MX">Español - MX</string>
 	<string key="pt-BR">Português - BR</string>
-	<string key="ui_profanity_filter">Language filter</string>
+	<string key="ui_profanity_filter">Language Filter</string>
 	<string key="ui_profanity_filter_desc">Filter bad words from the chat</string>
 	<string key="ui_subtitles">Subtitles</string>
 	<string key="ui_subtitles_desc">Enable the display of subtitles for dialog</string>
@@ -190,7 +190,7 @@
 	<string key="ui_options_ColorBlindness_Achromatopsia">Achromatopsia</string>
 	<string key="ui_options_ColorBlindness_Achromatomaly">Achromatomaly</string>
 	<string key="ui_options_twitch">Twitch</string>
-	<string key="ui_options_TwitchLogin">Connect To Twitch</string>
+	<string key="ui_options_TwitchLogin">Connect to Twitch</string>
 	<string key="ui_options_TwitchLogin_desc">Log in to Twitch to enable Twitch features</string>
 	<string key="ui_options_TwitchStreamerSpotlight">Twitch Streamer Spotlight</string>
 	<string key="ui_options_TwitchStreamerSpotlight_desc">Enable Twitch Streamer Spotlight. Allows other players to see that you are streaming on Twitch (only works while streaming)</string>
@@ -202,17 +202,17 @@
 	<string key="ui_textSize_desc">Enlarge the size of Nameplates and Interact hints</string>
 	<string key="ui_options_textSize_regular">Regular</string>
 	<string key="ui_options_textSize_bigger">Bigger</string>
-	<string key="ui_cameraShake">Enable camera shake</string>
+	<string key="ui_cameraShake">Enable Camera Shake</string>
 	<string key="ui_cameraShake_desc">Camera shake may be disorienting for some players</string>
 	<string key="ui_strafeCamera">Always strafe</string>
 	<string key="ui_strafeCamera_desc">Character always faces camera direction</string>
-	<string key="ui_alwaysShowReticle">Always show reticle</string>
+	<string key="ui_alwaysShowReticle">Always Show Reticle</string>
 	<string key="ui_alwaysShowReticle_desc">Reticle is visible even when your weapon is sheathed</string>
-	<string key="ui_show_pvp_xp">Show PvP Xp On Screen</string>
+	<string key="ui_show_pvp_xp">Show PvP XP On Screen</string>
 	<string key="ui_show_pvp_xp_desc">Disable this to hide PvP XP gains.</string>
 	<string key="ui_showInspectHint">Social Actions Hotkey Hint</string>
 	<string key="ui_showInspectHint_desc">When looking at a nearby player, show the social actions hotkey hint on their nameplate</string>
-	<string key="ui_restore_defaults">Restore defaults</string>
+	<string key="ui_restore_defaults">Restore Defaults</string>
 	<string key="ui_restore_defaults_desc">Restore these options to their default settings</string>
 	<string key="ui_restore_defaults_prompt">Are you sure you want to restore these options to their default settings?</string>
 	<string key="ui_audiooutput_headphones">Headphones</string>
@@ -221,12 +221,10 @@
 	<string key="ui_mute_performance_desc" rel_version="Feature_MusicalPerformances">Mute the music performed by other players</string>
 	<string key="ui_mute_combat_music" rel_version="Feature_MusicalPerformances">Mute Combat Music</string>
 	<string key="ui_mute_combat_music_desc" rel_version="Feature_MusicalPerformances">Mute combat music</string>
-	<string key="ui_mute_secondary_music" rel_version="Feature_MusicalPerformances">Mute Secondary Performance Audio</string>
-	<string key="ui_mute_secondary_music_desc" rel_version="Feature_MusicalPerformances">Mute clapping and secondary musical performance effects</string>
 	<string key="ui_musicInstrument_volume" rel_version="Feature_MusicalPerformances">Musical Instruments Volume</string>
 	<string key="ui_musicInstrument_volume_desc" rel_version="Feature_MusicalPerformances">Adjust music played by local and remote players performing musical instruments</string>
 	<string key="ui_outputconfiguration">Output Configuration</string>
-	<string key="ui_outputconfiguration_desc">Switch between 360 degree audio panning for Home Theater and 180 degree audio panning for Headphones</string>
+	<string key="ui_outputconfiguration_desc">Switch between 360 degree audio panning for home theater and 180 degree audio panning for headphones</string>
 	<string key="ui_texttospeech">Text-to-Speech</string>
 	<string key="ui_texttospeech_desc">Enable Text-to-Speech for incoming chat messages</string>
 	<string key="ui_tts_rate">Text-to-Speech Rate</string>
@@ -244,7 +242,7 @@
 	<string key="ui_bandwidthmode">Bandwidth Mode</string>
 	<string key="ui_bandwidthmode_desc">Bandwidth mode to use when receiving data from the server. Low values may affect quality</string>
 	<string key="ui_analyticsenabled">Emit Client Telemetry Data</string>
-	<string key="ui_analyticsenabled_desc">If you turn this setting off, you will stop sending certain client telemetry data relating to your play experience and settings to the New World team. If you are experiencing network issues in New World, turning off this setting may help.</string>
+	<string key="ui_analyticsenabled_desc">If you turn this setting off, you will stop sending certain client telemetry data relating to your play experience and settings to the New World team. If you are experiencing network issues in New World, turning off this setting may help</string>
 	<string key="ui_enable_camera_lock">Targeted Healing</string>
 	<string key="ui_enable_camera_lock_description">Enables targeted healing system</string>
 	<string key="ui_enable_camera_lock_friendlies">Camera Lock Friendlies</string>

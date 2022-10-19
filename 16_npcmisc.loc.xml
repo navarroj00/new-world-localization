@@ -1,0 +1,173 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="1601_Gideon" gender="Male" rel_version="Territory_Brimstone_Sands">Ariel Gideon</string>
+	<string key="1601_Gideon_t" gender="Male" rel_version="Territory_Brimstone_Sands">Consul of New Corsica</string>
+	<string key="1602_Crassus" gender="Male" rel_version="Territory_Brimstone_Sands">Evandrus Crassus</string>
+	<string key="1602_Crassus_t" gender="Male" rel_version="Territory_Brimstone_Sands">Tribune of New Corsica</string>
+	<string key="1602_Crassus_t2" gender="Male" rel_version="Territory_Brimstone_Sands">Legatus of New Corsica</string>
+	<string key="1603_Barnabas" gender="Male" rel_version="Territory_Brimstone_Sands">Barnabus Severan</string>
+	<string key="1603_Barnabas_t" gender="Male" rel_version="Territory_Brimstone_Sands">Prefect of New Corsica</string>
+	<string key="1604_Charmion" gender="Female" rel_version="Territory_Brimstone_Sands">Pontifex Charmion</string>
+	<string key="1604_Charmion_t" gender="Female" rel_version="Territory_Brimstone_Sands">New Corsica</string>
+	<string key="1605_Akila" gender="Female" rel_version="Territory_Brimstone_Sands">Akila Nuru</string>
+	<string key="1605_Akila_t" gender="Female" rel_version="Territory_Brimstone_Sands">Pontiff of New Corsica</string>
+	<string key="1605_Akila_t1" gender="Female" rel_version="Territory_Brimstone_Sands">Pontifex of New Corsica</string>
+	<string key="1606_Ambrosius" gender="Male" rel_version="Territory_Brimstone_Sands">Ambrosius Nikoli</string>
+	<string key="1606_Ambrosius_t" gender="Male" rel_version="Territory_Brimstone_Sands">Mercator of New Corsica</string>
+	<string key="1607_Commander" gender="Male" rel_version="Territory_Brimstone_Sands">Maximo</string>
+	<string key="1607_Commander_t" gender="Male" rel_version="Territory_Brimstone_Sands">Marauder Commander</string>
+	<string key="1608_Alchemist" gender="Male" rel_version="Territory_Brimstone_Sands">Iolus</string>
+	<string key="1608_Alchemist_t" gender="Male" rel_version="Territory_Brimstone_Sands">Syndicate Alchemist</string>
+	<string key="1609_Adjudicator" gender="Female" rel_version="Territory_Brimstone_Sands">Octavia</string>
+	<string key="1609_Adjudicator_t" gender="Female" rel_version="Territory_Brimstone_Sands">Covenant Adjudicator</string>
+	<string key="1610_Barkeep" gender="Male" rel_version="Territory_Brimstone_Sands">Lucio</string>
+	<string key="1610_Barkeep_t" gender="Male" rel_version="Territory_Brimstone_Sands">Host</string>
+	<string key="1611_Stranger" gender="Male" rel_version="Territory_Brimstone_Sands">Stranger</string>
+	<string key="1612_Andrea" gender="Female" rel_version="Territory_Brimstone_Sands">Andrea Clermont</string>
+	<string key="1612_Andrea_t" gender="Female" rel_version="Territory_Brimstone_Sands">Captain of the Praetorian Guard</string>
+	<string key="1613_Alaina" gender="Female" rel_version="Territory_Brimstone_Sands">Alaina Kraus</string>
+	<string key="1613_Alaina_t" gender="Female" rel_version="Territory_Brimstone_Sands">Tribune of New Corsica</string>
+	<string key="1614_Guard" gender="Male" rel_version="Territory_Brimstone_Sands">Corsican Guard</string>
+	<string key="1615_Nicabar" gender="Male" rel_version="Territory_Brimstone_Sands">Philogus Nicabar</string>
+	<string key="1616_Niobe" gender="Female" rel_version="Territory_Brimstone_Sands">Corsican Speculatores</string>
+	<string key="1617_Publius" gender="Male" rel_version="Territory_Brimstone_Sands">Publius</string>
+	<string key="1618_Caeso" gender="Male" rel_version="Territory_Brimstone_Sands">Gaius Caeso</string>
+	<string key="1622_Innkeep" gender="Female" rel_version="Territory_Brimstone_Sands">Habibah</string>
+	<string key="1622_Innkeep_t" gender="Female" rel_version="Territory_Brimstone_Sands">Host</string>
+	<string key="1623_Fisher" gender="Female" rel_version="Territory_Brimstone_Sands" xsi:nil="true"/>
+	<string key="1623_Fisher_t" gender="Female" rel_version="Territory_Brimstone_Sands">Master Fisher</string>
+	<string key="1624_Imhotep" gender="Male" rel_version="Territory_Brimstone_Sands">Imhotep</string>
+	<string key="1624_Imhotep_t1" gender="Male" rel_version="Territory_Brimstone_Sands">Sage of Brimstone Sands</string>
+	<string key="1624_Imhotep_t2" gender="Male" rel_version="Territory_Brimstone_Sands">Pharaoh of Brimstone Sands</string>
+	<string key="1624_Imhotep_t3" gender="Male" rel_version="Territory_Brimstone_Sands">Vizier of the Ancients</string>
+	<string key="1624_Imhotep_t4" gender="Male" rel_version="Territory_Brimstone_Sands">Physician of Brimstone Sands</string>
+	<string key="1625_Ghazi" gender="Female" rel_version="Territory_Brimstone_Sands">Ghazi Laghmani</string>
+	<string key="1625_Ghazi_t" gender="Female" rel_version="Territory_Brimstone_Sands">Chronicler</string>
+	<string key="1625a_Ghazi" gender="Female" rel_version="Territory_Brimstone_Sands">Cleopatra VII Philopater</string>
+	<string key="1625a_Ghazi_t" gender="Female" rel_version="Territory_Brimstone_Sands">Queen of Brimstone Sands</string>
+	<string key="1626_Hermogenes" gender="Male" rel_version="Territory_Brimstone_Sands">Hermogenes</string>
+	<string key="1626_Hermogenes_t" gender="Male" rel_version="Territory_Brimstone_Sands">Playwright</string>
+	<string key="1627_Mevia" gender="Female" rel_version="Territory_Brimstone_Sands">Mevia</string>
+	<string key="1627_Mevia_t" gender="Female" rel_version="Territory_Brimstone_Sands">Gladiator</string>
+	<string key="1628_Bekis" gender="Male" rel_version="Territory_Brimstone_Sands">Bekis</string>
+	<string key="1628_Bekis_t" gender="Male" rel_version="Territory_Brimstone_Sands">Brewmaster</string>
+	<string key="1629_Elissa" gender="Female" rel_version="Territory_Brimstone_Sands">Elissa</string>
+	<string key="1629_Elissa_t" gender="Female" rel_version="Territory_Brimstone_Sands">Dye-maker</string>
+	<string key="1630_Tristan" gender="Male" rel_version="Territory_Brimstone_Sands">Tristán Calante</string>
+	<string key="1630_Tristan_t" gender="Male" rel_version="Territory_Brimstone_Sands">Deserter</string>
+	<string key="1631_Tasechmi" gender="Female" rel_version="Territory_Brimstone_Sands">Ta-sechmi</string>
+	<string key="1631_Tasechmi_t" gender="Female" rel_version="Territory_Brimstone_Sands">Hermit</string>
+	<string key="1632_Titus" gender="Male" rel_version="Territory_Brimstone_Sands">Titus Galerius Valens</string>
+	<string key="1632_Titus_t" gender="Male" rel_version="Territory_Brimstone_Sands">Cartographer</string>
+	<string key="1633_Murdoch" gender="Male" rel_version="Territory_Brimstone_Sands">Murdoch Templeman</string>
+	<string key="1633_Murdoch_t" gender="Male" rel_version="Territory_Brimstone_Sands">Big Game Hunter</string>
+	<string key="1634_Phimenis" gender="Male" rel_version="Territory_Brimstone_Sands">Phimenis</string>
+	<string key="1634_Phimenis_t" gender="Male" rel_version="Territory_Brimstone_Sands">Quartermaster</string>
+	<string key="1635_Antonia" gender="Female" rel_version="Territory_Brimstone_Sands">Antonia Tertia</string>
+	<string key="1635_Antonia_t" gender="Female" rel_version="Territory_Brimstone_Sands">Farmer</string>
+	<string key="1636_Kollauthis" gender="Female" rel_version="Territory_Brimstone_Sands">Kollauthis</string>
+	<string key="1636_Kollauthis_t" gender="Female" rel_version="Territory_Brimstone_Sands">Ex-Priestess</string>
+	<string key="1637_Livia" gender="Female" rel_version="Territory_Brimstone_Sands">Livia Sabina</string>
+	<string key="1637_Livia_t" gender="Female" rel_version="Territory_Brimstone_Sands">Merchant</string>
+	<string key="1638_Suke" gender="Female" rel_version="Territory_Brimstone_Sands">Akamatsu Suke</string>
+	<string key="1638_Suke_t" gender="Female" rel_version="Territory_Brimstone_Sands">Physician</string>
+	<string key="1639_Leo" gender="Male" rel_version="Territory_Brimstone_Sands">Leo Melissenos</string>
+	<string key="1639_Leo_t" gender="Male" rel_version="Territory_Brimstone_Sands">Scavenger</string>
+	<string key="1640_Steffan" gender="Male" rel_version="Territory_Brimstone_Sands">Steffan Hebenprant</string>
+	<string key="1640_Steffan_t" gender="Male" rel_version="Territory_Brimstone_Sands">Mercenary</string>
+	<string key="1641_Eudoxia" gender="Female" rel_version="Territory_Brimstone_Sands">Eudoxia Dalassema</string>
+	<string key="1641_Eudoxia_t" gender="Female" rel_version="Territory_Brimstone_Sands">Esoteric Engineer</string>
+	<string key="1642_Senhyris" gender="Female" rel_version="Territory_Brimstone_Sands">Senhyris</string>
+	<string key="1642_Senhyris_t" gender="Female" rel_version="Territory_Brimstone_Sands">Hunter</string>
+	<string key="1643_Gaius" gender="Male" rel_version="Territory_Brimstone_Sands">Gaius Albinus Carinus</string>
+	<string key="1643_Gaius_t" gender="Male" rel_version="Territory_Brimstone_Sands">Refugee</string>
+	<string key="1644_Nesse" gender="Female" rel_version="Territory_Brimstone_Sands">Nesse van Baten</string>
+	<string key="1644_Nesse_t" gender="Female" rel_version="Territory_Brimstone_Sands">Bird Enthusiast</string>
+	<string key="1645_Xiaoling" gender="Female" rel_version="Territory_Brimstone_Sands">Huang Xiaoling</string>
+	<string key="1645_Xiaoling_t" gender="Female" rel_version="Territory_Brimstone_Sands">Scout</string>
+	<string key="1646_Froderico" gender="Male" rel_version="Territory_Brimstone_Sands">Froderico Renaldi</string>
+	<string key="1646_Froderico_t" gender="Male" rel_version="Territory_Brimstone_Sands">Hapless Historian</string>
+	<string key="1647_Aulus" gender="Male" rel_version="Territory_Brimstone_Sands">Aulus Fabius Barbula</string>
+	<string key="1647_Aulus_t" gender="Male" rel_version="Territory_Brimstone_Sands">Friend to Armadillos</string>
+	<string key="1648_Flora" gender="Female" rel_version="Territory_Brimstone_Sands">Flora</string>
+	<string key="1648_Flora_t" gender="Female" rel_version="Territory_Brimstone_Sands">Her Excellency</string>
+	<string key="1649_Miresis" gender="Female" rel_version="Territory_Brimstone_Sands">Miresis</string>
+	<string key="1649_Miresis_t" gender="Female" rel_version="Territory_Brimstone_Sands">Acolyte of Anubis</string>
+	<string key="1650_Flame" gender="Male" rel_version="Territory_Brimstone_Sands">The Insatiable Flame</string>
+	<string key="1650_Flame_t" gender="Male" rel_version="Territory_Brimstone_Sands">Ifrit</string>
+	<string key="1651_Enez" gender="Female" rel_version="Territory_Brimstone_Sands">Enez de Barros</string>
+	<string key="1651_Enez_t" gender="Female" rel_version="Territory_Brimstone_Sands">Sculptor</string>
+	<string key="1652_Lysandra" gender="Female" rel_version="Territory_Brimstone_Sands">Lysandra</string>
+	<string key="1652_Lysandra_t" gender="Female" rel_version="Territory_Brimstone_Sands">Surveyor</string>
+	<string key="1653_Lavinia" gender="Female" rel_version="Territory_Brimstone_Sands">Lavinia Matella</string>
+	<string key="1653_Lavinia_t" gender="Female" rel_version="Territory_Brimstone_Sands">Star-Crossed Lover</string>
+	<string key="1654_Margarete" gender="Female" rel_version="Territory_Brimstone_Sands">Margarete Cromer</string>
+	<string key="1654_Margarete_t" gender="Female" rel_version="Territory_Brimstone_Sands">Star-Crossed Lover</string>
+	<string key="1655_Sokmenis" gender="Male" rel_version="Territory_Brimstone_Sands">Sokmenis</string>
+	<string key="1655_Sokmenis_t" gender="Male" rel_version="Territory_Brimstone_Sands">Priest of Sobek</string>
+	<string key="1656_Perrin" gender="Male" rel_version="Territory_Brimstone_Sands">Perrin Mercier</string>
+	<string key="1656_Perrin_t" gender="Male" rel_version="Territory_Brimstone_Sands">Young Academic</string>
+	<string key="1657_Tamouthis" gender="Female" rel_version="Territory_Brimstone_Sands">Tamouthis</string>
+	<string key="1657_Tamouthis_t" gender="Female" rel_version="Territory_Brimstone_Sands">Naturalist</string>
+	<string key="1658_Mihri" gender="Female" rel_version="Territory_Brimstone_Sands">Mihri</string>
+	<string key="1658_Mihri_t" gender="Female" rel_version="Territory_Brimstone_Sands">Culinarian</string>
+	<string key="1659_Anna" gender="Female" rel_version="Territory_Brimstone_Sands">Anna Rózsa</string>
+	<string key="1659_Anna_t" gender="Female" rel_version="Territory_Brimstone_Sands">Soulwarden Scout</string>
+	<string key="1660_Paubastis" gender="Male" rel_version="Territory_Brimstone_Sands">Paubastis</string>
+	<string key="1660_Paubastis_t" gender="Male" rel_version="Territory_Brimstone_Sands">Priest of Bastet</string>
+	<string key="1661_Jackal" gender="Male" rel_version="Territory_Brimstone_Sands">Strange Jackal</string>
+	<string key="1661_Jackal_t" gender="Male" rel_version="Territory_Brimstone_Sands">???</string>
+	<string key="1662_Rima" gender="Female" rel_version="Territory_Brimstone_Sands">Rima al-Zahra</string>
+	<string key="1662_Rima_t" gender="Female" rel_version="Territory_Brimstone_Sands">Alchemist</string>
+	<string key="1663_Esoeris" gender="Female" rel_version="Territory_Brimstone_Sands">Esoeris</string>
+	<string key="1663_Esoeris_t" gender="Female" rel_version="Territory_Brimstone_Sands">Bodyguard</string>
+	<string key="1664_Aban" gender="Male" rel_version="Territory_Brimstone_Sands">Aban</string>
+	<string key="1664_Aban_t" gender="Male" rel_version="Territory_Brimstone_Sands">Acolyte of Imhotep</string>
+	<string key="1666_Razin" gender="Male" rel_version="Territory_Brimstone_Sands">Razin</string>
+	<string key="1666_Razin_t" gender="Male" rel_version="Territory_Brimstone_Sands">Prelate of New Corsica</string>
+	<string key="1667_LostPack" gender="Object" rel_version="Territory_Brimstone_Sands">Battered Traveling Pack</string>
+	<string key="1667_LostPack_t" gender="Object" rel_version="Territory_Brimstone_Sands">Examine</string>
+	<string key="1668_Statue" gender="Object" rel_version="Territory_Brimstone_Sands">Weathered Statue</string>
+	<string key="1668_Statue_t" gender="Object" rel_version="Territory_Brimstone_Sands">Examine</string>
+	<string key="1669_Tablet" gender="Object" rel_version="Territory_Brimstone_Sands">Carved Tablet</string>
+	<string key="1669_Tablet_t" gender="Object" rel_version="Territory_Brimstone_Sands">Examine</string>
+	<string key="1670_Sphinx_01" gender="Object" rel_version="Territory_Brimstone_Sands">Of Forms</string>
+	<string key="1670_Sphinx_01_t" gender="Object" rel_version="Territory_Brimstone_Sands">Manifold</string>
+	<string key="1670_Sphinx_02" gender="Object" rel_version="Territory_Brimstone_Sands">Of Face</string>
+	<string key="1670_Sphinx_02_t" gender="Object" rel_version="Territory_Brimstone_Sands">Watchful</string>
+	<string key="1670_Sphinx_03" gender="Object" rel_version="Territory_Brimstone_Sands">Of Voice</string>
+	<string key="1670_Sphinx_03_t" gender="Object" rel_version="Territory_Brimstone_Sands">Strident</string>
+	<string key="1671_Commander2" gender="Male" rel_version="Territory_Brimstone_Sands">Septimus Tullius Victor</string>
+	<string key="1671_Commander2_t" gender="Male" rel_version="Territory_Brimstone_Sands">Marauder Commander</string>
+	<string key="1672_Alchemist2" gender="Female" rel_version="Territory_Brimstone_Sands">Euphrosyne</string>
+	<string key="1672_Alchemist2_t" gender="Female" rel_version="Territory_Brimstone_Sands">Syndicate Alchemist</string>
+	<string key="1673_Adjudicator2" gender="Male" rel_version="Territory_Brimstone_Sands">Teos</string>
+	<string key="1673_Adjudicator2_t" gender="Male" rel_version="Territory_Brimstone_Sands">Covenant Adjudicator</string>
+	<string key="1674_Commander3" gender="Female" rel_version="Territory_Brimstone_Sands">Johanna Maes</string>
+	<string key="1674_Commander3_t" gender="Female" rel_version="Territory_Brimstone_Sands">Marauder Commander</string>
+	<string key="1675_Alchemist3" gender="Male" rel_version="Territory_Brimstone_Sands">Aphanes</string>
+	<string key="1675_Alchemist3_t" gender="Male" rel_version="Territory_Brimstone_Sands">Syndicate Alchemist</string>
+	<string key="1676_Adjudicator3" gender="Female" rel_version="Territory_Brimstone_Sands">Marcia Prima</string>
+	<string key="1676_Adjudicator3_t" gender="Female" rel_version="Territory_Brimstone_Sands">Covenant Adjudicator</string>
+	<string key="1677_Apophis" gender="Male" rel_version="Territory_Brimstone_Sands">Apophis</string>
+	<string key="1678_EmptyChest" rel_version="Territory_Brimstone_Sands">An Empty Chest</string>
+	<string key="1678_EmptyChest_int" rel_version="Territory_Brimstone_Sands">Inspect</string>
+	<string key="1679_Tomash" gender="Male" rel_version="Territory_Brimstone_Sands">Tomash Kovalenko</string>
+	<string key="1679_Tomash_t" gender="Male" rel_version="Territory_Brimstone_Sands">Soulwarden</string>
+	<string key="1680_Buhawi" gender="Male" rel_version="Territory_Brimstone_Sands">Buhawi Manabat</string>
+	<string key="1680_Buhawi_t" gender="Male" rel_version="Territory_Brimstone_Sands">Soulwarden</string>
+	<string key="1681_Innkeep" gender="Female" rel_version="Territory_Brimstone_Sands">Signy Gisladottir</string>
+	<string key="1681_Innkeep_t" gender="Female" rel_version="Territory_Brimstone_Sands">Camp Hostess</string>
+	<string key="1682_Innkeep" gender="Male" rel_version="Territory_Brimstone_Sands">Wulfgang Frey</string>
+	<string key="1682_Innkeep_t" gender="Male" rel_version="Territory_Brimstone_Sands">Quartermaster</string>
+	<string key="1683_Zahur" gender="Male" rel_version="Territory_Brimstone_Sands">Zahur</string>
+	<string key="1683_Zahur_t" gender="Male" rel_version="Territory_Brimstone_Sands">New Corsican Refugee</string>
+	<string key="1684_Tahirah" gender="Female" rel_version="Territory_Brimstone_Sands">Tahirah</string>
+	<string key="1684_Tahirah_t" gender="Female" rel_version="Territory_Brimstone_Sands">Madwoman of the Sands</string>
+	<string key="1685_Acario" gender="Male" rel_version="Territory_Brimstone_Sands">Acario Clemon</string>
+	<string key="1685_Acario_t" gender="Male" rel_version="Territory_Brimstone_Sands">19th Legion Aquilifer</string>
+	<string key="1686_Qabalah" gender="Female" rel_version="Territory_Brimstone_Sands">Qabalah</string>
+	<string key="1686_Qabalah_t" gender="Female" rel_version="Territory_Brimstone_Sands">Keeper of the Light</string>
+	<string key="1687_Clarisse" gender="Female" rel_version="Territory_Brimstone_Sands">Clarisse Vesta</string>
+	<string key="1687_Clarisse_t" gender="Female" rel_version="Territory_Brimstone_Sands">Thermae Alchemist</string>
+</resources>
+
