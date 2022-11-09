@@ -88,10 +88,13 @@
 	<string key="ui_transfer_requirement_sanctuary" rel_version="Feature_MTX">You must be in a Sanctuary (Settlement, Outpost, Spirit Shrine, or Watchtower) before transferring</string>
 	<string key="ui_transfer_requirement_not_in_company" rel_version="Feature_MTX">You cannot belong to a company before transferring</string>
 	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">You cannot have active trading post buy/sell orders before transferring</string>
+	<string key="ui_transfer_requirement_fresh_start" rel_version="Feature_FreshStart">Characters cannot transfer to and from Fresh Start Worlds.</string>
 	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">You must be at least level {level} before transferring</string>
 	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">You cannot own any houses before transferring</string>
 	<string key="ui_transfer_requirement_cooldown" rel_version="Feature_MTX">You must wait till the end of the cooldown before you may transfer worlds or regions again.</string>
 	<string key="ui_transfer_requirement_cooldown_prefix" rel_version="Feature_MTX">&lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;</string>
+	<string key="ui_transfer_no_transfer_tooltip" rel_version="Feature_MTX">Characters cannot currently transfer from this world.</string>
+	<string key="ui_transfer_no_transfer_tooltip_freshstart" rel_version="Feature_MTX">Characters cannot transfer from Fresh Start Worlds.</string>
 	<string key="ui_item_restrictions" rel_version="Feature_MTX">Item Restrictions</string>
 	<string key="ui_item_restrictions_item_skins" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; require the base item to be equipped in order to be visible. &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; cannot be dyed.</string>
 	<string key="ui_item_restrictions_crests" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Company Crests&lt;/font&gt; can only be used if you are the governor (creator) of a company.</string>
@@ -468,6 +471,8 @@
 	<string key="server_transfer_unavailable_outpost_rush_queue" rel_version="Feature_Server_Transfer">You cannot transfer worlds while in queue for Outpost Rush</string>
 	<string key="server_transfer_unavailable_transfer_world_full" rel_version="Feature_Server_Transfer">This region's transfer list is full, please try again in a few hours</string>
 	<string key="server_transfer_unavailable_target_region_characters_slots_full" rel_version="Feature_Server_Transfer">Character slots in this region are full. You will need to delete or transfer an existing character in this region before you can transfer in another one.</string>
+	<string key="server_transfer_unavailable_freshstart" rel_version="Feature_FreshStart">Only new characters can be created in this Fresh Start World. Characters cannot transfer to or from this Fresh Start World.</string>
+	<string key="server_transfer_unavailable_bfnw" rel_version="Feature_BFNW">Only players participating in Return to Aeternum can create characters on this world. Characters cannot transfer to or from this World.</string>
 	<string key="server_transfer_more_details" rel_version="Feature_Server_Transfer">For more details see</string>
 	<string key="server_transfer_transfer_faq" rel_version="Feature_Server_Transfer">Region Transfer FAQ</string>
 	<string key="server_transfer_final_details" rel_version="Feature_Server_Transfer">Confirming Transfer will log you out to the Character Select Main Menu.</string>

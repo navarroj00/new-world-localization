@@ -54,6 +54,7 @@
 	<string key="ui_guildname_use_badword">Unable to change company name - contains bad words</string>
 	<string key="ui_guildname_multiple_spaces">Unable to change company name - contains consecutive spaces</string>
 	<string key="ui_createguildname_use_badword">Invalid Company Name - contains bad words</string>
+	<string key="ui_guild_server_error">Company Error, try again later</string>
 	<string key="ui_invalidguildmessageoftheday">Invalid Company Message of the Day</string>
 	<string key="ui_guildmessageoftheday_invalid_characters">Unable to change Company message of the day - contains invalid characters</string>
 	<string key="ui_guildmessageoftheday_too_long">Unable to change Company message of the day - invalid length</string>

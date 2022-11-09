@@ -565,6 +565,7 @@
 	<string key="ui_siege_signup_failed_invasionlevelrequirement">You need to be at least level {minLevel} to sign up.</string>
 	<string key="ui_siege_signup_failed_banned">You have been removed from the roster by the governing company and cannot rejoin their army.</string>
 	<string key="ui_siege_signup_failed_on_defensive_cooldown">You recently left a company and cannot fight in a defensive war for your company for 72 hours</string>
+	<string key="ui_siege_signup_failed_territory_not_unlocked_yet">You do not have access to this territory yet.</string>
 	<string key="ui_siege_signup_failed">There was a problem signing up for this war.</string>
 	<string key="ui_siege_signup_conquest_overlap_title">Are you sure?</string>
 	<string key="ui_siege_signup_conquest_overlap_confirm">You are already signed up for a war that is scheduled around the same time.\nDo you want to abandon your registration in {territoryName}?</string>

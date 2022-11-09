@@ -2152,9 +2152,12 @@
 	<string key="ui_clusterwarning_warning">&lt;font color={colorHex1}&gt;You can only have 1 character in the &lt;/font&gt; &lt;font face="lyshineui/fonts/nimbus_bold.font"&gt;&lt;font color={colorHex2}&gt;{worldSetName} World Set&lt;/font&gt;&lt;/font&gt;&lt;font color={colorHex1}&gt;.&lt;/font&gt;</string>
 	<string key="ui_clusterwarning_description1">If you want to play in another {worldSetName} World, you will need to delete this character in {worldName}</string>
 	<string key="ui_clusterwarning_description2">If you have friends playing in other {worldSetName} Worlds, you will not be able to play with them.</string>
+	<string key="ui_clusterwarning_freshstart" rel_version="Feature_FreshStart">Only new characters can be created in {worldName}. Characters cannot transfer to and from this Fresh Start World.</string>
+	<string key="ui_clusterwarning_bfnw" rel_version="Feature_BFNW">Only Return to Aeternum participants can create characters in {worldName}. Characters cannot transfer to and from this world.</string>
 	<string key="ui_clusterwarning_non_freshstart">Characters may transfer to and from this world.</string>
 	<string key="ui_clusterwarning_transferoutonly">Characters cannot transfer to this world.\nCharacters may transfer from this world.</string>
 	<string key="ui_clusterwarning_transferinonly">Characters may transfer to this world.\nCharacters cannot transfer from this world.</string>
+	<string key="ui_clusterwarning_cannottransferinnorout">Characters cannot transfer to this world.\nCharacters cannot transfer from this world.</string>
 	<string key="ui_character_world_info">{worldName}</string>
 	<string key="ui_cannotPin_atMax">Cannot pin any more objectives.</string>
 	<string key="ui_clusterwarning_body">&lt;font color="#ffffff"&gt;You can only have 1 character in the {worldSetName} world group.&lt;/font&gt;\n\nIf you ever want to play on a different {worldSetName} world, you will need to delete your character on {worldName} and create a new one on a different world.\n\nIf you have friends playing on other {worldSetName} worlds, you will not be able to play with them.</string>
@@ -2294,8 +2297,8 @@
 	<string key="ui_change_faction_azoth_cost">Change Faction {azothcost}</string>
 	<string key="ui_change_faction_desc">Are you sure you want to change your faction to {factionname}?\nChanging faction will reset your faction rank and tokens.\n\nOnce it's changed, you won't be able to change your faction again for 60 days.</string>
 	<string key="ui_change_faction_confirmation" rel_version="Feature_Faction_Selection">Are you sure you want to change your faction to {factionname}?\nYour faction rank and tokens will not transfer with you, but are not lost in case you decide to return in the future.\n\nOnce it's changed, you won't be able to change your faction again for 60 days.\n\nIf you are a member of a company, you will be removed from it.</string>
-	<string key="ui_change_faction_quest_warning" rel_version="Feature_Faction_Selection">Introductory quests not completed</string>
-	<string key="ui_change_faction_visit_rep" rel_version="Feature_Faction_Selection">Visit faction representative to switch</string>
+	<string key="ui_change_faction_quest_warning" rel_version="Feature_Faction_Selection">Faction Initiation Quests not completed</string>
+	<string key="ui_change_faction_visit_rep" rel_version="Feature_Faction_Selection">Complete Faction Initiation Quests in Everfall to Switch to this Faction</string>
 	<string key="ui_current_faction">Your current faction: {factionname}</string>
 	<string key="ui_current_faction_label">Current Faction</string>
 	<string key="ui_dropconfirm_title">Drop Confirmation</string>

@@ -17,10 +17,6 @@
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Azoth Salt is a currency that allows you to acquire rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, killing players in the open world, and earning XP while flagged.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">REWARDS</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
-	<string key="ui_event_halloween_rank_0" rel_version="Event_Halloween_Temp">Fledgling</string>
-	<string key="ui_event_halloween_rank_1" rel_version="Event_Halloween_Temp">Nightveil Sentinel</string>
-	<string key="ui_event_halloween_shop_header" rel_version="Event_Halloween_Temp">Nightveil Hallow</string>
-	<string key="ui_event_halloween_progress_name" rel_version="Event_Halloween_Temp">Event Reputation</string>
 	<string key="ui_event_weapon_xp_title">WEAPONS XP BONUS THIS WEEK</string>
 	<string key="ui_event_weapon_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;The bonus is activated on:&lt;/font&gt;</string>
 	<string key="ui_event_gathering_xp_title">GATHERING XP BONUS THIS WEEK</string>
@@ -45,18 +41,20 @@
 	<string key="ui_event_group_finder_panel1_title" rel_version="Feature_Group_Finder">Expedition Group Finder!</string>
 	<string key="ui_event_group_finder_panel1_subtitle" rel_version="Feature_Group_Finder">Available now from the map! Access all Expeditions (as long as you have visited it once) by clicking on the Expedition's icon. From here you can browse or post Group Finder lobbies, or enter the Expedition directly with your existing group.</string>
 	<string key="ui_event_group_finder_button_about" rel_version="Feature_Group_Finder">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Group Finder</string>
-	<string key="ui_event_brimstone_panel1_title" rel_version="Event_Halloween_Temp">First Anniversary Celebration</string>
-	<string key="ui_event_brimstone_panel1_subtitle" rel_version="Event_Halloween_Temp">Celebrate with new zones, quests, enemies, abilities, and rewards!</string>
-	<string key="ui_event_brimstone_panel1_bullet1_title" rel_version="Event_Halloween_Temp">New Content</string>
-	<string key="ui_event_brimstone_panel1_bullet1_text" rel_version="Event_Halloween_Temp">Arm yourself with the all-new Great Sword and Heartgem and journey to the deserts of Brimstone Sands, or start the new Main Story quest!</string>
-	<string key="ui_event_brimstone_panel1_bullet2_title" rel_version="Event_Halloween_Temp">New Event</string>
-	<string key="ui_event_brimstone_panel1_bullet2_text" rel_version="Event_Halloween_Temp">Salvatore the Mad Monk has taken up residence in the town squares of Aeternum to warn of a terrible danger.</string>
-	<string key="ui_event_brimstone_panel1_bullet3_title" rel_version="Event_Halloween_Temp">New Cosmetics</string>
-	<string key="ui_event_brimstone_panel1_bullet3_text" rel_version="Event_Halloween_Temp">Brimstone Sands, Great Sword, and Nightveil Hallow items are now available in the store. Don't forget to pickup your free anniversary skins!</string>
-	<string key="ui_event_brimstone_panel2_title" rel_version="Event_Halloween_Temp">Brimstone Sands</string>
-	<string key="ui_event_brimstone_panel2_subtitle" rel_version="Event_Halloween_Temp">With the new Great Sword and Heartgem ability runes, explore the new Brimstone Sands zone and the Ennead Expedition, or experience the revamped Main Story Quest with new locations, NPCs, challenges, and rewards.\n\nTo access the main storyline quests in Brimstone Sands, players must have completed the quest "A Selfless Nature" in Edengrove and the quest "Strider of the Sands," which can be picked up in multiple locations.</string>
-	<string key="ui_event_brimstone_panel3_title" rel_version="Event_Halloween_Temp">Nightveil Hallow</string>
-	<string key="ui_event_brimstone_panel3_subtitle" rel_version="Event_Halloween_Temp">Starts on 12:01am PST on 10/18/22 | Ends on 12:01 PST on 11/1/22\n\nShapes in the mist! Shrieks in the night! The demon Baalphazu, Marquis of Terror, and his horde of ghoulish Pumpkinites are spreading a living nightmare across Aeternum! Aid Salvatore the Mad in his quest to banish these foul terrors and collect a bounty of time-limited Nightveil Hallow rewards!\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;(Questline unlocks at level 35)&lt;/font&gt;</string>
-	<string key="ui_event_brimstone_button_about" rel_version="Event_Halloween_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Anniversary Celebration</string>
+	<string key="ui_event_returnem_panel1_title" rel_version="Feature_FreshStart">So Fresh, So Clean</string>
+	<string key="ui_event_returnem_panel1_subtitle" rel_version="Feature_FreshStart">Fresh worlds. Fresh economy. Fresh start.</string>
+	<string key="ui_event_returnem_panel1_bullet1_title" rel_version="Feature_FreshStart">New Content</string>
+	<string key="ui_event_returnem_panel1_bullet1_text" rel_version="Feature_FreshStart">Arm yourself with the all-new Great Sword and Heartgem and journey to the deserts of Brimstone Sands, or start the new Main Story quest!</string>
+	<string key="ui_event_returnem_panel1_bullet2_title" rel_version="Feature_FreshStart">Twitch Event</string>
+	<string key="ui_event_returnem_panel1_bullet2_text" rel_version="Feature_FreshStart">Begin your journey in a fresh world, and watch your favorite streamers do the same in the Return to Aeternum event on Twitch until 11/18.</string>
+	<string key="ui_event_returnem_panel1_bullet3_title" rel_version="Feature_FreshStart">New Cosmetics</string>
+	<string key="ui_event_returnem_panel1_bullet3_text" rel_version="Feature_FreshStart">Brimstone Sands, Great Sword, and Nightveil Hallow items are now available in the store. Don't forget to pickup your free anniversary skins!</string>
+	<string key="ui_event_returnem_panel2_title" rel_version="Feature_FreshStart">Brimstone Sands</string>
+	<string key="ui_event_returnem_panel2_subtitle" rel_version="Feature_FreshStart">With the new Great Sword and Heartgem ability runes, explore the new Brimstone Sands zone and the Ennead Expedition, or experience the revamped Main Story Quest with new locations, NPCs, challenges, and rewards.\n\nTo access the main storyline quests in Brimstone Sands, players must have completed the quest "A Selfless Nature" in Edengrove and the quest "Strider of the Sands," which can be picked up in multiple locations.</string>
+	<string key="ui_event_returnem_panel3_title" rel_version="Feature_FreshStart">Return to Aeternum</string>
+	<string key="ui_event_returnem_panel3_subtitle" rel_version="Feature_FreshStart">Start a new character on worlds that are certified fresh, or follow your favorite streamers in the Return to Aeternum event on Twitch. Watch as they battle for glory on fresh worlds until 11/18.\n\nhttp://www.twitch.tv/newworld</string>
+	<string key="ui_event_returnem_message_title" rel_version="Feature_FreshStart">Fresh Start Worlds</string>
+	<string key="ui_event_returnem_message_description" rel_version="Feature_FreshStart">Fresh Start Worlds are now live! Only new characters can be a part of these worlds.</string>
+	<string key="ui_event_returnem_button_about" rel_version="Feature_FreshStart">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Return to Aeternum</string>
 </resources>
 
