@@ -52,9 +52,28 @@
 	<string key="ui_event_returnem_panel2_title" rel_version="Feature_FreshStart">Brimstone Sands</string>
 	<string key="ui_event_returnem_panel2_subtitle" rel_version="Feature_FreshStart">With the new Great Sword and Heartgem ability runes, explore the new Brimstone Sands zone and the Ennead Expedition, or experience the revamped Main Story Quest with new locations, NPCs, challenges, and rewards.\n\nTo access the main storyline quests in Brimstone Sands, players must have completed the quest "A Selfless Nature" in Edengrove and the quest "Strider of the Sands," which can be picked up in multiple locations.</string>
 	<string key="ui_event_returnem_panel3_title" rel_version="Feature_FreshStart">Return to Aeternum</string>
-	<string key="ui_event_returnem_panel3_subtitle" rel_version="Feature_FreshStart">Start a new character on worlds that are certified fresh, or follow your favorite streamers in the Return to Aeternum event on Twitch. Watch as they battle for glory on fresh worlds until 11/18.\n\nhttp://www.twitch.tv/newworld</string>
+	<string key="ui_event_returnem_panel3_subtitle" rel_version="Feature_FreshStart">Start a new character on worlds that are certified fresh, or follow your favorite streamers in the Return to Aeternum event on Twitch. Watch as they battle for glory on fresh worlds until 11/18.\n\nhttp://www.twitch.tv/playnewworld</string>
 	<string key="ui_event_returnem_message_title" rel_version="Feature_FreshStart">Fresh Start Worlds</string>
 	<string key="ui_event_returnem_message_description" rel_version="Feature_FreshStart">Fresh Start Worlds are now live! Only new characters can be a part of these worlds.</string>
 	<string key="ui_event_returnem_button_about" rel_version="Feature_FreshStart">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Return to Aeternum</string>
+	<string key="ui_event_turkulon_panel1_title" rel_version="Event_TurkeyTerror_Temp">Turkey Terror</string>
+	<string key="ui_event_turkulon_panel1_subtitle" rel_version="Event_TurkeyTerror_Temp">If you hear the gobbling, it’s already too late.</string>
+	<string key="ui_event_turkulon_panel1_bullet1_title" rel_version="Event_TurkeyTerror_Temp">New Event</string>
+	<string key="ui_event_turkulon_panel1_bullet1_text" rel_version="Event_TurkeyTerror_Temp">The great beast Turkulon rises once more. Put it down with extreme prejudice.</string>
+	<string key="ui_event_turkulon_panel1_bullet2_title1" rel_version="Event_TurkeyTerror_Temp">Return to Aeternum</string>
+	<string key="ui_event_turkulon_panel1_bullet2_text1" rel_version="Event_TurkeyTerror_Temp">Watch streamers compete in the Return to Aeternum event until 11/18 on Twitch.</string>
+	<string key="ui_event_turkulon_panel1_bullet2_title2" rel_version="Event_TurkeyTerror_Temp">New Worlds</string>
+	<string key="ui_event_turkulon_panel1_bullet2_text2" rel_version="Event_TurkeyTerror_Temp">Begin your journey in a fresh world with a fresh economy and level playing field.</string>
+	<string key="ui_event_turkulon_panel1_bullet3_title" rel_version="Event_TurkeyTerror_Temp">New Cosmetics</string>
+	<string key="ui_event_turkulon_panel1_bullet3_text" rel_version="Event_TurkeyTerror_Temp">New items are now available in the store.</string>
+	<string key="ui_event_turkulon_panel2_title" rel_version="Event_TurkeyTerror_Temp">Turkulon</string>
+	<string key="ui_event_turkulon_panel2_subtitle" rel_version="Event_TurkeyTerror_Temp">As the season grows colder, the turkeys of Aeternum grow restless. Get the recipe at Cooking Stations to skin and eat Turkulon’s famed leg while you can!</string>
+	<string key="ui_event_turkulon_panel3_title1" rel_version="Event_TurkeyTerror_Temp">Return to Aeternum</string>
+	<string key="ui_event_turkulon_panel3_subtitle1" rel_version="Event_TurkeyTerror_Temp">The Return to Aeternum event ends 11/18 on Twitch. Which of your favorite streamers will emerge victorious?\n\nhttp://www.twitch.tv/playnewworld</string>
+	<string key="ui_event_turkulon_panel3_title2" rel_version="Event_TurkeyTerror_Temp">Dusk Spirit</string>
+	<string key="ui_event_turkulon_panel3_subtitle2" rel_version="Event_TurkeyTerror_Temp">The new Dusk Spirit item skins are now available for a limited time! Featuring the deluxe Dark Scion apparel, plus additional apparel, weapon and tool skins.</string>
+	<string key="ui_event_turkulon_button_about" rel_version="Event_TurkeyTerror_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Turkulon</string>
+	<string key="ui_event_turkulon_panel3_title3" rel_version="Event_TurkeyTerror_Temp">Black Friday Deals!</string>
+	<string key="ui_event_turkulon_panel3_subtitle3" rel_version="Event_TurkeyTerror_Temp">Collect some of the finest cosmetics that Aeternum has to offer!\nBundles of player favorites are available for a limited time, along with a brand new apparel skin, the Jester's Smile.\nVisit the store today!</string>
 </resources>
 

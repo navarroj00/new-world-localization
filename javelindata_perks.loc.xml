@@ -1285,6 +1285,8 @@
 	<string key="PerkID_Tools_MiningLuck_Description">While Mining gain {[Type_StatusEffectData.Status_Perk_Tool_MiningLuck.ROLMining * 0.01 * {perkMultiplier}]}% chance at finding rare items.</string>
 	<string key="PerkID_Tools_SkinningLuck_Name">Skinning Luck</string>
 	<string key="PerkID_Tools_SkinningLuck_Description">While Skinning gain {[Type_StatusEffectData.Status_Perk_Tool_SkinningLuck.ROLSkinning * 0.01 * {perkMultiplier}]}% chance at finding rare items.</string>
+	<string key="PerkID_Tools_SkinningTurkey_Name" rel_version="Event_TurkeyTerror_Perm">Turkulon Tools</string>
+	<string key="PerkID_Tools_SkinningTurkey_Description" rel_version="Event_TurkeyTerror_Perm">Provides chance at acquiring special items from turkeys to help defeat Turkulon</string>
 	<string key="PerkID_Tools_LoggingYield_Name">Logging Yield</string>
 	<string key="PerkID_Tools_LoggingYield_Description">Logging yields {[Type_StatusEffectData.Status_Perk_Tool_LoggingYield.MULTLogging * 100 * {perkMultiplier}]}% more resources.</string>
 	<string key="PerkID_Tools_HarvestingYield_Name">Harvesting Yield</string>

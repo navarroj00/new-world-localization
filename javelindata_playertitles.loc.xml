@@ -823,5 +823,9 @@
 	<string key="ui_playerTitle_archaeologist_SHE" rel_version="Title_Nightmares_Prime">Archaeologist</string>
 	<string key="ui_playerTitle_archaeologist_THEY" rel_version="Title_Nightmares_Prime">Archaeologist</string>
 	<string key="ui_playerTitle_archaeologist_description" rel_version="Title_Nightmares_Prime">Some secrets should remain buried.</string>
+	<string key="ui_playertitle_special_thereturned">The Returned</string>
+	<string key="ui_playertitle_special_thereturned_SHE">The Returned</string>
+	<string key="ui_playertitle_special_thereturned_THEY">The Returned</string>
+	<string key="ui_playertitle_thereturned_description">Surveyor of Return to Aeternum.</string>
 </resources>
 

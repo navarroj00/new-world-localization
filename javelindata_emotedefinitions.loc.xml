@@ -325,5 +325,14 @@
 	<string key="ui_emote_TwirlDance_name" rel_version="Event_Halloween_Perm">Skeleton Twirl</string>
 	<string key="ui_mote_TwirlDance_description" rel_version="Event_Halloween_Perm">"Get those bones moving with a dainty twirl."</string>
 	<string key="emote_TwirlDance" rel_version="Event_Halloween_Perm">{playerName} does a dainty twirl.</string>
+	<string key="ui_emote_FootballJuggle_name" rel_version="Emote_Soccer_Juggle">Keepie Uppie</string>
+	<string key="ui_emote_FootballJuggle_description" rel_version="Emote_Soccer_Juggle">A skill perfect for dazzling others and absolutely useless during game time.</string>
+	<string key="emote_FootballJuggle" rel_version="Emote_Soccer_Juggle">{playerName} juggles and bounces a ball for sport.</string>
+	<string key="ui_emote_KneeSlide_name" rel_version="Emote_KneeSlide">Knee Slide</string>
+	<string key="ui_emote_KneeSlide_description" rel_version="Emote_KneeSlide">You've done it! Against all odds! Goal!</string>
+	<string key="emote_KneeSlide" rel_version="Emote_KneeSlide">{playerName} comes sliding by on bended knee.</string>
+	<string key="ui_emote_DramaticDeath_name" rel_version="Emote_DramaticDeath">Thus, I Die.</string>
+	<string key="ui_emote_DramaticDeath_description" rel_version="Emote_DramaticDeath">Recall me ever more, let my name never slip from the annals of your glorious history for always was I faithful to…</string>
+	<string key="emote_DramaticDeath" rel_version="Emote_DramaticDeath">{playerName} suffers an excruciating and dramatic death.</string>
 </resources>
 
