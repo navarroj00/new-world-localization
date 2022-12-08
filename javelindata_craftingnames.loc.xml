@@ -32,7 +32,7 @@
 	<string key="Procedural_LightChest_DressT2">Linen Dress</string>
 	<string key="Procedural_LightChest_DressT3">Sateen Dress</string>
 	<string key="Procedural_LightChest_DressT4">Silk Dress</string>
-	<string key="Procedural_LightChest_DressT5">Infused Silk dress</string>
+	<string key="Procedural_LightChest_DressT5">Infused Silk Dress</string>
 	<string key="Procedural_LightHands_DressT2">Linen Handwraps</string>
 	<string key="Procedural_LightHands_DressT3">Sateen Gloves</string>
 	<string key="Procedural_LightHands_DressT4">Silk Gloves</string>
@@ -1895,6 +1895,9 @@
 	<string key="Procedural_GauntletVoidT3_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
 	<string key="Procedural_GauntletVoidT4_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
 	<string key="Procedural_GauntletVoidT5_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
+	<string key="PresentToken" rel_version="Event_WinterConvergence_Temp">Winter Token - Presents</string>
+	<string key="GleamiteToken" rel_version="Event_WinterConvergence_Temp">Winter Token - Gleamite</string>
+	<string key="WarriorToken" rel_version="Event_WinterConvergence_Temp">Winter Token - Warrior Hailspike</string>
 	<string key="ScrapExtractMetalT2">Extract Metal - Iron</string>
 	<string key="ScrapExtractMetalT3">Extract Metal - Steel</string>
 	<string key="ScrapExtractMetalT4">Extract Metal - Starmetal</string>

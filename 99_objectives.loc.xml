@@ -442,7 +442,7 @@
 	<string key="9901_0035_herewestand_proposal_prompt" speaker="UI - Player Prompt">"Then that’s where I'm going."</string>
 	<string key="9901_0035_herewestand_proposal_next" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="9901_0035_herewestand_proposal_prompt" VO_Status="Recorded" dialogue-next="@9901_0035_herewestand_proposal_next2" dialogue-prompt="@9901_0035_herewestand_proposal_prompt">Well, but… what?! Not only is it an insane risk, but what about the parley? You convinced all the factions to sit down together...\n\nAnd now you would just vanish before negotiations even begin?</string>
 	<string key="9901_0035_herewestand_proposal_prompt2" speaker="UI - Player Prompt">"Begin the parley without me. I'll be back in before you know it."</string>
-	<string key="9901_0035_herewestand_proposal_next2" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO_Status="Needs Re-Recording" dialogue-prompt="@9901_0035_herewestand_proposal_prompt2">Grr! As Euripedes said, talk sense to a fool and he calls you foolish! \n\nFine, I'll arrange the parley while you're in Restless Shore. Do NOT get yourself killed or Corrupted!</string>
+	<string key="9901_0035_herewestand_proposal_next2" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="9901_0035_herewestand_proposal_prompt2" VO_Status="Needs Re-Recording" dialogue-prompt="@9901_0035_herewestand_proposal_prompt2">Grr! As Euripedes said, talk sense to a fool and he calls you foolish! \n\nFine, I'll arrange the parley while you're in Restless Shore. Do NOT get yourself killed or Corrupted!</string>
 	<string key="9901_0035_herewestand_incomplete" speaker="Yonas Alazar" name="YonasAlazar" VO="9901_0035_herewestand_proposal_next2" VO_Status="Recorded">Hurry back, will you? Who knows how long I'll be able to keep the factions from each others' throats without you.</string>
 	<string key="9901_0035_herewestand_complete_available_response" comment="9901_0035_herewestand_incomplete" speaker="Warden Scout Titus" name="WardenScoutTitus" gender="M" VO="9901_0035_herewestand_complete_available_response" VO_Status="Recorded">Keep your voice down! Thorpe has eyes and ears all over Restless Shore.\n\nI'm the last Warden scout left - the others let their guard down. Thorpe found them.</string>
 	<string key="9901_0035_GoTo1" speaker="UI">Find the stairway to Tirla Beacon</string>
@@ -685,7 +685,7 @@
 	<string key="9902_0052_d_00_container_partial_All" speaker="UI" rel_version="Quest_MSQ_Update_4">Complete Quest: Hit the Decks [Solo] OR: Sabotage the Fleet at the Dynasty Shipyard [Group]</string>
 	<string key="9902_0052_d_00_container_partial_Expedition" speaker="UI" rel_version="Quest_MSQ_Update_4">OR:</string>
 	<string key="9902_0052_SabotageTheEmpress" speaker="UI">Sabotage the Fleet in the Dynasty Shipyard Expedition</string>
-	<string key="9904_0052_deployblightbombs" speaker="UI" rel_version="Quest_MSQ_Update_4">Place Blight Bombs in Cargo Piles destined for the Fleet</string>
+	<string key="9904_0052_deployblightbombs" speaker="UI" rel_version="Quest_MSQ_Update_4">{currentAmount} / {targetAmount} - Blight Bombs placed in Cargo Piles destined for the Fleet</string>
 	<string key="9904_0052_deployblightbombs1" speaker="UI" rel_version="Quest_MSQ_Update_4">Place the 1st Blight Bomb</string>
 	<string key="9904_0052_deployblightbombs2" speaker="UI" rel_version="Quest_MSQ_Update_4">Place the 2nd Blight Bomb</string>
 	<string key="9904_0052_deployblightbombs3" speaker="UI" rel_version="Quest_MSQ_Update_4">Place the 3rd Blight Bomb</string>

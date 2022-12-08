@@ -1,0 +1,5 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="0234_0203_goto" speaker="UI">Confront Pastor Walsham at the Walsham Congregation</string>
+	<string key="0234_0203_loot_goodbye" speaker="UI">Defeat {targetName} and collect {itemName}</string>
+</resources>
+

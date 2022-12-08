@@ -1150,7 +1150,7 @@
 	<string key="PerkID_Ability_Musket_PowerShot_Name">Refreshing Power Shot</string>
 	<string key="PerkID_Ability_Musket_PowerShot_Description">Power Shot kills reduce this ability's cooldown by {[GlobalAbilityTable.GlobalPerk_Ability_Musket_PowerShot.CooldownTimer * -100 * {perkMultiplier}]}%.</string>
 	<string key="PerkID_Ability_Musket_ShootersStance_Name">Empowering Shooter's Stance</string>
-	<string key="PerkID_Ability_Musket_ShootersStance_Description">Hitting a target while in Shooter's Stance grants Empower, increasing damage by {[Type_StatusEffectData.Status_Perk_Musket_ShootersStance_Empower.DMGStandard * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Musket_ShootersStance_Empower.BaseDuration]} seconds.</string>
+	<string key="PerkID_Ability_Musket_ShootersStance_Description">Hitting a target while in Shooter's Stance grants a stack of Empower, increasing damage by {[Type_StatusEffectData.Status_Perk_Musket_ShootersStance_Empower.DMGStandard * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Musket_ShootersStance_Empower.BaseDuration]} seconds. Effect is removed when stance is exited. (Max {[Type_StatusEffectData.Status_Perk_Musket_ShootersStance_Empower.StackMax]} stacks)</string>
 	<string key="PerkID_Ability_Musket_StoppingPower_Name">Repulsing Stopping Power</string>
 	<string key="PerkID_Ability_Musket_StoppingPower_Description">Stopping Power knockback distance is increased by {[GlobalAbilityTable.GlobalPerk_Ability_Musket_StoppingPower.Knockback * 100 * {perkMultiplier}]}%.</string>
 	<string key="PerkID_Ability_Musket_Traps_Name">Accelerating Traps</string>
@@ -1236,7 +1236,7 @@
 	<string key="PerkID_Ability_GreatAxe_Execute_Name">Mending Execute</string>
 	<string key="PerkID_Ability_GreatAxe_Execute_Description">Gain {[GlobalAbilityTable.GlobalPerk_Ability_GreatAxe_Execute.DmgPctToHealth * 100 * {perkMultiplier}]}% of the damage dealt back as health with Execute. (Limit 1 trigger per ability use.)</string>
 	<string key="PerkID_Ability_GreatAxe_Whirlwind_Name">Fortifying Whirlwind</string>
-	<string key="PerkID_Ability_GreatAxe_Whirlwind_Description">Whirlwind hits grant Fortify on self, increasing damage absorption by {[Type_StatusEffectData.Status_Perk_GreatAxe_Whirlwind_Fortify.ABSStandard * 100 * {perkMultiplier}]}% and slashing damage by {[Type_StatusEffectData.Status_Perk_GreatAxe_Whirlwind_Fortify.DMGSlash * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_GreatAxe_Whirlwind_Fortify.BaseDuration]} seconds. (5 stacks max.)</string>
+	<string key="PerkID_Ability_GreatAxe_Whirlwind_Description">Whirlwind hits grant Fortify on self, increasing damage absorption by {[Type_StatusEffectData.Status_Perk_GreatAxe_Whirlwind_Fortify.ABSStandard * 100 * {perkMultiplier}]}% and increased slash damage by {[Type_StatusEffectData.Status_Perk_GreatAxe_Whirlwind_Empower.DMGSlash * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_GreatAxe_Whirlwind_Fortify.BaseDuration]} seconds. (5 stacks max.)</string>
 	<string key="PerkID_Ability_GreatAxe_Maelstrom_Name">Enfeebling Maelstrom</string>
 	<string key="PerkID_Ability_GreatAxe_Maelstrom_Description">Targets hit by Maelstrom's No Reprieve are Weakened, reducing their attack damage by {[Type_StatusEffectData.Status_Perk_GreatAxe_Maelstrom_Weaken.DMGStandard * -100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_GreatAxe_Maelstrom_Weaken.BaseDuration]} seconds.</string>
 	<string key="PerkID_Ability_GreatAxe_GravityWell_Name">Insatiable Gravity Well</string>
@@ -1670,7 +1670,7 @@
 	<string key="PerkID_Armor_RangeDefense_Elemental_Name" rel_version="MorePerksV1">Elemental Aversion</string>
 	<string key="PerkID_Armor_RangeDefense_Elemental_Description" rel_version="MorePerksV1">You take {[GlobalAbilityTable.Global_Armor_RangeDefense_Elemental.BaseDamageReduction * 100 * {perkMultiplier}]}% less damage from ranged elemental attacks.</string>
 	<string key="PerkID_Ability_Greatsword_DashAttack_Name" rel_version="Weapon_GreatSword">Relentless Freedom</string>
-	<string key="PerkID_Ability_Greatsword_DashAttack_Description" rel_version="Weapon_GreatSword">Activating Relentless Rush, removes roots and slows. Also increase Relentless Rush's critical hit chance by {[GlobalAbilityTable.GlobalPerk_Ability_Greatsword_DashAttack_Crit.CritChance * 100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Ability_Greatsword_DashAttack_Description" rel_version="Weapon_GreatSword">Activating Relentless Rush removes roots and slows. Also increase Relentless Rush's critical hit chance by {[GlobalAbilityTable.GlobalPerk_Ability_Greatsword_DashAttack_Crit.CritChance * 100 * {perkMultiplier}]}%.</string>
 	<string key="PerkID_Ability_Greatsword_Combo_Name" rel_version="Weapon_GreatSword">Leeching Crosscut</string>
 	<string key="PerkID_Ability_Greatsword_Combo_Description" rel_version="Weapon_GreatSword">The final strike of Crosscut heals you for {[GlobalAbilityTable.GlobalPerk_Ability_Greatsword_Combo.DmgPctToHealth * 100 * {perkMultiplier}]}% of the damage dealt. (Limit 1 trigger per ability use.)</string>
 	<string key="PerkID_Ability_Greatsword_DefenseBreak_Name" rel_version="Weapon_GreatSword">Skyward Nullification</string>
@@ -1740,7 +1740,7 @@
 	<string key="PerkID_PvP_Armor_SiegeDamageReduction_Name" rel_version="PvP_Rewards_Track">Siege Ward</string>
 	<string key="PerkID_PvP_Armor_SiegeDamageReduction_Description" rel_version="PvP_Rewards_Track">PvP Only: Receive {[GlobalAbilityTable.Global_PvP_Armor_SiegeDamageReduction.BaseDamageReduction * 100]}% less damage from Siege weapons.</string>
 	<string key="PerkID_PvP_Ring_OnKill_EmpowerStack_Name" rel_version="PvP_Rewards_Track">Mortal Empowerment</string>
-	<string key="PerkID_PvP_Ring_OnKill_EmpowerStack_Description" rel_version="PvP_Rewards_Track">PvP Only: Player kills grant a persistent {[Type_StatusEffectData.Status_PvP_Perk_OnKill_EmpowerTilDeath.DMGStandard * 100]}% damage bonus that lasts until downed, death, or game mode transitions. Duration refreshes on re-application. (Stacks up to {[Type_StatusEffectData.Status_PvP_Perk_OnKill_EmpowerTilDeath.StackMax]} times. This effect can not be cleansed)</string>
+	<string key="PerkID_PvP_Ring_OnKill_EmpowerStack_Description" rel_version="PvP_Rewards_Track">PvP Only: Player kills grant a stacking {[Type_StatusEffectData.Status_PvP_Perk_OnKill_EmpowerTilDeath.DMGStandard * 100]}% damage bonus that lasts {[Type_StatusEffectData.Status_PvP_Perk_OnKill_EmpowerTilDeath.BaseDuration / 60]}m, until death, or game mode transition. (Stacks up to {[Type_StatusEffectData.Status_PvP_Perk_OnKill_EmpowerTilDeath.StackMax]} times. Cannot be cleansed. Does not trigger off persistent damage or DoTs)</string>
 	<string key="PerkID_PvP_Ring_DmgPerTargetBuff_Name" rel_version="PvP_Rewards_Track">Invigorated Punishment</string>
 	<string key="PerkID_PvP_Ring_DmgPerTargetBuff_Description" rel_version="PvP_Rewards_Track">PvP Only: Abilities deal {[GlobalAbilityTable.Global_PvP_Ring_DmgPerTargetBuff.BaseDamage * 100]}% bonus damage per buff on a player. (Max {[GlobalAbilityTable.Global_PvP_Ring_DmgPerTargetBuff.PerStatusEffectOnTargetMax]} buffs)</string>
 	<string key="PerkID_PvP_Amulet_DodgeSuccess_DMG_Name" rel_version="PvP_Rewards_Track">Shirking Empower</string>
@@ -1750,14 +1750,14 @@
 	<string key="PerkID_Tools_MoteEarth_Name">Earth Alignment</string>
 	<string key="PerkID_Tools_MoteAir_Name">Air Alignment</string>
 	<string key="PerkID_Tools_MoteWater_Name">Water Alignment</string>
-	<string key="PerkID_Tools_MoteSpirit_Name">Spirit Alignment</string>
+	<string key="PerkID_Tools_MoteSpirit_Name">Soul Alignment</string>
 	<string key="PerkID_Tools_MoteLife_Name">Life Alignment</string>
 	<string key="PerkID_Tools_MoteDeath_Name">Death Alignment</string>
 	<string key="PerkID_Tools_MoteFire_Description">When you finish gathering a node there is a chance to gain Fire Motes.</string>
 	<string key="PerkID_Tools_MoteEarth_Description">When you finish gathering a node there is a chance to gain Earth Motes.</string>
 	<string key="PerkID_Tools_MoteAir_Description">When you finish gathering a node there is a chance to gain Air Motes.</string>
 	<string key="PerkID_Tools_MoteWater_Description">When you finish gathering a node there is a chance to gain Water Motes.</string>
-	<string key="PerkID_Tools_MoteSpirit_Description">When you finish gathering a node there is a chance to gain Spirit Motes.</string>
+	<string key="PerkID_Tools_MoteSpirit_Description">When you finish gathering a node there is a chance to gain Soul Motes.</string>
 	<string key="PerkID_Tools_MoteLife_Description">When you finish gathering a node there is a chance to gain Life Motes.</string>
 	<string key="PerkID_Tools_MoteDeath_Description">When you finish gathering a node there is a chance to gain Death Motes.</string>
 	<string key="PerkID_HeartgemRune_Detonate_Major_Name">Accelerating Charge</string>
@@ -1769,7 +1769,7 @@
 	<string key="PerkID_HeartgemRune_Detonate_Dominator_Name">Escalating Explosion</string>
 	<string key="PerkID_HeartgemRune_Detonate_Dominator_Description">Explosion damage is increased by {[Type_AbilityData.Heartgem_Rune_Detonate_Dominator.BaseDamage * 100]}% but you take {[Type_StatusEffectData.Rune_Detonate_Dominator.ABSStandard * -100]}% more damage while charging.</string>
 	<string key="PerkID_HeartgemRune_StoneForm_Major_Name">Fortifying Form</string>
-	<string key="PerkID_HeartgemRune_StoneForm_Major_Description">Damage absorption is increased by {[Type_StatusEffectData.Rune_StoneForm_Major.ABSStandard * 100 * {perkMultiplier}]}% while active.</string>
+	<string key="PerkID_HeartgemRune_StoneForm_Major_Description">Gain Fortify on activation, increasing damage absorption by {[Type_StatusEffectData.Rune_StoneForm_Major.ABSStandard * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Rune_StoneForm_Major.BaseDuration]}s.</string>
 	<string key="PerkID_HeartgemRune_StoneForm_Greater_Name">Hardened Form</string>
 	<string key="PerkID_HeartgemRune_StoneForm_Greater_Description">Gain an additional {[Type_StatusEffectData.Rune_StoneForm_Greater.ABSStandard * 100]}% damage absorption for {[Type_StatusEffectData.Rune_StoneForm_Greater.BaseDuration]}s per hit taken (+{[Type_StatusEffectData.Rune_StoneForm_Greater.ABSStandard * Type_StatusEffectData.Rune_StoneForm_Greater.StackMax * 100]}% max).</string>
 	<string key="PerkID_HeartgemRune_StoneForm_Survivor_Name">Mending Form</string>
@@ -1800,20 +1800,28 @@
 	<string key="PerkID_HeartgemRune_HereticsFall_Survivor_Description">Gain Fortify on successful hits ({[Type_StatusEffectData.Rune_HereticsFall_Survivor.StackMax]} hits max), increasing damage absorption by {[Type_StatusEffectData.Rune_HereticsFall_Survivor.ABSStandard * 100]}% but reducing outgoing damage by {[Type_StatusEffectData.Rune_HereticsFall_Survivor.DMGStandard * -100]}% for {[Type_StatusEffectData.Rune_HereticsFall_Survivor.BaseDuration]}s per hit.</string>
 	<string key="PerkID_HeartgemRune_HereticsFall_Dominator_Name">Empowered Ascent</string>
 	<string key="PerkID_HeartgemRune_HereticsFall_Dominator_Description">Successful hits deal {[DamageTable.Rune_HereticFall_AoE_Dominator.DmgCoef * 100]}% heartrune damage but no longer stagger.</string>
+	<string key="PerkID_HeartgemRune_BileBomb_Major_Name" rel_version="Feature_Heartgems_BileBomb">Crippling Bile</string>
+	<string key="PerkID_HeartgemRune_BileBomb_Major_Description" rel_version="Feature_Heartgems_BileBomb">Inflicts Slow on successful hits, reducing target's movement speed by {[Type_StatusEffectData.Rune_BileBomb_Major.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.Rune_BileBomb_Major.BaseDuration]}s.</string>
+	<string key="PerkID_HeartgemRune_BileBomb_Greater_Name" rel_version="Feature_Heartgems_BileBomb">Exhausting Bile</string>
+	<string key="PerkID_HeartgemRune_BileBomb_Greater_Description" rel_version="Feature_Heartgems_BileBomb">Inflicts Exhaust on successful hits, reducing target's stamina regeneration by {[Type_StatusEffectData.Rune_BileBomb_Greater.StaminaRate* -100]}%.</string>
+	<string key="PerkID_HeartgemRune_BileBomb_Survivor_Name" rel_version="Feature_Heartgems_BileBomb">Mending Bile</string>
+	<string key="PerkID_HeartgemRune_BileBomb_Survivor_Description" rel_version="Feature_Heartgems_BileBomb">Players who hit the afflicted targets are healed for {[Type_StatusEffectData.Rune_BileBomb_Survivor_Heal.HealthModifierDamageBased * 100]}% of the damage done but healing reduction is reduced to {[Type_StatusEffectData.Rune_BileBomb_Survivor.HealMod * -100]}% and damage-over-time is removed.</string>
+	<string key="PerkID_HeartgemRune_BileBomb_Dominator_Name" rel_version="Feature_Heartgems_BileBomb">Concentrated Bile</string>
+	<string key="PerkID_HeartgemRune_BileBomb_Dominator_Description" rel_version="Feature_Heartgems_BileBomb">Healing reduction is increased to {[Type_StatusEffectData.Rune_BileBomb_Dominator.HealMod * -100]}% and damage increased to {[Type_StatusEffectData.Rune_BileBomb_Dominator.HealthModifierDamageBased * -100]}% per second but the projectile no longer creates a cloud on impact.</string>
 	<string key="PerkID_Bags_FoodUtilityDur_Name">Lasting Consumption</string>
 	<string key="PerkID_Bags_FoodUtilityDur_Description">Food, honing stones, and ward potions last {[Type_AbilityData.Global_Bags_FoodUtilityDur.StatusEffectDurationReduction * 100 * {perkMultiplier}]}% longer.</string>
 	<string key="PerkID_RuneglassGem_ThreatAdd_Heal_Name" rel_version="Territory_Brimstone_Sands">Leeching Taunt</string>
-	<string key="PerkID_RuneglassGem_ThreatAdd_Heal_Description" rel_version="Territory_Brimstone_Sands">You generate +{[GlobalAbilityTable.Runeglass_ThreatAdd_Heal.ThreatDamage * 100 * {perkMultiplier}]}% more threat, and gain +{[GlobalAbilityTable.Runeglass_Just_Heal_Weapon.DmgPctToHealth * 100]}% of your damage as Health. (2s Cooldown)</string>
+	<string key="PerkID_RuneglassGem_ThreatAdd_Heal_Description" rel_version="Territory_Brimstone_Sands">You generate +{[GlobalAbilityTable.Runeglass_Just_ThreatAdd.ThreatDamage * 100 * {perkMultiplier}]}% more threat, and gain +{[GlobalAbilityTable.Runeglass_Just_Heal_Weapon.DmgPctToHealth * 100]}% of your damage as Health. (2s Cooldown)</string>
 	<string key="PerkID_RuneglassGem_ThreatSub_Heal_Name" rel_version="Territory_Brimstone_Sands">Leeching Calm</string>
-	<string key="PerkID_RuneglassGem_ThreatSub_Heal_Description" rel_version="Territory_Brimstone_Sands">You generate {[GlobalAbilityTable.Runeglass_ThreatSub_Heal.ThreatDamage * -100 * {perkMultiplier}]}% less threat, and gain +{[GlobalAbilityTable.Runeglass_Just_Heal_Armor.DmgPctToHealth * 100]}% of your damage as Health. (2s Cooldown)</string>
+	<string key="PerkID_RuneglassGem_ThreatSub_Heal_Description" rel_version="Territory_Brimstone_Sands">You generate {[GlobalAbilityTable.Runeglass_Just_ThreatSub.ThreatDamage * -100 * {perkMultiplier}]}% less threat, and gain +{[GlobalAbilityTable.Runeglass_Just_Heal_Armor.DmgPctToHealth * 100]}% of your damage as Health. (2s Cooldown)</string>
 	<string key="PerkID_RuneglassGem_ThreatAdd_Mana_Name" rel_version="Territory_Brimstone_Sands">Siphoning Taunt</string>
-	<string key="PerkID_RuneglassGem_ThreatAdd_Mana_Description" rel_version="Territory_Brimstone_Sands">You generate +{[GlobalAbilityTable.Runeglass_ThreatAdd_Mana.ThreatDamage * 100 * {perkMultiplier}]}% more threat, and gain +{[GlobalAbilityTable.Runeglass_Just_Mana_Weapon.Mana * 100]} Mana with each successful hit. (2s Cooldown)</string>
+	<string key="PerkID_RuneglassGem_ThreatAdd_Mana_Description" rel_version="Territory_Brimstone_Sands">You generate +{[GlobalAbilityTable.Runeglass_Just_ThreatAdd.ThreatDamage * 100 * {perkMultiplier}]}% more threat, and gain +{[GlobalAbilityTable.Runeglass_Just_Mana_Weapon.Mana * 100]} Mana with each successful hit. (2s Cooldown)</string>
 	<string key="PerkID_RuneglassGem_ThreatSub_Mana_Name" rel_version="Territory_Brimstone_Sands">Siphoning Calm</string>
-	<string key="PerkID_RuneglassGem_ThreatSub_Mana_Description" rel_version="Territory_Brimstone_Sands">You generate {[GlobalAbilityTable.Runeglass_ThreatSub_Mana.ThreatDamage * -100 * {perkMultiplier}]}% less threat, and gain +{[GlobalAbilityTable.Runeglass_Just_Mana_Armor.Mana * 100]} Mana with each successful hit. (2s Cooldown)</string>
+	<string key="PerkID_RuneglassGem_ThreatSub_Mana_Description" rel_version="Territory_Brimstone_Sands">You generate {[GlobalAbilityTable.Runeglass_Just_ThreatSub.ThreatDamage * -100 * {perkMultiplier}]}% less threat, and gain +{[GlobalAbilityTable.Runeglass_Just_Mana_Armor.Mana * 100]} Mana with each successful hit. (2s Cooldown)</string>
 	<string key="PerkID_RuneglassGem_ThreatAdd_Stamina_Name" rel_version="Territory_Brimstone_Sands">Energized Taunt</string>
-	<string key="PerkID_RuneglassGem_ThreatAdd_Stamina_Description" rel_version="Territory_Brimstone_Sands">You generate +{[GlobalAbilityTable.Runeglass_ThreatAdd_Stamina.ThreatDamage * 100 * {perkMultiplier}]}% more threat, and gain +{[GlobalAbilityTable.Runeglass_ThreatAdd_Stamina.Stamina]} Stamina with each successful hit. (3s Cooldown)</string>
+	<string key="PerkID_RuneglassGem_ThreatAdd_Stamina_Description" rel_version="Territory_Brimstone_Sands">You generate +{[GlobalAbilityTable.Runeglass_Just_ThreatAdd.ThreatDamage * 100 * {perkMultiplier}]}% more threat, and gain +{[GlobalAbilityTable.Runeglass_ThreatAdd_Stamina.Stamina]} Stamina with each successful hit. (3s Cooldown)</string>
 	<string key="PerkID_RuneglassGem_ThreatSub_Stamina_Name" rel_version="Territory_Brimstone_Sands">Energized Calm</string>
-	<string key="PerkID_RuneglassGem_ThreatSub_Stamina_Description" rel_version="Territory_Brimstone_Sands">You generate {[GlobalAbilityTable.Runeglass_ThreatSub_Stamina.ThreatDamage * -100 * {perkMultiplier}]}% less threat, and gain +{[GlobalAbilityTable.Runeglass_ThreatSub_Stamina.Stamina]} Stamina with each successful hit. (3s Cooldown)</string>
+	<string key="PerkID_RuneglassGem_ThreatSub_Stamina_Description" rel_version="Territory_Brimstone_Sands">You generate {[GlobalAbilityTable.Runeglass_Just_ThreatSub.ThreatDamage * -100 * {perkMultiplier}]}% less threat, and gain +{[GlobalAbilityTable.Runeglass_ThreatSub_Stamina.Stamina]} Stamina with each successful hit. (3s Cooldown)</string>
 	<string key="PerkID_RuneglassGem_ThreatAdd_Fire_Name" rel_version="Territory_Brimstone_Sands">Ignited Taunt</string>
 	<string key="PerkID_RuneglassGem_ThreatAdd_Fire_Description" rel_version="Territory_Brimstone_Sands">You generate +{[GlobalAbilityTable.Runeglass_ThreatAdd_Fire.ThreatDamage * 100 * {perkMultiplier}]}% more threat, and hits inflict Burn, dealing {[Type_StatusEffectData.Status_Perk_Runeglass_Attunement_FireDMG.HealthModifierDamageBased * -100 * {perkMultiplier}]}% Fire damage per second for {[Type_StatusEffectData.Status_Perk_Runeglass_Attunement_FireDMG.BaseDuration]}s.</string>
 	<string key="PerkID_RuneglassGem_ThreatSub_Fire_Name" rel_version="Territory_Brimstone_Sands">Ignited Calm</string>

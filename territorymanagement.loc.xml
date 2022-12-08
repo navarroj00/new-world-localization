@@ -47,6 +47,7 @@
 	<string key="ui_protection_fail_resources">Not enough resources &amp;amp; funds</string>
 	<string key="ui_protection_price">Price per {protectionDuration}</string>
 	<string key="ui_projects_will_refresh_in">All Missions will refresh in </string>
+	<string key="ui_daily_bonuses_faction_mission">First three completed faction missions will receive a daily bonus.</string>
 	<string key="ui_daily_bonuses_available">Daily Bonuses Available </string>
 	<string key="ui_daily_mission_bonus_awarded">Daily Mission Bonus Awarded!</string>
 	<string key="ui_no_active_projects">There is no active project in this category</string>
@@ -81,6 +82,8 @@
 	<string key="ui_upgrade_settlement">Upgrade Settlement.</string>
 	<string key="ui_upgrade_settlement_description">A higher tier settlement allows you and your Company to build higher tier stuctures.</string>
 	<string key="ui_upgrade_owned">Owned</string>
+	<string key="ui_upgrade_azoth_discount">Azoth Discount</string>
+	<string key="ui_upgrade_azoth_discount_amount">{amount}%</string>
 	<string key="ui_upgrade_locked">Locked</string>
 	<string key="ui_upgrade_place_plan">Place Upgrade Plan</string>
 	<string key="ui_upgrade_unlocks">Unlocks</string>
@@ -427,28 +430,28 @@
 	<string key="ui_upgrade_button_ExplosiveProjectId">Explosives Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_ExplosiveProjectId2">Explosives Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_ExplosiveProjectId3">Explosives Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId">Upgrade Forge to Tier 3 that can craft &lt;font color="#ffd058"&gt;Steel weapons and armors.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId2">Upgrade Forge to Tier 4 that can craft &lt;font color="#ffd058"&gt;Starmetal weapons and armors.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId3">Upgrade Forge to Tier 5 that can craft &lt;font color="#ffd058"&gt;Orichalcum weapons and armors.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId">Upgrade Smelter to Tier 4 that can craft &lt;font color="#ffd058"&gt;Starmetal ingots.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId2">Upgrade Smelter to Tier 5 that can craft &lt;font color="#ffd058"&gt;Orichalcum and Platinum ingots.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId">Upgrade Woodshop to Tier 4 that can craft &lt;font color="#ffd058"&gt;Wyrdwood planks.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId2">Upgrade Woodshop to Tier 5 that can craft &lt;font color="#ffd058"&gt;Ironwood planks.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_MasonryProjectId">Upgrade Stonecutting Table to Tier 4 that can craft &lt;font color="#ffd058"&gt;Lodestone Brick and Cut Brilliant Gems.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_MasonryProjectId2">Upgrade Stonecutting Table to Tier 5 that can craft &lt;font color="#ffd058"&gt;Infused Lodestone Brick and Cut Pristine Gems.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_WeavingProjectId">Upgrade Loom to Tier 4 that can craft &lt;font color="#ffd058"&gt;Silk.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_WeavingProjectId2">Upgrade Loom to Tier 5 that can craft &lt;font color="#ffd058"&gt;Infused Silk.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_TanningProjectId">Upgrade Tannery to Tier 4 that can craft &lt;font color="#ffd058"&gt;Layered Leather.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_TanningProjectId2">Upgrade Tannery to Tier 5 that can craft&lt;font color="#ffd058"&gt;Infused leather.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId">Upgrade Workshop to Tier 3 that can craft &lt;font color="#ffd058"&gt;Steel ranged weapons and ammos.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId2">Upgrade Workshop to Tier 4 that can craft &lt;font color="#ffd058"&gt;Starmetal ranged weapons and ammos.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId3">Upgrade Workshop to Tier 5 that can craft &lt;font color="#ffd058"&gt;Orichalcum ranged weapons and ammos.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId">Upgrade Outfitting Station to Tier 3 that can craft outfits made with &lt;font color="#ffd058"&gt;Sateen and Rugged leather, and Gold trinkets.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId2">Upgrade Outfitting Station to Tier 4 that can craft outfits made with &lt;font color="#ffd058"&gt;Silk and Layered leather, and Platinum trinkets.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId3">Upgrade Outfitting Station to Tier 5 that can craft outfits made with &lt;font color="#ffd058"&gt;Infused silk and Infused leather.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId">Upgrade Arcane Repository to Tier 3 that can craft &lt;font color="#ffd058"&gt;Distilled Arcane Repository items, and Steel magical staves.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId2">Upgrade Arcane Repository to Tier 4 that can craft &lt;font color="#ffd058"&gt;Concentrated Arcane Repository items, and Starmetal magical staves.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId3">Upgrade Arcane Repository to Tier 5 that can craft &lt;font color="#ffd058"&gt;Strong Arcane Repository items, and Orichalcum magical staves.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId">Upgrade Forge to Tier 3 to unlock additional Tier 3 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId2">Upgrade Forge to Tier 4 to unlock additional Tier 4 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId3">Upgrade Forge to Tier 5 to unlock additional Tier 5 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId">Upgrade Smelter to Tier 4 that can craft &lt;font color="#ffd058"&gt;Orichalcum ingots.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId2">Upgrade Smelter to Tier 5 that can craft &lt;font color="#ffd058"&gt;Asmodeum ingots.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId">Upgrade Woodshop to Tier 4 that can craft &lt;font color="#ffd058"&gt;Ironwood planks.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId2">Upgrade Woodshop to Tier 5 that can craft &lt;font color="#ffd058"&gt;Glittering ebony.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_MasonryProjectId">Upgrade Stonecutting Table to Tier 4 that can craft &lt;font color="#ffd058"&gt;Obsidian voidstone.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_MasonryProjectId2">Upgrade Stonecutting Table to Tier 5 that can craft &lt;font color="#ffd058"&gt;Runestone.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_WeavingProjectId">Upgrade Loom to Tier 4 that can craft &lt;font color="#ffd058"&gt;Infused Silk.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_WeavingProjectId2">Upgrade Loom to Tier 5 that can craft &lt;font color="#ffd058"&gt;Phoenixweave.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_TanningProjectId">Upgrade Tannery to Tier 4 that can craft &lt;font color="#ffd058"&gt;Infused Leather.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_TanningProjectId2">Upgrade Tannery to Tier 5 that can craft&lt;font color="#ffd058"&gt;Runic leather.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId">Upgrade Workshop to Tier 3 to unlock additional Tier 3 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId2">Upgrade Workshop to Tier 4 to unlock additional Tier 4 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId3">Upgrade Workshop to Tier 5 to unlock additional Tier 5 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId">Upgrade Outfitting Station to Tier 3 to unlock additional Tier 3 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId2">Upgrade Outfitting Station to Tier 4 to unlock additional Tier 4 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId3">Upgrade Outfitting Station to Tier 5 to unlock additional Tier 5 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId">Upgrade Arcane Repository to Tier 3 to unlock additional Tier 3 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId2">Upgrade Arcane Repository to Tier 4 to unlock additional Tier 4 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId3">Upgrade Arcane Repository to Tier 5 to unlock additional Tier 5 crafts and an Azoth Discount.</string>
 	<string key="ui_upgrade_desc_CookingProjectId">Upgrade Kitchen to Tier 3 that can craft &lt;font color="#ffd058"&gt;Tier 3 meals.&lt;/font&gt;</string>
 	<string key="ui_upgrade_desc_CookingProjectId2">Upgrade Kitchen to Tier 4 that can craft &lt;font color="#ffd058"&gt;Tier 4 meals.&lt;/font&gt;</string>
 	<string key="ui_upgrade_desc_CookingProjectId3">Upgrade Kitchen to Tier 5 that can craft &lt;font color="#ffd058"&gt;Tier 5 meals.&lt;/font&gt;</string>
@@ -466,6 +469,22 @@
 	<string key="ui_upgrade_desc_HornProjectId2">Upgrade Warhorns to Tier 3. When upgraded, any existing Warhorns (deployed or otherwise) are also upgraded.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId">Upgrade Explosives to Tier 2. When upgraded, any existing Explosives (deployed or otherwise) are also upgraded.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId2">Upgrade Explosives to Tier 3. When upgraded, any existing Explosives (deployed or otherwise) are also upgraded.</string>
+	<string key="event_station" rel_version="Event_WinterConvergence_Temp">Tree of Light</string>
+	<string key="ui_upgrade_title_EventProjectId" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
+	<string key="ui_upgrade_title_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
+	<string key="ui_upgrade_title_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Tree of Light Upgrades Complete!</string>
+	<string key="ui_upgrade_titleNoMarkup_EventProjectId" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light to Tier 2</string>
+	<string key="ui_upgrade_titleNoMarkup_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light to Tier 3</string>
+	<string key="ui_upgrade_button_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Tree of Light Upgrades Complete!</string>
+	<string key="ui_upgrade_button_EventProjectId" rel_version="Event_WinterConvergence_Temp">Tree of Light Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
+	<string key="ui_upgrade_button_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Tree of Light Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_EventProjectId" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light to Tier 2 to surround it with &lt;font color="#ffd058"&gt;Beautifully Wrapped Presents!&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light to Tier 3 to surround it with &lt;font color="#ffd058"&gt;Exquisitely Wrapped Presents!&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Complete Winter Convergence Town Projects to earn Event Reputation!</string>
+	<string key="ui_upgradebutton_label_event" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light</string>
+	<string key="ui_event_project_complete" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light Project Complete</string>
+	<string key="ui_event_details_WinterConvergence" rel_version="Event_WinterConvergence_Temp">&lt;font color="#ffd058"&gt;Complete Winter Convergence Quests and Activities&lt;/font&gt; to earn Event Reputation and Winter Tokens to gain access to a bounty of event rewards! \n\n&lt;font color="#ffd058"&gt;Recover Lost Presents, mine Gleamites, and defeat the Winter Warrior &lt;/font&gt; to maintain the spirit of Convergence and stave off the looming Forever Winter!\n\n&lt;font color="#ffd058"&gt;Collect daily rewards from each villages Bountiful Gift Sack and Settlement’s Tree of Light Centerpiece! &lt;/font&gt; Completing an endless supply of Convergence Town Projects upgrades the splendor and rewards earned from the centerpiece!</string>
+	<string key="ui_event_project_endless">Endless</string>
 	<string key="ui_territory_level">Territory Level: {level}</string>
 	<string key="ui_enter_house">Enter House Menu</string>
 	<string key="ui_purchase_house">Purchase House</string>

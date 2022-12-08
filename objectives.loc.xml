@@ -10,7 +10,7 @@
 	<string key="journal_document_topics_title" speaker="UI">DOCUMENT TOPICS</string>
 	<string key="journal_documents" speaker="UI">Documents</string>
 	<string key="journal_overview" speaker="UI">OVERVIEW</string>
-	<string key="journal_page_count" speaker="UI">{pagesFound} / {totalPages} Pages Found</string>
+	<string key="journal_page_count" speaker="UI">{pagesFound} / {totalPages}</string>
 	<string key="journal_page_number" speaker="UI">Page {number}</string>
 	<string key="journal_page_number_location" speaker="UI">Page {number} - Found at {location}</string>
 	<string key="journal_pages_found" speaker="UI">Pages Found</string>
@@ -84,6 +84,8 @@
 	<string key="objective_journey" speaker="UI">Side Stories</string>
 	<string key="objective_journey_desc" speaker="UI">Additional quests</string>
 	<string key="objective_journey_empty" speaker="UI">No Journey Obtained</string>
+	<string key="objective_factionstory" speaker="UI">Faction Story</string>
+	<string key="objective_factionstory_desc" speaker="UI">Faction story objectives</string>
 	<string key="objective_skillprogression" speaker="UI">Skill Progression</string>
 	<string key="objective_skillprogression_desc" speaker="UI">Skill progression objectives</string>
 	<string key="objective_epicequipment" speaker="UI">Epic Weapons and Armor</string>
@@ -146,6 +148,7 @@
 	<string key="objective_mission_title_procurer_acquire" speaker="UI">Acquisition Mission</string>
 	<string key="objective_msq" speaker="UI">Main Story</string>
 	<string key="objective_msq_desc" speaker="UI">Main story objectives</string>
+	<string key="objective_get_msq_message" speaker="UI">You currently have no active Main Story quests.\nSearch for this icon on the map to determine whether the next Main Story Quest is available.</string>
 	<string key="M_procurer_craft_workorder_items" speaker="UI">Crafting Mission</string>
 	<string key="objective_name_template" comment="Obsolete - Used to show above rewards on the conversation screen. {title} is the quest title." speaker="UI">Quest: "{title}"</string>
 	<string key="objective_name_and_rewards_template" comment="Shows above rewards on the conversation screen. {title} is the quest title" speaker="UI">"{title}" - Rewards</string>
@@ -164,6 +167,7 @@
 	<string key="objective_has_location" speaker="UI">With Specific Locations</string>
 	<string key="objective_no_location" speaker="UI">Without Specific Locations</string>
 	<string key="objective_main_story_quest" speaker="UI">Main Story Quest</string>
+	<string key="objective_faction_story_quest" speaker="UI">Faction Story Quest</string>
 	<string key="objective_skill_progression_quest" speaker="UI">Skill Progression Quest</string>
 	<string key="objective_side_quests" speaker="UI">Side Quests</string>
 	<string key="objective_event" speaker="UI">Event Quests</string>

@@ -21,7 +21,7 @@
 	<string key="dungeon_amrine_interact_hallowed_candle">Hallowed Candle</string>
 	<string key="dungeon_amrine_interact_spectral_shrine">Spectral Shrine</string>
 	<string key="dungeon_everfall_title">The Starstone Barrows</string>
-	<string key="dungeon_everfall_description">Retrieve the Starstone Diadem from Greundgul the Regent inside The Starstone Barrows.</string>
+	<string key="dungeon_everfall_description">Navigate through The Starstone Barrows and defeat Greundgul the Regent.</string>
 	<string key="dungeon_everfall_required_equipment">1 Azoth Staff</string>
 	<string key="dungeon_everfall_task_explore">Explore the halls for a path to the Shattered Obelisk.</string>
 	<string key="dungeon_everfall_task_sealedchamber">Use the Azoth Staff to enter the Sealed Chamber.</string>
@@ -33,12 +33,19 @@
 	<string key="dungeon_everfall_task_obeliskbarrier">Search for a way to navigate through the arcane barriers.</string>
 	<string key="dungeon_everfall_task_obeliskstatuseffect">Gain Arcane Protection.</string>
 	<string key="dungeon_everfall_task_obelisksearchkey">Search for the key to gain entry to the Crypt of the Regent.</string>
-	<string key="dungeon_everfall_task_obeliskfindbless">Disconnect the power lock on the Ancient Shrine and use the shrine to bless the Obelisk Key.</string>
+	<string key="dungeon_everfall_task_obelisksearchkeyget">Obtain the Obelisk Key from the Ornate Chest.</string>
+	<string key="dungeon_everfall_task_obeliskfindbless">Disconnect the power lock on the Ancient Shrine to disable the arcane barriers.</string>
+	<string key="dungeon_everfall_task_obeliskfindblessactivated">Use the Ancient Shrine to bless the Obelisk Key.</string>
 	<string key="dungeon_everfall_task_obeliskusekey">Use the Blessed Obelisk Key to enter the Crypt of the Regent.</string>
 	<string key="dungeon_everfall_task_bossdoorenter">Proceed into the Crypt of the Regent.</string>
 	<string key="dungeon_everfall_task_bossdoorapproach">Approach Greundgul the Regent.</string>
 	<string key="dungeon_everfall_task_boss">Defeat Greundgul the Regent.</string>
 	<string key="dungeon_everfall_task_complete">Leave The Starstone Barrows.</string>
+	<string key="dungeon_everfall_task_mut_approach_simon" rel_version="Feature_Dungeon_Mutators_Everfall00">Follow the broken path to the Obelisk Cavern.</string>
+	<string key="dungeon_everfall_task_mut_defeat_simon" rel_version="Feature_Dungeon_Mutators_Everfall00">Defeat Simon Grey!</string>
+	<string key="dungeon_everfall_task_mut_approach_foreman" rel_version="Feature_Dungeon_Mutators_Everfall00">Locate the Hallowed Candle and bring it to the Spectral Shrine.</string>
+	<string key="dungeon_everfall_task_mut_defeat_foreman" rel_version="Feature_Dungeon_Mutators_Everfall00">Defeat Foreman Nakashima.</string>
+	<string key="dungeon_everfall_task_mut_exit" rel_version="Feature_Dungeon_Mutators_Everfall00">Exit the excavation and return to the Shattered Obelisk.</string>
 	<string key="dungeon_reekwater_title">The Lazarus Instrumentality</string>
 	<string key="dungeon_reekwater_description">Uncover the secrets of the ancient magical site.</string>
 	<string key="dungeon_reekwater_required_equipment">1 Azoth Staff</string>

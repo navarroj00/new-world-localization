@@ -9,9 +9,9 @@
 	<string key="ui_house_abandon_this_popup_desc" comment="Abandon House">&lt;font color="#f25d5d"&gt;{percent}% of the original purchase cost will be refunded if this house is abandoned.&lt;/font&gt;\nAll trophies &amp; furniture in the abandoned house will be moved into Town Storage.\n\nTo continue, type {territoryName} below.</string>
 	<string key="ui_house_abandon_this_popup_title" comment="Abandon House">Abandon House?</string>
 	<string key="ui_house_abandon_no_storage_warning" comment="Abandon House">You must have at least one free slot of Settlement storage before you can remove all items from your house.</string>
-	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Pay {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; to reset cooldown.</string>
+	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Pay {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; to reset cooldown.</string>
 	<string key="ui_cannot_travel_currency" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; is required to fast travel</string>
-	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; is required to fast travel</string>
+	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; is required to fast travel</string>
 	<string key="ui_cannot_travel_dead" comment="Fast Travel">You cannot recall or fast travel when you are dead.</string>
 	<string key="ui_cannot_travel_encounter" comment="Fast Travel">You cannot fast travel while in an encounter</string>
 	<string key="ui_cannot_travel_encumbered" comment="Fast Travel">You cannot fast travel while encumbered</string>
@@ -24,6 +24,7 @@
 	<string key="ui_fast_travel_charted_point" comment="Fast Travel">Fast Travel Point</string>
 	<string key="ui_fast_travel_cost" comment="Fast Travel">{total} &lt;font color="#949494"&gt;/ {cost}&lt;/font&gt;</string>
 	<string key="ui_fast_travel_error_badStartLoc" comment="Fast Travel">You can only Fast Travel while in a Settlement, Outpost, or Spirit Shrine.</string>
+	<string key="ui_fast_travel_error_belowFromFieldLevelReq" comment="Fast Travel">You do not meet the Level Requirement to Fast Travel from the Field.</string>
 	<string key="ui_fast_travel_error_cantAfford" comment="Fast Travel">You have insufficient Azoth.</string>
 	<string key="ui_fast_travel_error_description_inCooldown" comment="Fast Travel">This action is on cooldown.</string>
 	<string key="ui_fast_travel_error_description_inCooldown_with_time" comment="Fast Travel">This action is on cooldown.\nCan recall in {time}.</string>
@@ -45,14 +46,14 @@
 	<string key="ui_house_travel_cooldown_remaining" comment="Fast Travel">Can Fast travel again in {time}</string>
 	<string key="ui_housing_fast_travel" comment="Fast Travel">Fast Travel</string>
 	<string key="ui_housing_fast_travel_desc" comment="Fast Travel">From anywhere, to your home</string>
-	<string key="ui_need_reset_travel_currency" comment="Fast Travel">You need {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; to reset cooldown.</string>
+	<string key="ui_need_reset_travel_currency" comment="Fast Travel">You need {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; to reset cooldown.</string>
 	<string key="ui_recall_not_available_server_error" comment="Fast Travel">Recall is not available due to server error.</string>
 	<string key="ui_recall_to" comment="Fast Travel">Recall to</string>
 	<string key="ui_recall_to_house" comment="Fast Travel">Recall to house</string>
 	<string key="ui_recall_to_house_disabled" comment="Fast Travel">Recall to house (Disabled)</string>
-	<string key="ui_reset_travel" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; Reset Cooldown</string>
+	<string key="ui_reset_travel" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; Reset Cooldown</string>
 	<string key="ui_settlement_fast_travel" comment="Fast Travel">Fast Travel</string>
-	<string key="ui_settlement_fast_travel_desc" comment="Fast Travel">Fast Travel To This Settlement for {cost} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_settlement_fast_travel_desc" comment="Fast Travel">Fast Travel To This Settlement for {cost} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt;</string>
 	<string key="ui_spirit_shrine" comment="Fast Travel">Spirit Shrine</string>
 	<string key="ui_spirit_shrine_desc" comment="Fast Travel">Fast Travel to any previously visited Settlement, Outpost, or Spirit Shrine.</string>
 	<string key="ui_travel" comment="Fast Travel">Travel</string>
@@ -216,6 +217,7 @@
 	<string key="ui_home_purchase_error_level_first" comment="Purchase House">Requires player level {level} to purchase your first home</string>
 	<string key="ui_house_compensation_title" comment="Purchase House">Housing Compensation</string>
 	<string key="ui_house_purchase" comment="Purchase House">Purchase this house {coinText}</string>
+	<string key="ui_house_purchase_level_requirement" comment="Purchase House">Player Level {amount}</string>
 	<string key="ui_house_purchase_confirm_popup_desc" comment="Purchase House">Would you like to purchase this house?</string>
 	<string key="ui_house_purchase_confirm_popup_no_button" comment="Purchase House">Cancel</string>
 	<string key="ui_house_purchase_confirm_popup_title" comment="Purchase House">Purchase House</string>
@@ -257,5 +259,10 @@
 	<string key="ui_view_warinfo" comment="Territory Wars">View War Info</string>
 	<string key="ui_housing_item_over_placement_no_points" comment="Placed Housing Items">Warning: You have reached the housing point limit for this item.</string>
 	<string key="ui_housing_item_over_placement_negative_points" comment="Placed Housing Items">Warning: Too many of the same housing item placed will accrue negative points.</string>
+	<string key="ui_remove_all_furniture_desc" comment="Remove All Furniture">Place all furniture and decorations into your Settlement storage?</string>
+	<string key="ui_remove_all_furniture_button" comment="Remove All Furniture">Remove All Furniture</string>
+	<string key="ui_remove_all_furniture_confirm_title" comment="Remove All Furniture">Remove All Furniture?</string>
+	<string key="ui_remove_all_furniture_confirm_message" comment="Remove All Furniture">All trophies and furniture in the house will be moved to the town storage.</string>
+	<string key="ui_house_remove_all_furniture_confirm_button" comment="Remove All Furniture">Remove All Furniture</string>
 </resources>
 

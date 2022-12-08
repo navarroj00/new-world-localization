@@ -33,8 +33,8 @@
 	<string key="ui_preview">Preview</string>
 	<string key="ui_item_already_claimed">Item has already been claimed.</string>
 	<string key="ui_add_more_fictional_currency" rel_version="Feature_MTX">Add More &lt;img src="lyshineui/images/mtx/icon_mtx_currency" scale="2.8" yOffset="10"&gt;&lt;/img&gt;</string>
-	<string key="ui_discount_off">{number} &lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;off&lt;/font&gt;</string>
-	<string key="ui_discount_off_bold">{number} &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;off&lt;/font&gt;</string>
+	<string key="ui_discount_off">{number}% &lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;off&lt;/font&gt;</string>
+	<string key="ui_discount_off_bold">{number}% &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;off&lt;/font&gt;</string>
 	<string key="ui_marks_of_fortune" rel_version="Feature_MTX">Marks of Fortune</string>
 	<string key="ui_entitlement_balance" rel_version="Feature_MTX">Current balance {balance}</string>
 	<string key="ui_dye_number" rel_version="Feature_MTX">Dye #{rewardId}</string>
@@ -88,7 +88,7 @@
 	<string key="ui_transfer_requirement_sanctuary" rel_version="Feature_MTX">You must be in a Sanctuary (Settlement, Outpost, Spirit Shrine, or Watchtower) before transferring</string>
 	<string key="ui_transfer_requirement_not_in_company" rel_version="Feature_MTX">You cannot belong to a company before transferring</string>
 	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">You cannot have active trading post buy/sell orders before transferring</string>
-	<string key="ui_transfer_requirement_fresh_start" rel_version="Feature_FreshStart">Characters cannot transfer to and from Fresh Start Worlds.</string>
+	<string key="ui_transfer_requirement_fresh_start" rel_version="Feature_FreshStart">Characters cannot transfer to Fresh Start Worlds.</string>
 	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">You must be at least level {level} before transferring</string>
 	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">You cannot own any houses before transferring</string>
 	<string key="ui_transfer_requirement_cooldown" rel_version="Feature_MTX">You must wait till the end of the cooldown before you may transfer worlds or regions again.</string>
@@ -111,7 +111,7 @@
 	<string key="ui_bundle_tooltip" rel_version="Feature_MTX">This product is a bundle.</string>
 	<string key="reward_type_tooltip_emote" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;EMOTES&lt;/font&gt; : You can use an emote in the Emotes menu. Press [{hintText}] to Open Emotes menu.</string>
 	<string key="reward_type_tooltip_itemskin" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;ITEM SKINS&lt;/font&gt; : You can apply a skin by clicking on your armor, tools and weapons in your inventory and then “Change skin”.</string>
-	<string key="reward_type_tooltip_campskin" rel_version="Feature_Camp_Skins">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;CAMP SKINS&lt;/font&gt; : You can apply a skin by clicking on your camp in your inventory and then “Change skin”.</string>
+	<string key="reward_type_tooltip_campskin" rel_version="Feature_Camp_Skins">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;CAMP SKINS&lt;/font&gt; : You can apply the skin by selecting “Change Skin” from your camp.</string>
 	<string key="reward_type_tooltip_itemdye" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;DYES&lt;/font&gt; : You can use a dye by clicking on your armor in your inventory and then “Dye armor".</string>
 	<string key="reward_type_tooltip_guildcrest" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;CRESTS&lt;/font&gt; : You can apply crests in the Company screen.</string>
 	<string key="reward_type_tooltip_housing_item" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;HOUSING ITEMS&lt;/font&gt; : You can place housing items in Housing Decoration mode when you are in your house.</string>
@@ -471,7 +471,7 @@
 	<string key="server_transfer_unavailable_outpost_rush_queue" rel_version="Feature_Server_Transfer">You cannot transfer worlds while in queue for Outpost Rush</string>
 	<string key="server_transfer_unavailable_transfer_world_full" rel_version="Feature_Server_Transfer">This region's transfer list is full, please try again in a few hours</string>
 	<string key="server_transfer_unavailable_target_region_characters_slots_full" rel_version="Feature_Server_Transfer">Character slots in this region are full. You will need to delete or transfer an existing character in this region before you can transfer in another one.</string>
-	<string key="server_transfer_unavailable_freshstart" rel_version="Feature_FreshStart">Only new characters can be created in this Fresh Start World. Characters cannot transfer to or from this Fresh Start World.</string>
+	<string key="server_transfer_unavailable_freshstart" rel_version="Feature_FreshStart">Only new characters can be created in this Fresh Start World. Characters cannot transfer to this Fresh Start World.</string>
 	<string key="server_transfer_unavailable_bfnw" rel_version="Feature_BFNW">Only players participating in Return to Aeternum can create characters on this world. Characters cannot transfer to or from this World.</string>
 	<string key="server_transfer_more_details" rel_version="Feature_Server_Transfer">For more details see</string>
 	<string key="server_transfer_transfer_faq" rel_version="Feature_Server_Transfer">Region Transfer FAQ</string>
@@ -911,26 +911,45 @@
 	<string key="Apparel_DarkFae_Deluxe_description" rel_version="Apparel_DarkFae_Deluxe_1">Shining with the power of moonlight, take your rightful place as ruler of the night.</string>
 	<string key="Apparel_JesterSmile_name" rel_version="Apparel_JesterSmile">Jester's Smile</string>
 	<string key="Apparel_JesterSmile_description" rel_version="Apparel_JesterSmile">Turn that frown upside-down!</string>
-	<string key="Bundle_PR_SpiritoftheSeason_name" rel_version="Entitlements_November_2022">Spirit of the Season Bundle</string>
-	<string key="Bundle_PR_SpiritoftheSeason_description" rel_version="Entitlements_November_2022">Let the festivities begin!</string>
-	<string key="Bundle_PR_RosesAreSharp_name" rel_version="Entitlements_November_2022">Roses Are Sharp Bundle</string>
-	<string key="Bundle_PR_RosesAreSharp_description" rel_version="Entitlements_November_2022">Give your love a rose, thorns first.</string>
-	<string key="Bundle_PR_DamageDealers_name" rel_version="Entitlements_November_2022">Damage Dealers Bundle</string>
-	<string key="Bundle_PR_DamageDealers_description" rel_version="Entitlements_November_2022">Everything you need to leave a trail of bodies in your wake.</string>
-	<string key="Bundle_PR_FireandFlames_name" rel_version="Entitlements_November_2022">Fire and Flames Bundle</string>
-	<string key="Bundle_PR_FireandFlames_description" rel_version="Entitlements_November_2022">Go out in a blaze of glory, or up in smoke.</string>
-	<string key="Bundle_PR_DanceMix_name" rel_version="Entitlements_November_2022">Dance Mix Bundle</string>
-	<string key="Bundle_PR_DanceMix_description" rel_version="Entitlements_November_2022">Show off your amazing dance moves!</string>
+	<string key="Bundle_PR_SpiritoftheSeason_name" rel_version="BlackFriday_Bundles_2022">Spirit of the Season Bundle</string>
+	<string key="Bundle_PR_SpiritoftheSeason_description" rel_version="BlackFriday_Bundles_2022">Let the festivities begin!</string>
+	<string key="Bundle_PR_RosesAreSharp_name" rel_version="BlackFriday_Bundles_2022">Roses Are Sharp Bundle</string>
+	<string key="Bundle_PR_RosesAreSharp_description" rel_version="BlackFriday_Bundles_2022">Give your love a rose, thorns first.</string>
+	<string key="Bundle_PR_DamageDealers_name" rel_version="BlackFriday_Bundles_2022">Damage Dealers Bundle</string>
+	<string key="Bundle_PR_DamageDealers_description" rel_version="BlackFriday_Bundles_2022">Everything you need to leave a trail of bodies in your wake.</string>
+	<string key="Bundle_PR_FireandFlames_name" rel_version="BlackFriday_Bundles_2022">Fire and Flames Bundle</string>
+	<string key="Bundle_PR_FireandFlames_description" rel_version="BlackFriday_Bundles_2022">Go out in a blaze of glory, or up in smoke.</string>
+	<string key="Bundle_PR_DanceMix_name" rel_version="BlackFriday_Bundles_2022">Dance Mix Bundle</string>
+	<string key="Bundle_PR_DanceMix_description" rel_version="BlackFriday_Bundles_2022">Show off your amazing dance moves!</string>
 	<string key="Bundle_PR_Nightmare_Mask_Set_name" rel_version="Apparel_Nightmares_Masks">Nightmare Mask Bundle</string>
 	<string key="Bundle_PR_Nightmare_Mask_Set_description" rel_version="Apparel_Nightmares_Masks">They may not know your name, but they will know you by your deeds.</string>
 	<string key="ui_crestforeground_222" rel_version="Crest_Pack_Nightmares">Bonecrown King</string>
 	<string key="ui_crestforeground_223" rel_version="Crest_Pack_Nightmares">Baalphazu's Haunt</string>
 	<string key="ui_crestforeground_224" rel_version="Crest_Pack_Nightmares">Pumpkinite In Flight</string>
+	<string key="Bundle_Decor_DarkFae_name" rel_version="Housing_DarkFae_MTX_Pack_2022">Dusk Sylph Décor Bundle</string>
+	<string key="Bundle_Decor_DarkFae_description" rel_version="Housing_DarkFae_MTX_Pack_2022">Your fine guests will feel right at home in these lavish and enchanted furnishings.</string>
+	<string key="Bundle_Decor_Winter2022_name" rel_version="Housing_Winter_MTX_Pack_2022">Wintery Comforts Décor  Bundle</string>
+	<string key="Bundle_Decor_Winter2022_description" rel_version="Housing_Winter_MTX_Pack_2022">Something warm and comforting to cling to when the winter winds blow and nightmare-ish creatures howl.</string>
 	<string key="Bundle_Tool_DarkFae_name" rel_version="ToolSkins_DarkFae_MTX">Dusk Spirit Toolset</string>
 	<string key="Bundle_Tool_DarkFae_description" rel_version="ToolSkins_DarkFae_MTX">The mystical spirits that guard the land that have imbued this toolset with their knowledge of how to best harvest its resources.</string>
+	<string key="Apparel_WinterConv2022_1_name" rel_version="Apparel_Winter_Conv_MTX_1">Winter Stag</string>
+	<string key="Apparel_WinterConv2022_1_description" rel_version="Apparel_Winter_Conv_MTX_1">You can feel the uncanny warmth of winter within you.</string>
+	<string key="Apparel_WinterConv2022_Deluxe_name" rel_version="Apparel_Winter_Conv_MTX_3">Convergence Roisterer</string>
+	<string key="Apparel_WinterConv2022_Deluxe_description" rel_version="Apparel_Winter_Conv_MTX_3">Celebrants have used such clothing during the Convergence for many centuries.</string>
+	<string key="Apparel_WinterConv2022_Prime_name" rel_version="Apparel_Winter_Conv_Prime_1">Solstice Knight</string>
+	<string key="Apparel_WinterConv2022_Prime_description" rel_version="Apparel_Winter_Conv_Prime_1">Their true purpose has been forgotten for centuries, but such ceremonial knights guard us during our celebrations.</string>
+	<string key="ui_crestforeground_225" rel_version="Crest_Pack_Winter_Conv">Convergence Antlers</string>
+	<string key="ui_crestforeground_226" rel_version="Crest_Pack_Winter_Conv">Convergence Flake</string>
+	<string key="ui_crestforeground_227" rel_version="Crest_Pack_Winter_Conv">Convergence Yeti</string>
+	<string key="Bundle_Crest_WinterConv2022_name" rel_version="Crest_Pack_Winter_Conv">Winter Convergence Crest Pack</string>
+	<string key="Bundle_Crest_WinterConv2022_description" rel_version="Crest_Pack_Winter_Conv">Show your holiday spirit and love of tradition.</string>
 	<string key="Bundle_PR_DarkFae_Apparel_name" rel_version="Entitlements_DarkFae_MTX">Dusk Spirit Apparel Bundle</string>
 	<string key="Bundle_PR_DarkFae_Apparel_description" rel_version="Entitlements_DarkFae_MTX">While Aeternum is rife with corrupted souls, one can also find delicate and enchanting magic among its many spirits.</string>
 	<string key="Bundle_PR_DarkFae_Weapon_name" rel_version="Entitlements_DarkFae_MTX">Dusk Spirit Weapon Bundle</string>
 	<string key="Bundle_PR_DarkFae_Weapon_description" rel_version="Entitlements_DarkFae_MTX">The results are both unpredictable and enchanting when using weapons blessed by the spirits of the wild.</string>
+	<string key="Bundle_PR_WinterConv2022_Apparel_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Winter Convergence Apparel Bundle</string>
+	<string key="Bundle_PR_WinterConv2022_Apparel_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Stave off forever winter in festive spirit with these seasonal outfits!</string>
+	<string key="Bundle_PR_WinterConv2022_Weapons_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Winter Convergence Weapon Bundle</string>
+	<string key="Bundle_PR_WinterConv2022_Weapons_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Winter Convergence is a wonderful time to celebrate with family and draw deadly weapons over the slightest insult!</string>
 </resources>
 

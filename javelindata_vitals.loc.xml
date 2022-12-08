@@ -482,9 +482,11 @@
 	<string key="Avalancher_Shivers_25_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Avalancher</string>
 	<string key="Avalancher_Shivers_60_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Avalancher</string>
 	<string key="Avalancher_Shivers_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Avalancher</string>
+	<string key="Avalancher_Shivers_YetiEncounter_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Temp">Avalancher</string>
 	<string key="Avalancher_Yeti_25_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Avalancher</string>
 	<string key="Avalancher_Yeti_60_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Avalancher</string>
 	<string key="Avalancher_Yeti_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Avalancher</string>
+	<string key="Avalancher_YetiEncounter_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Temp">Avalancher</string>
 	<string key="Barbary_Lion_60_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Barbary Lion</string>
 	<string key="Barbary_Lion_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Barbary Lion</string>
 	<string key="Barbary_Lion_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Barbary Lion</string>
@@ -3281,6 +3283,7 @@
 	<string key="Ghost_Plagued_63_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Plagued Ghost</string>
 	<string key="Ghost_Plagued_64_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Plagued Ghost</string>
 	<string key="Ghost_Plagued_DG_Cutlass_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_CutlassKeys_00">Black Flag Plaguegeist</string>
+	<string key="Ghost_Plagued_DG_Everfall_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Star Excavation Plaguegeist</string>
 	<string key="Ghost_Plagued_DG_Windsward_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Star Excavation Plaguegeist</string>
 	<string key="Ghost_Plagued_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Musslebeard</string>
 	<string key="Ghost_Plagued_Named_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Cult Leader Nunez</string>
@@ -3515,11 +3518,13 @@
 	<string key="IceDryad_Melee_Frostfang_62_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Frostfang</string>
 	<string key="IceDryad_Melee_Frostfang_65_ELITE_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Frostfang</string>
 	<string key="IceDryad_Melee_Frostfang_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Ice Dryad Frostfang</string>
+	<string key="IceDryad_Melee_Frostfang_YetiEncounter_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Temp">Ice Dryad Frostfang</string>
 	<string key="IceDryad_Range_Frostgrip_25_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Frostgrip</string>
 	<string key="IceDryad_Range_Frostgrip_61_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Frostgrip</string>
 	<string key="IceDryad_Range_Frostgrip_62_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Frostgrip</string>
 	<string key="IceDryad_Range_Frostgrip_65_ELITE_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Frostgrip</string>
 	<string key="IceDryad_Range_Frostgrip_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Ice Dryad Frostgrip</string>
+	<string key="IceDryad_Range_Frostgrip_YetiEncounter_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Temp">Ice Dryad Frostgrip</string>
 	<string key="IceMagicBeast_VitalsName" comment="BASE" speaker="Vitals Sheet">Snow Beast</string>
 	<string key="IceMagicEntomb_VitalsName" comment="BASE" speaker="Vitals Sheet">Ice Tomb</string>
 	<string key="IceMagicPylon_VitalsName" comment="BASE" speaker="Vitals Sheet">Ice Pylon</string>
@@ -3727,6 +3732,7 @@
 	<string key="Lost_Pikeman_Named_12MB05_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Blacksmith Baldwyne</string>
 	<string key="Lost_Pikeman_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Lost Pikeman</string>
 	<string key="Medea_Caster_VitalsName" comment="Quest Medea - Windsward" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Medea</string>
+	<string key="Armored_Dragon_VitalsName" comment="Armored Dragon" speaker="Vitals Sheet">Armored Dragon</string>
 	<string key="Lost_Totem_60_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Lost Totem</string>
 	<string key="Lost_Totem_VitalsName" comment="BASE" speaker="Vitals Sheet">Lost Totem</string>
 	<string key="Lynx_03GC10_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Snowfoot Bobcat</string>
@@ -9587,7 +9593,7 @@
 	<string key="VC_Legion_Villager_Ladel_67" comment="Generic Level Variant" speaker="VitalsCategory Sheet" rel_version="Territory_Brimstone_Sands">Legion Cook</string>
 	<string key="VC_Legion_Villager_Pickaxe_16BS01" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Legion Servus</string>
 	<string key="VC_Legion_Villager_Pickaxe_16BS02" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Legion Servus</string>
-	<string key="VC_Legion_Villager_Pickaxe_16BS02a" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Monument Servus</string>
+	<string key="VC_Legion_Villager_Pickaxe_16BS02a" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Monument Miner</string>
 	<string key="VC_Legion_Villager_Pickaxe_16BS02d" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Territory_Brimstone_Sands">Legion Salvager</string>
 	<string key="VC_Legion_Villager_Pickaxe_16BS03" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Legion Servus</string>
 	<string key="VC_Legion_Villager_Pickaxe_16BS04" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Legion Servus</string>
@@ -12544,6 +12550,7 @@
 	<string key="Withered_Brute_39_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Lost Brute</string>
 	<string key="Withered_Brute_40_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Lost Brute</string>
 	<string key="Withered_Brute_44_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Lost Brute</string>
+	<string key="Withered_Brute_DG_Everfall_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Star Excavation Ravager</string>
 	<string key="Withered_Brute_DG_Windsward_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Star Excavation Ravager</string>
 	<string key="Withered_Brute_Named_00_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Farmer Sneed</string>
 	<string key="Withered_Brute_Named_01_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Farmer Willette</string>

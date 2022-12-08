@@ -23,6 +23,7 @@
 	<string key="ui_notoolazothstaff">No equipped {itemName} Tier {tier}</string>
 	<string key="ui_notoolitem_multiple">Requires {count}x {itemName}</string>
 	<string key="ui_notoolitem">Requires {itemName}</string>
+	<string key="ui_requiremultipleplayers">Requires a group of {count} players</string>
 	<string key="ui_nopermission">No public access.</string>
 	<string key="ui_nopermissionrank">Rank '{rank}' doesn't have permission to '{action}'.</string>
 	<string key="ui_nopermissionpublic">'{action}' not allowed on public structures.</string>

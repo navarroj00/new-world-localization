@@ -119,7 +119,7 @@
 	<string key="salvage_notification_item_reward">&lt;img src="{icon}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; &lt;font color={color}&gt;{quantity} {itemName}&lt;/font&gt;</string>
 	<string key="salvage_notification_repair_parts_reward">&lt;img src="lyshineui/images/icons/items/resource/repairpartst1" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;&lt;font color={color}&gt; {quantity} Repair Parts&lt;/font&gt;</string>
 	<string key="salvage_notification_coin_reward">&lt;font color={color}&gt;{quantity} &lt;/font&gt;&lt;img src="lyshineui/images/Icon_Crown" xPadding="0" scale="1.3" yOffset="2"&gt;&lt;/img&gt;</string>
-	<string key="salvage_notification_azoth_reward">&lt;font color={color}&gt;{quantity} &lt;/font&gt;&lt;img src="lyshineui/images/Icon_Azoth" xPadding="0" scale="1.3" yOffset="2"&gt;&lt;/img&gt;</string>
+	<string key="salvage_notification_azoth_reward">&lt;font color={color}&gt;{quantity} &lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.3" yOffset="0"&gt;&lt;/img&gt;</string>
 	<string key="salvage_notification_pefectly_salvaged">Perfectly Salvaged!</string>
 	<string key="salvage_notification_pefectly_salvaged_item">&lt;font color={color}&gt;{itemName}&lt;/font&gt; x {quantity}</string>
 	<string key="fc_campingtitle">Camping</string>
@@ -171,9 +171,13 @@
 	<string key="ui_filterHeader">Filter item</string>
 	<string key="ui_sort">Sort</string>
 	<string key="ui_sort_weight">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ffffff"&gt;Weight:&lt;/font&gt;&lt;/font&gt; Heavy - Light</string>
+	<string key="ui_sort_weight_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ffffff"&gt;Weight:&lt;/font&gt;&lt;/font&gt; Light - Heavy</string>
 	<string key="ui_sort_tier">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ffffff"&gt;Tier:&lt;/font&gt;&lt;/font&gt; High - Low</string>
+	<string key="ui_sort_tier_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ffffff"&gt;Tier:&lt;/font&gt;&lt;/font&gt; Low - High</string>
 	<string key="ui_sort_gearscore">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ffffff"&gt;Gear score:&lt;/font&gt;&lt;/font&gt; High - Low</string>
+	<string key="ui_sort_gearscore_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ffffff"&gt;Gear score:&lt;/font&gt;&lt;/font&gt; Low - High</string>
 	<string key="ui_sort_chrono">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ffffff"&gt;Time:&lt;/font&gt;&lt;/font&gt; Newest - Oldest</string>
+	<string key="ui_sort_chrono_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ffffff"&gt;Time:&lt;/font&gt;&lt;/font&gt; Oldest - Newest</string>
 	<string key="inv_equipmentstatrow_modifiertemplate">({baseValue} &lt;font color={modifierColor}&gt;{operator} {modifierValue}&lt;/font&gt;)</string>
 	<string key="ui_attributemodifier_pending_value">(+{pendingValue})</string>
 	<string key="ui_attributemodifier_tooltip">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color={color}&gt;{attributeValue} {attributeName}&lt;/font&gt; &lt;font color="#dddddd" face="lyshineui/fonts/Nimbus_Regular.font"&gt; attribute points&lt;/font&gt;</string>

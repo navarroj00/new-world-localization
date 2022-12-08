@@ -744,6 +744,17 @@
 	<string key="AnubianBrute_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Anubian Automaton</string>
 	<string key="AnubianPanther_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Sphinx Automaton</string>
 	<string key="16BS_LootContainer_Elite_LegionStoneTomb_DisplayName" rel_version="Territory_Brimstone_Sands">Elite Grave Offerings</string>
+	<string key="WinterConv_Settlement_Tree_Master_DisplayName" rel_version="Event_WinterConvergence_Temp">Tree of Light</string>
+	<string key="WinterConv_Settlement_Tree_Master_Description" rel_version="Event_WinterConvergence_Temp">Complete Town Projects to upgrade the beauty and rewards granted by the Tree of Light!</string>
+	<string key="WinterConv_SettlementTree_T1_DisplayName" rel_version="Event_WinterConvergence_Temp">Forlorn Gift Pile</string>
+	<string key="WinterConv_SettlementTree_T2_DisplayName" rel_version="Event_WinterConvergence_Temp">Magnificent Gift Pile</string>
+	<string key="WinterConv_SettlementTree_T3_DisplayName" rel_version="Event_WinterConvergence_Temp">Exquisite Gift Pile</string>
+	<string key="WinterConv_Gleamite_Chunk_DisplayName" rel_version="Event_WinterConvergence_Temp">Gleamite Chunk</string>
+	<string key="WinterConv_Gleamite_Shard_DisplayName" rel_version="Event_WinterConvergence_Temp">Gleamite</string>
+	<string key="WinterConv_Village_GiftBag_DisplayName" rel_version="Event_WinterConvergence_Temp">Bountiful Gift Sack</string>
+	<string key="WinterConv_Village_GiftBag_Description" rel_version="Event_WinterConvergence_Temp">Collect a wonderful present each day to celebrate and revel in the merriment of the Winter Convergence!</string>
+	<string key="LostPresent00_DisplayName" rel_version="Event_WinterConvergence_Temp">Lost Present</string>
+	<string key="LostPresent01_DisplayName" rel_version="Event_WinterConvergence_Temp">Lost Present</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">War Camp Chest</string>
 	<string key="1130_ArcaneFocus1_DisplayName">Arcane Focus</string>
 	<string key="1130_ArcaneFocus2_DisplayName">Arcane Focus</string>
@@ -978,6 +989,8 @@
 	<string key="16_Side_13_WormSpine_DisplayName" rel_version="Territory_Brimstone_Sands">Gather Strange Spine</string>
 	<string key="NPCRescue_Dryad_DisplayName" rel_version="Quest_MSQ2_Revamp">Free the Dryad</string>
 	<string key="Dungeon_BrimstoneSands00_TranslateGlyph" rel_version="Territory_Brimstone_Sands">Activate Glyph Console</string>
+	<string key="Yeti_2022_Fortify_Monolith_DisplayName" rel_version="Event_WinterConvergence_Temp">Rimestone Aura</string>
+	<string key="Yeti_2022_Empower_Monolith_DisplayName" rel_version="Event_WinterConvergence_Temp">Monolith of Bestial Strength</string>
 	<string key="Armadillo_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Armadillo</string>
 	<string key="Rat_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Rat</string>
 </resources>

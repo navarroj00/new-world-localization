@@ -1,7 +1,7 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_queue_waiting">Waiting...</string>
 	<string key="ui_queue_elapsed">Elapsed</string>
-	<string key="ui_queue_expected">Expected</string>
+	<string key="ui_queue_expected">Expected Time Remaining</string>
 	<string key="ui_queue_leave_group">Leave Group</string>
 	<string key="ui_queue_leave_group_confirm_title">Leave Group</string>
 	<string key="ui_queue_leave_group_confirm_message">If the remaining group size drops below {minGroupSize} members, the group will be removed from the queue.\n\nAre you sure?</string>
@@ -177,7 +177,7 @@
 	<string key="ui_outpost_rush_summoning_circle">Summoning Circle</string>
 	<string key="ui_outpost_rush_summoning_circle_desc">Use a Summoning Stone at this obelisk to add a monstrous ally to your team for a limited time.</string>
 	<string key="ui_outpost_rush_portal">PORTAL</string>
-	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icon_azoth" xPadding="-3" scale="1.4" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="-3" scale="1.4" yOffset="1"&gt;&lt;/img&gt;</string>
 	<string key="ui_pinning_disabled_while_in_or">Pinning/Unpinning objectives disabled while in Outpost Rush.</string>
 	<string key="ui_pinning_disabled_expeditions">Pinning/Unpinning disabled for Expeditions objectives</string>
 	<string key="ui_or_commandpost_buff_on">Structure is granting team buffs</string>
@@ -230,7 +230,7 @@
 	<string key="ui_item_durability_arena" rel_version="Feature_PVP_Arenas">You are in an Arena, your equipment was not damaged upon death.</string>
 	<string key="ui_item_durability_loss_pvp">You were killed by another player, your equipment took reduced damage.</string>
 	<string key="ui_in_spectators_box">In Spectator's Box</string>
-	<string key="ui_in_spectators_box_description">Abilities Disabled</string>
+	<string key="ui_in_spectators_box_description">Abilities disabled</string>
 	<string key="ui_in_spectators_moving_to">Moving To Spectator Box in {seconds}s</string>
 	<string key="ui_round_number">Round {number}</string>
 	<string key="ui_match_point">Match Point</string>

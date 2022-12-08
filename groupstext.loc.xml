@@ -194,7 +194,7 @@
 	<string key="ui_backfill_auto_tooltip" comment="">Automatically backfill players from Standby list based on sign up time.</string>
 	<string key="ui_backfill_manual_tooltip" comment="">Manually select players from Standby list to backfill abandoned spots.</string>
 	<string key="ui_raid_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
-	<string key="ui_raid_count_with_mercenaries" comment="">Mercenaries: &lt;font color="#ffffff"&gt;{nonCompanyNumber}&lt;/font&gt; / {nonCompanyTotal} Total: &lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
+	<string key="ui_raid_count_with_mercenaries" comment="">Mercenaries: &lt;font color="#ffffff"&gt;{nonCompanyNumber}&lt;/font&gt;/{nonCompanyTotal}    Total: &lt;font color="#ffffff"&gt;{number}&lt;/font&gt;/{total}</string>
 	<string key="ui_invasion_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
 	<string key="ui_promote_disabled_max_tooltip" comment="">Can't promote this player any further</string>
 	<string key="ui_demote_disabled_min_tooltip" comment="">Can't demote this player any further</string>

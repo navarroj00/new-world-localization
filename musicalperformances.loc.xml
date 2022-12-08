@@ -74,6 +74,7 @@
 	<string key="ui_musical_performances_waiting_for_tips" rel_version="Feature_MusicalPerformances">WAITING FOR TIPS...</string>
 	<string key="ui_musical_performances_end_tipping" rel_version="Feature_MusicalPerformances">End Now and Collect Tips</string>
 	<string key="ui_musical_performances_tip_timer_duration" rel_version="Feature_MusicalPerformances">{seconds}s</string>
+	<string key="ui_musical_performances_preshow_timeout_warning" rel_version="Feature_MusicalPerformances">Inactivity Exit: {seconds}s</string>
 	<string key="ui_musical_performances_complete" rel_version="Feature_MusicalPerformances">PERFORMANCE\nCOMPLETE!</string>
 	<string key="ui_musical_performances_score_00" rel_version="Feature_MusicalPerformances">Amazing!</string>
 	<string key="ui_musical_performances_score_01" rel_version="Feature_MusicalPerformances">Great!</string>
@@ -158,11 +159,12 @@
 	<string key="ui_music_mandolin_part_2" rel_version="Feature_MusicalPerformances">Mandolin (Part 2)</string>
 	<string key="ui_cannot_travel_in_musical_performance" rel_verstion="Feature_MusicalPerformances">Cannot fast travel while in a musical performance.</string>
 	<string key="ui_cannot_enter_store_in_musical_performance" rel_version="Feature_MusicalPerformances">Cannot access the store while in a musical performance.</string>
+	<string key="ui_musical_performance_combat_message">You cannot start a performance while in combat.</string>
 	<string key="songtitle_Maudlinbug_Waltz" rel_version="Feature_MusicalPerformances">Maudlinbug Haze</string>
 	<string key="songtitle_Traveling_Aeternum" rel_version="Feature_MusicalPerformances">Path Less Traveled</string>
 	<string key="songtitle_Windsward_Inn" rel_version="Feature_MusicalPerformances">Windsward Inn</string>
 	<string key="songtitle_Honey_N_Biscuits" rel_version="Feature_MusicalPerformances">Honey 'N' Biscuits</string>
-	<string key="songtitle_Embark" rel_version="Feature_MusicalPerformances">Courage Of The Keys</string>
+	<string key="songtitle_Embark" rel_version="Feature_MusicalPerformances">Embark</string>
 	<string key="songtitle_The_Brightwood" rel_version="Feature_MusicalPerformances">Soulwarden's Journey</string>
 	<string key="songtitle_The_Butterfly" rel_version="Feature_MusicalPerformances">The Butterfly</string>
 	<string key="songtitle_These_Old_Bones" rel_version="Feature_MusicalPerformances">These Old Bones</string>

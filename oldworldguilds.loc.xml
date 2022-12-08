@@ -46,10 +46,10 @@
 	<string key="owg_price_update">Prices have changed due to Faction activity</string>
 	<string key="owg_faction_select_no">No, let me think about it.</string>
 	<string key="owg_faction_select_title">Join This Faction?</string>
-	<string key="owg_faction_select_title_incompany">Warning! Your Company Has A Different Faction!</string>
+	<string key="owg_faction_select_title_incompany" rel_version="Feature_Unfactioned_Company_Members">Warning! Your Company Has A Different Faction!</string>
 	<string key="owg_faction_select_warning">This decision cannot be undone.</string>
 	<string key="owg_faction_select_yes">Yes, align with the {faction}.</string>
-	<string key="owg_faction_select_confirm">You will only be able to join a Company with players of the same Faction. If flagged for PVP, you will only be able to group up with players from the same Faction. Before joining, you might want to double-check the Faction choices of your friends in New World.\n\nYour choice isn't permanent--you can change your faction from the Bio screen once. After that, you can change it again every &lt;font color="#FFD45F"&gt;60 days&lt;/font&gt;.</string>
+	<string key="owg_faction_select_confirm">You will only be able to join a Company with players of the same Faction. If flagged for PVP, you will only be able to group up with players from the same Faction. Before joining, you might want to double-check the Faction choices of your friends in New World.\n\nYour choice isn't permanent -- you can change your faction from the Bio screen once. After that, you can change it again every &lt;font color="#FFD45F"&gt;60 days&lt;/font&gt;.</string>
 	<string key="owg_factionwarinfo_desc_1">Align with 1 of the 3 warring Factions to maximize your experience in Aeternum. Reap the powerful rewards by competing against other Factions and tipping the scales of influence for each Territory.</string>
 	<string key="owg_factionwarinfo_desc_2">To combat other players, you must be aligned with a Faction, then flag for PvP while inside a Settlement. Once Flagged, you can damage players of opposing Factions who are also flagged for PvP. (You will see their Faction crest on their nameplates.)</string>
 	<string key="owg_factionwarinfo_desc_3">Coming Soon: Completing Faction Missions provided by your Faction representative within a Settlement earns Faction Influence points within that Territory. Faction Influence is the means of protecting your Territories, or declaring war on the enemy.</string>
@@ -158,6 +158,7 @@
 	<string key="owg_rank_unlock_tooltip">You need to meet all requirements in order to unlock the next rank.</string>
 	<string key="owg_rank_unlocked">Rank {rankName} Unlocked!</string>
 	<string key="owg_refresh_message">A new mission will be available soon</string>
+	<string key="owg_no_pvp_missions_available">PvP missions cannot be accepted or completed at enclaves</string>
 	<string key="owg_replacepopup_body">Are you sure you want to abandon your current mission to start this one?\n\nAbandoning your current mission will result in &lt;font color="#f2e8ae"&gt;{amount} Faction Tokens&lt;/font&gt; with the &lt;font color="#ffffff"&gt;{guildName}&lt;/font&gt;.</string>
 	<string key="owg_replacepopup_title">REPLACE CURRENT MISSION</string>
 	<string key="owg_required_currency">{amount} Required Coin</string>
@@ -166,7 +167,7 @@
 	<string key="owg_rewards_title">REWARDS</string>
 	<string key="owg_rewardtype_currency">&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt;Coins</string>
 	<string key="owg_rewardtype_experience">&lt;img src="lyshineui/images/icons/misc/icon_xp" xPadding="0" scale="1.9" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;XP&lt;/font&gt;</string>
-	<string key="owg_rewardtype_azoth">&lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; Azoth</string>
+	<string key="owg_rewardtype_azoth">&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.8" yOffset="3"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; Azoth</string>
 	<string key="owg_rewardtype_guildreputation">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Reputation&lt;/font&gt;</string>
 	<string key="owg_rewardtype_guildcurrency">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Tokens&lt;/font&gt;</string>
 	<string key="owg_rewardtype_pvp_xp" rel_version="PvP_Rewards_Track">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;PvP XP&lt;/font&gt;</string>
@@ -247,7 +248,7 @@
 	<string key="owg_pvp_cannotacceptmission_unknown">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; at this time.</string>
 	<string key="owg_tooltip_warning">Only 1 Mission can be active at a time.</string>
 	<string key="owg_unlock_previous_rank">Unlocked Rank {rankName}</string>
-	<string key="owg_unlock_rank">U N L O C K  &lt;font face="lyshineui/fonts/CaslonAnt.font" color={azothTextColor}&gt;   {azoth}&lt;/font&gt;&lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.2" yOffset="4"&gt;&lt;/img&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font" color={coinTextColor}&gt;   {coin}&lt;/font&gt;&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.2" yOffset="4"&gt;&lt;/img&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font" color={influenceTextColor}&gt;   {token}&lt;/font&gt;&lt;img src="{icon}" xPadding="0" scale="1.4" yOffset="7"&gt;&lt;/img&gt;</string>
+	<string key="owg_unlock_rank">U N L O C K  &lt;font face="lyshineui/fonts/CaslonAnt.font" color={azothTextColor}&gt;   {azoth}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font" color={coinTextColor}&gt;   {coin}&lt;/font&gt;&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.2" yOffset="4"&gt;&lt;/img&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font" color={influenceTextColor}&gt;   {token}&lt;/font&gt;&lt;img src="{icon}" xPadding="0" scale="1.4" yOffset="7"&gt;&lt;/img&gt;</string>
 	<string key="owg_currency">Faction Tokens</string>
 	<string key="owg_influence_to_rank">{influence} to {rankName}</string>
 	<string key="owg_company">Company</string>
@@ -537,13 +538,24 @@
 	<string key="CMissionAcquireWoodWorker">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Woodshop.</string>
 	<string key="CMissionAcquireOutfitter">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from an Outfitting Station.</string>
 	<string key="CMissionAcquireEngineer">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Workshop.</string>
+	<string key="CMissionAcquireBlock_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Stonemasons Needed</string>
+	<string key="CMissionAcquireTimber_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Carpenters Needed</string>
+	<string key="CMissionAcquireCloth_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Weavers Needed</string>
+	<string key="CMissionAcquireMetal_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Metalworkers Needed</string>
+	<string key="CMissionAcquireFibers_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Harvesters Needed</string>
+	<string key="CMissionAcquireFood_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Cooks Needed</string>
+	<string key="CMissionAcquirePotions_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Alchemists Needed</string>
+	<string key="CMissionAcquireGeneric_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Supplies Needed</string>
+	<string key="CMissionAcquireWood_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Lumberjacks Needed</string>
+	<string key="CMissionAcquireRawhide_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Hunters Needed</string>
+	<string key="CMissionAcquireLeather_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Tanners Needed</string>
 	<string key="ui_already_in_faction">You are already in this faction</string>
 	<string key="ui_cant_switch_faction_pvp">Cannot change factions while flagged for PvP</string>
 	<string key="ui_cant_switch_faction_azoth">Not enough Azoth</string>
 	<string key="ui_cant_switch_faction_sanctuary">You must be in a sanctuary to change factions</string>
 	<string key="ui_cant_switch_faction_war">You cannot change factions while signed up for a war</string>
 	<string key="ui_cant_switch_faction_intro">You have not yet proven yourself to this faction. Talk to a faction representative to join.</string>
-	<string key="ui_cant_switch_faction_incompany">You are currently in a company associated with a different faction. If you continue, You will be removed from that company.\n\nYou will only be able to join a Company with players of the same Faction. If flagged for PVP, you will only be able to group up with players from the same Faction. Before joining, you might want to double-check the Faction choices of your friends in New World.\n\nYour choice isn't permanent--you can change your faction from the Bio screen once. After that, you can change it again every &lt;font color="#FFD45F"&gt;60 days&lt;/font&gt;.</string>
+	<string key="ui_cant_switch_faction_incompany" rel_version="Feature_Unfactioned_Company_Members">You are currently in a company associated with a different faction. If you continue, You will be removed from that company.\n\nYou will only be able to join a Company with players of the same Faction. If flagged for PVP, you will only be able to group up with players from the same Faction. Before joining, you might want to double-check the Faction choices of your friends in New World.\n\nYour choice isn't permanent -- you can change your faction from the Bio screen once. After that, you can change it again every &lt;font color="#FFD45F"&gt;60 days&lt;/font&gt;.</string>
 	<string key="ui_join">Join</string>
 	<string key="ui_faction_join_restrictions">You can switch factions once every 60 days. You will only be able to join companies of your own faction.</string>
 </resources>

@@ -287,8 +287,8 @@
 	<string key="emote_MicDrop_SHE" rel_version="Emote_MicDrop">{playerName} drops her projecting device with finality.</string>
 	<string key="emote_MicDrop_THEY" rel_version="Emote_MicDrop">{playerName} drops their projecting device with finality.</string>
 	<string key="ui_emote_DrinkCheer_name" rel_version="Emote_DrinkCheers">Cheers!</string>
-	<string key="ui_emote_DrinkCheer_description" rel_version="Emote_DrinkCheers">"Drink a health to your fine companions."</string>
-	<string key="emote_DrinkCheer" rel_version="Emote_DrinkCheers">{playerName} cheers a drink to good health.</string>
+	<string key="ui_emote_DrinkCheer_description" rel_version="Emote_DrinkCheers">"Drink to the health to your fine companions."</string>
+	<string key="emote_DrinkCheer" rel_version="Emote_DrinkCheers">{playerName} toasts to good health.</string>
 	<string key="ui_emote_HearNoEvil_name" rel_version="Emote_HearNoEvil">Hear No Evil</string>
 	<string key="ui_emote_SeeNoEvil_name" rel_version="Emote_SeeNoEvil">See No Evil</string>
 	<string key="ui_emote_SpeakNoEvil_name" rel_version="Emote_SpeakNoEvil">Speak No Evil</string>
@@ -325,6 +325,32 @@
 	<string key="ui_emote_TwirlDance_name" rel_version="Event_Halloween_Perm">Skeleton Twirl</string>
 	<string key="ui_mote_TwirlDance_description" rel_version="Event_Halloween_Perm">"Get those bones moving with a dainty twirl."</string>
 	<string key="emote_TwirlDance" rel_version="Event_Halloween_Perm">{playerName} does a dainty twirl.</string>
+	<string key="ui_emote_Alas_name" rel_version="Emote_Alas">Alas</string>
+	<string key="ui_emote_Alas_description" rel_version="Emote_Alas">Woe is me.</string>
+	<string key="emote_Alas" rel_version="Emote_Alas">{playerName} sighs.</string>
+	<string key="ui_emote_WarHorn_name" rel_version="Emote_WarHorn">War Horn</string>
+	<string key="ui_emote_WarHorn_description" rel_version="Emote_WarHorn">Sound the call. We go to war!</string>
+	<string key="emote_WarHorn" rel_version="Emote_WarHorn">{playerName} blows a war horn.</string>
+	<string key="ui_emote_Walk_FrankenMummy_name" rel_version="Emote_Walk_FrankenMummy">Zombie Walk</string>
+	<string key="ui_emote_Walk_FrankenMummy_description" rel_version="Emote_Walk_FrankenMummy">What is a zombie in a land of eternal life? Just take a look at The Lost.</string>
+	<string key="emote_Walk_FrankenMummy" rel_version="Emote_Walk_FrankenMummy">{playerName} lurches forward like an undead creature.</string>
+	<string key="ui_emote_DevilHornRock_name" rel_version="Emote_DevilHornRock">Rock Horns</string>
+	<string key="ui_emote_DevilHornRock_description" rel_version="Emote_DevilHornRock">Pledge your soul to the devil.</string>
+	<string key="emote_DevilHornRock" rel_version="Emote_DevilHornRock">{playerName} makes devil horns with his fingers.</string>
+	<string key="emote_DevilHornRock_SHE" rel_version="Emote_DevilHornRock">{playerName} makes devil horns with her fingers.</string>
+	<string key="emote_DevilHornRock_THEY" rel_version="Emote_DevilHornRock">{playerName} makes devil horns with their fingers.</string>
+	<string key="ui_emote_Walk_Skip_name" rel_version="Emote_Walk_Skip">Skip</string>
+	<string key="ui_emote_Walk_Skip_description" rel_version="Emote_Walk_Skip">Skip merrily through this dreadfully evil and dangerous land.</string>
+	<string key="emote_Walk_Skip" rel_version="Emote_Walk_Skip">{playerName} skips along.</string>
+	<string key="ui_emote_ShruggyDance_name" rel_version="Emote_ShruggyDance">Shruggy Dance</string>
+	<string key="ui_emote_ShruggyDance_description" rel_version="Emote_ShruggyDance">An unsure, yet not uncool set of moves.</string>
+	<string key="emote_ShruggyDance" rel_version="Emote_ShruggyDance">{playerName} dances a shruggy dance.</string>
+	<string key="ui_emote_SnowPileThrow_name" rel_version="Emote_SnowPileThrow">Throw Snow</string>
+	<string key="ui_emote_SnowPileThrow_description" rel_version="Emote_SnowPileThrow">Toss white fluffy snow into the chill air.</string>
+	<string key="emote_SnowPileThrow" rel_version="Emote_SnowPileThrow">{playerName} throws snow.</string>
+	<string key="ui_emote_GleamiteSkip_name" rel_version="Emote_GleamiteSkip">Gleamite Skip</string>
+	<string key="ui_emote_GleamiteSkip_description" rel_version="Emote_GleamiteSkip">Skip this magic, wondrous rock.</string>
+	<string key="emote_GleamiteSkip" rel_version="Emote_GleamiteSkip">{playerName} skips a gleamite.</string>
 	<string key="ui_emote_FootballJuggle_name" rel_version="Emote_Soccer_Juggle">Keepie Uppie</string>
 	<string key="ui_emote_FootballJuggle_description" rel_version="Emote_Soccer_Juggle">A skill perfect for dazzling others and absolutely useless during game time.</string>
 	<string key="emote_FootballJuggle" rel_version="Emote_Soccer_Juggle">{playerName} juggles and bounces a ball for sport.</string>
@@ -334,5 +360,11 @@
 	<string key="ui_emote_DramaticDeath_name" rel_version="Emote_DramaticDeath">Thus, I Die.</string>
 	<string key="ui_emote_DramaticDeath_description" rel_version="Emote_DramaticDeath">Recall me ever more, let my name never slip from the annals of your glorious history for always was I faithful to…</string>
 	<string key="emote_DramaticDeath" rel_version="Emote_DramaticDeath">{playerName} suffers an excruciating and dramatic death.</string>
+	<string key="ui_emote_GleamiteJuggle_name" rel_version="Emote_GleamiteJuggle">Gleamite Juggle</string>
+	<string key="ui_emote_GleamiteJuggle_description" rel_version="Emote_GleamiteJuggle">Entertain kids and adults alike by juggling magical meteors.</string>
+	<string key="emote_GleamiteJuggle" rel_version="Emote_GleamiteJuggle">{playerName} entertains by juggling gleamites.</string>
+	<string key="ui_emote_GleamiteThrow_name" rel_version="Emote_GleamiteThrow">Gleamite Throw</string>
+	<string key="ui_emote_GleamiteThrow_description" rel_version="Emote_GleamiteThrow">Toss glittering gleamites.</string>
+	<string key="emote_GleamiteThrow" rel_version="Emote_GleamiteThrow">{playerName} throws a handful of gleamites.</string>
 </resources>
 
