@@ -1,0 +1,51 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="JanTest_MasterName" rel_version="Entitlements_WinterDragon">Test Box</string>
+	<string key="JanTest_Description" rel_version="Entitlements_WinterDragon">This is a test.</string>
+	<string key="Jan2023_Container_MasterName" rel_version="Entitlements_WinterDragon">The Dragon's Hoard</string>
+	<string key="Jan2023_Container_Description" rel_version="Entitlements_WinterDragon">A small sample of treasures from a dragon's collection.</string>
+	<string key="Skin_Chest_Jan2023_1_MasterName" rel_version="Apparel_WinterDragon_1">Azure Dragon’s Pauldron</string>
+	<string key="Skin_Chest_Jan2023_1_Description" rel_version="Apparel_WinterDragon_1">Washed ashore from the Eastern Sea, this armor was not damped nor sullied by the tides that beseeched it.</string>
+	<string key="Skin_Head_Jan2023_1_MasterName" rel_version="Apparel_WinterDragon_1">Azure Dragon’s Plume</string>
+	<string key="Skin_Head_Jan2023_1_Description" rel_version="Apparel_WinterDragon_1">Washed ashore from the Eastern Sea, this armor was not damped nor sullied by the tides that beseeched it.</string>
+	<string key="Skin_Legs_Jan2023_1_MasterName" rel_version="Apparel_WinterDragon_1">Azure Dragon’s Pants</string>
+	<string key="Skin_Legs_Jan2023_1_Description" rel_version="Apparel_WinterDragon_1">Washed ashore from the Eastern Sea, this armor was not damped nor sullied by the tides that beseeched it.</string>
+	<string key="Skin_Feet_Jan2023_1_MasterName" rel_version="Apparel_WinterDragon_1">Azure Dragon’s Boots</string>
+	<string key="Skin_Feet_Jan2023_1_Description" rel_version="Apparel_WinterDragon_1">Washed ashore from the Eastern Sea, this armor was not damped nor sullied by the tides that beseeched it.</string>
+	<string key="Skin_Hands_Jan2023_1_MasterName" rel_version="Apparel_WinterDragon_1">Azure Dragon’s Arm Guards</string>
+	<string key="Skin_Hands_Jan2023_1_Description" rel_version="Apparel_WinterDragon_1">Washed ashore from the Eastern Sea, this armor was not damped nor sullied by the tides that beseeched it.</string>
+	<string key="Skin_Chest_Jan2023_2_MasterName" rel_version="Apparel_WinterDragon_2">Rain-Serpent Longpao</string>
+	<string key="Skin_Chest_Jan2023_2_Description" rel_version="Apparel_WinterDragon_2">“Where the Rainbow ends, the Dragon begins.“</string>
+	<string key="Skin_Head_Jan2023_2_MasterName" rel_version="Apparel_WinterDragon_2">The Twin Serpents</string>
+	<string key="Skin_Head_Jan2023_2_Description" rel_version="Apparel_WinterDragon_2">“Where the Rainbow ends, the Dragon begins.“</string>
+	<string key="Skin_Legs_Jan2023_2_MasterName" rel_version="Apparel_WinterDragon_2">Rain-Serpent Ku</string>
+	<string key="Skin_Legs_Jan2023_2_Description" rel_version="Apparel_WinterDragon_2">“Where the Rainbow ends, the Dragon begins.“</string>
+	<string key="Skin_Feet_Jan2023_2_MasterName" rel_version="Apparel_WinterDragon_2">Rain-Serpent Xue</string>
+	<string key="Skin_Feet_Jan2023_2_Description" rel_version="Apparel_WinterDragon_2">“Where the Rainbow ends, the Dragon begins.“</string>
+	<string key="Skin_Hands_Jan2023_2_MasterName" rel_version="Apparel_WinterDragon_2">Rain-Serpent Shoutao</string>
+	<string key="Skin_Hands_Jan2023_2_Description" rel_version="Apparel_WinterDragon_2">“Where the Rainbow ends, the Dragon begins.“</string>
+	<string key="Skin_Chest_Jan2023_Deluxe_MasterName" rel_version="Apparel_WinterDragon_Deluxe">Breastplate of the Dragon King</string>
+	<string key="Skin_Chest_Jan2023_Deluxe_Description" rel_version="Apparel_WinterDragon_Deluxe">It is said that when the Dragon King descends from the Heavens, the dawn upon his back casts as radiant wings.</string>
+	<string key="Skin_Head_Jan2023_Deluxe_MasterName" rel_version="Apparel_WinterDragon_Deluxe">Visage of the Dragon King</string>
+	<string key="Skin_Head_Jan2023_Deluxe_Description" rel_version="Apparel_WinterDragon_Deluxe">It is said that when the Dragon King descends from the Heavens, the dawn upon his back casts as radiant wings.</string>
+	<string key="Skin_Legs_Jan2023_Deluxe_MasterName" rel_version="Apparel_WinterDragon_Deluxe">Trousers of the Dragon King</string>
+	<string key="Skin_Legs_Jan2023_Deluxe_Description" rel_version="Apparel_WinterDragon_Deluxe">It is said that when the Dragon King descends from the Heavens, the dawn upon his back casts as radiant wings.</string>
+	<string key="Skin_Feet_Jan2023_Deluxe_MasterName" rel_version="Apparel_WinterDragon_Deluxe">Gaiters of the Dragon King</string>
+	<string key="Skin_Feet_Jan2023_Deluxe_Description" rel_version="Apparel_WinterDragon_Deluxe">It is said that when the Dragon King descends from the Heavens, the dawn upon his back casts as radiant wings.</string>
+	<string key="Skin_Hands_Jan2023_Deluxe_MasterName" rel_version="Apparel_WinterDragon_Deluxe">Vambraces of the Dragon King</string>
+	<string key="Skin_Hands_Jan2023_Deluxe_Description" rel_version="Apparel_WinterDragon_Deluxe">It is said that when the Dragon King descends from the Heavens, the dawn upon his back casts as radiant wings.</string>
+	<string key="Skin_GreatSword_Jan2023_MasterName" rel_version="Weapon_Winter_Greatsword">Ice Fang</string>
+	<string key="Skin_GreatSword_Jan2023_Description" rel_version="Weapon_Winter_Greatsword">"His teeth, like icicles at the mouth of a cave, parted and unleashed a fowl blizzard that raged for thirty days and nights."</string>
+	<string key="Skin_IceGauntlet_Jan2023_MasterName" rel_version="Weapon_Winter_IceGauntlet">Winter Wyrm</string>
+	<string key="Skin_IceGauntlet_Jan2023_Description" rel_version="Weapon_Winter_IceGauntlet">Legend tells of a young dragon whose greed was so great that he enveloped an unknown treasure with his own ice and body, only to be frozen solid along with it.</string>
+	<string key="Skin_Musket_Jan2023_MasterName" rel_version="Weapon_WinterDragon_Musket">Sky Weaver</string>
+	<string key="Skin_Musket_Jan2023_Description" rel_version="Weapon_WinterDragon_Musket">On a particularly cold day, the trail of its shot may linger as a cloud, like a single thread through the silken sky.</string>
+	<string key="Skin_GreatAxe_Jan2023_MasterName" rel_version="Weapon_WinterDragon_Greataxe">Wall of Frost</string>
+	<string key="Skin_GreatAxe_Jan2023_Description" rel_version="Weapon_WinterDragon_Greataxe">"And as the enemy breached, the brothers' blasted such a flurry of snow that it formed a towering wall over the kingdom and guarded it forevermore."</string>
+	<string key="house_housingitem_entitlement_winterdragon2022_dragonpillar01_mastername" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" gender="Needs Text Pass" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Draconic Pillar</string>
+	<string key="house_housingitem_entitlement_winterdragon2022_dragonpillar01_description" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" gender="Needs Text Pass" rel_version="Housing_NewYearDragon_MTX_Pack_2023">A monument to wintry leviathans, this pillar reaches towards the heavens to beckon their return.</string>
+	<string key="house_housingitem_entitlement_winterdragon2023_dragonfirescreen01_mastername" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" gender="Needs Text Pass" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Winter Fire Screen</string>
+	<string key="house_housingitem_entitlement_winterdragon2023_dragonfirescreen01_description" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" gender="Needs Text Pass" rel_version="Housing_NewYearDragon_MTX_Pack_2023">When behind this screen, even the greatest inferno feels as a crisp January breeze.</string>
+	<string key="House_HousingItem_Entitlement_WinterDragon2023_Gong01_MasterName" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" gender="Needs Text Pass" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Gong for Aid</string>
+	<string key="House_HousingItem_Entitlement_WinterDragon2023_Gong01_Description" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" gender="Needs Text Pass" rel_version="Housing_NewYearDragon_MTX_Pack_2023">It is said that the call of this gong once summoned dragons to fight at your side. No one knows why it stopped working.</string>
+</resources>
+

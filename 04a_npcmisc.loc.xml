@@ -21,8 +21,6 @@
 	<string key="0422_Innkeep" gender="M" rel_version="Quest_MSQ2_Revamp">Oseye Kamau</string>
 	<string key="0423_Fisher_title" gender="F" rel_version="Quest_MSQ2_Revamp">Master Fisher</string>
 	<string key="0423_Fisher" gender="F" rel_version="Quest_MSQ2_Revamp">Dena Ruby</string>
-	<string key="0424_Yeti_WW_NPC_title" gender="M" rel_version="Event_WinterConvergence_Temp">Yeti Aspect</string>
-	<string key="0424_Yeti_WW_NPC" gender="M" rel_version="Event_WinterConvergence_Temp">The Winter Wanderer</string>
 	<string key="0428_Jones_title" gender="M" rel_version="Quest_MSQ2_Revamp">Trader</string>
 	<string key="0428_Jones" gender="M" rel_version="Quest_MSQ2_Revamp">Gregory Jones</string>
 	<string key="0430_PVPArena_title" gender="M" rel_version="Quest_MSQ2_Revamp">Arena Recruiter</string>
@@ -62,6 +60,5 @@
 	<string key="0450a_TownGuard_title" gender="M" rel_version="Quest_MSQ2_Revamp">Settlement Guard</string>
 	<string key="0451a_MineCart" gender="Object" rel_version="Quest_MSQ2_Revamp">Abandoned Mine Cart</string>
 	<string key="0451a_MineCart_InteractOverride" gender="Object" rel_version="Quest_MSQ2_Revamp">Inspect</string>
-	<string key="BabyYeti" gender="M" rel_version="Event_WinterConvergence_Temp">Baby Yeti</string>
 </resources>
 

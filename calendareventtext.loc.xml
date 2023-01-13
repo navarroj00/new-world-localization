@@ -10,30 +10,6 @@
 	<string key="ui_event_progress_name">Event Reputation</string>
 	<string key="ui_event">Event</string>
 	<string key="ui_event_rules">Event Highlights</string>
-	<string key="ui_event_rank_0" rel_version="Event_WinterConvergence_Temp">Reveler</string>
-	<string key="ui_event_rank_1" rel_version="Event_WinterConvergence_Temp">Celebrant</string>
-	<string key="ui_event_rank_2" rel_version="Event_WinterConvergence_Temp">Merrymaker</string>
-	<string key="ui_event_rank_3" rel_version="Event_WinterConvergence_Temp">Joybringer</string>
-	<string key="ui_event_rank_4" rel_version="Event_WinterConvergence_Temp">Holiday Regent</string>
-	<string key="ui_event_shop_header" rel_version="Event_WinterConvergence_Temp">Winter Convergence Shop</string>
-	<string key="ui_event_winter_body" rel_version="Event_WinterConvergence_Temp">The biting chill of the Forever Winter looms! The savage Winter Warrior and his icy minions threaten to extinguish warmth and light on Aeternum. Ally with the Winter Wanderer to spread the cheerful Spirit of Convergence, earn a trove of time-limited rewards, and confront the endless cold!</string>
-	<string key="ui_event_winter_bullet1_title" rel_version="Event_WinterConvergence_Temp">Winter Village</string>
-	<string key="ui_event_winter_bullet2_title" rel_version="Event_WinterConvergence_Temp">Winter Warrior</string>
-	<string key="ui_event_winter_bullet3_title" rel_version="Event_WinterConvergence_Temp">Rewards</string>
-	<string key="ui_event_winter_convergence_tabname" rel_version="Event_WinterConvergence_Temp">Winter Convergence</string>
-	<string key="ui_event_winter_button_about" rel_version="Event_WinterConvergence_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Convergence</string>
-	<string key="ui_event_winter_panel1_title" rel_version="Event_WinterConvergence_Temp">WINTER CONVERGENCE IS HERE</string>
-	<string key="ui_event_winter_panel1_subtitle" rel_version="Event_WinterConvergence_Temp">Event runs from 12:01am PST on &lt;font color="#ffffff"&gt;12/14/22&lt;/font&gt; until 12:01am PST on &lt;font color="#ffffff"&gt;1/4/23&lt;/font&gt;</string>
-	<string key="ui_event_winter_panel1_bullet1_title" rel_version="Event_WinterConvergence_Temp">Limited Time\nActivities</string>
-	<string key="ui_event_winter_panel1_bullet1_text" rel_version="Event_WinterConvergence_Temp">Mine Gleamite crystals, secure Stolen Presents, collect Winter Tokens, and complete activities for the Winter Convergence that raise your reputation with the mysterious Winter Wanderer and his shop. Participate now while you can!</string>
-	<string key="ui_event_winter_panel1_bullet2_title" rel_version="Event_WinterConvergence_Temp">All-New Winter Themed\nArmor And Weapons</string>
-	<string key="ui_event_winter_panel1_bullet2_text" rel_version="Event_WinterConvergence_Temp">Icy winds bring with them new armors, weapons, furniture, and skins themed off of the wonderful Aeternum holiday of Winter Convergence.</string>
-	<string key="ui_event_winter_panel1_bullet3_title" rel_version="Event_WinterConvergence_Temp">Limited Time NPC\n and Shop</string>
-	<string key="ui_event_winter_panel1_bullet3_text" rel_version="Event_WinterConvergence_Temp">The Winter Wanderer has set up two villages, one in Everfall and one in Monarch's Bluffs, to facilitate the joy and cheer of Winter Convergence. Visit these villages to meet the Winter Wanderer and carry out his holiday quests at level 25.</string>
-	<string key="ui_event_winter_panel2_title" rel_version="Event_WinterConvergence_Temp">WINTER THEMED DROPS AND SHOP ITEMS</string>
-	<string key="ui_event_winter_panel2_subtile" rel_version="Event_WinterConvergence_Temp">Collect exclusive items that reflect the winter holiday season on Aeternum. Check both in-game and in the shop for these new armors, weapons, furniture, and skins.</string>
-	<string key="ui_event_winter_panel3_title" rel_version="Event_WinterConvergence_Temp">CHECK OUT WINTER CONVERGENCE ACTIVITIES, CRAFTING, AND QUESTS</string>
-	<string key="ui_event_winter_panel3_subtile" rel_version="Event_WinterConvergence_Temp">Celebrate Winter Convergence in Aeternum, spreading the holiday spirit to your settlements and companies! There is much to do for both the settlements and the Winter Wanderer in his Winter Villages.</string>
 	<string key="ui_calendar_event_button_about" rel_version="PvP_Rewards_Track">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About PvP Reward Track</string>
 	<string key="ui_pvp_rewards_panel1_title" rel_version="PvP_Rewards_Track">NEW PVP REWARD TRACK ADDED</string>
 	<string key="ui_pvp_rewards_panel1_subtitle" rel_version="PvP_Rewards_Track">The PvP Reward Track contains PvP-specific rewards for doing PvP activities in the game. The track can be completed and run again to get a different selection of rewards, with more prestigious rewards becoming available as more tracks are completed.</string>
@@ -136,15 +112,14 @@
 	<string key="ui_event_free_weekend_ending_soon_panel3_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 3 Title</string>
 	<string key="ui_event_free_weekend_ending_soon_panel3_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 3 Subtitle\n \nhttp://www.twitch.tv/playnewworld</string>
 	<string key="ui_event_free_weekend_ending_soon_button_about" rel_version="Feature_FreeWeekend">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Free Weekend</string>
-	<string key="ui_event_leaderboards_tabname" rel_version="Feature_Leaderboards">Leaderboards</string>
-	<string key="ui_event_leaderboards_title" rel_version="Feature_Leaderboards">Introducing Leaderboards</string>
-	<string key="ui_event_leaderboards_description" rel_version="Feature_Leaderboards">Leaderboards track various New World activities across settlements and factions. Compete with other players in various individual, company, and faction activities to ascend the leaderboards, which reset periodically.\n\n&lt;font color="#ffdb7a"&gt;Access Leaderboards in the Modes Menu. &lt;/font&gt;</string>
-	<string key="ui_event_leaderboards_bullet1_title" rel_version="Feature_Leaderboards">Rewards</string>
-	<string key="ui_event_leaderboards_button_about" rel_version="Feature_Leaderboards">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Leaderboards</string>
 	<string key="ui_event_dec_mtx_tabname" rel_version="Entitlements_WinterConvergence_MTX">Store</string>
 	<string key="ui_event_dec_mtx_title" rel_version="Entitlements_WinterConvergence_MTX">Winter Convergence</string>
 	<string key="ui_event_dec_mtx_description" rel_version="Entitlements_WinterConvergence_MTX">Protect yourself from the ravages of Forever Winter with new cosmetics available in the store! You'll want to kit yourself out with the latest winter weapons and apparel when the days grow shorter and long nights of terror await. Check the store regularly for free gifts in December and take advantage of our winter sales! Special unvaulted content goes on sale 12/13 and last year's Winter Convergence gear arrives on 12/20!</string>
 	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Convergence</string>
 	<string key="ui_news_store_tabname">Store</string>
+	<string key="ui_event_jan_mtx_title" rel_version="Entitlements_WinterDragon">Winter Dragon</string>
+	<string key="ui_event_jan_mtx_description" rel_version="Entitlements_WinterDragon">Is the shape of winter the shadow of a dragon? Visit the store for new cosmetics kissed by the frosty breath of the serpent! Don't get caught unprepared when less lethal combat breaks out! Pick up the Slap Fight emote or opt for the Tiptoe Walk in order to sneak past any violent squabbles instead!</string>
+	<string key="ui_event_jan_mtx_button_about" rel_version="Entitlements_WinterDragon">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Dragon</string>
+	<string key="ui_event_jan_mtx_bullet1_title" rel_version="Entitlements_WinterDragon">Housing Decor</string>
 </resources>
 

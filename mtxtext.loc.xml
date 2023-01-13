@@ -220,6 +220,7 @@
 	<string key="Icon_Crest_Pack_Thespain_name" rel_version="Apparel_Thespian">Thespian Crest Pack</string>
 	<string key="Icon_Crest_Pack_WeaponMaster_name" rel_version="New_World_Launch">Weapon Master Crest Pack</string>
 	<string key="primeblue_dye_name" rel_version="Dyes_Launch">Prime Gaming Blue</string>
+	<string key="gold_dye_name" rel_version="Dye_Gold">Lustrious Gold</string>
 	<string key="amazonorange_dye_name" rel_version="Dyes_Launch">Amazon Orange</string>
 	<string key="twitchpurple_dye_name" rel_version="Entitlements_November">Twitch Purple</string>
 	<string key="shipgray_dye_name" rel_version="Entitlements_November">Ship Gray</string>
@@ -283,6 +284,7 @@
 	<string key="Icon_Crest_Pack_Thespain_description" rel_version="Apparel_Thespian">Thespian Crests</string>
 	<string key="Icon_Crest_Pack_WeaponMaster_description" rel_version="New_World_Launch">"Blade or bow, axe or musket? The journeyman survives, the master flourishes."</string>
 	<string key="primeblue_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
+	<string key="gold_dye_description" rel_version="Dye_Gold">Consumable Dye Pack</string>
 	<string key="amazonorange_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
 	<string key="twitchpurple_dye_description" rel_version="Apparel_Thespian">Consumable Dye Pack</string>
 	<string key="softcoal_dye_description" rel_version="Entitlements_February_2022">Consumable Dye Pack</string>
@@ -951,5 +953,17 @@
 	<string key="Bundle_PR_WinterConv2022_Apparel_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Stave off forever winter in festive spirit with these seasonal outfits!</string>
 	<string key="Bundle_PR_WinterConv2022_Weapons_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Winter Convergence Weapon Bundle</string>
 	<string key="Bundle_PR_WinterConv2022_Weapons_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Winter Convergence is a wonderful time to celebrate with family and draw deadly weapons over the slightest insult!</string>
+	<string key="Apparel_WinterDragon_1_name" rel_version="Apparel_WinterDragon_1">Azure Dragon</string>
+	<string key="Apparel_WinterDragon_1_description" rel_version="Apparel_WinterDragon_1">Washed ashore from the Eastern Sea, this armor was neither dampened nor sullied by the tides that beseeched it.</string>
+	<string key="Apparel_WinterDragon_2_name" rel_version="Apparel_WinterDragon_2">Rain-Serpent</string>
+	<string key="Apparel_WinterDragon_2_description" rel_version="Apparel_WinterDragon_2">"Where the Rainbow ends, the Dragon begins."</string>
+	<string key="Apparel_WinterDragon_Deluxe_name" rel_version="Apparel_WinterDragon_Deluxe">Dragon King</string>
+	<string key="Apparel_WinterDragon_Deluxe_description" rel_version="Apparel_WinterDragon_Deluxe">It is said that when the Dragon King descends from the Heavens, the dawn upon his back casts as radiant wings.</string>
+	<string key="Bundle_Decor_WinterDragon_name" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Winter Dragon Décor Bundle</string>
+	<string key="Bundle_Decor_WinterDragon_description" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Decorate your home with these treasure before settling into your winter hibernation.</string>
+	<string key="Bundle_PR_WinterDragon_Apparel_name" rel_version="Apparel_WinterDragon_1">Winter Dragon Apparel Bundle</string>
+	<string key="Bundle_PR_WinterDragon_Apparel_description" rel_version="Apparel_WinterDragon_1">Which is colder? The icy heart of winter or the frosty heart of the dragon?</string>
+	<string key="Bundle_PR_WinterDragon_Weapons_name" rel_version="Weapon_Winter_Greatsword">Winter Dragon Weapon Bundle</string>
+	<string key="Bundle_PR_WinterDragon_Weapons_description" rel_version="Weapon_Winter_Greatsword">Cleave your way through the deepest of winter snow.</string>
 </resources>
 

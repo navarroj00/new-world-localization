@@ -334,6 +334,9 @@
 	<string key="ui_emote_Walk_FrankenMummy_name" rel_version="Emote_Walk_FrankenMummy">Zombie Walk</string>
 	<string key="ui_emote_Walk_FrankenMummy_description" rel_version="Emote_Walk_FrankenMummy">What is a zombie in a land of eternal life? Just take a look at The Lost.</string>
 	<string key="emote_Walk_FrankenMummy" rel_version="Emote_Walk_FrankenMummy">{playerName} lurches forward like an undead creature.</string>
+	<string key="ui_emote_Pout_name" rel_version="Emote_Pout">Pout</string>
+	<string key="ui_emote_Pout_description" rel_version="Emote_Pout">Things aren't going your way. Show it.</string>
+	<string key="emote_Pout" rel_version="Emote_Pout">{playerName} pouts.</string>
 	<string key="ui_emote_DevilHornRock_name" rel_version="Emote_DevilHornRock">Rock Horns</string>
 	<string key="ui_emote_DevilHornRock_description" rel_version="Emote_DevilHornRock">Pledge your soul to the devil.</string>
 	<string key="emote_DevilHornRock" rel_version="Emote_DevilHornRock">{playerName} makes devil horns with his fingers.</string>
@@ -342,6 +345,9 @@
 	<string key="ui_emote_Walk_Skip_name" rel_version="Emote_Walk_Skip">Skip</string>
 	<string key="ui_emote_Walk_Skip_description" rel_version="Emote_Walk_Skip">Skip merrily through this dreadfully evil and dangerous land.</string>
 	<string key="emote_Walk_Skip" rel_version="Emote_Walk_Skip">{playerName} skips along.</string>
+	<string key="ui_emote_Walk_TipToe_name" rel_version="Emote_Walk_TipToe">Tip Toe</string>
+	<string key="ui_emote_Walk_TipToe_description" rel_version="Emote_Walk_TipToe">Best to walk as quietly as you can. There are truly deadly creatures around that possess excellent hearing.</string>
+	<string key="emote_Walk_TipToe" rel_version="Emote_Walk_TipToe">{playerName} tip toes along.</string>
 	<string key="ui_emote_ShruggyDance_name" rel_version="Emote_ShruggyDance">Shruggy Dance</string>
 	<string key="ui_emote_ShruggyDance_description" rel_version="Emote_ShruggyDance">An unsure, yet not uncool set of moves.</string>
 	<string key="emote_ShruggyDance" rel_version="Emote_ShruggyDance">{playerName} dances a shruggy dance.</string>
@@ -363,6 +369,9 @@
 	<string key="ui_emote_GleamiteJuggle_name" rel_version="Emote_GleamiteJuggle">Gleamite Juggle</string>
 	<string key="ui_emote_GleamiteJuggle_description" rel_version="Emote_GleamiteJuggle">Entertain kids and adults alike by juggling magical meteors.</string>
 	<string key="emote_GleamiteJuggle" rel_version="Emote_GleamiteJuggle">{playerName} entertains by juggling gleamites.</string>
+	<string key="ui_emote_SlapFight_name" rel_version="Emote_SlapFight">Slap Fight</string>
+	<string key="ui_emote_SlapFight_description" rel_version="Emote_SlapFight">Don't hold back. Your honor is on the line.</string>
+	<string key="emote_SlapFight" rel_version="Emote_SlapFight">{playerName} slap fights.</string>
 	<string key="ui_emote_GleamiteThrow_name" rel_version="Emote_GleamiteThrow">Gleamite Throw</string>
 	<string key="ui_emote_GleamiteThrow_description" rel_version="Emote_GleamiteThrow">Toss glittering gleamites.</string>
 	<string key="emote_GleamiteThrow" rel_version="Emote_GleamiteThrow">{playerName} throws a handful of gleamites.</string>

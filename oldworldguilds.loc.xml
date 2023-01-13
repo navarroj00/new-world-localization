@@ -538,17 +538,6 @@
 	<string key="CMissionAcquireWoodWorker">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Woodshop.</string>
 	<string key="CMissionAcquireOutfitter">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from an Outfitting Station.</string>
 	<string key="CMissionAcquireEngineer">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Workshop.</string>
-	<string key="CMissionAcquireBlock_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Stonemasons Needed</string>
-	<string key="CMissionAcquireTimber_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Carpenters Needed</string>
-	<string key="CMissionAcquireCloth_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Weavers Needed</string>
-	<string key="CMissionAcquireMetal_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Metalworkers Needed</string>
-	<string key="CMissionAcquireFibers_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Harvesters Needed</string>
-	<string key="CMissionAcquireFood_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Cooks Needed</string>
-	<string key="CMissionAcquirePotions_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Alchemists Needed</string>
-	<string key="CMissionAcquireGeneric_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Supplies Needed</string>
-	<string key="CMissionAcquireWood_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Lumberjacks Needed</string>
-	<string key="CMissionAcquireRawhide_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Hunters Needed</string>
-	<string key="CMissionAcquireLeather_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Tanners Needed</string>
 	<string key="ui_already_in_faction">You are already in this faction</string>
 	<string key="ui_cant_switch_faction_pvp">Cannot change factions while flagged for PvP</string>
 	<string key="ui_cant_switch_faction_azoth">Not enough Azoth</string>

@@ -469,21 +469,6 @@
 	<string key="ui_upgrade_desc_HornProjectId2">Upgrade Warhorns to Tier 3. When upgraded, any existing Warhorns (deployed or otherwise) are also upgraded.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId">Upgrade Explosives to Tier 2. When upgraded, any existing Explosives (deployed or otherwise) are also upgraded.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId2">Upgrade Explosives to Tier 3. When upgraded, any existing Explosives (deployed or otherwise) are also upgraded.</string>
-	<string key="event_station" rel_version="Event_WinterConvergence_Temp">Tree of Light</string>
-	<string key="ui_upgrade_title_EventProjectId" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Tree of Light Upgrades Complete!</string>
-	<string key="ui_upgrade_titleNoMarkup_EventProjectId" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light to Tier 2</string>
-	<string key="ui_upgrade_titleNoMarkup_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light to Tier 3</string>
-	<string key="ui_upgrade_button_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Tree of Light Upgrades Complete!</string>
-	<string key="ui_upgrade_button_EventProjectId" rel_version="Event_WinterConvergence_Temp">Tree of Light Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Tree of Light Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_EventProjectId" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light to Tier 2 to surround it with &lt;font color="#ffd058"&gt;Beautifully Wrapped Presents!&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light to Tier 3 to surround it with &lt;font color="#ffd058"&gt;Exquisitely Wrapped Presents!&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Complete Winter Convergence Town Projects to earn Event Reputation!</string>
-	<string key="ui_upgradebutton_label_event" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light</string>
-	<string key="ui_event_project_complete" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light Project Complete</string>
-	<string key="ui_event_details_WinterConvergence" rel_version="Event_WinterConvergence_Temp">&lt;font color="#ffd058"&gt;Complete Winter Convergence Quests and Activities&lt;/font&gt; to earn Event Reputation and Winter Tokens to gain access to a bounty of event rewards! \n\n&lt;font color="#ffd058"&gt;Recover Lost Presents, mine Gleamites, and defeat the Winter Warrior &lt;/font&gt; to maintain the spirit of Convergence and stave off the looming Forever Winter!\n\n&lt;font color="#ffd058"&gt;Collect daily rewards from each villages Bountiful Gift Sack and Settlement’s Tree of Light Centerpiece! &lt;/font&gt; Completing an endless supply of Convergence Town Projects upgrades the splendor and rewards earned from the centerpiece!</string>
 	<string key="ui_event_project_endless">Endless</string>
 	<string key="ui_territory_level">Territory Level: {level}</string>
 	<string key="ui_enter_house">Enter House Menu</string>
