@@ -100,12 +100,16 @@
 	<string key="ui_leaderboard_error_norewards" rel_version="Feature_Leaderboards">{type} does not have rewards</string>
 	<string key="ui_leaderboard_error_norewards_this" rel_version="Feature_Leaderboards">This {type} does not have rewards</string>
 	<string key="ui_leaderboard_error_norewards_byfaction" rel_version="Feature_Leaderboards">{type} by Faction does not have rewards</string>
+	<string key="ui_leaderboard_error" rel_version="Feature_Leaderboards">This leaderboard does not have rewards</string>
 	<string key="ui_leaderboard_error_nottracked" rel_version="Feature_Leaderboards">This leaderboard is not tracked by {filter}</string>
 	<string key="ui_leaderboard_error_noboard" rel_version="Feature_Leaderboards">There is no {rotation} Leaderboard for this category.</string>
 	<string key="ui_leaderboard_page_count" rel_version="Feature_Leaderboards">Page {current} of {total}</string>
 	<string key="ui_leaderboard_not_tracked_character" rel_version="Feature_Leaderboards">This category is not tracked by character</string>
 	<string key="ui_leaderboard_not_tracked_company" rel_version="Feature_Leaderboards">This category is not tracked by company</string>
 	<string key="ui_leaderboard_not_tracked_faction" rel_version="Feature_Leaderboards">This category is not tracked by faction</string>
+	<string key="ui_leaderboard_not_tracked_category_season" rel_version="Feature_Leaderboards">This category is not tracked quarterly</string>
+	<string key="ui_leaderboard_not_tracked_category_week" rel_version="Feature_Leaderboards">This category is not tracked weekly</string>
+	<string key="ui_leaderboard_not_tracked_category_month" rel_version="Feature_Leaderboards">This category is not tracked monthly</string>
 	<string key="ui_leaderboard_not_tracked_season" rel_version="Feature_Leaderboards">This stat is not tracked quarterly</string>
 	<string key="ui_leaderboard_not_tracked_week" rel_version="Feature_Leaderboards">This stat is not tracked weekly</string>
 	<string key="ui_leaderboard_not_tracked_month" rel_version="Feature_Leaderboards">This stat is not tracked monthly</string>
@@ -114,7 +118,8 @@
 	<string key="ui_leaderboard_tip_invasion_score" rel_version="Feature_Leaderboards">Your Invasion Score is the top score you've received in an Invasion.</string>
 	<string key="ui_leaderboard_tip_darkness_score" rel_version="Feature_Leaderboards">You earn one point for each point of XP that a Corruption Breach is worth.</string>
 	<string key="ui_leaderboard_tip_pvparena_score" rel_version="Feature_Leaderboards">Your 3v3 Arena Score is cumulative. Earn more by completing more matches.</string>
-	<string key="ui_leaderboard_expedition_title" rel_version="Feature_Leaderboards">{expedition}, {difficulty}</string>
+	<string key="ui_leaderboard_tip_inv_war_wins" rel_version="Feature_Leaderboards">You must score at least 500 points to earn progress towards Wins.</string>
+	<string key="ui_leaderboard_expedition_title" rel_version="Feature_Leaderboards">{expedition}, &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{difficulty}&lt;/font&gt;</string>
 	<string key="ui_leaderboard_expedition_difficulty" rel_version="Feature_Leaderboards">Difficulty</string>
 	<string key="ui_leaderboard_expedition_difficulty_1" rel_version="Feature_Leaderboards">1</string>
 	<string key="ui_leaderboard_expedition_difficulty_2" rel_version="Feature_Leaderboards">2</string>

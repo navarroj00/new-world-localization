@@ -243,6 +243,8 @@
 	<string key="ui_bandwidthmode_desc">Bandwidth mode to use when receiving data from the server. Low values may affect quality</string>
 	<string key="ui_analyticsenabled">Emit Client Telemetry Data</string>
 	<string key="ui_analyticsenabled_desc">If you turn this setting off, you will stop sending certain client telemetry data relating to your play experience and settings to the New World team. If you are experiencing network issues in New World, turning off this setting may help</string>
+	<string key="ui_leaderboardenabled" rel_version="Feature_Leaderboards">Participate in Leaderboards</string>
+	<string key="ui_leaderboardenabled_desc" rel_version="Feature_Leaderboards">Participating will show your name on the leaderboard and allow you to get rewards</string>
 	<string key="ui_enable_camera_lock">Targeted Healing</string>
 	<string key="ui_enable_camera_lock_description">Enables targeted healing system</string>
 	<string key="ui_enable_camera_lock_friendlies">Camera Lock Friendlies</string>

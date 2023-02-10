@@ -331,6 +331,9 @@
 	<string key="ui_emote_WarHorn_name" rel_version="Emote_WarHorn">War Horn</string>
 	<string key="ui_emote_WarHorn_description" rel_version="Emote_WarHorn">Sound the call. We go to war!</string>
 	<string key="emote_WarHorn" rel_version="Emote_WarHorn">{playerName} blows a war horn.</string>
+	<string key="ui_emote_FingerHeart_name" rel_version="Emote_FingerHeart">Finger Heart</string>
+	<string key="ui_emote_FingerHeart_description" rel_version="Emote_FingerHeart">Show your love to your sweetheart, friends and even your adoring fans.</string>
+	<string key="emote_FingerHeart" rel_version="Emote_FingerHeart">{playerName} shows a little love.</string>
 	<string key="ui_emote_Walk_FrankenMummy_name" rel_version="Emote_Walk_FrankenMummy">Zombie Walk</string>
 	<string key="ui_emote_Walk_FrankenMummy_description" rel_version="Emote_Walk_FrankenMummy">What is a zombie in a land of eternal life? Just take a look at The Lost.</string>
 	<string key="emote_Walk_FrankenMummy" rel_version="Emote_Walk_FrankenMummy">{playerName} lurches forward like an undead creature.</string>
@@ -375,5 +378,16 @@
 	<string key="ui_emote_GleamiteThrow_name" rel_version="Emote_GleamiteThrow">Gleamite Throw</string>
 	<string key="ui_emote_GleamiteThrow_description" rel_version="Emote_GleamiteThrow">Toss glittering gleamites.</string>
 	<string key="emote_GleamiteThrow" rel_version="Emote_GleamiteThrow">{playerName} throws a handful of gleamites.</string>
+	<string key="ui_Emote_HandHeart_name" rel_version="Emote_HandHeart">Heart Hands</string>
+	<string key="ui_Emote_HandHeart_description" rel_version="Emote_HandHeart">Spread the love.</string>
+	<string key="Emote_HandHeart" rel_version="Emote_HandHeart">{playerName} makes a heart with his hands.</string>
+	<string key="Emote_HandHeart_SHE" rel_version="Emote_HandHeart">{playerName} makes a heart with her hands.</string>
+	<string key="Emote_HandHeart_THEY" rel_version="Emote_HandHeart">{playerName} makes a heart with their hands.</string>
+	<string key="ui_Emote_FishingDance_name" rel_version="Emote_FishingDance">Reel It In</string>
+	<string key="ui_Emote_FishingDance_description" rel_version="Emote_FishingDance">Cast a line and see who you'll catch.</string>
+	<string key="Emote_FishingDance" rel_version="Emote_FishingDance">{playerName} casts a line and reels it in.</string>
+	<string key="ui_Emote_SloshDance_name" rel_version="Emote_SloshDance">The Slosh</string>
+	<string key="ui_Emote_SloshDance_description" rel_version="Emote_SloshDance">Let loose and dance like everyone's watching.</string>
+	<string key="Emote_SloshDance" rel_version="Emote_SloshDance">{playerName} dances a joyful line dance.</string>
 </resources>
 
