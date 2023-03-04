@@ -146,5 +146,13 @@
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_setup_desc" rel_version="Quest_MSQ2_Revamp">Confront Overseer Zane</string>
 	<string key="ui_turkeyterror_worldboss_Turkulon">Turkulon's Terror</string>
 	<string key="ui_turkeyterror_worldboss_Turkulon_description">Turkulon has returned to avenge their fallen brethren</string>
+	<string key="ui_worldboss_defeated" rel_version="Event_February_Temp">{objective} Defeated</string>
+	<string key="ui_worldboss_daily_reset" rel_version="Event_February_Temp">Daily Reward Resets At {time}</string>
+	<string key="ui_worldboss_legacyofcrassus" rel_version="Event_February_Temp">Legacy of Crassus</string>
+	<string key="ui_worldboss_legacyofcrassus_description" rel_version="Event_February_Temp">The might of Rome threatens Aeternum! Hunt down Crassus's monstrous captains, Decimus and Lucanus, and banish the shadow of Roman tyranny. Collect daily rewards in addition to rewards for striking down these vicious brutes in Brightwood, Weavers Fen, Mourningdale, Ebonscale Reach, and Edengrove.\n\nContains &lt;font color="#ffe940"&gt;1&lt;/font&gt; Daily Reward. Resets at {time}</string>
+	<string key="objective_worldboss_task_legacyofcrassus_wave1_title" rel_version="Event_February_Temp">Legacy of Crassus: Stage 1/2</string>
+	<string key="objective_worldboss_task_legacyofcrassus_wave1_desc" rel_version="Event_February_Temp">Defeat the invaders: {remainingCount} remaining.</string>
+	<string key="objective_worldboss_task_legacyofcrassus_wave2_title" rel_version="Event_February_Temp">Legacy of Crassus: Stage 2/2</string>
+	<string key="objective_worldboss_task_legacyofcrassus_wave2_desc" rel_version="Event_February_Temp">Defeat the invaders: {remainingCount} remaining.</string>
 </resources>
 

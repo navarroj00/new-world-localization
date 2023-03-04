@@ -197,6 +197,7 @@
 	<string key="objective_subtitle_locationwithcolor" speaker="UI">&lt;font color={color}&gt;{territoryName}&lt;/font&gt;</string>
 	<string key="objective_subtitle_locationanddifficulty" speaker="UI">{territory} - {difficulty}</string>
 	<string key="objective_recommendedgroup" speaker="UI">Group {group}</string>
+	<string key="objective_recommendedplayers" speaker="UI">{amount} Players</string>
 	<string key="objective_recommendedlevel" speaker="UI">Level {level}</string>
 	<string key="objective_recommendedlevellong" speaker="UI">Recommended Level {level}</string>
 	<string key="objective_recommendedlevelwithcolor" speaker="UI">&lt;font color={color}&gt;Level {level}&lt;/font&gt;</string>
@@ -212,6 +213,7 @@
 	<string key="objective_norewards" speaker="UI">Contribute to the Battle to earn Rewards</string>
 	<string key="objective_salvage" speaker="UI">Salvage {itemName}</string>
 	<string key="objective_started" speaker="UI">Objective Started</string>
+	<string key="objective_daily_reward" speaker="UI" rel_version="Event_February_Temp">Contains 1 Daily Reward</string>
 	<string key="objective_task_pvp" speaker="UI">PVP Mission</string>
 	<string key="objective_task_survive" speaker="UI">Survive - Death Fails Mission</string>
 	<string key="objective_story_task_getoffthebeach" speaker="UI">Find the Outpost</string>

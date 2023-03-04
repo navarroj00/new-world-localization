@@ -13030,5 +13030,21 @@
 	<string key="Legion_Legionnaire_Named_05_04NW10b_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Turenne</string>
 	<string key="Damned_Acolyte_Named_04NW10_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Mahon</string>
 	<string key="Damned_Acolyte_Named_04NW08_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Lord Tenno</string>
+	<string key="CorruptedLegion_Cyclops_LOC_BOSS_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_February_Temp">Lucanus</string>
+	<string key="CorruptedLegion_Cyclops_LOC_BOSS_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_February_Temp">Decimus</string>
+	<string key="Legion_Legionnaire_Ethereal_LOC_BOSS_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_February_Temp">Phantom Centurion of Crassus</string>
+	<string key="Legion_Legionnaire_LOC_BOSS_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_February_Temp">Legionnaire of Crassus</string>
+	<string key="Legion_Legionnaire_NoShield_LOC_BOSS_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_February_Temp">Legion Prefect of Crassus</string>
+	<string key="Legion_Sagittarii_LOC_BOSS_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_February_Temp">Sagittarii of Crassus</string>
+	<string key="Legion_Signifer_LOC_BOSS_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_February_Temp">Signifer Nerva</string>
+	<string key="Totem_LOC_BOSS_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Event_February_Temp">Legion Banner of Crassus</string>
+	<string key="VC_CorruptedLegion_Cyclops_LOC_BOSS_00" comment="Mission Target Display Name" speaker="VitalsCategory" rel_version="Event_February_Temp">Centurion Lucanus</string>
+	<string key="VC_CorruptedLegion_Cyclops_LOC_BOSS_01" comment="Mission Target Display Name" speaker="VitalsCategory" rel_version="Event_February_Temp">Centurion Decimus</string>
+	<string key="VC_Legion_Legionnaire_Ethereal_LOC_BOSS" comment="Generic Level Variant" speaker="Vitals Category Sheet" rel_version="Event_February_Temp">Phantom Centurion of Crassus</string>
+	<string key="VC_Legion_Legionnaire_LOC_BOSS" comment="Generic Level Variant" speaker="Vitals Category Sheet" rel_version="Event_February_Temp">Legionnaire of Crassus</string>
+	<string key="VC_Legion_Legionnaire_NoShield_LOC_BOSS" comment="Generic Level Variant" speaker="Vitals Category Sheet" rel_version="Event_February_Temp">Legion Prefect of Crassus</string>
+	<string key="VC_Legion_Sagittarii_LOC_BOSS" comment="Generic Level Variant" speaker="Vitals Category Sheet" rel_version="Event_February_Temp">Legion Sagittarii of Crassus</string>
+	<string key="VC_Legion_Signifer_LOC_BOSS" comment="Named Variant" speaker="Vitals Sheet" rel_version="Event_February_Temp">Signifer Nerva</string>
+	<string key="VC_Totem_LOC_BOSS" comment="Mission Target Display Name" speaker="VitalsCategory" rel_version="Event_February_Temp">Legion Banner of Crassus</string>
 </resources>
 

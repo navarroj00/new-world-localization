@@ -206,9 +206,9 @@
 	<string key="ui_leaveguild_confirm">If you leave the company, &lt;font color="#FFD600"&gt;the following will occur: \n&lt;/font&gt;</string>
 	<string key="ui_leaveguild_final_confirm">Are you sure you want to leave the company?</string>
 	<string key="ui_leaveguild_cooldown_warning">&lt;font color="#FFD600"&gt;COMPANY WAR COOLDOWN ({cooldownTimeWar}).&lt;/font&gt; While the cooldown is active, you will only be able to fight as a mercenary in any defensive wars led by the Company you join next. \n\n&lt;font color="#FFD600"&gt;COMPANY WAR VANGUARD CONTRIBUTION COOLDOWN ({cooldownTimeInfluence}).&lt;/font&gt;  While the cooldown is active, you will be able to earn Influence for your Faction by completing PVP Missions, but the influence you earn will not go toward your new Company's selection as the War Vanguard.</string>
-	<string key="ui_leaveguild_governor_confirm">&lt;font color="#FFD600"&gt;Forfeit Holdings. &lt;/font&gt;Another member will be promoted to Governor when you leave, and any holdings the company has will remain with the company under the new governor.</string>
-	<string key="ui_leaveguild_alone_confirm">You are the only member of this Company and when you leave, any holdings the Company has will be lost and the Company Wallet will be added to your wallet.</string>
-	<string key="ui_leaveguild_alone_walletwarning">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Collecting the Company Wallet will put you over the Coin Cap. If you dissolve the Company now, any excess Coin will be lost.&lt;/font&gt;</string>
+	<string key="ui_leaveguild_governor_confirm">&lt;font color="#FFD600"&gt;Forfeit Owned Territories? &lt;/font&gt;Another member will be promoted to Governor when you leave, and any Territories the Company owns will remain with the company under the new governor.</string>
+	<string key="ui_leaveguild_alone_confirm">You are the only member of this Company and when you leave, any Territories the Company owns will be lost and the Company Wallet will be added to your wallet.</string>
+	<string key="ui_leaveguild_alone_walletwarning">&lt;font color="#FFD600" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Collecting the Company Wallet will put you over the Coin Cap. If you dissolve the Company now, {amount} Coin will be lost.&lt;/font&gt;</string>
 	<string key="ui_guild_influence_cooldown_heading">WAR COOLDOWN</string>
 	<string key="ui_guild_influence_cooldown_body">You have recently left a Company, and are still on cooldown for earning Vanguard Contribution along with Influence for your Faction.\n Your Influence will help your Faction, but would not weigh your Company toward being selected as the Vanguard if you declare war. \n This cooldown will end in: {cooldownTime}</string>
 	<string key="ui_cannot_leaveguild_ownwarsignup">You cannot leave while signed up for a War for your Company. Please abandon your War registration(s) first.</string>
@@ -459,9 +459,9 @@
 	<string key="ui_guildoneclaimowned">Claim Owned</string>
 	<string key="ui_acceptguildinvitepopuptitle">Join New Company?</string>
 	<string key="ui_acceptguildinvitepopupmessage_noguild">Are you sure you want to join a new company?</string>
-	<string key="ui_acceptguildinvitepopupmessage_hasclaims">Any Territories you own won't be transferred to the new Company, and will continue to be claimed by the Company you're leaving. Companies must go through the War Declaration process to claim any of those Territories.</string>
-	<string key="ui_acceptguildinvitepopupmessage_noclaims_time_remaining">Are you sure you want to leave your current Company and join a new Company?\nYou will not be able to rejoin this Company for {rejoinTime} and you will not be able to join a new Company for {switchTime}.</string>
-	<string key="ui_acceptguildinvitepopupmessage_noclaims">Are you sure you want to leave your current Company and join a new Company?</string>
+	<string key="ui_acceptguildinvitepopupmessage_in_guild">Are you sure you want to leave your current Company and join a new Company?</string>
+	<string key="ui_acceptguildinvitepopupmessage_alone">Are you sure you want to disband your current Company and join a new Company? You are the only member of this Company and when you leave, any Territories the Company owns will be lost and the Company Wallet will be added to your wallet.</string>
+	<string key="ui_acceptguildinvitepopupmessage_governor">Are you sure you want to leave your current Company and join a new Company? Another member will be promoted to Governor when you leave, and Territories the Company owns will remain with the company under the new Governor.</string>
 	<string key="ui_cantchangerank_iscurrentrank">Already the member's current rank</string>
 	<string key="ui_cantpromote_maxrank">Already highest possible rank</string>
 	<string key="ui_cantpromote_leaderatwar">Cannot transfer Company leadership while at war</string>

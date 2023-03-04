@@ -1274,7 +1274,9 @@
 	<string key="BlockSpeedPerk3_Description">Your movement speed is increased by {[Type_StatusEffectData.BlockSpeedPerk3.MoveSpeedMod * 100]}</string>
 	<string key="Status_Ability_Riposte">Riposte</string>
 	<string key="OR_Boss_Buff">Ghostly Might</string>
-	<string key="OR_Boss_Buff_Description">+{[Type_StatusEffectData.OutpostRush_Boss_Buff.ABSStandard * 100]}% damage absorption and +{[Type_StatusEffectData.OutpostRush_Boss_Buff.Health * 4]} health regeneration per second.</string>
+	<string key="OR_Boss_Buff_Description">+{[Type_StatusEffectData.OutpostRush_Boss_Buff.PhysicalArmor * 100]}% armor and +{[Type_StatusEffectData.OutpostRush_Boss_Buff.Health * 4]} health regeneration per second.</string>
+	<string key="OR_FortSpawn_Invulnerable_Name">Fort Spawn Invulnerability</string>
+	<string key="OR_FortSpawn_Invulnerable_Description">Invulnerable for the duration of this effect after spawning in your Outpost Rush fort.</string>
 	<string key="Status_Empower">Empower</string>
 	<string key="Status_Fortify">Fortify</string>
 	<string key="Status_Haste">Haste</string>

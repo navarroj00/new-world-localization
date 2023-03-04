@@ -2351,6 +2351,7 @@
 	<string key="tooltip_salvage_locked">This item is locked and is protected from being salvaged. Use Unlock for Salvage to allow it to be salvaged again.</string>
 	<string key="tooltip_salvage_remote">You cannot salvage items in remote locations.</string>
 	<string key="tooltip_salvage_cannot">This item cannot be salvaged</string>
+	<string key="tooltip_discard_locked">This item is locked and is protected from being discarded. Use Unlock to allow it to be discarded again.</string>
 	<string key="twitch_link_title">Connect Twitch Account To Amazon Games</string>
 	<string key="twitch_link_desc">Connect your Twitch account to participate in exclusive features. You can disconnect your account at any time.</string>
 	<string key="twitch_sub_army">Subscriber Army</string>
