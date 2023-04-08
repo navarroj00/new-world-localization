@@ -1,0 +1,107 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="TempestReckoning01" start="1" end="4" dialogue-next="TempestReckoning02">And so it came to pass...</string>
+	<string key="TempestReckoning02" start="4" end="12" dialogue-next="TempestReckoning03">The heart of the Tempest, Captain Isabella herself, defeated...</string>
+	<string key="TempestReckoning03" start="13" end="19" dialogue-next="TempestReckoning04">Abandoned by the power for which she traded everything.</string>
+	<string key="TempestReckoning04" start="19" end="22" dialogue-next="TempestReckoning05">The Soulwardens were victorious...</string>
+	<string key="TempestReckoning05" start="22" end="29" dialogue-next="TempestReckoning06">Pulling Aeternum, and the world, back from the precipice of doom.</string>
+	<string key="TempestReckoning06" start="29" end="32" dialogue-next="TempestReckoning07">But at what cost?</string>
+	<string key="TempestReckoning07" start="32" end="38" dialogue-next="TempestReckoning08">So many of their numbers Corrupted or Lost.</string>
+	<string key="TempestReckoning08" start="39" end="45" dialogue-next="TempestReckoning09">Their fragile alliance crumbling as the factions fight for dominance.</string>
+	<string key="TempestReckoning09" start="47" end="53" dialogue-next="TempestReckoning10">And what of the allies they believe they've gained in the Angry Earth?</string>
+	<string key="TempestReckoning10" start="53" end="56" dialogue-next="TempestReckoning11">It will be clear soon enough...</string>
+	<string key="TempestReckoning11" start="56" end="62" dialogue-next="TempestReckoning12">That the vengeful hand of nature would grasp far more than equilibrium.</string>
+	<string key="TempestReckoning12" start="64" end="72" dialogue-next="TempestReckoning13">And the void exposed when the surge in Corruption abates will become a threat of itself...</string>
+	<string key="TempestReckoning13" start="74" end="79" dialogue-next="TempestReckoning14">As the soulless remnants of this conflict rise from the battlefield...</string>
+	<string key="TempestReckoning14" start="80" end="85" dialogue-next="TempestReckoning15">to find purpose and power in a source as yet unrealized.</string>
+	<string key="TempestReckoning15" start="86" end="97" dialogue-next="TempestReckoning16">Yes, the hapless inhabitants of Aeternum will soon learn that this chapter maye have come to a close...</string>
+	<string key="TempestReckoning16" start="97" end="105">But the real horrors have just begun.</string>
+	<string key="AncientsLegacy01" start="1" end="11" dialogue-next="AncientsLegacy02">The gods summoned us from the Old World. Calling us to paradise, the undying land, they promised life eternal.</string>
+	<string key="AncientsLegacy02" start="13" end="20" dialogue-next="AncientsLegacy03">The divine Ancients shared their wisdom, directing us to build great temples to house their wonders.</string>
+	<string key="AncientsLegacy03" start="21" end="37" dialogue-next="AncientsLegacy04">The works of my people shone like a jewel in this New World. But madness erupted throughout the land, igniting a terrible war. Our great works were laid to waste.</string>
+	<string key="AncientsLegacy04" start="37" end="50" dialogue-next="AncientsLegacy05">When the fires cooled, the Ancients had vanished. Leaving behind only ruins and a doomed race of immortal soldiers guarding empty temples.</string>
+	<string key="AncientsLegacy05" start="51" end="54" dialogue-next="AncientsLegacy06">But we were determined to endure.</string>
+	<string key="AncientsLegacy06" start="56" end="62" dialogue-next="AncientsLegacy07">In the absence of the Ancients, we became the masters of our own destiny.</string>
+	<string key="AncientsLegacy07" start="63" end="67" dialogue-next="AncientsLegacy08">We battled the primordial beings birthed by the cataclysm.</string>
+	<string key="AncientsLegacy08" start="67" end="76" dialogue-next="AncientsLegacy09">And discovered immortality became a curse. Death had not been banished, only transformed.</string>
+	<string key="AncientsLegacy09" start="78" end="81" dialogue-next="AncientsLegacy10">Even the madness returned to plague us anew.</string>
+	<string key="AncientsLegacy10" start="83" end="92" dialogue-next="AncientsLegacy11">In the end, the Ancients' promises had been nothing but lies.</string>
+	<string key="AncientsLegacy11" start="94" end="102">I pray they've not blinded us to the terror stirring beneath the sands...</string>
+	<string key="RomeLegacy01" start="1" end="7" dialogue-next="RomeLegacy02">We set out to find the Field of Reeds, the blessed home of the gods.</string>
+	<string key="RomeLegacy02" start="7" end="15" dialogue-next="RomeLegacy03">Carrying our dying queen, our only hope lay in finding the gift of immortality.</string>
+	<string key="RomeLegacy03" start="16" end="23" dialogue-next="RomeLegacy04">We expected to discover divine power, a paradise blessed by the Nine.</string>
+	<string key="RomeLegacy04" start="23" end="30" dialogue-next="RomeLegacy05">But we found only ruins and devastation, the obvious result of divine wrath.</string>
+	<string key="RomeLegacy05" start="30" end="39" dialogue-next="RomeLegacy06">Having failed our queen, her body was consigned to the desert. But we would not be defeated.</string>
+	<string key="RomeLegacy06" start="40" end="46" dialogue-next="RomeLegacy07">Allied with the might of Rome, we would succeed where our ancestors had failed.</string>
+	<string key="RomeLegacy07" start="48" end="54" dialogue-next="RomeLegacy08">Like mighty Perseus or Achilles, General Crassus became our greatest champion.</string>
+	<string key="RomeLegacy08" start="54" end="60" dialogue-next="RomeLegacy09">Together, our works inspired the people and brought order to the chaos.</string>
+	<string key="RomeLegacy09" start="61" end="79" dialogue-next="RomeLegacy10">We would honor the gods and bring about an age of enlightenment. But greed and ambition poisoned the minds of our stewards. The Romans coveted the power of the gods and our protectors became our oppressors. </string>
+	<string key="RomeLegacy10" start="81" end="85" dialogue-next="RomeLegacy11">The gods punished them for their arrogance.</string>
+	<string key="RomeLegacy11" start="85" end="92" dialogue-next="RomeLegacy12">The Curse of Medusa would imprison the unfaithful for centuries.</string>
+	<string key="RomeLegacy12" start="92" end="97" dialogue-next="RomeLegacy13">The faithful would have to prove ourselves worthy before the gods would return.</string>
+	<string key="RomeLegacy13" start="97" end="105" dialogue-next="RomeLegacy14">But the plague of evil can never be vanquished. And it corrupts everything it touches.</string>
+	<string key="RomeLegacy14" start="105" end="112" dialogue-next="RomeLegacy15">Now we pray that the gods will send new champions.</string>
+	<string key="RomeLegacy15" start="113" end="118">To vanquish the darkness and find light in the shadows of our past.</string>
+	<string key="TempestRising01" start="1" end="13" dialogue-next="TempestRising02">This island has always guarded the promise of paradise. Humanity cast out, deemed unworthy of such blessings.</string>
+	<string key="TempestRising02" start="13" end="25" dialogue-next="TempestRising03">But I did not come here seeking paradise. I came for answers. Redemption after a life of weakness and suffering.</string>
+	<string key="TempestRising03" start="25" end="32" dialogue-next="TempestRising04">And I found a truth that disproved everything I had been taught.</string>
+	<string key="TempestRising04" start="32" end="43" dialogue-next="TempestRising05">I tasted the knowledge forbidden to us at creation. And I saw the vision of humanity's true potential.</string>
+	<string key="TempestRising05" start="43" end="53" dialogue-next="TempestRising06">I knew then, I must correct this ancient injustice, and restore the power which is rightfully ours.</string>
+	<string key="TempestRising06" start="55" end="61" dialogue-next="TempestRising07">The heart of the mountain now beats strong with this purpose.</string>
+	<string key="TempestRising07" start="61" end="72" dialogue-next="TempestRising08">After a century of preparation, our campaign has begun. The islands townships already fall before the might of our armies.</string>
+	<string key="TempestRising08" start="72" end="77" dialogue-next="TempestRising09">The only thing I had not foreseen is you.</string>
+	<string key="TempestRising09" start="77" end="85" dialogue-next="TempestRising10">You who have stolen the gift meant for me. And now your soul will pay the price.</string>
+	<string key="TempestRising10" start="85" end="100">For I will not stop until I have seized back the destiny stolen from us. And brought true freedom to the world both old and new.</string>
+	<string key="WildHuntress01" start="2" end="11" dialogue-next="WildHuntress02">Apophis is returned to the sands and Sutekh remains at rest. But the hunt has only just begun.</string>
+	<string key="WildHuntress02" start="13" end="22" dialogue-next="WildHuntress03">This hunt will be my greatest yet, the wretched mass of humanity my ultimate prey.</string>
+	<string key="WildHuntress03" start="22" end="29" dialogue-next="WildHuntress04">When we first appeared before them, humans were eager to learn, hungry for guidance.</string>
+	<string key="WildHuntress04" start="29" end="35" dialogue-next="WildHuntress05">We approached them in forms that were familiar and showered them with blessings.</string>
+	<string key="WildHuntress05" start="35" end="40" dialogue-next="WildHuntress06">But they lacked the purity shared by other creatures of these lands.</string>
+	<string key="WildHuntress06" start="40" end="50" dialogue-next="WildHuntress07">I warned my brethren, these beings were not worthy of eternal life. But the gift was bestowed nonetheless.</string>
+	<string key="WildHuntress07" start="50" end="69" dialogue-next="WildHuntress08">And what thanks did we receive? The fools turned against us. I knew then, annihilation of the species was our only option. But greater threat emerged, requiring our attention.</string>
+	<string key="WildHuntress08" start="69" end="76" dialogue-next="WildHuntress09">Years passed, we tried to live here in peace and harmony. </string>
+	<string key="WildHuntress09" start="76" end="83" dialogue-next="WildHuntress10">But the twisted ambitions of humanity have reinvited disaster time and again.</string>
+	<string key="WildHuntress10" start="85" end="94" dialogue-next="WildHuntress11">Now, however, the power of the Ennead flows through the veins of Aeternum, fuel for my grim task.</string>
+	<string key="WildHuntress11" start="94" end="100" dialogue-next="WildHuntress12">I will undo the mistake my brethren made so long ago.</string>
+	<string key="WildHuntress12" start="100" end="108">I will revoke the gift, and restore your mortal birthright to a final and inevitable death.</string>
+	<string key="CorpseCrone01" start="2" end="14" dialogue-next="CorpseCrone02">Long ago, a witch crept into the eastern fens. This was the Corpse Crone, and she cast a wicked spell.</string>
+	<string key="CorpseCrone02" start="18" end="22" dialogue-next="CorpseCrone03">The deadly hex spread like a sickening plague.</string>
+	<string key="CorpseCrone03" start="22" end="31" dialogue-next="CorpseCrone04">The island's immortality was twisted, made obscene. The Curse of the Lost would haunt our lands.</string>
+	<string key="CorpseCrone04" start="31" end="40" dialogue-next="CorpseCrone05">The people sought salvation from this plague. Desperate, we believed conviction our only course.</string>
+	<string key="CorpseCrone05" start="42" end="51" dialogue-next="CorpseCrone06">We discovered the soulless could hide amongst us. Committing them to the cold earth was the only answer.</string>
+	<string key="CorpseCrone06" start="51" end="63" dialogue-next="CorpseCrone07">Eventually, the crone's purpose became clear. Her hex would bind the restless Lost to her will.</string>
+	<string key="CorpseCrone07" start="63" end="76">To this day, her foul curse lingers. Until her evil can be forever extinguished.</string>
+	<string key="GalahadRegret01" start="1" end="12" dialogue-next="GalahadRegret02">It was the dream of Avalon that led King Artorius to these shores. And of course, the wise counsel of the enchanter, Myrddin.</string>
+	<string key="GalahadRegret02" start="12" end="22" dialogue-next="GalahadRegret03">But the enchanter became obsessed with the island's mysteries. An insidious evil claimed his soul.</string>
+	<string key="GalahadRegret03" start="22" end="32" dialogue-next="GalahadRegret04">The Wars of Crimson Madness raged for a century. So many banners… All fallen to the Corruption.</string>
+	<string key="GalahadRegret04" start="32" end="44" dialogue-next="GalahadRegret05">I know not what transpired to end the conflict. We found no answers as to Myrrdin's fate, no trace of the High King.</string>
+	<string key="GalahadRegret05" start="44" end="55" dialogue-next="GalahadRegret06">I sought new peace and purpose here in the Brightwood. But it would not last. A plague of soulless Lost emerged.</string>
+	<string key="GalahadRegret06" start="55" end="68" dialogue-next="GalahadRegret07">Brother Umberto and I formed the Bright Vigil to fight the darkness. But he stood alone when I left in search of my lord king.</string>
+	<string key="GalahadRegret07" start="68" end="82">I returned empty handed, to witness the results of my failure. The Vigil, fallen to despair, and the Brightwood, bright no more.</string>
+	<string key="MorgaineTruth01" start="1" end="8" dialogue-next="MorgaineTruth02">Aeternum's secrets called to us in dreams. Promising vast, ancient knowledge.</string>
+	<string key="MorgaineTruth02" start="8" end="18" dialogue-next="MorgaineTruth03">What we discovered was an entity longing for release. Myrddin believed his spell-craft would ensure protection.</string>
+	<string key="MorgaineTruth03" start="18" end="30" dialogue-next="MorgaineTruth04">But this fell power claimed him for its own. As the Crimson Sorcerer, he became the Herald of Madness.</string>
+	<string key="MorgaineTruth04" start="30" end="42" dialogue-next="MorgaineTruth05">When all else failed, I confronted my brother. Our magics clashed... and then silence. I was forever changed.</string>
+	<string key="MorgaineTruth05" start="43" end="53" dialogue-next="MorgaineTruth06">I knew the Corruption would return. But the power I needed came at a terrible cost.</string>
+	<string key="MorgaineTruth06" start="55" end="62" dialogue-next="MorgaineTruth07">The secrets I sought continued to elude me. But I refused to relent.</string>
+	<string key="MorgaineTruth07" start="62" end="73" dialogue-next="MorgaineTruth08">I became the Corpse Crone, the Curse of Weaver's Fen. The target of foolish Shadow-Hunters.</string>
+	<string key="MorgaineTruth08" start="73" end="84">I spent the centuries since alone, preparing. When the Crimson Madness returns, I shall be ready.</string>
+	<string key="SkyeLetter01" start="2" end="5" dialogue-next="SkyeLetter02">My father called me weak.</string>
+	<string key="SkyeLetter02" start="5" end="9" dialogue-next="SkyeLetter03">I was ten when I proved him wrong.</string>
+	<string key="SkyeLetter03" start="14" end="24" dialogue-next="SkyeLetter04">I chose the path of the warrior. And in two years, my brothers could not match me in battle.</string>
+	<string key="SkyeLetter04" start="25" end="34" dialogue-next="SkyeLetter05">But among spear-daughters, I forged an unbreakable bond. On Aeternum, we fought an endless onslaught of darkness.</string>
+	<string key="SkyeLetter05" start="39" end="47" dialogue-next="SkyeLetter06">Until that day, a faceless warlock cursed us. He stole our warrior's fire. </string>
+	<string key="SkyeLetter06" start="50" end="60" dialogue-next="SkyeLetter07">We tried everything to break free, even death. But nothing worked... and without our strength, what were we?</string>
+	<string key="SkyeLetter07" start="60" end="68" dialogue-next="SkyeLetter08">Now, our enemies pursue an even darker power in Great Cleave. They must be stopped.</string>
+	<string key="SkyeLetter08" start="68" end="76">Hero of Aeternum, help me reclaim our fire, and strike our enemy asunder. </string>
+	<string key="TempestRisingMB01" start="1" end="13" dialogue-next="TempestRisingMB02">This island has always guarded the promise of paradise. Humanity cast out, deemed unworthy of such blessings.</string>
+	<string key="TempestRisingMB02" start="13" end="25" dialogue-next="TempestRisingMB03">But I did not come here seeking paradise. I came for answers. Redemption after a life of weakness and suffering.</string>
+	<string key="TempestRisingMB03" start="25" end="32" dialogue-next="TempestRisingMB04">And I found a truth that disproved everything I had been taught.</string>
+	<string key="TempestRisingMB04" start="32" end="43" dialogue-next="TempestRisingMB05">I tasted the knowledge forbidden to us at creation. And I saw the vision of humanity's true potential.</string>
+	<string key="TempestRisingMB05" start="43" end="53" dialogue-next="TempestRisingMB06">I knew then, I must correct this ancient injustice, and restore the power which is rightfully ours.</string>
+	<string key="TempestRisingMB06" start="55" end="61" dialogue-next="TempestRisingMB07">The heart of the mountain now beats strong with this purpose.</string>
+	<string key="TempestRisingMB07" start="61" end="72" dialogue-next="TempestRisingMB08">After a century of preparation, our campaign has begun. The islands townships already fall before the might of our armies.</string>
+	<string key="TempestRisingMB08" start="72" end="77" dialogue-next="TempestRisingMB09">The only thing I had not foreseen is you.</string>
+	<string key="TempestRisingMB09" start="77" end="85" dialogue-next="TempestRisingMB10">You who have stolen the gift meant for me. And now your soul will pay the price.</string>
+	<string key="TempestRisingMB10" start="85" end="100">For I will not stop until I have seized back the destiny stolen from us. And brought true freedom to the world both old and new.</string>
+</resources>
+

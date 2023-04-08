@@ -85,11 +85,13 @@
 	<string key="objective_journey_desc" speaker="UI">Additional quests</string>
 	<string key="objective_journey_empty" speaker="UI">No Journey Obtained</string>
 	<string key="objective_factionstory" speaker="UI">Faction Story</string>
-	<string key="objective_factionstory_desc" speaker="UI">Faction story objectives</string>
+	<string key="objective_factionstory_desc" speaker="UI">Faction story quests</string>
+	<string key="objective_seasonquest" speaker="UI">Season Story</string>
+	<string key="objective_seasonquest_desc" speaker="UI">Season story objectives</string>
 	<string key="objective_skillprogression" speaker="UI">Skill Progression</string>
 	<string key="objective_skillprogression_desc" speaker="UI">Skill progression objectives</string>
-	<string key="objective_epicequipment" speaker="UI">Epic Weapons and Armor</string>
-	<string key="objective_epicequipment_desc" speaker="UI">Epic weapons and armor objectives</string>
+	<string key="objective_epicequipment" speaker="UI">Epic Equipment</string>
+	<string key="objective_epicequipment_desc" speaker="UI">Epic equipment quests</string>
 	<string key="objective_kill" speaker="UI">Kill {enemy}</string>
 	<string key="objective_kill_p" speaker="UI">Kill {amountCount} {enemy}s</string>
 	<string key="objective_location" speaker="UI">Location</string>
@@ -147,7 +149,7 @@
 	<string key="objective_mission_title_merchant_courier" speaker="UI">Delivery Mission</string>
 	<string key="objective_mission_title_procurer_acquire" speaker="UI">Acquisition Mission</string>
 	<string key="objective_msq" speaker="UI">Main Story</string>
-	<string key="objective_msq_desc" speaker="UI">Main story objectives</string>
+	<string key="objective_msq_desc" speaker="UI">Main story quests</string>
 	<string key="objective_get_msq_message" speaker="UI">You currently have no active Main Story quests.\nSearch for this icon on the map to determine whether the next Main Story Quest is available.</string>
 	<string key="M_procurer_craft_workorder_items" speaker="UI">Crafting Mission</string>
 	<string key="objective_name_template" comment="Obsolete - Used to show above rewards on the conversation screen. {title} is the quest title." speaker="UI">Quest: "{title}"</string>
@@ -156,22 +158,23 @@
 	<string key="objective_rewards_proposal" comment="Rewards label when accepting a quest" speaker="UI">Complete Quest to Receive</string>
 	<string key="objective_objective" speaker="UI">Objective</string>
 	<string key="objective_objectives" speaker="UI">Objectives</string>
-	<string key="objectives_sort" speaker="UI">Sort:</string>
-	<string key="objective_sort_distance" speaker="UI">Distance - Closest first</string>
-	<string key="objective_sort_difficulty" speaker="UI">Difficulty - Easiest first</string>
+	<string key="objectives_sort" speaker="UI">Sort by:</string>
+	<string key="objective_sort_distance" speaker="UI">Distance</string>
+	<string key="objective_sort_difficulty" speaker="UI">Difficulty</string>
 	<string key="objective_sort_territory" speaker="UI">Territory - A to Z</string>
 	<string key="objective_sort_type" speaker="UI">Type</string>
-	<string key="objective_active" speaker="UI">Active Objectives</string>
+	<string key="objective_active" speaker="UI">Active</string>
 	<string key="objective_ready_to_turn_in" speaker="UI">Ready To Turn In</string>
 	<string key="objective_location_name" speaker="UI">Location Name</string>
-	<string key="objective_has_location" speaker="UI">With Specific Locations</string>
-	<string key="objective_no_location" speaker="UI">Without Specific Locations</string>
+	<string key="objective_has_location" speaker="UI">Location Known</string>
+	<string key="objective_no_location" speaker="UI">Unknown Location</string>
 	<string key="objective_main_story_quest" speaker="UI">Main Story Quest</string>
 	<string key="objective_faction_story_quest" speaker="UI">Faction Story Quest</string>
+	<string key="objective_season_quest" speaker="UI">Season Story Quest</string>
 	<string key="objective_skill_progression_quest" speaker="UI">Skill Progression Quest</string>
 	<string key="objective_side_quests" speaker="UI">Side Quests</string>
 	<string key="objective_event" speaker="UI">Event Quests</string>
-	<string key="objective_event_desc" speaker="UI">Objectives available during an Event</string>
+	<string key="objective_event_desc" speaker="UI">Quests available during an Event</string>
 	<string key="objective_faction_missions" speaker="UI">Faction Missions</string>
 	<string key="objective_community_goal" speaker="UI">Town Projects</string>
 	<string key="objective_POI" speaker="UI">Landmark</string>
@@ -213,6 +216,8 @@
 	<string key="objective_norewards" speaker="UI">Contribute to the Battle to earn Rewards</string>
 	<string key="objective_salvage" speaker="UI">Salvage {itemName}</string>
 	<string key="objective_started" speaker="UI">Objective Started</string>
+	<string key="objective_daily_reward_one" speaker="UI" rel_version="Event_February_Perm">Contains &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt; Daily Reward</string>
+	<string key="objective_daily_reward_multiple" speaker="UI" rel_version="Feature_Seasons_Rewards">Contains &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt; Daily Rewards</string>
 	<string key="objective_task_pvp" speaker="UI">PVP Mission</string>
 	<string key="objective_task_survive" speaker="UI">Survive - Death Fails Mission</string>
 	<string key="objective_story_task_getoffthebeach" speaker="UI">Find the Outpost</string>

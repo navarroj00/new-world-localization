@@ -2,50 +2,70 @@
 	<string key="ui_entrance_dungeon_description">Explore the Expedition</string>
 	<string key="ui_enter_dungeon">Enter</string>
 	<string key="ui_enter_solo_trial">Enter</string>
+	<string key="ui_enter_raid_trial">Enter</string>
 	<string key="ui_open_dungeon_menu">Open Expedition Menu</string>
 	<string key="ui_open_dungeon_menu_solo">Open Soul Trial Menu</string>
+	<string key="ui_open_dungeon_menu_raidtrial">Open Elite Trial Menu</string>
 	<string key="join_group_in_dungeon">Enter Expedition</string>
 	<string key="join_group_in_dungeon_solo">Enter Soul Trial</string>
+	<string key="join_group_in_dungeon_raidtrial">Enter Elite Trial</string>
 	<string key="ui_dungeon_leave">Leave Expedition</string>
 	<string key="ui_dungeon_leave_solo">Leave Soul Trial</string>
+	<string key="ui_dungeon_leave_raidtrial">Leave Elite Trial</string>
 	<string key="ui_dungeon_screen_header">Expedition Entrance</string>
 	<string key="ui_dungeon_screen_header_solo">Soul Trial Entrance</string>
+	<string key="ui_dungeon_screen_header_raidtrial">Elite Trial Entrance</string>
 	<string key="ui_dungeon_requirements">&lt;img src="LyShineUI/Images/icons/misc/icon_level_simple" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; Recommended Level: {level}   &lt;img src="LyShineUI/Images/icons/misc/icon_character" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; Minimum Players: {players}</string>
 	<string key="ui_dungeon_requirements_groupsize">Minimum Players: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{players}&lt;/font&gt;</string>
 	<string key="ui_dungeon_requirements_groupsize_single">Maximum Players: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
 	<string key="ui_dungeon_requirements_gearscore">Recommended Level: {level}</string>
 	<string key="ui_flyout_recommended_groupsize">Recommended Players: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{players}&lt;/font&gt;</string>
-	<string key="ui_dungeon_requirements_equipment_warning">In order to complete this Expedition, your group must have at least &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
-	<string key="ui_dungeon_requirements_equipment_warning_solo">In order to complete this Soul Trial, you must have at least &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
-	<string key="ui_dungeon_reward_level">The quality of the overall loot will increase as difficulty levels are increased.\n\nItems you find may vary from the listed items based on their Gear Score.</string>
+	<string key="ui_dungeon_requirements_equipment_warning">Your group must have at least &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
+	<string key="ui_dungeon_requirements_equipment_warning_solo">You must have at least &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
+	<string key="ui_dungeon_requirements_equipment_warning_raidtrial">You must have at least &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
+	<string key="ui_dungeon_reward_level">The quality of the overall loot increases as difficulty level increases.\n\nItems you find may vary from the listed items based on their Gear Score.</string>
 	<string key="ui_dungeon_level_requirement">Level Requirement: {level}</string>
 	<string key="ui_dungeon_elapsed_time">Time Elapsed:</string>
 	<string key="ui_dungeon_estimated_time_remaining">Estimated Wait Time:</string>
 	<string key="ui_dungeon_activate">Open Expedition</string>
 	<string key="ui_dungeon_activate_solo">Open Soul Trial</string>
+	<string key="ui_dungeon_activate_raidtrial">Open Elite Trial</string>
 	<string key="ui_dungeon_leave_group">Leave Group</string>
 	<string key="ui_dungeon_leave_group_sufficient_members">You will be kicked out of the queue if you leave the group.\nAre you sure?</string>
 	<string key="ui_dungeon_group_in_queue">Waiting for Expedition...</string>
 	<string key="ui_dungeon_group_in_queue_solo">Waiting for Soul Trial...</string>
+	<string key="ui_dungeon_group_in_queue_raidtrial">Waiting for Elite Trial...</string>
 	<string key="ui_dungeon_group_proximity">Group member too far away</string>
 	<string key="ui_dungeon_group_already_in_queue_dungeon">Your group is already in a queue for a different Expedition. Create a new group to open this Expedition.</string>
 	<string key="ui_dungeon_group_already_in_queue_dungeon_solo">Your group is already in a queue for a different Expedition. Create a new group to open this Trial.</string>
+	<string key="ui_dungeon_group_already_in_queue_dungeon_raidtrial">Your group is already in a queue for a different Expedition. Create a new group to open this Elite Trial.</string>
 	<string key="ui_dungeon_group_in_active_dungeon">Your group already has an active Expedition or Trial. All group members need to exit the active Instance to open this Expedition.</string>
 	<string key="ui_dungeon_group_in_active_dungeon_solo">Your group already has an active Expedition or Trial. All group members need to exit the active Instance to open this Soul Trial.</string>
+	<string key="ui_dungeon_group_in_active_dungeon_raidtrial">Your group already has an active Expedition or Trial. All group members need to exit the active Instance to open this Elite Trial.</string>
 	<string key="ui_dungeon_group_dead">Group member is dead</string>
 	<string key="ui_dungeon_activating">Entering Expedition...</string>
 	<string key="ui_dungeon_activating_solo">Entering Soul Trial...</string>
+	<string key="ui_dungeon_activating_raidtrial">Entering Elite Trial...</string>
 	<string key="ui_dungeon_not_enough_members">Not enough members in group</string>
 	<string key="ui_dungeon_disabled">This Expedition is currently disabled</string>
 	<string key="ui_dungeon_disabled_solo">This Soul Trial is currently disabled</string>
+	<string key="ui_dungeon_disabled_raidtrial">This Elite Trial is currently disabled</string>
 	<string key="ui_dungeon_activate_failure">Failed to open Expedition</string>
 	<string key="ui_dungeon_activate_failure_solo">Failed to open Soul Trial</string>
+	<string key="ui_dungeon_activate_failure_raidtrial">Failed to open Elite Trial</string>
 	<string key="ui_dungeon_not_ready">Expedition not ready</string>
 	<string key="ui_dungeon_opened_title">Expedition Open</string>
 	<string key="ui_dungeon_opened_title_solo">Soul Trial Open</string>
+	<string key="ui_dungeon_opened_title_raidtrial">Elite Trial Open</string>
 	<string key="ui_dungeon_removed_from_queue">You have been removed from the Expedition queue</string>
+	<string key="ui_dungeon_removed_from_queue_solo">You have been removed from the Soul Trial queue</string>
+	<string key="ui_dungeon_removed_from_queue_raidtrial">You have been removed from the Elite Trial queue</string>
 	<string key="ui_dungeon_entry_expired">Expedition entrance expired</string>
+	<string key="ui_dungeon_entry_expired_solo">Solo Trial entrance expired</string>
+	<string key="ui_dungeon_entry_expired_raidtrial">Elite Trial entrance expired</string>
 	<string key="ui_dungeon_closed">Expedition closed</string>
+	<string key="ui_dungeon_closed_solo">Soul Trial closed</string>
+	<string key="ui_dungeon_closed_raidtrial">Elite Trial closed</string>
 	<string key="ui_dungeon_required_item">{quantity} {item} (consumed once you join)</string>
 	<string key="ui_dungeon_required_item_started">{item}</string>
 	<string key="ui_dungeon_required_item_tooltip">{quantity} {item} required</string>
@@ -56,33 +76,46 @@
 	<string key="ui_dungeon_entrance_respawn_location">Entrance</string>
 	<string key="dungeon">Expedition</string>
 	<string key="dungeon_solo">Soul Trial</string>
+	<string key="dungeon_raidtrial">Elite Trial</string>
 	<string key="dungeon_started">Expedition Activated</string>
 	<string key="dungeon_teleport_title">Prepare to Teleport</string>
 	<string key="dungeon_teleport_desc">Your group will be teleported into the Expedition.</string>
 	<string key="dungeon_enter">Enter Expedition</string>
 	<string key="dungeon_enter_solo">Enter Soul Trial</string>
+	<string key="dungeon_enter_raidtrial">Enter Elite Trial</string>
 	<string key="dungeon_flyout">Expedition</string>
 	<string key="dungeon_success">Mission Complete</string>
 	<string key="dungeon_fail">Mission Failed</string>
 	<string key="dungeon_completed">Expedition Completed</string>
 	<string key="dungeon_completed_solo">Soul Trial Completed</string>
+	<string key="dungeon_completed_raidtrial">Elite Trial Completed</string>
 	<string key="ui_dungeon_find_group" rel_version="Feature_Group_Finder">Find Group</string>
 	<string key="ui_dungeon_manage_group" rel_version="Feature_Group_Finder">Manage My Lobby</string>
 	<string key="ui_dungeon_view_group" rel_version="Feature_Group_Finder">View My Lobby</string>
 	<string key="ui_dungeon_opened_pvpwarning_title">Abandon PvP to Enter</string>
 	<string key="ui_dungeon_enter_pvpwarning_info">Entering an Expedition will &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
+	<string key="ui_dungeon_enter_pvpwarning_info_solo">Entering Soul Trial will &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
+	<string key="ui_dungeon_enter_pvpwarning_info_raidtrial">Entering a Elite Trial will &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
 	<string key="ui_dungeon_full_header">Expedition is currently full. Join the queue to enter the expedition.</string>
+	<string key="ui_dungeon_full_header_solo">Soul Trial is currently full. Join the queue to enter the soul trial.</string>
+	<string key="ui_dungeon_full_header_raidtrial">Elite Trial is currently full. Join the queue to enter the elite trial.</string>
 	<string key="ui_dungeon_player_average_gear_score">&lt;font color="#c3b79f"&gt;Average Gear Score: &lt;/font&gt; &lt;font color="#ffffff" face="lyshineui/fonts/CaslonAnt.font"&gt;{gearscore}&lt;/font&gt;</string>
 	<string key="ui_dungeon_queued_blocked">Can't Open Expedition</string>
 	<string key="ui_dungeon_queued_blocked_solo">Can't Open Soul Trial</string>
+	<string key="ui_dungeon_queued_blocked_raidtrial">Can't Open Elite Trial</string>
 	<string key="ui_dungeon_outpost_rush">You are already in a queue for Outpost Rush</string>
 	<string key="ui_dungeon_expiring">Leaving expedition in</string>
+	<string key="ui_dungeon_expiring_solo">Leaving Soul Trial in</string>
+	<string key="ui_dungeon_expiring_raidtrial">Leaving Elite Trial in</string>
 	<string key="ui_dungeon_cooldown">Can Open in &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{timeRemaining}&lt;/font&gt;</string>
 	<string key="ui_dungeon_cooldown_flyout">You can open this Expedition in {timeRemaining}</string>
 	<string key="ui_dungeon_cooldown_flyout_solo">You can open this Soul Trial in {timeRemaining}</string>
+	<string key="ui_dungeon_cooldown_flyout_raidtrial">You can open this Elite Trial in {timeRemaining}</string>
 	<string key="ui_dungeon_map_flyout_button">View Expedition</string>
 	<string key="ui_dungeon_remaining_label">Regular Expeditions Remaining</string>
+	<string key="ui_dungeon_remaining_label_raidtrial">Regular Elite Trials Remaining</string>
 	<string key="ui_dungeon_remaining_tooltip">You may enter up to {amount} Regular Expeditions per day.</string>
+	<string key="ui_dungeon_remaining_tooltip_raidtrial">You may enter up to {amount} Elite Trials per day.</string>
 	<string key="ui_dungeon_mutation_remaining_label" rel_version="Feature_Dungeon_Mutators">Mutated Expeditions Remaining</string>
 	<string key="ui_dungeon_mutation_remaining_tooltip" rel_version="Feature_Dungeon_Mutators">You may enter up to {amount} Mutated Expeditions per week.</string>
 	<string key="ui_dungeon_mutation_flyout_tooltip" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Weekly Mutation&lt;/font&gt;\nElemental Mutations, Promotions and Curses are randomized weekly for Mutated Expeditions.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Mutation&lt;/font&gt;\nBattle through Elemental Mutations\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Promotion&lt;/font&gt;\nElite Promotions for Enemies\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Curses&lt;/font&gt;\nExpedition wide Effects</string>
@@ -158,15 +191,15 @@
 	<string key="ui_dungeon_mutator_difficulty_plain" rel_version="Feature_Dungeon_Mutators">Difficulty&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_appended_difficulty" rel_version="Feature_Dungeon_Mutators">Difficulty &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{difficulty}&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_appended_difficulty_bold" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Difficulty {difficulty}&lt;/font&gt;</string>
-	<string key="ui_dungeon_next_unlock_requirement" rel_version="Feature_Dungeon_Mutators">In order to unlock the &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;next difficulty&lt;/font&gt;, you must complete this Expedition with &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{rank} Rank&lt;/font&gt;.</string>
-	<string key="ui_dungeon_mutator_unlock_requirement" rel_version="Feature_Dungeon_Mutators">In order to unlock the &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;next difficulty&lt;/font&gt;, you must complete this Expedition.</string>
+	<string key="ui_dungeon_next_unlock_requirement" rel_version="Feature_Dungeon_Mutators">Complete this Expedition with &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{rank} Rank&lt;/font&gt; to unlock the &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;next difficulty&lt;/font&gt;.</string>
+	<string key="ui_dungeon_mutator_unlock_requirement" rel_version="Feature_Dungeon_Mutators">Complete this Expedition to unlock the &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;next difficulty&lt;/font&gt;.</string>
 	<string key="ui_dungeon_mutator_active" rel_version="Feature_Dungeon_Mutators">&lt;font color="#00ffa8"&gt;Active &lt;img src="LyShineUI/Images/icons/misc/icon_question_orange" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; &lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_inactive" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff9393"&gt;Inactive &lt;img src="LyShineUI/Images/icons/misc/icon_question_orange" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; &lt;/font&gt;</string>
-	<string key="ui_dungeon_mutator_rotation_notice" rel_version="Feature_Dungeon_Mutators">An Expedition will be randomly selected every week to mutate.  Only the selected Expedition can be played with raised difficulties.</string>
+	<string key="ui_dungeon_mutator_rotation_notice" rel_version="Feature_Dungeon_Mutators">An Expedition is randomly selected every week to mutate. Only the selected Expedition can be played with raised difficulties.</string>
 	<string key="ui_dungeon_mutation_rewards_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Items&lt;/font&gt; have a chance to drop with these &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Perks:&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_standard_reward_count" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Expedition Items</string>
 	<string key="ui_dungeon_mutator_difficulty_reward_count" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Difficulty Items</string>
-	<string key="ui_dungeon_mutator_special_reward_tooltip" rel_version="Feature_Dungeon_Mutators">In addition to item rewards, completing Expeditions will earn up to {value} Umbral Shards depending on the rank.\n\n Earning silver rank at the end of the Expedition will unlock the next Expedition difficulty.</string>
+	<string key="ui_dungeon_mutator_special_reward_tooltip" rel_version="Feature_Dungeon_Mutators">Umbral Shards are rewarded based on your rank when the Expedition is completed.\n\nUnlock the next Expedition difficulty with Silver rank or higher.</string>
 	<string key="ui_dungeon_mutator_hud_points_shorthand" rel_version="Feature_Dungeon_Mutators">&lt;font color="#aaaaaa" &gt;pt&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_difficulty_not_unlocked" rel_version="Feature_Dungeon_Mutators">This difficulty has not been unlocked yet.</string>
 	<string key="Mut_Disease_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies apply a stacking Disease on hit, reducing healing by {[Type_StatusEffectData.Mut_Disease_1.HealMod * -100]}% per stack.</string>
@@ -174,7 +207,7 @@
 	<string key="Mut_RotatingBeam_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies cast slicing beams that deal {[Type_StatusEffectData.Mut_RotatingBeam_Damage.HealthModifierDamageBased * -100]}% base Void damage when touched.</string>
 	<string key="Mut_StaminaDamage_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies forgo the {[Type_AbilityData.AI_Elite_StaggerAndStaminaDMG.BlockDamage * -100]}% reduced stamina damage in Expeditions.\nEnemies deal {[Type_AbilityData.Mut_StaminaDamage_1.BlockDamage * 100]}% increased stamina damage.\nAdditionally, upon breaking your block, enemies apply a bleed, dealing {[Type_StatusEffectData.Mut_StaminaDamage_1_BlockBreak_Bleed.HealthModifierPercent * -100]}% base health damage per tick.</string>
 	<string key="Mut_StaminaDamage_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies forgo the {[Type_AbilityData.AI_Elite_StaggerAndStaminaDMG.BlockDamage * -100]}% reduced stamina damage in Expeditions.\nEnemies deal {[Type_AbilityData.Mut_StaminaDamage_1.BlockDamage * 100]}/{[Type_AbilityData.Mut_StaminaDamage_2.BlockDamage * 100]}% increased stamina damage.\nAdditionally, upon breaking your block, enemies apply a bleed, dealing {[Type_StatusEffectData.Mut_StaminaDamage_1_BlockBreak_Bleed.HealthModifierPercent * -100]}/{[Type_StatusEffectData.Mut_StaminaDamage_2_BlockBreak_Bleed.HealthModifierPercent * -100]}% base health damage per tick.</string>
-	<string key="Mut_Enrage_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">When hit, enemies will generate Fury. At {[Type_StatusEffectData.Mut_Enrage_Effect.AddOnStackSize]} Fury, they become enraged, dealing {[Type_StatusEffectData.Mut_Enrage_Empower.DMGStandard * 100]}% increased damage and become {[Type_StatusEffectData.Mut_Enrage_Empower.DynamicModelScaleFactor * 100]}% larger.</string>
+	<string key="Mut_Enrage_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">When hit, enemies generate Fury. At {[Type_StatusEffectData.Mut_Enrage_Effect.AddOnStackSize]} Fury, they become enraged, dealing {[Type_StatusEffectData.Mut_Enrage_Empower.DMGStandard * 100]}% increased damage and become {[Type_StatusEffectData.Mut_Enrage_Empower.DynamicModelScaleFactor * 100]}% larger.</string>
 	<string key="Mut_ManaThorns_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies drain {[Type_StatusEffectData.Mut_ManaDamage_1.Mana* -1]} mana upon being hit.</string>
 	<string key="Mut_ManaThorns_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies drain {[Type_StatusEffectData.Mut_ManaDamage_1.Mana* -1]}/{[Type_StatusEffectData.Mut_ManaDamage_2.Mana* -1]} mana upon being hit.</string>
 	<string key="Mut_SilenceArea_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies cast a Silence zone on attacking players.</string>
@@ -233,8 +266,8 @@
 	<string key="Mut_Curse2_Nat_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Using abilities applies a stack of Offering, causing {[Type_StatusEffectData.Mut_Curse2_Nat_Major_Damage.HealthModifierPercent * -100]}% max health Nature damage over time to the player, stacking {[Type_StatusEffectData.Mut_Curse2_Nat_Major_Damage.StackMax]} times. All player damage has {[Type_AbilityData.Mut_Curse2_Base_Major_Lifesteal.DmgPctToHealth * 100]}% life steal while affected by Offering (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Curse2_Voi_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Using abilities applies a stack of Offering, causing {[Type_StatusEffectData.Mut_Curse2_Voi_Major_Damage.HealthModifierPercent * -100]}% max health Void damage over time to the player, stacking {[Type_StatusEffectData.Mut_Curse2_Voi_Major_Damage.StackMax]} times. All player damage has {[Type_AbilityData.Mut_Curse2_Base_Major_Lifesteal.DmgPctToHealth * 100]}% life steal while affected by Offering (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Fir_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Periodically selects the player with the lowest percent health. After several seconds, the selected player casts chain Fire, damaging nearby players for {[Type_StatusEffectData.Mut_Fir_Curse3_Minor_Damage.HealthModifierPercent * -100]}% of their max health. (This effect cannot be cleansed by player abilities)</string>
-	<string key="Mut_Ice_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Periodically selects the player with the lowest percent health. After several seconds, the selected player casts chain Ice, damaging nearby players for{[Type_StatusEffectData.Mut_Ice_Curse3_Minor_Damage.HealthModifierPercent * -100]}% of their max health. (This effect cannot be cleansed by player abilities)</string>
-	<string key="Mut_Nat_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Periodically selects the player with the lowest percent health. After several seconds, the selected player casts chain Nature, damaging nearby players for{[Type_StatusEffectData.Mut_Nat_Curse3_Minor_Damage.HealthModifierPercent * -100]}% of their max health. (This effect cannot be cleansed by player abilities)</string>
+	<string key="Mut_Ice_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Periodically selects the player with the lowest percent health. After several seconds, the selected player casts chain Ice, damaging nearby players for {[Type_StatusEffectData.Mut_Ice_Curse3_Minor_Damage.HealthModifierPercent * -100]}% of their max health. (This effect cannot be cleansed by player abilities)</string>
+	<string key="Mut_Nat_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Periodically selects the player with the lowest percent health. After several seconds, the selected player casts chain Nature, damaging nearby players for {[Type_StatusEffectData.Mut_Nat_Curse3_Minor_Damage.HealthModifierPercent * -100]}% of their max health. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Voi_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Periodically selects the player with the lowest percent health. After several seconds, the selected player casts chain Void, damaging nearby players {[Type_StatusEffectData.Mut_Voi_Curse3_Minor_Damage.HealthModifierPercent * -100]}% of their max health. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Fir_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">When selecting the lowest percent health player, all other players are given Shrivelled Weaken, reducing their damage by {[Type_StatusEffectData.Mut_Curse3_Weaken.DMGStandard * -100]}% and healing by {[Type_StatusEffectData.Mut_Curse3_Weaken.HealScalingValueMultiplier * -100]}%. The selected player gains an aura that cleanses Shrivelled Weaken. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Ice_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">When selecting the lowest percent health player, all other players are given Shrivelled Weaken, reducing their damage by {[Type_StatusEffectData.Mut_Curse3_Weaken.DMGStandard * -100]}% and healing by {[Type_StatusEffectData.Mut_Curse3_Weaken.HealScalingValueMultiplier * -100]}%. The selected player gains an aura that cleanses Shrivelled Weaken. (This effect cannot be cleansed by player abilities)</string>
@@ -248,41 +281,53 @@
 	<string key="Mut_Curse1_Fir_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Unstable</string>
 	<string key="Mut_Curse1_Fir_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Upon dodging, players are inflicted by an Fire damage over time effect dealing {[Type_StatusEffectData.Mut_Curse1_Fir_Minor_Damage.HealthModifierPercent * -100]}% of their max HP worth of damage every second for {[Type_StatusEffectData.Mut_Curse1_Fir_Minor_Damage.BaseDuration]}s. Stacks up to {[Type_StatusEffectData.Mut_Curse1_Fir_Minor_Damage.StackMax]} times. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Curse1_Fir_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Overcharged</string>
-	<string key="Mut_Curse1_Fir_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">If Unstable expires with {[Type_StatusEffectData.Mut_Curse1_Fir_Minor_Damage.StackMax]} stacks active, it drops a {[SpellDataTable_Global.Mut_Fir_Curse1_Major.Radius]}m radius zone that lasts for {[SpellDataTable_Global.Mut_Fir_Curse1_Major.Duration / 1000]} seconds. While inside, players take {[Type_StatusEffectData.Mut_Curse1_Fir_Major_Damage_DoT.HealthModifierPercent * -100]}% of their max HP worth of damage every second. Entering the effect will consume all stacks of Unstable, dealing {[Type_StatusEffectData.Mut_Curse1_Fir_Major_Damage_Cleanse.HealthModifierPercent * -100]}% of max HP damage. (This effect cannot be cleansed by player abilities)</string>
+	<string key="Mut_Curse1_Fir_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">If Unstable expires with {[Type_StatusEffectData.Mut_Curse1_Fir_Minor_Damage.StackMax]} stacks active, it drops a {[SpellDataTable_Global.Mut_Fir_Curse1_Major.Radius]}m radius zone that lasts for {[SpellDataTable_Global.Mut_Fir_Curse1_Major.Duration / 1000]} seconds. While inside, players take {[Type_StatusEffectData.Mut_Curse1_Fir_Major_Damage_DoT.HealthModifierPercent * -100]}% of their max HP worth of damage every second. Entering the effect consumes all stacks of Unstable, dealing {[Type_StatusEffectData.Mut_Curse1_Fir_Major_Damage_Cleanse.HealthModifierPercent * -100]}% of max HP damage. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Curse1_Lig_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Unstable</string>
 	<string key="Mut_Curse1_Lig_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Upon dodging, players are inflicted by an Lightning damage over time effect dealing {[Type_StatusEffectData.Mut_Curse1_Lig_Minor_Damage.HealthModifierPercent * -100]}% of their max HP worth of damage every second for {[Type_StatusEffectData.Mut_Curse1_Lig_Minor_Damage.BaseDuration]}s. Stacks up to {[Type_StatusEffectData.Mut_Curse1_Lig_Minor_Damage.StackMax]} times. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Curse1_Lig_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Overcharged</string>
-	<string key="Mut_Curse1_Lig_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">If Unstable expires with {[Type_StatusEffectData.Mut_Curse1_Lig_Minor_Damage.StackMax]} stacks active, it drops a {[SpellDataTable_Global.Mut_Lig_Curse1_Major.Radius]}m radius zone that lasts for {[SpellDataTable_Global.Mut_Lig_Curse1_Major.Duration / 1000]} seconds. While inside, players take {[Type_StatusEffectData.Mut_Curse1_Lig_Major_Damage_DoT.HealthModifierPercent * -100]}% of their max HP worth of damage every second. Entering the effect will consume all stacks of Unstable, dealing {[Type_StatusEffectData.Mut_Curse1_Lig_Major_Damage_Cleanse.HealthModifierPercent * -100]}% of max HP damage. (This effect cannot be cleansed by player abilities)</string>
+	<string key="Mut_Curse1_Lig_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">If Unstable expires with {[Type_StatusEffectData.Mut_Curse1_Lig_Minor_Damage.StackMax]} stacks active, it drops a {[SpellDataTable_Global.Mut_Lig_Curse1_Major.Radius]}m radius zone that lasts for {[SpellDataTable_Global.Mut_Lig_Curse1_Major.Duration / 1000]} seconds. While inside, players take {[Type_StatusEffectData.Mut_Curse1_Lig_Major_Damage_DoT.HealthModifierPercent * -100]}% of their max HP worth of damage every second. Entering the effect consumes all stacks of Unstable, dealing {[Type_StatusEffectData.Mut_Curse1_Lig_Major_Damage_Cleanse.HealthModifierPercent * -100]}% of max HP damage. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Curse1_Voi_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Unstable</string>
 	<string key="Mut_Curse1_Voi_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Upon dodging, players are inflicted by an Void damage over time effect dealing {[Type_StatusEffectData.Mut_Curse1_Voi_Minor_Damage.HealthModifierPercent * -100]}% of their max HP worth of damage every second for {[Type_StatusEffectData.Mut_Curse1_Voi_Minor_Damage.BaseDuration]}s. Stacks up to {[Type_StatusEffectData.Mut_Curse1_Voi_Minor_Damage.StackMax]} times. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Curse1_Voi_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Overcharged</string>
-	<string key="Mut_Curse1_Voi_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">If Unstable expires with {[Type_StatusEffectData.Mut_Curse1_Voi_Minor_Damage.StackMax]} stacks active, it drops a {[SpellDataTable_Global.Mut_Voi_Curse1_Major.Radius]}m radius zone that lasts for {[SpellDataTable_Global.Mut_Voi_Curse1_Major.Duration / 1000]} seconds. While inside, players take {[Type_StatusEffectData.Mut_Curse1_Voi_Major_Damage_DoT.HealthModifierPercent * -100]}% of their max HP worth of damage every second. Entering the effect will consume all stacks of Unstable, dealing {[Type_StatusEffectData.Mut_Curse1_Voi_Major_Damage_Cleanse.HealthModifierPercent * -100]}% of max HP damage. (This effect cannot be cleansed by player abilities)</string>
+	<string key="Mut_Curse1_Voi_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">If Unstable expires with {[Type_StatusEffectData.Mut_Curse1_Voi_Minor_Damage.StackMax]} stacks active, it drops a {[SpellDataTable_Global.Mut_Voi_Curse1_Major.Radius]}m radius zone that lasts for {[SpellDataTable_Global.Mut_Voi_Curse1_Major.Duration / 1000]} seconds. While inside, players take {[Type_StatusEffectData.Mut_Curse1_Voi_Major_Damage_DoT.HealthModifierPercent * -100]}% of their max HP worth of damage every second. Entering the effect consumes all stacks of Unstable, dealing {[Type_StatusEffectData.Mut_Curse1_Voi_Major_Damage_Cleanse.HealthModifierPercent * -100]}% of max HP damage. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Curse1_Nat_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Unstable</string>
 	<string key="Mut_Curse1_Nat_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Upon dodging, players are inflicted by an Nature damage over time effect dealing {[Type_StatusEffectData.Mut_Curse1_Nat_Minor_Damage.HealthModifierPercent * -100]}% of their max HP worth of damage every second for {[Type_StatusEffectData.Mut_Curse1_Nat_Minor_Damage.BaseDuration]}s. Stacks up to {[Type_StatusEffectData.Mut_Curse1_Nat_Minor_Damage.StackMax]} times. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Curse1_Nat_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Overcharged</string>
-	<string key="Mut_Curse1_Nat_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">If Unstable expires with {[Type_StatusEffectData.Mut_Curse1_Nat_Minor_Damage.StackMax]} stacks active, it drops a {[SpellDataTable_Global.Mut_Nat_Curse1_Major.Radius]}m radius zone that lasts for {[SpellDataTable_Global.Mut_Nat_Curse1_Major.Duration / 1000]} seconds. While inside, players take {[Type_StatusEffectData.Mut_Curse1_Nat_Major_Damage_DoT.HealthModifierPercent * -100]}% of their max HP worth of damage every second. Entering the effect will consume all stacks of Unstable, dealing {[Type_StatusEffectData.Mut_Curse1_Nat_Major_Damage_Cleanse.HealthModifierPercent * -100]}% of max HP damage. (This effect cannot be cleansed by player abilities)</string>
+	<string key="Mut_Curse1_Nat_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">If Unstable expires with {[Type_StatusEffectData.Mut_Curse1_Nat_Minor_Damage.StackMax]} stacks active, it drops a {[SpellDataTable_Global.Mut_Nat_Curse1_Major.Radius]}m radius zone that lasts for {[SpellDataTable_Global.Mut_Nat_Curse1_Major.Duration / 1000]} seconds. While inside, players take {[Type_StatusEffectData.Mut_Curse1_Nat_Major_Damage_DoT.HealthModifierPercent * -100]}% of their max HP worth of damage every second. Entering the effect consumes all stacks of Unstable, dealing {[Type_StatusEffectData.Mut_Curse1_Nat_Major_Damage_Cleanse.HealthModifierPercent * -100]}% of max HP damage. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Curse1_Ice_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Unstable</string>
 	<string key="Mut_Curse1_Ice_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Upon dodging, players are inflicted by an Ice damage over time effect dealing {[Type_StatusEffectData.Mut_Curse1_Ice_Minor_Damage.HealthModifierPercent * -100]}% of their max HP worth of damage every second for {[Type_StatusEffectData.Mut_Curse1_Ice_Minor_Damage.BaseDuration]}s. Stacks up to {[Type_StatusEffectData.Mut_Curse1_Ice_Minor_Damage.StackMax]} times. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Curse1_Ice_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Overcharged</string>
-	<string key="Mut_Curse1_Ice_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">If Unstable expires with {[Type_StatusEffectData.Mut_Curse1_Ice_Minor_Damage.StackMax]} stacks active, it drops a {[SpellDataTable_Global.Mut_Ice_Curse1_Major.Radius]}m radius zone that lasts for {[SpellDataTable_Global.Mut_Ice_Curse1_Major.Duration / 1000]} seconds. While inside, players take {[Type_StatusEffectData.Mut_Curse1_Ice_Major_Damage_DoT.HealthModifierPercent * -100]}% of their max HP worth of damage every second. Entering the effect will consume all stacks of Unstable, dealing {[Type_StatusEffectData.Mut_Curse1_Ice_Major_Damage_Cleanse.HealthModifierPercent * -100]}% of max HP damage. (This effect cannot be cleansed by player abilities)</string>
+	<string key="Mut_Curse1_Ice_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">If Unstable expires with {[Type_StatusEffectData.Mut_Curse1_Ice_Minor_Damage.StackMax]} stacks active, it drops a {[SpellDataTable_Global.Mut_Ice_Curse1_Major.Radius]}m radius zone that lasts for {[SpellDataTable_Global.Mut_Ice_Curse1_Major.Duration / 1000]} seconds. While inside, players take {[Type_StatusEffectData.Mut_Curse1_Ice_Major_Damage_DoT.HealthModifierPercent * -100]}% of their max HP worth of damage every second. Entering the effect consumes all stacks of Unstable, dealing {[Type_StatusEffectData.Mut_Curse1_Ice_Major_Damage_Cleanse.HealthModifierPercent * -100]}% of max HP damage. (This effect cannot be cleansed by player abilities)</string>
 	<string key="ui_dungeon_mutator_highest_rank_tooltip" rel_version="Feature_Dungeon_Mutators">The highest rank you achieved on this difficulty: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{rank}&lt;/font&gt;</string>
 	<string key="ui_dungeon_survive_for">Survive for</string>
 	<string key="ui_dungeon_possible_rewards_header" rel_version="Feature_Dungeon_Mutators">Possible Rewards</string>
 	<string key="ui_dungeon_no_possible_rewards" rel_version="Feature_Dungeon_Mutators">No Possible Rewards</string>
 	<string key="ui_dungeon_orb_explanation" rel_version="Feature_Dungeon_Mutators">A one time reward. Mutated Expedition Tuning Orbs are also available through the Faction Shop.</string>
 	<string key="ui_dungeon_gearscore_recommendation_tooltip" rel_version="Feature_Dungeon_Mutators">
-	&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Recommended Gear Score&lt;/font&gt;\n\nCombat calculations are affected by the difference between your average Gear Score and the Recommended Gear Score.\n\n&lt;font color="#ff9393"&gt;Lower&lt;/font&gt; than the Recommended Minimum Gear Score will result in &lt;font color="#ffffff"&gt;doing less damage&lt;/font&gt;, and &lt;font color="#ffffff"&gt;taking more damage&lt;/font&gt; from enemies in the Expedition.</string>
+	&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Recommended Gear Score&lt;/font&gt;\n\nCombat calculations are affected by the difference between your average Gear Score and the Recommended Gear Score.\n\n&lt;font color="#ff9393"&gt;Lower&lt;/font&gt; than the Recommended Minimum Gear Score results in &lt;font color="#ffffff"&gt;doing less damage&lt;/font&gt;, and &lt;font color="#ffffff"&gt;taking more damage&lt;/font&gt; from enemies in the Expedition.</string>
+	<string key="ui_dungeon_gearscore_recommendation_tooltip_raidtrial" rel_version="Feature_Dungeon_Mutators">
+	&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Recommended Gear Score&lt;/font&gt;\n\nCombat calculations are affected by the difference between your average Gear Score and the Recommended Gear Score.\n\n&lt;font color="#ff9393"&gt;Lower&lt;/font&gt; than the Recommended Minimum Gear Score results in &lt;font color="#ffffff"&gt;doing less damage&lt;/font&gt;, and &lt;font color="#ffffff"&gt;taking more damage&lt;/font&gt; from enemies in the Elite Trial.</string>
 	<string key="ui_dungeon_gearscore_underlevel_warning" rel_version="Feature_Dungeon_Mutators">&lt;font color={color} face="lyshineui/fonts/Nimbus_Bold.font"&gt;WARNING:&lt;/font&gt; Your Average Gear Score is too low to perform well in this Expedition.</string>
+	<string key="ui_dungeon_gearscore_underlevel_warning_raidtrial" rel_version="Feature_Dungeon_Mutators">&lt;font color={color} face="lyshineui/fonts/Nimbus_Bold.font"&gt;WARNING:&lt;/font&gt; Your Average Gear Score is too low to perform well in this Elite Trial.</string>
 	<string key="ui_dungeon_mutator_max_warning" rel_version="Feature_Dungeon_Mutators">You have reached the weekly limit to enter Mutated Expeditions. &lt;font color="#ffffff"&gt;({amount} per week)&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutator_max_warning_raidtrial" rel_version="Feature_Dungeon_Mutators">You have reached the weekly limit to enter Mutated Elite Trials. &lt;font color="#ffffff"&gt;({amount} per week)&lt;/font&gt;</string>
 	<string key="ui_dungeon_max_warning">You have reached the daily limit to enter Regular Expeditions. &lt;font color="#ffffff"&gt;({amount} per day)&lt;/font&gt;</string>
+	<string key="ui_dungeon_max_warning_raidtrial">You have reached the daily limit to enter Regular Elite Trials. &lt;font color="#ffffff"&gt;({amount} per day)&lt;/font&gt;</string>
 	<string key="ui_dungeon_limit_refresh_enter">Can Enter {date}</string>
 	<string key="ui_dungeon_limit_refresh_open">Can Open {date}</string>
 	<string key="ui_dungeon_characters_at_limit_title">Can't Open Expedition</string>
+	<string key="ui_dungeon_characters_at_limit_title_raidtrial">Can't Open Elite Trial</string>
 	<string key="ui_dungeon_characters_at_limit_desc_regular">The following group member(s) have reached their daily Regular Expedition limit and cannot enter this expedition.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can open {date})&lt;/font&gt;</string>
+	<string key="ui_dungeon_characters_at_limit_desc_regular_raidtrial">The following group member(s) have reached their daily Regular Elite Trial limit and cannot enter this elite trial.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can open {date})&lt;/font&gt;</string>
 	<string key="ui_dungeon_characters_at_limit_desc_mutated" rel_version="Feature_Dungeon_Mutators">The following group member(s) have reached their weekly Mutated Expedition limit and cannot enter this expedition.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can open {date})&lt;/font&gt;</string>
+	<string key="ui_dungeon_characters_at_limit_desc_mutated_raidtrial" rel_version="Feature_Dungeon_Mutators">The following group member(s) have reached their weekly Mutated Elite Trial limit and cannot enter this Elite Trial.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can open {date})&lt;/font&gt;</string>
 	<string key="ui_dungeon_enter_warning_mutated" rel_version="Feature_Dungeon_Mutators">You have entered {amount} Mutated Expeditions so far this week. The limit is {max} per week.</string>
+	<string key="ui_dungeon_enter_warning_mutated_raidtrial" rel_version="Feature_Dungeon_Mutators">You have entered {amount} Mutated Elite Trials so far this week. The limit is {max} per week.</string>
 	<string key="ui_dungeon_enter_warning_regular">You have entered {amount} Regular Expeditions today. The limit is {max} per day.</string>
+	<string key="ui_dungeon_enter_warning_regular_raidtrial">You have entered {amount} Regular Elite Trials today. The limit is {max} per day.</string>
 	<string key="ui_dungeon_enter_warning_notification_regular">You are almost at the daily limit for Regular Expeditions. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} remaining)</string>
+	<string key="ui_dungeon_enter_warning_notification_regular_raidtrial">You are almost at the daily limit for Regular Elite Trials. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} remaining)</string>
 	<string key="ui_dungeon_enter_warning_notification_mutated" rel_version="Feature_Dungeon_Mutators">You are almost at the weekly limit for Mutated Expeditions. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} remaining)</string>
+	<string key="ui_dungeon_enter_warning_notification_mutated_raidtrial" rel_version="Feature_Dungeon_Mutators">You are almost at the weekly limit for Mutated Elite Trials. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} remaining)</string>
 </resources>
 

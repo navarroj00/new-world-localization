@@ -180,7 +180,7 @@
 	<string key="1010_0102_eternal_mixes_complete_availaible_response_next" speaker="Cook Swampy – Cutlass Keys" name="CookSwampy" gender="m" VO="Barkeep_1010_0102_eternal_mixes_complete_availaible_response_next" VO_Status="Recorded" dialogue-prompt="@1010_0102_eternal_mixes_complete_availaible_response_prompt">I'd love to cook up a feast, but we're lacking supplies.\n\nI know Shillie's looked into our supply issues in the past.\n\nWith all the pirates around these parts, it isn't surprising when things go missing.</string>
 	<string key="1030_0201_d_01_have_item" speaker="UI – Tracker Text">Collect {itemName} from Sierra Wildcat</string>
 	<string key="1030_0201_animalinstincts_title" speaker="UI - Quest Title">Animal Instincts</string>
-	<string key="1030_0201_animalinstincts_description" speaker="UI – Quest Description">Gather samples from wildcats and alligators and bring them to Tosch in Cutlass Keyes so he can study how to tame them.</string>
+	<string key="1030_0201_animalinstincts_description" speaker="UI – Quest Description">Gather samples from wildcats and alligators and bring them to Tosch in Cutlass Keys so he can study how to tame them.</string>
 	<string key="1030_0201_animalinstincts_start_prompt" speaker="UI – Player Prompt">"How do you propose to do that?"</string>
 	<string key="1030_0201_animalinstincts_proposal" speaker="Tosch the Tamer – Cutlass Keys" name="TamerTosch" gender="m" VO="1030_0201_animalinstincts_proposal" VO_Status="Recorded" dialogue-next="@1030_0201_animalinstincts_proposal_next">I have a way with animals. I can feel what they feel, know what they know. I can get into their heads and see the world through their eyes. \n\nBut sometimes I need more. I need parts of the animals to understand them.</string>
 	<string key="1030_0201_animalinstincts_proposal_prompt" speaker="UI – Player Prompt">"I think I see where this is going."</string>
@@ -225,7 +225,7 @@
 	<string key="1030_0204_tamingthelionhearted_complete_next" speaker="Tosch the Tamer – Cutlass Keys" name="TamerTosch" gender="m" VO="1030_0204_tamingthelionhearted_complete_next" VO_Status="Recorded" dialogue-prompt="@1030_0204_tamingthelionhearted_complete_prompt">No! To use these would be wrong. They are tainted by Corruption. \n\nGiven enough time, I think I could design something better.</string>
 	<string key="1030_0205_d_01_gotoPOI" speaker="UI – Tracker Text">Travel to {POITags} to find boar bristles</string>
 	<string key="1030_0205_perfectcompanion_title" speaker="UI - Quest Title">Perfect Companion</string>
-	<string key="1030_0205_perfectcompanion_description" speaker="UI – Quest Description">Gather boar bristles and bring them to Tosch in Cutlass Keyes so that he may tame the ultimate pet!</string>
+	<string key="1030_0205_perfectcompanion_description" speaker="UI – Quest Description">Gather boar bristles and bring them to Tosch in Cutlass Keys so that he may tame the ultimate pet!</string>
 	<string key="1030_0205_perfectcompanion_start_prompt" speaker="UI – Player Prompt">"What's that?"</string>
 	<string key="1030_0205_perfectcompanion_proposal" speaker="Tosch the Tamer – Cutlass Keys" name="TamerTosch" gender="m" VO="1030_0205_perfectcompanion_proposal" VO_Status="Recorded" dialogue-next="@1030_0205_perfectcompanion_proposal_next">Find the perfect pet! I have a list here of all the traits I'm looking for. Sturdy, beautiful pelt, keeps my feet warm at night, eats anything, delicious when cooked just in case it goes feral and things don't work out…</string>
 	<string key="1030_0205_perfectcompanion_proposal_prompt" speaker="UI – Player Prompt">"I don't need to hear the whole list."</string>
@@ -394,92 +394,6 @@
 	<string key="1035_0201_cookiecrumbles_complete" speaker="Chef Decima Opimius – Cutlass Keys" name="DecimaOpimius" gender="f" VO="1035_0201_cookiecrumbles_complete" VO_Status="Recorded" dialogue-next="@1035_0201_cookiecrumbles_complete_next">Just look at those ingredients! I forgot the delicate sweetness of those honey soaked figs! \n\nAh, I can taste victory already!</string>
 	<string key="1035_0201_cookiecrumbles_complete_response" speaker="UI – Player Prompt">"They certainly smell delicious."</string>
 	<string key="1035_0201_cookiecrumbles_complete_next" speaker="Chef Decima Opimius – Cutlass Keys" name="DecimaOpimius" gender="f" VO="1035_0201_cookiecrumbles_complete_next" VO_Status="Recorded" dialogue-prompt="@1035_0201_cookiecrumbles_complete_response">That they do. With this recipe as a base, I shall create so many delicious dishes. \n\nAnd the memory of Junia's fine baking skills will live on. Thank you for your aid!</string>
-	<string key="1002_0104_Shrouded_Intent_Gear_objective_title" speaker="UI - Quest Title">Shrouded Intent</string>
-	<string key="1002_0104_Shrouded_Intent_Gear_objective_desc" speaker="UI – Quest Description">Recover the patterns and components needed to craft the Shrouded Intent Armor. Talk to Quartermaster Duffy in Cutlass Keys when the task is complete.</string>
-	<string key="1002_0104_Shrouded_Intent_Gear_start_prompt" speaker="UI – Player Prompt">"What is it?"</string>
-	<string key="1002_0104_Shrouded_Intent_Gear_proposal" speaker="Quartermaster Duffy – Cutlass Keys" name="QuartermasterDuffy" gender="f" VO="Magistrate_1002_0104_Shrouded_Intent_Gear_ProposalResponse" VO_Status="Recorded" dialogue-next="@1002_0104_Shrouded_Intent_Gear_proposal_next">When the first pirate crew arrived on Aeternum's shore, the captain created a formidable set of armor to protect them from the horrors they discovered here. \n\nArmor like that is sure to defend against more than just the Wormsworn pirates and their ilk.</string>
-	<string key="1002_0104_Shrouded_Intent_Gear_proposal_prompt" speaker="UI – Player Prompt">"Where's it now?"</string>
-	<string key="1002_0104_Shrouded_Intent_Gear_proposal_next" speaker="Quartermaster Duffy – Cutlass Keys" name="QuartermasterDuffy" gender="f" VO="Magistrate_1002_0104_Shrouded_Intent_Gear_CompleteNext" VO_Status="Recorded" dialogue-next="@1002_0104_Shrouded_Intent_Gear_proposal_next2" dialogue-prompt="@1002_0104_Shrouded_Intent_Gear_proposal_prompt">Ah, that's what makes this a legend. No one knows the location of the original set of armor. \n\nIt's said the captain gifted each piece to members of their crew. But the patterns the captain used to make it remain.</string>
-	<string key="1002_0104_Shrouded_Intent_Gear_proposal_prompt2" speaker="UI – Player Prompt">"What's the armor called?"</string>
-	<string key="1002_0104_Shrouded_Intent_Gear_proposal_next2" speaker="Quartermaster Duffy – Cutlass Keys" name="QuartermasterDuffy" gender="f" VO="Magistrate_1002_0104_Shrouded_Intent_Gear_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@1002_0104_Shrouded_Intent_Gear_proposal_prompt2">Shrouded Intent. There's a lot of speculation behind that name.  Personally, I think it was because that old captain wasn't entirely honest. \n\nHere, take this pattern and see if you can find what it takes to craft the armor.</string>
-	<string key="1002_0104_Shrouded_Intent_Gear_incomplete" speaker="Quartermaster Duffy – Cutlass Keys" gender="f">Keep your eyes peeled. What you need to craft the Shrouded Intent armor is well hidden. \n\nEspecially since the materials required are scattered across Aeternum.</string>
-	<string key="1002_0104_Shrouded_Intent_Gear_complete_available_response" speaker="Quartermaster Duffy – Cutlass Keys" name="QuartermasterDuffy" gender="f" VO="Magistrate_1002_0104_Shrouded_Intent_Gear_AvailResponse" VO_Status="Recorded" dialogue-next="@1002_0104_Shrouded_Intent_Gear_complete_available_response_next">Is that…? Well I'll be. To see it remade… I never thought I'd be around when it happened. \n\nIt suits you. Though, are you sure you won't part with it? It would make a fine addition to my collection…</string>
-	<string key="1002_0104_Shrouded_Intent_Gear_complete_available_response_prompt" speaker="UI – Player Prompt">"For how much?"</string>
-	<string key="1002_0104_Shrouded_Intent_Gear_complete_available_response_next" speaker="Quartermaster Duffy – Cutlass Keys" name="QuartermasterDuffy" gender="f" VO="Magistrate_1002_0104_Shrouded_Intent_Gear_CompleteNext3" VO_Status="Recorded" dialogue-prompt="@1002_0104_Shrouded_Intent_Gear_complete_available_response_prompt">Heh, just kidding! It's worth more than I could pay. \n\nI know you'll put Shrouded Intent to better use than I ever could.</string>
-	<string key="1002_0104_01_container_Shrouded_Intent_questComplete_1" speaker="UI – Tracker Text">Complete Quest: Obscured Footsteps</string>
-	<string key="1002_0104_02_container_Shrouded_Intent_questComplete_2" speaker="UI – Tracker Text">Complete Quest: Cloaked in Darkness</string>
-	<string key="1002_0104_03_container_Shrouded_Intent_questComplete_3" speaker="UI – Tracker Text">Complete Quest: Shrouded in Twilight</string>
-	<string key="1002_0104_04_container_Shrouded_Intent_questComplete_4" speaker="UI – Tracker Text">Complete Quest: Grasping at Shadows</string>
-	<string key="1002_0104_05_container_Shrouded_Intent_questComplete_5" speaker="UI – Tracker Text">Complete Quest: Shaded by Night</string>
-	<string key="1002_0104_01_Boots_objective_title" speaker="UI - Quest Title">Obscured Footsteps</string>
-	<string key="1002_0104_01_Boots_objective_desc" speaker="UI – Quest Description">Collect Soaked Pullpatch Leather from Pullpatch Cover, Muffled Fen Padding from Karburg, and Essence of Shadow from Cutthroat Cavern. Then visit a Tier 3 Outfitting Station to craft the Shrouded Intent Boots.</string>
-	<string key="1002_0104_01_Boots_task_01" speaker="Should not display">Handed the recipe.</string>
-	<string key="1002_0104_01_Boots_task_02" comment="Pullpatch Cover" speaker="UI – Tracker Text">Travel to {POITags} in Cutlass Keys to collect Soaked Pullpatch Leather</string>
-	<string key="1002_0104_01_Boots_task_04" comment="Karburg" speaker="UI – Tracker Text">Travel to {POITags} in Weaver's Fen to collect Muffled Fen Padding</string>
-	<string key="1002_0104_01_Boots_task_06" comment="Cutthroat Cavern" speaker="UI – Tracker Text">Travel to {POITags} in Restless Shore to collect Essence of Shadow</string>
-	<string key="1002_0104_01_Boots_task_08" speaker="UI – Tracker Text">Visit an Outfitting Station</string>
-	<string key="1002_0104_01_Boots_task_09" speaker="UI – Tracker Text">Craft the {itemName}</string>
-	<string key="1002_0104_02_Coat_objective_title" speaker="UI - Quest Title">Cloaked in Darkness</string>
-	<string key="1002_0104_02_Coat_objective_desc" speaker="UI – Quest Description">Collect Stormsail Scraps from Ravaged Wreck, Blightbane Pitch from Minnow's Revenge, and Hunter's Shark Clasps from The Plundering Shark. Then visit a Tier 3 Outfitting Station to craft the Shrouded Intent Coat.</string>
-	<string key="1002_0104_02_Coat_task_01" speaker="Should not display">Handed the recipe.</string>
-	<string key="1002_0104_02_Coat_task_02" comment="Ravaged Wreck" speaker="UI – Tracker Text">Travel to {POITags} in Restless Shore to collect Stormsail Scraps</string>
-	<string key="1002_0104_02_Coat_task_04" comment="Minnow's Revenge" speaker="UI – Tracker Text">Travel to {POITags} in Restless Shore to collect Blightbane Pitch</string>
-	<string key="1002_0104_02_Coat_task_06" comment="The Plundering Shark" speaker="UI – Tracker Text">Travel to {POITags} in Restless Shore to collect Hunter's Shark Clasps</string>
-	<string key="1002_0104_02_Coat_task_08" speaker="UI – Tracker Text">Visit an Outfitting Station</string>
-	<string key="1002_0104_02_Coat_task_09" speaker="UI – Tracker Text">Craft the {itemName}</string>
-	<string key="1002_0104_03_Pants_objective_title" speaker="UI - Quest Title">Shrouded in Twilight</string>
-	<string key="1002_0104_03_Pants_objective_desc" speaker="UI – Quest Description">Collect Murkmoss Extract from Fornax, Castaway Rigging from the Castaway Shores, and Nightstone Slivers from Haedus. Then visit a Tier 3 Outfitting Station to craft the Shrouded Intent Pants.</string>
-	<string key="1002_0104_03_Pants_task_01" speaker="Should not display">Handed the recipe.</string>
-	<string key="1002_0104_03_Pants_task_02" comment="Fornax" speaker="UI – Tracker Text">Travel to {POITags} in Restless Shore to collect Murkmoss Extract</string>
-	<string key="1002_0104_03_Pants_task_04" comment="Castaway Shores" speaker="UI – Tracker Text">Travel to the {POITags} in Mourningdale to collect Castaway Rigging</string>
-	<string key="1002_0104_03_Pants_task_06" comment="Haedus" speaker="UI – Tracker Text">Travel to {POITags} in Mourningdale to collect Nightstone Slivers</string>
-	<string key="1002_0104_03_Pants_task_08" speaker="UI – Tracker Text">Visit an Outfitting Station</string>
-	<string key="1002_0104_03_Pants_task_09" speaker="UI – Tracker Text">Craft the {itemName}</string>
-	<string key="1002_0104_04_Gloves_objective_title" speaker="UI - Quest Title">Grasping at Shadows</string>
-	<string key="1002_0104_04_Gloves_objective_desc" speaker="UI – Quest Description">Collect Layered Guardian Leather from Subra, Siphoned Twilight from Litheltop, and Duskfall Dye from High-Pass Mountain. Then visit a Tier 3 Outfitting Station to craft the Shrouded Intent Gloves.</string>
-	<string key="1002_0104_04_Gloves_task_01" speaker="Should not display">Handed the recipe.</string>
-	<string key="1002_0104_04_Gloves_task_02" comment="Subra" speaker="UI – Tracker Text">Travel to {POITags} in Mourningdale to collect Layered Guardian Leather</string>
-	<string key="1002_0104_04_Gloves_task_04" comment="Litheltop" speaker="UI – Tracker Text">Travel to {POITags} in Edengrove to collect Siphoned Twilight</string>
-	<string key="1002_0104_04_Gloves_task_06" comment="High-Pass Mountain" speaker="UI – Tracker Text">Travel to the {POITags} in Mourningdale to collect Duskfall Dye</string>
-	<string key="1002_0104_04_Gloves_task_08" speaker="UI – Tracker Text">Visit an Outfitting Station</string>
-	<string key="1002_0104_04_Gloves_task_09" speaker="UI – Tracker Text">Craft the {itemName}</string>
-	<string key="1002_0104_05_Hat_objective_title" speaker="UI - Quest Title">Shaded by Night</string>
-	<string key="1002_0104_05_Hat_objective_desc" speaker="UI – Quest Description">Collect Infused Orichalcum Thread from Lower Slag Mine, Smudged Feathers from the Genesis of Spite, and Umbral Cloth from Bramblecliff. Then visit a Tier 3 Outfitting Station to craft the Shrouded Intent Hat.</string>
-	<string key="1002_0104_05_Hat_task_01" speaker="Should not display">Handed the recipe.</string>
-	<string key="1002_0104_05_Hat_task_02" comment="Lower Slag Mine" speaker="UI – Tracker Text">Travel to {POITags} in Edengrove to collect Infused Orichalcum Thread</string>
-	<string key="1002_0104_05_Hat_task_04" comment="Genesis of Spite" speaker="UI – Tracker Text">Travel to {POITags} in Edengrove to collect Smudged Feathers</string>
-	<string key="1002_0104_05_Hat_task_06" comment="Bramblecliff" speaker="UI – Tracker Text">Travel to {POITags} in Edengrove to collect Umbral Cloth</string>
-	<string key="1002_0104_05_Hat_task_08" speaker="UI – Tracker Text">Visit an Outfitting Station</string>
-	<string key="1002_0104_05_Hat_task_09" speaker="UI – Tracker Text">Craft the {itemName}</string>
-	<string key="1004_0103_Weapon_Keen_Temper_objective_title" speaker="UI - Quest Title">Keen Temper</string>
-	<string key="1004_0103_Weapon_Keen_Temper_objective_desc" speaker="UI – Quest Description">Acquire Hilt Leather from Cutthroat Cavern, Grindstone from The Hollowing, Quenching Oil from Foulroot, and Blade of l'Olonnois from the Broken Promise to craft the legendary sword, "Keen Temper." Talk to Captain Lucian in the Cutlass Keys Settlement when the task is complete.</string>
-	<string key="1004_0103_Weapon_Keen_Temper_start_prompt" speaker="UI – Player Prompt">"Yes. I appreciate the offer."</string>
-	<string key="1004_0103_Weapon_Keen_Temper_proposal" speaker="Captain Lucian – Cutlass Keys" gender="f" VO="Overseer_1004_0103_Weapon_Keen_Temper_ProposalResponse" VO_Status="Recorded">Excellent! I call it "Keen Temper," and I'd be pleased just to see the blade put to the test.\n\nIf you can gather all the elements needed for it, I think it'll make you a warrior without equal. Good luck!</string>
-	<string key="1004_0103_Weapon_Keen_Temper_incomplete" speaker="Captain Lucian – Cutlass Keys" gender="f">Still questing for the materials to forge "Keen Temper"?\n\nFirst time you swing the sword, it'll all be worth it. I promise.</string>
-	<string key="1004_0103_Weapon_Keen_Temper_complete_available_response" speaker="Captain Lucian – Cutlass Keys" gender="f" VO="Overseer_1004_0103_Weapon_Keen_Temper_AvailResponse" VO_Status="Recorded">That's the swagger of a true swashbuckler, I see! You got everything you needed for the blade, didn't you?\n\nAnd now you'll be wielding the sharpest sword this island's ever seen. "Keen Temper," indeed! You take care of that weapon, you hear?</string>
-	<string key="1004_0103_HiltLeather_Quest_objective_title" speaker="UI - Quest Title">Collect items used to craft Keen Temper</string>
-	<string key="1004_0103_Grindstone_Quest_objective_title" speaker="UI - Quest Title">Collect items used to craft Keen Temper</string>
-	<string key="1004_0103_QuenchingOil_Quest_objective_title" speaker="UI - Quest Title">Collect items used to craft Keen Temper</string>
-	<string key="1004_0103_CaptainsBlade_Quest_objective_title" speaker="UI - Quest Title">Collect items then craft Keen Temper</string>
-	<string key="1004_0103_HiltLeather_Quest_objective_desc" speaker="UI – Quest Description">A fine leather grip is the steadiest, and most natural in hand.</string>
-	<string key="1004_0103_Grindstone_Quest_objective_desc" speaker="UI – Quest Description">An edge sharpened on a grindstone is an art in and of itself.</string>
-	<string key="1004_0103_QuenchingOil_Quest_objective_desc" speaker="UI – Quest Description">Collect oil to quench the beast, for water would bubble the blade.</string>
-	<string key="1004_0103_CaptainsBlade_Quest_objective_desc" speaker="UI – Quest Description">A well-made blade is a Captain's best friend, regardless of their morals.</string>
-	<string key="1004_0103_HiltLeather_Quest_task_01" comment="Cutthroat Cavern" speaker="UI – Tracker Text">Travel to {POITags} in Restless Shore to collect Hilt Leather</string>
-	<string key="1004_0103_HiltLeather_Quest_task_02" comment="Hilt Leather" speaker="UI – Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="1004_0103_Grindstone_Quest_task_01" comment="The Hollowing" speaker="UI – Tracker Text">Travel to {POITags} in Great Cleave to collect Grindstone</string>
-	<string key="1004_0103_Grindstone_Quest_task_02" comment="Grindstone" speaker="UI – Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="1004_0103_QuenchingOil_Quest_task_01" comment="Foulroot" speaker="UI – Tracker Text">Travel to {POITags} in Mourningdale to collect Quenching Oil</string>
-	<string key="1004_0103_QuenchingOil_Quest_task_02" comment="Quenching Oil" speaker="UI – Tracker Text">Collect {itemName} from {targetName} enemies and Chests</string>
-	<string key="1004_0103_CaptainsBlade_Quest_task_01" comment="Broken Promise" speaker="UI – Tracker Text">Travel to {POITags} in Mourningdale to collect the Blade of l'Olonnois</string>
-	<string key="1004_0103_CaptainsBlade_Quest_task_02" comment="Blade of l'Olonnois" speaker="UI – Tracker Text">Collect {itemName} from {targetName}</string>
-	<string key="1004_0103_Combine_Quest_task_03" speaker="Should not display">Handed the recipe.</string>
-	<string key="1004_0103_Combine_Quest_task_04" speaker="UI – Tracker Text">Visit a Forge</string>
-	<string key="1004_0103_Combine_Quest_task_05" speaker="UI – Tracker Text">Create the {itemName}</string>
-	<string key="1004_0103_01_container_Weapon_Keen_Temper_questComplete_1" speaker="UI – Tracker Text">Complete Quest: A Steady Grip</string>
-	<string key="1004_0103_02_container_Weapon_Keen_Temper_questComplete_2" speaker="UI – Tracker Text">Complete Quest: Sharpening the Edge</string>
-	<string key="1004_0103_03_container_Weapon_Keen_Temper_questComplete_3" speaker="UI – Tracker Text">Complete Quest: Quenching the Beast</string>
-	<string key="1004_0103_04_container_Weapon_Keen_Temper_questComplete_4" speaker="UI – Tracker Text">Complete Quest: A Trusty Blade</string>
 	<string key="1036_0101_AdmiralBlackpowder_objecitve_title" speaker="UI - Quest Title" rel_version="Expedition_CutlassKeys_00">Admiral Blackpowder's Fall (Expedition)</string>
 	<string key="1036_0101_AdmiralBlackpowder_objecitve_description" speaker="UI – Quest Description" rel_version="Expedition_CutlassKeys_00">Enter the Barnacles and Black Powder Expedition. Gather the chronicles of the infamous Admiral Blackpowder, and take him down for Wally Widdershins.</string>
 	<string key="1036_0101_AdmiralBlackpowder_start_prompt" speaker="UI – Player Prompt" rel_version="Expedition_CutlassKeys_00">"'…Sure, I can stay and listen."</string>

@@ -11,12 +11,16 @@
 	<string key="ui_game_mode_disabled">This game mode is currently disabled</string>
 	<string key="ui_dungeon_enter_info">&lt;font color={color}&gt;At least 1 person&lt;/font&gt; must enter to keep the Expedition open. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_solo">&lt;font color={color}&gt;Soul Trial is ready&lt;/font&gt;. Teleport in now?</string>
+	<string key="ui_dungeon_enter_info_raidtrial">&lt;font color={color}&gt;At least 1 person&lt;/font&gt; must enter to keep the Elite Trial open. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_entered">The Expedition is now open!\n&lt;font color={color}&gt;Teleport in now?&lt;/font&gt;</string>
+	<string key="ui_dungeon_enter_info_entered_solo">&lt;font color={color}&gt;Soul Trial is ready&lt;/font&gt;. Teleport in now?</string>
+	<string key="ui_dungeon_enter_info_entered_raidtrial">The Elite Trial is now open!\n&lt;font color={color}&gt;Teleport in now?&lt;/font&gt;</string>
 	<string key="ui_duel_player">Duel Player</string>
 	<string key="ui_duel_failmessage_invalidname">{playerName} is not a valid player name.</string>
 	<string key="ui_duel_failmessage_outofrange">You cannot Duel a player further than {distance} meters.</string>
 	<string key="ui_duel_failmessage_alreadyinduel">You are already in a Duel.</string>
 	<string key="ui_duel_failmessage_in_dungeon">You cannot Duel while in a Expedition.</string>
+	<string key="ui_duel_failmessage_in_dungeon_raidtrial">You cannot Duel while in a Elite Trial.</string>
 	<string key="ui_duel_failmessage_in_other_gamemode">You cannot Duel right now.</string>
 	<string key="ui_duel_failmessage_pendinginvite">You already have a pending Duel invite.</string>
 	<string key="ui_duel_failmessage_deathsdoor">You cannot Duel while at Death's Door.</string>
@@ -85,11 +89,11 @@
 	<string key="ui_outpost_rush_title">Outpost Rush</string>
 	<string key="ui_outpost_rush_invite_status">Accept to join the battle!</string>
 	<string key="ui_outpost_rush_signup_title">OUTPOST RUSH</string>
-	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;Outpost Rush&lt;/font&gt; is a 20v20 match that takes place on a large island with three Outposts.\nTeams compete to capture and hold these Outposts in order to increase their team's score.</string>
-	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;Outpost Rush&lt;/font&gt; is a 20v20 match that takes place on a large island with three Outposts.\nTeams compete to capture and hold these Outposts in order to increase their team's score.\nThis mode has &lt;font color="#ffe940"&gt;Gear Score Scaling&lt;/font&gt;, increasing the gear score of all equipment below 600 gear score to 600.</string>
-	<string key="ui_outpost_rush_signup_goal1">Capture and hold Outposts to increase your team's score</string>
-	<string key="ui_outpost_rush_signup_goal2">The first team to reach a score of 1000 wins</string>
-	<string key="ui_outpost_rush_signup_goal3">Utilize special resources on the island to attack &amp; defend</string>
+	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;Outpost Rush&lt;/font&gt; is a 20v20 match that takes place on a large island with three Outposts that teams compete to capture and hold.</string>
+	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;Outpost Rush&lt;/font&gt; is a 20v20 match that takes place on a large island with three Outposts that teams compete to capture and hold.\nThis mode has &lt;font color="#ffe940"&gt;Gear Score Scaling&lt;/font&gt;, increasing the gear score of all equipment below 600 gear score to 600.</string>
+	<string key="ui_outpost_rush_signup_goal1">Capture and hold Outposts to score</string>
+	<string key="ui_outpost_rush_signup_goal2">The first team to score 1,000 points wins</string>
+	<string key="ui_outpost_rush_signup_goal3">Utilize special resources to attack &amp; defend</string>
 	<string key="ui_outpost_rush_signup_points_number">1,000</string>
 	<string key="ui_outpost_rush_signup_points_text">POINTS</string>
 	<string key="ui_outpost_rush_signup_joinsolo">Play</string>
@@ -98,11 +102,11 @@
 	<string key="ui_outpost_rush_signup_playercount">{playerCount} Players</string>
 	<string key="ui_outpost_rush_signup_failsolo">You are currently in a group and cannot join as a solo player</string>
 	<string key="ui_outpost_rush_signup_failgroup">You are not currently in a group</string>
-	<string key="ui_outpost_rush_signup_failgroupinvite">You currently have an invite to Expedition Lobby</string>
+	<string key="ui_outpost_rush_signup_failgroupinvite">You currently have an invite to an Expedition or Elite Trial Lobby</string>
 	<string key="ui_outpost_rush_signup_faillevel">Player level {levelRequirement} &lt;font color="#f10000"&gt;is required&lt;/font&gt;</string>
 	<string key="ui_outpost_rush_signup_failwar">You cannot sign up because you are already signed up for an upcoming war that starts within the next hour.</string>
 	<string key="ui_outpost_rush_signup_failqueue">You cannot sign up because you are currently signed up for {matchname}</string>
-	<string key="ui_outpost_rush_signup_faildungeon">You cannot sign up because you are currently in queue for an expedition.</string>
+	<string key="ui_outpost_rush_signup_faildungeon">You cannot sign up because you are currently in queue for an expedition or elite trial.</string>
 	<string key="ui_outpost_rush_signup_failevent">You cannot sign up because you are currently in an event.</string>
 	<string key="ui_outpost_rush_signup_failgeneric">You cannot sign up at this time.</string>
 	<string key="ui_outpost_rush_signup_failgrouptitle">Cannot Join</string>
@@ -174,12 +178,15 @@
 	<string key="ui_or_outpost_b">OUTPOST SOL</string>
 	<string key="ui_or_outpost_c">OUTPOST ASTRA</string>
 	<string key="ui_or_kills">KILLS</string>
+	<string key="ui_outpost_rush_storage_message">Only Outpost Rush items can be stored here.</string>
 	<string key="ui_outpost_rush_summoning_circle">Summoning Circle</string>
 	<string key="ui_outpost_rush_summoning_circle_desc">Use a Summoning Stone at this obelisk to add a monstrous ally to your team for a limited time.</string>
 	<string key="ui_outpost_rush_portal">PORTAL</string>
 	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="-3" scale="1.4" yOffset="1"&gt;&lt;/img&gt;</string>
 	<string key="ui_pinning_disabled_while_in_or">Pinning/Unpinning objectives disabled while in Outpost Rush.</string>
 	<string key="ui_pinning_disabled_expeditions">Pinning/Unpinning disabled for Expeditions objectives</string>
+	<string key="ui_pinning_disabled_expeditions_solo">Pinning/Unpinning disabled for Soul Trial objectives</string>
+	<string key="ui_pinning_disabled_expeditions_raidtrial">Pinning/Unpinning disabled for Elite Trial objectives</string>
 	<string key="ui_or_commandpost_buff_on">Structure is granting team buffs</string>
 	<string key="ui_or_commandpost_buff_off">Build to get team buffs</string>
 	<string key="or_azoth_portal">Azoth Portal</string>
@@ -227,6 +234,8 @@
 	<string key="ui_durability_loss_war">You are in a War (or Invasion), your equipment was not damaged upon death.</string>
 	<string key="ui_item_durability_loss">Your equipment took damage upon death.</string>
 	<string key="ui_item_durability_dungeon">You are in an Expedition, your equipment was not damaged upon death.</string>
+	<string key="ui_item_durability_dungeon_solo">You are in a Soul Trial, your equipment was not damaged upon death.</string>
+	<string key="ui_item_durability_dungeon_raidtrial">You are in a Elite Trial, your equipment was not damaged upon death.</string>
 	<string key="ui_item_durability_arena" rel_version="Feature_PVP_Arenas">You are in an Arena, your equipment was not damaged upon death.</string>
 	<string key="ui_item_durability_loss_pvp">You were killed by another player, your equipment took reduced damage.</string>
 	<string key="ui_in_spectators_box">In Spectator's Box</string>
@@ -247,5 +256,7 @@
 	<string key="ui_rounds_won">Rounds Won</string>
 	<string key="ui_see_through_label">See Through Mode</string>
 	<string key="ui_invasion_leave">Leave Invasion</string>
+	<string key="ui_matchmaking_ready_title">Match Ready</string>
+	<string key="ui_matchmaking_ready_text">Your queued &lt;font color={color}&gt;match is ready to play&lt;/font&gt;. Teleport in now?</string>
 </resources>
 

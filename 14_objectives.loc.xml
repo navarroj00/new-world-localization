@@ -401,7 +401,7 @@
 	<string key="1418_0107_RD_task_03_TaskHaveAndReturnItems" speaker="UI">Defeat {targetName} for {itemName}</string>
 	<string key="1418_0108_RD_task_01_TaskGoToPOITag" speaker="UI">Claim Corrupted Shield Lining from High Priest Oseguera at the Mangled Heights</string>
 	<string key="1418_0108_RD_task_02_TaskHaveAndReturnItems" speaker="UI">Defeat {targetName} for {itemName}</string>
-	<string key="1418_0109_RD_task_01_TaskGoToPOITag" speaker="UI">Travel to Opulence and loot Orichalcum Studs from the Corrupted</string>
+	<string key="1418_0109_RD_task_01_TaskGoToPOITag" speaker="UI">Travel to {POITags} and loot Orichalcum Studs from the Corrupted</string>
 	<string key="1418_0109_RD_task_02_TaskHaveAndReturnItems" speaker="UI">Defeat {targetName} for {itemName}</string>
 	<string key="1403A_0301_d_01_Task" speaker="UI">Go to {POITags}</string>
 	<string key="1403A_0301_d_02_Task" speaker="UI">Defeat {targetName}</string>

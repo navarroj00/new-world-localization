@@ -119,17 +119,17 @@
 	<string key="ui_emote_Push_Ups" rel_version="Emote_Pushups">Push Ups</string>
 	<string key="ui_emote_Flex_3">Arm Flex</string>
 	<string key="ui_emote_Golf_Clap">Courteous Applause</string>
-	<string key="ui_emote_sit_description">Sit Emote Description</string>
+	<string key="ui_emote_sit_description">"Take a seat and rest awhile."</string>
 	<string key="ui_emote_flex_description">Flex Emote Description</string>
-	<string key="ui_emote_flex2_description">Flex Emote Description</string>
-	<string key="ui_emote_go_description">Go Emote Description</string>
-	<string key="ui_emote_here_description">Here Emote Description</string>
-	<string key="ui_emote_wave_description">Wave Emote Description</string>
-	<string key="ui_emote_nono_description">Nono Emote Description</string>
-	<string key="ui_emote_cheer_description">Cheer Emote Description</string>
-	<string key="ui_emote_Dice_description">Dice Emote Description</string>
-	<string key="ui_emote_thumbs_description">Thumbs Emote Description</string>
-	<string key="ui_emote_dance1_description">Dance Emote Description</string>
+	<string key="ui_emote_flex2_description">"Doth my imposing stature impress thee?"</string>
+	<string key="ui_emote_go_description">"That way, hurry!"</string>
+	<string key="ui_emote_here_description">"Hey! Over here!"</string>
+	<string key="ui_emote_wave_description">"Hello my adventuring friend!"</string>
+	<string key="ui_emote_nono_description">"No no no. We certainly cannot."</string>
+	<string key="ui_emote_cheer_description">"Huzzah and Hurrah!"</string>
+	<string key="ui_emote_Dice_description">"What will the fickle Goddess of Fortune give me today?"</string>
+	<string key="ui_emote_thumbs_description">"I'm in full support. Let's do it!"</string>
+	<string key="ui_emote_dance1_description">"A flashy jig is a great way to pass the time."</string>
 	<string key="ui_emote_kill_description">"The mark of the brigand."</string>
 	<string key="ui_emote_Watching_description">"Eternal vigilance."</string>
 	<string key="ui_emote_No_description">No Emote Description</string>
@@ -337,6 +337,9 @@
 	<string key="ui_emote_Walk_FrankenMummy_name" rel_version="Emote_Walk_FrankenMummy">Zombie Walk</string>
 	<string key="ui_emote_Walk_FrankenMummy_description" rel_version="Emote_Walk_FrankenMummy">What is a zombie in a land of eternal life? Just take a look at The Lost.</string>
 	<string key="emote_Walk_FrankenMummy" rel_version="Emote_Walk_FrankenMummy">{playerName} lurches forward like an undead creature.</string>
+	<string key="ui_emote_MilitarySalute_name" rel_version="Emote_MilitarySalute">Salute</string>
+	<string key="ui_emote_MilitarySalute_description" rel_version="Emote_MilitarySalute">A formal sign of respect.</string>
+	<string key="emote_MilitarySalute" rel_version="Emote_MilitarySalute">{playerName} salutes.</string>
 	<string key="ui_emote_Pout_name" rel_version="Emote_Pout">Pout</string>
 	<string key="ui_emote_Pout_description" rel_version="Emote_Pout">Things aren't going your way. Show it.</string>
 	<string key="emote_Pout" rel_version="Emote_Pout">{playerName} pouts.</string>
@@ -378,16 +381,36 @@
 	<string key="ui_emote_GleamiteThrow_name" rel_version="Emote_GleamiteThrow">Gleamite Throw</string>
 	<string key="ui_emote_GleamiteThrow_description" rel_version="Emote_GleamiteThrow">Toss glittering gleamites.</string>
 	<string key="emote_GleamiteThrow" rel_version="Emote_GleamiteThrow">{playerName} throws a handful of gleamites.</string>
-	<string key="ui_Emote_HandHeart_name" rel_version="Emote_HandHeart">Heart Hands</string>
-	<string key="ui_Emote_HandHeart_description" rel_version="Emote_HandHeart">Spread the love.</string>
-	<string key="Emote_HandHeart" rel_version="Emote_HandHeart">{playerName} makes a heart with his hands.</string>
-	<string key="Emote_HandHeart_SHE" rel_version="Emote_HandHeart">{playerName} makes a heart with her hands.</string>
-	<string key="Emote_HandHeart_THEY" rel_version="Emote_HandHeart">{playerName} makes a heart with their hands.</string>
+	<string key="ui_emote_FlowerChildDance_name" rel_version="Emote_FlowerChildDance">Flower Child Dance</string>
+	<string key="ui_emote_FlowerChildDance_description" rel_version="Emote_FlowerChildDance">Attune yourself with nature, however corrupted that may be on Aeternum.</string>
+	<string key="emote_FlowerChildDance" rel_version="Emote_FlowerChildDance">{playerName} dances in tune with nature.</string>
+	<string key="ui_emote_FrolicDance_name" rel_version="Emote_FrolicDance">Frolic in the Grass</string>
+	<string key="ui_emote_FrolicDance_description" rel_version="Emote_FrolicDance">Dance your worldly cares away with a heart open to all creation.</string>
+	<string key="emote_FrolicDance" rel_version="Emote_FrolicDance">{playerName} frolics about.</string>
+	<string key="ui_emote_TeaBag_name" rel_version="Emote_TeaBag">Brew Tea</string>
+	<string key="ui_emote_TeaBag_description" rel_version="Emote_TeaBag">Perhaps your defeated opponent would appreciate a cup of tea as a consolation prize?</string>
+	<string key="emote_TeaBag" rel_version="Emote_TeaBag">{playerName} uses a tea bag to brew a cup of tea.</string>
+	<string key="ui_emote_ParticipationTrophy_name" rel_version="Emote_ParticipationTrophy">Participation Trophy</string>
+	<string key="ui_emote_ParticipationTrophy_description" rel_version="Emote_ParticipationTrophy">You gave it your best shot!</string>
+	<string key="emote_ParticipationTrophy" rel_version="Emote_ParticipationTrophy">{playerName} hands out a participation trophy.</string>
+	<string key="ui_emote_RockyCelebration_name" rel_version="Emote_RockyCelebration">Champion's Celebration</string>
+	<string key="ui_emote_RockyCelebration_description" rel_version="Emote_RockyCelebration">You're the champ! The underdog claims the crown!</string>
+	<string key="emote_RockyCelebration" rel_version="Emote_RockyCelebration">{playerName} celebrates like a champion.</string>
+	<string key="ui_emote_BlowFire_name" rel_version="Emote_BlowFire">Blow Fire</string>
+	<string key="ui_emote_BlowFire_description" rel_version="Emote_BlowFire">Wow onlookers with your uncanny mastery of fire.</string>
+	<string key="emote_BlowFire" rel_version="Emote_BlowFire">{playerName} blows fire from his mouth.</string>
+	<string key="emote_BlowFire_SHE" rel_version="Emote_BlowFire">{playerName} blows fire from her mouth.</string>
+	<string key="emote_BlowFire_THEY" rel_version="Emote_BlowFire">{playerName} blows fire from their mouth.</string>
 	<string key="ui_Emote_FishingDance_name" rel_version="Emote_FishingDance">Reel It In</string>
 	<string key="ui_Emote_FishingDance_description" rel_version="Emote_FishingDance">Cast a line and see who you'll catch.</string>
 	<string key="Emote_FishingDance" rel_version="Emote_FishingDance">{playerName} casts a line and reels it in.</string>
 	<string key="ui_Emote_SloshDance_name" rel_version="Emote_SloshDance">The Slosh</string>
 	<string key="ui_Emote_SloshDance_description" rel_version="Emote_SloshDance">Let loose and dance like everyone's watching.</string>
 	<string key="Emote_SloshDance" rel_version="Emote_SloshDance">{playerName} dances a joyful line dance.</string>
+	<string key="ui_Emote_HandHeart_name" rel_version="Emote_HandHeart">Heart Hands</string>
+	<string key="ui_Emote_HandHeart_description" rel_version="Emote_HandHeart">Spread the love.</string>
+	<string key="Emote_HandHeart" rel_version="Emote_HandHeart">{playerName} makes a heart with his hands.</string>
+	<string key="Emote_HandHeart_SHE" rel_version="Emote_HandHeart">{playerName} makes a heart with her hands.</string>
+	<string key="Emote_HandHeart_THEY" rel_version="Emote_HandHeart">{playerName} makes a heart with their hands.</string>
 </resources>
 

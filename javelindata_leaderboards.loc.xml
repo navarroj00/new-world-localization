@@ -52,14 +52,14 @@
 	<string key="ui_leaderboard_display_war_wins" rel_version="Feature_Leaderboards">Wins</string>
 	<string key="ui_leaderboard_display_war_attacker_wins" rel_version="Feature_Leaderboards">Attacker Wins</string>
 	<string key="ui_leaderboard_display_war_defender_wins" rel_version="Feature_Leaderboards">Defender Wins</string>
-	<string key="ui_leaderboard_display_war_kill_death" rel_version="Feature_Leaderboards">Kill Death Ratio</string>
+	<string key="ui_leaderboard_display_war_kill_death" rel_version="Feature_Leaderboards">Kill/Death Ratio</string>
 	<string key="ui_leaderboard_display_outpostrush_heals" rel_version="Feature_Leaderboards">Heals</string>
 	<string key="ui_leaderboard_display_outpostrush_kills" rel_version="Feature_Leaderboards">Player Kills</string>
 	<string key="ui_leaderboard_display_outpostrush_resources" rel_version="Feature_Leaderboards">Resources Contributed</string>
 	<string key="ui_leaderboard_display_outpostrush_score" rel_version="Feature_Leaderboards">Score</string>
 	<string key="ui_leaderboard_display_outpostrush_npc_kills" rel_version="Feature_Leaderboards">NPC Kills</string>
 	<string key="ui_leaderboard_display_outpostrush_wins" rel_version="Feature_Leaderboards">Wins</string>
-	<string key="ui_leaderboard_display_outpostrush_kill_death" rel_version="Feature_Leaderboards">Kill Death Ratio</string>
+	<string key="ui_leaderboard_display_outpostrush_kill_death" rel_version="Feature_Leaderboards">Kill/Death Ratio</string>
 	<string key="ui_leaderboard_display_outpostrush_damage_dealt" rel_version="Feature_Leaderboards">Damage Dealt</string>
 	<string key="ui_leaderboard_display_darkness_score" rel_version="Feature_Leaderboards">Score</string>
 	<string key="ui_leaderboard_display_openworldpvp_influence" rel_version="Feature_Leaderboards">Influence Earned</string>
@@ -71,9 +71,9 @@
 	<string key="ui_leaderboard_display_territory_control_streak" rel_version="Feature_Leaderboards">Governing Streak</string>
 	<string key="ui_leaderboard_display_territory_control_score" rel_version="Feature_Leaderboards">Days Governed</string>
 	<string key="ui_leaderboard_display_pvparena_wins" rel_version="Feature_Leaderboards">Wins</string>
-	<string key="ui_leaderboard_display_pvparena_winlossratio" rel_version="Feature_Leaderboards">Win Loss Ratio</string>
+	<string key="ui_leaderboard_display_pvparena_winlossratio" rel_version="Feature_Leaderboards">Win/Loss Ratio</string>
 	<string key="ui_leaderboard_display_pvparena_kills" rel_version="Feature_Leaderboards">Kills</string>
-	<string key="ui_leaderboard_display_pvparena_killdeathratio" rel_version="Feature_Leaderboards">Kill Death Ratio</string>
+	<string key="ui_leaderboard_display_pvparena_killdeathratio" rel_version="Feature_Leaderboards">Kill/Death Ratio</string>
 	<string key="ui_leaderboard_display_pvparena_score" rel_version="Feature_Leaderboards">Score</string>
 	<string key="ui_leaderboard_display_pvparena_heals" rel_version="Feature_Leaderboards">Heals</string>
 	<string key="ui_leaderboard_display_pvparena_damagedealt" rel_version="Feature_Leaderboards">Damage Dealt</string>
@@ -90,12 +90,12 @@
 	<string key="ui_leaderboard_display_invasion_heals" rel_version="Feature_Leaderboards">Heals</string>
 	<string key="ui_leaderboard_display_invasion_wins" rel_version="Feature_Leaderboards">Wins</string>
 	<string key="ui_leaderboard_display_invasion_kills" rel_version="Feature_Leaderboards">Kills</string>
-	<string key="ui_leaderboard_display_invasion_kill_death" rel_version="Feature_Leaderboards">Kill Death Ratio</string>
+	<string key="ui_leaderboard_display_invasion_kill_death" rel_version="Feature_Leaderboards">Kill/Death Ratio</string>
 	<string key="ui_leaderboard_display_invasion_damage_dealt" rel_version="Feature_Leaderboards">Damage Dealt</string>
-	<string key="ui_leaderboard_character_empty_leaderboard" rel_version="Feature_Leaderboards">You are not currently ranked on this leaderboard</string>
+	<string key="ui_leaderboard_character_empty_leaderboard" rel_version="Feature_Leaderboards">You are not ranked on this leaderboard</string>
 	<string key="ui_leaderboard_faction_no_faction" rel_version="Feature_Leaderboards">Join a faction to participate</string>
 	<string key="ui_leaderboard_faction_no_company" rel_version="Feature_Leaderboards">Join a company to participate</string>
-	<string key="ui_leaderboard_error_nodata" rel_version="Feature_Leaderboards">No data has been tracked</string>
+	<string key="ui_leaderboard_error_nodata" rel_version="Feature_Leaderboards">No data tracked</string>
 	<string key="ui_leaderboard_error_nodata_filter" rel_version="Feature_Leaderboards">This data is not tracked by {filter}</string>
 	<string key="ui_leaderboard_error_norewards" rel_version="Feature_Leaderboards">{type} does not have rewards</string>
 	<string key="ui_leaderboard_error_norewards_this" rel_version="Feature_Leaderboards">This {type} does not have rewards</string>
@@ -107,10 +107,10 @@
 	<string key="ui_leaderboard_not_tracked_character" rel_version="Feature_Leaderboards">This category is not tracked by character</string>
 	<string key="ui_leaderboard_not_tracked_company" rel_version="Feature_Leaderboards">This category is not tracked by company</string>
 	<string key="ui_leaderboard_not_tracked_faction" rel_version="Feature_Leaderboards">This category is not tracked by faction</string>
-	<string key="ui_leaderboard_not_tracked_category_season" rel_version="Feature_Leaderboards">This category is not tracked quarterly</string>
+	<string key="ui_leaderboard_not_tracked_category_season" rel_version="Feature_Leaderboards">This category is not tracked seasonally</string>
 	<string key="ui_leaderboard_not_tracked_category_week" rel_version="Feature_Leaderboards">This category is not tracked weekly</string>
 	<string key="ui_leaderboard_not_tracked_category_month" rel_version="Feature_Leaderboards">This category is not tracked monthly</string>
-	<string key="ui_leaderboard_not_tracked_season" rel_version="Feature_Leaderboards">This stat is not tracked quarterly</string>
+	<string key="ui_leaderboard_not_tracked_season" rel_version="Feature_Leaderboards">This stat is not tracked seasonally</string>
 	<string key="ui_leaderboard_not_tracked_week" rel_version="Feature_Leaderboards">This stat is not tracked weekly</string>
 	<string key="ui_leaderboard_not_tracked_month" rel_version="Feature_Leaderboards">This stat is not tracked monthly</string>
 	<string key="ui_leaderboard_tip_war_score" rel_version="Feature_Leaderboards">Your War Score is the top score you've received in a war.</string>
@@ -146,9 +146,10 @@
 	<string key="ui_leaderboard_display_legendaries" rel_version="Feature_Leaderboards">Legendaries</string>
 	<string key="ui_leaderboard_territory_all" rel_version="Feature_Leaderboards">All Territories</string>
 	<string key="ui_leaderboard_row_rank_morethan" rel_version="Feature_Leaderboards">>{number}</string>
-	<string key="ui_leaderboard_with_gold" rel_version="Feature_Leaderboards">With &lt;img src="lyshineui/images/dungeons/mutator_rank_gold_sm" scale="2.0" xPadding="0" yOffset="5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Gold Rank&lt;/font&gt;</string>
+	<string key="ui_leaderboard_with_gold" rel_version="Feature_Leaderboards">with &lt;img src="lyshineui/images/dungeons/mutator_rank_gold_sm" scale="2.0" xPadding="0" yOffset="5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Gold Rank&lt;/font&gt;</string>
 	<string key="ui_leaderboard_company_deleted" rel_version="Feature_Leaderboards">(Company Deleted)</string>
 	<string key="ui_leaderboard_player_deleted" rel_version="Feature_Leaderboards">(Player Deleted)</string>
 	<string key="ui_leaderboard_rewards_top" rel_version="Feature_Leaderboards">Top {number}</string>
+	<string key="ui_leaderboard_category_expedition_empyrean" rel_version="Expedition_GreatCleave_01">Empyrean Forge</string>
 </resources>
 

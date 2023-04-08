@@ -255,7 +255,7 @@
 	<string key="ui_twohanded_weapons">Two-Handed</string>
 	<string key="ui_ranged_weapons">Ranged</string>
 	<string key="ui_magic_skills">Magic Skills</string>
-	<string key="ui_weaponmastery_description">Weapon skills are advanced by using weapons of that type. Each level grants a point to spend to unlock upgrades specific to that weapon.</string>
+	<string key="ui_weaponmastery_description">Weapon mastery levels are advanced by using weapons of that type. Each level grants a point to spend to unlock an ability unique to that weapon.</string>
 	<string key="ui_weaponmastery_in_progress" comment="this is a temporary message to explain the limited number of weapon mastery trees available">Weapon Mastery trees are still in development. More weapons coming soon.</string>
 	<string key="ui_farmplants">Farm Plants</string>
 	<string key="ui_hemp">Hemp</string>

@@ -112,10 +112,10 @@
 	<string key="ftue_archetypes_skill_sharpshooter">n/a</string>
 	<string key="ftue_archetypes_skill_crafter">n/a</string>
 	<string key="FTUE_DEBRISPILE_DISPLAYNAME">Debris</string>
-	<string key="ftue_createcharacter_title">Confirm creation</string>
-	<string key="ftue_createcharacter_message">You cannot change your name or appearance after this point.\n\nAre you sure?</string>
-	<string key="ftue_quitcreation_title">EXIT</string>
-	<string key="ftue_quitcreation_message">Are you sure you want to leave character creation and exit to the Main Menu?</string>
+	<string key="ftue_createcharacter_title">Create Character</string>
+	<string key="ftue_createcharacter_message">You cannot change your appearance or identity after this point.\n\nAre you sure?</string>
+	<string key="ftue_quitcreation_title">Leave Character</string>
+	<string key="ftue_quitcreation_message">Are you sure you want to abandon this character and exit to the Main Menu?</string>
 	<string key="ftue_returntomainmenu_message">Would you like to exit to the Main Menu?</string>
 	<string key="ftue_loading1">LOADING</string>
 	<string key="ftue_loading2">LOADING</string>

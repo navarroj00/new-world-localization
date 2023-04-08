@@ -1,12 +1,12 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="inv_DroppedItems">Discarded Items</string>
+	<string key="inv_DroppedItems">Dropped Items</string>
 	<string key="inv_Storage">Storage</string>
 	<string key="inv_itemDamaged">{num} item(s) are heavily damaged. You should repair it soon.</string>
 	<string key="inv_itemBroken">{num} item(s) have been broken</string>
 	<string key="inv_broken">BROKEN</string>
 	<string key="inv_unequip">Unequip</string>
-	<string key="inv_dropTargetMessage">Discard items</string>
-	<string key="inv_discard_life_warning">Other players cannot see or take these items. When this bag disappears (after 3 minutes), the items will be gone forever.</string>
+	<string key="inv_dropTargetMessage">Drop items</string>
+	<string key="inv_discard_life_warning">Other players cannot see or take dropped items. Items will disappear forever after 3 minutes.</string>
 	<string key="inv_encumbered">Encumbered</string>
 	<string key="inv_unencumbered">Unencumbered</string>
 	<string key="inv_slotsfull">Item Limit Reached</string>
@@ -58,50 +58,51 @@
 	<string key="inv_tooltipMessagePrimaryArrowInactive">Click to make this your active bow ammunition.</string>
 	<string key="inv_tooltipMessagePrimaryShotActive">These cartridges are currently set as your active gun ammunition.</string>
 	<string key="inv_tooltipMessagePrimaryShotInactive">Click to make this your active gun ammunition.</string>
-	<string key="inv_tooltipMessageToolLevelRequirement">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Level {level}&lt;/font&gt; is required to set this tool as a primary tool.</string>
+	<string key="inv_tooltipMessageToolLevelRequirement">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Level {level}&lt;/font&gt; is required to set this tool as a primary tool.</string>
 	<string key="inv_tooltipCommandToolLevelRequirement">Requires Lv.{level} to use</string>
 	<string key="inv_equipLoad">Equip Load</string>
 	<string key="inv_equipLoadFast">Light</string>
 	<string key="inv_equipLoadNormal">Medium</string>
 	<string key="inv_equipLoadSlow">Heavy</string>
 	<string key="inv_equipLoadOverburdened">Over-Equipped</string>
-	<string key="inv_equipLoadTooltip">The combined weight of your equipped armor and shield determines your Equip Load. Each Equip Load offers a unique dodge and various other effects.</string>
-	<string key="inv_equipLoadFastTooltip">Your dodge is a quick roll that covers a large distance. This equip load has the following effects: 
+	<string key="inv_equipLoadTooltip">The combined weight of your equipped armor and shield determines your equip load. Each equip load offers a unique dodge and other effects.</string>
+	<string key="inv_equipLoadFastTooltip">• Base Damage: +{[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]}%
+	\n• Outgoing Healing: +30%
+	\n• Your dodge is a quick roll. 
 	\n• Dodge Stamina Cost: {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]}
-	\n• Base Damage: +{[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]}% increase 
-	\n• Outgoing Healing: +30% increase 
 	\n• For {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.</string>
-	<string key="inv_equipLoadNormalTooltip">Your dodge is a quick hop. This equip load has the following effects: \n• Dodge Stamina Cost: {[StaminaCosts_Player.Dodge_Roll.StaminaCost]}
-	\n• Base Damage: +{[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]}% increase 
-	\n• Outgoing Crowd Control Debuffs: +10% increased duration 
+	<string key="inv_equipLoadNormalTooltip">• Base Damage: +{[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]}% 
+	\n• Incoming Crowd Control Duration: -10%
+	\n• Your dodge is a quick hop.
+	\n• Dodge Stamina Cost: {[StaminaCosts_Player.Dodge_Roll.StaminaCost]}
 	\n• For {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.</string>
-	<string key="inv_equipLoadSlowTooltip">Your dodge is a directional step. This equip load has the following effects: 
+	<string key="inv_equipLoadSlowTooltip">• Block Stability: +15%
+	\n• Incoming Crowd Control Duration: -20%
+	\n• Outgoing Healing: -30%
+	\n• Your dodge is a directional step. 
 	\n• Dodge Stamina Cost: {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]}
-	\n• Block Stability: +15% increase
-	\n• Outgoing Crowd Control Debuffs: +20% increased duration 
-	\n• Outgoing Healing: -30% decrease
 	\n• For {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]}s after taking a melee hit, you cannot run.</string>
 	<string key="inv_equipLoadOverburdenedTooltip">When you exceed your maximum Equip Load, you cannot dodge, run, or use abilities. You should unequip some items.</string>
-	<string key="inv_equipLoadEncumberedTooltip">You are carrying too much in your inventory. While encumbered, it doesn't matter what your Equip Load is. You cannot run or dodge and lose more stamina while blocking. You should remove some items from your bag.</string>
+	<string key="inv_equipLoadEncumberedTooltip">If the inventory weight limit is exceeded, you are encumbered, which restricts your movement and actions. You also lose more stamina while blocking.</string>
 	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">You have equipped more than your maximum equip load. You cannot dodge or run, and you suffer a significant penalty to stamina recharge rate. You should unequip some items.</string>
 	<string key="inv_equipLoadFastNotification">Equip Load is now Light</string>
 	<string key="inv_equipLoadNormalNotification">Equip Load is now Medium</string>
 	<string key="inv_equipLoadSlowNotification">Equip Load is now Heavy</string>
 	<string key="inv_equipLoadOverburdenedNotification">Over-Equipped - Cannot dodge or run</string>
 	<string key="inv_equipLoadEncumberedNotification">Encumbered - Cannot dodge, jump, or run</string>
-	<string key="inv_encumbranceTooltip">Your encumbrance is the total weight of everything in your bag. Equipped items do not affect it. You can increase your maximum encumbrance by equipping bags.</string>
-	<string key="inv_encumbranceUnencumberedTooltip">While carrying less than your weight limit, your encumbrance does not affect you.</string>
-	<string key="inv_encumbranceEncumberedTooltip">When you are carrying too much in your inventory, you cannot dodge, run, or run. Once maximum encumbrance is reached, you can no longer move or attack. You should remove some items from your bag.</string>
+	<string key="inv_encumbranceTooltip">Inventory weight impacts your movement and actions. Upgrade bags to increase its weight limit. If the limit is exceeded, you are encumbered. If it is greatly exceeded, you are overencumbered.</string>
+	<string key="inv_encumbranceUnencumberedTooltip">You can freely perform all actions since you are under the inventory weight limit.</string>
+	<string key="inv_encumbranceEncumberedTooltip">• Encumbered: Cannot run, dodge, or jump.\n• Overencumbered: Cannot move, dodge, jump, or attack.</string>
 	<string key="inv_does_not_meet_weapon_requirements">Insufficient attributes</string>
-	<string key="inv_encumbranceAttackNotification">Too encumbered to attack</string>
+	<string key="inv_encumbranceAttackNotification">Overencumbered - Cannot attack</string>
 	<string key="inv_insufficientManaNotification">Insufficient Mana</string>
 	<string key="inv_OutOfRangeNotification">Target Out Of Range</string>
-	<string key="inv_compareTo">Compare with {location}</string>
+	<string key="inv_compareTo">Compare ({location})</string>
 	<string key="inv_additionalItems">{count} additional items</string>
 	<string key="inv_repairparts_quantity">{count} Repair Parts</string>
 	<string key="inv_repairparts_tooltip_name">REPAIR PARTS</string>
 	<string key="ui_repairparts">Repair Parts</string>
-	<string key="inv_repairparts_tooltip_description">Repair Parts are a unique resource used to repair items.\n\nRepair Parts cannot be traded, sold, or purchased. To receive more, salvage weapon and armor items you no longer need.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Derived From:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; Weapons, Armor&lt;/font&gt;</string>
+	<string key="inv_repairparts_tooltip_description">Repair Parts are a unique resource used to repair items.\n\nRepair Parts cannot be traded, sold, or purchased. To receive more, salvage weapon and armor items you no longer need.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ebe3d6"&gt; Weapons, Armor&lt;/font&gt;</string>
 	<string key="inv_repairparts_tooltip_drivedfrom">Weapons and Armor</string>
 	<string key="inv_azoth_tooltip_drivedfrom">Corruption Breaches, Quests</string>
 	<string key="inv_repairparts_nearlimit">&lt;font color="#f25d5d"&gt;You are almost at your Repair Parts limit.&lt;/font&gt;</string>
@@ -165,31 +166,31 @@
 	<string key="ui_dropall">Drop all</string>
 	<string key="ui_dropall_in_trade">Can't drop items while trading</string>
 	<string key="ui_transfer_all_filtered">Cannot move all items in this section while items are filtered.</string>
-	<string key="ui_storeall">Store all</string>
-	<string key="ui_filterDescription">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;HOW TO USE ITEM FILTER&lt;/font&gt;&lt;/font&gt;\n\n&lt;font color="#a6a6a6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Filter by&lt;/font&gt;&lt;/font&gt;\n\n- Item name\n- Minimum Gear Score (ex: 100)\n- Minimum Item Tier (ex: T1)\n\n&lt;font color="#a6a6a6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Examples&lt;/font&gt;&lt;/font&gt;\n\nSword 200\nAxe T1\nPick -iron</string>
+	<string key="ui_storeall">Move all to storage shed</string>
+	<string key="ui_filterDescription">&lt;font color="#a6a6a6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Filter by&lt;/font&gt;&lt;/font&gt;\n• Item name\n• Minimum Gear Score (ex: 100)\n• Minimum Tier (ex: T1)\n\n&lt;font color="#a6a6a6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Examples&lt;/font&gt;&lt;/font&gt;\n• Sword 200\n• Axe T1\n• Pick -iron</string>
 	<string key="ui_filterText">Search</string>
 	<string key="ui_filterHeader">Filter item</string>
 	<string key="ui_sort">Sort</string>
-	<string key="ui_sort_weight">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ffffff"&gt;Weight:&lt;/font&gt;&lt;/font&gt; Heavy - Light</string>
-	<string key="ui_sort_weight_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ffffff"&gt;Weight:&lt;/font&gt;&lt;/font&gt; Light - Heavy</string>
-	<string key="ui_sort_tier">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ffffff"&gt;Tier:&lt;/font&gt;&lt;/font&gt; High - Low</string>
-	<string key="ui_sort_tier_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ffffff"&gt;Tier:&lt;/font&gt;&lt;/font&gt; Low - High</string>
-	<string key="ui_sort_gearscore">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ffffff"&gt;Gear score:&lt;/font&gt;&lt;/font&gt; High - Low</string>
-	<string key="ui_sort_gearscore_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ffffff"&gt;Gear score:&lt;/font&gt;&lt;/font&gt; Low - High</string>
-	<string key="ui_sort_chrono">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ffffff"&gt;Time:&lt;/font&gt;&lt;/font&gt; Newest - Oldest</string>
-	<string key="ui_sort_chrono_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ffffff"&gt;Time:&lt;/font&gt;&lt;/font&gt; Oldest - Newest</string>
+	<string key="ui_sort_weight">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ebe3d6"&gt;Weight:&lt;/font&gt;&lt;/font&gt; Heavy - Light</string>
+	<string key="ui_sort_weight_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ebe3d6"&gt;Weight:&lt;/font&gt;&lt;/font&gt; Light - Heavy</string>
+	<string key="ui_sort_tier">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ebe3d6"&gt;Tier:&lt;/font&gt;&lt;/font&gt; High - Low</string>
+	<string key="ui_sort_tier_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ebe3d6"&gt;Tier:&lt;/font&gt;&lt;/font&gt; Low - High</string>
+	<string key="ui_sort_gearscore">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ebe3d6"&gt;Gear Score:&lt;/font&gt;&lt;/font&gt; High - Low</string>
+	<string key="ui_sort_gearscore_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ebe3d6"&gt;Gear Score:&lt;/font&gt;&lt;/font&gt; Low - High</string>
+	<string key="ui_sort_chrono">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ebe3d6"&gt;Time:&lt;/font&gt;&lt;/font&gt; Newest - Oldest</string>
+	<string key="ui_sort_chrono_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sort by &lt;font color="#ebe3d6"&gt;Time:&lt;/font&gt;&lt;/font&gt; Oldest - Newest</string>
 	<string key="inv_equipmentstatrow_modifiertemplate">({baseValue} &lt;font color={modifierColor}&gt;{operator} {modifierValue}&lt;/font&gt;)</string>
 	<string key="ui_attributemodifier_pending_value">(+{pendingValue})</string>
-	<string key="ui_attributemodifier_tooltip">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color={color}&gt;{attributeValue} {attributeName}&lt;/font&gt; &lt;font color="#dddddd" face="lyshineui/fonts/Nimbus_Regular.font"&gt; attribute points&lt;/font&gt;</string>
-	<string key="ui_attributemodifier_tooltip_committed">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;(Assigned points: {value})&lt;/font&gt;</string>
-	<string key="ui_attributemodifier_tooltip_equipment">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;(Equipment: {value})&lt;/font&gt;</string>
-	<string key="ui_attributemodifier_tooltip_buffs">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;(Item buffs: &lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={modifierColor}&gt;{modifierOperator}{value}&lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;)&lt;/font&gt;</string>
-	<string key="ui_attributemodifier_tooltip_pending">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;(Pending points: {value})&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color={color}&gt;{attributeValue} {attributeName}&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip_committed">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;Assigned: {value}&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip_equipment">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;Equipment: {value}&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip_buffs">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;Item buffs: &lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={modifierColor}&gt;{modifierOperator}{value}&lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip_pending">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;Pending: {value}&lt;/font&gt;</string>
 	<string key="ui_attributemodifier_required_points">Required points:</string>
 	<string key="ui_physical_defense_short">PHYS</string>
-	<string key="ui_physical_defense_full">Physical damage resistance</string>
+	<string key="ui_physical_defense_full">Physical Damage Resistance</string>
 	<string key="ui_elemental_defense_short">ELEM</string>
-	<string key="ui_elemental_defense_full">Elemental damage resistance</string>
+	<string key="ui_elemental_defense_full">Elemental Damage Resistance</string>
 	<string key="ui_damage_resistance">Damage Resistance</string>
 	<string key="ui_Strength_short">STR</string>
 	<string key="ui_Dexterity_short">DEX</string>
@@ -204,5 +205,54 @@
 	<string key="inv_TargetDeadNotification">Target is Dead</string>
 	<string key="inv_TargetOutsideLos">No Line of Sight to Target</string>
 	<string key="inv_moreItems">&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;{value}&lt;/font&gt; More Items</string>
+	<string key="lo_name" comment="This key needs to be short to be used directly as a loadout name." rel_version="Feature_Gear_Set_Storage">Gear Set</string>
+	<string key="loadout_window_title" rel_version="Feature_Gear_Set_Storage">GEAR SETS</string>
+	<string key="loadout_storage_title" rel_version="Feature_Gear_Set_Storage">GEAR SETS</string>
+	<string key="loadout_storage_info" rel_version="Feature_Gear_Set_Storage">Items in Gear Sets are not part of your inventory and do not contribute to your inventory or storage weight.</string>
+	<string key="loadout_addto_command" rel_version="Feature_Gear_Set_Storage">Add To Gear Set</string>
+	<string key="loadout_addfrom_command" rel_version="Feature_Gear_Set_Storage">Add From Gear Set</string>
+	<string key="loadout_addtoall_command" rel_version="Feature_Gear_Set_Storage">Add To All Gear Sets</string>
+	<string key="loadout_removefrom_command" rel_version="Feature_Gear_Set_Storage">Remove From Gear Set</string>
+	<string key="loadout_removefromall_command" rel_version="Feature_Gear_Set_Storage">Remove From All Gear Sets</string>
+	<string key="loadout_store_callout" rel_version="Feature_Gear_Set_Storage">Unlock Additional Gear Sets</string>
+	<string key="loadout_store_button" rel_version="Feature_Gear_Set_Storage">Open Store</string>
+	<string key="loadout_import_current" rel_version="Feature_Gear_Set_Storage">Import equipped items</string>
+	<string key="loadout_unequipall_tooltip" rel_version="Feature_Gear_Set_Storage">Remove all items</string>
+	<string key="loadout_unequipall_title" rel_version="Feature_Gear_Set_Storage">Remove Items</string>
+	<string key="loadout_unequipall_message" rel_version="Feature_Gear_Set_Storage">Are you sure you want to return all items in this Gear Set to your Inventory?</string>
+	<string key="loadout_importall_title" rel_version="Feature_Gear_Set_Storage">Import All</string>
+	<string key="loadout_importall_message" rel_version="Feature_Gear_Set_Storage">Are you sure you want add all equipped items to this Gear Set?</string>
+	<string key="loadout_locked_message" rel_version="Feature_Gear_Set_Storage">Unlocks at level {level}</string>
+	<string key="loadout_currently_equipped" rel_version="Feature_Gear_Set_Storage">Gear Set: {loadoutName}</string>
+	<string key="loadout_error" rel_version="Feature_Gear_Set_Storage">Gear Set Error</string>
+	<string key="loadout_notification_equip_success" rel_version="Feature_Gear_Set_Storage">{loadoutName} Equipped</string>
+	<string key="loadout_notification_equip_failure" rel_version="Feature_Gear_Set_Storage">Could not equip {loadoutName}</string>
+	<string key="loadout_notification_incombat" rel_version="Feature_Gear_Set_Storage">Cannot change Gear Sets in combat</string>
+	<string key="loadout_notification_restricted" rel_version="Feature_Gear_Set_Storage">Cannot change Gear Sets at this time</string>
+	<string key="loadout_notification_renamefail" rel_version="Feature_Gear_Set_Storage">Gear Set rename failed</string>
+	<string key="loadout_notification_renameinvalid" rel_version="Feature_Gear_Set_Storage">Invalid Gear Set name</string>
+	<string key="loadout_notification_itemlinked" rel_version="Feature_Gear_Set_Storage">Item not returned (in another Gear Set or equipped)</string>
+	<string key="loadout_notification_itemslinked" rel_version="Feature_Gear_Set_Storage">Some items not returned to Inventory (in another Gear Set or equipped)</string>
+	<string key="loadout_notification_itemadd_success" rel_version="Feature_Gear_Set_Storage">Item added to {loadoutName}</string>
+	<string key="loadout_notification_itemadd_failure" rel_version="Feature_Gear_Set_Storage">Could not add item to {loadoutName}</string>
+	<string key="loadout_notification_itemadd_failure_existing_slot" rel_version="Feature_Gear_Set_Storage">Could not add item to {loadoutName}, item is already in this slot.</string>
+	<string key="loadout_notification_itemaddall_success" rel_version="Feature_Gear_Set_Storage">Item added to all Gear Sets</string>
+	<string key="loadout_notification_itemaddall_failure" rel_version="Feature_Gear_Set_Storage">Could not add item to all Gear Sets</string>
+	<string key="loadout_notification_switch_loadout_on_cooldown" rel_version="Feature_Gear_Set_Storage">You must wait {timeRemaining} before you can switch Gear Sets</string>
+	<string key="loadout_tutorial" rel_version="Feature_Gear_Set_Storage">Gear Sets Available!\nQuickly create and swap Gear Sets for any activity.</string>
+	<string key="loadout_notification_itemremove_space_failure" rel_version="Feature_Gear_Set_Storage">Couldn't return gear set items to inventory due to inadequate space.</string>
+	<string key="loadout_notification_return_space_fail" rel_version="Feature_Gear_Set_Storage">Couldn't return gear set items to inventory due to inadequate space. Please clear space and log out for several minutes to retry.</string>
+	<string key="incompatible_elemental_perk">Incompatible elemental perk</string>
+	<string key="incompatible_socket_item">This cannot be socketed into an item of this type</string>
+	<string key="ui_effect_failed_Invalid">Unable to apply effect</string>
+	<string key="ui_effect_failed_Disabled">Unable to apply temporarily disabled effect</string>
+	<string key="ui_effect_failed_OnCooldown">Unable to apply effect on cooldown</string>
+	<string key="ui_effect_failed_GameModePaused">Unable to apply effect in current game mode</string>
+	<string key="ui_effect_failed_Dead">Unable to apply effect while dead</string>
+	<string key="ui_effect_failed_VitalsIgnored">Unable to apply effect</string>
+	<string key="ui_effect_failed_MultipleFromSource">Unable to apply redundant effects</string>
+	<string key="ui_effect_failed_AntirequisiteActive">Unable to apply due to competing effect: {competingEffect}</string>
+	<string key="ui_effect_failed_AntirequisiteActive_Multiple">Unable to apply due to multiple competing effects</string>
+	<string key="ui_effect_failed_Success">Available effect</string>
 </resources>
 

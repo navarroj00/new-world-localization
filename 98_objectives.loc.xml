@@ -116,6 +116,10 @@
 	<string key="FactionRecruitment_Covenant_Completed" gender="F" rel_version="Quest_MSQ2_Revamp">N/A</string>
 	<string key="FactionRecruitment_Covenant_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Pledge your allegiance to The Covenant</string>
 	<string key="FactionRecruitment_Covenant_JoinFaction" speaker="UI" rel_version="Quest_MSQ2_Revamp">Speak with representative Beyza in the Covenant Enclave and, should you desire, join the Covenant.</string>
+	<string key="FactionRecruitment_Covenant_Decline" speaker="UI" rel_version="Quest_MSQ2_Revamp">(Optional) Decline their offer, for now.</string>
+	<string key="Covenant_DeclineRecruitment_Prompt" speaker="UI" rel_version="Quest_MSQ2_Revamp">"Thanks, but I'm still considering my options."</string>
+	<string key="Covenant_DeclineRecruitment_Response" speaker="Lumen Beyza" name="LumenBeyza" gender="F" VO_Status="Not Recorded" rel_version="Quest_MSQ2_Revamp">I understand. It is an important decision. Should you wish to join our ranks another time, simply speak with me again.\n\nI know Florina would love to hear from you as well.\n\n(You can talk to this representative again if you would like to join this faction. If you've already joined another faction, you may also now switch to this faction through the Bio menu.)</string>
+	<string rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string key="9809_CovenantGuard_Default" gender="Both" VO="9809_CovenantGuard_Default" rel_version="Quest_MSQ2_Revamp">Stay resolute.</string>
 	<string key="9810_Alejandro_Default" speaker="Alejandro" name="Alejandro" gender="M" VO="9810_Alejandro_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">No. . . something isn't right. . . \n\nWhy can't I remember what his face looked like?</string>
@@ -136,7 +140,7 @@
 	<string VO="9807_Aventus_01_02" rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string key="9805_Tibbs_00_Default" speaker="Lieutenant Tibbs" name="LieutenantTibbs" gender="M" VO="9805_Tibbs_00_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Hey! Aren't you a little young to be in here? \n\nDon't get touchy, just a wee bit of Aeternum humor for ya! \n\nAnd fear not mate, I'm as discreet as a privy guard!</string>
 	<string key="9805_Tibbs_00_01" speaker="Lieutenant Tibbs" name="LieutenantTibbs" gender="M" VO="9805_Tibbs_00_01" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Slide on over, friend! You look like one of them Marauder types. Like adventure? Maybe a bit of a scrap, aye? How about weapons and riches? \n\nHow’d you like a little tip from ol’ Tibbs? I’ve got something perfect for a new arrival.</string>
-	<string key="FactionIntro_Marauders_01_Title" speaker="UI - Journal - Quest Title" rel_version="Quest_MSQ2_Revamp"> A First Step of Many</string>
+	<string key="FactionIntro_Marauders_01_Title" speaker="UI - Journal - Quest Title" rel_version="Quest_MSQ2_Revamp">A First Step of Many</string>
 	<string key="FactionIntro_Marauders_01_Description" speaker="UI - Journal - Quest Description" rel_version="Quest_MSQ2_Revamp">Marauder Initiation Quest: Lieutenant Tibbs wants you to collect Lost Ears and a Knight's Signet ring at Lugdunum Fields for some sort of magic and then meet him at the ruin steps to the North of the farm.</string>
 	<string key="FactionIntro_Marauders_01_StartPrompt" speaker="UI - Player Prompt" rel_version="Quest_MSQ2_Revamp">"All right, you've got my attention."</string>
 	<string key="FactionIntro_Marauders_01_Proposal" speaker="Lieutenant Tibbs" name="LieutenantTibbs" gender="M" VO="FactionIntro_Marauders_01_Proposal" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">That’s the spirit! Northwest's a fort filled with unbelievable wonders. Need odd things to get inside. Magic, you see. Ears from the soulless Lost, a ring from a knight. \n\nGrab that lot from Lugdunum Fields, and meet me there.</string>
@@ -223,6 +227,9 @@
 	<string key="FactionRecruitment_Marauders_Completed" gender="M" rel_version="Quest_MSQ2_Revamp">n/a</string>
 	<string key="FactionRecruitment_Marauders_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Pledge your allegiance to The Marauders.</string>
 	<string key="FactionRecruitment_Marauders_JoinFaction" speaker="UI" rel_version="Quest_MSQ2_Revamp">Speak with representative Smiggs in the Marauder Enclave and, should you desire, join the Marauders.</string>
+	<string key="FactionRecruitment_Marauders_Decline" rel_version="Quest_MSQ2_Revamp">(Optional) Decline their offer, for now.</string>
+	<string key="Marauders_DeclineRecruitment_Prompt" speaker="UI" rel_version="Quest_MSQ2_Revamp">"Thanks, but I'm still considering my options."</string>
+	<string key="Marauders_DeclineRecruitment_Response" speaker="Representative Smiggs" name="RepresentativeSmiggs" gender="M" VO_Status="Not Recorded" rel_version="Quest_MSQ2_Revamp">I understand. It is an important decision. Should you wish to join our ranks another time, return and speak with me.\n\nWe always love to see an old mate.\n\n(You can talk to this representative again if you would like to join this faction. If you've already joined another faction, you may also now switch to this faction through the Bio menu.)</string>
 	<string rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string key="9815_MarauderGuard_Default" gender="Both" rel_version="Quest_MSQ2_Revamp">Go with honor.</string>
 	<string key="9816_Pavel_Default" speaker="Pavel" name="Pavel" gender="M" VO="9816_Pavel_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Scram! Food's for Marauders only. \n\nIf you want to be fed around here, you gotta earn it.</string>
@@ -246,7 +253,7 @@
 	<string key="9808_Cleo_00_Default" speaker="Cleo Elsayad" name="CleoElsayad" gender="F" VO="9808_Cleo_00_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Please, if you wouldn't mind standing aside. I have many problems to unravel. \n\nThe Scriveners are always thrilled to challenge hopeful initiates, if you are looking for work.</string>
 	<string key="9807_Aventus_00_01" speaker="Aventus Valenti" name="AventusValenti" gender="M" VO="9807_Aventus_00_01" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Please, please, come! You look well-equipped, and the Syndicate could pay you for your time. \n\nI see that you are new to the island? Aid me, and perhaps I can shine some light on the darkness.</string>
 	<string key="FactionIntro_Syndicate_01_Title" speaker="UI - Journal - Quest Title" rel_version="Quest_MSQ2_Revamp">Fickle Fusions, Fanged Folly</string>
-	<string key="FactionIntro_Syndicate_01_Description" speaker="UI - Journal - Quest Description" rel_version="Quest_MSQ2_Revamp">Syndicate Initiation Quest: Aventus has hired you to lure the altered wolves to Midnight Den and cull them, then meet him at the Syndicate Enclave to the north-east when you are finished.</string>
+	<string key="FactionIntro_Syndicate_01_Description" speaker="UI - Journal - Quest Description" rel_version="Quest_MSQ2_Revamp">Syndicate Initiation Quest: Aventus has hired you to lure the altered wolves to Midnight Den and destroy them, then meet him at the Syndicate Enclave to the north-east when you are finished.</string>
 	<string key="FactionIntro_Syndicate_01_StartPrompt" speaker="UI - Player Prompt" rel_version="Quest_MSQ2_Revamp">"You offer knowledge?"</string>
 	<string key="FactionIntro_Syndicate_01_Proposal" speaker="Aventus Valenti" name="AventusValenti" gender="M" VO="FactionIntro_Syndicate_01_Proposal" VO_Status="Recorded" dialogue-next="@FactionIntro_Syndicate_01_Proposal_next" rel_version="Quest_MSQ2_Revamp">Yes, and the most valuable kind, indeed, if you assist! \n\nYou see, I've been testing alchemical lures on the local wolves. Results were promising, until one of the wolves consumed the bait... and grew in both size and ferocity.</string>
 	<string key="FactionIntro_Syndicate_01_Proposal_prompt" speaker="UI - Player Prompt" rel_version="Quest_MSQ2_Revamp">"You're surprised the wolf ate your bait?"</string>
@@ -259,12 +266,12 @@
 	<string key="FactionIntro_Syndicate_01_Completed" speaker="Aventus Valenti" name="AventusValenti" gender="M" VO="FactionIntro_Syndicate_01_Completed" VO_Status="Recorded" dialogue-next="@FactionIntro_Syndicate_01_Completed_next" rel_version="Quest_MSQ2_Revamp">After that mishap with the wolves, I must return to experimenting and trying anew. A different formula, or perhaps a new approach. \n\nFortunately, research is what this place was built for. What I am built for.</string>
 	<string key="FactionIntro_Syndicate_01_Completed_next_prompt" speaker="UI - Player Prompt" gender="M" rel_version="Quest_MSQ2_Revamp">"The facilities are impressive."</string>
 	<string key="FactionIntro_Syndicate_01_Completed_next" speaker="Aventus Valenti" name="AventusValenti" gender="M" VO="FactionIntro_Syndicate_01_Completed_next" VO_Status="Recorded" dialogue-prompt="@FactionIntro_Syndicate_01_Completed_next_prompt" rel_version="Quest_MSQ2_Revamp">You like them? If you join us in the Syndicate, they will be yours to use. \n\nShould you be interested, I would like to test your mind as well as your body.</string>
-	<string key="FactionIntro_Syndicate_01_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Slay the wolves for Aventus, and meet him at the Enclave.</string>
+	<string key="FactionIntro_Syndicate_01_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Destroy the wolves for Aventus, and meet him at the Enclave.</string>
 	<string key="FactionIntro_Syndicate_01_Container1" speaker="UI" rel_version="Quest_MSQ2_Revamp">Prepare for battle and place the lure in Midnight Den.</string>
 	<string key="FactionIntro_Syndicate_01_Container2" speaker="UI" rel_version="Quest_MSQ2_Revamp">Travel north east to the Enclave</string>
 	<string key="FactionIntro_Syndicate_01_EncounterTitle" speaker="UI" rel_version="Quest_MSQ2_Revamp">Fickle Fusions, Fanged Folly</string>
 	<string key="FactionIntro_Syndicate_01_PlaceLure" speaker="UI" rel_version="Quest_MSQ2_Revamp">Place the lure to draw the Pack</string>
-	<string key="FactionIntro_Syndicate_01_KillWolves" speaker="UI" rel_version="Quest_MSQ2_Revamp">Cull the Alpha Wolf and Pack</string>
+	<string key="FactionIntro_Syndicate_01_KillWolves" speaker="UI" rel_version="Quest_MSQ2_Revamp">Defeat the Alpha Wolf and Pack</string>
 	<string key="FactionIntro_Syndicate_01_FendOff" speaker="UI" rel_version="Quest_MSQ2_Revamp">Fend off the Wolves</string>
 	<string key="FactionIntro_Syndicate_01_GoToEnclave" speaker="UI" rel_version="Quest_MSQ2_Revamp">Seek out the Syndicate sanctum in north eastern Everfall.</string>
 	<string key="FactionIntro_Syndicate_01_CutsceneTitle" speaker="UI" rel_version="Quest_MSQ2_Revamp">Syndicate Enclave</string>
@@ -332,6 +339,9 @@
 	<string key="FactionRecruitment_Syndicate_Completed" speaker="Representative Astrid" name="RepresentativeAstrid" gender="F" VO="FactionRecruitment_Syndicate_Completed" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">N/A</string>
 	<string key="FactionRecruitment_Syndicate_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Pledge your allegiance to The Syndicate.</string>
 	<string key="FactionRecruitment_Syndicate_JoinFaction" speaker="UI" rel_version="Quest_MSQ2_Revamp">Speak with representative Astrid in the Syndicate Enclave and, should you desire, join the Syndicate.</string>
+	<string key="FactionRecruitment_Syndicate_Decline" rel_version="Quest_MSQ2_Revamp">(Optional) Decline their offer, for now.</string>
+	<string key="Syndicate_DeclineRecruitment_Prompt" speaker="UI" rel_version="Quest_MSQ2_Revamp">"Thanks, but I'm still considering my options."</string>
+	<string key="Syndicate_DeclineRecruitment_Response" speaker="Representative Astrid" name="RepresentativeAstrid" gender="F" VO_Status="Not Recorded" rel_version="Quest_MSQ2_Revamp">I understand. It is an important decision. Should you wish to join our ranks another time, return to my office and I can process your paperwork.\n\nNews of your adventures would be illuminating.\n\n(You can talk to this representative again if you would like to join this faction. If you've already joined another faction, you may also now switch to this faction through the Bio menu.)</string>
 	<string rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string key="9821_SyndicateGuard_Default" gender="Both" rel_version="Quest_MSQ2_Revamp">Tread softly.</string>
 	<string key="9822_Abayomi_Default" speaker="Abayomi" name="Abayomi" gender="M" VO="9822_Abayomi_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Ah, you have that look about you. Does she speak to you as well?  \n\nI hear the whispers of Aeternum. Not all are as blessed as we.</string>

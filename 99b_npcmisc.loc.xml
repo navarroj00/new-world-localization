@@ -1,2 +1,17 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="99B_Yonas" gender="M" rel_version="Quest_MSQ2_Brightwood">Yonas Alazar</string>
+	<string key="99B_Yonas_title" rel_version="Quest_MSQ2_Brightwood">Soulwarden</string>
+	<string key="99B_Galahad" gender="M" rel_version="Quest_MSQ2_Brightwood">Ser Galahad</string>
+	<string key="99B_Galahad_title" rel_version="Quest_MSQ2_Brightwood">Knight Errant</string>
+	<string key="99B_Pennyfather" gender="M" rel_version="Quest_MSQ2_Brightwood">Tunstall Pennyfather</string>
+	<string key="99B_Pennyfather_title" rel_version="Quest_MSQ2_Brightwood">Mayor of Calvary</string>
+	<string key="99B_Grace" gender="F" rel_version="Quest_MSQ2_Brightwood">Grace O'Malley</string>
+	<string key="99B_Grace_title" rel_version="Quest_MSQ2_Brightwood">Pirate</string>
+	<string key="99B_Sun" gender="F" rel_version="Quest_MSQ2_Brightwood">Sun Fuchun</string>
+	<string key="99B_Sun_title" rel_version="Quest_MSQ2_Brightwood">Scholar of Ebonscale</string>
+	<string key="99B_MorgenGrave_A">A Beauty's Grave</string>
+	<string key="99B_MorgenGrave_B">A Family Man's Grave</string>
+	<string key="99B_MorgenGrave_C">A Hunter's Grave</string>
+	<string key="99B_gravestone_interactoverride">Offer Memento</string>
+</resources>
 

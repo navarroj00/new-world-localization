@@ -511,6 +511,7 @@
 	<string key="1102_StoneOrb_DisplayName">Stone Orb</string>
 	<string key="1103_CopperOrb_DisplayName">Copper Orb</string>
 	<string key="1104_MedallionChest_DisplayName">Take Medallions</string>
+	<string key="1102_TelescopeChest_DisplayName">Take Telescope</string>
 	<string key="1105_CorruptedTotem_DisplayName">Destroy Corrupted Emblem</string>
 	<string key="1201_JamJar_DisplayName">Jar of Arruda Jam</string>
 	<string key="1202_AncientArtifact_DisplayName">Ancient Artifact</string>
@@ -559,6 +560,7 @@
 	<string key="MSQ_SalvagePile_C_DisplayName">Salvage Pile</string>
 	<string key="AzothWater_Displayname">Azoth Spring</string>
 	<string key="AzothSeal_DisplayName">Ancient Azoth Seal</string>
+	<string key="FireSeal_DisplayName">Ancient Fire Seal</string>
 	<string key="HeartforgeEncounterBattery_DisplayName">Ignite Heartforge Flame</string>
 	<string key="Anubian_Horus_Power_Source_DisplayName">Disable Ennead Obelisk</string>
 	<string key="PressurePlate_Ancient_DisplayName">Ancient Azoth Glyph</string>
@@ -584,7 +586,7 @@
 	<string key="MSQ_0024_FightingPitDoor_DisplayName">Fighting Pit Door</string>
 	<string key="MSQ_0025_AmrineAzothBarrier_DisplayName">Soulwarden Seal</string>
 	<string key="MSQ_0026_StormwallBattery_DisplayName">Investigate the Stormwall's Source</string>
-	<string key="MSQ_0027_StormwallBarrier_DisplayName">Stormwall Barrier</string>
+	<string key="MSQ_0027_StormwallBarrier_DisplayName">Travel through Blighted Fountain Barrier</string>
 	<string key="MSQ_0028_UrinePuddle_DisplayName">Reeking Puddle of Excrement</string>
 	<string key="MSQ_0037_PlanB_Water_01_DisplayName">Well</string>
 	<string key="MSQ_0037_PlanB_Water_02_DisplayName">Water Keg</string>
@@ -980,5 +982,79 @@
 	<string key="Dungeon_BrimstoneSands00_TranslateGlyph" rel_version="Territory_Brimstone_Sands">Activate Glyph Console</string>
 	<string key="Armadillo_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Armadillo</string>
 	<string key="Rat_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Rat</string>
+	<string key="FireNaga_Miniboss_FlameVent_DisplayName" rel_version="Expedition_GreatCleave_01">Flame Vent</string>
+	<string key="95_s01_01_SkyeLetter" rel_version="Season_1_Temp">Read Skye's Letter</string>
+	<string key="95_s01_01_CorruptedCampSupplies" rel_version="Season_1_Perm">Collect the Supplies</string>
+	<string key="95_s01_01_CorruptedTent" rel_version="Season_1_Perm">Burn Corrupted Tent</string>
+	<string key="95_s01_01_CrowsNestCampBuild" rel_version="Season_1_Perm">Build the Crow's Nest Camp</string>
+	<string key="95_s01_02_AidynBrooch" rel_version="Season_1_Temp">Collect Brooch and Message</string>
+	<string key="95_s01_02_BattleSite" rel_version="Season_1_Temp">Examine Ground</string>
+	<string key="95_s01_02_SkyeTrail" rel_version="Season_1_Temp">Follow Skye's Trail</string>
+	<string key="95_s01_02_AidynTrail" rel_version="Season_1_Temp">Follow Aidyn's Trail</string>
+	<string key="95_s01_02a_BoneCharmTable" rel_version="Season_1_Temp">Crush the Bone Talismans</string>
+	<string key="95_s01_09_FinalBoneCharmTable" rel_version="Season_1_Temp">Destroy Skye's Cursed Talisman</string>
+	<string key="95_s01_03_HeroesPoster" rel_version="Season_1_Perm">Place Poster</string>
+	<string key="95_s01_05_BWFakeFundsCabinet" rel_version="Season_1_Perm">Store the Fake Funds</string>
+	<string key="95_s01_06_ExamineFrankTrail" rel_version="Season_1_Temp">Examine Footprints</string>
+	<string key="95_s01_06_FrankTrail" rel_version="Season_1_Temp">Follow the Smuggler's Trail</string>
+	<string key="95_s01_06_RescueWarrior" rel_version="Season_1_Temp">Rescue the Captured Warrior</string>
+	<string key="95_s01_04_AzothSap" rel_version="Season_1_Perm">Extract Sap</string>
+	<string key="99C_MSQ2_WitchyGlyph_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Destructive Glyph</string>
+	<string key="99C_MSQ2_RitualObject_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Arcane Anchor</string>
+	<string key="99C_MSQ2_GlowingMushroom_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Study Unusual Plants</string>
+	<string key="99C_MSQ2_ShakingCoffin_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Corpse Crone's Experiment</string>
+	<string key="99C_MSQ2_CorpseTorch_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Corpse Crone Torch</string>
+	<string key="99C_MSQ2_GlowingOrbs_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Will-o'-the-wisp</string>
+	<string key="99C_MSQ2_BlightBomb_DisplayName">Nasty bit of Blight</string>
+	<string key="99C_MSQ2_AncientDevice_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Turn Off Ancient Device</string>
+	<string key="99C_MSQ2_AncientConsole_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Investigate Ancient Console</string>
+	<string key="99C_MSQ2_AncientChest_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Open Ancient Chest</string>
+	<string key="99C_MSQ2_AncientShieldDevice_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Take Ancient Shield Device</string>
+	<string key="99C_MorgainesTruth_CinematicStart_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Read About Morgaine's Past</string>
+	<string key="99C_MSQ2_MorgainesCaveDoor_Destroy_DisplayName">Destroy Morgaine's Protections</string>
+	<string key="99C_MSQ2_MorgainesCaveDoor_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Travel through Morgaine's Barrier</string>
+	<string key="99B_MSQ_01_BlessedCandle_DisplayName" rel_version="Quest_MSQ2_Brightwood">Collect Blessed Candle</string>
+	<string key="99B_MSQ_01_ReadGravestone_DisplayName" rel_version="Quest_MSQ2_Brightwood">Read Gravestone</string>
+	<string key="99B_MSQ_02_BrightSigil_DisplayName" rel_version="Quest_MSQ2_Brightwood">Collect Bright Vigil Insignia</string>
+	<string key="99B_MSQ_03_CaerDunMap_DisplayName" rel_version="Quest_MSQ2_Brightwood">Take Map</string>
+	<string key="99B_MSQ_04_OrePiles_DisplayName" rel_version="Quest_MSQ2_Brightwood">Investigate Ore Pile</string>
+	<string key="99B_MSQ_04_AzothDetectorA_DisplayName" rel_version="Quest_MSQ2_Brightwood">Small Azoth Tank</string>
+	<string key="99B_MSQ_04_AzothDetectorB_DisplayName" rel_version="Quest_MSQ2_Brightwood">Exposed Mechanism</string>
+	<string key="99B_MSQ_04_AzothDetectorC_DisplayName" rel_version="Quest_MSQ2_Brightwood">Large Azoth Tank</string>
+	<string key="99B_MSQ_04_AzothDetectorD_DisplayName" rel_version="Quest_MSQ2_Brightwood">Small Azoth Boiler</string>
+	<string key="99B_MSQ_04_AzothDetectorE_DisplayName" rel_version="Quest_MSQ2_Brightwood">Large Azoth Boiler</string>
+	<string key="99B_MSQ_05_DiscardedFishingPole_DisplayName" rel_version="Quest_MSQ2_Brightwood">Investigate Fishing Pole</string>
+	<string key="99B_MSQ_05_GracesLoot_DisplayName" rel_version="Quest_MSQ2_Brightwood">Search for Valuables</string>
+	<string key="99B_MSQ_06_MementoFind_DisplayName" rel_version="Quest_MSQ2_Brightwood">Take Lost Memento</string>
+	<string key="99B_MSQ_06_MementoPlaceA_DisplayName" rel_version="Quest_MSQ2_Brightwood">Offer Memento</string>
+	<string key="99B_MSQ_06_MementoPlaceB_DisplayName" rel_version="Quest_MSQ2_Brightwood">Offer Memento</string>
+	<string key="99B_MSQ_06_MementoPlaceC_DisplayName" rel_version="Quest_MSQ2_Brightwood">Offer Memento</string>
+	<string key="99B_MSQ_07_BurnCasket_DisplayName" rel_version="Quest_MSQ2_Brightwood">Burn Caskets</string>
+	<string key="99B_MSQ_07_CleanseDarkness_DisplayName" rel_version="Quest_MSQ2_Brightwood">Cleanse Darknesss</string>
+	<string key="99B_MSQ_07_DigMoira_DisplayName" rel_version="Quest_MSQ2_Brightwood">Uncover the Grave</string>
+	<string key="99B_MSQ_08_PurificationHerb_DisplayName" rel_version="Quest_MSQ2_Brightwood">Collect Purification Herb</string>
+	<string key="99B_MSQ_08_PureAzothWater_DisplayName" rel_version="Quest_MSQ2_Brightwood">Collect Pure Azoth Water</string>
+	<string key="99B_MSQ_09_Keyring_DisplayName" rel_version="Quest_MSQ2_Brightwood">Take Sanctum Key</string>
+	<string key="99B_MSQ_09_SanctumDoor_DisplayName" rel_version="Quest_MSQ2_Brightwood">Unlock Sanctum Door</string>
+	<string key="99B_MSQ_10_PlaceHeartgem_DisplayName" rel_version="Quest_MSQ2_Brightwood">Place the Heartgem</string>
+	<string key="99B_MSQ_10_SmashHeartgem_DisplayName" rel_version="Quest_MSQ2_Brightwood">Smash the Heartgem</string>
+	<string key="99B_MSQ_10_SealCurse_DisplayName" rel_version="Quest_MSQ2_Brightwood">Seal the Curse</string>
+	<string key="99B_MSQ_10_FinalSeal_DisplayName" rel_version="Quest_MSQ2_Brightwood">Break the Curse</string>
+	<string key="99B_MSQ_02_GalahadJournal_DisplayName" rel_version="Quest_MSQ2_Brightwood">Read Galahad's Journal</string>
+	<string key="99B_MSQ_08_AzothTree_DisplayName" rel_version="Quest_MSQ2_Brightwood">Touch the Azoth Tree</string>
+	<string key="99B_MSQ_11_BrightwatchHistory_DisplayName" rel_version="Quest_MSQ2_Brightwood">Read the History</string>
+	<string key="Dungeon_GreatCleave_01_GemGather" rel_version="Expedition_GreatCleave_01">Amirite Cluster</string>
+	<string key="95_s01_05_ChurchFundCabinet" rel_version="Season_1_Perm">Collect Funds</string>
+	<string key="02A_Side08_CoffinA_DisplayName" rel_version="Quest_MSQ2_Brightwood">Open Coffin</string>
+	<string key="95_s01_06_TEMP_SupplyChain_Footprints">Investigate footprints</string>
+	<string key="13A_SQ_01_FogBed_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Clear Magical Fog</string>
+	<string key="13A_SQ_02_AnimalJar" rel_version="Quest_MSQ2_WeaversFen">Kick Jar Of Animal Remains</string>
+	<string key="FlameCore_Forge_DisplayName" rel_version="Season_1_Perm">Flame Core Forge</string>
+	<string key="SporePod_Type1_DisplayName">Type 1 Spore Pod</string>
+	<string key="SporePod_Type2_DisplayName">Type 2 Spore Pod</string>
+	<string key="SporePod_Type3_DisplayName">Type 3 Spore Pod</string>
+	<string key="SporePod_Type4_DisplayName">Type 4 Spore Pod</string>
+	<string key="SporePod_Type5_DisplayName">Type 5 Spore Pod</string>
+	<string key="BeastLordStatue_Type1_DisplayName">Type 1 Beast Lord Statue</string>
 </resources>
 

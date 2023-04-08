@@ -42,7 +42,7 @@
 	<string key="owg_drop_item_notification">Mission Item Dropped</string>
 	<string key="owg_drop_item_title">Drop Mission Item</string>
 	<string key="owg_drop_item_warning">Dropping or Storing this item will destroy it.</string>
-	<string key="owg_entershop_button">Buy Rewards</string>
+	<string key="owg_entershop_button">Rewards</string>
 	<string key="owg_price_update">Prices have changed due to Faction activity</string>
 	<string key="owg_faction_select_no">No, let me think about it.</string>
 	<string key="owg_faction_select_title">Join This Faction?</string>
@@ -116,8 +116,9 @@
 	<string key="owg_factiontokens_1">Syndicate Tokens</string>
 	<string key="owg_factiontokens_2">Marauders Tokens</string>
 	<string key="owg_factiontokens_3">Covenant Tokens</string>
-	<string key="owg_shopitemsavailable">{numItems} Items Available</string>
-	<string key="owg_newshopitems">{numItems} New Shop Items</string>
+	<string key="owg_faction_unlock_tooltip">Achieving a higher rank allows players to take on more faction missions and purchase superior gear from the faction shop.</string>
+	<string key="owg_shopitemsavailable">Items Available: {numItems}</string>
+	<string key="owg_newshopitems">New Shop Items: {numItems}</string>
 	<string key="owg_hunter_guildname">Corruption Breach Missions</string>
 	<string key="owg_explorer_desc">Divine Champions who fight with Conviction for Righteousness and Justice</string>
 	<string key="owg_explorer_sub_desc">“Defending the spark of hope is our sacred duty…”</string>
@@ -131,7 +132,7 @@
 	<string key="owg_mission_item">Mission Item</string>
 	<string key="owg_missionlist_title">Available Missions</string>
 	<string key="owg_missions_header">{guildName} Missions</string>
-	<string key="owg_multiple_items_purchased">{itemName}x{amount} Purchased!</string>
+	<string key="owg_multiple_items_purchased">&lt;font color="#f7bc41"&gt;{itemName}&lt;/font&gt; x{amount} Purchased!</string>
 	<string key="owg_rank">Rank</string>
 	<string key="owg_rank_bounty_1" xsi:nil="true"/>
 	<string key="owg_rank_bounty_2" xsi:nil="true"/>
@@ -244,6 +245,8 @@
 	<string key="owg_pvp_cannotacceptmission_nosanctuary">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; until you are in a sanctuary.</string>
 	<string key="owg_pvp_cannotacceptmission_typeblocked">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; of this type at this time.</string>
 	<string key="owg_pvp_cannotacceptmission_ingroupfindergroup" rel_version="Feature_Group_Finder">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are in a PvE Lobby which will not allow you to turn on your PvP flag.</string>
+	<string key="owg_pvp_cannotacceptmission_pvpinactive_canswitch" rel_version="Feature_Alt_Character_Protection">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are PvP inactive. Would you like to become PvP active?</string>
+	<string key="owg_pvp_cannotacceptmission_pvpinactive" rel_version="Feature_Alt_Character_Protection">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are PvP inactive. You can switch to PvP active in: {timeRemaining}</string>
 	<string key="owg_pvp_cannotacceptmission_pendinggroupfinderapplications" rel_version="Feature_Group_Finder">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you have Lobby invites which will not allow you to turn on your PvP flag.</string>
 	<string key="owg_pvp_cannotacceptmission_unknown">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; at this time.</string>
 	<string key="owg_tooltip_warning">Only 1 Mission can be active at a time.</string>
@@ -297,11 +300,11 @@
 	<string key="ui_stats_friends_in_faction">{friendCountInFaction} Friends in Faction</string>
 	<string key="ui_stats_faction_tokens">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{factionTokens}&lt;/font&gt; Tokens</string>
 	<string key="ui_stats_faction_rep">{factionRep} Faction Reputation</string>
-	<string key="ui_faction_items_label">Do missions to earn items like</string>
+	<string key="ui_faction_items_label">Complete missions to earn rewards!</string>
 	<string key="ui_faction_unaligned">Unaligned</string>
 	<string key="ui_unlocks_pvp">Unlocks PvP</string>
 	<string key="CMissionExplore_Name">Explorers Needed</string>
-	<string key="CMissionExplore_Desc">Search for &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; at &lt;font color="#eaeaea"&gt;{POITags}.&lt;/font&gt;Return here for delivery.</string>
+	<string key="CMissionExplore_Desc">Search for &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; at &lt;font color="#eaeaea"&gt;{POITags}.&lt;/font&gt; Return here for delivery.</string>
 	<string key="CMissionAcquireBlock_Name">Stonemasons Needed</string>
 	<string key="CMissionAcquireTimber_Name">Carpenters Needed</string>
 	<string key="CMissionAcquireCloth_Name">Weavers Needed</string>
@@ -400,10 +403,10 @@
 	<string key="FactionMission_PRESERVE_title">Preserve (PvP)</string>
 	<string key="FactionMission_PRESERVE_desc">Bless {POITags} with the light of the Spark.</string>
 	<string key="FactionMission_EXPEDITIONRAID_title">Raid: {POITags}</string>
-	<string key="FactionMission_EXPEDITIONRAID_desc">Delve into {POITags} for the Marauders and defeat every &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; necessary. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
-	<string key="FactionMission_EXPEDITIONRAID_desc_singular">Delve into {POITags} for the Marauders and defeat &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
+	<string key="FactionMission_EXPEDITIONRAID_desc">Delve into {POITags} for the Syndicate and defeat every &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; necessary. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
+	<string key="FactionMission_EXPEDITIONRAID_desc_singular">Delve into {POITags} for the Syndicate and defeat &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_EXPEDITIONLOOT_title">Plunder: {POITags}</string>
-	<string key="FactionMission_EXPEDITIONLOOT_desc">Delve into {POITags} for the Marauders and collect each &lt;font color="#eaeaea"&gt;{itemName}&lt;/font&gt; within. \n\n&lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
+	<string key="FactionMission_EXPEDITIONLOOT_desc">Delve into {POITags} for the Syndicate and collect each &lt;font color="#eaeaea"&gt;{itemName}&lt;/font&gt; within. \n\n&lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_INTERCEPT_title">Dominate (PvP)</string>
 	<string key="FactionMission_INTERCEPT_desc">Defeat &lt;font color="#eaeaea"&gt;Syndicate&lt;/font&gt; or &lt;font color="#eaeaea"&gt;Covenant&lt;/font&gt; members for the glory of the Marauders.\n\n (This mission keeps your progress even on death)</string>
 	<string key="FactionMission_S_INTERCEPT_title">Eradicate (PvP)</string>
@@ -544,8 +547,8 @@
 	<string key="ui_cant_switch_faction_sanctuary">You must be in a sanctuary to change factions</string>
 	<string key="ui_cant_switch_faction_war">You cannot change factions while signed up for a war</string>
 	<string key="ui_cant_switch_faction_intro">You have not yet proven yourself to this faction. Talk to a faction representative to join.</string>
-	<string key="ui_cant_switch_faction_incompany" rel_version="Feature_Unfactioned_Company_Members">You are currently in a company associated with a different faction. If you continue, You will be removed from that company.\n\nYou will only be able to join a Company with players of the same Faction. If flagged for PVP, you will only be able to group up with players from the same Faction. Before joining, you might want to double-check the Faction choices of your friends in New World.\n\nYour choice isn't permanent -- you can change your faction from the Bio screen once. After that, you can change it again every &lt;font color="#FFD45F"&gt;60 days&lt;/font&gt;.</string>
+	<string key="ui_cant_switch_faction_incompany" rel_version="Feature_Unfactioned_Company_Members">You are currently in a company associated with a different faction. If you continue, you will be removed from that company.\n\nYou may only join a company aligned with your faction. If flagged for PvP, you will only be able to group up with players from the same faction. Before joining, check the faction choices of your friends.\n\nYour choice isn't permanent -- you can change your faction from the Bio screen once. After that, you can change it again every &lt;font color="#FFD45F"&gt;60 days&lt;/font&gt;.</string>
 	<string key="ui_join">Join</string>
-	<string key="ui_faction_join_restrictions">You can switch factions once every 60 days. You will only be able to join companies of your own faction.</string>
+	<string key="ui_faction_join_restrictions">You can change factions once every 60 days, and can only join a company aligned with your faction.</string>
 </resources>
 

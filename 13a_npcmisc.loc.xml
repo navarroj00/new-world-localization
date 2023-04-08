@@ -1,2 +1,55 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="13A_Primrose" gender="Female" rel_version="Quest_MSQ2_WeaversFen">Primrose Gabrielis</string>
+	<string key="13A_Primrose_Title" rel_version="Quest_MSQ2_WeaversFen">Weaver-o'-the-Wisp</string>
+	<string key="13A_Maria" gender="Female" rel_version="Quest_MSQ2_WeaversFen">Maria Sancho</string>
+	<string key="13A_Maria_Title" rel_version="Quest_MSQ2_WeaversFen">Weaver-o'-the-Wisp</string>
+	<string key="13A_Agnes" gender="Female" rel_version="Quest_MSQ2_WeaversFen">Agnes Bartz</string>
+	<string key="13A_Agnes_Title" rel_version="Quest_MSQ2_WeaversFen">Merchant</string>
+	<string key="13A_Theuderic" gender="Male" rel_version="Quest_MSQ2_WeaversFen">Theuderic Julietti</string>
+	<string key="13A_Theuderic_Title" rel_version="Quest_MSQ2_WeaversFen">Merchant</string>
+	<string key="13A_Niall" gender="Male" rel_version="Quest_MSQ2_WeaversFen">Niall Maknab</string>
+	<string key="13A_Niall_Title" rel_version="Quest_MSQ2_WeaversFen">Friend to Gators</string>
+	<string rel_version="Quest_MSQ2_WeaversFen" xsi:nil="true"/>
+	<string key="13A_Commander" gender="Female" rel_version="Quest_MSQ2_WeaversFen">Commander Bergeron</string>
+	<string key="13A_Commander_Title" rel_version="Quest_MSQ2_WeaversFen">Maruader Commander</string>
+	<string key="13A_Alchemist" gender="Female" rel_version="Quest_MSQ2_WeaversFen">Alchemist Rubis</string>
+	<string key="13A_Alchemist_Title" rel_version="Quest_MSQ2_WeaversFen">Syndicate Alchemist</string>
+	<string key="13A_Adjudicator" gender="Female" rel_version="Quest_MSQ2_WeaversFen">Adjudicator Sheng</string>
+	<string key="13A_Adjudicator_Title" rel_version="Quest_MSQ2_WeaversFen">Covenant Adjudicator</string>
+	<string key="1310_Barkeep" gender="Male" rel_version="Quest_MSQ2_WeaversFen">Baltasar Flores</string>
+	<string key="1310_Barkeep_Title" rel_version="Quest_MSQ2_WeaversFen">Weaver's Fen Barkeep</string>
+	<string key="1322_innkeep" gender="Female" rel_version="Quest_MSQ2_WeaversFen">Chiyo Kaya</string>
+	<string key="1322_innkeep_Title" rel_version="Quest_MSQ2_WeaversFen">Innkeep of The Thread's End</string>
+	<string key="1323_Fisher" gender="Female" rel_version="Quest_MSQ2_WeaversFen">Sheetal Agarwal</string>
+	<string key="1323_Fisher_Title" rel_version="Quest_MSQ2_WeaversFen">Master Fisher</string>
+	<string key="13A_Pyro" gender="Male" rel_version="Quest_MSQ2_WeaversFen">"Torchy" Cabrera</string>
+	<string key="13A_MonsterHunter" gender="Female" rel_version="Quest_MSQ2_WeaversFen">Evelyn Van Heck</string>
+	<string key="13A_MonsterHunter_Title" rel_version="Quest_MSQ2_WeaversFen">Leader of the White Skulls</string>
+	<string key="13A_AnimalHunter" gender="Male" rel_version="Quest_MSQ2_WeaversFen">Samuel Worthington Bloodgood III</string>
+	<string key="13A_AnimalHunter_Title" rel_version="Quest_MSQ2_WeaversFen">Renowned Hunt Master Extraordinaire</string>
+	<string key="13A_Architect" gender="Female" rel_version="Quest_MSQ2_WeaversFen">Architect Na Li</string>
+	<string key="13A_PerfumeAlchemist" gender="Male" rel_version="Quest_MSQ2_WeaversFen">Tullius Volusus</string>
+	<string key="13A_PerfumeAlchemist_Title" rel_version="Quest_MSQ2_WeaversFen">Alchemist and Perfumer</string>
+	<string key="13A_Antiquarian" gender="Female" rel_version="Quest_MSQ2_WeaversFen">Dr. Leonie Roggeveen</string>
+	<string key="13A_Antiquarian_Title" rel_version="Quest_MSQ2_WeaversFen">Antiquarian</string>
+	<string key="13A_AntiquarianSpouse" gender="Female" rel_version="Quest_MSQ2_WeaversFen">Nora Roggeveen</string>
+	<string key="13A_AntiquarianSpouse_Title" rel_version="Quest_MSQ2_WeaversFen">Antiquarian</string>
+	<string key="13A_AntiquarianSpouse02" gender="Female" rel_version="Quest_MSQ2_WeaversFen">Nora Roggeveen</string>
+	<string key="9904_MSQ_Theophrastus" gender="male" rel_version="Quest_MSQ2_WeaversFen">Dr. Theophrastus</string>
+	<string key="9904_MSQ_Theophrastus_title" gender="male" rel_version="Quest_MSQ2_WeaversFen">Syndicate Alchemist</string>
+	<string key="9914_MSQ_Hunter" gender="male" rel_version="Quest_MSQ2_WeaversFen">Julio Cienfuegos</string>
+	<string key="9914_MSQ_Hunter_title" gender="male" rel_version="Quest_MSQ2_WeaversFen">Bear Hunter</string>
+	<string key="9915_MSQ_Researcher1" gender="male" rel_version="Quest_MSQ2_WeaversFen">Piper Donahue</string>
+	<string key="9915_MSQ_Researcher1_title" gender="male" rel_version="Quest_MSQ2_WeaversFen">Syndicate Researcher</string>
+	<string key="9916_MSQ_Researcher2" gender="female" rel_version="Quest_MSQ2_WeaversFen">Ling Lim</string>
+	<string key="9916_MSQ_Researcher2_title" gender="female" rel_version="Quest_MSQ2_WeaversFen">Syndicate Researcher</string>
+	<string key="9917_MSQ_Researcher3" gender="male" rel_version="Quest_MSQ2_WeaversFen">Rinde Geirason</string>
+	<string key="9917_MSQ_Researcher3_title" gender="male" rel_version="Quest_MSQ2_WeaversFen">Syndicate Researcher</string>
+	<string key="9918_MSQ_Researcher4" gender="female" rel_version="Quest_MSQ2_WeaversFen">Lubin La Troisieme</string>
+	<string key="9918_MSQ_Researcher4_title" gender="female" rel_version="Quest_MSQ2_WeaversFen">Syndicate Researcher</string>
+	<string key="13a_Guard1" gender="M" rel_version="Quest_MSQ2_WeaversFen">Georg Haas</string>
+	<string key="13a_Guard1_title" rel_version="Quest_MSQ2_WeaversFen">Weaver's Fen Guard Captain</string>
+	<string key="13a_Guard2" gender="F" rel_version="Quest_MSQ2_WeaversFen">Beatrix Jung</string>
+	<string key="13a_Guard2_title" rel_version="Quest_MSQ2_WeaversFen">Weaver's Fen Guard Captain</string>
+</resources>
 

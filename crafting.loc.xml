@@ -4,7 +4,7 @@
 	<string key="cooking_desc">Cook various meals.</string>
 	<string key="engineering">Workshop</string>
 	<string key="outfitting">Outfitting Station</string>
-	<string key="outfitting_desc">Craft light and medium armors as well as jewelry.</string>
+	<string key="outfitting_desc">Craft jewelry and light and medium armors here.</string>
 	<string key="alchemy">Arcane Repository</string>
 	<string key="camp">Camp</string>
 	<string key="masonry">Stonecutting Table</string>
@@ -53,7 +53,7 @@
 	<string key="cr_add_inventory">Added to &lt;font color="#c0c0c0"&gt;Inventory&lt;/font&gt;</string>
 	<string key="cr_add_quickslot">Added to &lt;font color="#c0c0c0"&gt;Quick Slot&lt;/font&gt;</string>
 	<string key="cr_add_equipment">Added to &lt;font color="#c0c0c0"&gt;Equipment&lt;/font&gt;</string>
-	<string key="cr_cantcraft">Can't craft</string>
+	<string key="cr_cantcraft">Craft</string>
 	<string key="cr_itemdisabled">Item Temporarily Disabled</string>
 	<string key="cr_alreadycrafted" rel_version="Feature_Camp_Skins">Already crafted</string>
 	<string key="cr_unlockrecipe_info" rel_version="Feature_Camp_Skins">This is a one-time, craftable skin bound to your character. Once crafted, the skin will be available in the camp skins menu.</string>
@@ -82,8 +82,8 @@
 	<string key="cr_equipment_bonus_tooltip">An item you have equipped improves your chances of creating an item with a higher craftsmanship rating.</string>
 	<string key="cr_skill_bonus_tooltip">Your trade skill in crafting this type of item improves your chances of creating an item with a higher craftsmanship rating.</string>
 	<string key="cr_material_bonus_tooltip">Using rarer materials improves your chances of creating an item with a higher craftsmanship rating. The rarity of the primary material determines the rarity of the crafted item.</string>
-	<string key="cr_tooltip_primary">The tier of the primary ingredient determines the tier of the crafted item.</string>
-	<string key="cr_tooltip_secondary_gear">The tier and rarity of secondary ingredients impact the gear score of the item being crafted.</string>
+	<string key="cr_tooltip_primary">The tier of the primary material determines the tier of the crafted item.</string>
+	<string key="cr_tooltip_secondary_gear">The tier and rarity of secondary materials impact the gear score of the crafted item.</string>
 	<string key="cr_tooltip_secondary_non_gear">You can use any item in the list to achieve the same result.</string>
 	<string key="cr_tooltip_cooldown_one">If you craft 1 item, you will have to wait for {time} to craft this item again.</string>
 	<string key="cr_tooltip_cooldown_many">If you craft {amount} items, you will have to wait for {time} to craft this item again.</string>
@@ -104,15 +104,15 @@
 	<string key="crafting_show_summary">Show Summary</string>
 	<string key="crafting_tree_unlocked">Unlocked</string>
 	<string key="crafting_tree_locked">Locked</string>
-	<string key="crafting_no_bonus">No bonus can be added to this item.</string>
+	<string key="crafting_no_bonus">Craft mods cannot be added to this item.</string>
 	<string key="crafting_tree_learned">Learned</string>
 	<string key="crafting_tree_unlearned">Unlearned</string>
 	<string key="crafting_quality_fixed">This bar indicates the gear score range that the item will craft within.</string>
-	<string key="crafting_quality_desc">This bar indicates the gear score range that the item will craft within. Its base is governed by your skill level. You can also use different tiers and rarities of resources to adjust this range.</string>
+	<string key="crafting_quality_desc">This bar indicates the gear score range that the item will craft within. Its base is governed by your skill level. You can also use different tiers and rarities of materials to adjust this range.</string>
 	<string key="crafting_quality_expertise">This bar indicates the gear score range that the item will craft within. The gear score for this item will be calculated based on your {expertiseName} Expertise and Player Level.\n(Current {expertiseName} Expertise: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
 	<string key="crafting_recipe_expertise">The gear score for this item will be calculated based on your {expertiseName} Expertise and Player Level.\n(Current {expertiseName} Expertise: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
 	<string key="crafting_quest_recipes">Recipes from Quests</string>
-	<string key="crafting_select_resources">Select Resources</string>
+	<string key="crafting_select_resources">Select Materials</string>
 	<string key="new_recipe_unlocked">NEW RECIPE UNLOCKED</string>
 	<string key="dyeing_equipped_armor_title">Dye Equipped Armor</string>
 	<string key="dyeing_unequipped_armor_title_inventory">Dye Armor</string>
@@ -122,20 +122,20 @@
 	<string key="dyeing_secondary">Secondary</string>
 	<string key="dyeing_accent">Accent</string>
 	<string key="dyeing_tint">Tint</string>
-	<string key="dyeing_recently_used">Recently Used</string>
-	<string key="dyeing_available">Available Colors</string>
+	<string key="dyeing_recently_used">Recent</string>
+	<string key="dyeing_available">Available</string>
 	<string key="dyeing_confirm">Confirm</string>
 	<string key="dyeing_cancel">Cancel</string>
 	<string key="dyeing_error_not_enough_dyes">You don't have enough dyes</string>
 	<string key="dyeing_none_available">No dyes in inventory</string>
 	<string key="dye_crafting_title">Dye Crafting</string>
 	<string key="dye_crafting_recipes_title">Recipes</string>
-	<string key="dye_crafting_resources_title">Resources</string>
+	<string key="dye_crafting_resources_title">Materials</string>
 	<string key="dye_crafting_discovery_title">Discovery</string>
 	<string key="dye_crafting_craft_button">Craft</string>
 	<string key="dye_crafting_invalid">Invalid Combination</string>
 	<string key="dye_crafting_not_at_station">You need to be at an Arcane Repository.</string>
-	<string key="cooldown_threshold">&lt;img src="lyshineui/images/icons/misc/icon_question_orange.dds" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; Cooldown: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{time}&lt;/font&gt; | Cooldown Threshold: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt;</string>
+	<string key="cooldown_threshold">&lt;img src="lyshineui/images/icons/misc/icon_question_orange.dds" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; Crafting Cooldown: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{time}&lt;/font&gt; per &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt; items</string>
 	<string key="cooldown_threshold_tooltip">If you craft {count} items, you will have to wait for {time} to craft this item again.</string>
 	<string key="cooldown_cancraftin">Can Craft in {time} &lt;img src="lyshineui/images/icons/misc/icon_hourglass" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="crafting_always_available">Always Available</string>
@@ -148,20 +148,20 @@
 	<string key="crafting_craftagain_fee">CRAFT AGAIN {fee}&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="crafting_gemhint">Add &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{itemName}&lt;/font&gt; to increase &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Gem Socket&lt;/font&gt; chance</string>
 	<string key="crafting_perkhint">Add &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{itemName}&lt;/font&gt; to increase &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perk&lt;/font&gt; chance</string>
-	<string key="crafting_gemtitle">Add Primary Resource</string>
+	<string key="crafting_gemtitle">Add Primary Material</string>
 	<string key="crafting_gemdesc">Increases Gem Socket Chance</string>
 	<string key="crafting_perktitle">Add Azoth</string>
 	<string key="crafting_perkdesc">Increases chance to get additional bonus</string>
-	<string key="crafting_specialtitle">Add Special Resource</string>
+	<string key="crafting_specialtitle">Add Craft Mod</string>
 	<string key="crafting_specialdesc">Determines Perk</string>
-	<string key="crafting_specialadded">Special Item Added</string>
-	<string key="crafting_azothadded">Azoth Added</string>
+	<string key="crafting_specialadded">Craft Mod</string>
+	<string key="crafting_azothadded">Azoth</string>
 	<string key="crafting_carried">Carried</string>
 	<string key="crafting_noitem">No Item</string>
-	<string key="crafting_showowned">Owned Items</string>
+	<string key="crafting_showowned">Owned</string>
 	<string key="crafting_primary_ingredient">(PRIMARY)</string>
-	<string key="crafting_perkselectiontitle">SELECT SPECIAL RESOURCE</string>
-	<string key="crafting_perkselectiondesc">Adding a special resource causes item to have a specific type of perk. Only one special resource may be added.</string>
+	<string key="crafting_perkselectiontitle">SELECT CRAFT MOD</string>
+	<string key="crafting_perkselectiondesc">Craft mods add a specific type of perk to the crafted item.</string>
 	<string key="crafting_perk_item_available">1 Item Available</string>
 	<string key="crafting_perk_items_available">{amount} Items Available</string>
 	<string key="crafting_azothselectiontitle">&lt;img src="lyshineui/images/crafting/itemIconAzoth" xPadding="0" scale="2.6" yOffset="20"&gt;&lt;/img&gt; Add Azoth</string>
@@ -169,7 +169,7 @@
 	<string key="crafting_azothbonus_max">Above item's max Azoth</string>
 	<string key="crafting_azothbonus_tooltip">Azoth increases chances for Attributes, Perks, and Gem Slots. Increasing potential gear score with better materials allows you to add more Azoth.</string>
 	<string key="crafting_azothbonus_tooltip_disabled">Increase potential gear score with better materials to add Azoth for chances of Attributes, Perks, and Gem Slots.</string>
-	<string key="crafting_azothbonus_0">Azoth increases chances for Attributes, Perks, and Gem Slots</string>
+	<string key="crafting_azothbonus_0">Azoth increases chances for Attributes, Perks, and Gem Slots.</string>
 	<string key="crafting_azothbonus_1">Increases chance for {perk1}</string>
 	<string key="crafting_azothbonus_2">Increases chance for {perk1} and {perk2}</string>
 	<string key="crafting_azothbonus_3">Increases chance for {perk1}, {perk2}, and {perk3}</string>
@@ -220,18 +220,18 @@
 	<string key="crafting_sort_gear_score">Sort by Gear Score</string>
 	<string key="crafting_sort_xp">Sort by XP</string>
 	<string key="crafting_filter_materials">Have Materials</string>
-	<string key="crafting_filter_skill">Can Craft With My Skills</string>
-	<string key="crafting_filter_station">Can Craft at This Station Tier</string>
+	<string key="crafting_filter_skill">Skill Level</string>
+	<string key="crafting_filter_station">Station Tier</string>
 	<string key="crafting_filter_clear">CLEAR FILTERS</string>
 	<string key="crafting_filter_clear_all">Clear All</string>
-	<string key="crafting_filter_placeholder">Filter By Name...</string>
-	<string key="crafting_category_select_title">SELECT {type}</string>
+	<string key="crafting_filter_placeholder">Search</string>
+	<string key="crafting_category_select_title">SELECT MATERIAL</string>
 	<string key="crafting_discount_base">Base Fee</string>
-	<string key="ui_crafting_resource_origin_message">Note: Resources used are first taken from your inventory, then your settlement storage.</string>
+	<string key="ui_crafting_resource_origin_message">Crafting materials are used from your inventory before your storage.</string>
 	<string key="cr_firstcraft_bonusavailable">First Craft Bonus Available</string>
-	<string key="cr_firstcraft_bonus">First Craft Bonus</string>
-	<string key="cr_tradeskillbonus_title">Trade Skill XP Bonus</string>
-	<string key="cr_tradeskillbonus_basecraft">Trade Skill XP Bonus</string>
+	<string key="cr_firstcraft_bonus">First Craft</string>
+	<string key="cr_tradeskillbonus_title">Trade Skill XP</string>
+	<string key="cr_tradeskillbonus_basecraft">Base</string>
 	<string key="cr_tradeskillbonus_description">You get an extra trade skill XP bonus for crafting a recipe for the first time.</string>
 </resources>
 

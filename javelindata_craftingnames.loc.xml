@@ -12,6 +12,7 @@
 	<string key="LeatherT2_Down_Name">Downgrade Rugged Leather to Coarse Leather</string>
 	<string key="LeatherT3_Down_Name">Downgrade Layered Leather to Rugged Leather</string>
 	<string key="LeatherT4_Down_Name">Downgrade Infused Leather to Layered Leather</string>
+	<string key="LeatherT4_Down_Name">Downgrade Infused Leather to Layered Leather</string>
 	<string key="ClothT2_Down_Name">Downgrade Sateen to Linen</string>
 	<string key="ClothT3_Down_Name">Downgrade Silk to Sateen</string>
 	<string key="ClothT4_Down_Name">Downgrade Infused Silk to Silk</string>
@@ -1973,5 +1974,12 @@
 	<string key="LightHands_ChitinT5">Chitin Cloth Gloves</string>
 	<string key="LightLegs_ChitinT5">Chitin Cloth Pants</string>
 	<string key="LightFeet_ChitinT5">Chitin Cloth Boots</string>
+	<string key="PotionFamilyWardAeternianT3" rel_version="Season_1_Perm">Strong Human Ward Potion</string>
+	<string key="PotionFamilyWardAeternianT4" rel_version="Season_1_Perm">Powerful Human Ward Potion</string>
+	<string key="PotionFamilyWardAeternianT5" rel_version="Season_1_Perm">Infused Human Ward Potion</string>
+	<string key="Procedural_CoatingAeternianT2" rel_version="Season_1_Perm">Common Human Coating</string>
+	<string key="Procedural_CoatingAeternianT3" rel_version="Season_1_Perm">Strong Human Coating</string>
+	<string key="Procedural_CoatingAeternianT4" rel_version="Season_1_Perm">Powerful Human Coating</string>
+	<string key="Procedural_CoatingAeternianT5" rel_version="Season_1_Perm">Infused Human Coating</string>
 </resources>
 

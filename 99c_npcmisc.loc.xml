@@ -1,2 +1,17 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="99C_Galahad" speaker="Ser Galahad" gender="M" rel_version="Quest_MSQ2_WeaversFen">Ser Galahad</string>
+	<string key="99C_Galahad_Title" speaker="Ser Galahad" gender="M" rel_version="Quest_MSQ2_WeaversFen">Knight</string>
+	<string key="99C_Morgaine" speaker="Morgaine" gender="F" rel_version="Quest_MSQ2_WeaversFen">Morgaine</string>
+	<string key="99C_Morgaine_Title" speaker="Morgaine" gender="F" rel_version="Quest_MSQ2_WeaversFen">Sorceress</string>
+	<string key="99C_FritzCromer" speaker="Fritz Cromer" gender="M" rel_version="Quest_MSQ2_WeaversFen">Fritz Cromer</string>
+	<string key="99C_FritzCromer_Title" speaker="Fritz Cromer" gender="M" rel_version="Quest_MSQ2_WeaversFen">Farmer</string>
+	<string key="99C_RuxandracelRau" speaker="Ruxandra cel Rau" gender="F" rel_version="Quest_MSQ2_WeaversFen">Ruxandra cel Rau</string>
+	<string key="99C_RuxandracelRau_Title" speaker="Ruxandra cel Rau" gender="F" rel_version="Quest_MSQ2_WeaversFen">Weaver-o'-the-Wisp</string>
+	<string key="99C_BellaRuby" speaker="Bella Ruby" gender="F" rel_version="Quest_MSQ2_WeaversFen">Bella Ruby</string>
+	<string key="99C_BellaRuby_Title" speaker="Bella Ruby" gender="F" rel_version="Quest_MSQ2_WeaversFen">Weaver-o'-the-Wisp</string>
+	<string key="99C_Grace" speaker="Grace O'Malley" gender="F" rel_version="Quest_MSQ2_WeaversFen">Grace O'Malley</string>
+	<string key="99C_Grace_Title" speaker="Grace O'Malley" gender="F" rel_version="Quest_MSQ2_WeaversFen">Pirate</string>
+	<string key="99C_Adiana" speaker="Adiana Theron" gender="F" rel_version="Quest_MSQ2_WeaversFen">Adiana Theron</string>
+	<string key="99C_Adiana_Title" speaker="Adiana Theron" gender="F" rel_version="Quest_MSQ2_WeaversFen">Mistress of the Wild</string>
+</resources>
 

@@ -46,11 +46,11 @@
 	<string key="ui_protection_available_in">Available in {time}</string>
 	<string key="ui_protection_fail_resources">Not enough resources &amp;amp; funds</string>
 	<string key="ui_protection_price">Price per {protectionDuration}</string>
-	<string key="ui_projects_will_refresh_in">All Missions will refresh in </string>
+	<string key="ui_projects_will_refresh_in">Missions refresh in </string>
 	<string key="ui_daily_bonuses_faction_mission">First three completed faction missions will receive a daily bonus.</string>
 	<string key="ui_daily_bonuses_available">Daily Bonuses Available </string>
 	<string key="ui_daily_mission_bonus_awarded">Daily Mission Bonus Awarded!</string>
-	<string key="ui_no_active_projects">There is no active project in this category</string>
+	<string key="ui_no_active_projects">No active projects</string>
 	<string key="ui_territory_manage_header">Manage Settlement</string>
 	<string key="ui_territory_manage_settlement_name">Settlement name</string>
 	<string key="ui_territory_manage_change_name">Coming Soon</string>
@@ -113,8 +113,8 @@
 	<string key="ui_cancel_existing_project_desc">There's already an active town project. Are you sure you want to start another town project? The current town project will be cancelled and lose all progress.\n Current Project \n {currentProject}, {completionPercent}% completed</string>
 	<string key="ui_town_project_started">Town project started!</string>
 	<string key="ui_project_started_info">This town project is now available for everybody in town to work on.\nCheck it out  in &lt;font color='#e1ae3f'&gt;Town Project board&lt;/font&gt; in Town Center!</string>
-	<string key="ui_territory_planning_board">Territory planning board</string>
-	<string key="ui_territory_planning_board_desc">Crafting / Refining stations, Turrets, Fort gates can be updated in this board.</string>
+	<string key="ui_territory_planning_board">Territory Planning Board</string>
+	<string key="ui_territory_planning_board_desc">Update Crafting and Refining stations, Turrets, and Fort gates here.</string>
 	<string key="ui_trading_tax">Trading Tax</string>
 	<string key="ui_crafting_fee">Crafting Fee</string>
 	<string key="ui_refining_fee">Refining Fee</string>
@@ -126,13 +126,14 @@
 	<string key="ui_taxes_extreme">&lt;font color='#ea5a5a'&gt;Extreme&lt;/font&gt;</string>
 	<string key="ui_housing_units">{units} housing units</string>
 	<string key="ui_transactions">{units} transactions</string>
-	<string key="ui_current_period">Current Period (Updated Hourly)</string>
+	<string key="ui_current_period">Current Period</string>
+	<string key="ui_updated_hourly">Updated Hourly</string>
 	<string key="ui_paycheck_adjustment">Paycheck Adjustment</string>
 	<string key="ui_resources_refined">{units} resources refined</string>
 	<string key="ui_items_crafted">{units} items crafted</string>
 	<string key="ui_start_date_to_current">Earning since - &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{start}&lt;/font&gt;</string>
 	<string key="ui_statement_period">{start} - Current</string>
-	<string key="ui_pay_territory_upkeep">PAY TERRITORY UPKEEP</string>
+	<string key="ui_pay_territory_upkeep">Pay Upkeep</string>
 	<string key="ui_upkeep_penalty_description">If the upkeep is not paid in time,\na random part of territory will be downgraded.</string>
 	<string key="ui_select_payment_option">Select Payment Option</string>
 	<string key="ui_payment_options">Payment Options</string>
@@ -212,7 +213,7 @@
 	<string key="ui_project_territory_not_claimed">Territory must be claimed at the fort!</string>
 	<string key="ui_inprogress">In Progress</string>
 	<string key="ui_fortressinfo_name">Fort {name}</string>
-	<string key="ui_fortressinfo_description">A fortress that controls {name} territory. Wars and Corrupted invasions are held in this place.</string>
+	<string key="ui_fortressinfo_description">A fortress that controls {name} territory. Wars and Corrupted invasions are held here.</string>
 	<string key="ui_fortressinfo_siegewindow">Siege Window</string>
 	<string key="ui_fortressinfo_governedby">Governed By</string>
 	<string key="ui_fortressinfo_controlledby">Controlled By</string>
@@ -259,7 +260,7 @@
 	<string key="ui_outpost_header">{name} Outpost</string>
 	<string key="ui_governing_company">Governed by &lt;font color='#e1ddd4'&gt;{name}&lt;/font&gt;</string>
 	<string key="ui_controlling_faction">Controlled by &lt;font color='#e1ddd4'&gt;{name}&lt;/font&gt;</string>
-	<string key="ui_territory_ownership_benefits">Benefits of owning a territory</string>
+	<string key="ui_territory_ownership_benefits">Territory Incentives</string>
 	<string key="ui_how_to_run_a_town">How to run a town?</string>
 	<string key="ui_community_points">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;+ {amount}&lt;/font&gt;</string>
 	<string key="ui_community_points_detail">{amount}&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt; Project Points&lt;/font&gt;</string>
@@ -269,7 +270,7 @@
 	<string key="ui_upgradebutton_tooltip_settlement">Upgrade Crafting stations and Refining stations in the town.</string>
 	<string key="ui_upgradebutton_label_fort">Upgrade Fort</string>
 	<string key="ui_upgradebutton_tooltip_fort">Upgrade Gates, Hardpoints, and Weapons in the fort.</string>
-	<string key="ui_upgradebutton_label_lifestyle">Improve Lifestyle</string>
+	<string key="ui_upgradebutton_label_lifestyle">Lifestyle Improvements</string>
 	<string key="ui_upgradebutton_tooltip_lifestyle">Improve the lifestyle in the territory by activating buffs.</string>
 	<string key="ui_upgradebutton_label_weakeninvasions">Weaken Invasions</string>
 	<string key="ui_upgradebutton_tooltip_weakeninvasions">Activate buffs that can help during an invasion.</string>
@@ -471,7 +472,7 @@
 	<string key="ui_upgrade_desc_ExplosiveProjectId2">Upgrade Explosives to Tier 3. When upgraded, any existing Explosives (deployed or otherwise) are also upgraded.</string>
 	<string key="ui_event_project_endless">Endless</string>
 	<string key="ui_territory_level">Territory Level: {level}</string>
-	<string key="ui_enter_house">Enter House Menu</string>
+	<string key="ui_enter_house">View House</string>
 	<string key="ui_purchase_house">Purchase House</string>
 	<string key="ui_housing">Housing</string>
 	<string key="ui_trading_post">Trading Post</string>
@@ -539,14 +540,14 @@
 	<string key="ui_medium">&lt;font color="#e47f35"&gt;Medium&lt;/font&gt;</string>
 	<string key="ui_hard">&lt;font color="#eb5050"&gt;Hard&lt;/font&gt;</string>
 	<string key="ui_project_townprojectboard">Current Town Project Board</string>
-	<string key="ui_view_statement">View Statement</string>
+	<string key="ui_view_statement">View</string>
 	<string key="ui_items_posted_for_sale">Items are posted for sale and purchase</string>
-	<string key="ui_no_project_active">There is no active town project.\n&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;The governing company needs to start a new town project!&lt;/font&gt;</string>
+	<string key="ui_no_project_active">No active town project.\n&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;The governing company needs to start a new town project!&lt;/font&gt;</string>
 	<string key="ui_view_current_goal">View Current Goal</string>
 	<string key="ui_governorsdesk">Governor's Desk</string>
-	<string key="ui_governorsdesk_desc">The governing company can set tax rates for this territory and pay upkeep here.</string>
+	<string key="ui_governorsdesk_desc">The governing company sets the territory tax rates and pays upkeep here.</string>
 	<string key="ui_upkeep_tooltip">If the governing company doesn't pay the upkeep on time, &lt;font color="#e8a015"&gt;a random part of this territory will get downgraded.&lt;/font&gt;</string>
-	<string key="ui_payroll_title">Company Payroll Statement</string>
+	<string key="ui_payroll_title">Company Payroll</string>
 	<string key="ui_payroll_tooltip">The governing company earns coin from taxes and fees.</string>
 	<string key="ui_firstdayofcycle">First day of cycle</string>
 	<string key="ui_nextupkeepdue">Next Upkeep Due</string>
@@ -562,9 +563,9 @@
 	<string key="ui_territory_downgrade_title">Territory Downgraded</string>
 	<string key="ui_territory_board_faction_mission">Faction Mission Board</string>
 	<string key="ui_territory_board_town_project">Town Project Board</string>
-	<string key="ui_territory_board_town_project_desc">Town Project missions are available on this board.</string>
+	<string key="ui_territory_board_town_project_desc">Town Project missions are available here.</string>
 	<string key="ui_territory_board_war">War Board</string>
-	<string key="ui_territory_board_war_desc">Players can sign up for a war in this territory when there is an active war.</string>
+	<string key="ui_territory_board_war_desc">Sign up for an active War in this territory.</string>
 	<string key="ui_territory_war_camp">War Camp</string>
 	<string key="ui_territory_war_camp_desc">A staging area for war.</string>
 	<string key="ui_active_project">Current Project</string>
@@ -585,24 +586,25 @@
 	<string key="ui_town_project_allCompleted">100% &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Completed&lt;/font&gt;</string>
 	<string key="ui_territory_standing_no_bonuses">You don't have any bonuses in {territory}.</string>
 	<string key="ui_territory_standing_upgrade_description_generic">Gain SOME ABILITY in {territory}.</string>
-	<string key="ui_territory_standing_upgrade_description_increase_stat">Increase &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt; in {territory}.</string>
-	<string key="ui_territory_standing_upgrade_description_increase_rate">Earn more &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt; while in {territory}.</string>
-	<string key="ui_territory_standing_upgrade_description_increase_stat_no_territory">Increase &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt;.</string>
-	<string key="ui_territory_standing_upgrade_description_decrease_stat">Decrease &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt; in {territory}.</string>
+	<string key="ui_territory_standing_upgrade_description_increase_stat">Increase &lt;font color={color}&gt;{stat}&lt;/font&gt; in {territory}.</string>
+	<string key="ui_territory_standing_upgrade_description_increase_rate">Earn more &lt;font color={color}&gt;{stat}&lt;/font&gt; while in {territory}.</string>
+	<string key="ui_territory_standing_upgrade_description_increase_stat_no_territory">Increase &lt;font color={color}&gt;{stat}&lt;/font&gt;.</string>
+	<string key="ui_territory_standing_upgrade_description_decrease_stat">Decrease &lt;font color={color}&gt;{stat}&lt;/font&gt; in {territory}.</string>
 	<string key="ui_territory_standing_upgrade_description_own_house">You can own a house in {territory}.</string>
 	<string key="ui_territory_standing_upgrade_value">&lt;font color='#e1ddd4'&gt; ({current}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/arrow_right" xPadding="8" scale="0.8" yOffset="-0.4"&gt;&lt;/img&gt;&lt;font color='#e1ddd4'&gt;{value})&lt;/font&gt;</string>
-	<string key="ui_territory_standing_upgrade_category_generic">Some Category</string>
-	<string key="ui_territory_standing_upgrade_category_reputation">Faction Reputation</string>
-	<string key="ui_territory_standing_upgrade_category_housepoint">House Items</string>
-	<string key="ui_territory_standing_upgrade_category_trading_tax">Trading Tax</string>
-	<string key="ui_territory_standing_upgrade_category_crafting_fee">Station fee</string>
-	<string key="ui_territory_standing_upgrade_category_property_tax">Property Upkeep</string>
-	<string key="ui_territory_standing_upgrade_category_xp_gain">XP Gain</string>
-	<string key="ui_territory_standing_upgrade_category_standing_gain">Standing Gain</string>
-	<string key="ui_territory_standing_upgrade_category_gather">Gather</string>
-	<string key="ui_territory_standing_upgrade_category_house_ownership">House Ownership</string>
-	<string key="ui_territory_standing_upgrade_category_storage">Storage</string>
-	<string key="ui_territory_standing_upgrade_category_darkness_hunt">Corrupted Hunt</string>
+	<string key="ui_territory_standing_upgrade_category_generic">Some Category{info}</string>
+	<string key="ui_territory_standing_upgrade_category_reputation">Faction Reputation{info}</string>
+	<string key="ui_territory_standing_upgrade_category_housepoint">House Items{info}</string>
+	<string key="ui_territory_standing_upgrade_category_trading_tax">Trading Tax{info}</string>
+	<string key="ui_territory_standing_upgrade_category_crafting_fee">Station fee{info}</string>
+	<string key="ui_territory_standing_upgrade_category_property_tax">Property Upkeep{info}</string>
+	<string key="ui_territory_standing_upgrade_category_xp_gain">XP Gain{info}</string>
+	<string key="ui_territory_standing_upgrade_category_standing_gain">Standing Gain{info}</string>
+	<string key="ui_territory_standing_upgrade_category_gather">Gather{info}</string>
+	<string key="ui_territory_standing_upgrade_category_house_ownership">House Ownership{info}</string>
+	<string key="ui_territory_standing_upgrade_category_storage">Storage{info}</string>
+	<string key="ui_territory_standing_upgrade_category_darkness_hunt">Corrupted Hunt{info}</string>
+	<string key="ui_territory_standing_upgrade_bonus">: &lt;font color={color}&gt;{operator}{bonus}&lt;/font&gt;</string>
 	<string key="ui_territory_standing_upgrade_stat_xp_gain">XP Gain</string>
 	<string key="ui_territory_standing_upgrade_stat_storage">Storage</string>
 	<string key="ui_territory_standing_upgrade_stat_house_point">The maximum number of house items you can place</string>
@@ -629,10 +631,10 @@
 	<string key="ui_project_detail">PROJECT DETAIL</string>
 	<string key="ui_reward_FortHardPointsProjectId">+6 Emplacement Points</string>
 	<string key="ui_reward_FortHardPointsProjectId2">+8 Emplacement Points</string>
-	<string key="ui_standing_title_display">{standing} &lt;font color="#959595"&gt;of {territory}&lt;/font&gt;</string>
+	<string key="ui_standing_title_display">{standing} &lt;font color="#959595"&gt;in {territory}&lt;/font&gt;</string>
 	<string key="ui_standing_title_of">{standing} in</string>
-	<string key="ui_redeem_token">Buy Territory Reward</string>
-	<string key="ui_require_standing_level">{territory} Standing Rank {level} is needed to unlock this bonus.</string>
+	<string key="ui_redeem_token">Unlock Standing Bonus</string>
+	<string key="ui_require_standing_level">{territory} Standing Level {level} is needed to unlock this bonus.</string>
 	<string key="ui_territory_standing_blank">{territory}\nStanding</string>
 	<string key="ui_territory_bonus_redeemed">&lt;font color="#ffffff"&gt;{territory} :&lt;/font&gt; Territory Bonus added</string>
 	<string key="ui_start_mission">Start Mission</string>

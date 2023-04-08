@@ -63,8 +63,8 @@
 	<string key="Skin_Feb2023_OmensWinterCat_Description" rel_version="Apparel_OmensWinter_2">The prowling lynx emerges from her den, eager for a spring feast.</string>
 	<string key="Skin_Feb2023_Spear_MasterName" rel_version="Weapon_OmensWinter_Spear">Leaf of Brigid the Wise</string>
 	<string key="Skin_Feb2023_Spear_Description" rel_version="Weapon_OmensWinter_Spear">May her wisdom guide you.</string>
-	<string key="Skin_Feb2023_Lifestaff_MasterName" rel_version="Weapon_OmensWinter_Lifestaff">Blossom of Brigid the Healer</string>
-	<string key="Skin_Feb2023_Lifestaff_Description" rel_version="Weapon_OmensWinter_Lifestaff">May her grace restore you.</string>
+	<string key="Skin_Feb2023_Lifestaff_MasterName" rel_version="Weapon_OmensWinter_LifeStaff">Blossom of Brigid the Healer</string>
+	<string key="Skin_Feb2023_Lifestaff_Description" rel_version="Weapon_OmensWinter_LifeStaff">May her grace restore you.</string>
 	<string key="Skin_Feb2023_Hatchet_MasterName" rel_version="Weapon_OmensWinter_Hatchet">Axe of Brigid the Smith</string>
 	<string key="Skin_Feb2023_Hatchet_Description" rel_version="Weapon_OmensWinter_Hatchet">May her teachings aid you.</string>
 	<string key="Skin_Feb2023_ShieldT_MasterName" rel_version="Weapon_OmensWinter_ShieldT">Shield of Brigid the Protector</string>
@@ -73,5 +73,117 @@
 	<string key="House_HousingItem_Ent_OmensWinter2023_driftwoodbench01_Description" rel_version="Housing_OmensWinter_MTX_Pack_2023">This beautiful piece of nature was formed, not carved, from native Aeternum Wildwood.</string>
 	<string key="House_HousingItem_Ent_OmensWinter2023_Rug_MasterName" rel_version="Housing_OmensWinter_MTX_Pack_2023">Handwoven Throw Rug</string>
 	<string key="House_HousingItem_Ent_OmensWinter2023_Rug_Description" rel_version="Housing_OmensWinter_MTX_Pack_2023">This thick rug was woven with great care to comfort one through the last days of Winter.</string>
+	<string key="Mar2023_Container_MasterName" rel_version="Entitlements_FirelightSeason">Spicy Gift Box</string>
+	<string key="Mar2023_Container_Description" rel_version="Entitlements_FirelightSeason">A sharp smell emanates from deep within, burning your eyes.</string>
+	<string key="Skin_Chest_Mar2023_FirelightNouveau_MasterName" rel_version="Apparel_Firelight_1">Hauberk of the Hearth</string>
+	<string key="Skin_Chest_Mar2023_FirelightNouveau_Description" rel_version="Apparel_Firelight_1">Stoke the flame. Ever burn.</string>
+	<string key="Skin_Head_Mar2023_FirelightNouveau_MasterName" rel_version="Apparel_Firelight_1">Faceguard of the Hearth</string>
+	<string key="Skin_Head_Mar2023_FirelightNouveau_Description" rel_version="Apparel_Firelight_1">Stoke the flame. Ever burn.</string>
+	<string key="Skin_Legs_Mar2023_FirelightNouveau_MasterName" rel_version="Apparel_Firelight_1">Trousers of the Hearth</string>
+	<string key="Skin_Legs_Mar2023_FirelightNouveau_Description" rel_version="Apparel_Firelight_1">Stoke the flame. Ever burn.</string>
+	<string key="Skin_Feet_Mar2023_FirelightNouveau_MasterName" rel_version="Apparel_Firelight_1">Boots of the Hearth</string>
+	<string key="Skin_Feet_Mar2023_FirelightNouveau_Description" rel_version="Apparel_Firelight_1">Stoke the flame. Ever burn.</string>
+	<string key="Skin_Hands_Mar2023_FirelightNouveau_MasterName" rel_version="Apparel_Firelight_1">Gloves of the Hearth</string>
+	<string key="Skin_Hands_Mar2023_FirelightNouveau_Description" rel_version="Apparel_Firelight_1">Stoke the flame. Ever burn.</string>
+	<string key="Skin_Chest_Mar2023_FirelightBackScarf_MasterName" rel_version="Apparel_Firelight_2">Stole of the Dancing Embers</string>
+	<string key="Skin_Chest_Mar2023_FirelightBackScarf_Description" rel_version="Apparel_Firelight_2">“See how the shadows flicker? Like skulking assassins.”</string>
+	<string key="Skin_Head_Mar2023_FirelightBackScarf_MasterName" rel_version="Apparel_Firelight_2">Veil of the Dancing Embers</string>
+	<string key="Skin_Head_Mar2023_FirelightBackScarf_Description" rel_version="Apparel_Firelight_2">“See how the shadows flicker? Like skulking assassins.”</string>
+	<string key="Skin_Legs_Mar2023_FirelightBackScarf_MasterName" rel_version="Apparel_Firelight_2">Leggings of the Dancing Embers</string>
+	<string key="Skin_Legs_Mar2023_FirelightBackScarf_Description" rel_version="Apparel_Firelight_2">“See how the shadows flicker? Like skulking assassins.”</string>
+	<string key="Skin_Feet_Mar2023_FirelightBackScarf_MasterName" rel_version="Apparel_Firelight_2">Slippers of the Dancing Embers</string>
+	<string key="Skin_Feet_Mar2023_FirelightBackScarf_Description" rel_version="Apparel_Firelight_2">“See how the shadows flicker? Like skulking assassins.”</string>
+	<string key="Skin_Hands_Mar2023_FirelightBackScarf_MasterName" rel_version="Apparel_Firelight_2">Gages of the Dancing Embers</string>
+	<string key="Skin_Hands_Mar2023_FirelightBackScarf_Description" rel_version="Apparel_Firelight_2">“See how the shadows flicker? Like skulking assassins.”</string>
+	<string key="Skin_Chest_Mar2023_FirelightSpades_MasterName" rel_version="Apparel_Firelight_3">Forge Warden's Mantle</string>
+	<string key="Skin_Chest_Mar2023_FirelightSpades_Description" rel_version="Apparel_Firelight_3">From the ashen depths burns the vigilant gaze of the Warden.</string>
+	<string key="Skin_Head_Mar2023_FirelightSpades_MasterName" rel_version="Apparel_Firelight_3">Forge Warden's Sallet</string>
+	<string key="Skin_Head_Mar2023_FirelightSpades_Description" rel_version="Apparel_Firelight_3">From the ashen depths burns the vigilant gaze of the Warden.</string>
+	<string key="Skin_Legs_Mar2023_FirelightSpades_MasterName" rel_version="Apparel_Firelight_3">Forge Warden's Cuisses</string>
+	<string key="Skin_Legs_Mar2023_FirelightSpades_Description" rel_version="Apparel_Firelight_3">From the ashen depths burns the vigilant gaze of the Warden.</string>
+	<string key="Skin_Feet_Mar2023_FirelightSpades_MasterName" rel_version="Apparel_Firelight_3">Forge Warden's Sabatons</string>
+	<string key="Skin_Feet_Mar2023_FirelightSpades_Description" rel_version="Apparel_Firelight_3">From the ashen depths burns the vigilant gaze of the Warden.</string>
+	<string key="Skin_Hands_Mar2023_FirelightSpades_MasterName" rel_version="Apparel_Firelight_3">Forge Warden's Gauntlets</string>
+	<string key="Skin_Hands_Mar2023_FirelightSpades_Description" rel_version="Apparel_Firelight_3">From the ashen depths burns the vigilant gaze of the Warden.</string>
+	<string key="Skin_Chest_Mar2023_FirelightDeluxe_MasterName" rel_version="Apparel_Firelight_Deluxe">The Cardinal Fireheart</string>
+	<string key="Skin_Chest_Mar2023_FirelightDeluxe_Description" rel_version="Apparel_Firelight_Deluxe">“From the ashes he rose and within his heart burned a smoldering twilight.”</string>
+	<string key="Skin_Head_Mar2023_FirelightDeluxe_MasterName" rel_version="Apparel_Firelight_Deluxe">The Cardinal Laurel</string>
+	<string key="Skin_Head_Mar2023_FirelightDeluxe_Description" rel_version="Apparel_Firelight_Deluxe">“From the ashes he rose and within his heart burned a smoldering twilight.”</string>
+	<string key="Skin_Legs_Mar2023_FirelightDeluxe_MasterName" rel_version="Apparel_Firelight_Deluxe">The Cardinal Flank</string>
+	<string key="Skin_Legs_Mar2023_FirelightDeluxe_Description" rel_version="Apparel_Firelight_Deluxe">“From the ashes he rose and within his heart burned a smoldering twilight.”</string>
+	<string key="Skin_Feet_Mar2023_FirelightDeluxe_MasterName" rel_version="Apparel_Firelight_Deluxe">The Cardinal Talon</string>
+	<string key="Skin_Feet_Mar2023_FirelightDeluxe_Description" rel_version="Apparel_Firelight_Deluxe">“From the ashes he rose and within his heart burned a smoldering twilight.”</string>
+	<string key="Skin_Hands_Mar2023_FirelightDeluxe_MasterName" rel_version="Apparel_Firelight_Deluxe">The Cardinal Claw</string>
+	<string key="Skin_Hands_Mar2023_FirelightDeluxe_Description" rel_version="Apparel_Firelight_Deluxe">“From the ashes he rose and within his heart burned a smoldering twilight.”</string>
+	<string key="Skin_Mar2023_Bow_MasterName" rel_version="Weapon_Firelight_Bow">Fire Flare</string>
+	<string key="Skin_Mar2023_Bow_Description" rel_version="Weapon_Firelight_Bow">Its arrows whistle like sparkling rockets.</string>
+	<string key="Skin_Mar2023_Greataxe_MasterName" rel_version="Weapon_Firelight_Greataxe">Soaring Pyre</string>
+	<string key="Skin_Mar2023_Greataxe_Description" rel_version="Weapon_Firelight_Greataxe">“A gust unfurled it’s scarlet wings, then dissolved into fluttering ash that singed the amber sky.”</string>
+	<string key="Skin_Mar2023_ShieldK_MasterName" rel_version="Weapon_Firelight_ShieldK">Firelight Heater</string>
+	<string key="Skin_Mar2023_ShieldK_Description" rel_version="Weapon_Firelight_ShieldK">A faint light embers on its surface.</string>
+	<string key="Skin_Mar2023_Longsword_MasterName" rel_version="Weapon_Firelight_Longsword">Falling Star</string>
+	<string key="Skin_Mar2023_Longsword_Description" rel_version="Weapon_Firelight_Longsword">“...and as they clashed, the sparks flew and revolutions once envisioned were now inevitable.”</string>
+	<string key="Skin_Mar2023_Musket_MasterName" rel_version="Weapon_Firelight_Musket">Smoking Gun</string>
+	<string key="Skin_Mar2023_Musket_Description" rel_version="Weapon_Firelight_Musket">Where there’s smoke, there’s fire.</string>
+	<string key="Skin_Mar2023_Rapier_MasterName" rel_version="Weapon_Firelight_Rapier">Searing Needle</string>
+	<string key="Skin_Mar2023_Rapier_Description" rel_version="Weapon_Firelight_Rapier">Cauterize the wound as you cut.</string>
+	<string key="Skin_Mar2023_ShieldR_MasterName" rel_version="Weapon_Firelight_ShieldR">Firelight Buckler</string>
+	<string key="Skin_Mar2023_ShieldR_Description" rel_version="Weapon_Firelight_ShieldR">A faint light embers on its surface.</string>
+	<string key="Skin_Mar2023_Spear_MasterName" rel_version="Weapon_Firelight_Spear">Compass Rose</string>
+	<string key="Skin_Mar2023_Spear_Description" rel_version="Weapon_Firelight_Spear">A guiding light in even the deepest black.</string>
+	<string key="Skin_Mar2023_Hatchet_MasterName" rel_version="Weapon_Firelight_Hatchet">Scorched Dawn</string>
+	<string key="Skin_Mar2023_Hatchet_Description" rel_version="Weapon_Firelight_Hatchet">“Be the blaze that brings light to the morrow.”</string>
+	<string key="Skin_Mar2023_Warhammer_MasterName" rel_version="Weapon_Firelight_Warhammer">Iron-forged Furnace</string>
+	<string key="Skin_Mar2023_Warhammer_Description" rel_version="Weapon_Firelight_Warhammer">As heavy as an anvil; as hot as the forge.</string>
+	<string key="Skin_Mar2023_Firestaff_MasterName" rel_version="Weapon_Firelight_Firestaff">Lodestar Lantern</string>
+	<string key="Skin_Mar2023_Firestaff_Description" rel_version="Weapon_Firelight_Firestaff">Lost souls crave the warmth of its glow.</string>
+	<string key="Skin_Mar2023_Lifestaff_MasterName" rel_version="Weapon_Firelight_Lifestaff">Burning Beacon</string>
+	<string key="Skin_Mar2023_Lifestaff_Description" rel_version="Weapon_Firelight_Lifestaff">It’s said that on a stormy night, its light can shine brighter and further than any lighthouse.</string>
+	<string key="Skin_Mar2023_ShieldT_MasterName" rel_version="Weapon_Firelight_ShieldT">Firelight Tower</string>
+	<string key="Skin_Mar2023_ShieldT_Description" rel_version="Weapon_Firelight_ShieldT">A faint light embers on its surface.</string>
+	<string key="Skin_Mar2023_IceGauntlet_MasterName" rel_version="Weapon_Firelight_IceGauntlet">Frozen Flame</string>
+	<string key="Skin_Mar2023_IceGauntlet_Description" rel_version="Weapon_Firelight_IceGauntlet">Nothing burns quite like absolute zero.</string>
+	<string key="Skin_Mar2023_VoidGauntlet_MasterName" rel_version="Weapon_Firelight_VoidGauntlet">Burning Touch</string>
+	<string key="Skin_Mar2023_VoidGauntlet_Description" rel_version="Weapon_Firelight_VoidGauntlet">The thick leather protects you from its immense ambient heat, but not everyone else.</string>
+	<string key="Skin_Mar2023_Blunderbuss_MasterName" rel_version="Weapon_Firelight_Blunderbuss">Trailblazer</string>
+	<string key="Skin_Mar2023_Blunderbuss_Description" rel_version="Weapon_Firelight_Blunderbuss">“Alright, fine. You lead.”</string>
+	<string key="Skin_Mar2023_Greatsword_MasterName" rel_version="Weapon_Firelight_Greatsword">Licking Flame</string>
+	<string key="Skin_Mar2023_Greatsword_Description" rel_version="Weapon_Firelight_Greatsword">Be wary of the forking fire.</string>
+	<string key="Skin_Mar2023_FishingPole_MasterName" rel_version="ToolSkins_Firelight">Fishing Post</string>
+	<string key="Skin_Mar2023_FishingPole_Description" rel_version="ToolSkins_Firelight">If flipped and modified, a lamp post can make a decent fishing rod.</string>
+	<string key="Skin_Mar2023_AzothStaff_MasterName" rel_version="ToolSkins_Firelight">Firelight Scepter</string>
+	<string key="Skin_Mar2023_AzothStaff_Description" rel_version="ToolSkins_Firelight">"Be the light."</string>
+	<string key="Skin_Mar2023_LoggingAxe_MasterName" rel_version="ToolSkins_Firelight">Controlled Burn</string>
+	<string key="Skin_Mar2023_LoggingAxe_Description" rel_version="ToolSkins_Firelight">"Only you can prevent forest fires."</string>
+	<string key="Skin_Mar2023_Pickaxe_MasterName" rel_version="ToolSkins_Firelight">Midnight Oil</string>
+	<string key="Skin_Mar2023_Pickaxe_Description" rel_version="ToolSkins_Firelight">Combining a lantern and a pickaxe is dangerous, but convenient.</string>
+	<string key="Skin_Mar2023_Sickle_MasterName" rel_version="ToolSkins_Firelight">Wrought-Iron Carver</string>
+	<string key="Skin_Mar2023_Sickle_Description" rel_version="ToolSkins_Firelight">The heat in which it was forged still lingers in its blade.</string>
+	<string key="Skin_Mar2023_SkinningKnife_MasterName" rel_version="ToolSkins_Firelight">Hot Iron</string>
+	<string key="Skin_Mar2023_SkinningKnife_Description" rel_version="ToolSkins_Firelight">"Like a hot knife through butter."</string>
+	<string key="Skin_Mar2023_DrumsFirelightT5_MasterName" rel_version="Instrument_Firelight_Drums">Gilded Flame Drums</string>
+	<string key="Skin_Mar2023_DrumsFirelightT5_Description" rel_version="Instrument_Firelight_Drums">Somewhere out in the burning sands is a rolling storm of crackling lightning and this drum carries its growl.</string>
+	<string key="Skin_Mar2023_GuitarFirelightT5_MasterName" rel_version="Instrument_Firelight_Guitar">Gilded Flame Guitar</string>
+	<string key="Skin_Mar2023_GuitarFirelightT5_Description" rel_version="Instrument_Firelight_Guitar">Strumming this guitar is like rekindling with an old friend; every note is warm and comforting.</string>
+	<string key="Skin_Mar2023_URBassFirelightT5_MasterName" rel_version="Instrument_Firelight_Bass">Gilded Flame Bass</string>
+	<string key="Skin_Mar2023_URBassFirelightT5_Description" rel_version="Instrument_Firelight_Bass">The belly of this bass echoes like a lonely flame burning deep in the quiet earth.</string>
+	<string key="House_HousingItem_Pet_Entitlement_Wolf_Fire_MasterName" rel_version="Housing_Firelight_MTX_Pack_2023">Shadow Fire</string>
+	<string key="House_HousingItem_Pet_Entitlement_Wolf_Fire_Description" rel_version="Housing_Firelight_MTX_Pack_2023">While intimidating and wild, this warm-hearted guardian is loyal and surprisingly cuddly.</string>
+	<string key="House_HousingItem_Firelight_MTX_ShadowBox_MasterName" rel_version="Housing_Firelight_MTX_Pack_2023">Burning Sands Silhouette Shadow Box</string>
+	<string key="House_HousingItem_Firelight_MTX_ShadowBox_Description" rel_version="Housing_Firelight_MTX_Pack_2023">This shadowbox pulls you in, as if inviting you into the heart of Brimstone.</string>
+	<string key="House_HousingItem_Firelight_MTX_Lantern_Hanging_MasterName" rel_version="Housing_Firelight_MTX_Pack_2023">Suspended Lamp of Flickering Embers</string>
+	<string key="House_HousingItem_Firelight_MTX_Lantern_Hanging_Description" rel_version="Housing_Firelight_MTX_Pack_2023">A fixed lamp that casts shadows similar to swaying acrobats.</string>
+	<string key="House_HousingItem_Firelight_MTX_Lantern_Table_MasterName" rel_version="Housing_Firelight_MTX_Pack_2023">Lamp of Flickering Embers</string>
+	<string key="House_HousingItem_Firelight_MTX_Lantern_Table_Description" rel_version="Housing_Firelight_MTX_Pack_2023">A table-side lamp that houses what appear to be small, writhing dancers.</string>
+	<string key="House_HousingItem_Firelight_MTX_Lantern_Standing_MasterName" rel_version="Housing_Firelight_MTX_Pack_2023">Lantern of Flickering Embers</string>
+	<string key="House_HousingItem_Firelight_MTX_Lantern_Standing_Description" rel_version="Housing_Firelight_MTX_Pack_2023">A standing lantern that brightens the room as if filled with vibrant performers.</string>
+	<string key="House_HousingItem_Firelight_MTX_FireScreen_MasterName" rel_version="Housing_Firelight_MTX_Pack_2023">Steel Hearth Grating</string>
+	<string key="House_HousingItem_Firelight_MTX_FireScreen_Description" rel_version="Housing_Firelight_MTX_Pack_2023">This gilded grating creates a shrine of the fire that brings warmth to the home.</string>
+	<string key="House_HousingItem_Firelight_MTX_Rug_MasterName" rel_version="Housing_Firelight_MTX_Pack_2023">Twilight Star Mat</string>
+	<string key="House_HousingItem_Firelight_MTX_Rug_Description" rel_version="Housing_Firelight_MTX_Pack_2023">The fibers of this rug are particularly warm, like if it had soaked in all the warmth of the setting sun.</string>
+	<string key="CampSkin_Firelight01_A_MasterName" rel_version="CampSkin_Firelight_1">Lantern-lit Yurt</string>
+	<string key="CampSkin_Firelight01_A_Description" rel_version="CampSkin_Firelight_1">Illuminate the night from within this cozy yurt capable of repelling even the harshest Aeternum winds.</string>
+	<string key="CampSkin_Firelight01_B_MasterName" rel_version="CampSkin_Firelight_2">Ring of Fire</string>
+	<string key="CampSkin_Firelight01_B_Description" rel_version="CampSkin_Firelight_2">Light shines in from all directions, filling its space with an inviting glow.</string>
 </resources>
 

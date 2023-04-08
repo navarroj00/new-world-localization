@@ -18,7 +18,7 @@
 	<string key="ui_deleterankwithmembersconfirm">Delete {rankName} rank?\nMembers with this rank will be moved to the {newRankName} rank.</string>
 	<string key="ui_demote">Demote</string>
 	<string key="ui_enterrankname">enter rank name</string>
-	<string key="ui_currentrank">Current Rank: {rankName}</string>
+	<string key="ui_currentrank">{rankName}</string>
 	<string key="ui_friendjoinedmessage">&lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt; joined the game!</string>
 	<string key="ui_friendleftmessage">&lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt; left the game!</string>
 	<string key="ui_friendremovedmessage">{playerName} is no longer your friend.</string>
@@ -36,14 +36,14 @@
 	<string key="ui_guilderrortitle">Company Error</string>
 	<string key="ui_enter_guild_name">Enter Company Name</string>
 	<string key="ui_create_company_with_faction">Must be in faction to create company.</string>
-	<string key="guild_create_title">NEW WORLD COMPANIES</string>
-	<string key="guild_create_desc">Companies are groups of players to band together with to enhance your online experience. Fight alongside your friends against the Corrupted and siege opposing Faction territories. Join or start your own with friends!</string>
-	<string key="guild_create_info1">FACTION ALIGNMENT</string>
-	<string key="guild_create_info1_desc">The Company you create will be aligned with the Faction you've selected. You can invite other players to your Company who are also within the same faction.</string>
-	<string key="guild_create_info2">TERRITORY GOVERNMENT AND WAR</string>
-	<string key="guild_create_info2_desc">Only Companies can declare war and siege Territories to take them over. As Governor of a Territory, your Company earns coin through taxes, gets huge discounts on fast travel, and contributes to the success of your whole Faction.</string>
-	<string key="guild_create_info3">OTHER COMPANY BENEFITS</string>
-	<string key="guild_create_info3_desc">Communicate and group up easily with company members, see when members were last online, get access to a shared amount of Coin in the Company Treasury.</string>
+	<string key="guild_create_title">COMPANIES</string>
+	<string key="guild_create_desc">Companies in Aeternum unite groups of players to fight against the Corrupted and siege opposing faction territories. Join one or start your own with friends!</string>
+	<string key="guild_create_info1">FACTIONS</string>
+	<string key="guild_create_info1_desc">The company you create will be aligned with your faction. You can invite other players in the same faction to your company.</string>
+	<string key="guild_create_info2">TERRITORY &amp; WAR</string>
+	<string key="guild_create_info2_desc">Only companies can declare war and siege territories to take them over. As governor of a territory, your company earns coin through taxes, gets discounts on fast travel, and contributes to the overall success of your faction.</string>
+	<string key="guild_create_info3">OTHER BENEFITS</string>
+	<string key="guild_create_info3_desc">Communicate and group up easily with company members, see when members were last online, and get access to coin in the company treasury.</string>
 	<string key="ui_faction_label">Faction:</string>
 	<string key="ui_create_company">Create Company</string>
 	<string key="ui_create_company_invalid_name">Invalid Name</string>
@@ -79,9 +79,9 @@
 	<string key="ui_guildmemberjoinedmessage">{playerName} joined the Company.</string>
 	<string key="ui_guildmemberleftmessage">{playerName} left the Company.</string>
 	<string key="ui_guildmemberremovedmessage">{playerName} was removed from the Company.</string>
-	<string key="ui_guildmembersonline">{onlineMembers} Online Now</string>
-	<string key="ui_guildmemberstotal">{members} Total Members</string>
-	<string key="ui_factionalignment">FACTION ALIGNMENT</string>
+	<string key="ui_guildmembersonline">{onlineMembers} Online</string>
+	<string key="ui_guildmemberstotal">{members} Members</string>
+	<string key="ui_factionalignment">FACTION</string>
 	<string key="ui_guildname">CompanyName</string>
 	<string key="ui_guildnamechangemessage">The Company name has changed to &lt;font color="#9e947e"&gt;{guildName}&lt;/font&gt;.</string>
 	<string key="ui_guildnamechangetitle">Company Name Change</string>
@@ -107,14 +107,14 @@
 	<string key="ui_guildsiegetab">Siege Window</string>
 	<string key="ui_guildtreasurytab">Treasury</string>
 	<string key="ui_guildtreasurytab_balance">{balance} {coinImage}</string>
-	<string key="ui_treasury_totalbalance">Total Balance</string>
+	<string key="ui_treasury_totalbalance">Balance</string>
 	<string key="ui_treasury_dailywithdrawallimit">Daily Withdrawal Limit</string>
 	<string key="ui_treasury_dailywithdrawallimitsmall">Daily Withdrawal Limit:</string>
 	<string key="ui_treasury_availablewithdrawallimit">Available Withdrawal Limit</string>
 	<string key="ui_treasury_deposit">Deposit</string>
 	<string key="ui_treasury_withdraw">Withdraw</string>
 	<string key="ui_treasury_withdrawal">Withdrawal</string>
-	<string key="ui_treasury_changedailywithdrawallimit">Change Daily Withdrawal Limit</string>
+	<string key="ui_treasury_changedailywithdrawallimit">Change Limit</string>
 	<string key="ui_treasury_recenttransactions">Recent Transactions (Coming Soon)</string>
 	<string key="ui_treasury_popup_tocompanytreasury">To Company Treasury</string>
 	<string key="ui_treasury_popup_fromcompanytreasury">From Company Treasury</string>
@@ -122,9 +122,9 @@
 	<string key="ui_treasury_popup_availablelimit">Available Withdrawal Limit:</string>
 	<string key="ui_treasury_popup_newtreasurybalance">New Company Treasury Balance:</string>
 	<string key="ui_treasury_popup_setdailylimit_title">Daily Withdrawal Limit</string>
-	<string key="ui_treasury_popup_setdailylimit_current">Current Daily Withdrawal Limit</string>
-	<string key="ui_treasury_popup_setdailylimit_new">New Daily Withdrawal Limit</string>
-	<string key="ui_treasury_popup_setdailylimit_nolimit">No Daily Withdrawal Limit</string>
+	<string key="ui_treasury_popup_setdailylimit_current">Current Limit</string>
+	<string key="ui_treasury_popup_setdailylimit_new">New Limit</string>
+	<string key="ui_treasury_popup_setdailylimit_nolimit">No Limit</string>
 	<string key="ui_treasury_popup_invalidamount">Enter a valid amount.</string>
 	<string key="ui_treasury_tooltip_deposit_nopermissons">You do not have permissions to deposit.</string>
 	<string key="ui_treasury_tooltip_withdrawal_nopermissons">You do not have permissions to withdraw.</string>
@@ -140,13 +140,13 @@
 	<string key="ui_treasury_notification_setdailylimitsuccessinfinite">Daily withdrawal limit is set to {infinityImage}.</string>
 	<string key="ui_treasury_notification_cointransferaldisabled">You need to be at least level {minLevel} to use the company treasury.</string>
 	<string key="ui_treasury_notification_error_generic">Treasury operation failed. Please retry.</string>
-	<string key="ui_setSiegeWindow">Set Siege Window</string>
-	<string key="ui_forDefending">For defending your territories</string>
-	<string key="ui_guildsiegetabdescription">&lt;font color="#ffffff"&gt;If your company owns a territory,&lt;/font&gt; If someone declares a war, your claim’s protection will go down\nautomatically in this time window.\n\nMake sure to defend your claim from the attackers during this time.</string>
+	<string key="ui_setSiegeWindow">Siege Window</string>
+	<string key="ui_forDefending">Defending your territories</string>
+	<string key="ui_guildsiegetabdescription">If your company owns a territory, your claim’s protection decreases automatically during the siege window when someone declares a war. Make sure to defend your claim from the attackers during this time.</string>
 	<string key="ui_guildsiegetimezonewarninganddisclaimer">{timezone}</string>
 	<string key="ui_guildsiegetimezonewarning">{timezone}</string>
-	<string key="ui_mycompanysiegewindow">Current siege window</string>
-	<string key="ui_setsiegebutton_canchange">Change Siege Window</string>
+	<string key="ui_mycompanysiegewindow">Current</string>
+	<string key="ui_setsiegebutton_canchange">Apply</string>
 	<string key="ui_setsiegebutton_nopermission">No Permission To Change</string>
 	<string key="ui_setsiegebutton_atwar">Cannot Change While At War</string>
 	<string key="ui_setsiegebutton_changein">Can Change In &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{timeRemaining}&lt;/font&gt;&lt;/font&gt;</string>
@@ -156,10 +156,10 @@
 	<string key="ui_siegewindow_tooltip_atwar">The siege window cannot be changed when a war is active.</string>
 	<string key="ui_siegewindow_tooltip_disabled">You cannot change the siege window again for {timeRemaining}.</string>
 	<string key="ui_siegewindowtime">{beginHour}:{minutes} - {endHour}:{minutes} ({timeZone})</string>
-	<string key="ui_siegeclaimsowned">Claims Owned: {numClaims}</string>
-	<string key="ui_siegenoclaimsowned">No need to set a siege window.</string>
-	<string key="ui_setsiegeswindowpopup_title">Change Siege Window?</string>
-	<string key="ui_setsiegeswindowpopup_message">Are you sure you want to set the siege window to &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{siegeWindow}&lt;/font&gt;&lt;/font&gt;?\nYou will not be allowed to change it again for &lt;font color="#cf0000"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{cooldownTime}.&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_siegeclaimsowned">Claims: {numClaims}</string>
+	<string key="ui_siegenoclaimsowned">Siege window not required.</string>
+	<string key="ui_setsiegeswindowpopup_title">Confirm Change</string>
+	<string key="ui_setsiegeswindowpopup_message">Change the siege window to &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{siegeWindow}&lt;/font&gt;&lt;/font&gt;?\nYou will not be allowed to change it again for &lt;font color="#cf0000"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{cooldownTime}.&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_flyoutsiegewindow">Siege window: {siegeWindow}</string>
 	<string key="ui_flyout_viewwardetail">View War Detail</string>
 	<string key="ui_flyout_atwaragainstsingle">This company is at war against 1 company.</string>
@@ -167,7 +167,7 @@
 	<string key="ui_flyout_nolongeratwar">This company is no longer at war.</string>
 	<string key="ui_guildscreenclosetooltip">Close this window.</string>
 	<string key="ui_guildscreentitle">Company</string>
-	<string key="ui_guildui">company ui</string>
+	<string key="ui_guildui">Company</string>
 	<string key="ui_guildclaimtitle">Company Claim</string>
 	<string key="ui_guildclaimmessage">Your Company claimed &lt;font color="#9e947e"&gt;{territoryName}&lt;/font&gt;.</string>
 	<string key="ui_guildrequestthrottledmessage">Request throttled. Try again later.</string>
@@ -205,7 +205,7 @@
 	<string key="ui_disbandguild">Disband Company</string>
 	<string key="ui_leaveguild_confirm">If you leave the company, &lt;font color="#FFD600"&gt;the following will occur: \n&lt;/font&gt;</string>
 	<string key="ui_leaveguild_final_confirm">Are you sure you want to leave the company?</string>
-	<string key="ui_leaveguild_cooldown_warning">&lt;font color="#FFD600"&gt;COMPANY WAR COOLDOWN ({cooldownTimeWar}).&lt;/font&gt; While the cooldown is active, you will only be able to fight as a mercenary in any defensive wars led by the Company you join next. \n\n&lt;font color="#FFD600"&gt;COMPANY WAR VANGUARD CONTRIBUTION COOLDOWN ({cooldownTimeInfluence}).&lt;/font&gt;  While the cooldown is active, you will be able to earn Influence for your Faction by completing PVP Missions, but the influence you earn will not go toward your new Company's selection as the War Vanguard.</string>
+	<string key="ui_leaveguild_cooldown_warning">While the &lt;font color="#FFD600"&gt;Company War Cooldown ({cooldownTimeWar})&lt;/font&gt; is active, you will only be able to fight as a mercenary in any defensive wars led by the Company you join next.\n\nWhile the &lt;font color="#FFD600"&gt;Company War Vanguard Contribution Cooldown ({cooldownTimeInfluence})&lt;/font&gt; is active, any Faction Influence earned by completing PVP Missions will not go towards your new Company's selection as the War Vanguard.</string>
 	<string key="ui_leaveguild_governor_confirm">&lt;font color="#FFD600"&gt;Forfeit Owned Territories? &lt;/font&gt;Another member will be promoted to Governor when you leave, and any Territories the Company owns will remain with the company under the new governor.</string>
 	<string key="ui_leaveguild_alone_confirm">You are the only member of this Company and when you leave, any Territories the Company owns will be lost and the Company Wallet will be added to your wallet.</string>
 	<string key="ui_leaveguild_alone_walletwarning">&lt;font color="#FFD600" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Collecting the Company Wallet will put you over the Coin Cap. If you dissolve the Company now, {amount} Coin will be lost.&lt;/font&gt;</string>
@@ -213,10 +213,10 @@
 	<string key="ui_guild_influence_cooldown_body">You have recently left a Company, and are still on cooldown for earning Vanguard Contribution along with Influence for your Faction.\n Your Influence will help your Faction, but would not weigh your Company toward being selected as the Vanguard if you declare war. \n This cooldown will end in: {cooldownTime}</string>
 	<string key="ui_cannot_leaveguild_ownwarsignup">You cannot leave while signed up for a War for your Company. Please abandon your War registration(s) first.</string>
 	<string key="ui_leftguildmessage">Left the Company.</string>
-	<string key="ui_modifycrest">Edit Crest</string>
-	<string key="ui_guildcrestsaved">New Crest Saved</string>
-	<string key="ui_modifyguildname">Edit Name</string>
-	<string key="ui_modifymessageoftheday">Edit Message of the Day</string>
+	<string key="ui_modifycrest">Edit Company Crest</string>
+	<string key="ui_guildcrestsaved">Company Crest Saved</string>
+	<string key="ui_modifyguildname">Edit Company Name</string>
+	<string key="ui_modifymessageoftheday">Edit Message</string>
 	<string key="ui_myguildtab">My Company</string>
 	<string key="ui_myguildtabtooltip">View or make changes to your Company.</string>
 	<string key="ui_noneinthisrank">None in this rank</string>
@@ -254,12 +254,12 @@
 	<string key="ui_permission_demolish_structures">{allowed} demolish Company structures</string>
 	<string key="ui_permission_demolish_territories">{allowed} demolish Company territories</string>
 	<string key="ui_permission_declare_war">{allowed} declare wars and set the siege window</string>
-	<string key="ui_permission_treasury_deposit">{allowed} make deposits to Company Treasury</string>
-	<string key="ui_permission_treasury_withdraw">{allowed} withdraw up to daily limit from Company Treasury</string>
-	<string key="ui_permission_treasury_withdraw_unlimited">{allowed} withdraw any amount from Company Treasury</string>
-	<string key="ui_permission_treasury_set_daily_limit">{allowed} set the daily Treasury withdrawal limit</string>
+	<string key="ui_permission_treasury_deposit">{allowed} make deposits</string>
+	<string key="ui_permission_treasury_withdraw">{allowed} withdraw up to daily limit</string>
+	<string key="ui_permission_treasury_withdraw_unlimited">{allowed} withdraw any amount</string>
+	<string key="ui_permission_treasury_set_daily_limit">{allowed} set the daily withdrawal limit</string>
 	<string key="ui_permission_territory_project_management">{allowed} start and cancel territory upgrades</string>
-	<string key="ui_permission_territory_taxation">{allowed} modify territory taxation values.</string>
+	<string key="ui_permission_territory_taxation">{allowed} modify territory taxation values</string>
 	<string key="ui_permission_war_raid_manage">{allowed} manage army groups and signups</string>
 	<string key="ui_permission_build_defensive_structures">{allowed} build and replace in a Company Fort</string>
 	<string key="ui_playeralreadyinguildmessage">{playerName} is already a member of your Company.</string>
@@ -377,8 +377,8 @@
 	<string key="ui_warframe_marker_warend">WAR END</string>
 	<string key="ui_warframe_siegeinfo_label">NEXT AVAILABLE SIEGE WINDOW</string>
 	<string key="ui_myguildtitle">My Company</string>
-	<string key="ui_otherguildstitlewithworld">All Companies Of {worldName}</string>
-	<string key="ui_otherguildstitle">All Companies</string>
+	<string key="ui_otherguildstitlewithworld">{worldName} Companies</string>
+	<string key="ui_otherguildstitle">World</string>
 	<string key="ui_otherguildssubtitle">Of {worldName}</string>
 	<string key="ui_guildsinworld">{number} in {worldName}</string>
 	<string key="ui_warstitle">Wars</string>
@@ -400,7 +400,7 @@
 	<string key="ui_otherguilds_pagenumber">Page {number}</string>
 	<string key="ui_otherguilds_previousbutton">Previous</string>
 	<string key="ui_otherguilds_nextbutton">Next</string>
-	<string key="ui_nowarsmessage">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Your company is not at war.&lt;/font&gt; \n\n To declare war on a territory, open the Map and click on its Settlement icon.</string>
+	<string key="ui_nowarsmessage">Your company is not at war.\n\nDeclare war by selecting a territory's settlement from the Map.</string>
 	<string key="ui_warnotification_title">Upcoming Wars</string>
 	<string key="ui_warnotification_scouting_phase_warning">Pre-war phase ends in {timeRemaining}!</string>
 	<string key="ui_warnotification_resolution_phase_warning">War ends in</string>
@@ -442,7 +442,7 @@
 	<string key="ui_cycle_permission_interaction">{interactionName}: {ownershipPermissionType}</string>
 	<string key="ui_permission_deposit_in_structure">{allowed} put items in storage structures</string>
 	<string key="ui_permission_withdraw_from_structure">{allowed} remove items from storage structures</string>
-	<string key="ui_permissioncategory_members">Member Management</string>
+	<string key="ui_permissioncategory_members">Management</string>
 	<string key="ui_permissioncategory_communications">Communications</string>
 	<string key="ui_permissioncategory_structures">Structures</string>
 	<string key="ui_permissioncategory_treasury">Treasury</string>
@@ -455,13 +455,13 @@
 	<string key="ui_trade_failure_global_storage_wrong_faction">Withdrawing requires both territories to be in your faction and be current on their upkeep.</string>
 	<string key="ui_trade_failure_global_storage_invalid_deposit">You can only deposit items to the storage shed at your current location.</string>
 	<string key="ui_trade_failure_global_storage_invalid_deposit_rfi">You can only deposit items into storage sheds from settlements you have visited.</string>
-	<string key="ui_guildclaimsowned">Claims Owned</string>
-	<string key="ui_guildoneclaimowned">Claim Owned</string>
+	<string key="ui_guildclaimsowned">Claims</string>
+	<string key="ui_guildoneclaimowned">Claim</string>
 	<string key="ui_acceptguildinvitepopuptitle">Join New Company?</string>
 	<string key="ui_acceptguildinvitepopupmessage_noguild">Are you sure you want to join a new company?</string>
 	<string key="ui_acceptguildinvitepopupmessage_in_guild">Are you sure you want to leave your current Company and join a new Company?</string>
 	<string key="ui_acceptguildinvitepopupmessage_alone">Are you sure you want to disband your current Company and join a new Company? You are the only member of this Company and when you leave, any Territories the Company owns will be lost and the Company Wallet will be added to your wallet.</string>
-	<string key="ui_acceptguildinvitepopupmessage_governor">Are you sure you want to leave your current Company and join a new Company? Another member will be promoted to Governor when you leave, and Territories the Company owns will remain with the company under the new Governor.</string>
+	<string key="ui_acceptguildinvitepopupmessage_governor">Are you sure you want to leave your current Company and join a new Company? Another member will be promoted to Governor when you leave, and any Territories the Company owns will remain with the company under the new Governor.</string>
 	<string key="ui_cantchangerank_iscurrentrank">Already the member's current rank</string>
 	<string key="ui_cantpromote_maxrank">Already highest possible rank</string>
 	<string key="ui_cantpromote_leaderatwar">Cannot transfer Company leadership while at war</string>
@@ -484,7 +484,7 @@
 	<string key="ui_guildnamewithrank">{guildName} ({rankName})</string>
 	<string key="ui_guildnamewithrankandtitle">{guildName} ({rankName}) | "{playerTitle}"</string>
 	<string key="ui_noguildonlytitle">"{playerTitle}"</string>
-	<string key="ui_refreshpage">Refresh Page</string>
+	<string key="ui_refreshpage">Refresh</string>
 	<string key="ui_setconquest">Set Siege Window</string>
 	<string key="ui_setconquestwindowtitle">Propose Window for Siege</string>
 	<string key="ui_setconquestwindowsubtitle">Opposing Company will narrow this time down to a {time} hour period after war is declared.</string>
@@ -520,7 +520,7 @@
 	<string key="ui_siege_hud_siege_parts">Siege Parts</string>
 	<string key="ui_siege_hud_inventory">Inventory</string>
 	<string key="ui_siege_hud_camp">Camp</string>
-	<string key="ui_siege_changeto">Change to</string>
+	<string key="ui_siege_changeto">New</string>
 	<string key="ui_siege_signup">Sign Up</string>
 	<string key="ui_siege_signup_as_attacker">Sign Up as an Attacker</string>
 	<string key="ui_siege_signup_as_defender">Sign Up as a Defender</string>
@@ -571,8 +571,8 @@
 	<string key="ui_siege_signup_failed_territory_not_unlocked_yet">You do not have access to this territory yet.</string>
 	<string key="ui_siege_signup_failed_warinprogress">Signups are no longer being accepted since the war or invasion has already started.</string>
 	<string key="ui_siege_signup_failed">There was a problem signing up for this war.</string>
-	<string key="ui_siege_signup_dailywarlimit_attacker_refreshlabel">Attacker War Limit refreshes in:</string>
-	<string key="ui_siege_signup_dailywarlimit_defender_refreshlabel">Defender War Limit refreshes in:</string>
+	<string key="ui_siege_signup_dailywarlimit_attacker_refreshlabel">Refreshes in:</string>
+	<string key="ui_siege_signup_dailywarlimit_defender_refreshlabel">Refreshes in:</string>
 	<string key="ui_siege_signup_dailywarlimit_attacker_available">You are able to sign up for wars as an Attacker.</string>
 	<string key="ui_siege_signup_dailywarlimit_attacker_limitreached">You've reached your Attacker War Limit for the day and cannot sign up for more wars as an Attacker.</string>
 	<string key="ui_siege_signup_dailywarlimit_defender_available">You are able to sign up for wars as a Defender.</string>

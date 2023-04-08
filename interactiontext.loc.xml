@@ -46,17 +46,17 @@
 	<string key="ui_attachments_interact">Configure Building</string>
 	<string key="ui_generator_interact">Manage Contents</string>
 	<string key="ui_territory_interact">Manage Settlement</string>
-	<string key="ui_storage_interact">View Contents</string>
+	<string key="ui_storage_interact">Open</string>
 	<string key="ui_paint_interact">Paint</string>
 	<string key="ui_prefab_refinery_interact">Refine</string>
 	<string key="ui_rest">Rest</string>
 	<string key="ui_add_to_journal">Add To Journal</string>
-	<string key="ui_journal_notification_title">New Page Discovered</string>
-	<string key="ui_journal_notification_body">Page: {loreTitle} has been added to your journal.</string>
-	<string key="ui_journal_notification_info">Chapter: {chapterTitle}, Page {currentPage} of {totalPages}</string>
+	<string key="ui_journal_notification_title">Document Discovered</string>
+	<string key="ui_journal_notification_body">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{loreTitle}&lt;/font&gt; added to Journal.</string>
+	<string key="ui_journal_notification_info">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{chapterTitle}&lt;/font&gt;, {currentPage}/{totalPages}</string>
 	<string key="ui_chapter_discovered_title">NEW CHAPTER DISCOVERED</string>
 	<string key="ui_chapter_complete_title">CHAPTER COMPLETE</string>
-	<string key="ui_view_mission_board">View Mission Board</string>
+	<string key="ui_view_mission_board">View Missions</string>
 	<string key="ui_view_armory">View Armory</string>
 	<string key="ui_view_territory_progression">View Territory Progression</string>
 	<string key="ui_view_town_projects">View Town Projects</string>
@@ -89,7 +89,7 @@
 	<string key="ui_build_structure_menu">Build Structure</string>
 	<string key="ui_replace_structure_menu">Replace Structure</string>
 	<string key="ui_place_structure">Place Structure</string>
-	<string key="ui_open_arena_menu">View Arena Information</string>
+	<string key="ui_open_arena_menu">View Trial Information</string>
 	<string key="ui_notification_summoning_stone_placed">SUMMONING STONE PLACED</string>
 	<string key="ui_watcherscampfire">Watcher's Campfire</string>
 	<string key="ui_hunterscampfire">Hunter's Campfire</string>
@@ -102,5 +102,6 @@
 	<string key="ui_reset_available_in">Available in {time}</string>
 	<string key="ui_emote_gather">[{keybind}] Perform {tagName} Emote to Gather</string>
 	<string key="ui_emotetag_dance">Dance</string>
+	<string key="ui_use_item">Use</string>
 </resources>
 

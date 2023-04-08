@@ -1,7 +1,7 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_milestone_rewards">Leveling Rewards</string>
-	<string key="ui_milestone_currently">Currently</string>
-	<string key="ui_milestone_current_level">Level &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{level}&lt;/font&gt;</string>
+	<string key="ui_milestone_currently">Current Level</string>
+	<string key="ui_milestone_current_level">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{level}&lt;/font&gt;</string>
 	<string key="WeaponSlot2_Name">Second Weapon Slot</string>
 	<string key="WeaponSlot2_Tooltip">Unlocks the second weapon slot.</string>
 	<string key="QuickSlot3_Name">Third Consumable Slot</string>
@@ -27,7 +27,7 @@
 	<string key="Duels_Name">Duels</string>
 	<string key="Duels_Tooltip">Unlocks the ability to duel other players.</string>
 	<string key="Invasions_Name">Invasions</string>
-	<string key="Invasions_Tooltip">Unlocks the ability to participate in invasions.</string>
+	<string key="Invasions_Tooltip">Unlocks the ability to participate in Invasions.</string>
 	<string key="OutpostRush_Name">Outpost Rush</string>
 	<string key="OutpostRush_Tooltip">Unlocks the ability to participate in Outpost Rush.</string>
 	<string key="PvPArenas_Name">3v3 Arenas</string>
@@ -36,25 +36,25 @@
 	<string key="Expertise_Tooltip">Unlocks Expertise. Expertise is a measure of the potential power of your item drops. Drops from creatures and areas that are level 60+ have a chance to increase this value. The more powerful the creature or area, the more likely you will see an increase.</string>
 	<string key="Expertise_Upgrade_Unlock">Upgrade {category} items with Umbral Shards</string>
 	<string key="AzothStaffT1_Name">Azoth Staff Tier 1 (Main Story Quest)</string>
-	<string key="AzothStaffT1_Tooltip">Unlocks "Forge the Staff" quest which grants an Azoth Staff Tier 1 (upon completion). An Azoth staff is used to close Level 25 Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
+	<string key="AzothStaffT1_Tooltip">Unlocks "Forge the Staff" quest, which grants an Azoth Staff Tier 1 (upon completion). An Azoth staff is used to close Level 25 Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
 	<string key="AzothStaffT2_Name">Azoth Staff Tier 2 (Main Story Quest)</string>
-	<string key="AzothStaffT2_Tooltip">Unlocks "Heart and Souls" quest which grants an Azoth Staff Tier 2 (upon completion). An Azoth staff is used to close Level 35 Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
+	<string key="AzothStaffT2_Tooltip">Unlocks "Heart and Souls" quest, which grants an Azoth Staff Tier 2 (upon completion). An Azoth staff is used to close Level 35 Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
 	<string key="AzothStaffT3_Name">Azoth Staff Tier 3 (Main Story Quest)</string>
-	<string key="AzothStaffT3_Tooltip">Unlocks "The Alliance" quest which grants an Azoth Staff Tier 3 (upon completion). An Azoth staff is used to close Level 45 Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
+	<string key="AzothStaffT3_Tooltip">Unlocks "The Alliance" quest, which grants an Azoth Staff Tier 3 (upon completion). An Azoth staff is used to close Level 45 Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
 	<string key="AzothStaffT4_Name">Azoth Staff Tier 4 (Main Story Quest)</string>
-	<string key="AzothStaffT4_Tooltip">Unlocks "Race for the Box" quest which grants an Azoth Staff Tier 4 (upon completion). An Azoth staff is used to close Level 55 Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
+	<string key="AzothStaffT4_Tooltip">Unlocks "Race for the Box" quest, which grants an Azoth Staff Tier 4 (upon completion). An Azoth staff is used to close Level 55 Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
 	<string key="AzothStaffT5_Name">Azoth Staff Tier 5 (Main Story Quest)</string>
-	<string key="AzothStaffT5_Tooltip">Unlocks "The Tempest's Heart" quest which grants an Azoth Staff Tier 5 (upon completion). An Azoth staff is used to close Level 60 and 65+ Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
+	<string key="AzothStaffT5_Tooltip">Unlocks "The Tempest's Heart" quest, which grants an Azoth Staff Tier 5 (upon completion). An Azoth staff is used to close Level 60 and 65+ Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
 	<string key="CampingT1_Name">Camping Tier 1 (Main Story Quest)</string>
 	<string key="CampingT1_Tooltip">Complete the Quest "Friend or Foe" in Monarch's Bluffs or "Tracking the Tribute" in Windsward to unlock the ability to create a Campsite for respawning and crafting.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
 	<string key="CampingT2_Name">Camping Tier 2 (Main Story Quest)</string>
 	<string key="CampingT2_Tooltip">Compete the Main Story Quest "Wilderness Wiseman" in Monarch's Bluffs or "Seed of Hope" in Windsward to upgrade the perks for your Campsites.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
 	<string key="CampingT3_Name">Camping Tier Upgrade (Survivalist Quest)</string>
-	<string key="CampingT3_Tooltip">Unlocks "Animal Instincts" quest which upgrades the camps you can build by one tier (upon completion).</string>
+	<string key="CampingT3_Tooltip">Unlocks "Animal Instincts" quest, which upgrades the camps you can build by one tier (upon completion).</string>
 	<string key="CampingT4_Name">Camping Tier Upgrade (Survivalist Quest)</string>
-	<string key="CampingT4_Tooltip">Unlocks "Survivalist: Lupine Observations" quest which upgrades the camps you can build by one tier (upon completion).</string>
+	<string key="CampingT4_Tooltip">Unlocks "Survivalist: Lupine Observations" quest, which upgrades the camps you can build by one tier (upon completion).</string>
 	<string key="CampingT5_Name">Camping Tier Upgrade (Survivalist Quest)</string>
-	<string key="CampingT5_Tooltip">Unlocks "Survivalist: Fading Lights" quest which upgrades the camps you can build by one tier (upon completion).</string>
+	<string key="CampingT5_Tooltip">Unlocks "Survivalist: Fading Lights" quest, which upgrades the camps you can build by one tier (upon completion).</string>
 	<string key="TerritoryRecommendation_1">Monarch's Bluffs, Windsward</string>
 	<string key="TerritoryRecommendation_1a">Everfall</string>
 	<string key="TerritoryRecommendation_2">Brightwood, Cutlass Keys</string>
@@ -64,5 +64,11 @@
 	<string key="TerritoryRecommendation_6">Edengrove, Ebonscale</string>
 	<string key="TerritoryRecommendation_7">Reekwater, Shattered Mountain, Brimstone Sands</string>
 	<string key="ui_new_recommended_territory">New recommended territory</string>
+	<string key="LoadoutSlots_Name" rel_version="Feature_Gear_Set_Storage">Two Loadout Slots</string>
+	<string key="LoadoutSlots_Tooltip" rel_version="Feature_Gear_Set_Storage">Unlocks two loadout slots.</string>
+	<string key="SeasonsRewards_Name" rel_version="Feature_Seasons_Rewards">Season Reward Track</string>
+	<string key="SeasonsRewards_Tooltip" rel_version="Feature_Seasons_Rewards">Unlocks the season reward track.</string>
+	<string key="SeasonsJourney_Name" rel_version="Feature_Seasons_Rewards">Season Journey</string>
+	<string key="SeasonsJourney_Tooltip" rel_version="Feature_Seasons_Rewards">Unlocks the season journey.</string>
 </resources>
 

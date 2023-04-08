@@ -68,7 +68,7 @@
 	<string key="inv_salvage">Salvage</string>
 	<string key="ui_salvage_icon">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_salvage" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Salvage</string>
 	<string key="ui_salvage_icon_noconfirm">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_salvage" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Quick Salvage</string>
-	<string key="ui_salvage_lock_icon">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_salvage" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Salvage Lock</string>
+	<string key="ui_salvage_lock_icon">Toggle Lock</string>
 	<string key="ui_inv_noNeedRepair">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_repair" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Repair not needed</string>
 	<string key="inv_salvage_confirm">Really salvage this item?</string>
 	<string key="inv_rarity_salvage_confirm">You are about to salvage a powerful item. Are you sure?</string>
@@ -96,7 +96,7 @@
 	<string key="ui_addnsaddle">Add\nSaddle</string>
 	<string key="ui_adventurer">Adventurer</string>
 	<string key="ui_affliction_bleeding">wound resistance</string>
-	<string key="ui_affliction_bleeding_tooltip">If you run out of wound resistance, you will become wounded and regain stamina at a much lower rate</string>
+	<string key="ui_affliction_bleeding_tooltip">If you run out of wound resistance, you will become wounded and regain stamina at a much lower rate.</string>
 	<string key="ui_affliction_burn">burn resistance</string>
 	<string key="ui_affliction_curse">corruption resistance</string>
 	<string key="ui_affliction_curse_tooltip">If you run out of corruption resistance, you will become corrupted and take damage equal to {[Type_StatusEffectData.Curse.HealthModifierPercent * -100]}% base health instantly.</string>
@@ -112,7 +112,7 @@
 	<string key="ui_affliction_poison_tooltip">If you run out of acid resistance, you will suffer Acid burn and take 500% more damage from acid. You can remove Acid Burn with Acid Tinctures which can be crafted at an arcane station.</string>
 	<string key="ui_affliction_weakness">weakness resistance</string>
 	<string key="ui_affliction_drowning">breath</string>
-	<string key="ui_affliction_drowning_tooltip">If you run out of breath, you suffocate and die</string>
+	<string key="ui_affliction_drowning_tooltip">If you run out of breath, you suffocate and die.</string>
 	<string key="ui_affliction_blight">blight resistance</string>
 	<string key="ui_affliction_blight_tooltip">If you run out of blight resistance, you will become blighted and deal {[Type_StatusEffectData.Blight.DMGStandard * 100]}% reduced damage, take {[Type_StatusEffectData.Blight.HealMod * 100]}% reduced healing, and lose {[Type_StatusEffectData.Blight.HealthModifierPercent * -100]}% of your base health every {[Type_StatusEffectData.Blight.TickRate]} seconds for {[Afflictions.AfflictionBlight.AfflictedDrainTime]} seconds.</string>
 	<string key="ui_affliction_mutcurse3" rel_version="Feature_Dungeon_Mutators">combustible resistance</string>
@@ -122,7 +122,7 @@
 	<string key="ui_affliction_mutcurse2" rel_version="Feature_Dungeon_Mutators_pt2">weary resistance</string>
 	<string key="ui_affliction_mutcurse2_tooltip" rel_version="Feature_Dungeon_Mutators">If you run out of resistance, a Weary zone will be cast on you, slowing your movement and increasing all damage you take. Using abilities increases resistance. Resistance is shared among all members of your group.</string>
 	<string key="ui_afflicted_bleeding">wounded</string>
-	<string key="ui_afflicted_bleeding_tooltip">While wounded, you regain stamina at a much lower rate</string>
+	<string key="ui_afflicted_bleeding_tooltip">While wounded, you regain stamina at a much lower rate.</string>
 	<string key="ui_afflicted_burn">burning</string>
 	<string key="ui_afflicted_curse">corrupted</string>
 	<string key="ui_afflicted_curse_tooltip">While corrupted, you lose {[Type_StatusEffectData.Curse.HealthModifierPercent * 100]}% base health instantly.</string>
@@ -130,7 +130,7 @@
 	<string key="ui_afflicted_disease_tooltip">Test2</string>
 	<string key="ui_afflicted_drunk">drunk</string>
 	<string key="ui_afflicted_frostbite">frostbitten</string>
-	<string key="ui_afflicted_frostbite_tooltip">While frostbitten, you cannot run or dodge</string>
+	<string key="ui_afflicted_frostbite_tooltip">While frostbitten, you cannot run or dodge.</string>
 	<string key="ui_afflicted_injury">injured</string>
 	<string key="ui_afflicted_insane">insane</string>
 	<string key="ui_afflicted_inspired">inspired</string>
@@ -138,7 +138,7 @@
 	<string key="ui_afflicted_poison_tooltip">While suffering acid burn, you take 500% more damage from acid. You can remove Acid Burn with Acid Tnctures which can be crafted at an arcane station.</string>
 	<string key="ui_afflicted_weakness">weak</string>
 	<string key="ui_afflicted_drowning">drowning</string>
-	<string key="ui_afflicted_drowning_tooltip">You have drowned to death</string>
+	<string key="ui_afflicted_drowning_tooltip">You have drowned to death.</string>
 	<string key="ui_afflicted_blight">blighted</string>
 	<string key="ui_afflicted_blight_tooltip">While blighted, you deal {[Type_StatusEffectData.Blight.DMGStandard * 100]}% reduced damage, take {[Type_StatusEffectData.Blight.HealMod * 100]}% reduced healing, and lose {[Type_StatusEffectData.Blight.HealthModifierPercent * 100]}% of your base health every {[Type_StatusEffectData.Blight.TickRate]} seconds.</string>
 	<string key="ui_afflicted_mutcurse3" rel_version="Feature_Dungeon_Mutators">combustion</string>
@@ -159,7 +159,7 @@
 	<string key="ui_anvil">Anvil</string>
 	<string key="ui_appearance_description">Customize the look of your avatar and make it your own.</string>
 	<string key="ui_appearance">Appearance</string>
-	<string key="ui_appearance_hold_to_rotate">HOLD TO ROTATE</string>
+	<string key="ui_appearance_hold_to_rotate">Hold to Rotate</string>
 	<string key="ui_armor">Armor</string>
 	<string key="ui_artBook">View Art Book</string>
 	<string key="ui_attach">ATTACH</string>
@@ -173,7 +173,7 @@
 	<string key="ui_b">B</string>
 	<string key="ui_back">Back</string>
 	<string key="ui_background_description">Choose a pattern that compliments your sigil.</string>
-	<string key="ui_background">FACTION PATTERN DESIGN</string>
+	<string key="ui_background">Pattern</string>
 	<string key="ui_backstory">Starting Gear</string>
 	<string key="ui_bait">BAIT</string>
 	<string key="ui_baskets">BASKETS</string>
@@ -195,7 +195,7 @@
 	<string key="ui_cancelin">Cancel Available in {time}s</string>
 	<string key="ui_canvas">Canvas</string>
 	<string key="ui_azoth_currency">Azoth</string>
-	<string key="ui_azoth_desc">Azoth can be used for fast-travel between shrines and settlements and to craft more powerful items.\n\nAzoth is primarily acquired by completing Quests and closing Corruption Breaches.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Derived From:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; Corruption Breaches, Quests&lt;/font&gt;</string>
+	<string key="ui_azoth_desc">Azoth can be used for fast travel between shrines and settlements and to craft more powerful items.\n\nAcquire Azoth by completing Quests and closing Corruption Breaches.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; Corruption Breaches, Quests&lt;/font&gt;</string>
 	<string key="ui_cards">Cards</string>
 	<string key="ui_leave_arena_coming_soon">Leaving Arena functionality Coming Soon</string>
 	<string key="ui_equipfishingpole">[{value}] to Fish</string>
@@ -203,16 +203,16 @@
 	<string key="ui_fishing_hotspot_nearby">Find the hotspot in the nearby area!</string>
 	<string key="ui_changekey">Change Key</string>
 	<string key="ui_changeweapon">change weapon</string>
-	<string key="ui_create_character_title_main_menu">Create a Character.</string>
+	<string key="ui_create_character_title_main_menu">Create a Character</string>
 	<string key="ui_create_character_message_main_menu">Click 'Play' to create a character in this world.</string>
-	<string key="ui_character_main_menu">Character.</string>
-	<string key="ui_world_main_menu">World.</string>
+	<string key="ui_character_main_menu">Character</string>
+	<string key="ui_world_main_menu">World</string>
 	<string key="ui_charactername">Character Name</string>
-	<string key="ui_reserved_binding_toggleRaidWindow">Toggle Army Window</string>
-	<string key="ui_reserved_binding_openWarTutorial">Show War Tutorial</string>
+	<string key="ui_reserved_binding_toggleRaidWindow">Army</string>
+	<string key="ui_reserved_binding_openWarTutorial">War Tutorial</string>
 	<string key="ui_reserved_binding_openStyleGuide">Open Style Guide</string>
 	<string key="ui_reserved_binding_toggleFishingBaitWindow">Toggle Fishing Bait Window</string>
-	<string key="ui_reserved_binding_ui_repairKitItemModifier">Use Repair Kit</string>
+	<string key="ui_reserved_binding_ui_repairKitItemModifier">Repair Kit</string>
 	<string key="ui_reserved_binding_ui_nav_home">Home</string>
 	<string key="ui_reserved_binding_ui_nav_select">Select</string>
 	<string key="ui_reserved_binding_musicalactions_invite_performer">Performer Invitation</string>
@@ -222,7 +222,7 @@
 	<string key="ui_chat_slash_commands">Slash Commands</string>
 	<string key="ui_chat_utilities">Utilities</string>
 	<string key="ui_chat_social">Social</string>
-	<string key="ui_choose_item_skin">Select Skin.</string>
+	<string key="ui_choose_item_skin">Change Skin</string>
 	<string key="ui_chatchannel">Chat Channel</string>
 	<string key="ui_voicechatmessage" comment="There are a lot of tags in this string, but the 'says' is the only part that needs to be translated/moved. Keep the colon. It is used by the text to speech system to pause.">&lt;volume level="{volumeValue}"&gt;&lt;rate absspeed="{rateValue}"&gt;{playerName} says: &lt;pitch middle="{pitchValue}"&gt;{message}&lt;/pitch&gt;&lt;/rate&gt;&lt;/volume&gt;</string>
 	<string key="ui_voicesystemmessage">&lt;volume level="{volumeValue}"&gt;&lt;rate absspeed="{rateValue}"&gt;{message}&lt;/rate&gt;&lt;/volume&gt;</string>
@@ -235,7 +235,7 @@
 	<string key="ui_company_name">Company Name</string>
 	<string key="ui_company_name_input">Name Your Company</string>
 	<string key="ui_customize_company_information">These settings can be changed at any time</string>
-	<string key="ui_no_points_spent">No Points Spent</string>
+	<string key="ui_no_points_spent">No Points Assigned</string>
 	<string key="ui_commit_1_point">Assign &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt; 1 &lt;/font&gt; Point</string>
 	<string key="ui_commit_points">Assign &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt; {points} &lt;/font&gt; Points</string>
 	<string key="ui_abilities_on_cooldown">Abilities on Cooldown</string>
@@ -247,13 +247,13 @@
 	<string key="ui_connecttogame">Connect to Game</string>
 	<string key="ui_contacts">Contacts</string>
 	<string key="ui_with">With:</string>
-	<string key="ui_into">Into:</string>
+	<string key="ui_into"> </string>
 	<string key="ui_purchase_slot_button">Purchase Slot</string>
 	<string key="ui_convertitem">Convert {numItems} Items</string>
 	<string key="ui_copperaxehead">copper axe head</string>
-	<string key="ui_copyright">Copyright © 2021-2023, Amazon.com, Inc. or its affiliates.  All rights reserved.</string>
+	<string key="ui_copyright">Copyright © 2021-2023, Amazon.com, Inc. or its affiliates. All rights reserved.</string>
 	<string key="ui_craft">Craft</string>
-	<string key="ui_craft_fee">{territoryName} TAX: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{fee} &lt;/font&gt;  &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="0.9" yOffset="0.7"&gt;&lt;/img&gt;</string>
+	<string key="ui_craft_fee">{territoryName} Tax: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{fee} &lt;/font&gt;  &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="0.9" yOffset="0.7"&gt;&lt;/img&gt;</string>
 	<string key="ui_crafting_carried">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt; Carried</string>
 	<string key="ui_crafting_none">Items crafted without a special resource can still have perks, but are less likely to have a specific type.</string>
 	<string key="ui_crafting_item_perks">Item Perks</string>
@@ -269,10 +269,10 @@
 	<string key="ui_prime_reward_notification">Prime Gaming Reward</string>
 	<string key="ui_prime_reward_text">You've received a Prime Gaming item</string>
 	<string key="ui_createnewcharacter">CREATE NEW CHARACTER</string>
-	<string key="ui_crest">Crest</string>
+	<string key="ui_crest">Company Crest</string>
 	<string key="ui_crest_emblem">Crest Emblem</string>
-	<string key="ui_crest_description" comment="explanation of why only certain background options appear in crest creation depending on faction">Your crest's background is limited by your Faction alignment. You are aligned with {faction}</string>
-	<string key="ui_crouchtoggle">Crouch Toggle</string>
+	<string key="ui_crest_description" comment="explanation of why only certain background options appear in crest creation depending on faction">A crest's pattern is limited by your faction.\nCurrent alignment: {faction}</string>
+	<string key="ui_crouchtoggle">Crouch</string>
 	<string key="ui_currenttime">Current Time</string>
 	<string key="ui_cursorsensitivity">Cursor Sensitivity</string>
 	<string key="ui_customize_company">Customize Your Company</string>
@@ -339,6 +339,7 @@
 	<string key="ui_abbrev_month_11">Nov</string>
 	<string key="ui_abbrev_month_12">Dec</string>
 	<string key="ui_apply">Apply</string>
+	<string key="ui_clear_all">Clear All</string>
 	<string key="ui_default">Default</string>
 	<string key="ui_long_dayofweek_1">Sunday</string>
 	<string key="ui_long_dayofweek_2">Monday</string>
@@ -381,13 +382,14 @@
 	<string key="ui_drum">Drum</string>
 	<string key="ui_durability">Durability:</string>
 	<string key="ui_e">E</string>
+	<string key="ui_editname">Edit Name</string>
 	<string key="ui_ehold">e (hold)</string>
 	<string key="ui_—elizabethi">— Elizabeth I</string>
 	<string key="ui_none">None</string>
 	<string key="ui_playertitle_alpha_tester">Founder</string>
 	<string key="ui_playertitle_preorder">Expedition One</string>
-	<string key="ui_enablepushtotalksound">Enable Push to Talk Sound</string>
-	<string key="ui_enablevoicechat">Enable Voice Chat</string>
+	<string key="ui_enablepushtotalksound">Push to Talk Sound</string>
+	<string key="ui_enablevoicechat">Voice Chat</string>
 	<string key="ui_end">End</string>
 	<string key="ui_enter">Enter</string>
 	<string key="ui_enterplayername">Enter Player Name</string>
@@ -415,7 +417,7 @@
 	<string key="ui_flat">Flat</string>
 	<string key="ui_food">Food</string>
 	<string key="ui_foreground_description">Select a sigil that represents yourself.</string>
-	<string key="ui_foreground">COMPANY CREST</string>
+	<string key="ui_foreground">Crest</string>
 	<string key="ui_free">FREE</string>
 	<string key="ui_friendrequests">Friend Requests</string>
 	<string key="ui_fuel">FUEL</string>
@@ -440,7 +442,7 @@
 	<string key="ui_hammerampanvil">Hammer &amp; Anvil</string>
 	<string key="ui_have">Have</string>
 	<string key="ui_hit">HIT</string>
-	<string key="ui_hold">{Button} (HOLD)</string>
+	<string key="ui_hold">{Button} (Hold)</string>
 	<string key="ui_holdetogiveup">Press [E] to give up</string>
 	<string key="ui_horseequipment">Horse Equipment</string>
 	<string key="ui_hour">hour</string>
@@ -460,8 +462,8 @@
 	<string key="ui_craftingnearitemlimit">Near inventory item limit. Crafted items may be dropped.</string>
 	<string key="ui_inventory_warning_toofullforrewards">Too many items in inventory to receive rewards.</string>
 	<string key="ui_inventoryslotsremaining">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{count}&lt;/font&gt; inventory slots remaining</string>
-	<string key="ui_inventoryweightremaining">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{Weight}&lt;/font&gt; pounds remaining</string>
-	<string key="ui_inventoryMaxWeight">Carrying maximum weight</string>
+	<string key="ui_inventoryweightremaining">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{Weight}&lt;/font&gt; remaining</string>
+	<string key="ui_inventoryMaxWeight">Overencumbered</string>
 	<string key="ui_inventoryweight">WEIGHT</string>
 	<string key="ui_inventoryslots">UNIQUE ITEMS</string>
 	<string key="ui_filtereditems">{filtered} items hidden by filter.</string>
@@ -494,7 +496,7 @@
 	<string key="ui_locationname">Location name</string>
 	<string key="ui_logdoor">Log Door</string>
 	<string key="ui_m">m</string>
-	<string key="ui_makecamp">Make Camp</string>
+	<string key="ui_makecamp">Camp</string>
 	<string key="ui_male">Male</string>
 	<string key="ui_map">Map</string>
 	<string key="ui_marchinggame">Marching Game</string>
@@ -575,7 +577,7 @@
 	<string key="ui_presskeytoassign">Press the key to assign this ability to.</string>
 	<string key="ui_previous">Previous</string>
 	<string key="ui_progress">Progress</string>
-	<string key="ui_pronetoggle">Prone Toggle</string>
+	<string key="ui_pronetoggle">Prone</string>
 	<string key="ui_pushtotalk">Push-to-Talk</string>
 	<string key="ui_pushtotalkkey">Push to Talk Key</string>
 	<string key="ui_received_from">Received From</string>
@@ -609,11 +611,11 @@
 	<string key="ui_weaponcycleup">Cycle Weapon Up</string>
 	<string key="ui_weaponcycledown">Cycle Weapon Down</string>
 	<string key="ui_weaponcyclemod">Cycle Weapon Modifer</string>
-	<string key="ui_zoom_modifier">Camera Zoom Modifier</string>
+	<string key="ui_zoom_modifier">Zoom Modifier</string>
 	<string key="ui_weapon1">Weapon #1</string>
 	<string key="ui_weapon2">Weapon #2</string>
 	<string key="ui_weapon3">Weapon #3</string>
-	<string key="ui_swapweapon">Swap Active Weapons</string>
+	<string key="ui_swapweapon">Swap Weapon</string>
 	<string key="ui_consumable1">Consumable #1</string>
 	<string key="ui_consumable2">Consumable #2</string>
 	<string key="ui_consumable3">Consumable #3</string>
@@ -624,50 +626,63 @@
 	<string key="ui_quickslot2">Quickslot #2</string>
 	<string key="ui_quickslot3">Quickslot #3</string>
 	<string key="ui_quickslot4">Quickslot #4</string>
-	<string key="ui_head_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Head Slot&lt;/font&gt;</string>
-	<string key="ui_chest_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Chest Slot&lt;/font&gt;</string>
-	<string key="ui_hands_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Hand Slot&lt;/font&gt;</string>
-	<string key="ui_legs_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Leg Slot&lt;/font&gt;</string>
-	<string key="ui_feet_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Foot Slot&lt;/font&gt;</string>
-	<string key="ui_amulet_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Amulet Slot&lt;/font&gt;</string>
-	<string key="ui_token_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Token Slot&lt;/font&gt;</string>
-	<string key="ui_ring_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Ring Slot&lt;/font&gt;</string>
-	<string key="ui_bag_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Bag Slot&lt;/font&gt;</string>
-	<string key="ui_arrow_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Arrow Slot&lt;/font&gt;</string>
-	<string key="ui_cartridge_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Cartridge Slot&lt;/font&gt;</string>
-	<string key="ui_shield_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Shield Slot&lt;/font&gt;</string>
+	<string key="ui_head_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Headwear Slot&lt;/font&gt;</string>
+	<string key="ui_chest_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Chestwear Slot&lt;/font&gt;</string>
+	<string key="ui_hands_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Glove Slot&lt;/font&gt;</string>
+	<string key="ui_legs_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Legwear Slot&lt;/font&gt;</string>
+	<string key="ui_feet_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Footwear Slot&lt;/font&gt;</string>
+	<string key="ui_armor_slot_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Craftable at an Outfitting Station or a Forge.&lt;/font&gt;</string>
+	<string key="ui_amulet_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Amulet Slot&lt;/font&gt;</string>
+	<string key="ui_token_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Token Slot&lt;/font&gt;</string>
+	<string key="ui_ring_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Ring Slot&lt;/font&gt;</string>
+	<string key="ui_accessory_slot_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Craftable at an Outfitting Station.&lt;/font&gt;</string>
+	<string key="ui_bag_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Bag Slot&lt;/font&gt;</string>
+	<string key="ui_bag_slot_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Craftable at an Outfitting Station. (Requires a Rune of Holding, which can be purchased from a Faction Shop).&lt;/font&gt;</string>
+	<string key="ui_arrow_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Arrow Slot&lt;/font&gt;</string>
+	<string key="ui_cartridge_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Cartridge Slot&lt;/font&gt;</string>
+	<string key="ui_arrow_slot_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Craftable at a Workshop or a Camp.&lt;/font&gt;</string>
+	<string key="ui_cartridge_slot_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Craftable at a Workshop.&lt;/font&gt;</string>
+	<string key="ui_shield_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Shield Slot&lt;/font&gt;</string>
+	<string key="ui_shield_slot_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Craftable at a Forge.&lt;/font&gt;</string>
 	<string key="ui_lifestaff_combat">Life Staff Combat</string>
 	<string key="ui_target_self">Target Self</string>
-	<string key="ui_exit_auto_target">Exit Auto Target</string>
+	<string key="ui_exit_auto_target">Exit Auto-Target</string>
 	<string key="ui_cycle_target_up">Cycle Target Up</string>
 	<string key="ui_cycle_target_down">Cycle Target Down</string>
-	<string key="ui_target_group1">Target Group Member 1</string>
-	<string key="ui_target_group2">Target Group Member 2</string>
-	<string key="ui_target_group3">Target Group Member 3</string>
-	<string key="ui_target_group4">Target Group Member 4</string>
-	<string key="ui_target_group5">Target Group Member 5</string>
-	<string key="ui_target_groupmode_toggle">Toggle Group Mode</string>
-	<string key="ui_slot_unlock_at">Unlocked at level {level}</string>
-	<string key="ui_slot_unlock_at_abbr">Lv. {level}</string>
-	<string key="ui_quickslot_mainhand_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Main-hand Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;A weapon placed in this slot can be switched to by pressing the corresponding key.&lt;/font&gt;</string>
-	<string key="ui_quickslot_consumable_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Consumable Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;An item placed in this slot can be used by pressing the corresponding key.&lt;/font&gt;</string>
-	<string key="ui_quickslot_sickle_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Harvesting Sickle Slot&lt;/font&gt;</string>
-	<string key="ui_quickslot_fishing_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Fishing Pole Slot&lt;/font&gt;</string>
-	<string key="ui_quickslot_logging_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Logging Axe Slot&lt;/font&gt;</string>
-	<string key="ui_quickslot_skinning_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Skinning Knife Slot&lt;/font&gt;</string>
-	<string key="ui_quickslot_pickaxe_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Mining Pickaxe Slot&lt;/font&gt;</string>
-	<string key="ui_quickslot_azoth_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Azoth Staff Slot&lt;/font&gt;</string>
-	<string key="ui_quickslot_flute_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Flute Slot&lt;/font&gt;</string>
-	<string key="ui_quickslot_guitar_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Guitar Slot&lt;/font&gt;</string>
-	<string key="ui_quickslot_mandolin_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Mandolin Slot&lt;/font&gt;</string>
-	<string key="ui_quickslot_bass_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Upright Bass Slot&lt;/font&gt;</string>
-	<string key="ui_quickslot_drums_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Drums Slot&lt;/font&gt;</string>
+	<string key="ui_target_group1">Target Group Member #1</string>
+	<string key="ui_target_group2">Target Group Member #2</string>
+	<string key="ui_target_group3">Target Group Member #3</string>
+	<string key="ui_target_group4">Target Group Member #4</string>
+	<string key="ui_target_group5">Target Group Member #5</string>
+	<string key="ui_target_groupmode_toggle">Group Mode</string>
+	<string key="ui_slot_unlock_at">Level {level}</string>
+	<string key="ui_slot_unlock_at_abbr">{level}</string>
+	<string key="ui_quickslot_mainhand_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Weapon Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;A weapon placed in this slot can be switched to by pressing the corresponding key.&lt;/font&gt;</string>
+	<string key="ui_quickslot_mainhand_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Craftable at a Forge, Workshop, Arcane Repository, or a Camp.&lt;/font&gt;</string>
+	<string key="ui_quickslot_consumable_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Consumable Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;An item placed in this slot can be used by pressing the corresponding key.&lt;/font&gt;</string>
+	<string key="ui_quickslot_consumable_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Consumables can be crafted at stations in a Settlement or a Camp.&lt;/font&gt;</string>
+	<string key="ui_quickslot_sickle_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Harvesting Sickle Slot&lt;/font&gt;</string>
+	<string key="ui_quickslot_fishing_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Fishing Pole Slot&lt;/font&gt;</string>
+	<string key="ui_quickslot_logging_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Logging Axe Slot&lt;/font&gt;</string>
+	<string key="ui_quickslot_skinning_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Skinning Knife Slot&lt;/font&gt;</string>
+	<string key="ui_quickslot_pickaxe_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Mining Pickaxe Slot&lt;/font&gt;</string>
+	<string key="ui_quickslot_tool_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Craftable at a Workshop or a Camp.&lt;/font&gt;</string>
+	<string key="ui_quickslot_azoth_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Azoth Staff Slot&lt;/font&gt;</string>
+	<string key="ui_quickslot_azoth_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Azoth Staff can be acquired by completing the quest “Forge Your Azoth Staff” in Windsward.&lt;/font&gt;</string>
+	<string key="ui_quickslot_flute_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Flute Slot&lt;/font&gt;</string>
+	<string key="ui_quickslot_guitar_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Guitar Slot&lt;/font&gt;</string>
+	<string key="ui_quickslot_mandolin_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Mandolin Slot&lt;/font&gt;</string>
+	<string key="ui_quickslot_bass_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Upright Bass Slot&lt;/font&gt;</string>
+	<string key="ui_quickslot_drums_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Drums Slot&lt;/font&gt;</string>
+	<string key="ui_quickslot_instrument_tooltip_unlocked" rel_version="Feature_MusicalPerformances">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Craftable at a Workshop.&lt;/font&gt;</string>
 	<string key="ui_instrument-flute-slot_name" rel_version="Feature_MusicalPerformances">Flute</string>
 	<string key="ui_instrument-guitar-slot_name" rel_version="Feature_MusicalPerformances">Guitar</string>
 	<string key="ui_instrument-mandolin-slot_name" rel_version="Feature_MusicalPerformances">Mandolin</string>
 	<string key="ui_instrument-uprightbass-slot_name" rel_version="Feature_MusicalPerformances">Upright Bass</string>
 	<string key="ui_instrument-drums-slot_name" rel_version="Feature_MusicalPerformances">Drums</string>
-	<string key="ui_heartgem-slot" rel_version="Feature_Heartgems">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Heartgem Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;A Heartrune placed in this slot unlocks its ability.\n\nUnlocked through discovering the quest "Secrets of the Heartgem" in Brimstone Sands&lt;/font&gt;</string>
+	<string key="ui_heartgem-slot" rel_version="Feature_Heartgems">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Heartrune Slot&lt;/font&gt;</string>
+	<string key="ui_heartgem-slot_locked" rel_version="Feature_Heartgems">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Unlocked by completing the quest “Secrets of the Heartgem” in Brimstone Sands.&lt;/font&gt;</string>
+	<string key="ui_heartgem-slot_unlocked" rel_version="Feature_Heartgems">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Place a Heartrune in this slot to use its ability.\n\nCraftable at a Stonecutting Table.&lt;/font&gt;</string>
 	<string key="ui_heartgemcharge-tooltip" rel_version="Feature_Heartgems">Heartgem gains charge by performing various actions in combat:\n\n  Dealing damage (including blocked hits).\n\n  Taking damage (including blocked hits).\n\n  Applying buffs (including heals) and debuffs.</string>
 	<string key="ui_heartgem_rune_ability" rel_version="Feature_Heartgems">Heartrune Ability</string>
 	<string key="ui_heartgem_rune_ability_silenced" rel_version="Feature_Heartgems">Heartrune Ability Silenced</string>
@@ -727,8 +742,8 @@
 	<string key="ui_sheathe">Sheathe</string>
 	<string key="ui_roll">ROLL</string>
 	<string key="ui_rolldodge">Dodge</string>
-	<string key="ui_traverse">Jump/Traverse</string>
-	<string key="ui_toggleMoveSpeed">Toggle Run/Walk</string>
+	<string key="ui_traverse">Jump / Traverse</string>
+	<string key="ui_toggleMoveSpeed">Toggle Run / Walk</string>
 	<string key="ui_rollspeed">Roll Speed</string>
 	<string key="ui_runtoggle">Auto-run</string>
 	<string key="ui_s">S</string>
@@ -736,21 +751,23 @@
 	<string key="ui_sampletooltipnthistool">Sample tooltip\nThis tooltip is a simple box with a frame that just displays text.</string>
 	<string key="ui_save">Save</string>
 	<string key="ui_se">SE</string>
-	<string key="ui_binding_reserved_key_blocked">Unable to bind key {key}, reserved for {actionName} which cannot be unbound.</string>
-	<string key="ui_binding_reserved_key_title_single">Unbind Old Action?</string>
-	<string key="ui_binding_reserved_key_message_single">You are about the change the assignment of {key} to a new action: {newAction}. This will leave the old action, {oldAction}, not bound to any key. Proceed?</string>
-	<string key="ui_binding_reserved_key_title_multiple">Unbind Old Actions?</string>
-	<string key="ui_binding_reserved_key_message_multiple">You are about the change the assignment of {key} to a new action: {newAction}. This will leave the following old actions not bound to any key. Proceed?\n{oldActions}</string>
+	<string key="ui_binding_reserved_key_blocked">Unable to bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt;to {key}, which cannot be unbound.</string>
+	<string key="ui_binding_reserved_key_title_single">Change Binding</string>
+	<string key="ui_binding_reserved_key_message_single">Bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{key}&lt;/font&gt;?\n\n&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldAction}&lt;/font&gt; will no longer be bound to any key.</string>
+	<string key="ui_binding_reserved_key_title_multiple">Change Binding</string>
+	<string key="ui_binding_reserved_key_message_multiple">Bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{key}&lt;/font&gt;?\n\nThe following actions will no longer be bound to any key:\n\n&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldActions}&lt;/font&gt;</string>
 	<string key="ui_secondsLeft">{NumSeconds} seconds</string>
 	<string key="ui_second">second</string>
 	<string key="ui_seconds">seconds</string>
 	<string key="ui_seconds_short">s</string>
 	<string key="ui_milliseconds">{time}ms</string>
 	<string key="ui_percent">{value}%</string>
+	<string key="ui_bracket_amount">[{amount}]</string>
 	<string key="ui_select">Select</string>
 	<string key="ui_selectarespawnlocation">Select your respawn location</string>
 	<string key="ui_selectcanvasntoload">Select Canvas \n  To Load</string>
 	<string key="ui_servername">WORLD</string>
+	<string key="ui_worldnamenotfound">World Name Not Found</string>
 	<string key="ui_population" comment="Abbreviated Population">POP.</string>
 	<string key="ui_population_low" comment="This should be as short as possible">LOW</string>
 	<string key="ui_population_med" comment="This should be as short as possible. Abbreviated Medium.">MED</string>
@@ -784,7 +801,7 @@
 	<string key="ui_container">CONTAINER</string>
 	<string key="ui_storageshed">STORAGE SHED</string>
 	<string key="ui_stowaway">Stowaway</string>
-	<string key="ui_enable_audio_window_unfocus">Enable Audio in Background</string>
+	<string key="ui_enable_audio_window_unfocus">Play Audio in Background</string>
 	<string key="ui_enable_audio_window_unfocus_desc">If enabled, game audio will continue to play while the window is minimized or unfocused</string>
 	<string key="ui_submit">Submit</string>
 	<string key="ui_comma">,</string>
@@ -792,6 +809,8 @@
 	<string key="ui_t">T</string>
 	<string key="ui_tab">tab</string>
 	<string key="ui_takeall">Take all</string>
+	<string key="ui_takeall_with_item_count">Take all ({amount})</string>
+	<string key="ui_empty">Empty</string>
 	<string key="ui_tapthebuttonstomatchth">Tap the buttons to match the color.</string>
 	<string key="ui_targetlock">Target Lock</string>
 	<string key="ui_tesat">tsetsdr</string>
@@ -805,7 +824,7 @@
 	<string key="ui_timeseconds">Seconds</string>
 	<string key="ui_timeofprotectionremaining">Protection time remaining.</string>
 	<string key="ui_tradingpost">Trading Post</string>
-	<string key="ui_tradingpost_desc">Players can buy and sell items.</string>
+	<string key="ui_tradingpost_desc">Buy and sell items from other players here.</string>
 	<string key="ui_trollfishingline">: Troll fishing line</string>
 	<string key="ui_trollforabite">Troll for a bite...</string>
 	<string key="ui_turnlookupanddown">Look Around</string>
@@ -880,6 +899,7 @@
 	<string key="ui_escape_build_mode">Press Escape To Exit Build Mode</string>
 	<string key="ui_feedback_format">SUBMIT FEEDBACK</string>
 	<string key="ui_feedback_general">General</string>
+	<string key="ui_compensations_format" rel_version="Feature_Make_Good">COMPENSATIONS</string>
 	<string key="ui_in_game_survey_header">Are you enjoying new world?</string>
 	<string key="ui_in_game_survey_star_prompt">How would you rate New World so far?</string>
 	<string key="ui_in_game_survey_rating_bad">Bad</string>
@@ -888,7 +908,7 @@
 	<string key="ui_in_game_survey_rating_great">Great</string>
 	<string key="ui_in_game_survey_rating_fantastic">Fantastic</string>
 	<string key="ui_in_game_survey_feedback_prompt">Any other comments?</string>
-	<string key="ui_in_game_survey_feedback_empty">Type Feedback Here</string>
+	<string key="ui_in_game_survey_feedback_empty">Do not include personal or sensitive data</string>
 	<string key="ui_in_game_survey_button_cancel">Not Now</string>
 	<string key="ui_in_game_survey_button_submit">Submit</string>
 	<string key="ui_in_game_survey_button_submit_disabled_tooltip">Please rate New World to submit.</string>
@@ -912,15 +932,15 @@
 	<string key="ui_world_select_population">Population</string>
 	<string key="ui_world_select_no_friends_online">None of your friends are online in this World.</string>
 	<string key="ui_world_select_one_friends_online">online now</string>
-	<string key="ui_world_select_more_friends_online">and &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{friendCount}&lt;/font&gt;&lt;/font&gt; other friends are online now</string>
+	<string key="ui_world_select_more_friends_online">and &lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{friendCount}&lt;/font&gt;&lt;/font&gt; other friends are online now</string>
 	<string key="ui_world_select_more_options">Show more options</string>
 	<string key="ui_world_select_hide_options">Hide more options</string>
 	<string key="ui_world_select_view_worlds">View Worlds</string>
 	<string key="ui_world_select_refresh">Refresh</string>
-	<string key="ui_resolution_popup_title">Confirm Resolution</string>
-	<string key="ui_resolution_popup_title_message">Is this resolution ok?</string>
-	<string key="ui_monitor_popup_title">Confirm Monitor Change</string>
-	<string key="ui_monitor_popup_title_message">Is this monitor ok?</string>
+	<string key="ui_resolution_popup_title">Resolution</string>
+	<string key="ui_resolution_popup_title_message">Keep this resolution?</string>
+	<string key="ui_monitor_popup_title">Monitor</string>
+	<string key="ui_monitor_popup_title_message">Set this monitor to display?</string>
 	<string key="ui_monitor_name">Monitor</string>
 	<string key="ui_short_level">Lv.</string>
 	<string key="ui_factioncurrency">{faction} Tokens</string>
@@ -932,25 +952,31 @@
 	<string key="ui_character_merge_destination">This world ({worldName}) is being merged into {destinationWorldName} on {date}.</string>
 	<string key="ui_xp">XP</string>
 	<string key="ui_player_xp">Player XP</string>
-	<string key="ui_player_xp_desc">Character XP helps you level up your character.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Derived From:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; Completing Missions, Crafting, Killing Enemies, Participating in Events&lt;/font&gt;</string>
+	<string key="ui_player_xp_desc">Character XP helps you level up your character.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; Completing Missions, Crafting, Killing Enemies, Participating in Events&lt;/font&gt;</string>
+	<string key="ui_faction_reputation_desc">Faction Reputation unlocks new items at the Faction Shop.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; Completing Faction Missions&lt;/font&gt;</string>
+	<string key="ui_territory_standing_desc">Increasing Territory Standing allows you to purchase a house and add in territory specific benefits.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; Missions, quests, town projects, or territory supplies within a territory&lt;/font&gt;</string>
+	<string key="ui_faction_influence_desc">Influence measures a faction's control of a Territory. Reaching 100% Territory Influence enables a declaration of war.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; Completing PvP Faction missions&lt;/font&gt;</string>
+	<string key="ui_faction_token_desc">Faction Tokens are used to purchase items at the Faction Shop.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; Completing Faction missions, PvP rewards&lt;/font&gt;</string>
+	<string key="ui_project_points_desc">Project Points are used to track completion for Town Projects set by Governors.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; Town Project Missions&lt;/font&gt;</string>
+	<string key="ui_pvp_xp_desc" rel_version="PvP_Rewards_Track">PvP XP advances you through the PvP Track's checkpoints. Unlock checkpoints to purchase rewards.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; PvP Activities&lt;/font&gt;</string>
 	<string key="ui_pvp_xp" rel_version="PvP_Rewards_Track">PvP XP</string>
 	<string key="ui_xp_boost">XP Boost</string>
 	<string key="ui_xp_event_title">XP BOOST EVENT!</string>
 	<string key="ui_xp_event_desc">Special XP Boost is active in this world!</string>
 	<string key="ui_xp_event_modal_title">XP BOOST IS ON!</string>
-	<string key="ui_xp_event_modal_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Come and enjoy the glorious XP Boost event! This is the chance to level up your characters!\nThe boost is activated on:&lt;/font&gt;</string>
+	<string key="ui_xp_event_modal_desc">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Come and enjoy the glorious XP Boost event! This is the chance to level up your characters!\nThe boost is activated on:&lt;/font&gt;</string>
 	<string key="ui_xp_event_xp">XP &lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x {amount}&lt;/font&gt;</string>
-	<string key="ui_xp_event_some_tradeskill_xp">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Trade Skills</string>
-	<string key="ui_xp_event_some_weaponmastery_xp">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Weapon Masteries</string>
-	<string key="ui_xp_event_some_territory_xp">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Territory Standings</string>
-	<string key="ui_xp_event_some_faction_xp">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Faction Reputation</string>
-	<string key="ui_xp_event_some_factiontoken_xp">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Faction Tokens</string>
+	<string key="ui_xp_event_some_tradeskill_xp">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Trade Skills</string>
+	<string key="ui_xp_event_some_weaponmastery_xp">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Weapon Masteries</string>
+	<string key="ui_xp_event_some_territory_xp">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Territory Standings</string>
+	<string key="ui_xp_event_some_faction_xp">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Faction Reputation</string>
+	<string key="ui_xp_event_some_factiontoken_xp">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Faction Tokens</string>
 	<string key="ui_xp_event_all_tradeskill_xp">All Trade Skills</string>
 	<string key="ui_xp_event_all_weaponmastery_xp">All Weapon Masteries</string>
 	<string key="ui_xp_event_all_territory_xp">All Territory Standings</string>
 	<string key="ui_xp_event_all_faction_xp">All Faction Reputation</string>
 	<string key="ui_xp_event_all_factiontoken_xp">All Faction Tokens</string>
-	<string key="ui_xp_event_progression_xp">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;{progressionName}&lt;/font&gt; &lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x {amount}&lt;/font&gt;</string>
+	<string key="ui_xp_event_progression_xp">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Regular.font"&gt;{progressionName}&lt;/font&gt; &lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x {amount}&lt;/font&gt;</string>
 	<string key="ui_xp_boost_reminder" comment="The leading space is intentional">( x {bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1.1" yOffset="0.5"&gt;&lt;/img&gt;)</string>
 	<string key="ui_xp_multiplier_arrow" comment="The leading space is intentional">x {bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1.1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_reached_max_daily_pvp_arena_rewards">Daily PvP Arena Salt Limit Reached!</string>
@@ -973,10 +999,10 @@
 	<string key="ui_glory_update_floating_xp">+{amount} XP</string>
 	<string key="ui_glory_update_floating_gold">{gold} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_glory_update_floating_standing">+{amount} Standing</string>
-	<string key="ui_glory_to_level">&lt;font color="#ffffff"&gt;{xp} XP&lt;/font&gt; to Level {level}</string>
+	<string key="ui_glory_to_level">&lt;font color="#FFFFFF"&gt;{xp} XP&lt;/font&gt; to Level {level}</string>
 	<string key="ui_glory_tooltip">You have unspent attribute or skill points. Use [{keyName}] to open the progression screen and improve your abilities.</string>
 	<string key="ui_coin">Coin</string>
-	<string key="ui_coin_desc">Your primary currency used to purchase items in the Trading Post and at the Faction Shop.\nCoin is capped at &lt;font color="#ffffff"&gt;{amount}&lt;/font&gt;.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Derived From:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; Completing Missions, Killing Enemies, Participating in Events&lt;/font&gt;</string>
+	<string key="ui_coin_desc">Your primary currency used to purchase items in the Trading Post and at the Faction Shop.\nCoin is capped at &lt;font color="#FFFFFF"&gt;{amount}&lt;/font&gt;.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; Completing Missions, Killing Enemies, Participating in Events&lt;/font&gt;</string>
 	<string key="ui_coin_max">Max Coin</string>
 	<string key="ui_coin_icon">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_floating_coin_val">&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;{amount}</string>
@@ -996,16 +1022,17 @@
 	<string key="ui_navmenu_game_menu">Menu</string>
 	<string key="ui_navmenu_benchmark">BENCHMARK</string>
 	<string key="ui_navmenu_store">Store</string>
-	<string key="ui_navmenu_quit">EXIT</string>
+	<string key="ui_navmenu_quit">Exit</string>
 	<string key="ui_escapemenu_submit_feedback">Submit Feedback</string>
+	<string key="ui_escapemenu_compensations" rel_version="Feature_Make_Good">Compensations</string>
 	<string key="ui_escapemenu_respawn">Respawn</string>
 	<string key="ui_escapemenu_recall_to_inn">Recall to Inn</string>
 	<string key="ui_escapemenu_unstuck">Unstuck</string>
-	<string key="ui_escapemenu_exit_to_main_menu">Exit To Main Menu</string>
-	<string key="ui_escapemenu_exit_to_desktop">Exit To Desktop</string>
+	<string key="ui_escapemenu_exit_to_main_menu">Exit to Main Menu</string>
+	<string key="ui_escapemenu_exit_to_desktop">Exit to Desktop</string>
 	<string key="ui_escapemenu_game">Game</string>
 	<string key="ui_escapemenu_shop">Store</string>
-	<string key="ui_escapemenu_help">New World Help Page</string>
+	<string key="ui_escapemenu_help">Help</string>
 	<string key="ui_escapemenu_support">Support</string>
 	<string key="ui_escapemenu_leave_game">Leave Game</string>
 	<string key="ui_escapemenu_newsletter">Newsletter</string>
@@ -1016,7 +1043,7 @@
 	<string key="ui_help">help</string>
 	<string key="ui_navmenu_get_help">Get Help</string>
 	<string key="ui_navmenu_get_help_desc">Visit the New World help page for FAQ, technical support, and other helpful resources.</string>
-	<string key="ui_quitpopup_title">CONFIRM EXIT</string>
+	<string key="ui_quitpopup_title">Exit Game</string>
 	<string key="ui_quitpopup_incombat_title">EXIT RECENT COMBAT</string>
 	<string key="ui_quitpopup_criminal_title">EXIT AS CRIMINAL</string>
 	<string key="ui_quitpopup_murderer_title">EXIT AS MURDERER</string>
@@ -1045,10 +1072,10 @@
 	<string key="ui_available_points">Points Available</string>
 	<string key="ui_whisper_to_someone">{playerName} TO {recipient}</string>
 	<string key="ui_focus">Focus</string>
-	<string key="ui_points_to_level">{points} to level {level}</string>
-	<string key="ui_points_to_level_with_skill">{points} {skill} to level {level}</string>
-	<string key="ui_points_to_expertise">{points} to Aptitude rank {level}</string>
-	<string key="ui_points_to_expertise_with_skill">{points} {skill} to Aptitude rank {level}</string>
+	<string key="ui_points_to_level">{points} to next level</string>
+	<string key="ui_points_to_level_with_skill">{points} {skill} to next level</string>
+	<string key="ui_points_to_expertise">{points} to next Aptitude rank</string>
+	<string key="ui_points_to_expertise_with_skill">{points} {skill} to next Aptitude rank</string>
 	<string key="ui_spirit">Faith</string>
 	<string key="ui_vitality">Physique</string>
 	<string key="ui_strength">Strength</string>
@@ -1067,12 +1094,12 @@
 	<string key="ui_mana">Mana</string>
 	<string key="ui_mana_rate">Mana Regen Rate</string>
 	<string key="ui_more">More</string>
-	<string key="ui_encumbrance">Encumbrance</string>
+	<string key="ui_encumbrance">Weight</string>
 	<string key="ui_equip_load">Equip Load</string>
 	<string key="ui_resistance">Resistance</string>
-	<string key="ui_physical">Armor Rating - Physical</string>
+	<string key="ui_physical">Armor - Physical</string>
 	<string key="ui_physical_only">Physical</string>
-	<string key="ui_elemental">Armor Rating - Elemental</string>
+	<string key="ui_elemental">Armor - Elemental</string>
 	<string key="ui_elemental_only">Elemental</string>
 	<string key="ui_physical_defense">Physical Defense</string>
 	<string key="ui_elemental_defense">Elemental Defense</string>
@@ -1099,9 +1126,9 @@
 	<string key="ui_absorption">Absorption</string>
 	<string key="ui_gemsocket">Gem</string>
 	<string key="ui_bonuses">Bonuses</string>
-	<string key="ui_territory_standing_bonuses">Territory Standing Bonuses</string>
-	<string key="ui_add_10_points">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_semibold.font"&gt;+10&lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color="#dddddd"&gt; points&lt;/font&gt;</string>
-	<string key="ui_subtract_10_points">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_semibold.font"&gt;-10&lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color="#dddddd"&gt; points&lt;/font&gt;</string>
+	<string key="ui_territory_standing_bonuses">Standing Bonuses</string>
+	<string key="ui_add_10_points">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_semibold.font"&gt;+10&lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color="#dddddd"&gt; points&lt;/font&gt;</string>
+	<string key="ui_subtract_10_points">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_semibold.font"&gt;-10&lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color="#dddddd"&gt; points&lt;/font&gt;</string>
 	<string key="ui_bonuses_disabled">&lt;font color="#f25d5d"&gt;Bonuses - DISABLED&lt;/font&gt;</string>
 	<string key="ui_nogemattached">No gem attached</string>
 	<string key="ui_navmenu_skills">SKILLS</string>
@@ -1155,13 +1182,13 @@
 	<string key="ui_warning_cannot_build_on_claimed_land">You can't build on territory claimed by someone else.</string>
 	<string key="ui_warning_cannot_build_without_claim">You must claim this land before you can build on it.</string>
 	<string key="ui_warning">Warning</string>
-	<string key="ui_waypoint_hint">Place Waypoint</string>
+	<string key="ui_waypoint_hint">Waypoint</string>
 	<string key="ui_hide_filters">HIDE FILTERS</string>
 	<string key="ui_path">Path</string>
 	<string key="ui_show_filters">SHOW FILTERS</string>
 	<string key="ui_filters">FILTERS</string>
-	<string key="ui_add_filter">Add Filter</string>
-	<string key="ui_filter">Filter</string>
+	<string key="ui_add_filter">Filters</string>
+	<string key="ui_filter">Filters</string>
 	<string key="ui_remove_filters">Remove Filters</string>
 	<string key="ui_point_of_interest">Landmarks</string>
 	<string key="ui_territory">Territory</string>
@@ -1201,7 +1228,7 @@
 	<string key="ui_map_you">You</string>
 	<string key="ui_map_localplayer">Local Player</string>
 	<string key="ui_map_pointofinterest">Landmarks</string>
-	<string key="ui_map_resource_locations">RESOURCE LOCATIONS</string>
+	<string key="ui_map_resource_locations">RESOURCES</string>
 	<string key="ui_craftItemSuccessHeader">{Number} of {ItemName} Created</string>
 	<string key="ui_map_protected">Protected</string>
 	<string key="ui_buildmode">PLANNING MODE</string>
@@ -1252,7 +1279,7 @@
 	<string key="blacksmithing_common_uses_large">Armor, Weapons</string>
 	<string key="blacksmithing_common_uses_small">Ammo, Arrows, Trinkets</string>
 	<string key="alchemy_common_uses_small">Potions n stuff</string>
-	<string key="ui_toggle_pvp">Toggle PvP</string>
+	<string key="ui_toggle_pvp">Toggle PvP Flag</string>
 	<string key="ui_toggle_pvp_on">PVP ON</string>
 	<string key="ui_toggle_pvp_off">PVP OFF</string>
 	<string key="ui_pvp_protection_label">Until\nPvP</string>
@@ -1282,9 +1309,9 @@
 	<string key="ui_war_vs_guilds">&lt;font color="#dfd4b8"&gt;{attackingGuildName}&lt;/font&gt; vs &lt;font color="#dfd4b8"&gt;{defendingGuildName}&lt;/font&gt;</string>
 	<string key="ui_respawncooldown">Cooldown</string>
 	<string key="ui_buildmode_error_invalid_location">Error</string>
-	<string key="ui_buildmode_error_invalid_location_world_bounds">Cannot Build Outside Of World Bounds</string>
+	<string key="ui_buildmode_error_invalid_location_world_bounds">Cannot Build Out of Bounds</string>
 	<string key="ui_buildmode_error_in_water">Cannot Build In Water</string>
-	<string key="ui_buildmode_error_has_obstruction">Building is Obstructed</string>
+	<string key="ui_buildmode_error_has_obstruction">Building Obstructed</string>
 	<string key="ui_buildmode_error_bad_terrain">Uneven Terrain</string>
 	<string key="ui_buildmode_error_not_in_socket">Not In Socket</string>
 	<string key="ui_buildmode_error_blueprint_not_known">Building Skill Too Low</string>
@@ -1295,8 +1322,8 @@
 	<string key="ui_buildmode_error_invalid_structure_limit_reached">Structure Build Limit Reached</string>
 	<string key="ui_buildmode_error_invalid_not_enough_privileges">Your Company Rank does not have permission to build here</string>
 	<string key="ui_buildmode_error_invalid_not_enough_privileges_plantseed">Your Company Rank does not have permission to plant here</string>
-	<string key="ui_buildmode_error_not_in_line_of_sight">Building Not Within Line Of Sight</string>
-	<string key="ui_buildmode_error_camping_restricted">Unable to camp near landmarks</string>
+	<string key="ui_buildmode_error_not_in_line_of_sight">No Line of Sight</string>
+	<string key="ui_buildmode_error_camping_restricted">Cannot Camp Near Landmarks</string>
 	<string key="ui_buildmode_error_war_attackers_restricted">War Attackers cannot build here</string>
 	<string key="ui_camp_unlock_skins_tooltip">Unlock Camp (Tier 1)\nPlacing a Tier 1 camp allows you to craft various Tier 1 items, heal your character, and respawn at the camp.\nTo unlock, you must be Level 5 and have completed the starting survivalist quest.\nNote: You must complete the preceding starting settlement and beach quests before undertaking this quest.</string>
 	<string key="ui_buildmode_error_outside_of_war">Cannot build this outside of war</string>
@@ -1305,13 +1332,13 @@
 	<string key="ui_bind_to_camp_disabled">Binding To Camp disabled</string>
 	<string key="ui_bind_to_camp">Set Camp Recall Point</string>
 	<string key="ui_camping_error_poi_restricted_outpost_rush">Camping restricted in Outpost Rush</string>
-	<string key="ui_camping_error_poi_restricted">&lt;img src="lyshineui/images/campingrestrictions/campingRestricted" xPadding="0" scale="2.5" yOffset="15" &gt;&lt;/img&gt; Camping restricted in landmarks</string>
+	<string key="ui_camping_error_poi_restricted">Cannot camp in landmarks.</string>
 	<string key="ui_camp_obstructed">Move Back To Complete</string>
 	<string key="ui_camping_restricted">Camping Restricted</string>
 	<string key="ui_camping_available">Camping Available</string>
 	<string key="ui_notification_nameplate_hidden">Nameplate Hidden</string>
 	<string key="ui_notification_nameplate_visible">Nameplate Visible</string>
-	<string key="ui_confirm_before_use_title">Confirm Consumption</string>
+	<string key="ui_confirm_before_use_title">Consume Item</string>
 	<string key="ui_confirm_before_use_message">Are you sure you want to consume this item? Consuming it will cause a significant change to your character and cannot be undone.</string>
 	<string key="ui_buildmode_categories">Categories</string>
 	<string key="ui_hold_text">Hold</string>
@@ -1324,19 +1351,19 @@
 	<string key="ui_defectreport_reportready_toastbody">Report capture complete. Hit Escape-&gt;Exit Options-&gt;Defect Reporter to view.</string>
 	<string key="ui_defectreport_reportposted_toastbody">The report has been successfully uploaded!</string>
 	<string key="ui_streaming_live">Live</string>
-	<string key="ui_sanctuary">SANCTUARY</string>
+	<string key="ui_sanctuary">Sanctuary</string>
 	<string key="ui_sanctuary_Tooltip">While in a sanctuary, players cannot damage other players even if they are flagged for PVP.</string>
 	<string key="ui_sanctuary_damage_warning">You cannot damage other players in a Sanctuary area.</string>
-	<string key="ui_enter_sanctuary">ENTERING SANCTUARY. Players cannot damage other players in this area.</string>
+	<string key="ui_enter_sanctuary">Players cannot damage other players in this area.</string>
 	<string key="ui_exit_sanctuary">Leaving Sanctuary.</string>
 	<string key="ui_lawless">Lawless Area</string>
 	<string key="ui_lawless_Tooltip">While in a lawless area, you will not be marked as a criminal for any crimes you commit.\n\nYou must still enable criminal intent to damage any non-criminals, but you will not receive the usual penalties.</string>
-	<string key="ui_enter_lawless">ENTERING LAWLESS AREA. No crime penalties here.</string>
-	<string key="ui_exit_lawless">LEAVING LAWLESS AREA. Crime penalties are active.</string>
-	<string key="ui_already_bound_to_public_respawn">Respawn Point Activated.</string>
+	<string key="ui_enter_lawless">Entering Lawless Area. No crime penalties here.</string>
+	<string key="ui_exit_lawless">Leaving Lawless Area. Crime penalties are active.</string>
+	<string key="ui_already_bound_to_public_respawn">Respawn Point activated.</string>
 	<string key="ui_remove_respawn">Remove Respawn Point</string>
-	<string key="ui_activated_respawn_name">Respawn Point Activated.</string>
-	<string key="ui_activated_fasttravel_point">Spirit Shrine Activated.</string>
+	<string key="ui_activated_respawn_name">Respawn Point activated.</string>
+	<string key="ui_activated_fasttravel_point">Spirit Shrine activated.</string>
 	<string key="ui_killedby">Killed By</string>
 	<string key="ui_murderedby">Murdered By</string>
 	<string key="ui_steam_confirm">Open Steam Store</string>
@@ -1433,24 +1460,25 @@
 	<string key="DigitalArtBook_EntInfo">Deluxe Edition</string>
 	<string key="view_art_book">View Art Book</string>
 	<string key="art_book">Art Book</string>
-	<string key="enable_steam_overlay">Enable your Steam Overlay in Steam's Settings</string>
+	<string key="enable_steam_overlay">Show Steam Overlay in Steam's Settings</string>
 	<string key="ui_view_purchases">View Purchases</string>
 	<string key="ui_view_items">View Items</string>
 	<string key="ui_items_have_changed_msg">Items have been added to or removed from your account.</string>
 	<string key="ui_account_items_changed">Account Items Changed</string>
 	<string key="ui_dismiss">Dismiss</string>
+	<string key="ui_view" rel_version="Feature_Make_Good">View</string>
 	<string key="ui_named">Named</string>
 	<string key="url_twitchchannel">https://www.twitch.tv/{channel}</string>
 	<string key="url_forums">https://forums.newworld.com/</string>
 	<string key="url_newsletter_signup">https://www.newworld.com/en-us/forward-link?id=newsletter-sign-up</string>
 	<string key="ui_seizure_title">Photosensitive Seizure Warning</string>
-	<string key="ui_seizure_warning">If you, or anyone in your family, have an epileptic condition, consult your physician prior to playing New World.</string>
-	<string key="ui_seizure_description1">A very small percentage of individuals may experience epileptic seizures when exposed to certain visual images, including light patterns or flashing lights that may appear in video game or other video content. Exposure to certain patterns or backgrounds on a computer screen, or while playing video games, may induce an epileptic seizure in these individuals. Certain conditions may induce previously undetected epileptic symptoms even in persons who have no history of prior seizures or epilepsy.</string>
+	<string key="ui_seizure_warning">If you or anyone in your family have an epileptic condition, consult your physician prior to playing New World.</string>
+	<string key="ui_seizure_description1">A very small percentage of individuals may experience epileptic seizures when exposed to certain visual images, including light patterns or flashing lights that may appear in video game or other video content. Exposure to certain patterns or backgrounds on a computer screen or while playing video games may induce an epileptic seizure in these individuals. Certain conditions may induce previously undetected epileptic symptoms even in persons who have no history of prior seizures or epilepsy.</string>
 	<string key="ui_seizure_description2">If you experience any of the following symptoms while playing - dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions - discontinue use IMMEDIATELY and consult your physician before resuming use of New World.</string>
 	<string key="ui_landingscreen_dei1">New World is a work of supernatural fiction about cultures from around the world banding together to fight for the fate of humanity.</string>
-	<string key="ui_landingscreen_dei2">The New World team consulted with experts and our diverse workforce on the depictions of the cultures we've drawn from, and will continue to do so as we add more in the future.</string>
+	<string key="ui_landingscreen_dei2">The New World team consulted with experts and our diverse workforce on the depictions of the cultures we've drawn from and will continue to do so as we add more in the future.</string>
 	<string key="ui_landingscreen_photosensitive_title">Photosensitive Seizure Warning</string>
-	<string key="ui_landingscreen_photosensitive_message">If you, or anyone in your family, have a history of seizures or epilepsy, consult your doctor prior to playing.</string>
+	<string key="ui_landingscreen_photosensitive_message">If you or anyone in your family have a history of seizures or epilepsy, consult your doctor prior to playing.</string>
 	<string key="ui_newsletter_signup">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Get the Latest News &amp; Offers from Aeternum!</string>
 	<string key="ui_viewtwitchstream">View Twitch Stream</string>
 	<string key="ui_deathrecap_timealive">Alive For</string>
@@ -1466,13 +1494,14 @@
 	<string key="ui_deathrecap_survived_for">Survived For</string>
 	<string key="ui_deathrecap_respawn_points">Respawn Points</string>
 	<string key="ui_global_storage">Storage Shed</string>
-	<string key="ui_global_storage_desc">Can store items, and other players can not take or see items you leave here.</string>
+	<string key="ui_global_storage_desc">Stash items here. Other players cannot take or see your items.</string>
 	<string key="ui_global_storage_visit_storage_shed">Visit a Storage Shed to access stored items.</string>
 	<string key="ui_claimmarker">Claim Point</string>
 	<string key="ui_claimstreak">Day {number}</string>
 	<string key="ui_random_location">Random Location</string>
-	<string key="ui_scroll_hint">Scroll to Zoom</string>
+	<string key="ui_scroll_hint">(Scroll) Zoom</string>
 	<string key="ui_map_rotate_camera">(Hold) Rotate Camera</string>
+	<string key="ui_zoom_camera">&lt;img src="lyshineui/images/icons/misc/Icon_RightMouseButton" xPadding="0" scale="2.2" yOffset="8"&gt;&lt;/img&gt; + &lt;img src="lyshineui/images/icons/misc/Icon_MiddleMouseButton" xPadding="1" scale="2.3" yOffset="9"&gt;&lt;/img&gt; (Hold) Zoom</string>
 	<string key="ui_global_storage_description">Other players can not take or see items you leave here. You must return to this outpost to retrieve items.</string>
 	<string key="ui_apply_all_resources">Apply All Resources</string>
 	<string key="ui_apply_resources">Apply Resources</string>
@@ -1503,10 +1532,10 @@
 	<string key="ui_primary_attack">Primary Attack</string>
 	<string key="ui_craft_common">CRAFT COMMON {fee}&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_pin_recipe">PIN RECIPE</string>
-	<string key="ui_pin_recipe_tooltip">Keep this recipe on screen during gameplay</string>
-	<string key="ui_unpin_recipe">ABANDON RECIPE</string>
-	<string key="ui_unpin_recipe_tooltip">Stop tracking this recipe in your journal</string>
-	<string key="ui_cannot_pin_recipe">You must select all the ingredients in order to pin a recipe.</string>
+	<string key="ui_pin_recipe_tooltip">Track this recipe in your journal.</string>
+	<string key="ui_unpin_recipe">UNPIN RECIPE</string>
+	<string key="ui_unpin_recipe_tooltip">Stop tracking this recipe in your journal.</string>
+	<string key="ui_cannot_pin_recipe">You must select all the materials in order to pin a recipe.</string>
 	<string key="ui_required_to_use">Required to use</string>
 	<string key="ui_standard_damage">Standard Damage</string>
 	<string key="ui_thrust_damage">Thrust Damage</string>
@@ -1526,7 +1555,7 @@
 	<string key="ui_trading_post_insufficient_quantity_message">The trading post did not have the {amount} {item}(s) you attempted to purchase, someone else may have purchased it before you.</string>
 	<string key="ui_tooltip_requiredtouse">Required to use</string>
 	<string key="ui_tooltip_required">Requirement:</string>
-	<string key="ui_tooltip_attribute">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{value}&lt;/font&gt; {label}</string>
+	<string key="ui_tooltip_attribute">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#FFFFFF"&gt;{value}&lt;/font&gt; {label}</string>
 	<string key="ui_tooltip_equip">Equip</string>
 	<string key="ui_tooltip_equip_requirements_not_met">Equip - Requirements Not Met</string>
 	<string key="ui_tooltip_equipasweapon">Equip as weapon</string>
@@ -1534,14 +1563,14 @@
 	<string key="ui_tooltip_drop">Drop</string>
 	<string key="ui_tooltip_discard">Discard</string>
 	<string key="ui_tooltip_read">Read</string>
-	<string key="ui_tooltip_store">Store</string>
+	<string key="ui_tooltip_store">Open Store</string>
 	<string key="ui_purchase_skins">Purchase Skins</string>
 	<string key="ui_tooltip_upgrade">Upgrade</string>
 	<string key="ui_tooltip_take">Take</string>
 	<string key="ui_tooltip_split">Split</string>
-	<string key="ui_tooltip_weight">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{value}&lt;/font&gt; Weight</string>
-	<string key="ui_tooltip_cooldown">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{value}&lt;/font&gt; Second Cooldown</string>
-	<string key="ui_tooltip_durability">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{value}&lt;/font&gt; Durability</string>
+	<string key="ui_tooltip_weight">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#FFFFFF"&gt;{value}&lt;/font&gt; Weight</string>
+	<string key="ui_tooltip_cooldown">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#FFFFFF"&gt;{value}&lt;/font&gt; Second Cooldown</string>
+	<string key="ui_tooltip_durability">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#FFFFFF"&gt;{value}&lt;/font&gt; Durability</string>
 	<string key="ui_tooltip_durability_red">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#f25d5d"&gt;{value}&lt;/font&gt; Durability</string>
 	<string key="ui_tooltip_doubleclick">DBL &lt;img src="lyshineui/images/icons/misc/Icon_LeftMouseButton" xPadding="0" scale="2.2" yOffset="5"&gt;&lt;/img&gt;</string>
 	<string key="ui_tooltip_shiftclick">SHIFT + &lt;img src="lyshineui/images/icons/misc/Icon_LeftMouseButton" xPadding="0" scale="2.2" yOffset="5"&gt;&lt;/img&gt;</string>
@@ -1555,22 +1584,22 @@
 	<string key="ui_tooltip_why">Why?</string>
 	<string key="ui_tooltip_skin">&lt;img src="lyshineui/images/icons/crafting/icon_skin_mask" xPadding="0" scale="2.2" yOffset="5"&gt;&lt;/img&gt;</string>
 	<string key="ui_attach_gem">Attach Gem</string>
-	<string key="ui_attach_gem_tooltip">Attach a cut gem from your inventory.</string>
+	<string key="ui_attach_gem_tooltip">Attach a gem from your inventory.</string>
 	<string key="ui_replace_gem">Replace Gem</string>
 	<string key="ui_replace_gem_tooltip">Replace the gem currently attached with another one from your inventory. The current gem will be lost.</string>
 	<string key="ui_upgrade_warning_title">Upgrade Item</string>
 	<string key="ui_upgrade_warning_body">Upgrading your {itemName} from Gear Score {baseGearScore} to {targetGearScore} will require {itemCount} {upgradeItemName}.\n\nUpgrading items will bind them to you.\n\nDo you want to upgrade this item?</string>
-	<string key="ui_upgrade_tooltip_enabled">Upgrade the item by applying &lt;font color="#ffffff"&gt;{itemName}&lt;/font&gt;. This will increase the item's &lt;font color="#ffffff"&gt;Gear Score&lt;/font&gt;.</string>
+	<string key="ui_upgrade_tooltip_enabled">Upgrade the item by applying &lt;font color="#FFFFFF"&gt;{itemName}&lt;/font&gt;. This will increase the item's &lt;font color="#FFFFFF"&gt;Gear Score&lt;/font&gt;.</string>
 	<string key="ui_upgrade_tooltip_disabled_items">You need at least {quantity} more {itemName} to increase the Gear Score of this item.</string>
-	<string key="ui_upgrade_tooltip_disabled_skill">You can only upgrade item types that you have &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{neededValue} Expertise&lt;/font&gt; with.\n(Current {expertiseName} Expertise: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
+	<string key="ui_upgrade_tooltip_disabled_skill">Requires &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{neededValue}&lt;/font&gt; for {expertiseName} (current: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;).</string>
 	<string key="ui_upgrade_tooltip_disabled_broken">Broken items cannot be upgraded.</string>
-	<string key="ui_upgrade_tooltip_disabled_gearscore">You can only upgrade items with &lt;font color="#ffffff"&gt;{gearScore}+&lt;/font&gt; Gear Score.</string>
+	<string key="ui_upgrade_tooltip_disabled_gearscore">You can only upgrade items with &lt;img src="lyshineui/images/icons/misc/icon_gearscore" scale="1.2" yOffset="1"&gt;&lt;/img&gt; &lt;font color="#FFFFFF"&gt;{gearScore}+&lt;/font&gt;.</string>
 	<string key="ui_upgrade_notification">The item's Gear Score has been upgraded to &lt;font color="#fffd7a"&gt;{baseGearScore}&lt;/font&gt;.</string>
 	<string key="ui_cannot_replace_gem_tooltip">Cannot replace this gem.</string>
 	<string key="ui_no_gems_tooltip">No gems available</string>
-	<string key="ui_gem_select_popup_available">Available Gems</string>
-	<string key="ui_gem_select_popup_current_gem">Current Gem</string>
-	<string key="ui_gem_select_popup_selected_gem">Selected Gem</string>
+	<string key="ui_gem_select_popup_available">Available</string>
+	<string key="ui_gem_select_popup_current_gem">Current</string>
+	<string key="ui_gem_select_popup_selected_gem">Selected</string>
 	<string key="ui_gem_select_popup_will_lose_gem">(this will be lost if replaced)</string>
 	<string key="ui_gem_added_notification">{gemPerkName} added to {itemName}</string>
 	<string key="ui_attach_gem_confirmation_message">Once attached, the gem cannot be removed. You can replace the gem with another one, but the current gem will be lost.</string>
@@ -1580,34 +1609,34 @@
 	<string key="ui_repair_not_valid_kit">Cannot repair. Repair Kit T{tier} is required to repair this item.</string>
 	<string key="ui_repair_item_confirmation">Use a repair kit to repair this item?</string>
 	<string key="ui_repair_better_kit_warning">You have a lower tier repair kit capable of repairing this item. Repair item with that repair kit?</string>
-	<string key="ui_repair_all">Repair All</string>
+	<string key="ui_repair_all">Repair all</string>
 	<string key="ui_repair_all_armor">Your armor is damaged. Repair with Repair Parts or Repair Kits.</string>
 	<string key="ui_repair_all_tutorial">Click here to repair all equipped gear at once.</string>
 	<string key="ui_repair_all_disabled">You do not have enough Coin and/or Repair Parts or Repair Kits to repair all items.</string>
 	<string key="ui_repair_all_disabled_tutorial">&lt;font color="#f25d5d"&gt;You do not have enough Coin and/or Repair Parts or Repair Kits to repair all items.&lt;/font&gt;</string>
 	<string key="ui_repair_all_disabled_salvage">Salvage unused gear for Repair Parts.</string>
-	<string key="ui_repair_all_category_disabled">You do not have enough Coin and/or Repair Parts or Repair Kits to repair all items in this category.</string>
-	<string key="ui_repair_all_equipment_disabled">You do not have enough Coin and/or Repair Parts or Repair Kits to repair all of your equipment.</string>
+	<string key="ui_repair_all_category_disabled">You do not have enough Coin, Repair Parts, or Repair Kits to repair all items in this category.</string>
+	<string key="ui_repair_all_equipment_disabled">You do not have enough Coin, Repair Parts, or Repair Kits to repair all of your items.</string>
 	<string key="ui_repair_all_not_needed">No items in the category need to be repaired.</string>
-	<string key="ui_repair_filtered">Cannot repair all items in this section while items are filtered.</string>
-	<string key="ui_repair_all_not_needed_equipment">None of your equipment needs to be repaired.</string>
-	<string key="ui_repair_all_confirmation">Repair all items in this category?\nIt requires:</string>
-	<string key="ui_repair_all_equipment_confirmation">Repair all your equipment?\nIt requires:</string>
-	<string key="ui_chat_mention_self_markup">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font" color="#ffffff"&gt;@{name}&lt;/font&gt;</string>
+	<string key="ui_repair_filtered">Cannot repair all items in this category while items are filtered.</string>
+	<string key="ui_repair_all_not_needed_equipment">No items to be repaired.</string>
+	<string key="ui_repair_all_confirmation">Repair costs:</string>
+	<string key="ui_repair_all_equipment_confirmation">Repair costs:</string>
+	<string key="ui_chat_mention_self_markup">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font" color="#FFFFFF"&gt;@{name}&lt;/font&gt;</string>
 	<string key="ui_and">and</string>
 	<string key="ui_or">Or</string>
-	<string key="ui_tooltip_ingredient_type">Ingredient type:</string>
-	<string key="ui_tooltip_ingredient_types">Ingredient types:</string>
-	<string key="ui_tooltip_perks_info_text_armor_singular">Apply this to any armor with a gem socket to get the following effect:</string>
-	<string key="ui_tooltip_perks_info_text_armor_plural">Apply this to any armor with a gem socket to get one of the following effects:</string>
-	<string key="ui_tooltip_perks_info_text_weaponarmor_singular">Apply this to any weapon or armor with a gem socket to get the following effect:</string>
-	<string key="ui_tooltip_perks_info_text_weaponarmor_plural">Apply this to any weapon or armor with a gem socket to get one of the following effects:</string>
-	<string key="ui_tooltip_perks_info_text_gem_singular">Apply this gem to any item with a gem socket to get the following effect:</string>
-	<string key="ui_tooltip_perks_info_text_gem_plural">Apply this gem to any item with a gem socket to get one of the following effects:</string>
-	<string key="ui_tooltip_perks_info_text_craft_singular">Use this resource when crafting to get the following effect:</string>
-	<string key="ui_tooltip_perks_info_text_craft_plural">Use this resource when crafting to get one of the following effects:</string>
+	<string key="ui_tooltip_ingredient_type">Type:</string>
+	<string key="ui_tooltip_ingredient_types">Types:</string>
+	<string key="ui_tooltip_perks_info_text_armor_singular">Attach to any armor's gem socket to add the following effect:</string>
+	<string key="ui_tooltip_perks_info_text_armor_plural">Attach to any armor's gem socket to add one of the following effects:</string>
+	<string key="ui_tooltip_perks_info_text_weaponarmor_singular">Attach to any weapon or armor's gem socket to add the following effect:</string>
+	<string key="ui_tooltip_perks_info_text_weaponarmor_plural">Attach to any weapon or armor's gem socket to add one of the following effects:</string>
+	<string key="ui_tooltip_perks_info_text_gem_singular">Attach to any item's gem socket to add the following effect:</string>
+	<string key="ui_tooltip_perks_info_text_gem_plural">Attach to any item's gem socket to add one of the following effects:</string>
+	<string key="ui_tooltip_perks_info_text_craft_singular">Use this resource when crafting to add the following effect:</string>
+	<string key="ui_tooltip_perks_info_text_craft_plural">Use this resource when crafting to add one of the following effects:</string>
 	<string key="ui_tooltip_refinedat">Refined at:</string>
-	<string key="ui_tooltip_derivedfrom">Derived from:</string>
+	<string key="ui_tooltip_derivedfrom">Source:</string>
 	<string key="ui_tooltip_repair_requires">Repair with</string>
 	<string key="ui_tooltip_cannot_use_in_battle">Cannot use in combat.</string>
 	<string key="ui_tooltip_clickToLock">Click Item to Lock</string>
@@ -1632,7 +1661,7 @@
 	<string key="ui_tooltip_blockingstability">Blocking Stability</string>
 	<string key="ui_tooltip_broken">Broken - bonuses disabled</string>
 	<string key="ui_tooltip_absorption">Absorption</string>
-	<string key="ui_tooltip_armorrating">Armor Rating</string>
+	<string key="ui_tooltip_armorrating">Armor</string>
 	<string key="ui_tooltip_resistances">Resistances</string>
 	<string key="ui_tooltip_activetool">Active Tool</string>
 	<string key="ui_tooltip_setactivetool">Set Active Tool</string>
@@ -1644,7 +1673,7 @@
 	<string key="ui_tooltip_none">NONE</string>
 	<string key="ui_feedback_submitted">Thank you for your feedback!</string>
 	<string key="ui_submit_feedback_description">We thank you for your feedback! Please submit feedback anytime you experience something positive or negative. The more feedback we get, the better we can make New World.</string>
-	<string key="ui_submit_feedback_type">Type feedback here.</string>
+	<string key="ui_submit_feedback_type">Do not include personal or sensitive data</string>
 	<string key="ui_submit_feedback_question">How was your experience?</string>
 	<string key="ui_loading">Loading</string>
 	<string key="ui_digital_deluxe">Digital Deluxe</string>
@@ -1673,10 +1702,10 @@
 	<string key="ui_war_declare_fail_InsufficientContribution">Cannot declare war, your company did not contribute enough influence.</string>
 	<string key="ui_online_friends">Online Friends</string>
 	<string key="ui_any_moment">Any moment now...</string>
-	<string key="ui_current_location">Current Location</string>
-	<string key="ui_transferheader">View and Transfer To/From:</string>
-	<string key="ui_transferfromheader">View and Transfer From:</string>
-	<string key="ui_viewheader">View Only:</string>
+	<string key="ui_current_location">Here</string>
+	<string key="ui_transferheader">Transfer To/From</string>
+	<string key="ui_transferfromheader">Transfer From</string>
+	<string key="ui_viewheader">View Only</string>
 	<string key="ui_transferwarning">Are you sure you want to transfer all items to your Inventory?</string>
 	<string key="ui_transfertooltip">You can transfer items to and from other territories that are under your faction's control.</string>
 	<string key="ui_transfertoandfromtooltip">You can transfer items to and from storage sheds at your current location.</string>
@@ -1712,7 +1741,7 @@
 	<string key="ui_time_left">{time} left</string>
 	<string key="ui_autocompletetimedout">Auto complete timed out.</string>
 	<string key="ui_autocompletethrottled">Auto complete throttled.</string>
-	<string key="ui_searchitem">Search Items</string>
+	<string key="ui_searchitem">Search</string>
 	<string key="ui_searchresult">Search Result</string>
 	<string key="ui_searchtimedout">Search timed out. Try again.</string>
 	<string key="ui_searchthrottled">Search throttled. Try again.</string>
@@ -1779,15 +1808,15 @@
 	<string key="ui_leaderboard" rel_version="Feature_Leaderboards">Leaderboard</string>
 	<string key="ui_mapmenu_dayleaderboard" rel_version="Feature_Leaderboards">DAY</string>
 	<string key="ui_mapmenu_seasonleaderboard" rel_version="Feature_Leaderboards">SEASON</string>
-	<string key="ui_mapmenu_companiesatwar">UPCOMING WARS</string>
-	<string key="ui_mapmenu_resourcelocations">RESOURCE LOCATIONS</string>
-	<string key="ui_mapmenu_activewars">UPCOMING WARS</string>
+	<string key="ui_mapmenu_companiesatwar">WARS</string>
+	<string key="ui_mapmenu_resourcelocations">RESOURCES</string>
+	<string key="ui_mapmenu_activewars">WARS</string>
 	<string key="ui_mapmenu_noactivewars">There is currently no upcoming war in this world.</string>
-	<string key="ui_mapmenu_warhasended">War has ended</string>
-	<string key="ui_mapmenu_oneactivewar">You are in &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;1&lt;/font&gt;&lt;/font&gt; upcoming war.</string>
-	<string key="ui_mapmenu_numactivewars">You are in &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{numWars}&lt;/font&gt;&lt;/font&gt; upcoming wars.</string>
-	<string key="ui_activewars_oneactivewar">There is &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;1&lt;/font&gt;&lt;/font&gt; upcoming war in this world.</string>
-	<string key="ui_activewars_numactivewars">There are &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{numWars}&lt;/font&gt;&lt;/font&gt; upcoming wars in this world.</string>
+	<string key="ui_mapmenu_warhasended">War has ended.</string>
+	<string key="ui_mapmenu_oneactivewar">You are in &lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;1&lt;/font&gt;&lt;/font&gt; upcoming war.</string>
+	<string key="ui_mapmenu_numactivewars">You are in &lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{numWars}&lt;/font&gt;&lt;/font&gt; upcoming wars.</string>
+	<string key="ui_activewars_oneactivewar">There is &lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;1&lt;/font&gt;&lt;/font&gt; upcoming war in this world.</string>
+	<string key="ui_activewars_numactivewars">There are &lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{numWars}&lt;/font&gt;&lt;/font&gt; upcoming wars in this world.</string>
 	<string key="ui_mapmenu_attacker">ATTACKER</string>
 	<string key="ui_mapmenu_defender">DEFENDER</string>
 	<string key="ui_mapmenu_versusabbreviation" comment="The abbreviated version of versus as in Alpha Company VS Bravo Company">VS</string>
@@ -1797,11 +1826,11 @@
 	<string key="ui_mapmenu_warlist_failure_timeout">Request timed out. Please try again.</string>
 	<string key="ui_mapmenu_warlist_failure_generic">Something went wrong. Please try again.</string>
 	<string key="ui_mapmenu_warlist_retry">Retry</string>
-	<string key="ui_mapmenu_manage_objectives">Manage Objectives</string>
-	<string key="ui_mapmenu_territorystandings">Territory Standings</string>
-	<string key="ui_mapmenu_territorystandings_subtext">Territory standing levels lets you unlock benefits within the territory.</string>
-	<string key="ui_mapmenu_territorystandings_spendprompt">BUY TERRITORY REWARD!</string>
-	<string key="ui_mapmenu_territorystandings_unspent_tokens">You have &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt;&lt;/font&gt; unspent Territory Standing Points.</string>
+	<string key="ui_mapmenu_manage_objectives">Objectives</string>
+	<string key="ui_mapmenu_territorystandings">Territories</string>
+	<string key="ui_mapmenu_territorystandings_subtext">Increase a territory's standing level to unlock bonuses within the territory.</string>
+	<string key="ui_mapmenu_territorystandings_spendprompt">STANDING BONUSES AVAILABLE</string>
+	<string key="ui_mapmenu_territorystandings_unspent_tokens">&lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt;&lt;/font&gt; unspent Territory Standing Points</string>
 	<string key="ui_territory_tokens">{territory} Standing Points</string>
 	<string key="ui_territory_standing_short" comment="one word version to show next to rewards in the banner">Standing</string>
 	<string key="ui_territory_standing_with_icon">{territoryName} Standing</string>
@@ -1817,12 +1846,12 @@
 	<string key="ui_required_to_active">Requirements</string>
 	<string key="ui_arena_time_remaining">Timing remaining for entering the Trial</string>
 	<string key="ui_arena_occupied">A group is already fighting in the Trial.</string>
-	<string key="ui_arena_description">Gather group near the entrance to enter the Trial.&lt;font color="#ffffff"&gt; One group is allowed in the Trial at a time.&lt;/font&gt;\n\nRespawning is disabled while inside the Trial. An Immobilized state will be entered upon knockdown.</string>
-	<string key="ui_arena_objective">Challenge and defeat {monstername} within &lt;font color="#ffffff"&gt;15 minutes.&lt;/font&gt;</string>
+	<string key="ui_arena_description">Gather group near the entrance to enter the Trial.&lt;font color="#FFFFFF"&gt; One group is allowed in the Trial at a time.&lt;/font&gt;\n\nRespawning is disabled while inside the Trial. An Immobilized state will be entered upon knockdown.</string>
+	<string key="ui_arena_objective">Challenge and defeat {monstername} within &lt;font color="#FFFFFF"&gt;15 minutes.&lt;/font&gt;</string>
 	<string key="ui_arena_item_reward">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt; {itemname}&lt;/font&gt;</string>
 	<string key="AwardAngryEarthEvent_MasterName">Angry Earth Equipment Cache</string>
-	<string key="ui_arena_rewardtype_currency">&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Coins&lt;/font&gt;</string>
-	<string key="ui_arena_rewardtype_azoth">&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.8" yOffset="3"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Azoth&lt;/font&gt;</string>
+	<string key="ui_arena_rewardtype_currency">&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#FFFFFF" &gt; {amount} &lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Coins&lt;/font&gt;</string>
+	<string key="ui_arena_rewardtype_azoth">&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.8" yOffset="3"&gt;&lt;/img&gt; &lt;font color="#FFFFFF" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Azoth&lt;/font&gt;</string>
 	<string key="ui_arena_group_proximity">Group member too far away</string>
 	<string key="ui_arena_group_dead">Group member is dead</string>
 	<string key="ui_arena_activating">Activation in progress</string>
@@ -1830,13 +1859,19 @@
 	<string key="spriggan_name">Zygoramet</string>
 	<string key="ui_exit_dungeon_title">Exit Expedition?</string>
 	<string key="ui_exit_dungeon_title_solo">Exit Soul Trial?</string>
+	<string key="ui_exit_dungeon_title_raidtrial">Exit Elite Trial?</string>
 	<string key="ui_dungeon_exit">Expedition Exit Portal</string>
-	<string key="ui_dungeon_exit_solo">Soul Trial Exit Portal</string>
+	<string key="ui_dungeon_exit_solo">Soul Trial Exit</string>
+	<string key="ui_dungeon_exit_raidtrial">Elite Trial Exit Portal</string>
 	<string key="ui_exit_dungeon_desc">You will be teleported outside of the Expedition.\nYou will be able to re-enter the Expedition until it is closed.</string>
+	<string key="ui_exit_dungeon_desc_solo">You will be teleported outside of the Soul Trial.\nYou will be able to re-enter the Soul Trial until it is closed.</string>
+	<string key="ui_exit_dungeon_desc_raidtrial">You will be teleported outside of the Elite Trial.\nYou will be able to re-enter the Elite Trial until it is closed.</string>
 	<string key="ui_exit_dungeon_will_close_desc">You will be teleported outside of the Expedition.\nIf everyone in your group leaves the Expedition it will be closed.</string>
 	<string key="ui_exit_dungeon_will_close_desc_solo">You will be teleported out of the Soul Trial and it will be closed.</string>
+	<string key="ui_exit_dungeon_will_close_desc_raidtrial">You will be teleported out of the Elite Trial and it will be closed.</string>
 	<string key="ui_exit_dungeon_incombat">You cannot leave an expedition when you have recently been in-combat. \nYou can leave in &lt;font color="#ffd45f"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_exit_dungeon_incombat_solo">You cannot leave a soul trial when you have recently been in-combat. \nYou can leave in &lt;font color="#ffd45f"&gt;[{timeremaining}]&lt;/font&gt;</string>
+	<string key="ui_exit_dungeon_incombat_raidtrial">You cannot leave an elite trial when you have recently been in-combat. \nYou can leave in &lt;font color="#ffd45f"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_enable_newDamageNumbers">Floating Damage Numbers</string>
 	<string key="ui_enable_newDamageNumbers_description">When off, damage numbers will be docked to the enemy's health bar</string>
 	<string key="ui_accept_duel_invites">Accept Duel Invites</string>
@@ -1844,8 +1879,8 @@
 	<string key="ui_auto_traverse">Auto-Traverse</string>
 	<string key="ui_auto_traverse_description">Automatically climb and vault over obstacles while moving</string>
 	<string key="ui_chat_compact_view">Compact View</string>
-	<string key="ui_chat_enable_alerts">Enable Alerts</string>
-	<string key="ui_chat_enable_alerts_options">Enable Chat Alerts</string>
+	<string key="ui_chat_enable_alerts">Alerts</string>
+	<string key="ui_chat_enable_alerts_options">Chat Alerts</string>
 	<string key="ui_chat_enable_alerts_tooltip">Allows Alerts to be displayed while in menus that would otherwise hide chat. Control which channels can display Alerts in the channel selector to the left.</string>
 	<string key="ui_chat_enable_close_after_send">Close after send</string>
 	<string key="ui_chat_enable_close_after_send_options">Close Chat After Send</string>
@@ -1902,9 +1937,9 @@
 	<string key="ui_vitals">Vitals</string>
 	<string key="ui_vitals_value">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{value}&lt;/font&gt;/{max}</string>
 	<string key="ui_equipped_weapons">Equipped Weapons</string>
-	<string key="ui_ability1">Weapon Ability 1</string>
-	<string key="ui_ability2">Weapon Ability 2</string>
-	<string key="ui_ability3">Weapon Ability 3</string>
+	<string key="ui_ability1">Weapon Ability #1</string>
+	<string key="ui_ability2">Weapon Ability #2</string>
+	<string key="ui_ability3">Weapon Ability #3</string>
 	<string key="ui_ability_heartgem">Heartrune Ability</string>
 	<string key="ui_pending_afk_disconnect">Are you still playing?</string>
 	<string key="ui_pending_afk_disconnect_description">You have been detected as idle and will be automatically kicked from the game. If you're still playing, move your character.</string>
@@ -1920,7 +1955,7 @@
 	<string key="ui_unbind_key">&lt;img src="lyshineui/images/icons/misc/Icon_RightMouseButton" xPadding="0" scale="2.2" yOffset="5"&gt;&lt;/img&gt; to unbind key</string>
 	<string key="ui_unbind_key_disabled">This key can't be unbound at the moment</string>
 	<string key="ui_uncharted_landmark">Uncharted Landmark</string>
-	<string key="ui_uncharted_landmark_subtext">Travel here to learn more</string>
+	<string key="ui_uncharted_landmark_subtext">Travel here to learn more.</string>
 	<string key="ui_landmark_difficulty">Landmark Difficulty:</string>
 	<string key="ui_disable_alerts">Disable alerts</string>
 	<string key="ui_reset_chat_display_settings_warning">Are you sure you want to reset your chat display settings?</string>
@@ -1953,57 +1988,58 @@
 	<string key="ui_solo">Solo</string>
 	<string key="ui_summary">Summary</string>
 	<string key="ui_azoth_max_title">Azoth Maximum</string>
-	<string key="ui_azoth_max_desc">You have reached Azoth cap. Excess Azoth will be lost.</string>
-	<string key="ui_azoth_warning_title">Warning, Azoth Cap</string>
-	<string key="ui_azoth_warning_desc">You are almost at your Azoth cap. {amount}/{maxAmount}</string>
+	<string key="ui_azoth_max_desc">You have reached the Azoth cap. Excess Azoth will be lost.</string>
+	<string key="ui_azoth_warning_title">Warning: Azoth Cap</string>
+	<string key="ui_azoth_warning_desc">You are almost at the Azoth cap: {amount}/{maxAmount}</string>
 	<string key="ui_coin_max_title">Coin Maximum</string>
-	<string key="ui_coin_max_desc">You have reached Coin cap. Excess Coin will be lost.</string>
-	<string key="ui_coin_warning_title">Warning, Coin Cap</string>
-	<string key="ui_coin_warning_desc">You are almost at your Coin cap. {amount}/{maxAmount}</string>
+	<string key="ui_coin_max_desc">You have reached the Coin cap. Excess Coin will be lost.</string>
+	<string key="ui_coin_warning_title">Warning: Coin Cap</string>
+	<string key="ui_coin_warning_desc">You are almost at the Coin cap: {amount}/{maxAmount}</string>
 	<string key="ui_reputation_max_title">Reputation Maximum</string>
-	<string key="ui_reputation_max_desc">You have reached Faction Reputation cap. Excess Faction Reputation will be lost.</string>
-	<string key="ui_reputation_warning_title">Warning, Reputation Cap</string>
-	<string key="ui_reputation_warning_desc">You are almost at your Faction Reputation cap. {amount}/{maxAmount}</string>
-	<string key="ui_reputation_max_tooltip">Reputation is capped at {amount}</string>
+	<string key="ui_reputation_max_desc">You have reached the Faction Reputation cap. Excess reputation will be lost.</string>
+	<string key="ui_reputation_warning_title">Warning: Reputation Cap</string>
+	<string key="ui_reputation_warning_desc">You are almost at the Faction Reputation cap: {amount}/{maxAmount}</string>
+	<string key="ui_reputation_max_tooltip">Reputation is capped at {amount}.</string>
 	<string key="ui_azoth_salt_max_title" rel_version="PvP_Rewards_Track">Azoth Salt Maximum</string>
-	<string key="ui_azoth_salt_max_desc" rel_version="PvP_Rewards_Track">You have reached Azoth Salt cap. Excess Azoth Salt will be lost.</string>
-	<string key="ui_azoth_salt_warning_title" rel_version="PvP_Rewards_Track">Warning, Azoth Salt Cap</string>
-	<string key="ui_azoth_salt_warning_desc" rel_version="PvP_Rewards_Track">You are almost at your Azoth Salt cap. {amount}/{maxAmount}</string>
-	<string key="ui_azoth_salt_max_tooltip" rel_version="PvP_Rewards_Track">You cannot open this because you have reached Azoth Salt cap.</string>
-	<string key="ui_azoth_salt_open_warning" rel_version="PvP_Rewards_Track">Opening this will put you at the Azoth Salt cap.  Excess Azoth Salt will be lost.</string>
+	<string key="ui_azoth_salt_max_desc" rel_version="PvP_Rewards_Track">You have reached the Azoth Salt cap. Excess Azoth Salt will be lost.</string>
+	<string key="ui_azoth_salt_warning_title" rel_version="PvP_Rewards_Track">Warning: Azoth Salt Cap</string>
+	<string key="ui_azoth_salt_warning_desc" rel_version="PvP_Rewards_Track">You are almost at the Azoth Salt cap: {amount}/{maxAmount}</string>
+	<string key="ui_azoth_salt_max_tooltip" rel_version="PvP_Rewards_Track">You cannot open this because you have reached the Azoth Salt cap.</string>
+	<string key="ui_azoth_salt_open_warning" rel_version="PvP_Rewards_Track">Opening this will put you at the Azoth Salt cap. Excess Azoth Salt will be lost.</string>
 	<string key="ui_tokens_max_title">Tokens Maximum</string>
-	<string key="ui_tokens_max_desc">You have reached Faction Tokens cap. Excess Faction Tokens will be lost.</string>
-	<string key="ui_tokens_warning_title">Warning, Tokens Cap</string>
-	<string key="ui_tokens_warning_desc">You are almost at your Faction Tokens cap. {amount}/{maxAmount}</string>
+	<string key="ui_tokens_max_desc">You have reached the Faction Tokens cap. Excess tokens will be lost.</string>
+	<string key="ui_tokens_warning_title">Warning: Tokens Cap</string>
+	<string key="ui_tokens_warning_desc">You are almost at the Faction Tokens cap: {amount}/{maxAmount}</string>
 	<string key="ui_tokens_max_tooltip">Tokens are capped at {amount}</string>
 	<string key="ui_coin_max_ticker">Coin Cap Reached</string>
 	<string key="ui_coin_lost_ticker">Coin Cap Reached ({amount} lost)</string>
-	<string key="ui_coin_max_tooltip">Coin is capped at {amount}</string>
+	<string key="ui_coin_max_tooltip">Coin is capped at {amount}.</string>
 	<string key="ui_coin_returned">COIN RETURNED</string>
-	<string key="ui_coin_returned_desc">Returned {amount}. Failed to send coin.</string>
+	<string key="ui_coin_returned_desc">Failed to send Coin ({amount} returned)</string>
 	<string key="ui_coin_max_deposit_tooltip">Company Treasuries are capped at {amount} Coin.\nThis amount is the most you could give without exceeding that limit.</string>
 	<string key="ui_coin_max_withdrawal_tooltip">Your wallet is capped at {amount} Coin.\nThis amount is the most you could take without exceeding that limit.</string>
-	<string key="ui_coin_max_sellorder_tooltip">Your wallet is capped at {amount} Coin.\nYou will lose any coin that exceed that limit at the time of sale.</string>
-	<string key="ui_coin_max_trade_tooltip">Your wallet is capped at {amount} Coin.\nThe other player is trying to give you more coin than you can carry. They will be refunded any excess Coin.</string>
+	<string key="ui_coin_max_sellorder_tooltip">Your wallet is capped at {amount} Coin.\nYou will lose any Coin that exceeds that limit at the time of sale.</string>
+	<string key="ui_coin_max_trade_tooltip">Your wallet is capped at {amount} Coin.\nThe other player is trying to give you more Coin than you can carry and will be refunded any excess Coin.</string>
 	<string key="ui_coin_max_cantwithdraw_tooltip">Your wallet is full. You cannot withdraw any Coin from your Company Treasury.</string>
 	<string key="ui_listing_duration_tooltip">Longer listings will result in higher listing fees.</string>
 	<string key="ui_groupsize_identifier">Recommended Group Size: {groupSize}</string>
 	<string key="ui_level_identifier">Recommended Level: {level}</string>
 	<string key="ui_recommendedlevel">Recommended Level</string>
-	<string key="ui_view_milestones">View Leveling Rewards</string>
+	<string key="ui_view_milestones">Leveling Rewards</string>
 	<string key="ui_all_milestones">All Leveling Rewards</string>
 	<string key="ui_unlock_camping_tier_2">Camping Tier 2</string>
 	<string key="ui_unlock_camping_tier_3">Camping Tier 3</string>
 	<string key="ui_unlock_camping_tier_4">Camping Tier 4</string>
 	<string key="ui_unlock_camping_tier_5">Camping Tier 5</string>
+	<string key="ui_unlock_camping_tooltip">Unlocking a higher tier of camping allows you to craft more items at your campsite.</string>
 	<string key="ui_camping_reward_tier_0">Tier 0</string>
 	<string key="ui_camping_reward_tier_1">Tier 1</string>
 	<string key="ui_camping_reward_tier_2">Tier 2</string>
 	<string key="ui_camping_reward_tier_3">Tier 3</string>
 	<string key="ui_camping_reward_tier_4">Tier 4</string>
 	<string key="ui_camping_reward_tier_5">Tier 5</string>
-	<string key="ui_camping_tooltip_tier_1">Camp (Tier 1)\n\nPlacing a Tier 1 camp allows you to craft various Tier 1 items, heal your character, and respawn at the camp.\n\nTo upgrade your camp to Tier 2, you must be Level 15 and have completed the “Survivalist: Friends in Fashion” quest.</string>
-	<string key="ui_camping_tooltip_tier_2">Camp (Tier 2)\n\nPlacing a Tier 2 camp allows you to craft various Tier 2 items, heal your character, and respawn at the camp.\n\nTo upgrade your camp to Tier 3, you must be Level 25 and have completed the “Animal Instincts” quest.</string>
+	<string key="ui_camping_tooltip_tier_1">Camp (Tier 1)\n\nPlacing a Tier 1 camp allows you to craft various Tier 1 items, heal your character, and respawn at the camp.\n\nTo upgrade your camp to Tier 2, you must complete “Seed of Hope” in Windsward or "Wilderness Wiseman" in Monarch's Bluffs.</string>
+	<string key="ui_camping_tooltip_tier_2">Camp (Tier 2)\n\nPlacing a Tier 2 camp allows you to craft various Tier 2 items, heal your character, and respawn at the camp.\n\nTo upgrade your camp to Tier 3, you must complete "Losing the Faith" in Brightwood.</string>
 	<string key="ui_camping_tooltip_tier_3">Camp (Tier 3)\n\nPlacing a Tier 3 camp allows you to craft various Tier 3 items, heal your character, and respawn at the camp.\n\nTo upgrade your camp to Tier 4, you must be Level 40 and have completed the “Survivalist: Lupine Obersvations” quest.</string>
 	<string key="ui_camping_tooltip_tier_4">Camp (Tier 4)\n\nPlacing a Tier 4 camp allows you to craft various Tier 4 items, heal your character, and respawn at the camp.\n\nTo upgrade your camp to Tier 5, you must be Level 55 and have completed the “Survivalist: Fading Lights” quest.</string>
 	<string key="ui_camping_tooltip_tier_5">Camp (Tier 5)\n\nPlacing a Tier 5 camp allows you to craft various Tier 5 items, heal your character, and respawn at the camp.</string>
@@ -2011,7 +2047,7 @@
 	<string key="ui_campskin" rel_version="Feature_Camp_Skins">Camp Skin</string>
 	<string key="ui_campskin_applied_hint" rel_version="Feature_Camp_Skins">Skin will be applied on your next camp</string>
 	<string key="ui_all_level_milestones">All Leveling Rewards</string>
-	<string key="ui_unlock_token_slot">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Earring Slot&lt;/font&gt;</string>
+	<string key="ui_unlock_token_slot">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Earring Slot&lt;/font&gt;</string>
 	<string key="ui_unlock_ring_slot">Ring Slot</string>
 	<string key="ui_unlock_second_weapon_slot">Second Weapon Slot</string>
 	<string key="ui_unlock_third_weapon_slot">Third Weapon Slot</string>
@@ -2025,18 +2061,20 @@
 	<string key="ui_current_gear_score">Current Gear Score</string>
 	<string key="ui_next_milestone">Next Unlock</string>
 	<string key="ui_unlocked">UNLOCKED</string>
-	<string key="ui_attribute_scale">{name}\n\nScales with {attribute}</string>
-	<string key="ui_weapon_damage">Weapon Damage</string>
-	<string key="ui_shield_disabled">Shields do not grant a stat boost unless you have a sword equipped and unsheathed. If you don't intend to equip a sword and want to decrease your equip load weight, you may want to unequip this shield.</string>
+	<string key="ui_attribute_scale">&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{name}&lt;/font&gt;\nDamage scales with {attribute}</string>
+	<string key="ui_weapon_damage">Damage</string>
+	<string key="ui_shield_disabled">Shield stats and perks are only applied if you have a sword equipped and unsheathed.\n\nIf you are not using a sword, consider unequipping the shield to reduce your equip load.</string>
 	<string key="ui_unspent">unspent</string>
 	<string key="ui_damage_scale_from">Damage Scales With</string>
 	<string key="ui_scales_with">Scales with</string>
 	<string key="ui_from_strength">Strength</string>
 	<string key="ui_from_dexterity">Dexterity</string>
-	<string key="ui_from_strength_and_dexterity">Strength and Dexterity</string>
-	<string key="ui_from_dexterity_and_strength">Dexterity and Strength</string>
-	<string key="ui_from_dexterity_and_intelligence">Dexterity and Intelligence</string>
-	<string key="ui_from_strength_and_intelligence">Strength and Intelligence</string>
+	<string key="ui_from_strength_and_dexterity">Strength, Dexterity</string>
+	<string key="ui_from_dexterity_and_strength">Dexterity, Strength</string>
+	<string key="ui_from_dexterity_and_intelligence">Dexterity, Intelligence</string>
+	<string key="ui_from_strength_and_intelligence">Strength, Intelligence</string>
+	<string key="ui_from_strength_and_focus">Strength, Focus</string>
+	<string key="ui_from_focus_and_strength">Focus, Strength</string>
 	<string key="ui_from_intelligence">Intelligence</string>
 	<string key="ui_from_focus">Focus</string>
 	<string key="ui_from_intelligence_and_focus">Intelligence and Focus</string>
@@ -2053,8 +2091,7 @@
 	<string key="ui_weapon_mastery">Weapon Mastery</string>
 	<string key="ui_weapon_mastered">Weapon Mastered</string>
 	<string key="ui_tradeskill_mastered">Tradeskill Mastered</string>
-	<string key="ui_weapon_mastery_level" comment="{level} for current mastery level, {maxLevel} for the highest possible">Level &lt;font color="#ffffff"&gt;{level}&lt;/font&gt; / {maxLevel}</string>
-	<string key="ui_mace">Mace</string>
+	<string key="ui_weapon_mastery_level" comment="{level} for current mastery level, {maxLevel} for the highest possible">Level &lt;font color="#FFFFFF"&gt;{level}&lt;/font&gt; / {maxLevel}</string>
 	<string key="ui_rapier">Rapier</string>
 	<string key="ui_throwingaxe">Hatchet</string>
 	<string key="ui_spear">Spear</string>
@@ -2129,7 +2166,7 @@
 	<string key="ui_bindOnPickup">Bind On Pickup</string>
 	<string key="ui_bindOnEquip">Bind On Equip</string>
 	<string key="ui_bindOnEquip_title">Bind Item</string>
-	<string key="ui_bindOnEquip_body">This item will become bound to you if you equip it.\nBound items can only be used by you and cannot be traded, only destroyed.\n\nDo you want to equip this item?</string>
+	<string key="ui_bindOnEquip_body">Bound items can only be used by you and cannot be traded.\n\nDo you want to equip this item?</string>
 	<string key="ui_boundToPlayer">Bound To Player</string>
 	<string key="ui_requires_station" comment="in context, the specific station is shown below this string">Performed At</string>
 	<string key="ui_axe">Axe</string>
@@ -2145,7 +2182,7 @@
 	<string key="ui_now_track">Now you can track</string>
 	<string key="ui_now_track_banner">{resourceName} can now be tracked</string>
 	<string key="ui_now_gather">Now you can gather</string>
-	<string key="ui_standing_up">Standing Rank Increased</string>
+	<string key="ui_standing_up">Standing Level Increased</string>
 	<string key="hwm_loot_head">Expertise Head</string>
 	<string key="hwm_loot_chest">Expertise Chest</string>
 	<string key="hwm_loot_hands">Expertise Hands</string>
@@ -2182,14 +2219,14 @@
 	<string key="ui_clusterwarning_cannottransferinnorout">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer to this world.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer from this world.</string>
 	<string key="ui_character_world_info">{worldName}</string>
 	<string key="ui_cannotPin_atMax">Cannot pin any more objectives.</string>
-	<string key="ui_clusterwarning_body">&lt;font color="#ffffff"&gt;You can only have 1 character in the {worldSetName} world group.&lt;/font&gt;\n\nIf you ever want to play on a different {worldSetName} world, you will need to delete your character on {worldName} and create a new one on a different world.\n\nIf you have friends playing on other {worldSetName} worlds, you will not be able to play with them.</string>
+	<string key="ui_clusterwarning_body">&lt;font color="#FFFFFF"&gt;You can only have 1 character in the {worldSetName} world group.&lt;/font&gt;\n\nIf you ever want to play on a different {worldSetName} world, you will need to delete your character on {worldName} and create a new one on a different world.\n\nIf you have friends playing on other {worldSetName} worlds, you will not be able to play with them.</string>
 	<string key="ui_clusterwarning_cancel">Choose a different world</string>
 	<string key="ui_clusterwarning_accept">I understand</string>
 	<string key="ui_character_level_short">Lv</string>
 	<string key="ui_clusterwarning_cannot_create_title">Cannot create a character.</string>
 	<string key="ui_clusterwarning_cannot_create">You already have a character in the {worldSetName} world group. If you want to play on this world, you must delete your character on {worldName}.</string>
 	<string key="ui_clusterwarning_freeweekend_sessiontime" rel_version="Feature_FreeWeekend">Free player sessions are extended every 30 minutes if there are no paid players in the queue. Players who have purchased New World do not have session time limits.</string>
-	<string key="ui_clusterwarning_freeweekend_freshstart" rel_version="Feature_FreeWeekend">Only players who have purchased New World may create characters on Fresh Start worlds.</string>
+	<string key="ui_clusterwarning_freeweekend_freshstart" rel_version="Feature_FreeWeekend">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Only new characters can be created in {worldName}.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer to this Fresh Start World.\n\nOnly players who have purchased New World may create characters on Fresh Start worlds.</string>
 	<string key="ui_num_chars_per_region_title">CHARACTERS IN THIS REGION</string>
 	<string key="ui_regionmaxwarning_cannot_create_title">Cannot create a character.</string>
 	<string key="ui_regionmaxwarning_cannot_create">You have the maximum number of characters in this region. To create a new character, delete an existing character in this region, or choose another region.</string>
@@ -2229,8 +2266,8 @@
 	<string key="ui_select_world_for_character" rel_version="Territory_Brimstone_Sands">Select World for {name}.</string>
 	<string key="ui_freeweekend_worldwarning_title">Free Weekend Worlds</string>
 	<string key="ui_freeweekend_worldwarning_desc">Select a world to play in during the Free Weekend. Worlds that are not marked free have limited sessions extended every {time} if there are no paid players in the queue.</string>
-	<string key="ui_queue_depth">Players in queue: &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{numplayers}&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_expected_wait_time">Expected wait time: &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{time}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_queue_depth">Players in queue: &lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{numplayers}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_expected_wait_time">Expected wait time: &lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{time}&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_collapse">Collapse</string>
 	<string key="ui_current_stat">Current:</string>
 	<string key="ui_required">Required</string>
@@ -2238,11 +2275,11 @@
 	<string key="ui_quest_available">Quest\nAvailable</string>
 	<string key="ui_quests_ready">Quests\nReady for Turn-in</string>
 	<string key="ui_quest_ready">Quest\nReady for Turn-in</string>
-	<string key="ui_pin_objective">Pin this objective</string>
-	<string key="ui_unpin_objective">Unpin this objective</string>
+	<string key="ui_pin_objective">Pin objective</string>
+	<string key="ui_unpin_objective">Unpin objective</string>
 	<string key="ui_view_journal">View in Journal</string>
 	<string key="ui_pin_objective_message">The objective is pinned.</string>
-	<string key="ui_unpin_objective_message">The objective is un-pinned.</string>
+	<string key="ui_unpin_objective_message">The objective is no longer pinned.</string>
 	<string key="ui_territorymanagebuilding">The territory is managed in this building</string>
 	<string key="ui_checkin_at_inn">You are leaving without checking at the inn</string>
 	<string key="ui_framepersec">FPS:</string>
@@ -2273,14 +2310,14 @@
 	<string key="ui_fishing_attach_bait">Equip Bait</string>
 	<string key="ui_fishing_no_bait">No Bait</string>
 	<string key="ui_fishing_change_bait">Change Bait</string>
-	<string key="ui_fishing_cast">(HOLD) Cast</string>
+	<string key="ui_fishing_cast">(Hold) Cast</string>
 	<string key="ui_fishing_exit_fishing">Exit Fishing</string>
 	<string key="ui_fishing_reset_cast">Reset Cast</string>
 	<string key="ui_fishing_hook">Hook!</string>
 	<string key="ui_fishing_reel">Reel in</string>
 	<string key="ui_fishing_nobait">No Bait</string>
 	<string key="ui_fishing_nobait_description">No Bonus for size or quality of fish.</string>
-	<string key="ui_fishing_nobait_tooltip">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;No Bait&lt;/font&gt;&lt;/font&gt;\n\nNo Bonus for size or quality of fish.</string>
+	<string key="ui_fishing_nobait_tooltip">&lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;No Bait&lt;/font&gt;&lt;/font&gt;\n\nNo Bonus for size or quality of fish.</string>
 	<string key="ui_fishing_success">SUCCESS!</string>
 	<string key="ui_fishing_ready">Get ready!</string>
 	<string key="ui_start_fishing_instruction">Start fishing</string>
@@ -2317,17 +2354,17 @@
 	<string key="ui_faction_cant_cooldown">Cannot change factions while on cooldown.\n{cooldown}</string>
 	<string key="ui_change_faction_warning">Once you change your faction, you won't be able to change it again for 60 days. Changing factions resets faction rank and tokens.</string>
 	<string key="ui_change_faction">Change Faction</string>
-	<string key="ui_select_faction" rel_version="Feature_Faction_Selection">Select Faction</string>
+	<string key="ui_select_faction" rel_version="Feature_Faction_Selection">Change Faction</string>
 	<string key="ui_change_faction_cooldown">Change Faction\n{cooldown}</string>
 	<string key="ui_change_faction_azoth_cost">Change Faction {azothcost}</string>
 	<string key="ui_change_faction_desc">Are you sure you want to change your faction to {factionname}?\nChanging faction will reset your faction rank and tokens.\n\nOnce it's changed, you won't be able to change your faction again for 60 days.</string>
-	<string key="ui_change_faction_confirmation" rel_version="Feature_Faction_Selection">Are you sure you want to change your faction to {factionname}?\nYour faction rank and tokens will not transfer with you, but are not lost in case you decide to return in the future.\n\nOnce it's changed, you won't be able to change your faction again for 60 days.\n\nIf you are a member of a company, you will be removed from it.</string>
+	<string key="ui_change_faction_confirmation" rel_version="Feature_Faction_Selection">Are you sure you want to change your faction to {factionname}?\nYour faction rank and tokens will not transfer with you, but are not lost in case you decide to return in the future.\n\nOnce it's changed, you won't be able to change your faction again for 60 days. If you are a member of a company, you will be removed from it.</string>
 	<string key="ui_change_faction_quest_warning" rel_version="Feature_Faction_Selection">Faction Initiation Quests not completed</string>
-	<string key="ui_change_faction_visit_rep" rel_version="Feature_Faction_Selection">Complete Faction Initiation Quests in Everfall to Switch to this Faction</string>
-	<string key="ui_current_faction">Your current faction: {factionname}</string>
-	<string key="ui_current_faction_label">Current Faction</string>
-	<string key="ui_dropconfirm_title">Drop Confirmation</string>
-	<string key="ui_dropconfirm_msg">Drop these items on the ground?</string>
+	<string key="ui_change_faction_visit_rep" rel_version="Feature_Faction_Selection">Complete Faction Initiation Quests in Everfall to switch</string>
+	<string key="ui_current_faction">Your faction: {factionname}</string>
+	<string key="ui_current_faction_label">Current</string>
+	<string key="ui_dropconfirm_title">Drop Items</string>
+	<string key="ui_dropconfirm_msg">Items will be dropped to the ground and disappear forever after 3 minutes.</string>
 	<string key="reward_new_recipe">New Recipe: {name}</string>
 	<string key="tradeskill_required_level">Lv. {skillLevel}</string>
 	<string key="ui_add_summoning_stone">Add Summoning Stone</string>
@@ -2346,22 +2383,23 @@
 	<string key="ui_gather_no_faction">Territory must be faction controlled.</string>
 	<string key="command_lock_salvage">Lock</string>
 	<string key="command_unlock_salvage">Unlock</string>
-	<string key="tooltip_lock_salvage">Lock this item to prevent it from being salvaged. The lock is removed when the item is dropped, traded, or sold.</string>
-	<string key="tooltip_unlock_salvage">Unlock this item to allow it to be salvaged again.</string>
-	<string key="tooltip_salvage_locked">This item is locked and is protected from being salvaged. Use Unlock for Salvage to allow it to be salvaged again.</string>
+	<string key="tooltip_lock_salvage">Lock items to prevent them from being salvaged or dropped. Locks are removed when items are traded or sold.</string>
+	<string key="tooltip_unlock_salvage">Unlock items to allow them to be salvaged or dropped.</string>
+	<string key="tooltip_salvage_locked">Locked items cannot be salvaged.</string>
 	<string key="tooltip_salvage_remote">You cannot salvage items in remote locations.</string>
-	<string key="tooltip_salvage_cannot">This item cannot be salvaged</string>
-	<string key="tooltip_discard_locked">This item is locked and is protected from being discarded. Use Unlock to allow it to be discarded again.</string>
+	<string key="tooltip_salvage_cannot">This item cannot be salvaged.</string>
+	<string key="tooltip_discard_locked">Locked items cannot be dropped.</string>
+	<string key="tooltip_move_storage">Move this item to the Storage Shed.</string>
 	<string key="twitch_link_title">Connect Twitch Account To Amazon Games</string>
-	<string key="twitch_link_desc">Connect your Twitch account to participate in exclusive features. You can disconnect your account at any time.</string>
+	<string key="twitch_link_desc">Connect your Twitch account to participate in exclusive features.</string>
 	<string key="twitch_sub_army">Subscriber Army</string>
-	<string key="twitch_sub_army_desc">Join streamers or invite subscribers and/or followers to groups and Companies using the in-game Social Pane.</string>
-	<string key="twitch_drop_rewards">Twitch Drop Rewards</string>
-	<string key="twitch_drop_rewards_desc">Earn in-game rewards for watching New World streams with 'Drops Enabled' tag on Twitch.</string>
+	<string key="twitch_sub_army_desc">Join streamers or invite subscribers and/or followers to groups and companies.</string>
+	<string key="twitch_drop_rewards">Rewards</string>
+	<string key="twitch_drop_rewards_desc">Earn in-game rewards for watching New World streams with Drops enabled.</string>
 	<string key="twitch_streamer_spotlight">Streamer Spotlight</string>
-	<string key="twitch_streamer_spotlight_desc">Show a "LIVE" tag and viewer count in your character's in-game nameplate while streaming New World.</string>
+	<string key="twitch_streamer_spotlight_desc">Display a "Live" tag and viewer count in your character's nameplate while streaming.</string>
 	<string key="twitch_prime_gaming">Prime Gaming</string>
-	<string key="twitch_prime_gaming_desc">Linking your account to Prime Gaming allows you to claim monthly exclusive in-game content, and other special rewards for New World.</string>
+	<string key="twitch_prime_gaming_desc">Linking your account to Prime Gaming allows you to claim monthly exclusive in-game content and other special rewards for New World.</string>
 	<string key="go_crow">Go Crow</string>
 	<string key="go_crow_desc">An A.I. directed set of Multi GPU headless clients that utilize spectator cameras to record live video of events from within New World and broadcast them on the official Twitch New World channel and the in-game client.</string>
 	<string key="battle_arena">Battle Arena</string>
@@ -2391,9 +2429,9 @@
 	<string key="ui_notificationdecline">Decline Notification</string>
 	<string key="ui_banneraccept">Accept Banner</string>
 	<string key="ui_togglepopupoption">Toggle Popup Option</string>
-	<string key="ui_quick_salvage_modifier">Quick Salvage Item</string>
-	<string key="ui_quick_salvagelock_modifier">Quick Salvage Lock Item</string>
-	<string key="ui_quick_repair_modifier">Quick Repair Item</string>
+	<string key="ui_quick_salvage_modifier">Salvage</string>
+	<string key="ui_quick_salvagelock_modifier">Lock / Unlock</string>
+	<string key="ui_quick_repair_modifier">Repair</string>
 	<string key="ui_dialogue">Dialogue</string>
 	<string key="ui_dialogueoption1">Option #1</string>
 	<string key="ui_dialogueoption2">Option #2</string>
@@ -2413,6 +2451,7 @@
 	<string key="ui_gearscore_leveled_by_gamemode">Gear Score adjusted by rules of {mode}.</string>
 	<string key="ui_itemtypedescription_recipe">Recipe</string>
 	<string key="ui_itemtypedescription_sword">Sword</string>
+	<string key="ui_itemtypedescription_longsword">Longsword</string>
 	<string key="ui_itemtypedescription_hatchet">Hatchet</string>
 	<string key="ui_itemtypedescription_rapier">Rapier</string>
 	<string key="ui_itemtypedescription_club">Club</string>
@@ -2454,12 +2493,18 @@
 	<string key="ui_itemtypedescription_normal_feet_slot">Medium Footwear</string>
 	<string key="ui_itemtypedescription_light_feet_slot">Light Footwear</string>
 	<string key="ui_itemtypedescription_jewelry">Jewelry</string>
-	<string key="ui_itemtypedescription_Amuletjewelry">Amulet Jewelry</string>
-	<string key="ui_itemtypedescription_Ringjewelry">Ring Jewelry</string>
-	<string key="ui_itemtypedescription_Earringjewelry">Earring Jewelry</string>
+	<string key="ui_itemtypedescription_Amuletjewelry">Amulet</string>
+	<string key="ui_itemtypedescription_Ringjewelry">Ring</string>
+	<string key="ui_itemtypedescription_Earringjewelry">Earring</string>
 	<string key="ui_itemtypedescription_resource">Resource</string>
 	<string key="ui_itemtypedescription_housingitem">Housing Item</string>
 	<string key="ui_itemtypedescription_tool">Tool</string>
+	<string key="ui_itemtypedescription_miningpick">Mining Pick</string>
+	<string key="ui_itemtypedescription_fishingpole">Fishing Pole</string>
+	<string key="ui_itemtypedescription_loggingaxe">Logging Axe</string>
+	<string key="ui_itemtypedescription_skinningknife">Skinning Knife</string>
+	<string key="ui_itemtypedescription_harvestingsickle">Harvesting Sickle</string>
+	<string key="ui_itemtypedescription_azothstaff">Azoth Staff</string>
 	<string key="ui_itemtypedescription_instrument">Instrument</string>
 	<string key="ui_itemtypedescription_dye">Dye</string>
 	<string key="ui_itemtypedescription_bag">Bag</string>
@@ -2476,9 +2521,10 @@
 	<string key="ui_itemtooltiptitle_heartgem_rune_heretics_fall" rel_version="Feature_Heartgems">Dark Ascent</string>
 	<string key="ui_itemtooltiptitle_heartgem_rune_cannon_blast" rel_version="Feature_Heartgems">Cannon Blast</string>
 	<string key="ui_itemtooltiptitle_heartgem_rune_bile_bomb" rel_version="Feature_Heartgems_BileBomb">Bile Bomb</string>
+	<string key="ui_itemtooltiptitle_heartgem_rune_fire_storm" rel_version="Feature_Heartgems_FireStorm">Fire Storm</string>
 	<string key="ui_cannot_perform_action_at_this_time">You cannot perform this action at this time</string>
 	<string key="ui_cannot_use_shield_abilities">No Shield Equipped</string>
-	<string key="ui_tooltip_effect_duration">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{value}&lt;/font&gt; Effect Duration</string>
+	<string key="ui_tooltip_effect_duration">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#FFFFFF"&gt;{value}&lt;/font&gt; Effect Duration</string>
 	<string key="ui_cap_unfocused_fps">Cap FPS in Background</string>
 	<string key="ui_cap_unfocused_fps_desc">When enabled, limits framerate while minimized or unfocused.</string>
 	<string key="ui_Enable_Viewport_Scale">Dynamic Resolution Scaling</string>
@@ -2486,23 +2532,25 @@
 	<string key="ui_gathering_disabled">Gathering is Currently Disabled</string>
 	<string key="ui_linktochat_disabled">Link to Chat is Currently Disabled</string>
 	<string key="ui_autopinObjectivesMain">Auto-pin Main Story Quests</string>
-	<string key="ui_autopinobjectivesMain_desc">Automatically pin main story quests to HUD on accepting them</string>
+	<string key="ui_autopinobjectivesMain_desc">Automatically pin main story quests to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesFactionStory">Auto-pin Faction Story Quests</string>
-	<string key="ui_autopinobjectivesFactionStory_desc">Automatically pin faction story quests to HUD on accepting them</string>
+	<string key="ui_autopinobjectivesFactionStory_desc">Automatically pin faction story quests to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesSkillProgression">Auto-pin Skill Progression Quests</string>
-	<string key="ui_autopinobjectivesSkillProgression_desc">Automatically pin skill progression quests to HUD on accepting them</string>
-	<string key="ui_autopinObjectivesEpicEquipment">Auto-pin Epic Weapons and Armor Quests</string>
-	<string key="ui_autopinobjectivesEpicEquipment_desc">Automatically pin epic weapons and armor quests to HUD on accepting them</string>
-	<string key="ui_autopinObjectivesSide">Auto-pin Side Quests</string>
-	<string key="ui_autopinobjectivesSide_desc">Automatically pin side quests to HUD on accepting them</string>
+	<string key="ui_autopinobjectivesSkillProgression_desc">Automatically pin skill progression quests to the HUD when they are accepted.</string>
+	<string key="ui_autopinObjectivesEpicEquipment">Auto-pin Epic Equipment Quests</string>
+	<string key="ui_autopinobjectivesEpicEquipment_desc">Automatically pin epic equipment quests to the HUD when they are accepted.</string>
+	<string key="ui_autopinObjectivesSeasonQuest">Auto-pin Season Story Objectives</string>
+	<string key="ui_autopinobjectivesSeasonQuest_desc">Automatically pin season story quests to the HUD when they are accepted.</string>
+	<string key="ui_autopinObjectivesSide">Auto-pin Side Story Quests</string>
+	<string key="ui_autopinobjectivesSide_desc">Automatically pin side story quests to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesFaction">Auto-pin Faction Missions</string>
-	<string key="ui_autopinobjectivesFaction_desc">Automatically pin faction missions to HUD on accepting them</string>
+	<string key="ui_autopinobjectivesFaction_desc">Automatically pin faction missions to the HUD when they are accepted.</string>
 	<string key="ui_autopinobjectivesEvent">Auto-pin Event Quests</string>
-	<string key="ui_autopinobjectivesEvent_desc">Automatically pin event quests to HUD on accepting them</string>
+	<string key="ui_autopinobjectivesEvent_desc">Automatically pin event quests to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesComm">Auto-pin Town Projects</string>
-	<string key="ui_autopinobjectivesComm_desc">Automatically pin town projects to HUD on accepting them</string>
+	<string key="ui_autopinobjectivesComm_desc">Automatically pin town projects to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesCrafting">Auto-pin Recipes</string>
-	<string key="ui_autopinobjectivesCrafting_desc">Automatically pin recipes to HUD when a recipe is pinned at a crafting station.</string>
+	<string key="ui_autopinobjectivesCrafting_desc">Automatically pin recipes to the HUD when a recipe is pinned from any crafting station.</string>
 	<string key="ui_auto_pin_toggle_on">Auto-Pin On</string>
 	<string key="ui_auto_pin_toggle_off">Auto-Pin Off</string>
 	<string key="ui_auto_pin_toggle_label">Auto-Pin</string>
@@ -2514,17 +2562,17 @@
 	<string key="ui_complete_quests_to_unlock">Complete quests in settlement to unlock</string>
 	<string key="ui_interact_required_level">You must be level {level} to use</string>
 	<string key="ui_cannot_chat_trading_blocked">Channel access requires {playtimeNeeded} hours of play, account age of {hoursNeeded} hours, and an unlocked trading post.</string>
-	<string key="ui_averageexpertise">Average Expertise</string>
-	<string key="ui_averageexpertisetooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Expertise&lt;/font&gt;\nExpertise is used to measure the maximum power of an item when you have it equipped.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Max Expertise that you can reach&lt;/font&gt;\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{maximum}&lt;/font&gt;\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;How to increase Expertise&lt;/font&gt;\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Elite POIs and Expeditions&lt;/font&gt;\nDrops from creatures or chests in level 60+ areas have a chance to increase this value.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Crafting&lt;/font&gt;\nCrafting a 600 GS item will increase Expertise of this item type.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Gypsum Cast&lt;/font&gt;\nOpening a Gypsum Cast will increase Expertise.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Item Upgrade (with Umbral Shards)&lt;/font&gt;\nAfter you reach 600 Expertise, the only way to increase Expertise is via upgrading items with Umbral Shards.</string>
+	<string key="ui_averageexpertise">Expertise</string>
+	<string key="ui_averageexpertisetooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Expertise&lt;/font&gt;\nExpertise is used to measure the maximum power of an item when you have it equipped.\n\n&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Max Expertise that you can reach&lt;/font&gt;\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{maximum}&lt;/font&gt;\n\n&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Bold.font"&gt;How to increase Expertise&lt;/font&gt;\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Elite POIs and Expeditions&lt;/font&gt;\nDrops from creatures or chests in level 60+ areas have a chance to increase this value.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Crafting&lt;/font&gt;\nCrafting a 600 GS item will increase Expertise of this item type.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Gypsum Cast&lt;/font&gt;\nOpening a Gypsum Cast will increase Expertise.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Item Upgrade (with Umbral Shards)&lt;/font&gt;\nAfter you reach 600 Expertise, the only way to increase Expertise is via upgrading items with Umbral Shards.</string>
 	<string key="ui_itemtypedescription_shield_only">Shield</string>
 	<string key="ui_expertise_value_with_icon">&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;{value}</string>
 	<string key="ui_expertise_warning_with_icon">&lt;font color="#ff9393"&gt;&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_red" scale="1.5" yOffset="2"&gt;&lt;/img&gt;{value}&lt;/font&gt;</string>
 	<string key="ui_expertise_increased">+{amount} Expertise</string>
-	<string key="ui_expertise_tooltip_header">Total {category} Expertise</string>
-	<string key="ui_expertise_tooltip_breakdown">(&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{value} &lt;/font&gt; &lt;font color="#ffffff"&gt;+ {additional}&lt;/font&gt; from Umbral Upgrade)</string>
-	<string key="ui_expertise_tooltip_breakdown_multiple">(&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{value} &lt;/font&gt; &lt;font color="#ffffff"&gt;+ {additional}&lt;/font&gt; from Umbral Upgrades)</string>
-	<string key="ui_expertise_tooltip_increase">The &lt;font color="#ffffff"&gt;maximum&lt;/font&gt; Expertise you can obtain from enemies, chests, Gyspsum Casts and crafting is &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;600&lt;/font&gt;.</string>
-	<string key="ui_expertise_tooltip_maximum">To increase Expertise past &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;600&lt;/font&gt;, upgrade an item of this type with &lt;font color="#ffffff"&gt;Umbral Shards&lt;/font&gt;.</string>
+	<string key="ui_expertise_tooltip_header">{category} Expertise</string>
+	<string key="ui_expertise_tooltip_breakdown">(&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{value} &lt;/font&gt; &lt;font color="#FFFFFF"&gt;+ {additional}&lt;/font&gt; from Umbral Upgrade)</string>
+	<string key="ui_expertise_tooltip_breakdown_multiple">(&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{value} &lt;/font&gt; &lt;font color="#FFFFFF"&gt;+ {additional}&lt;/font&gt; from Umbral Upgrades)</string>
+	<string key="ui_expertise_tooltip_increase">The maximum &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt; from enemies, chests, Gyspsum Casts, and crafting is &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;600&lt;/font&gt;.</string>
+	<string key="ui_expertise_tooltip_maximum">To exceed &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;600&lt;/font&gt;, upgrade an item of this type with Umbral Shards.</string>
 	<string key="ui_expertise_crafting_gain">{category} Expertise</string>
 	<string key="ui_guides">Guides</string>
 	<string key="ui_fast_travel_guide_1_header">How it works</string>
@@ -2545,14 +2593,16 @@
 	<string key="ui_endgame_guide_title6">Locations to Increase Expertise per Level</string>
 	<string key="ui_endgame_guide_title7">Gypsum - Targeted Expertise Bumps</string>
 	<string key="ui_endgame_guide_title8">Umbral Shards - Upgrading Your Gear</string>
+	<string key="ui_endgame_guide_title9" rel_version="Feature_Seasons_Rewards">Season Journey</string>
 	<string key="ui_endgame_guide_body1">So you’ve hit Level 60! Congratulations! The world of Aeternum is now completely open to you. Here are the highlights of what life is like in the endgame.</string>
 	<string key="ui_endgame_guide_body2">At Level 60 you have access to several new expeditions: Garden of Genesis in Edengrove, The Lazarus Instrumentality in Reekwater, Tempest’s Heart in Shattered Mountain, and Barnacles and Black Powder in Cutlass Keys.\n\nKeep an eye out for the circular red icon around two Expeditions at a time on the map—this means that Expedition is currently Mutated and offers higher difficulties but greater rewards. Some of the best endgame rewards come from the end bosses in Mutated Expeditions (more on that later).</string>
 	<string key="ui_endgame_guide_body3">At Level 60, you gain access to Outpost Rush. You can queue for the mode from any Faction representative, or some NPCs in Northern outposts, or the Modes tab on the nav bar. You can enter a queue solo or with a group of up to five.\n\nThe mode is a 20v20 PvPvE instanced battleground. There are three outposts which can be claimed to generate points for your team. They can be upgraded via gathering resources in the area and adding them to the gates, cannons, and more. To win, you’ll need to claim and hold these outposts, and the first team to 1,000 points wins the match.\n\nAs long as you make a minimum contribution of 500 points for your team, either through PvP or PvE, you will get rewards at the end of the match.</string>
 	<string key="ui_endgame_guide_body4">When a territory is under attack from the Corrupted, you can sign up at the local War Board or the Upcoming Wars tab on the Map Screen to help defend the territory. Any faction can sign up, and there are 40 open slots chosen by the system each time. Invasions come in 6 waves, and the fort must be defended from being claimed by the Corrupted. If they do, the local settlement will experience random downgrades to its crafting stations or local lifestyle buffs.</string>
 	<string key="ui_endgame_guide_body5">There is a number next to each equippable gear slot in your inventory. This number is the expertise for each type of gear. This number is the highest Gear Score (GS) you can equip in each slot effectively. As you get loot from Level 61+ enemies, you will have a chance of receiving gear of slightly higher Gear Score than your current expertise, which will bump your expertise to be equal to the Gear Score of the gear you got. Event chests as in Outpost Rush can also give you an expertise ‘bump.’\n\n• Level 61 Enemies drop: 500-530 Gear Score items\n• Level 62 Enemies drop: 530-560 Gear Score items\n• Level 63 Enemies drop: 560-591 Gear Score items\n• Level 64 Enemies drop: 590-600 Gear Score items\n\nYou are able to equip gear at higher Gear Scores than your current expertise that you acquire through Trading, but it will not be effective beyond your current expertise score, and it will not increase your expertise score.\n\nEnemies found in elite landmarks and expeditions have a higher base chance of increasing your Expertise score, as do level 60+ named enemies. Expedition Bosses will ALWAYS drop an item that increases your Expertise, and Expeditions themselves will ALWAYS provide 3 items (1 from the aforementioned Bosses) throughout each run. The chance of receiving an expertise drop from an Elite Chest is higher than from defeating an Elite enemy.</string>
-	<string key="ui_endgame_guide_body6">500-525 Gear Score (Elite 61+) - Great Cleave: Mangled Heights, Shattered Mountain: Upper Svikin\n\n525-549 Gear Score (Elite 62+) - Ebonscale Reach: Imperial Palace, Edengrove: Malevolence\n\n549-577 Gear Score (Elite 63+) - Reekwater: Forecastle Drift, Shattered Mountain: Scorched Mines\n\n577-591 Gear Score (Elite 64+) - Shattered Mountain: Myrkgard, Reekwater: Eternal Pool, Reekwater: Siren’s Stand\n\n591+ Gear Score - Edengrove: Malevolence, Ebonscale Reach: Imperial Palace, Ebonscale Reach: North Dynasty Shipyard, Edengrove: Garden of Genesis, Reekwater: Lazarus Instrumentality, Edengrove: Monoecious Cleft Spriggan Arena, Reekwater: The Amphitheatre Arena, Edengrove: Eternal Pools Arena</string>
+	<string key="ui_endgame_guide_body6">500-525 Gear Score (Elite 60+) - Great Cleave: Mangled Heights, Shattered Mountain: Caminus\n\n525-577 Gear Score (Elite 63+) - Brimstone: Beds of Ta-Bitjet, Reekwater: Forecastle Drift, Shattered Mountain: Scorched Mines\n\n577-591 Gear Score (Elite 64+) - Reekwater: Siren’s Stand\n\n591+ Gear Score - (Elite 65+) - Brimstone: Westwall Nebet-Het, Castrum Principium, Heliopolis, Solarium Khepri, Ordeal of the Scorpion, Edengrove: Malevolence, Garden of Genesis, Zygoramet's Grove, Ebonscale Reach: Imperial Palace, Reekwater: Lazarus Instrumentality, Spire of Melpomene, Eternal Pool, Shattered Mountain: Myrkgard</string>
 	<string key="ui_endgame_guide_body7">Gypsum is the way to increase your expertise in a specific gear type.\n\nGypsum comes in different varieties, each of which can be used at a Gypsum Kiln to craft a Gypsum Orb. You’ll need a certain quantity of each type in order to craft 1 Gypsum Orb. A Gypsum Orb can then be used to create a Gypsum Cast of a specific gear type, which once consumed will grant a guaranteed Expertise bump for the chosen gear type and grant a new piece of gear of the higher gear score.\n\nYou can obtain Gypsum in various quantities by engaging in different activities as follows:\n\n•Obsidian Gypsum, 3 per day – Level 60+ open-world named bosses, typically found in Elite Landmarks.\n•Sapphire Gypsum, 2 per day – Lazarus Instrumentality and Garden of Genesis final bosses.\n•Ruby Gypsum, 2 per day – Outpost Rush (must get at least 501 points in the match).\n•Emerald Gypsum, 1 per day – Trade Skill Aptitude Reward Checkpoints.\n•Citrine Gypsum, 2 per day – PvE arenas.\n•Amethyst Gypsum, 7 per day – Closing Corrupted Breaches.\n•Topaz Gypsum, 5 per day – Go to an Arcana Station or Tier 5 camp to craft an Attunement Potion. Drink the potion, then kill level 55+ enemies who will drop Topaz Gypsum.\n•Diamond Gypsum, 3 per day – You can obtain Diamond Gypsum by gathering any type of node in Aeternum. This usually changes during Seasonal Events such as the Winter Convergence.\n•Garnet Gypsum, 2 per day – 3v3 PVP Arenas.</string>
 	<string key="ui_endgame_guide_body8">Umbral Shards can be used to upgrade any piece of gear which has a minimum Gear Score of 590, up to a maximum of 625. If the gear is equipped when upgraded, it will increase your Expertise score as well.\n\nUmbral Shards can be obtained from OPR, opening High Level Elite Chests, Mutated Expeditions, Crafting High-Level Gear, and from opening Gypsum Casts for gear slots whose Expertise is level 600 or higher.</string>
+	<string key="ui_endgame_guide_body9" rel_version="Feature_Seasons_Rewards">At Level 60, you gain access to the Season Journey. Each new Season features added adventures and bonus items for completing these adventures during the season timeline. Access the exclusive experience before the season ends!</string>
 	<string key="ui_endgame_guide_button_view_guide">View Guide</string>
 	<string key="ui_endgame_guide_button_dismiss">Dismiss</string>
 	<string key="ui_endgame_banner_title">You have reached max level!</string>
@@ -2560,6 +2610,7 @@
 	<string key="ui_endgame_banner_text2">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffdb7a"&gt;Outpost Rush&lt;/font&gt;, a 20 v 20 battleground</string>
 	<string key="ui_endgame_banner_text3">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffdb7a"&gt;Elite&lt;/font&gt; landmarks, Trial Arenas, and open world challenges for groups</string>
 	<string key="ui_endgame_banner_text4">Visit a &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffdb7a"&gt;Gypsum Kiln&lt;/font&gt; to upgrade your gear</string>
+	<string key="ui_endgame_banner_text5" rel_version="Feature_Seasons_Rewards">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffdb7a"&gt;Season Journey&lt;/font&gt; features exclusive adventures and awards for each season</string>
 	<string key="ui_endgame_banner_subtitle">Your journey has just begun...</string>
 	<string key="ui_freeweekend_guide_tab" rel_version="Feature_FreeWeekend">Free Weekend</string>
 	<string key="ui_freeweekend_guide_title1" rel_version="Feature_FreeWeekend">Welcome to Aeternum!</string>
@@ -2610,6 +2661,7 @@
 	<string key="attribution_Housing_DynastySet_2021" comment="Housing Furniture Set" rel_version="Housing_Dynasty_Set">Ebonscale Furniture</string>
 	<string key="attribution_Housing_LegionSet_2022" comment="Housing Furniture Set" rel_version="Housing_Legion_Set">Brimstone Furniture</string>
 	<string key="attribution_TurkeyTerror_2022" rel_version="Event_TurkeyTerror_Perm">Turkey Terror 2022</string>
+	<string key="attribution_Season_1" rel_version="Season_1_Perm">Season 1</string>
 	<string key="ui_reset_daily_time">Resets daily at {time}</string>
 	<string key="ui_reset_weekly_time">Resets weekly each {time}</string>
 	<string key="ui_buy_new_world">Buy New World</string>
@@ -2617,5 +2669,8 @@
 	<string key="ui_probation_account_restriction">Purchase of New World is required for this feature.</string>
 	<string key="ui_item_skinning_disabled">Item Skinning Disabled</string>
 	<string key="ui_camp_skins_disabled">Camp Skins Disabled</string>
+	<string key="ui_event_reputation_title">Event Reputation</string>
+	<string key="ui_event_reputation_description">Event Reputation unlocks new items for purchase at the Event Shop.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; Completing Event Missions&lt;/font&gt;</string>
+	<string key="attribution_RabbitSeason_2023" rel_version="Feature_RabbitSeasonPerm">Rabbit's Revenge 2023</string>
 </resources>
 

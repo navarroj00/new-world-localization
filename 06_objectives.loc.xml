@@ -559,7 +559,7 @@
 	<string key="0623_0102_d_03_TaskFishingHook" speaker="UI">Hook fish</string>
 	<string key="0623_0102_d_04_TaskFishingReel" speaker="UI">Reel in fish</string>
 	<string key="0423_0101_FQ03_objective_title" speaker="UI _ Quest Title">Baited</string>
-	<string key="0423_0101_FQ03_objective_desc" speaker="UI - Quest Description">Catch one Snail in Fresh Water and one Clam in Salt Water to salvage them for bait for Master Fisher Ruby and deliver them to Master Fisher Clemenson in First Light.</string>
+	<string key="0423_0101_FQ03_objective_desc" speaker="UI - Quest Description">Catch one Snail in Fresh Water and one Clam in Salt Water to salvage them for bait for Master Fisher Ruby and deliver them to Master Fisher Clemenson in Monarch's Bluffs.</string>
 	<string key="0423_0101_FQ03_prompt" speaker="UI - Player Prompt">"Yes. Master Fisher Shields sent me to you."</string>
 	<string key="0423_0101_FQ03_proposal" speaker="Master Fisher Ruby - Everfall" name="MasterFisherRuby" VO="Fisher_0423_0101_FQ03_ProposalResponse" VO_Status="Recorded" dialogue-next="@0423_0101_FQ03_proposal_next">In fresh water the more common baits you can acquire are Snails and in ocean water, Clams. \n\nMaster Fisher Clemenson, would greatly appreciate this ocean water bait being delivered to her. </string>
 	<string key="0423_0101_FQ03_proposal_prompt" speaker="UI - Player Prompt">"Why am I fishing for a Master Fisher?"</string>
@@ -645,11 +645,11 @@
 	<string key="1424_0101_FQ11_complete_available_response" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_1424_0101_FQ11_AvailResponse" VO_Status="Recorded">Aye, that's it… Come to Papa wee little fishes… oh! I didn't see you there. Singing while I fish calms me.\n\nYou've come with the loot of a lifetime for the hungry Soulwardens here.</string>
 	<string key="1424_0101_d_01_TaskFishingCatchFish" speaker="UI">Catch an {itemName}</string>
 	<string key="0324_0101_FQ12_objective_title" speaker="UI">Azoth-Tinged Fish</string>
-	<string key="0324_0101_FQ12_objective_desc" speaker="UI">Catch an Azoth-Tinged Fish in Edengrove for Master Fisher Davies and deliver it to Master Fisher Bernard in Shattered Mountain.</string>
+	<string key="0324_0101_FQ12_objective_desc" speaker="UI">Catch an Azoth-Tinged Fish in Shattered Mountain and deliver it to Master Fisher Bernard.</string>
 	<string key="0324_0101_FQ12_prompt" speaker="UI - Player Prompt">"What else is in the water besides fish?"</string>
 	<string key="0324_0101_FQ12_proposal" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_0324_0101_FQ12_ProposalResponse" VO_Status="Recorded" dialogue-next="@0324_0101_FQ12_proposal_next">There are mythical creatures as well, like The Azoth Tinged Fish.</string>
 	<string key="0324_0101_FQ12_proposal_prompt" speaker="UI - Player Prompt">"What's an Azoth Tinged Fish?"</string>
-	<string key="0324_0101_FQ12_proposal_next" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_0324_0101_FQ12_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0324_0101_FQ12_proposal_prompt">A fish whose entire essence has been possessed and imbued with the magical powers of azoth, of course! Catch one for Bernard in Shattered Mountain, fishing one up here in Edengrove where the water sparkles with azoth.</string>
+	<string key="0324_0101_FQ12_proposal_next" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_0324_0101_FQ12_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0324_0101_FQ12_proposal_prompt">A fish whose entire essence has been possessed and imbued with the magical powers of azoth, of course! Catch one for Bernard in Shattered Mountain.</string>
 	<string key="0324_0101_FQ12_incomplete" speaker="Master Fisher Davies - Edengrove">Don't be discouraged if you haven't yet caught an Azoth Tinged fish, those things are slippery and ephemeral at best.</string>
 	<string key="0324_0101_FQ12_complete_available_response" speaker="Master Fisher Bernard - Shattered Mtn" name="MasterFisherBernard" VO="Fisher_0324_0101_FQ12_AvailResponse" VO_Status="Recorded">Ah, I assume you're the new fisher who Master Fisher Davies has sent my way? That is a strange fish you carry there.</string>
 	<string key="0324_0101_d_01_TaskFishingCatchWeight" speaker="UI">Catch fish with a weight greater than 30 pounds</string>

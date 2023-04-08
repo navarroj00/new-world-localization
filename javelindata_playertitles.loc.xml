@@ -649,9 +649,9 @@
 	<string key="ui_playertitle_pve_totalkills5" rel_version="Feature_MetaAchievements">Aeternum Legend</string>
 	<string key="ui_playertitle_pve_totalkills5_SHE" rel_version="Feature_MetaAchievements">Aeternum Legend</string>
 	<string key="ui_playertitle_pve_totalkills5_THEY" rel_version="Feature_MetaAchievements">Aeternum Legend</string>
-	<string key="ui_playertitle_dungeonboss_amrine" rel_version="Feature_MetaAchievements">Archeologist</string>
-	<string key="ui_playertitle_dungeonboss_amrine_SHE" rel_version="Feature_MetaAchievements">Archeologist</string>
-	<string key="ui_playertitle_dungeonboss_amrine_THEY" rel_version="Feature_MetaAchievements">Archeologist</string>
+	<string key="ui_playertitle_dungeonboss_amrine" rel_version="Feature_MetaAchievements">Archaeologist</string>
+	<string key="ui_playertitle_dungeonboss_amrine_SHE" rel_version="Feature_MetaAchievements">Archaeologist</string>
+	<string key="ui_playertitle_dungeonboss_amrine_THEY" rel_version="Feature_MetaAchievements">Archaeologist</string>
 	<string key="ui_playertitle_dungeonboss_shatteredobelisk" rel_version="Expedition_Everfall_00">Ancients' Bane</string>
 	<string key="ui_playertitle_dungeonboss_shatteredobelisk_SHE" rel_version="Expedition_Everfall_00">Ancients' Bane</string>
 	<string key="ui_playertitle_dungeonboss_shatteredobelisk_THEY" rel_version="Expedition_Everfall_00">Ancients' Bane</string>
@@ -745,14 +745,14 @@
 	<string key="ui_player_titles_section_label_totalkills">Total Kills</string>
 	<string key="ui_player_titles_section_label_test_only">Testing Only (NOT FOR RELEASE)</string>
 	<string key="ui_title_section_title">Title</string>
-	<string key="ui_title_section_pick_title">Pick the Title to Display</string>
+	<string key="ui_title_section_pick_title">Change Title</string>
 	<string key="ui_title_section_no_title">No Title</string>
-	<string key="ui_title_section_current_title">Currently Selected :</string>
+	<string key="ui_title_section_current_title">Currently Displayed:</string>
 	<string key="ui_title_section_new">NEW</string>
-	<string key="ui_title_section_current_title_tag">Current Title</string>
-	<string key="ui_title_section_apply">Apply</string>
-	<string key="ui_playertitle_notification_title">Title Unlocked!</string>
-	<string key="ui_playertitle_notification_desc">You have unlocked a title&lt;font color={color}&gt; {title} &lt;/font&gt;</string>
+	<string key="ui_title_section_current_title_tag">Displayed</string>
+	<string key="ui_title_section_apply">Confirm</string>
+	<string key="ui_playertitle_notification_title">Title Unlocked</string>
+	<string key="ui_playertitle_notification_desc">You have unlocked &lt;font color={color}&gt;{title} &lt;/font&gt;</string>
 	<string key="ui_playertitle_notification_expired_title">Your Title Expired!</string>
 	<string key="ui_playertitle_notification_expired_desc">Your title &lt;font color={color}&gt;{title}&lt;/font&gt; has expired. Click View Detail to choose a new title.</string>
 	<string key="ui_playertitle_meta_achievement_description">You earned achievement {title} ({description})</string>
@@ -762,7 +762,7 @@
 	<string key="ui_playertitle_meta_preorder_description" rel_version="Feature_Titles">Earned when you pre-ordered &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;New World&lt;/font&gt;.</string>
 	<string key="ui_playertitle_skills_description">Earned by increasing your skills.</string>
 	<string key="ui_playertitle_generic_description">Earned while playing the game.</string>
-	<string key="ui_playertitle_no_title_description">Apply this to not display any title.</string>
+	<string key="ui_playertitle_no_title_description">Select this option to not display any title.</string>
 	<string key="ui_playertitle_addendum_accounttype">\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular.font" color = "#ffffff"&gt;This title is usable by any character in your account.&lt;/font&gt;</string>
 	<string key="ui_playertitle_addendum_charactertype">\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular.font" color = "#ffffff"&gt;This title cannot be used for other characters in your account.&lt;/font&gt;</string>
 	<string key="ui_playertitle_special_stoic" rel_version="Feature_Titles">The Stoic</string>
@@ -879,6 +879,14 @@
 	<string key="ui_playertitle_depths_score_top10_SHE" rel_version="Feature_Leaderboards">Depths Medalist</string>
 	<string key="ui_playertitle_depths_score_top10_THEY" rel_version="Feature_Leaderboards">Depths Medalist</string>
 	<string key="ui_playertitle_depths_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on The Depths Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_forge_score_top5" rel_version="Expedition_GreatCleave_01">Forge Victor</string>
+	<string key="ui_playertitle_forge_score_top5_SHE" rel_version="Expedition_GreatCleave_01">Forge Victor</string>
+	<string key="ui_playertitle_forge_score_top5_THEY" rel_version="Expedition_GreatCleave_01">Forge Victor</string>
+	<string key="ui_playertitle_forge_score_top5_description" rel_version="Expedition_GreatCleave_01">Earned by placing Top 5 on The Empyrean Forge Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_forge_score_top25" rel_version="Expedition_GreatCleave_01">Forge Medalist</string>
+	<string key="ui_playertitle_forge_score_top25_SHE" rel_version="Expedition_GreatCleave_01">Forge Medalist</string>
+	<string key="ui_playertitle_forge_score_top25_THEY" rel_version="Expedition_GreatCleave_01">Forge Medalist</string>
+	<string key="ui_playertitle_forge_score_top25_description" rel_version="Expedition_GreatCleave_01">Earned by placing Top 25 on The Empyrean Forge Difficulty 10 Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_starstone_score_top1" rel_version="Feature_Leaderboards">Starstone Victor</string>
 	<string key="ui_playertitle_starstone_score_top1_SHE" rel_version="Feature_Leaderboards">Starstone Victor</string>
 	<string key="ui_playertitle_starstone_score_top1_THEY" rel_version="Feature_Leaderboards">Starstone Victor</string>
@@ -951,78 +959,86 @@
 	<string key="ui_playertitle_starstone_time_top10_SHE" rel_version="Feature_Leaderboards">Starstone Speed Medalist</string>
 	<string key="ui_playertitle_starstone_time_top10_THEY" rel_version="Feature_Leaderboards">Starstone Speed Medalist</string>
 	<string key="ui_playertitle_starstone_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the Starstone Barrows Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_forge_time_top5" rel_version="Expedition_GreatCleave_01">Forge Speed Victor</string>
+	<string key="ui_playertitle_forge_time_top5_SHE" rel_version="Expedition_GreatCleave_01">Forge Speed Victor</string>
+	<string key="ui_playertitle_forge_time_top5_THEY" rel_version="Expedition_GreatCleave_01">Forge Speed Victor</string>
+	<string key="ui_playertitle_forge_time_top5_description" rel_version="Expedition_GreatCleave_01">Earned by placing Top 5 on the Empyrean Forge Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_forge_time_top25" rel_version="Expedition_GreatCleave_01">Forge Speed Medalist</string>
+	<string key="ui_playertitle_forge_time_top25_SHE" rel_version="Expedition_GreatCleave_01">Forge Speed Medalist</string>
+	<string key="ui_playertitle_forge_time_top25_THEY" rel_version="Expedition_GreatCleave_01">Forge Speed Medalist</string>
+	<string key="ui_playertitle_forge_time_top25_description" rel_version="Expedition_GreatCleave_01">Earned by placing Top 25 on the Empyrean Forge Difficulty 10 Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_sirenqueen_completion_top1" rel_version="Feature_Leaderboards">Siren Queen Victor</string>
 	<string key="ui_playertitle_sirenqueen_completion_top1_SHE" rel_version="Feature_Leaderboards">Siren Queen Victor</string>
 	<string key="ui_playertitle_sirenqueen_completion_top1_THEY" rel_version="Feature_Leaderboards">Siren Queen Victor</string>
-	<string key="ui_playertitle_sirenqueen_completion_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on The Siren Queen Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_sirenqueen_completion_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on The Siren Queen Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_sirenqueen_completion_top10" rel_version="Feature_Leaderboards">Siren Queen Medalist</string>
 	<string key="ui_playertitle_sirenqueen_completion_top10_SHE" rel_version="Feature_Leaderboards">Siren Queen Medalist</string>
 	<string key="ui_playertitle_sirenqueen_completion_top10_THEY" rel_version="Feature_Leaderboards">Siren Queen Medalist</string>
-	<string key="ui_playertitle_sirenqueen_completion_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on The Siren Queen Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_sirenqueen_completion_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on The Siren Queen Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_eternalpools_completion_top1" rel_version="Feature_Leaderboards">Eternal Pools Victor</string>
 	<string key="ui_playertitle_eternalpools_completion_top1_SHE" rel_version="Feature_Leaderboards">Eternal Pools Victor</string>
 	<string key="ui_playertitle_eternalpools_completion_top1_THEY" rel_version="Feature_Leaderboards">Eternal Pools Victor</string>
-	<string key="ui_playertitle_eternalpools_completion_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on the Eternal Pools Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_eternalpools_completion_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on the Eternal Pools Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_eternalpools_completion_top10" rel_version="Feature_Leaderboards">Eternal Pools Medalist</string>
 	<string key="ui_playertitle_eternalpools_completion_top10_SHE" rel_version="Feature_Leaderboards">Eternal Pools Medalist</string>
 	<string key="ui_playertitle_eternalpools_completion_top10_THEY" rel_version="Feature_Leaderboards">Eternal Pools Medalist</string>
-	<string key="ui_playertitle_eternalpools_completion_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on the Eternal Pools Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_eternalpools_completion_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on the Eternal Pools Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top1" rel_version="Feature_Leaderboards">Monoecious Cleft Victor</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top1_SHE" rel_version="Feature_Leaderboards">Monoecious Cleft Victor</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top1_THEY" rel_version="Feature_Leaderboards">Monoecious Cleft Victor</string>
-	<string key="ui_playertitle_monoeciouscleft_completion_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on the Monoecious Cleft Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on the Monoecious Cleft Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top10" rel_version="Feature_Leaderboards">Monoecious Cleft Medalist</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top10_SHE" rel_version="Feature_Leaderboards">Monoecious Cleft Medalist</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top10_THEY" rel_version="Feature_Leaderboards">Monoecious Cleft Medalist</string>
-	<string key="ui_playertitle_monoeciouscleft_completion_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on the Monoecious Cleft Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on the Monoecious Cleft Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_openworldpvp_influence_top1" rel_version="Feature_Leaderboards">Influence Victor</string>
 	<string key="ui_playertitle_openworldpvp_influence_top1_SHE" rel_version="Feature_Leaderboards">Influence Victor</string>
 	<string key="ui_playertitle_openworldpvp_influence_top1_THEY" rel_version="Feature_Leaderboards">Influence Victor</string>
-	<string key="ui_playertitle_openworldpvp_influence_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on the Influence Earned Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_openworldpvp_influence_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on the Influence Earned Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_openworldpvp_influence_top10" rel_version="Feature_Leaderboards">Influence Medalist</string>
 	<string key="ui_playertitle_openworldpvp_influence_top10_SHE" rel_version="Feature_Leaderboards">Influence Medalist</string>
 	<string key="ui_playertitle_openworldpvp_influence_top10_THEY" rel_version="Feature_Leaderboards">Influence Medalist</string>
-	<string key="ui_playertitle_openworldpvp_influence_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on the Influence Earned Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_openworldpvp_influence_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on the Influence Earned Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_outpostrush_score_top1" rel_version="Feature_Leaderboards">Outpost Rush Victor</string>
 	<string key="ui_playertitle_outpostrush_score_top1_SHE" rel_version="Feature_Leaderboards">Outpost Rush Victor</string>
 	<string key="ui_playertitle_outpostrush_score_top1_THEY" rel_version="Feature_Leaderboards">Outpost Rush Victor</string>
-	<string key="ui_playertitle_outpostrush_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on the Outpost Rush Wins Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_outpostrush_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on the Outpost Rush Wins Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_outpostrush_score_top10" rel_version="Feature_Leaderboards">Outpost Rush Medalist</string>
 	<string key="ui_playertitle_outpostrush_score_top10_SHE" rel_version="Feature_Leaderboards">Outpost Rush Medalist</string>
 	<string key="ui_playertitle_outpostrush_score_top10_THEY" rel_version="Feature_Leaderboards">Outpost Rush Medalist</string>
-	<string key="ui_playertitle_outpostrush_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on the Outpost Rush Wins Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_outpostrush_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on the Outpost Rush Wins Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_darknessbreaches_score_top1" rel_version="Feature_Leaderboards">Breach Victor</string>
 	<string key="ui_playertitle_darknessbreaches_score_top1_SHE" rel_version="Feature_Leaderboards">Breach Victor</string>
 	<string key="ui_playertitle_darknessbreaches_score_top1_THEY" rel_version="Feature_Leaderboards">Breach Victor</string>
-	<string key="ui_playertitle_darknessbreaches_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on the Corruption Breach Score Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_darknessbreaches_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on the Corruption Breach Score Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_darknessbreaches_score_top10" rel_version="Feature_Leaderboards">Breach Medalist</string>
 	<string key="ui_playertitle_darknessbreaches_score_top10_SHE" rel_version="Feature_Leaderboards">Breach Medalist</string>
 	<string key="ui_playertitle_darknessbreaches_score_top10_THEY" rel_version="Feature_Leaderboards">Breach Medalist</string>
-	<string key="ui_playertitle_darknessbreaches_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on the Corrpution Breach Score Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_darknessbreaches_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on the Corrpution Breach Score Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_war_score_top1" rel_version="Feature_Leaderboards">War Victor</string>
 	<string key="ui_playertitle_war_score_top1_SHE" rel_version="Feature_Leaderboards">War Victor</string>
 	<string key="ui_playertitle_war_score_top1_THEY" rel_version="Feature_Leaderboards">War Victor</string>
-	<string key="ui_playertitle_war_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on the War Score Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_war_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on the War Score Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_war_score_top10" rel_version="Feature_Leaderboards">War Medalist</string>
 	<string key="ui_playertitle_war_score_top10_SHE" rel_version="Feature_Leaderboards">War Medalist</string>
 	<string key="ui_playertitle_war_score_top10_THEY" rel_version="Feature_Leaderboards">War Medalist</string>
-	<string key="ui_playertitle_war_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on the War Score Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_war_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on the War Score Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_invasion_score_top1" rel_version="Feature_Leaderboards">Invasion Victor</string>
 	<string key="ui_playertitle_invasion_score_top1_SHE" rel_version="Feature_Leaderboards">Invasion Victor</string>
 	<string key="ui_playertitle_invasion_score_top1_THEY" rel_version="Feature_Leaderboards">Invasion Victor</string>
-	<string key="ui_playertitle_invasion_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on the Invasion Score Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_invasion_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on the Invasion Score Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_invasion_score_top10" rel_version="Feature_Leaderboards">Invasion Medalist</string>
 	<string key="ui_playertitle_invasion_score_top10_SHE" rel_version="Feature_Leaderboards">Invasion Medalist</string>
 	<string key="ui_playertitle_invasion_score_top10_THEY" rel_version="Feature_Leaderboards">Invasion Medalist</string>
-	<string key="ui_playertitle_invasion_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on the Invasion Score Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_invasion_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on the Invasion Score Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top1" rel_version="Feature_Leaderboards">Cutlass Keys Victor</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top1_SHE" rel_version="Feature_Leaderboards">Cutlass Keys Victor</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top1_THEY" rel_version="Feature_Leaderboards">Cutlass Keys Victor</string>
-	<string key="ui_playertitle_cutlasskeys_company_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 3 on the Cutlass Keys Days Governed Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 3 on the Cutlass Keys Days Governed Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top10" rel_version="Feature_Leaderboards">Cutlass Keys Medalist</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top10_SHE" rel_version="Feature_Leaderboards">Cutlass Keys Medalist</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top10_THEY" rel_version="Feature_Leaderboards">Cutlass Keys Medalist</string>
-	<string key="ui_playertitle_cutlasskeys_company_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 6 on the Cutlass Keys Days Governed Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 6 on the Cutlass Keys Days Governed Seasonal Leaderboard.</string>
 	<string key="ui_playertitle_firstlight_company_score_top1" rel_version="Feature_Leaderboards">First Light Victor</string>
 	<string key="ui_playertitle_firstlight_company_score_top1_SHE" rel_version="Feature_Leaderboards">First Light Victor</string>
 	<string key="ui_playertitle_firstlight_company_score_top1_THEY" rel_version="Feature_Leaderboards">First Light Victor</string>
@@ -1123,5 +1139,66 @@
 	<string key="ui_playertitle_special_thereturned_SHE">The Returned</string>
 	<string key="ui_playertitle_special_thereturned_THEY">The Returned</string>
 	<string key="ui_playertitle_thereturned_description">Surveyor of Return to Aeternum.</string>
+	<string key="ui_player_titles_section_label_seasons" rel_version="Season_1_Perm">Seasons</string>
+	<string key="ui_playertitle_season1_journeychapter5" rel_version="Season_1_Perm">The Emblazoned</string>
+	<string key="ui_playertitle_season1_journeychapter5_SHE" rel_version="Season_1_Perm">The Emblazoned</string>
+	<string key="ui_playertitle_season1_journeychapter5_THEY" rel_version="Season_1_Perm">The Emblazoned</string>
+	<string key="ui_playertitle_season1_journeychapter5_description" rel_version="Season_1_Perm">Earned by completing the Season Journey in Season 1.</string>
+	<string key="ui_playertitle_season1_journeychallenge1" rel_version="Season_1_Perm">Forgemaster</string>
+	<string key="ui_playertitle_season1_journeychallenge1_SHE" rel_version="Season_1_Perm">Forgemaster</string>
+	<string key="ui_playertitle_season1_journeychallenge1_THEY" rel_version="Season_1_Perm">Forgemaster</string>
+	<string key="ui_playertitle_season1_journeychallenge1_description" rel_version="Season_1_Perm">Earned by completing the Season 1 Challenge: Complete M10 Empyrean Forge with a score of 75,000 or higher.</string>
+	<string key="ui_playertitle_season1_journeychallenge2" rel_version="Season_1_Perm">Outpost Flamerusher</string>
+	<string key="ui_playertitle_season1_journeychallenge2_SHE" rel_version="Season_1_Perm">Outpost Flamerusher</string>
+	<string key="ui_playertitle_season1_journeychallenge2_THEY" rel_version="Season_1_Perm">Outpost Flamerusher</string>
+	<string key="ui_playertitle_season1_journeychallenge2_description" rel_version="Season_1_Perm">Earned by completing the Season 1 Challenge: Win an Outpost Rush by more than 750 points</string>
+	<string key="ui_playertitle_season1_journeychallenge3" rel_version="Season_1_Perm">Serial Killer</string>
+	<string key="ui_playertitle_season1_journeychallenge3_SHE" rel_version="Season_1_Perm">Serial Killer</string>
+	<string key="ui_playertitle_season1_journeychallenge3_THEY" rel_version="Season_1_Perm">Serial Killer</string>
+	<string key="ui_playertitle_season1_journeychallenge3_description" rel_version="Season_1_Perm">Earned by completing the Season 1 Challenge: Kill 500 players in the Open World.</string>
+	<string key="ui_playertitle_season1_journeychallenge4" rel_version="Season_1_Perm">Firebrand</string>
+	<string key="ui_playertitle_season1_journeychallenge4_SHE" rel_version="Season_1_Perm">Firebrand</string>
+	<string key="ui_playertitle_season1_journeychallenge4_THEY" rel_version="Season_1_Perm">Firebrand</string>
+	<string key="ui_playertitle_season1_journeychallenge4_description" rel_version="Season_1_Perm">Earned by completing the Season 1 Challenge: Capture 50 Faction Control Points.</string>
+	<string key="ui_playertitle_season1_journeychallenge5" rel_version="Season_1_Perm">Infernal Artisan</string>
+	<string key="ui_playertitle_season1_journeychallenge5_SHE" rel_version="Season_1_Perm">Infernal Artisan</string>
+	<string key="ui_playertitle_season1_journeychallenge5_THEY" rel_version="Season_1_Perm">Infernal Artisan</string>
+	<string key="ui_playertitle_season1_journeychallenge5_description" rel_version="Season_1_Perm">Earned by completing the Season 1 Challenge: Craft 250 T5 Legendary Items.</string>
+	<string key="ui_playertitle_season1_journeychallenge6" rel_version="Season_1_Perm">Friend of Fire</string>
+	<string key="ui_playertitle_season1_journeychallenge6_SHE" rel_version="Season_1_Perm">Friend of Fire</string>
+	<string key="ui_playertitle_season1_journeychallenge6_THEY" rel_version="Season_1_Perm">Friend of Fire</string>
+	<string key="ui_playertitle_season1_journeychallenge6_description" rel_version="Season_1_Perm">Earned by completing the Season 1 Challenge: Complete the Fellowship &amp; Fire Seasonal Story.</string>
+	<string key="ui_playertitle_season1_journeychallenge7" rel_version="Season_1_Perm">Gypsumkeeper</string>
+	<string key="ui_playertitle_season1_journeychallenge7_SHE" rel_version="Season_1_Perm">Gypsumkeeper</string>
+	<string key="ui_playertitle_season1_journeychallenge7_THEY" rel_version="Season_1_Perm">Gypsumkeeper</string>
+	<string key="ui_playertitle_season1_journeychallenge7_description" rel_version="Season_1_Perm">Earned by completing the Season 1 Challenge: Craft 100 Gypsum Orbs.</string>
+	<string key="ui_playertitle_season1_journeychallenge8" rel_version="Season_1_Perm">Warden of Flames</string>
+	<string key="ui_playertitle_season1_journeychallenge8_SHE" rel_version="Season_1_Perm">Warden of Flames</string>
+	<string key="ui_playertitle_season1_journeychallenge8_THEY" rel_version="Season_1_Perm">Warden of Flames</string>
+	<string key="ui_playertitle_season1_journeychallenge8_description" rel_version="Season_1_Perm">Earned by completing the Season 1 Challenge: Craft 25 GS600 Items using Flame Cores.</string>
+	<string key="ui_playertitle_season1_journeychallenge9" rel_version="Season_1_Perm">Olympian of the Blaze</string>
+	<string key="ui_playertitle_season1_journeychallenge9_SHE" rel_version="Season_1_Perm">Olympian of the Blaze</string>
+	<string key="ui_playertitle_season1_journeychallenge9_THEY" rel_version="Season_1_Perm">Olympian of the Blaze</string>
+	<string key="ui_playertitle_season1_journeychallenge9_description" rel_version="Season_1_Perm">Earned by completing the Season 1 Challenge: Complete every M10 Expedition with a gold rating or higher.</string>
+	<string key="ui_playertitle_season1_journeychallenge10" rel_version="Season_1_Perm">Phoenix</string>
+	<string key="ui_playertitle_season1_journeychallenge10_SHE" rel_version="Season_1_Perm">Phoenix</string>
+	<string key="ui_playertitle_season1_journeychallenge10_THEY" rel_version="Season_1_Perm">Phoenix</string>
+	<string key="ui_playertitle_season1_journeychallenge10_description" rel_version="Season_1_Perm">Earned by completing the Season 1 Challenge: Complete a Flawless Run of every expedition (finish it with no deaths).</string>
+	<string key="ui_playertitle_season1_battlepass" rel_version="Season_1_Perm">Flaming Champion</string>
+	<string key="ui_playertitle_season1_battlepass_SHE" rel_version="Season_1_Perm">Flaming Champion</string>
+	<string key="ui_playertitle_season1_battlepass_THEY" rel_version="Season_1_Perm">Flaming Champion</string>
+	<string key="ui_playertitle_season1_battlepass_description" rel_version="Season_1_Perm">Earned by completing the free track of the Season 1 Season Pass.</string>
+	<string key="ui_playertitle_season1_deluxebattlepass" rel_version="Season_1_Perm">Infernal Champion</string>
+	<string key="ui_playertitle_season1_deluxebattlepass_SHE" rel_version="Season_1_Perm">Infernal Champion</string>
+	<string key="ui_playertitle_season1_deluxebattlepass_THEY" rel_version="Season_1_Perm">Infernal Champion</string>
+	<string key="ui_playertitle_season1_deluxebattlepass_description" rel_version="Season_1_Perm">Earned by completing the paid track of the Season 1 Season Pass.</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Victorious" rel_version="Feature_Leaderboards">Victorious Experimenter</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Victorious_SHE" rel_version="Feature_Leaderboards">Victorious Experimenter</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Victorious_THEY" rel_version="Feature_Leaderboards">Victorious Experimenter</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Victorious_description" rel_version="Feature_Leaderboards">Achieved glory on the leaderboards during uncertain times.</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Welp" rel_version="Feature_Leaderboards">Welp</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Welp_SHE" rel_version="Feature_Leaderboards">Welp</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Welp_THEY" rel_version="Feature_Leaderboards">Welp</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Welp_description" rel_version="Feature_Leaderboards">Bravely attempted to place on the leaderboards.</string>
 </resources>
 

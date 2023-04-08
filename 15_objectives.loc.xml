@@ -290,7 +290,7 @@
 	<string key="1527_1524_f_Complete" speaker="Wader Keles - Restless Shore" name="WafaKeles" VO="1527_1524_f_Complete" VO_Status="Recorded" dialogue-next="@1527_1524_f_Complete_next" rel_version="Quest_Supplement_Restless">Is that what you found? Impressive! Xue will be thrilled to see this! \n\nYou know, he’s afraid of the water. He puts on a brave face about it, but that’s why he won’t go out to the submerged shipwrecks.</string>
 	<string key="1527_1524_f_Complete_prompt" speaker="UI - Player Prompt" rel_version="Quest_Supplement_Restless">"You could help him search for treasure."</string>
 	<string key="1527_1524_f_Complete_next" speaker="Wader Keles - Restless Shore" name="WafaKeles" VO="1527_1524_f_Complete_next" VO_Status="Recorded" dialogue-prompt="@1527_1524_f_Complete_prompt" rel_version="Quest_Supplement_Restless">I hadn’t thought of that! I love the ocean, the sound of the waves. \n\nI could search the water for treasures while he stayed on shore. We’d make the perfect team!</string>
-	<string key="1527_1524_d_01_Task_Goto" speaker="UI" rel_version="Quest_Supplement_Restless">Search the chest as {POITags} for treasure</string>
+	<string key="1527_1524_d_01_Task_Goto" speaker="UI" rel_version="Quest_Supplement_Restless">Search the chest at {POITags} for treasure</string>
 	<string key="1527_1524_d_02_Task_GatherChest" speaker="UI" rel_version="Quest_Supplement_Restless">Recover Poseidon's Goblet from the chest</string>
 	<string key="1527_1525_a_Title" speaker="UI - Quest Title" rel_version="Quest_Supplement_Restless">Treasured Company</string>
 	<string key="1527_1525_b_Description" speaker="UI - Quest Description" rel_version="Quest_Supplement_Restless">Bring a letter from Wafa Keles to Xue Tien</string>

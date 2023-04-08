@@ -14,7 +14,8 @@
 	<string key="06_AhuraFarid" gender="M" rel_version="Quest_MSQ2_Revamp">Ahura Farid</string>
 	<string key="06_MoiraChapman" gender="F" rel_version="Quest_MSQ2_Revamp">Moira Chapman</string>
 	<string key="06_KathrijnJanssen" gender="F" rel_version="Quest_MSQ2_Revamp">Kathrijn Janssen</string>
-	<string key="06_Farmer_title" rel_version="Quest_MSQ2_Revamp">Farmer</string>
+	<string key="06_FarmerM_title" gender="M" rel_version="Quest_MSQ2_Revamp">Farmer</string>
+	<string key="06_FarmerF_title" gender="F" rel_version="Quest_MSQ2_Revamp">Farmer</string>
 	<string key="06_TsuiFen" gender="F" rel_version="Quest_MSQ2_Revamp">Tsui Fen</string>
 	<string key="06_Tanner_title" rel_version="Quest_MSQ2_Revamp">Tanner</string>
 	<string key="06_ZhangHaoyu" gender="M" rel_version="Quest_MSQ2_Revamp">Zhang Haoyu</string>

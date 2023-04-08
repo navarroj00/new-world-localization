@@ -1,2 +1,45 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="9501_Grace" gender="Female" rel_version="Season_1_Perm">Grace O'Malley</string>
+	<string key="9501_Grace_t" gender="Female" rel_version="Season_1_Perm">Ship Captain</string>
+	<string key="9501_Grace_t2" gender="Female" rel_version="Season_1_Perm">Silver Crow</string>
+	<string key="9502_Zander" gender="Male" rel_version="Season_1_Perm">Zander "The Undying"</string>
+	<string key="9502_Zander_t" gender="Male" rel_version="Season_1_Perm">Enforcer</string>
+	<string key="9502_Zander_t2" gender="Male" rel_version="Season_1_Perm">Silver Crow</string>
+	<string key="9503_Dog" gender="Male" rel_version="Season_1_Perm">Dog</string>
+	<string key="9503_Dog_prename" gender="Male" rel_version="Season_1_Perm">kitten</string>
+	<string key="9503_Dog_t" gender="Male" rel_version="Season_1_Perm">Baby lynx</string>
+	<string key="9503_Dog_t2" gender="Male" rel_version="Season_1_Perm">Silver Crow Mascot</string>
+	<string key="9504_Shailyn" gender="Female" rel_version="Season_1_Perm">Shailyn</string>
+	<string key="9504_Shailyn_t" gender="Female" rel_version="Season_1_Perm">Sorceress</string>
+	<string key="9505_Skye" gender="Female" rel_version="Season_1_Perm">Skye</string>
+	<string key="9505_Skye_t" gender="Female" rel_version="Season_1_Perm">Speardaughter</string>
+	<string key="9506_Granny" gender="Female" rel_version="Season_1_Perm">Granny Pike</string>
+	<string key="9506_Granny_t" gender="Female" rel_version="Season_1_Perm">Society Elder</string>
+	<string key="9507_WilliamDaintith" gender="Male" rel_version="Season_1_Perm">William Daintith</string>
+	<string key="9507_WilliamDaintith_t" gender="Male" rel_version="Season_1_Perm">Crows Candidate</string>
+	<string key="9508_QuirinusFlaccus" gender="Male" rel_version="Season_1_Perm">Quirinus Flaccus</string>
+	<string key="9508_QuirinusFlaccus_t" gender="Male" rel_version="Season_1_Perm">Crows Candidate</string>
+	<string key="9509_AdolfodeAcutis" gender="Male" rel_version="Season_1_Perm">Adolfo de Acutis</string>
+	<string key="9509_AdolfodeAcutis_t" gender="Male" rel_version="Season_1_Perm">Crows Candidate</string>
+	<string key="9510_EynonVoyle" gender="Male" rel_version="Season_1_Perm">Eynon Voyle</string>
+	<string key="9510_EynonVoyle_t" gender="Male" rel_version="Season_1_Perm">Druid Healer</string>
+	<string key="9511_DicunHobday" gender="Male" rel_version="Season_1_Perm">Dicun Hobday</string>
+	<string key="9511_DicunHobday_t" gender="Male" rel_version="Season_1_Perm">Priest</string>
+	<string key="9512_Marty" gender="Male" rel_version="Season_1_Perm">Marty Nottage</string>
+	<string key="9512_Marty_t" gender="Male" rel_version="Season_1_Perm">Church guard</string>
+	<string key="9513_Amis" gender="Male" rel_version="Season_1_Perm">Amis Shaw</string>
+	<string key="9513_Amis_t" gender="Male" rel_version="Season_1_Perm">Church guard</string>
+	<string key="9514_Fergus" gender="Male" rel_version="Season_1_Perm">Frank Doyle</string>
+	<string key="9514_Fergus_t" gender="Male" rel_version="Season_1_Perm">Smuggler</string>
+	<string key="9515_Aidyn" gender="Female" rel_version="Season_1_Perm">Aidyn</string>
+	<string key="9515_Aidyn_t" gender="Female" rel_version="Season_1_Perm">Speardaughter</string>
+	<string key="9516_Faceless" gender="Male" rel_version="Season_1_Perm">Faceless</string>
+	<string key="9516_Faceless_t" gender="Male" rel_version="Season_1_Perm">Warlock</string>
+	<string key="9517_OtmarWinkler" gender="Male" rel_version="Season_1_Perm">Otmar Winkler</string>
+	<string key="9517_OtmarWinkler_t" gender="Male" rel_version="Season_1_Perm">Toymaker</string>
+	<string key="9518_SkyeBoneCharmTable" gender="Male" rel_version="Season_1_Perm">Bone Talisman Table</string>
+	<string key="9518_SkyeBoneCharmTable_t" gender="Male" rel_version="Season_1_Perm">Table</string>
+	<string key="9536_NoraRoggeveen" gender="Female" rel_version="Season_1_Perm">Nora Roggeveen</string>
+	<string key="9536_NoraRoggeveen_t" gender="Female" rel_version="Season_1_Perm">Antiquarian</string>
+</resources>
 

@@ -5,7 +5,7 @@
 	<string key="ui_calendar_event_button_go">Let's Go!</string>
 	<string key="ui_calendar_event_button_view_details">View Details</string>
 	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
-	<string key="ui_news_button">News</string>
+	<string key="ui_news_button">News and Events</string>
 	<string key="ui_news_button_no_news">No News Stories Available.</string>
 	<string key="ui_event_progress_name">Event Reputation</string>
 	<string key="ui_event">Event</string>
@@ -19,21 +19,21 @@
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Azoth Salt is a currency that allows you to acquire rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, killing players in the open world, and earning XP while flagged.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">REWARDS</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
-	<string key="ui_event_weapon_xp_tabname">Weapon XP Boost</string>
-	<string key="ui_event_weapon_xp_title">WEAPONS XP BONUS THIS WEEK</string>
-	<string key="ui_event_weapon_xp_desc">The bonus is activated on:</string>
-	<string key="ui_event_gathering_xp_tabname">Gathering XP Boost</string>
-	<string key="ui_event_gathering_xp_title">GATHERING XP BONUS THIS WEEK</string>
-	<string key="ui_event_gathering_xp_desc">The bonus is activated on:</string>
-	<string key="ui_event_character_xp_tabname">Level XP Boost</string>
-	<string key="ui_event_character_xp_title">CHARACTER LEVEL XP BONUS EVENT</string>
-	<string key="ui_event_character_xp_desc">The bonus is activated on:</string>
-	<string key="ui_event_refining_xp_tabname">Refining XP Boost</string>
-	<string key="ui_event_refining_xp_title">REFINING XP BONUS THIS WEEK</string>
-	<string key="ui_event_refining_xp_desc">The bonus is activated on:</string>
-	<string key="ui_event_extravaganza_tabname">XP Bonus Extravaganza</string>
-	<string key="ui_event_extravaganza_title">XP BONUS EXTRAVAGANZA</string>
-	<string key="ui_event_extravaganza_desc">The bonus is activated on:</string>
+	<string key="ui_event_weapon_xp_tabname">XP Event</string>
+	<string key="ui_event_weapon_xp_title">WEAPON XP BONUS EVENT</string>
+	<string key="ui_event_weapon_xp_desc">Active bonuses:</string>
+	<string key="ui_event_gathering_xp_tabname">XP Event</string>
+	<string key="ui_event_gathering_xp_title">GATHERING XP BONUS EVENT</string>
+	<string key="ui_event_gathering_xp_desc">Active bonuses:</string>
+	<string key="ui_event_character_xp_tabname">XP Event</string>
+	<string key="ui_event_character_xp_title">LEVEL XP BONUS EVENT</string>
+	<string key="ui_event_character_xp_desc">Active bonuses:</string>
+	<string key="ui_event_refining_xp_tabname">XP Event</string>
+	<string key="ui_event_refining_xp_title">REFINING XP BONUS EVENT</string>
+	<string key="ui_event_refining_xp_desc">Active bonuses:</string>
+	<string key="ui_event_extravaganza_tabname">XP Event</string>
+	<string key="ui_event_extravaganza_title">XP EXTRAVAGANZA</string>
+	<string key="ui_event_extravaganza_desc">Active bonuses:</string>
 	<string key="ui_news_end_game_tabname">Endgame</string>
 	<string key="ui_news_end_game_description">At level 60, you're now able to&lt;font color="#ffdb7a"&gt; upgrade your equipment &lt;/font&gt;to higher gear scores. To do this, you'll need to harvest Gypsum from various Level 60 activities and locations. Visit a&lt;font color="#ffdb7a"&gt; Gypsum Kiln &lt;/font&gt;to learn more.</string>
 	<string key="ui_end_game_panel1_title">ENDGAME ACTIVITIES</string>
@@ -131,5 +131,21 @@
 	<string key="ui_event_feb_mtx_bullet1" rel_version="Entitlements_OmensOfWinter">Skins</string>
 	<string key="ui_event_feb_mtx_bullet2" rel_version="Entitlements_OmensOfWinter">Emotes</string>
 	<string key="ui_event_feb_mtx_button_about" rel_version="Entitlements_OmensOfWinter">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Omens Of Winter</string>
+	<string key="ui_event_empyrean_forge_tabname" rel_version="Expedition_GreatCleave_01">Empyrean Forge</string>
+	<string key="ui_event_empyrean_forge_title" rel_version="Expedition_GreatCleave_01">Empyrean Forge</string>
+	<string key="ui_event_empyrean_forge_description" rel_version="Expedition_GreatCleave_01">Legendary foundry where Ancients forged their devastating engines of war. Those who hunger for power yearn for the eldritch magics unleashed in these colossal ruins.</string>
+	<string key="ui_event_empyrean_forge_about" rel_version="Expedition_GreatCleave_01">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Empyrean Forge</string>
+	<string key="ui_event_season_one_tabname" rel_version="Season_1_Perm">Seasons</string>
+	<string key="ui_event_season_one_title" rel_version="Season_1_Perm">Seasons</string>
+	<string key="ui_event_season_one_description" rel_version="Season_1_Perm">Embark on a new journey with Grace O'Malley as she forms Aeternum's newest mercenary company, the Silver Crows.</string>
+	<string key="ui_event_season_one_about" rel_version="Season_1_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Seasons</string>
+	<string key="ui_event_season_one_bullet1" rel_version="Season_1_Perm">Season Pass</string>
+	<string key="ui_event_season_one_bullet2" rel_version="Season_1_Perm">The Silver Crows</string>
+	<string key="ui_event_mar_mtx_title" rel_version="Entitlements_FirelightSeason">Firelight</string>
+	<string key="ui_event_mar_mtx_description" rel_version="Entitlements_FirelightSeason">The fires of the Forge burn brightly within this month's new store items! Feel the burn with brand new skins and decor items. Get into the competitive spirit with new emotes that can express your triumph or comfort your poor, humbled enemies! Get them while they're hot!</string>
+	<string key="ui_event_mar_mtx_about" rel_version="Entitlements_FirelightSeason">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Firelight</string>
+	<string key="ui_event_mar_mtx_bullet1" rel_version="Entitlements_FirelightSeason">Armors</string>
+	<string key="ui_event_mar_mtx_bullet2" rel_version="Entitlements_FirelightSeason">Weapons</string>
+	<string key="ui_event_mar_mtx_bullet3" rel_version="Entitlements_FirelightSeason">Emotes</string>
 </resources>
 

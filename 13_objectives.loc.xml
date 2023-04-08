@@ -265,7 +265,7 @@
 	<string key="1334_0201_olfactoryoptimization_proposal_prompt" speaker="UI - Player Prompt">"It is certainly hard to ignore."</string>
 	<string key="1334_0201_olfactoryoptimization_proposal_next" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_proposal_next" VO_Status="Recorded" dialogue-prompt="@1334_0201_olfactoryoptimization_proposal_prompt">So? How much of life you miss, if you seek only inoffensive things.\n\nPlease, I must capture this fragrance. Bring me the aromas of the Fen, brew them and bottle them, and I’ll reward you handsomely, hmm?</string>
 	<string key="1334_0201_olfactoryoptimization_incomplete" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_incomplete" VO_Status="Recorded">Can the unique fragrance of Weaver’s Fen truly be replicated by human hands? I await your return with bated breath.</string>
-	<string key="1334_0201_olfactoryoptimization_complete" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete" VO_Status="Recorded" dialogue-next="@1334_0201_olfactoryoptimization_complete_next" comment="coughing">Hmm, yes…decadent, musky, with a sulfuric accord that resonates right through to the top notes…you’ve captured Weaver's Fen perfectly. \n\nYou may be a genius, my friend! Ah, my eyes are watering with emotion!</string>
+	<string key="1334_0201_olfactoryoptimization_complete" comment="coughing" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete" VO_Status="Recorded" dialogue-next="@1334_0201_olfactoryoptimization_complete_next">Hmm, yes…decadent, musky, with a sulfuric accord that resonates right through to the top notes…you’ve captured Weaver's Fen perfectly. \n\nYou may be a genius, my friend! Ah, my eyes are watering with emotion!</string>
 	<string key="1334_0201_olfactoryoptimization_complete_prompt" speaker="UI - Player Prompt">"The aroma is… surprising!”</string>
 	<string key="1334_0201_olfactoryoptimization_complete_next" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete_next" VO_Status="Recorded" dialogue-prompt="@1334_0201_olfactoryoptimization_complete_prompt">Is it so shocking? Hah! If only the ladies of New Corsica knew what they daubed upon their wrists.\n\nThe art of perfume is like life: The whole is larger than the sum of its parts. Thank you for your contributions.</string>
 	<string key="1334_0201_d_00_01a_GiveRecipe" speaker="UI">Take {itemName}</string>
@@ -314,79 +314,6 @@
 	<string key="1335_0204_reunion_proposal_next" speaker="Nora Roggeveen" name="NoraRoggeveen" VO="1335_0204_reunion_proposal_next" VO_Status="Recorded" dialogue-prompt="@1335_0204_reunion_proposal_prompt">I was, fortunately, already well in hiding when the Guardians started swarming the place. Thank goodness you came along! I was starting to get hungry.\n\nAnyway, let’s head back. I’m eager to see Leonie after this.</string>
 	<string key="1335_0204_reunion_incomplete" speaker="Nora Roggeveen" name="NoraRoggeveen" VO="1335_0204_reunion_incomplete" VO_Status="Recorded">I'll meet you and Leonie back on the road. I'll sneak out while you're distracting them.</string>
 	<string key="1335_0204_reunion_complete" speaker="Dr. Leonie Roggeveen" name="LeonieRoggeveen" VO="1335_0204_reunion_complete" VO_Status="Recorded">You’re back! Nora told me everything. I am SO relieved.\n\nI’m going to have a talk with her about taking some precautions next time. But this was a fine game, and you were an enormous help. Thank you!</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Title" speaker="UI - Quest Title">Protective Wyrd</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Description" speaker="UI – Quest Description">Recover the components and recipes needed to assemble the armor Protective Wyrd. Then report back to Survivalist Severino in the Weaver's Fen Settlement.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Prompt" speaker="UI - Player Prompt">"You honor her well."</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_ProposalResponse" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Proposal_Next">There is always more we could do, which is why I have a gift for you.\n\nHazel once spoke of a set of armor said to keep its wearer protected against the worst sort of fates.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Prompt" speaker="UI - Player Prompt">"Protected against fate?"</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Next" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Proposal_Next2" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Proposal_Prompt">So it is said. Hazel claimed it was worn by a great healer, a sorceress like herself.\n\nDespite its lightweight material, the armor never failed, and the sorceress traveled all over Aeternum with nary a scratch.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Prompt2" speaker="UI - Player Prompt">"Sounds too good to be true."</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Next2" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Proposal_Prompt2">We need such stories to get us through the dark times. But even so, Hazel assured me it was true and handed me this pattern.\n\nIt is called the Protective Wyrd. Collect these materials, and you can wear such gear yourself.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Incomplete" speaker="Survivalist Severino – Weaver's Fen">Nothing is truly lost on Aeternum, or so I tell myself.\n\nWhen the time is right, you will find what you need to craft the Protective Wyrd, I know you will.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_AvailResponse" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Complete_Next">There's something about you... Oh! You found everything you needed!\n\nThis is the most impressive attire I've ever laid eyes on. I can feel the power of the Protective Wyrd from here.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete_Prompt" speaker="UI - Player Prompt">"You can?"</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete_Next" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext3" VO_Status="Recorded" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Complete_Prompt">It warms my heart to know that the stories Hazel told me have not only proven true, but useful.\n\nIf her other stories are true as well, there may be hope yet for us all.</string>
-	<string key="1303_1311_01_container_Protective_Wyrd_questComplete_1">Complete Quest: Step in the Right Direction</string>
-	<string key="1303_1311_02_container_Protective_Wyrd_questComplete_2">Complete Quest: Wrapped in Wards</string>
-	<string key="1303_1311_03_container_Protective_Wyrd_questComplete_3">Complete Quest: Predestined Perils</string>
-	<string key="1303_1311_04_container_Protective_Wyrd_questComplete_4">Complete Quest: Within Fate's Grasp</string>
-	<string key="1303_1311_05_container_Protective_Wyrd_questComplete_5">Complete Quest: Facing Destiny</string>
-	<string key="1303_1311_01_Shoes_Title">Step in the Right Direction</string>
-	<string key="1303_1311_01_Shoes_Description">Collect Hallowed Fabric from Fenton Hamlet, Essence of Undeath from Cutthroat Cavern, and Purified Pitch from Jetsam Isle. Then visit a Tier 3 Outfitting Station to craft the Protected Wyrd Shoes.</string>
-	<string key="1303_1311_01_Shoes_task_01">Handed the recipe.</string>
-	<string key="1303_1311_01_Shoes_task_02">Travel to {POITags} in Weaver's Fen to collect Hallowed Fabric</string>
-	<string key="1303_1311_01_Shoes_task_03">Collect {itemName} from Revenant, Ghoul, and Impaler enemies</string>
-	<string key="1303_1311_01_Shoes_task_04">Travel to {POITags} in Restless Shore to collect Essence of Undeath</string>
-	<string key="1303_1311_01_Shoes_task_05">Collect {itemName} from {targetName} enemies</string>
-	<string key="1303_1311_01_Shoes_task_06">Travel to {POITags} in Restless Shore to collect Purified Pitch</string>
-	<string key="1303_1311_01_Shoes_task_07">Collect {itemName} from {targetName} enemies</string>
-	<string key="1303_1311_01_Shoes_task_08">Visit an Outfitting Station</string>
-	<string key="1303_1311_01_Shoes_task_09">Craft the {itemName}</string>
-	<string key="1303_1311_02_Shirt_Title">Wrapped in Wards</string>
-	<string key="1303_1311_02_Shirt_Description">Collect Neptunian Buckles from Neptune's Fury, Consecrated Thread from Solitude Cemetery, and Ancient Armor Scraps from Gelida Pillars. Then visit a Tier 3 Outfitting Station to craft the Protected Wyrd Shirt.</string>
-	<string key="1303_1311_02_Shirt_task_01">Handed the recipe.</string>
-	<string key="1303_1311_02_Shirt_task_02">Travel to {POITags} in Restless Shore to collect Neptunian Buckles</string>
-	<string key="1303_1311_02_Shirt_task_03">Collect {itemName} from {targetName} enemies</string>
-	<string key="1303_1311_02_Shirt_task_04">Travel to {POITags} in Restless Shore to collect Consecrated Thread</string>
-	<string key="1303_1311_02_Shirt_task_05">Collect {itemName} from {targetName} enemies</string>
-	<string key="1303_1311_02_Shirt_task_06">Travel to {POITags} in Great Cleave to collect Ancient Armor Scraps</string>
-	<string key="1303_1311_02_Shirt_task_07">Collect {itemName} from {targetName} enemies</string>
-	<string key="1303_1311_02_Shirt_task_08">Visit an Outfitting Station</string>
-	<string key="1303_1311_02_Shirt_task_09">Craft the {itemName}</string>
-	<string key="1303_1311_03_Pants_Title">Predestined Perils</string>
-	<string key="1303_1311_03_Pants_Description">Collect Stitched Wards from Eeriedune Graveyard, Ceremonial Worked Wool from Eridanus, and Infused Lining from Lunaryth. Then visit a Tier 3 Outfitting Station to craft the Protected Wyrd Pants.</string>
-	<string key="1303_1311_03_Pants_task_01">Handed the recipe.</string>
-	<string key="1303_1311_03_Pants_task_02">Travel to {POITags} in Great Cleave to collect Stitched Wards</string>
-	<string key="1303_1311_03_Pants_task_03">Collect {itemName} from {targetName} enemies</string>
-	<string key="1303_1311_03_Pants_task_04">Travel to {POITags} in Restless Shore to collect Ceremonial Worked Wool</string>
-	<string key="1303_1311_03_Pants_task_05">Collect {itemName} from {targetName} enemies</string>
-	<string key="1303_1311_03_Pants_task_06">Travel to {POITags} in Mourningdale to collect Infused Lining</string>
-	<string key="1303_1311_03_Pants_task_07">Collect {itemName} from {targetName} enemies</string>
-	<string key="1303_1311_03_Pants_task_08">Visit an Outfitting Station</string>
-	<string key="1303_1311_03_Pants_task_09">Craft the {itemName}</string>
-	<string key="1303_1311_04_Gloves_Title">Within Fate's Grasp</string>
-	<string key="1303_1311_04_Gloves_Description">Collect Cragview Reinforced Weave from Cragview, Wyrdwood Charms from Blisteroot, and Shambhala Cleansed Fibers from Shambhala. Then visit a Tier 3 Outfitting Station to craft the Protected Wyrd Gloves.</string>
-	<string key="1303_1311_04_Gloves_task_01">Handed the recipe.</string>
-	<string key="1303_1311_04_Gloves_task_02">Travel to {POITags} in Mourningdale to collect Cragview Reinforced Weave</string>
-	<string key="1303_1311_04_Gloves_task_03">Collect {itemName} from {targetName} enemies</string>
-	<string key="1303_1311_04_Gloves_task_04">Travel to the {POITags} in Mourningdale to collect Wyrdwood Charms</string>
-	<string key="1303_1311_04_Gloves_task_05">Collect {itemName} from {targetName} enemies</string>
-	<string key="1303_1311_04_Gloves_task_06">Travel to {POITags} in Edengrove to collect Shambhala Cleansed Fibers</string>
-	<string key="1303_1311_04_Gloves_task_07">Collect {itemName} from {targetName} enemies</string>
-	<string key="1303_1311_04_Gloves_task_08">Visit an Outfitting Station</string>
-	<string key="1303_1311_04_Gloves_task_09">Craft the {itemName}</string>
-	<string key="1303_1311_05_Hat_Title">Facing Destiny</string>
-	<string key="1303_1311_05_Hat_Description">Collect Dawnglow Omens from Pavo, Virid Resin from Bramblecliff, and Spectral Cloth from Upper Slag Mine. Then visit a Tier 3 Outfitting Station to craft the Protected Wyrd Hat.</string>
-	<string key="1303_1311_05_Hat_task_01">Handed the recipe.</string>
-	<string key="1303_1311_05_Hat_task_02">Travel to {POITags} in Edengrove to collect Dawnglow Omens</string>
-	<string key="1303_1311_05_Hat_task_03">Collect {itemName} from {targetName} enemies</string>
-	<string key="1303_1311_05_Hat_task_04">Travel to the {POITags} in Edengrove to collect Virid Resin</string>
-	<string key="1303_1311_05_Hat_task_05">Collect {itemName} from {targetName} enemies</string>
-	<string key="1303_1311_05_Hat_task_06">Travel to {POITags} in Edengrove to collect Spectral Cloth</string>
-	<string key="1303_1311_05_Hat_task_07">Collect {itemName} from {targetName} enemies</string>
-	<string key="1303_1311_05_Hat_task_08">Visit an Outfitting Station</string>
-	<string key="1303_1311_05_Hat_task_09">Craft the {itemName}</string>
-	<string key="1302_1312_d_01_Task_Goto" speaker="UI">Travel to {POITags}</string>
 	<string key="1302_1312_d_02_Task_KillSpriggan" speaker="UI">Defeat {targetName}</string>
 	<string key="1302_1312_d_03_Task_GetSpores" speaker="UI">Collect {itemName}</string>
 	<string key="1302_1312_a_Title" speaker="UI">Spores For a Cure</string>
@@ -397,64 +324,5 @@
 	<string key="1302_1312_c_Proposal_next" speaker="Magistrate Allen - Weaver's Fen" name="MagistrateAllen" VO="Magistrate_1302_1312_Spores_CompleteNext" VO_Status="Recorded" dialogue-prompt="@1302_1312_c_Proposal_prompt">Only because you've proven so capable. In Eridanus, there is a mighty Spriggan - Teceros - a behemoth of earth come to life. \n\nIf mixed properly with our Ancient Herbs, Teceros's spores will cure the people of Weaver's Fen for good.</string>
 	<string key="1302_1312_e_Incomplete" speaker="Magistrate Allen - Weaver's Fen">Alchemist Rubis assures me that Teceros's Spores will be the final cure we've been seeking. \n\nYou have already helped us a great deal, but this will truly save our village.</string>
 	<string key="1302_1312_f_Complete" speaker="Magistrate Allen - Weaver's Fen" name="MagistrateAllen" VO="Magistrate_1302_1312_Spores_AvailResponse" VO_Status="Recorded">The spores of the behemoth? Very… disquieting, but I'll give them to Alchemist Rubis.\n\nTHank you, {playerName}. We finally have our cure, and you can have this prize as your reward.</string>
-	<string key="1310_1314_L40Bow_Huntress_Title" speaker="UI - Quest Title">Tracking the Huntress</string>
-	<string key="1310_1314_L40Bow_Huntress_Description" speaker="UI – Quest Description">Acquire Ancient Wood from Rafflesia, Wyrdwood Resin from Verdant Ascent, Hawk Feather from Propus, and a Lucky Rabbit's Foot from Echowhine Hollow to craft the bow known as "The Huntress." Then report back to Barkeep Flores in the Weaver's Fen Settlement.</string>
-	<string key="1310_1314_L40Bow_Huntress_Prompt" speaker="UI - Player Prompt">"I'd be interested in that."</string>
-	<string key="1310_1314_L40Bow_Huntress_Proposal" speaker="Barkeep Flores - Weaver's Fen" name="BarkeepFlores" VO="Barkeep_1310_1314_L40Bow_Huntress_ProposalResponse" VO_Status="Recorded">Wouldn't you, though? It'll be up to you to do all the leg work.\n\nIf you can collect all the materials on the list, I think this bow - "the Huntress" - will be the envy of everyone in town. Good luck!</string>
-	<string key="1310_1314_L40Bow_Huntress_Incomplete" speaker="Barkeep Flores - Weaver's Fen">Ah, still tracking down the Huntress, are you?\n\nIt'll take some time, I reckon.</string>
-	<string key="1310_1314_L40Bow_Huntress_Complete" speaker="Barkeep Flores - Weaver's Fen" name="BarkeepFlores" VO="Barkeep_1310_1314_L40Bow_Huntress_AvailResponse" VO_Status="Recorded">Look at you - fresh in from the wilds and now a legendary tracker, at least to my mind. Finding all the materials can't have been easy. \n\nBut the Huntress - she'll take good care of you. Keep your quiver full out there.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Title" speaker="UI - Quest Title">Falmea's Wrath</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Description" speaker="UI – Quest Description">Acquire Singed Branches from Amphus, Wyrdwood Ashes from Fornax, Unhallowed Water from Neptune's Fury, and the Heart of All Flame from New Balefire to craft the Fire Staff called "Falmea's Wrath." Then report back to Artificer Erasmus in the Weaver's Fen Settlement.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Prompt" speaker="UI - Player Prompt">"I certainly would."</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Proposal" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1315_L40FStaff_FalmeasWrath_ProposalResponse" VO_Status="Recorded">Perfect. I've been working on a schematic for some time - I call it "Falmea's Wrath."\n\nIf you can acquire all the necessary elements, this will staff will make you a true master of the flame. Good luck.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Incomplete" speaker="Artificer Erasmus - Weaver's Fen">Still hunting for the elements to make "Falmea's Wrath"?\n\nKeep at it - I think you'll find it a worth investment.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Complete" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1315_L40FStaff_FalmeasWrath_AvailResponse" VO_Status="Recorded">Ah, behold! Your diligence has paid off - you must've had to trek all over Aeternum!\n\nBut now, you enjoy the benefits! Falmea's Wrath! A finer staff has never been crafted! Wield it with pride, {playerName}.</string>
-	<string key="1310_1314_AncientWood_Quest_objective_title" speaker="UI">Collect items used to craft the Huntress</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_objective_title" speaker="UI">Collect items used to craft the Huntress</string>
-	<string key="1310_1314_HawkFeathers_Quest_objective_title" speaker="UI">Collect items used to craft the Huntress</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_objective_title" speaker="UI">Collect items then craft the Huntress</string>
-	<string key="1310_1314_AncientWood_Quest_description" speaker="UI">She hides among the trees. Among the redwoods, she is truly at home.</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_description" speaker="UI">The resin of the tree perfumes the air. If you're all alone, yet notice that scent, beware.</string>
-	<string key="1310_1314_HawkFeathers_Quest_description" speaker="UI">With eyes like the hawk, she sees for miles. Her vision is clear.</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_description" speaker="UI">She closes upon her prey, and slowly pulls back. The freedom she feels is like that of an arrow.</string>
-	<string key="1305_1315_SingedBranches_Quest_objective_title" speaker="UI">Collect items used to craft Falmea's Wrath</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_objective_title" speaker="UI">Collect items used to craft Falmea's Wrath</string>
-	<string key="1305_1315_UnhallowedWater_Quest_objective_title" speaker="UI">Collect items used to craft Falmea's Wrath</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_objective_title" speaker="UI">Collect items then craft Falmea's Wrath</string>
-	<string key="1305_1315_SingedBranches_Quest_description" speaker="UI">Falmea burned the Wyrdwood into the air, and left the air hanging with great sorrow.</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_description" speaker="UI">Falmea let ashes from the Wyrdwood fall. A pure white on the ground, felled.</string>
-	<string key="1305_1315_UnhallowedWater_Quest_description" speaker="UI">Falmea revealed her unhallowed water and sprinkled it into the ash.</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_description" speaker="UI">Falmea spoke the unspeakable and, from a tornado of flame, retrieved a staff.</string>
-	<string key="1310_1314_Combine_Quest_task_03">Handed the recipe.</string>
-	<string key="1310_1314_Combine_Quest_task_04">Visit an Engineering Station</string>
-	<string key="1310_1314_Combine_Quest_task_05">Create {itemName}</string>
-	<string key="1305_1315_Combine_Quest_task_03">Handed the recipe.</string>
-	<string key="1305_1315_Combine_Quest_task_04">Visit an Arcane Station</string>
-	<string key="1305_1315_Combine_Quest_task_05">Create {itemName}</string>
-	<string key="1310_1314_AncientWood_Quest_task_01">Travel to {POITags} in Edengrove to collect Ancient Wood</string>
-	<string key="1310_1314_AncientWood_Quest_task_02">Collect {itemName} from {targetName} enemies</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_task_01">Travel to {POITags} in Restless Shore to collect Wyrdwood Resin</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_task_02">Collect {itemName} from {targetName} enemies</string>
-	<string key="1310_1314_HawkFeathers_Quest_task_01">Travel to {POITags} in Mourningdale to collect Hawk Feather</string>
-	<string key="1310_1314_HawkFeathers_Quest_task_02">Collect {itemName} from {targetName} enemies</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_01">Travel to {POITags} in Mourningdale to collect a Lucky Rabbit's Foot</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_02">Collect {itemName} from {targetName}</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_04">Create the {itemName}</string>
-	<string key="1305_1315_SingedBranches_Quest_task_01">Travel to {POITags} in Edengrove to collect Singed Branches</string>
-	<string key="1305_1315_SingedBranches_Quest_task_02">Collect {itemName} from {targetName} enemies</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_task_01">Travel to {POITags} in Restless Shore to collect Wyrdwood Ashes</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_task_02">Collect {itemName} from {targetName} enemies</string>
-	<string key="1305_1315_UnhallowedWater_Quest_task_01">Travel to {POITags} in Restless Shore to collect Unhallowed Water</string>
-	<string key="1305_1315_UnhallowedWater_Quest_task_02">Collect {itemName} from {targetName} enemies</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_task_01">Travel to {POITags} in Mourningdale to collect the Heart of All Flame</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_task_02">Collect {itemName} from {targetName}</string>
-	<string key="1310_1314_01_container_Weapon_Huntress_questComplete_1">Complete Quest: Like Wood in a Forest</string>
-	<string key="1310_1314_02_container_Weapon_Huntress_questComplete_2">Complete Quest: Good Resin, Sound Reasoning</string>
-	<string key="1310_1314_03_container_Weapon_Huntress_questComplete_3">Complete Quest: Feathers of a Hawk</string>
-	<string key="1310_1314_04_container_Weapon_Huntress_questComplete_4">Complete Quest: To Chase a Tardy Rabbit</string>
-	<string key="1305_1315_01_container_Weapon_Hope_FalmeasWrath_questComplete_1">Complete Quest: Consequences that Burn</string>
-	<string key="1305_1315_02_container_Weapon_Hope_FalmeasWrath_questComplete_2">Complete Quest: Naught but Smoldering Ash</string>
-	<string key="1305_1315_03_container_Weapon_Hope_FalmeasWrath_questComplete_3">Complete Quest: Tainting the Waters</string>
-	<string key="1305_1315_04_container_Weapon_Hope_FalmeasWrath_questComplete_4">Complete Quest: Chalice of Sacrifice</string>
 </resources>
 

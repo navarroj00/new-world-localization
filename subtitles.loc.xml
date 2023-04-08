@@ -232,5 +232,16 @@
 	<string key="Apophis_CombatTaunt_D" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">Feast, Great Devourer!</string>
 	<string key="Apophis_Intro" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">Insignificant Worms!</string>
 	<string key="Apophis_Death" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">You are nothing!</string>
+	<string key="Flamekeeper_CombatBark_01" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: Living Bomb Bark!</string>
+	<string key="Flamekeeper_CombatBark_02" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: Meteor Shower Bark!</string>
+	<string key="Flamekeeper_CombatBark_03" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: Lava Flow Bark!</string>
+	<string key="Flamekeeper_CombatBark_04" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: Flame Entities Bark!</string>
+	<string key="Flamekeeper_CombatBark_05" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: Kindling Bark!</string>
+	<string key="Flamekeeper_CombatBark_06" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: Stop Drop and Roll Bark!</string>
+	<string key="Flamekeeper_CombatBark_07" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: Flame Vacuum Bark!</string>
+	<string key="BrotherUmberto_Intro_Human" comment="brother_umberto_human.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">I will not repent! Nor will I fall. It is you whose soul will be forfeit!</string>
+	<string key="BrotherUmberto_Death_Human" comment="brother_umberto_human.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">The righteous will always return!</string>
+	<string key="BrotherUmberto_Intro_Dark_Alt" comment="brother_umberto.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">My soul will not be so easily vanquished…</string>
+	<string key="BrotherUmberto_Death_Dark" comment="io_caerdun_99b_msq_10_finalseal.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">I am released….</string>
 </resources>
 

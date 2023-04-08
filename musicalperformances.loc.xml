@@ -145,7 +145,7 @@
 	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">The performer now receives the full tip amount.</string>
 	<string key="PerkID_MusicalInstrument_FinalNotePerfectXPBonus_Description" rel_version="Feature_MusicalPerformances">Hitting perfect on the final note rewards the player with a 10% Music XP Boost</string>
 	<string key="PerkID_MusicalInstrument_GroupXPBonus_Description" rel_version="Feature_MusicalPerformances">Playing in a group rewards the player with a 10% Music XP Boost</string>
-	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Playing solo rewards the player with a 10% Music XP Boost</string>
+	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Playing solo rewards the player with a 15% Music XP Boost</string>
 	<string key="ui_music_guitar_part_1" rel_version="Feature_MusicalPerformances">Guitar (Part 1)</string>
 	<string key="ui_music_guitar_part_2" rel_version="Feature_MusicalPerformances">Guitar (Part 2)</string>
 	<string key="ui_music_guitar_part_3" rel_version="Feature_MusicalPerformances">Guitar (Part 3)</string>
@@ -167,7 +167,7 @@
 	<string key="songtitle_Embark" rel_version="Feature_MusicalPerformances">Embark</string>
 	<string key="songtitle_The_Brightwood" rel_version="Feature_MusicalPerformances">Soulwarden's Journey</string>
 	<string key="songtitle_The_Butterfly" rel_version="Feature_MusicalPerformances">The Butterfly</string>
-	<string key="songtitle_These_Old_Bones" rel_version="Feature_MusicalPerformances">These Old Bones</string>
+	<string key="songtitle_These_Old_Bones" rel_version="Feature_MusicalPerformances">Old Bones</string>
 	<string key="songtitle_Young_King_Stanley" rel_version="Feature_MusicalPerformances">Young King Stanley</string>
 	<string key="songtitle_Ancient" rel_version="Feature_MusicalPerformances">Call Of The Ancients</string>
 	<string key="songtitle_Breathe" rel_version="Feature_MusicalPerformances">Waveworn Lullaby</string>

@@ -1,2 +1,57 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="0242a_Ede" gender="F" rel_version="Quest_MSQ2_Brightwood">Ede Abernethy</string>
+	<string key="0242a_Ede_t" gender="F" rel_version="Quest_MSQ2_Brightwood">Florist</string>
+	<string key="0243a_Niko" gender="M" rel_version="Quest_MSQ2_Brightwood">Nikodemos</string>
+	<string key="0243a_Niko_t" gender="M" rel_version="Quest_MSQ2_Brightwood">Grave Sentry</string>
+	<string key="0244a_Sebastion" gender="M" rel_version="Quest_MSQ2_Brightwood">Sebastion Moler</string>
+	<string key="0244a_Sebastion_t" gender="M" rel_version="Quest_MSQ2_Brightwood">Baker</string>
+	<string key="0245a_Liang" gender="F" rel_version="Quest_MSQ2_Brightwood">Zhu Liang</string>
+	<string key="0245a_Liang_t" gender="F" rel_version="Quest_MSQ2_Brightwood">Mercenary</string>
+	<string key="0246a_Cornelius" gender="M" rel_version="Quest_MSQ2_Brightwood">Cornelius van Leiden</string>
+	<string key="0246a_Cornelius_t" gender="M" rel_version="Quest_MSQ2_Brightwood">Botanist</string>
+	<string key="0247a_Anora" gender="F" rel_version="Quest_MSQ2_Brightwood">Anora Woodville</string>
+	<string key="0247a_Anora_t" gender="F" rel_version="Quest_MSQ2_Brightwood">Town Guard</string>
+	<string key="0248a_Rose" gender="F" rel_version="Quest_MSQ2_Brightwood">Rose Colly</string>
+	<string key="0248a_Rose_t" gender="F" rel_version="Quest_MSQ2_Brightwood">Apprentice Smith</string>
+	<string key="0202a_Magistrate" gender="F" rel_version="Quest_MSQ2_Brightwood">Dorren Farrell</string>
+	<string key="0202a_Magistrate_t" gender="F" rel_version="Quest_MSQ2_Brightwood">Guard Captain</string>
+	<string key="0203a_Survivalist" gender="M" rel_version="Quest_MSQ2_Brightwood">Sule Bankole</string>
+	<string key="0203a_Survivalist_t" gender="M" rel_version="Quest_MSQ2_Brightwood">Embalmer of Brightwood</string>
+	<string key="0205a_Artificer" gender="F" rel_version="Quest_MSQ2_Brightwood">Klara Sobol</string>
+	<string key="0205a_Artificer_t" gender="F" rel_version="Quest_MSQ2_Brightwood">Brightwood Artificer</string>
+	<string key="0207a_Commander" gender="F" rel_version="Quest_MSQ2_Brightwood">Jang Na-Bi</string>
+	<string key="0207a_Commander_t" gender="F" rel_version="Quest_MSQ2_Brightwood">Marauder Commander</string>
+	<string key="0208a_Alchemist" gender="M" rel_version="Quest_MSQ2_Brightwood">Laurentius Krockes</string>
+	<string key="0208a_Alchemist_t" gender="M" rel_version="Quest_MSQ2_Brightwood">Syndicate Scrivener</string>
+	<string key="0209a_Adjudicator" gender="F" rel_version="Quest_MSQ2_Brightwood">Beatris Roose</string>
+	<string key="0209a_Adjudicator_t" gender="F" rel_version="Quest_MSQ2_Brightwood">Covenant Templar</string>
+	<string key="0210a_Barkeep" gender="F" rel_version="Quest_MSQ2_Brightwood">Lau Kang</string>
+	<string key="0210a_Barkeep_t" gender="F" rel_version="Quest_MSQ2_Brightwood">Herbalist of Brightwood</string>
+	<string key="0222a_Innkeep" gender="M" rel_version="Quest_MSQ2_Brightwood">Balewa Okorie</string>
+	<string key="0222a_Innkeep_t" gender="M" rel_version="Quest_MSQ2_Brightwood">Brightwood Chamberlain</string>
+	<string key="0223a_Fisher" gender="F" rel_version="Quest_MSQ2_Brightwood">Park Jennet</string>
+	<string key="0223a_Fisher_t" gender="F" rel_version="Quest_MSQ2_Brightwood">Master Fisher</string>
+	<string key="0230a_Ranger" gender="F" rel_version="Quest_MSQ2_Brightwood">Shui Tijong</string>
+	<string key="0230a_Ranger_t" gender="F" rel_version="Quest_MSQ2_Brightwood">Ranger of Brightwood</string>
+	<string key="0231a_Painter" gender="M" rel_version="Quest_MSQ2_Brightwood">Painter Wolcott</string>
+	<string key="0231a_Painter_t" gender="M" rel_version="Quest_MSQ2_Brightwood">Artist-at-Large</string>
+	<string key="0232a_Naturalist" gender="M" rel_version="Quest_MSQ2_Brightwood">Yargui Khunbish</string>
+	<string key="0232a_Naturalist_t" gender="M" rel_version="Quest_MSQ2_Brightwood">Naturalist</string>
+	<string key="0233a_Hunter" gender="M" rel_version="Quest_MSQ2_Brightwood">Holt Hutchison</string>
+	<string key="0233a_Hunter_t" gender="M" rel_version="Quest_MSQ2_Brightwood">Hunter of Brightwood</string>
+	<string key="0234a_Mourner" gender="F" rel_version="Quest_MSQ2_Brightwood">Megara Pantazis</string>
+	<string key="0234a_Mourner_t" gender="F" rel_version="Quest_MSQ2_Brightwood">Formerly of Brightwood</string>
+	<string key="0249a_Aethelwynn" gender="F" rel_version="Quest_MSQ2_Brightwood">Aethelwynn</string>
+	<string key="0249a_Aethelwynn_t" gender="F" rel_version="Quest_MSQ2_Brightwood">Treasure Hunter</string>
+	<string key="0249a_Aethelwynn_t2" gender="F" rel_version="Quest_MSQ2_Brightwood">Wayward Daughter</string>
+	<string key="0250a_Baldr1" gender="M" rel_version="Quest_MSQ2_Brightwood">Baldr</string>
+	<string key="0250a_Baldr2" gender="M" rel_version="Quest_MSQ2_Brightwood">Baldr</string>
+	<string key="0250a_Baldr_t" gender="M" rel_version="Quest_MSQ2_Brightwood">Loyal Companion</string>
+	<string key="0251a_Headstone" gender="Object" rel_version="Quest_MSQ2_Brightwood">Weathered Headstone</string>
+	<string key="0251a_Headstone_InteractOverride" gender="Object" rel_version="Quest_MSQ2_Brightwood">Examine</string>
+	<string key="0252a_guard" gender="M" rel_version="Quest_MSQ2_Brightwood">Lorenz Werner</string>
+	<string key="0252a_guard_title" rel_version="Quest_MSQ2_Brightwood">Brightwood Guard Captain</string>
+	<string key="0253a_guard" gender="F" rel_version="Quest_MSQ2_Brightwood">Agatha Werner</string>
+	<string key="0253a_guard_title" rel_version="Quest_MSQ2_Brightwood">Brightwood Guard Captain</string>
+</resources>
 

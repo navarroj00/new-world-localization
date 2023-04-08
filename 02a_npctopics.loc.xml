@@ -1,0 +1,5 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="0223a_Fisher_ExplainHotspots_Prompt" speaker="UI - player prompt" rel_version="Quest_MSQ2_Brightwood">"Can you explain fishing hotspots?"</string>
+	<string key="0223a_Fisher_ExplainHotspots_Response" speaker="Park Jennet" name="Park Jennet" rel_version="Quest_MSQ2_Brightwood">You can tell a fishing hotspot is active when you see fish jumping out of it.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotactive.png" height="188"&gt;&lt;/img&gt;\nWhile it's active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you'll see a small alert telling you you've hit the hotspot.\n\nAfter enough fish are caught at a hotspot it will become depleted. You can tell a hotspot is depleted when there are no fish jumping.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotdepleted.png" height="188"&gt;&lt;/img&gt;\nA depleted hotspot will become active again after some time has passed.\n\nAs your fishing skill improves, you will be able to find more and better hotspots.</string>
+</resources>
+

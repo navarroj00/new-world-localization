@@ -10,6 +10,8 @@
 	<string key="ui_receivedgroupinvite_decline" comment="">Decline</string>
 	<string key="ui_receivedgroupinvite_hide" comment="">Hide</string>
 	<string key="ui_togglepvpblocked_title" comment="">PvP Flag Warning</string>
+	<string key="ui_togglepvpblocked_pvpinactive" rel_version="Feature_Alt_Character_Protection" comment="">You are currently not able to turn on your PvP flag because you are PvP inactive. You will be able to switch to PvP active in: {timeRemainingShorthand}</string>
+	<string key="ui_togglepvpblocked_pvpinactive_canswitch" rel_version="Feature_Alt_Character_Protection" comment="">You are currently not able to turn on your PvP flag because you are PvP inactive. Would you like to switch to PvP active? \n\n Doing so will remove your current PvP active character from any wars they are signed up for and fail any active PvP missions.</string>
 	<string key="ui_togglepvpblocked_ingroup" comment="">PvP and PvE players cannot be grouped together. Changing your PvP flagging will kick you from this group.\n\nAre you sure you want to change your PvP flag?</string>
 	<string key="ui_togglepvpblocked_pendinginvites" comment="">Changing your PvP flagging will rescind all of your pending group invites.\n\nAre you sure you want to change your PvP flag?</string>
 	<string rel_version="Feature_Group_Finder" key="ui_togglepvpblocked_ingroupfindergroup" comment="">PvP and PvE players cannot be in the same Lobby. Changing your PvP flagging will kick you from this Lobby.\n\nAre you sure you want to change your PvP flag?</string>
@@ -21,16 +23,16 @@
 	<string key="ui_group_invite_failed" comment="">Group invite failed.</string>
 	<string key="ui_groupinvitesentmessage" comment="">Group invite sent to &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt;.</string>
 	<string key="ui_groupinviteacceptsentmessage" comment="">Accepted group invite from &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt;.</string>
-	<string key="ui_groupinviteacceptraid" comment="">Accepted group invite</string>
+	<string key="ui_groupinviteacceptraid" comment="">Accepted raid invite</string>
 	<string key="ui_groupinvitedeclinesentmessage" comment="">Declined group invite from &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt;.</string>
 	<string key="ui_groupinvitedeclinesentmessage_withsource" comment="">Group invite from &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; declined by &lt;font color="#ffffff"&gt;{sourcePlayerName}&lt;/font&gt;.</string>
-	<string key="ui_groupinvitedeclineraid" comment="">Declined group invite</string>
+	<string key="ui_groupinvitedeclineraid" comment="">Declined raid invite.</string>
 	<string key="ui_groupinvitedeclinerequeue" comment="">Re-entered queue because a player declined</string>
 	<string key="ui_groupinvitewithdrawnreceivermessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; withdrew his group invite.</string>
 	<string key="ui_groupinvitewithdrawnreceivermessage_SHE" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; withdrew her group invite.</string>
 	<string key="ui_groupinvitewithdrawnreceivermessage_THEY" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; withdrew their group invite.</string>
 	<string key="ui_groupinvitewithdrawnsendermessage" comment="">Withdrew group invite to &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt;.</string>
-	<string key="ui_groupinvitewithdrawnraid" comment="">Group invite withdrawn</string>
+	<string key="ui_groupinvitewithdrawnraid" comment="">Group invite withdrawn.</string>
 	<string key="ui_leftgroupmessage" comment="">Left Group</string>
 	<string key="ui_kickedfromgroupmessage" comment="">You have been kicked from your group.</string>
 	<string key="ui_groupmemberkickedmessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; was kicked from the group.</string>
@@ -47,6 +49,8 @@
 	<string key="ui_groupmemberdeathsdoor" comment="">At Death&apos;s Door</string>
 	<string key="ui_groupmemberdead" comment="">Dead</string>
 	<string key="ui_leavegroup" comment="">Leave Group</string>
+	<string key="ui_choose_role" comment="">Choose Role</string>
+	<string key="ui_role_disabled_is_current_role">This is your current role.</string>
 	<string key="ui_leavegroupshort" comment="">Leave</string>
 	<string key="ui_inviteplayertogroup" comment="">Invite Player</string>
 	<string key="ui_groupleavebuttontooltip" comment="">Leave your current group</string>
@@ -56,6 +60,7 @@
 	<string key="ui_grouperrortitle" comment="">Grouping Error</string>
 	<string key="ui_cannotinvite" comment="">You cannot invite someone at this time.</string>
 	<string key="ui_cannotinviteingroup" comment="">You cannot invite someone in your group.</string>
+	<string key="ui_cannotinvitependinginvite" comment="">You have already invited this player.</string>
 	<string key="ui_cannotinvitegroupfull" comment="">Your group is already full.</string>
 	<string key="ui_cannotinviteinWar" comment="">You cannot invite someone during a War.</string>
 	<string key="ui_cannotinviteinInvasion" comment="">You cannot invite someone during an Invasion.</string>
@@ -102,9 +107,9 @@
 	<string key="ui_invalidusername" comment="">Player Not Found</string>
 	<string key="ui_unabletoinviteself" comment="">You can&apos;t invite yourself</string>
 	<string key="ui_group_kick_choice_title" comment="">Vote to kick &lt;font color={color}&gt;{playerName}&lt;/font&gt;</string>
-	<string key="ui_group_kick_choice_text" comment="">&lt;font color={color}&gt;{fromPlayerName}&lt;/font&gt; has started a vote to kick &lt;font color={color}&gt;{targetPlayerName}&lt;/font&gt; from the group. Do you agree?</string>
-	<string key="ui_group_kick_choice_accept" comment="">Vote to kick</string>
-	<string key="ui_group_kick_choice_decline" comment="">Vote to keep</string>
+	<string key="ui_group_kick_choice_text" comment="">&lt;font color={color}&gt;{fromPlayerName}&lt;/font&gt; started a vote to kick &lt;font color={color}&gt;{targetPlayerName}&lt;/font&gt; from the group. Do you agree?</string>
+	<string key="ui_group_kick_choice_accept" comment="">Yes</string>
+	<string key="ui_group_kick_choice_decline" comment="">No</string>
 	<string key="ui_group_kick_started_vote" comment="">You initiated a vote to kick &lt;font color={color}&gt;{playerName}&lt;/font&gt; from the group.</string>
 	<string key="ui_group_kick_ended_not_kicked" comment="">&lt;font color={color}&gt;{playerName}&lt;/font&gt; was not kicked from the group.</string>
 	<string key="ui_group_kick_ended_timed_out" comment="">The vote to kick &lt;font color={color}&gt;{playerName}&lt;/font&gt; from the group has timed out.</string>
@@ -171,9 +176,9 @@
 	<string key="ui_raid_your_status" comment="">Your status</string>
 	<string key="ui_raid_standby_priority" comment="">PRIORITY</string>
 	<string key="ui_raid_group_header" comment="">Group &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{index}&lt;/font&gt;</string>
-	<string key="ui_raid_group_disabled_tooltip" comment="">Wars now have a maximum of {maxRosterMembers} players. You cannot add any more players to this group.</string>
+	<string key="ui_raid_group_disabled_tooltip" comment="">Wars have a maximum of {maxRosterMembers} players. You cannot add any more players to this group.</string>
 	<string key="ui_raid_group_disabled_notification" comment="">Group disabled due to maximum roster change.</string>
-	<string key="ui_raid_max_roster_changed_tooltip" comment="">Wars now have a maximum of {maxRosterMembers} players. You will not be able to add more players above the new maximum.</string>
+	<string key="ui_raid_max_roster_changed_tooltip" comment="">Wars have a maximum of {maxRosterMembers} players. You cannot add any more players.</string>
 	<string key="ui_raid_member_empty" comment="">Empty</string>
 	<string key="ui_raid_leave_button" comment="">Leave</string>
 	<string key="ui_raid_leave_standby_button" comment="">Leave</string>
@@ -181,28 +186,34 @@
 	<string key="ui_raid_signup_button" comment="">Sign Up</string>
 	<string key="ui_auto" comment="">Auto</string>
 	<string key="ui_manual" comment="">Manual</string>
-	<string key="ui_drag_instruction" comment="">Drag players to add</string>
-	<string key="ui_raid_selections_remaining" comment="">Governing company can select only {remainingSelections} players.</string>
-	<string key="ui_raid_auto_select_countdown" comment="">{totalAutoSelections} players will be auto-selected based on priority in {timeRemaining}</string>
-	<string key="ui_raid_standby_description" comment="">Wait until company selects you to join the army.</string>
-	<string key="ui_raid_selected_description" comment="">Be Online &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;by {time} {date}&lt;/font&gt;&lt;/font&gt;. If you are not online by this time, you will lose your spot.</string>
+	<string key="ui_drag_instruction" comment="">Drag players to add.</string>
+	<string key="ui_raid_selections_remaining" comment="">The governing company can select only {remainingSelections} players.</string>
+	<string key="ui_raid_auto_select_countdown" comment="">{totalAutoSelections} players will be auto-selected based on priority in {timeRemaining}.</string>
+	<string key="ui_raid_standby_description" comment="">Wait until the company selects you to join the army.</string>
+	<string key="ui_raid_selected_description" comment="">Be online &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;by {time} {date}&lt;/font&gt;&lt;/font&gt;. If you are not online at that time, you will lose your spot.</string>
 	<string key="ui_raid_not_signedup_remote_description" comment="">You have not signed up for this war. Go to a war board to sign up!</string>
 	<string key="ui_raid_not_signedup_description" comment="">You have not signed up for this war. Sign up for the war now!</string>
-	<string key="ui_invasion_standby_description" comment="">Be Online at {time} {date}, Players will be selected randomly at that time. Stay Tuned!</string>
+	<string key="ui_invasion_standby_description" comment="">Be online at {time} {date}. Players will be selected randomly at that time.</string>
 	<string key="ui_empty_roster_instruction" comment="">Drag players here\nfrom the standby list on the right.</string>
 	<string key="ui_backfill_tooltip" comment="">The company can decide how to backfill slots when selected players drop out before the war ends.</string>
-	<string key="ui_backfill_auto_tooltip" comment="">Automatically backfill players from Standby list based on sign up time.</string>
-	<string key="ui_backfill_manual_tooltip" comment="">Manually select players from Standby list to backfill abandoned spots.</string>
+	<string key="ui_backfill_auto_tooltip" comment="">Automatically backfill players from the Standby list based on sign-up time.</string>
+	<string key="ui_backfill_manual_tooltip" comment="">Manually select players from the Standby list to backfill abandoned spots.</string>
 	<string key="ui_raid_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
 	<string key="ui_raid_count_with_mercenaries" comment="">Mercenaries: &lt;font color="#ffffff"&gt;{nonCompanyNumber}&lt;/font&gt;/{nonCompanyTotal}    Total: &lt;font color="#ffffff"&gt;{number}&lt;/font&gt;/{total}</string>
 	<string key="ui_invasion_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
-	<string key="ui_promote_disabled_max_tooltip" comment="">Can't promote this player any further</string>
-	<string key="ui_demote_disabled_min_tooltip" comment="">Can't demote this player any further</string>
+	<string key="ui_promote_disabled_max_tooltip" comment="">Can't promote this player any further.</string>
+	<string key="ui_demote_disabled_min_tooltip" comment="">Can't demote this player any further.</string>
 	<string key="ui_remove_army" comment="">Remove from army</string>
-	<string key="ui_kick_raid_member_cooldown" comment="">Unable to kick from army for another {secRemaining} seconds</string>
+	<string key="ui_kick_raid_member_cooldown" comment="">Unable to kick from army for another {secRemaining} seconds.</string>
 	<string key="ui_kick_army" comment="">Kick and ban from war</string>
 	<string key="ui_kicked_from_army" comment="">You have been kicked from the army.</string>
 	<string key="ui_invasion_at" comment="">Invasion at</string>
 	<string key="ui_army_menu" comment="">Army menu</string>
+	<string key="ui_raid_kick_confirmation_title">Kicking {player}</string>
+	<string key="ui_raid_kick_confirmation_message">Are you sure you want to kick &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{player}&lt;/font&gt;?</string>
+	<string key="ui_raid_kick_confirmation_yes">Confirm</string>
+	<string key="ui_raid_kick_confirmation_no">Cancel</string>
+	<string key="ui_raid_ban_confirmation_title">Banning {player}</string>
+	<string key="ui_raid_ban_confirmation_message">Are you sure you want to kick and ban &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{player}&lt;/font&gt;?</string>
 </resources>
 

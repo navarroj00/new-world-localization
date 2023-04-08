@@ -333,10 +333,10 @@
 	<string key="0222_0001_goto" speaker="UI - Tracker Text">Search Cleave's Malice for intercepted Outpost Dispatches</string>
 	<string key="0222_0001_loot_mementos" speaker="UI - Tracker Text">Collect {itemName} and return to Eastburn Outpost</string>
 	<string key="98_M_0001_RankUp_title" speaker="UI - Quest Title">Marauder Advancement: Gladiator</string>
-	<string key="98_M_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;FACTION ADVANCEMENT QUEST&lt;/font&gt;\nEarn enough Faction Reputation to qualify for the rank of Gladiator and then complete the Trial of the Gladiator Quest from the Faction Representative in Cutlass Keys.</string>
+	<string key="98_M_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;FACTION ADVANCEMENT QUEST&lt;/font&gt;\nEarn enough Faction Reputation to qualify for the rank of Gladiator and then complete the Trial of the Gladiator Quest from the Enclave.</string>
 	<string key="98_M_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Complete missions from the Faction Board, then report to the local Magistrate</string>
 	<string key="98_M_Reach_NextMarauderRank" speaker="UI - Tracker Text">Earn Faction Reputation to face the Trial for your next Rank</string>
-	<string key="98_M_0001_CompleteTrial_Gladiator" speaker="UI - Tracker Text">Travel to Cutlass Keys and complete the Trial of the Gladiator\n(Recommended Level: 25)</string>
+	<string key="98_M_0001_CompleteTrial_Gladiator" speaker="UI - Tracker Text">Travel to the Enclave and complete the Trial of the Gladiator\n(Recommended Level: 25)</string>
 	<string key="98_M_0102_RankUp_title" speaker="UI - Quest Title">Marauder Advancement: Ravager</string>
 	<string key="98_M_0102_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;FACTION ADVANCEMENT QUEST&lt;/font&gt;\nEarn enough Faction Reputation to qualify for the rank of Ravager and then complete the Trial of the Ravager Quest from the Faction Representative in Weaver's Fen.</string>
 	<string key="98_M_0102_CompleteTrial_Ravager" speaker="UI - Tracker Text">Travel to Weaver's Fen and complete the Trial of the Ravager\n(Recommended Level: 35)</string>
@@ -347,14 +347,14 @@
 	<string key="98_M_0304_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;FACTION ADVANCEMENT QUEST&lt;/font&gt;\nEarn enough Faction Reputation to qualify for the rank of Commander and then complete the Trial of the Commander Quest from the Faction Representative in Ebonscale Reach.</string>
 	<string key="98_M_0304_CompleteTrial_Commander" speaker="UI - Tracker Text">Travel to Ebonscale Reach and complete the Trial of the Commander\n(Recommended Level: 60)</string>
 	<string key="98_M_01_combatprowess_title" speaker="UI - Quest Title">Marauder: Trial of the Gladiator</string>
-	<string key="98_M_01_combatprowess_description" speaker="UI - Quest Description">Defeat the Lost Pirate Hamidou to prove you're worthy to advance to the rank of Gladiator. Talk to Ravager Silas in Cutlass Keys when the task is complete.</string>
+	<string key="98_M_01_combatprowess_description" speaker="UI - Quest Description">Defeat the lost pirate Lawrence of the Long Shadow to prove you're worthy to advance to the rank of Gladiator. Talk to Ravager Silas at the Enclave when the task is complete.</string>
 	<string key="98_M_01_combatprowess_start_prompt" speaker="UI - Player Prompt">"Can't be too hard. You made it."</string>
 	<string key="98_M_01_combatprowess_proposal" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO="Commander_98_M_01_combatprowess_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_M_01_combatprowess_proposal_next">Oh, a really smart tongue on this one. It's a shame I don't have time to make you back it up.\n\nThis challenge will be too much anyhow, I'd bet my career you'll fail.</string>
 	<string key="98_M_01_combatprowess_proposal_prompt" speaker="UI - Player Prompt">"Just tell me what I have to do."</string>
-	<string key="98_M_01_combatprowess_proposal_next" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO="Commander_98_M_01_combatprowess_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_M_01_combatprowess_proposal_prompt">Seems you're in a hurry to experience a painful death. Fine.\n\nThe legendary warrior Hamidou - now a Lost Pirate - you'll have to defeat him in combat… you don't have a chance.</string>
-	<string key="98_M_01_combatprowess_incomplete" speaker="Ravager Silas - Cutlass Keys" gender="F">Smart. You should put off facing Hamidou for as long as possible.\n\nMaybe even forever.</string>
-	<string key="98_M_01_combatprowess_complete" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO="Commander_98_M_01_combatprowess_AvailResponse" VO_Status="Recorded">You defeated Hamidou? You? You… weasel. Just cost me a pile of azoth on that bet.\n\nVery well, you're a Gladiator. Now, get on your way before I smash your face.</string>
-	<string key="98_M_01_combatprowess_goto_POI" speaker="UI">Defeat Lost Pirate Hamidou in {POITags} to earn the rank of Gladiator</string>
+	<string key="98_M_01_combatprowess_proposal_next" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO="Commander_98_M_01_combatprowess_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_M_01_combatprowess_proposal_prompt">Seems you're in a hurry to experience a painful death. Fine.\n\nThe legendary warrior Lawrence of the Long Shadow - now a Lost Pirate - you'll have to defeat him in combat… you don't have a chance.</string>
+	<string key="98_M_01_combatprowess_incomplete" speaker="Ravager Silas - Cutlass Keys" gender="F">Smart. You should put off facing Lawrence for as long as possible.\n\nMaybe even forever.</string>
+	<string key="98_M_01_combatprowess_complete" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO_Status="Needs Recording">You defeated Lawrence? You? You… weasel. Just cost me a pile of azoth on that bet.\n\nVery well, you're a Gladiator. Now, get on your way before I smash your face.</string>
+	<string key="98_M_01_combatprowess_goto_POI" speaker="UI">Defeat Lawrence of the Long Shadow in {POITags} to earn the rank of Gladiator</string>
 	<string key="98_M_01_combatprowess_defeat_named_target" speaker="UI">Defeat {targetName}</string>
 	<string key="98_M_01b_fenravager_title" speaker="UI - Quest Title">Marauder: Trial of the Ravager</string>
 	<string key="98_M_01b_fenravager_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;FACTION TRIAL QUEST&lt;/font&gt;\nDefeat enemies across Weaver's Fen to advance to the rank of Ravager. Talk to Commander Bergeron in Weaver's Fen when the task is complete.</string>
@@ -365,7 +365,7 @@
 	<string key="98_M_01b_fenravager_complete_prompt" speaker="UI - Player Prompt">"Why won't Silas be pleased?"</string>
 	<string key="98_M_01b_fenravager_complete_next" speaker="Commander Bergeron - Weaver's Fen" name="CommanderBergeron" gender="F" VO="98_M_01b_fenravager_complete_next" VO_Status="Recorded" dialogue-prompt="@98_M_01b_fenravager_complete_prompt">She made it very well known throughout the ranks that she did not think you worthy of further advancement.\n\nBe proud, for you have certainly proven her wrong.</string>
 	<string key="98_MSC_01b_POI_FentonHamlet" speaker="UI">In Fenton Hamlet:</string>
-	<string key="98_MSC_01b_POI_Swampwater" speaker="UI">In Swampwater Fishery:</string>
+	<string key="98_MSC_01b_POI_Swampwater" speaker="UI">In Periville:</string>
 	<string key="98_MSC_01b_POI_AnglersDoom" speaker="UI">In Angler's Doom:</string>
 	<string key="98_M_01b_fenravager_killtarget_cut_down_AI" speaker="UI">Cut down {targetName} Lost</string>
 	<string key="98_M_01b_fenravager_killtarget_defeat_AI" speaker="UI">Defeat {targetName} Lost</string>
@@ -397,10 +397,10 @@
 	<string key="98_M_03_darkvengeance_goto_POI" speaker="UI">Defeat the Corrupted Ravager Silas in {POITags} to earn the rank of Commander</string>
 	<string key="98_M_03_darkvengeance_killtarget_defeat_AI" speaker="UI">Defeat {targetName}</string>
 	<string key="98_S_0001_RankUp_title" speaker="UI - Quest Title">Syndicate Advancement: Scrivener</string>
-	<string key="98_S_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;FACTION ADVANCEMENT QUEST&lt;/font&gt;\nEarn enough Faction Reputation to qualify for the rank of Scrivener and then complete the Trial of the Scrivener Quest from the Faction Representative in Brightwood.</string>
+	<string key="98_S_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;FACTION ADVANCEMENT QUEST&lt;/font&gt;\nEarn enough Faction Reputation to qualify for the rank of Scrivener and then complete the Trial of the Scrivener Quest from the Enclave.</string>
 	<string key="98_S_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Complete missions from the Faction Board, then report to the local Magistrate</string>
 	<string key="98_S_Reach_NextSyndicateRank" speaker="UI - Tracker Text">Earn Faction Reputation to face the Trial for your next Rank</string>
-	<string key="98_S_0001_CompleteTrial_Scrivener" speaker="UI - Tracker Text">Travel to Brightwood and complete the Trial of the Scrivener\n(Recommended Level: 25)</string>
+	<string key="98_S_0001_CompleteTrial_Scrivener" speaker="UI - Tracker Text">Travel to the Enclave and complete the Trial of the Scrivener\n(Recommended Level: 25)</string>
 	<string key="98_S_0102_RankUp_title" speaker="UI - Quest Title">Syndicate Advancement: Chronicler</string>
 	<string key="98_S_0102_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;FACTION ADVANCEMENT QUEST&lt;/font&gt;\nEarn enough Faction Reputation to qualify for the rank of Chronicler and then complete the Trial of the Chronicler Quest from the Faction Representative in Weaver's Fen.</string>
 	<string key="98_S_0102_CompleteTrial_Chronicler" speaker="UI - Tracker Text">Travel to Weaver's Fen and complete the Trial of the Chronicler\n(Recommended Level: 35)</string>
@@ -432,7 +432,7 @@
 	<string key="98_S_01b_fenscholar_complete_next" speaker="Alchemist Rubis -Weaver's Fen" name="AlchemistRubis" gender="F" VO="98_S_01b_fenscholar_complete_next" VO_Status="Recorded" dialogue-prompt="@98_S_01b_fenscholar_complete_prompt">It's probably folly for me to aspire to follow in Krockes's footsteps, but we'll see.\n\nEither way, you have earned your new rank. Congratulations, Chronicler {playerName}.</string>
 	<string key="98_S_01b_fenscholar_harvest_item_from_target" speaker="UI">Harvest {itemName} from {targetName} Lost</string>
 	<string key="98_S_02_necromanticchemistry_title" speaker="UI - Quest Title">Syndicate: Trial of the Cabalist</string>
-	<string key="98_S_02_necromanticchemistry_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;FACTION TRIAL QUEST&lt;/font&gt;\nPlace Psychokinetic Absorbers at strategic points in Mourningdale to earn the rank of Cabalist. Talk to Cabalist Crawford in Mourningdale when the task is done.</string>
+	<string key="98_S_02_necromanticchemistry_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;FACTION TRIAL QUEST&lt;/font&gt;\nPlace Psychokinetic Absorbers at strategic points in Mourningdale to earn the rank of Cabalist. Talk to Alchemist Crawford in Mourningdale when the task is done.</string>
 	<string key="98_S_02_necromanticchemistry_start_prompt" speaker="UI - Player Prompt">"Yes, what is the trial?"</string>
 	<string key="98_S_02_necromanticchemistry_proposal" speaker="Cabalist Crawford - Mourningdale" name="CabalistCrawford" gender="F" VO="Alchemist_98_S_02_necromanticchemistry_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_S_02_necromanticchemistry_proposal_next">For you, we have arranged for an extension of your previous work with soul traces.\n\nYou have used a Psychokinetic Absorber before - you practically made them famous!</string>
 	<string key="98_S_02_necromanticchemistry_proposal_prompt" speaker="UI - Player Prompt">"And what of Krockes?"</string>
@@ -449,21 +449,21 @@
 	<string key="98_S_03_lostnotlost_title" speaker="UI - Quest Title">Syndicate: Trial of the Alchemist</string>
 	<string key="98_S_03_lostnotlost_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;FACTION TRIAL QUEST&lt;/font&gt;\nDefeat Alchemist Krockes and absorb his soul into the Psychokinetic Absorber and then take it to the Dryads in Reekwater to destroy it to earn the rank of Alchemist. Talk to Alchemist Santos in Reekwater when the task is done.</string>
 	<string key="98_S_03_lostnotlost_start_prompt" speaker="UI - Player Prompt">"How did it happen?"</string>
-	<string key="98_S_03_lostnotlost_proposal" speaker="Alchemist Santos - Reekwater" name="AlchemistSantos" gender="M" VO="Alchemist_98_S_03_lostnotlost_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_S_03_lostnotlost_proposal_next">The way it always does with the undisciplined, too enamored of her research and her reputation.\n\nKrockes was simply not strong-minded enough, unlike you. You are ready to face your final trial, are you not?</string>
+	<string key="98_S_03_lostnotlost_proposal" speaker="Alchemist Santos - Reekwater" name="AlchemistSantos" gender="M" VO="Alchemist_98_S_03_lostnotlost_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_S_03_lostnotlost_proposal_next">The way it always does with the undisciplined, too enamored of their research and their reputation.\n\nKrockes was simply not strong-minded enough, unlike you. You are ready to face your final trial, are you not?</string>
 	<string key="98_S_03_lostnotlost_proposal_prompt" speaker="UI - Player Prompt">"I am. What must I do?"</string>
 	<string key="98_S_03_lostnotlost_proposal_next" speaker="Alchemist Santos - Reekwater" name="AlchemistSantos" gender="M" VO="Alchemist_98_S_03_lostnotlost_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_S_03_lostnotlost_proposal_prompt">You must learn the final lesson - to clean up the messes you've made.\n\nKrockes is not only Lost, he's harnessing soul power. He must be destroyed. Immediately. Don't fumble right before the finish.</string>
 	<string key="98_S_03_lostnotlost_incomplete" speaker="Alchemist Santos - Reekwater" gender="M">When you find Krockes, don't hesitate. I suspect he has become quite… volatile.</string>
-	<string key="98_S_03_lostnotlost_complete" speaker="Alchemist Santos - Reekwater" name="AlchemistSantos" gender="M" VO="Alchemist_98_S_03_lostnotlost_AvailResponse" VO_Status="Recorded">Then the deed is done? Krockes is no more. Well done!\n\nThe integrity of our research must be preserved. You have earned the disctinction and rank of Alchemist. Congratulations!</string>
+	<string key="98_S_03_lostnotlost_complete" speaker="Alchemist Santos - Reekwater" name="AlchemistSantos" gender="M" VO="Alchemist_98_S_03_lostnotlost_AvailResponse" VO_Status="Recorded">Then the deed is done? Krockes is no more. Well done!\n\nThe integrity of our research must be preserved. You have earned the distinction and rank of Alchemist. Congratulations!</string>
 	<string key="98_S_03_lostnotlost_goto_POI" speaker="UI">Use Psychokinetic Absorber on Alchemist Krockes in {POITags}</string>
 	<string key="98_S_03_lostnotlost_place_IO" speaker="UI">Place the Psychokinetic Absorber</string>
 	<string key="98_S_03_lostnotlost_killtarget_defeat_AI" speaker="UI">Defeat {targetName}</string>
 	<string key="98_S_03_lostnotlost_collect_IO" speaker="UI">Collect the Psychokinetic Absorber</string>
 	<string key="98_S_03_lostnotlost_destroy_item" speaker="UI">Destroy the Psychokinetic Absorber with the aid of the Dryads</string>
 	<string key="98_C_0001_RankUp_title" speaker="UI - Quest Title">Covenant Advancement: Templar</string>
-	<string key="98_C_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;FACTION ADVANCEMENT QUEST&lt;/font&gt;\nEarn enough Faction Reputation to qualify for the rank of Templar and then complete the Trial of the Templar Quest from the Faction Representative in Brightwood.</string>
+	<string key="98_C_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;FACTION ADVANCEMENT QUEST&lt;/font&gt;\nEarn enough Faction Reputation to qualify for the rank of Templar and then complete the Trial of the Templar Quest from Beatris Roose in the Covenant Enclave.</string>
 	<string key="98_C_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Complete missions from the Faction Board, then report to the local Magistrate</string>
 	<string key="98_C_Reach_NextCovenantRank" speaker="UI - Tracker Text">Earn Faction Reputation to face the Trial for your next Rank</string>
-	<string key="98_C_0001_CompleteTrial_Templar" speaker="UI - Tracker Text">Travel to Brightwood and complete the Trial of the Templar\n(Recommended Level: 25)</string>
+	<string key="98_C_0001_CompleteTrial_Templar" speaker="UI - Tracker Text">Travel to the Enclave and complete the Trial of the Templar\n(Recommended Level: 25)</string>
 	<string key="98_C_0102_RankUp_title" speaker="UI - Quest Title">Covenant Advancement: Excubitor</string>
 	<string key="98_C_0102_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;FACTION ADVANCEMENT QUEST&lt;/font&gt;\nEarn enough Faction Reputation to qualify for the rank of Excubitor and then complete the Trial of the Excubitor Quest from the Faction Representative in Weaver's Fen.</string>
 	<string key="98_C_0102_CompleteTrial_Excubitor" speaker="UI - Tracker Text">Travel to Weaver's Fen and complete the Trial of the Excubitor\n(Recommended Level: 35)</string>
@@ -474,15 +474,15 @@
 	<string key="98_C_0304_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;FACTION ADVANCEMENT QUEST&lt;/font&gt;\nEarn enough Faction Reputation to qualify for the rank of Adjudicator and then complete the Trial of the Adjudicator Quest from the Faction Representative in Shattered Mountain.</string>
 	<string key="98_C_0304_CompleteTrial_Adjudicator" speaker="UI - Tracker Text">Travel to Shattered Mountain and complete the Trial of the Adjudicator\n(Recommended Level: 60)</string>
 	<string key="98_C_01_theapostate_title" speaker="UI - Quest Title">Covenant: Trial of the Templar</string>
-	<string key="98_C_01_theapostate_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;FACTION TRIAL QUEST&lt;/font&gt;\nTrack down the missing Covenant Initiate Bremen Luca and attempt to discover what happened to him to advance to the rank of Templar. Talk to Templar Roose in Brightwood when the task is complete.</string>
+	<string key="98_C_01_theapostate_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;FACTION TRIAL QUEST&lt;/font&gt;\nTrack down the missing Covenant Initiate Bremen Luca and attempt to discover what happened to him to advance to the rank of Templar. Talk to Templar Roose in the Enclave when the task is complete.</string>
 	<string key="98_C_01_theapostate_start_prompt" speaker="UI - Player Prompt">"I am ready. What do I do?"</string>
-	<string key="98_C_01_theapostate_proposal" speaker="Templar Roose - Brightwood" gender="F" VO="Adjudicator_98_C_01_theapostate_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_C_01_theapostate_proposal_next">One of our number - an Initiate like yourself - has become enamored of some… unorthodox ideas.\n\nHe has attracted a following, and they all must be brought back into the fold.</string>
+	<string key="98_C_01_theapostate_proposal" speaker="Templar Roose - Everfall" gender="F" VO="Adjudicator_98_C_01_theapostate_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_C_01_theapostate_proposal_next">One of our number - an Initiate like yourself - has become enamored of some… unorthodox ideas.\n\nHe has attracted a following, and they all must be brought back into the fold.</string>
 	<string key="98_C_01_theapostate_proposal_prompt" speaker="UI - Player Prompt">"What kind of ideas?"</string>
-	<string key="98_C_01_theapostate_proposal_next" speaker="Templar Roose - Brightwood" gender="F" VO="Adjudicator_98_C_01_theapostate_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_C_01_theapostate_proposal_prompt">The kind unworthy of sharing. The Initiate is an apostate now, Bremen Luca, and he is here in Brightwood.\n\nFor your trial, find him and bring him back, whatever is required to do so.</string>
-	<string key="98_C_01_theapostate_incomplete" speaker="Templar Roose - Brightwood" gender="F">Find the Apostate and bring him back here.\n\nWe will purge these ideas from his mind, one way or another.</string>
-	<string key="98_C_01_theapostate_complete" speaker="Templar Roose - Brightwood" gender="F" VO="Adjudicator_98_C_01_theapostate_AvailResponse" VO_Status="Recorded" dialogue-next="@98_C_01_theapostate_complete_next">Ah, you have bad news… unfortunately, this is the fate awaiting any of us who stray from the path.\n\nIt was a mercy that you put him down. Did you find anything else?</string>
+	<string key="98_C_01_theapostate_proposal_next" speaker="Templar Roose - Everfall" gender="F" VO="Adjudicator_98_C_01_theapostate_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_C_01_theapostate_proposal_prompt">The kind unworthy of sharing. The Initiate is an apostate now, Bremen Luca, and he is here in Brightwood.\n\nFor your trial, find him and bring him back, whatever is required to do so.</string>
+	<string key="98_C_01_theapostate_incomplete" speaker="Templar Roose - Everfall" gender="F">Find the Apostate and bring him back here.\n\nWe will purge these ideas from his mind, one way or another.</string>
+	<string key="98_C_01_theapostate_complete" speaker="Templar Roose - Everfall" gender="F" VO="Adjudicator_98_C_01_theapostate_AvailResponse" VO_Status="Recorded" dialogue-next="@98_C_01_theapostate_complete_next">Ah, you have bad news… unfortunately, this is the fate awaiting any of us who stray from the path.\n\nIt was a mercy that you put him down. Did you find anything else?</string>
 	<string key="98_C_01_theapostate_complete_prompt" speaker="UI - Player Prompt">"These journal pages."</string>
-	<string key="98_C_01_theapostate_complete_next" speaker="Templar Roose - Brightwood" gender="F" VO="Adjudicator_98_C_01_theapostate_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@98_C_01_theapostate_complete_prompt">Excellent. I will take those and send them to Adjudicator Maras.\n\nYou have done well today and earned your promotion, Templar. May the Spark light your path!</string>
+	<string key="98_C_01_theapostate_complete_next" speaker="Templar Roose - Everfall" gender="F" VO="Adjudicator_98_C_01_theapostate_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@98_C_01_theapostate_complete_prompt">Excellent. I will take those and send them to Adjudicator Maras.\n\nYou have done well today and earned your promotion, Templar. May the Spark light your path!</string>
 	<string key="98_C_01_theapostate_goto_POI" speaker="UI">Track down Covenant Initiate Luca in {POITags} to Earn Rank of Templar</string>
 	<string key="98_C_01_theapostate_purge_AI" speaker="UI">Purge {targetName}</string>
 	<string key="98_C_01_theapostate_get_lore_page" speaker="UI">Recover Apostate Luca's journal</string>
@@ -519,137 +519,6 @@
 	<string key="98_C_03_thepathtodarkness_complete" speaker="Adjudicator Maras - Shattered Mtn" gender="F" VO="Adjudicator_98_C_03_thepathtodarkness_AvailResponse" VO_Status="Recorded">Then it is done? Spark light her way into a more peaceful place.\n\nWe have purged the Corruption from our ranks. Congratulations, I am proud to pronounce you as an Adjudicator. You are one of us, now.</string>
 	<string key="98_C_03_thepathtodarkness_goto_POI" speaker="UI">Descend into {POITags} and confront Excubitor Luca to Earn the Rank of Adjudicator.</string>
 	<string key="98_C_03_thepathtodarkness_killtarget_eliminate_AI" speaker="UI">Eliminate {targetName}</string>
-	<string key="0205_0102_Battles_Embrace_Gear_title" speaker="UI - Quest Title">Battle's Embrace</string>
-	<string key="0205_0102_Battles_Embrace_Gear_description" speaker="UI - Quest Description" gender="F">Recover the patterns and components needed to craft the Battle's Embrace Armor. Talk to Justiciar Sobol in Brightwood when the task is complete.</string>
-	<string key="0205_0102_Battles_Embrace_Gear_start_prompt" speaker="UI - Player Prompt">"Nothing worth doing is easy."</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_ProposalResponse" VO_Status="Recorded" dialogue-next="@0205_0102_Battles_Embrace_Gear_proposal_next">True, true. But I've heard of something that could help against the troubles.\n\nLegendary armor that makes the wearer into a veritable fortress!</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal_prompt" speaker="UI - Player Prompt">"What is it?"</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal_next" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_CompleteNext" VO_Status="Recorded" dialogue-next="@0205_0102_Battles_Embrace_Gear_proposal_next2" dialogue-prompt="@0205_0102_Battles_Embrace_Gear_proposal_prompt">Battle's Embrace. It was once worn by a powerful commander, who marched against the Corrupted and beat them back to Shattered Mountain.\n\nBut then the commander, and the armor, vanish from the tale.</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal_prompt2" speaker="UI - Player Prompt">"No one knows where it is?"</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal_next2" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@0205_0102_Battles_Embrace_Gear_proposal_prompt2">No, the legends are hazy on what happened after the commander reached Shattered Mountain.\n\nAll that is left are the patterns used to make the armor. With these, and some materials, the armor could be reforged.</string>
-	<string key="0205_0102_Battles_Embrace_Gear_incomplete" speaker="Justiciar Sobol - Brightwood" gender="F">Keep alert for any of the materials needed to craft Battle's Embrace.\n\nWearing that armor is sure to inspire an entire generation of new warriors to fight against the Corrupted.</string>
-	<string key="0205_0102_Battles_Embrace_Gear_complete" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_AvailResponse" VO_Status="Recorded" dialogue-next="@0205_0102_Battles_Embrace_Gear_complete_next">Do my eyes deceive me? You found all the materials to craft Battle's Embrace?\n\nYes, yes! To think, I get to see this legendary armor in action!</string>
-	<string key="0205_0102_Battles_Embrace_Gear_complete_prompt" speaker="UI - Player Prompt">"Does it look as the legends say?"</string>
-	<string key="0205_0102_Battles_Embrace_Gear_complete_next" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_CompleteNext3" VO_Status="Recorded" dialogue-prompt="@0205_0102_Battles_Embrace_Gear_complete_prompt">Yes! It's everything I hoped! May it hold you in its embrace, protecting you from the battles that surely lie ahead.\n\nI'll have quite the tale to share tonight - Battle's Embrace has returned!</string>
-	<string key="0205_0102_01_container_Battles_Embrace_questComplete_1" speaker="UI - Tracker Text">Complete Quest: Best Foot Forward</string>
-	<string key="0205_0102_02_container_Battles_Embrace_questComplete_2" speaker="UI - Tracker Text">Complete Quest: Embrace the Fight</string>
-	<string key="0205_0102_03_container_Battles_Embrace_questComplete_3" speaker="UI - Tracker Text">Complete Quest: Grievous Blows</string>
-	<string key="0205_0102_04_container_Battles_Embrace_questComplete_4" speaker="UI - Tracker Text">Complete Quest: Running the Gauntlet</string>
-	<string key="0205_0102_05_container_Battles_Embrace_questComplete_5" speaker="UI - Tracker Text">Complete Quest: Ahead of the Rest</string>
-	<string key="0205_0102_01_Boots_title" speaker="UI - Quest Title">Best Foot Forward</string>
-	<string key="0205_0102_01_Boots_description">Collect Stout Fenton Hides from Fenton Hamlet, Treated Hobnails from Cayo de la Muerte, and Restless Metal Bands from Festering Flotsam. Then visit a Tier 3 Forge to craft the Battle's Embrace Boots.</string>
-	<string key="0205_0102_01_Boots_task_01" speaker="UI - Tracker Text">Handed the recipe.</string>
-	<string key="0205_0102_01_Boots_task_02" comment="Fenton Hamlet" speaker="UI - Tracker Text">Travel to {POITags} in Weaver's Fen to collect Stout Fenton Hides</string>
-	<string key="0205_0102_01_Boots_task_03" comment="Stout Fenton Hides" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_01_Boots_task_04" comment="Cayo de la Muerte" speaker="UI - Tracker Text">Travel to the {POITags} in Cutlass Keys to collect Treated Hobnails</string>
-	<string key="0205_0102_01_Boots_task_05" comment="Treated Hobnails" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_01_Boots_task_06" comment="Festering Flotsam" speaker="UI - Tracker Text">Travel to {POITags} in Restless Shore to collect Restless Metal Bands</string>
-	<string key="0205_0102_01_Boots_task_07" comment="Restless Metal Bands" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_01_Boots_task_08" speaker="UI - Tracker Text">Visit a Forge</string>
-	<string key="0205_0102_01_Boots_task_09" speaker="UI - Tracker Text">Craft the {itemName}</string>
-	<string key="0205_0102_02_Breastplate_title" speaker="UI - Quest Title">Embrace the Fight</string>
-	<string key="0205_0102_02_Breastplate_description" speaker="UI - Tracker Text">Collect Stalwart Rivets from The Golden Princess, Evershine Polish from Gelida Pillars, and Hammered Metal from Acedia Bastion. Then visit a Tier 3 Forge to craft the Battle's Embrace Breastplate.</string>
-	<string key="0205_0102_02_Breastplate_task_01" speaker="UI - Tracker Text">Handed the recipe.</string>
-	<string key="0205_0102_02_Breastplate_task_02" comment="The Golden Princess" speaker="UI - Tracker Text">Travel to {POITags} in Restless Shore to collect Stalwart Rivets</string>
-	<string key="0205_0102_02_Breastplate_task_03" comment="Stalwart Rivets" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_02_Breastplate_task_04" comment="Gelida Pillars" speaker="UI - Tracker Text">Travel to {POITags} in Great Cleave to collect Evershine Polish</string>
-	<string key="0205_0102_02_Breastplate_task_05" comment="Evershine Polish" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_02_Breastplate_task_06" comment="Acedia Bastion" speaker="UI - Tracker Text">Travel to {POITags} in Great Cleave to collect Hammered Metal</string>
-	<string key="0205_0102_02_Breastplate_task_07" comment="Hammered Metal" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_02_Breastplate_task_08" speaker="UI - Tracker Text">Visit a Forge</string>
-	<string key="0205_0102_02_Breastplate_task_09" speaker="UI - Tracker Text">Craft the {itemName}</string>
-	<string key="0205_0102_03_Greaves_title" speaker="UI - Quest Title">Grievous Blows</string>
-	<string key="0205_0102_03_Greaves_description">Collect Baneseed Oil from Fort Damnation, Attuned Starmetal from Propus, and Reforged Plating from Olympus. Then visit a Tier 3 Forge to craft the Battle's Embrace Greaves.</string>
-	<string key="0205_0102_03_Greaves_task_01" speaker="UI - Tracker Text">Handed the recipe.</string>
-	<string key="0205_0102_03_Greaves_task_02" comment="Fort Damnation" speaker="UI - Tracker Text">Travel to {POITags} in Restless Shore to collect Baneseed Oil</string>
-	<string key="0205_0102_03_Greaves_task_03" comment="Baneseed Oil" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_03_Greaves_task_04" comment="Propus" speaker="UI - Tracker Text">Travel to {POITags} in Mourningdale to collect Attuned Starmetal</string>
-	<string key="0205_0102_03_Greaves_task_05" comment="Attuned Starmetal" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_03_Greaves_task_06" comment="Olympus" speaker="UI - Tracker Text">Travel to {POITags} in Mourningdale to collect Reforged Plating</string>
-	<string key="0205_0102_03_Greaves_task_07" comment="Reforged Plating" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_03_Greaves_task_08" speaker="UI - Tracker Text">Visit a Forge</string>
-	<string key="0205_0102_03_Greaves_task_09" speaker="UI - Tracker Text">Craft the {itemName}</string>
-	<string key="0205_0102_04_Gauntlets_title" speaker="UI - Quest Title">Running the Gauntlet</string>
-	<string key="0205_0102_04_Gauntlets_description" speaker="UI - Quest Description">Collect Refined Balefire from Svikin's Stand, Flexible Mesh from Vela, and Essence of Power from Litheltop. Then visit a Tier 3 Forge to craft the Battle's Embrace Gauntlets.</string>
-	<string key="0205_0102_04_Gauntlets_task_01" speaker="UI - Tracker Text">Handed the recipe.</string>
-	<string key="0205_0102_04_Gauntlets_task_02" comment="Svikin's Stand" speaker="UI - Tracker Text">Travel to {POITags} in Great Cleave to collect Refined Balefire</string>
-	<string key="0205_0102_04_Gauntlets_task_03" comment="Refined Balefire" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_04_Gauntlets_task_04" comment="Vela" speaker="UI - Tracker Text">Travel to {POITags} in Edengrove to collect Flexible Mesh</string>
-	<string key="0205_0102_04_Gauntlets_task_05" comment="Flexible Mesh" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_04_Gauntlets_task_06" comment="Litheltop" speaker="UI - Tracker Text">Travel to {POITags} in Mourningdale to collect Essence of Power</string>
-	<string key="0205_0102_04_Gauntlets_task_07" comment="Essence of Power" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_04_Gauntlets_task_08" speaker="UI - Tracker Text">Visit a Forge</string>
-	<string key="0205_0102_04_Gauntlets_task_09" speaker="UI - Tracker Text">Craft the {itemName}</string>
-	<string key="0205_0102_05_Helm_title" speaker="UI - Quest Title">Ahead of the Rest</string>
-	<string key="0205_0102_05_Helm_description" speaker="UI - Quest Description">Collect Rugged Varnish from Nettlevex, Shards of Battle from Lower Slag Mine, and Heavy Padding from Upper Slag Mine. Then visit a Tier 3 Forge to craft the Battle's Embrace Helm.</string>
-	<string key="0205_0102_05_Helm_task_01" speaker="UI - Tracker Text">Handed the recipe.</string>
-	<string key="0205_0102_05_Helm_task_02" comment="Nettlevex" speaker="UI - Tracker Text">Travel to {POITags} in Edengrove to collect Rugged Varnish</string>
-	<string key="0205_0102_05_Helm_task_03" comment="Rugged Varnish" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_05_Helm_task_04" comment="Lower Slag Mine" speaker="UI - Tracker Text">Travel to {POITags} in Edengrove to collect Shards of Battle</string>
-	<string key="0205_0102_05_Helm_task_05" comment="Shards of Battle" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_05_Helm_task_06" comment="Upper Slag Mine" speaker="UI - Tracker Text">Travel to {POITags} in Edengrove to collect Heavy Padding</string>
-	<string key="0205_0102_05_Helm_task_07" comment="Heavy Padding" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0205_0102_05_Helm_task_08" speaker="UI - Tracker Text">Visit a Forge</string>
-	<string key="0205_0102_05_Helm_task_09" speaker="UI - Tracker Text">Craft the {itemName}</string>
-	<string key="0204_0104_Executioner_title" speaker="UI - Quest Title">Executioner</string>
-	<string key="0204_0104_Executioner_description" speaker="UI - Quest Description">Acquire Bucaneer's Plank from Stone Skull Fort, Hangman's Binding from Wayward Mounds, Blade of the Brutes from Plundering Shark, and the Infernal Coagulant from Grus to craft the infamous Axe, "Executioner." Talk to Head Cleric Pennyfather in the Brightwood Settlement when the task is complete.</string>
-	<string key="0204_0104_Executioner_start_prompt" speaker="UI - Player Prompt">"I'd be interested in a legendary axe."</string>
-	<string key="0204_0104_Executioner_proposal" speaker="Head Cleric Pennyfather" gender="M" VO="Overseer_0204_0104_Executioner_Proposal" VO_Status="Recorded">Ah, yes. I'm interested too… wait, what were we talking about? Oh yes - the Executioner.\n\nI'll give you a list of the elements required to reforge it. They might be a challenge to find, but I think it's worth it.</string>
-	<string key="0204_0104_Executioner_incomplete" speaker="Head Cleric Pennyfather" gender="M">Oh! It's… your name is still eluding me, but I remember something about… oh yes, the axe, Executioner.\n\nGood luck finding everything you'll need.</string>
-	<string key="0204_0104_Executioner_complete" speaker="Head Cleric Pennyfather" gender="M" VO="Overseer_0204_0104_Executioner_Complete" VO_Status="Recorded">Wait a minute… this is… you found everything needed to reforge Executioner?\n\nImpressive, very impressive. That is a very effective weapon if used… properly. Wield it well.</string>
-	<string key="0203_0103_Hope_Manifest_title" speaker="UI - Quest Title">Hope Manifest</string>
-	<string key="0203_0103_Hope_Manifest_description" speaker="UI - Quest Description">Acquire Mender's Cloth from Seele's Stake, Soothsayer's Salve from Catara Falls, Mercy's Breath from Eridanus, and the Hope Catalyst from Vela to craft the legendary Life Staff, "Hope Manifest." Talk to Embalmer Bankole in Brightwood when the task is complete.</string>
-	<string key="0203_0103_Hope_Manifest_start_prompt" speaker="UI - Player Prompt">"Where would I find this staff?"</string>
-	<string key="0203_0103_Hope_Manifest_proposal" speaker="Embalmer Bankole - Brightwood" gender="M" VO="Survivalist_0203_0103_Hope_Manifest_Proposal" VO_Status="Recorded">Oh, you would not find such a thing, not for many centuries now. But I can show you to remake it.\n\nTake this list of the elements required, and then you can make the staff, "Hope Manifest."</string>
-	<string key="0203_0103_Hope_Manifest_incomplete" speaker="Embalmer Bankole - Brightwood" gender="M">You seek the elements of the staff, still?\n\nYou will find them, if you keep trying.</string>
-	<string key="0203_0103_Hope_Manifest_complete" speaker="Embalmer Bankole - Brightwood" gender="M" VO="Survivalist_0203_0103_Hope_Manifest_Complete" VO_Status="Recorded">There is the new light of Brightwood, and you found everything you needed, yes?\n\nWith that staff in hand, you are the very thing, "Hope Manifest." Brightness will follow, wherever you go.</string>
-	<string key="0204_0104_BucaneersPlank_Quest_objective_title" speaker="UI - Tracker Text">Collect items used to craft the Executioner</string>
-	<string key="0204_0104_HangmansBinding_Quest_objective_title" speaker="UI - Tracker Text">Collect items used to craft the Executioner</string>
-	<string key="0204_0104_BladeBrute_Quest_objective_title" speaker="UI - Tracker Text">Collect items used to craft the Executioner</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_objective_title" speaker="UI - Tracker Text">Collect items then craft the Executioner</string>
-	<string key="0204_0104_BucaneersPlank_Quest_description" speaker="UI - Quest Description">The most treacherous of pirates only know one love: the sea's embrace.</string>
-	<string key="0204_0104_HangmansBinding_Quest_description" speaker="UI - Quest Description">Those bound to their fates in a gallows cannot escape them. Only you can deliver them.</string>
-	<string key="0204_0104_BladeBrute_Quest_description" speaker="UI - Quest Description">The most brutal of us must give away their mercy, for they have none to show their foes.</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_description" speaker="UI - Quest Description">Even the hottest blood running through veins oft still into fetid darkness.</string>
-	<string key="0203_0103_MendersCloth_Quest_objective_title" speaker="UI - Tracker Text">Collect items used to craft Hope Manifest</string>
-	<string key="0203_0103_SoothsayerSalve_Quest_objective_title" speaker="UI - Tracker Text">Collect items used to craft Hope Manifest</string>
-	<string key="0203_0103_MercysBreath_Quest_objective_title" speaker="UI - Tracker Text">Collect items used to craft Hope Manifest</string>
-	<string key="0203_0103_HopeCatalyst_Quest_objective_title" speaker="UI - Tracker Text">Collect items then craft Hope Manifest</string>
-	<string key="0203_0103_MendersCloth_Quest_description" speaker="UI - Quest Description">Healing lies in the cloth of the mender, who dresses wounds carefully like an aegis.</string>
-	<string key="0203_0103_SoothsayerSalve_Quest_description" speaker="UI - Quest Description">Healing lies in the salve of the sooth sayer, a calming touch to numb pain.</string>
-	<string key="0203_0103_MercysBreath_Quest_description" speaker="UI - Quest Description">Healing lies in the Breath of Mercy, a gift from the Fates who continue to weave.</string>
-	<string key="0203_0103_HopeCatalyst_Quest_description" speaker="UI - Quest Description">Healing lies in hope, the hope to live, and those who catalyze that hope.</string>
-	<string key="0204_0104_BucaneersPlank_Quest_task_01" comment="Stone Skull Fort" speaker="UI - Tracker Text">Travel to {POITags} in Cutlass Keys to collect Bucaneer's Plank</string>
-	<string key="0204_0104_BucaneersPlank_Quest_task_02" comment="Bucaneer's Plank" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0204_0104_HangmansBinding_Quest_task_01" comment="Wayward Mounds" speaker="UI - Tracker Text">Travel to {POITags} in Great Cleave to collect Hangman's Binding</string>
-	<string key="0204_0104_HangmansBinding_Quest_task_02" comment="Hangman's Binding" speaker="UI - Tracker Text">Collect {itemName} from Ghoul, Revenant, and Geist enemies</string>
-	<string key="0204_0104_HangmansBinding_Quest_task_03" comment="Hangman's Binding" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0204_0104_BladeBrute_Quest_task_01" comment="Plundering Shark" speaker="UI - Tracker Text">Travel to {POITags} in Restless Shore to collect Blade of the Brutes</string>
-	<string key="0204_0104_BladeBrute_Quest_task_02" comment="Blade of the Brutes" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_01" comment="Grus" speaker="UI - Tracker Text">Travel to {POITags} in Mourningdale to collect the Infernal Coagulant</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_02" comment="Infernal Coagulant" speaker="UI - Tracker Text">Collect {itemName} from {targetName}</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_03" speaker="UI - Tracker Text">Handed the recipe.</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_04" speaker="UI - Tracker Text">Visit a Forge</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_05" speaker="UI - Tracker Text">Create the {itemName}</string>
-	<string key="0203_0103_MendersCloth_Quest_task_01" comment="Seele's Stake" speaker="UI - Tracker Text">Travel to {POITags} in Restless Shore to collect Mender's Cloth</string>
-	<string key="0203_0103_MendersCloth_Quest_task_02" comment="Mender's Cloth" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0203_0103_SoothsayerSalve_Quest_task_01" comment="Catara Falls" speaker="UI - Tracker Text">Travel to {POITags} in Great Cleave to collect Soothsayer's Salve</string>
-	<string key="0203_0103_SoothsayerSalve_Quest_task_02" comment="Soothsayer's Salve" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0203_0103_MercysBreath_Quest_task_01" comment="Eridanus" speaker="UI - Tracker Text">Travel to {POITags} in Restless Shore to collect Mercy's Breath</string>
-	<string key="0203_0103_MercysBreath_Quest_task_02" comment="Mercy's Breath" speaker="UI - Tracker Text">Collect {itemName} from {targetName} enemies</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_01" comment="Vela" speaker="UI - Tracker Text">Travel to {POITags} in Mourningdale to collect Hope Catalyst</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_02" comment="Hope Catalyst" speaker="UI - Tracker Text">Collect {itemName} from {targetName}</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_03" speaker="UI - Tracker Text">Handed the recipe.</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_04" speaker="UI - Tracker Text">Visit an Arcane Station</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_05" speaker="UI - Tracker Text">Create {itemName}</string>
-	<string key="0203_0103_01_container_Weapon_Hope_Manifest_questComplete_1" speaker="UI - Tracker Text">Complete Quest: Cut from the Same Cloth</string>
-	<string key="0203_0103_02_container_Weapon_Hope_Manifest_questComplete_2" speaker="UI - Tracker Text">Complete Quest: Salvaging the Salve</string>
-	<string key="0203_0103_03_container_Weapon_Hope_Manifest_questComplete_3" speaker="UI - Tracker Text">Complete Quest: Merciful Fates</string>
-	<string key="0203_0103_04_container_Weapon_Hope_Manifest_questComplete_4" speaker="UI - Tracker Text">Complete Quest: Source of Hope</string>
-	<string key="0204_0104_01_container_Weapon_Executioner_questComplete_1" speaker="UI - Tracker Text">Complete Quest: Walking the Plank</string>
-	<string key="0204_0104_02_container_Weapon_Executioner_questComplete_2" speaker="UI - Tracker Text">Complete Quest: The Ties that Bind</string>
-	<string key="0204_0104_03_container_Weapon_Executioner_questComplete_3" speaker="UI - Tracker Text">Complete Quest: Shakespearean Brutality</string>
-	<string key="0204_0104_04_container_Weapon_Executioner_questComplete_4" speaker="UI - Tracker Text">Complete Quest: Thicker than Water</string>
 	<string key="0240_0101_Curiosity_title" speaker="UI - Quest Title" quest_id="0240_0101_Curiosity">Corrupted Curiosity</string>
 	<string key="0240_0101_Curiosity_description" speaker="UI - Quest Description" quest_id="0240_0101_Curiosity">Use an Ice Gauntlet to defeat the Corrupted at Harplass Homestead and investigate why the town was burnt to the ground for Khione Kaszynski.</string>
 	<string key="0240_0101_Curiosity_start_prompt" speaker="UI - Player Prompt" quest_id="0240_0101_Curiosity">"I like mysteries. Could I help?"</string>
