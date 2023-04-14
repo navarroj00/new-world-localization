@@ -412,5 +412,16 @@
 	<string key="Emote_HandHeart" rel_version="Emote_HandHeart">{playerName} makes a heart with his hands.</string>
 	<string key="Emote_HandHeart_SHE" rel_version="Emote_HandHeart">{playerName} makes a heart with her hands.</string>
 	<string key="Emote_HandHeart_THEY" rel_version="Emote_HandHeart">{playerName} makes a heart with their hands.</string>
+	<string key="ui_emote_Walk_Drunk_name" rel_version="Emote_Stumbling_Walk">Stumble Home Walk</string>
+	<string key="ui_emote_Walk_Drunk_description" rel_version="Emote_Stumbling_Walk">A walk suitable for traveling between the tavern and your house, if you can remember where it is.</string>
+	<string key="Emote_Walk_Drunk" rel_version="Emote_Stumbling_Walk">{playerName} walks drunkenly.</string>
+	<string key="ui_emote_HipTwistDance_name" rel_version="Emote_Dance_HipTwist">Hip Twist</string>
+	<string key="ui_emote_HipTwistDance_description" rel_version="Emote_Dance_HipTwist">The dance craze that is sweeping across Aeternum!</string>
+	<string key="Emote_HipTwistDance" rel_version="Emote_Dance_HipTwist">{playerName} twists his hips rhythmically.</string>
+	<string key="Emote_HipTwistDance_SHE" rel_version="Emote_Dance_HipTwist">{playerName} twists her hips rhythmically.</string>
+	<string key="Emote_HipTwistDance_THEY" rel_version="Emote_Dance_HipTwist">{playerName} twists their hips rhythmically.</string>
+	<string key="ui_emote_PointLaugh_name" rel_version="Emote_PointAndLaugh">Point and Laugh</string>
+	<string key="ui_emote_PointLaugh_description" rel_version="Emote_PointAndLaugh">Ha ha!</string>
+	<string key="Emote_PointLaugh" rel_version="Emote_PointAndLaugh">{playerName} points and laughs.</string>
 </resources>
 
