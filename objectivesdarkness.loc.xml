@@ -83,9 +83,13 @@
 	<string key="ui_holdout_chamber_Obj_Task_01_desc" rel_version="Quest_MSQ2_Revamp">Interact with glyph to begin trial</string>
 	<string key="ui_holdout_chamber_Obj_Task_02" rel_version="Quest_MSQ2_Revamp">Survive the Trial</string>
 	<string key="ui_holdout_chamber_Obj_Task_02_desc" rel_version="Quest_MSQ2_Revamp">Time Remaining:</string>
+	<string key="ui_lostattack_swampwaterfishery" rel_version="Event_SpringtideBloom_Perm">The Ancient Device</string>
+	<string key="ui_lostattack_swampwaterfishery_description" rel_version="Event_SpringtideBloom_Perm">A strange device in an abandoned fishery... what could go wrong?</string>
 	<string key="objective_lostattack_swampwaterfishery_title">Ancient Device</string>
 	<string key="objective_lostattack_swampwaterfishery_desc">Investigate the Ancient Device on the side of the river.</string>
 	<string key="objective_lostattack_swampwaterfishery_wave_01">Defend Ancient Device: {remainingCount}/1 \nTime Remaining:</string>
+	<string key="ui_lostattack_piscarianfishery" rel_version="Event_SpringtideBloom_Perm">The Ancient Implement</string>
+	<string key="ui_lostattack_piscarianfishery_description" rel_version="Event_SpringtideBloom_Perm">A strange Ancient implement in an abandoned fishery... what could go wrong?</string>
 	<string key="objective_lostattack_piscarianfishery_title">Ancient Device:</string>
 	<string key="objective_lostattack_piscarianfishery_desc">Investigate the Ancient Device on the boardwalk.</string>
 	<string key="objective_lostattack_piscarianfishery_wave_01">Defend Ancient Device: {remainingCount}/1 \nTime Remaining:</string>

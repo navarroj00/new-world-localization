@@ -288,6 +288,14 @@
 	<string key="SeasonsActivities_Complete2PvpFactionMissions" rel_version="Feature_Seasons_Rewards">Complete PvP Faction Missions</string>
 	<string key="SeasonsActivities_FlawlessVictoryInPvpArena" rel_version="Feature_Seasons_Rewards">Earn a Flawless Victory in PVP Arena</string>
 	<string key="SeasonsActivities_UseFlameCoreForgex1" rel_version="Feature_Seasons_Rewards">Craft a Cast at the Flame Core Forge</string>
+	<string key="SeasonsActivities_CraftUsingTimelessShard" rel_version="Feature_Seasons_Rewards">Craft Tier 5 Items using Timeless Shards</string>
+	<string key="SeasonsActivities_CraftUsingPoultryThigh" rel_version="Feature_Seasons_Rewards">Cook Tier 5 Recipes that specifically require Poultry Thigh</string>
+	<string key="SeasonsActivities_CraftUsingSumptuousRabbit" rel_version="Feature_Seasons_Rewards">Cook Tier 5 Recipes that specifically require Sumptuous Rabbit</string>
+	<string key="SeasonsActivities_CraftUsingPrimeArmadillo" rel_version="Feature_Seasons_Rewards">Cook Tier 5 Recipes that specifically require Prime Armadillo Meat</string>
+	<string key="SeasonsActivities_SalvageT5Named" rel_version="Feature_Seasons_Rewards">Salvage Tier 5 Named Items</string>
+	<string key="SeasonsActivities_ConsumeT5Coating" rel_version="Feature_Seasons_Rewards">Use Tier 5 Weapon Coatings</string>
+	<string key="SeasonsActivities_ConsumeT5TradeskillConsumable" rel_version="Feature_Seasons_Rewards">Use Tier 5 Crafting Consumables</string>
+	<string key="SeasonsActivities_ConsumeT5ResistanceConsumable" rel_version="Feature_Seasons_Rewards">Use Tier 5 Resistance Consumables</string>
 	<string key="SeasonsRewardTrack_Activity" rel_version="Feature_Seasons_Rewards">Activity Card</string>
 	<string key="SeasonsRewardTrack_PurchaseLevels" rel_version="Feature_Seasons_Rewards">Purchase Levels</string>
 	<string key="SeasonsRewardTrack_Free" rel_version="Feature_Seasons_Rewards">Free</string>
@@ -303,6 +311,8 @@
 	<string key="SeasonsRewardTrack_Levels" rel_version="Feature_Seasons_Rewards">Season Levels</string>
 	<string key="SeasonsRewardTrack_Timer" rel_version="Feature_Seasons_Rewards">Ends:</string>
 	<string key="SeasonsRewardTrack_Header" rel_version="Feature_Seasons_Rewards">Season Pass Rewards</string>
+	<string key="SeasonsRewardTrack_Unclaimed_Rewards" rel_version="Feature_Seasons_Rewards">&lt;font color={color}&gt;{amount}&lt;/font&gt; Unclaimed</string>
+	<string key="SeasonsRewardTrack_Current_Level" rel_version="Feature_Seasons_Rewards">View current level</string>
 	<string key="SeasonsRewardTrack_PremiumSelectErrorNotification" rel_version="Feature_Seasons_Rewards">Please select a Premium Pass to purchase.</string>
 	<string key="SeasonsRewardTrack_Season1WelcomeText" rel_version="Feature_Seasons_Rewards">Season 1 is now active!\n\nEarn Season XP by completing your Journey Chapters and Activity Cards.</string>
 	<string key="SeasonsRewardTrack_JourneyLevelRequirementTooltip" rel_version="Feature_Seasons_Rewards">You must be level {level} to access the Season Journey.</string>

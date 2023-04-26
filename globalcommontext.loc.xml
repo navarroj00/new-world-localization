@@ -445,6 +445,7 @@
 	<string key="ui_hold">{Button} (Hold)</string>
 	<string key="ui_holdetogiveup">Press [E] to give up</string>
 	<string key="ui_horseequipment">Horse Equipment</string>
+	<string key="ui_rotation_ended">Ended</string>
 	<string key="ui_hour">hour</string>
 	<string key="ui_hours">hours</string>
 	<string key="ui_hours:">hours:</string>
@@ -2669,6 +2670,7 @@
 	<string key="ui_probation_account_restriction">Purchase of New World is required for this feature.</string>
 	<string key="ui_item_skinning_disabled">Item Skinning Disabled</string>
 	<string key="ui_camp_skins_disabled">Camp Skins Disabled</string>
+	<string key="attribution_SpringtideBloom_2023" rel_version="Event_SpringtideBloom_Perm">Springtide Bloom 2023</string>
 	<string key="ui_event_reputation_title">Event Reputation</string>
 	<string key="ui_event_reputation_description">Event Reputation unlocks new items for purchase at the Event Shop.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; Completing Event Missions&lt;/font&gt;</string>
 	<string key="attribution_RabbitSeason_2023" rel_version="Feature_RabbitSeasonPerm">Rabbit's Revenge 2023</string>

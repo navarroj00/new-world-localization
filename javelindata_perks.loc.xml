@@ -1478,7 +1478,7 @@
 	<string key="PerkID_Earring_ManaRegen_Name">Focused</string>
 	<string key="PerkID_Earring_ManaRegen_Description">+{[AffixStatDataTable.Affix_Earring_ManaRegen.ManaRate * 100 {perkMultiplier}]}% Mana regeneration.</string>
 	<string key="PerkID_Earring_StaminaRegen_Name">Nimble</string>
-	<string key="PerkID_Earring_StaminaRegen_Description">+{[AffixStatDataTable.Affix_Earring_StaminaRegen.StaminaRate * 100 * {perkMultiplier}]}% Stamina regeneration.</string>
+	<string key="PerkID_Earring_StaminaRegen_Description">+{[AffixStatDataTable.Affix_Earring_StaminaRegen.StaminaRate * 100 * {perkMultiplier}]}% Stamina regeneration rate.</string>
 	<string key="PerkID_Earring_ThreatAdd_Name">Despised</string>
 	<string key="PerkID_Earring_ThreatAdd_Description">Generate {[GlobalAbilityTable.Global_Earring_ThreatAdd.ThreatDamage * 100 * {perkMultiplier}]}% more threat.</string>
 	<string key="PerkID_Earring_ThreatSub_Name">Beloved</string>

@@ -19,15 +19,11 @@
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Azoth Salt is a currency that allows you to acquire rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, killing players in the open world, and earning XP while flagged.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">REWARDS</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
-	<string key="ui_rabbit_season_panel1_title" rel_version="Feature_RabbitSeason">Rabbits' Revenge</string>
-	<string key="ui_rabbit_season_panel1_subtitle" rel_version="Feature_RabbitSeason">Shhh…we're hunting Corrupted rabbits to get their rewards!</string>
-	<string key="ui_rabbit_season_panel1_bullet1_title" rel_version="Feature_RabbitSeason">Defiled Rabbit's Foot</string>
-	<string key="ui_rabbit_season_panel1_bullet1_text" rel_version="Feature_RabbitSeason">Nothing says Spring like the dismembered metacarpus of an afflicted rabbit, which grants 5% Luck for 40 minutes when used. Collect up to 5 of them daily.</string>
-	<string key="ui_rabbit_season_panel1_bullet2_title" rel_version="Feature_RabbitSeason">Diamond Gypsum</string>
-	<string key="ui_rabbit_season_panel1_bullet2_text" rel_version="Feature_RabbitSeason">Their connection with this valuable resource is not clear, but these hopping harbingers drop Diamond Gypsum! Collect up to 3 of them per day during the event.</string>
-	<string key="ui_rabbit_season_panel1_bullet3_title" rel_version="Feature_RabbitSeason">Chest Hare</string>
-	<string key="ui_rabbit_season_panel1_bullet3_text" rel_version="Feature_RabbitSeason">An exceedingly rare drop, the Defiled Storage Chest of the Hare adds 1,050 pounds of weight capacity and an integrated Corruption aesthetic to your home.</string>
-	<string key="ui_rabbit_season_calendar_event_button_about" rel_version="Feature_RabbitSeason">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About Rabbits' Revenge</string>
+	<string key="ui_event_spring_shop_header" rel_version="Event_SpringtideBloom_Temp">Springtide Bloom</string>
+	<string key="ui_event_spring_progress_name" rel_version="Event_SpringtideBloom_Temp">Event Reputation</string>
+	<string key="ui_event_spring_rank_0" rel_version="Event_SpringtideBloom_Temp">Blossom</string>
+	<string key="ui_event_spring_rank_1" rel_version="Event_SpringtideBloom_Temp">Shepard</string>
+	<string key="ui_event_spring_rank_2" rel_version="Event_SpringtideBloom_Temp">Herald</string>
 	<string key="ui_event_weapon_xp_tabname">XP Event</string>
 	<string key="ui_event_weapon_xp_title">WEAPON XP BONUS EVENT</string>
 	<string key="ui_event_weapon_xp_desc">Active bonuses:</string>
@@ -156,19 +152,18 @@
 	<string key="ui_event_mar_mtx_bullet1" rel_version="Entitlements_FirelightSeason">Armors</string>
 	<string key="ui_event_mar_mtx_bullet2" rel_version="Entitlements_FirelightSeason">Weapons</string>
 	<string key="ui_event_mar_mtx_bullet3" rel_version="Entitlements_FirelightSeason">Emotes</string>
-	<string key="ui_event_rabbits_revenge_tabname" rel_version="Feature_RabbitSeason">Rabbit's Revenge</string>
-	<string key="ui_event_rabbits_revenge_title" rel_version="Feature_RabbitSeason">Rabbit's Revenge</string>
-	<string key="ui_event_rabbits_revenge_description" rel_version="Feature_RabbitSeason">Just as the chill of Winter has begun to fade, a new terror sends shivers throughout the island of Aeternum. Aye, the scourge of Corrupted coneys has returned to inflict their confounding mix of cuteness and horror. Fortunately, these fearsome fluff-balls also bear enticing rewards to those brave heroes who would smite them! So smite them you shall, and rewarded will you be!</string>
-	<string key="ui_event_rabbits_revenge_bullet1" rel_version="Feature_RabbitSeason">Daily Rewards</string>
-	<string key="ui_event_rabbits_revenge_bullet2" rel_version="Feature_RabbitSeason">Rare Skin</string>
-	<string key="ui_event_rabbits_revenge_bullet3" rel_version="Feature_RabbitSeason">Rare Chest</string>
-	<string key="ui_event_rabbits_revenge_about" rel_version="Feature_RabbitSeason">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Rabbit's Revenge</string>
+	<string key="ui_event_springtide_bloom_tabname" rel_version="Event_SpringtideBloom_Temp">Springtide Bloom</string>
+	<string key="ui_event_springtide_bloom_title" rel_version="Event_SpringtideBloom_Temp">Springtide Bloom</string>
+	<string key="ui_event_springtide_bloom_description" rel_version="Event_SpringtideBloom_Temp">The Time of Awakening has arrived! Springtide Bloom calls its Children to share an ancient secret capable of granting true freedom. Help the enigmatic Bloom Herald unravel the mysteries of the ethereal Wispybloom and collect Springtide's fertile bounty of limited-time rewards. Harvest with caution, as swarms of vile Wispy Wasps guard the blooms with fury! Questline starts at level 25. Springtide Villages are located in Monarch's Bluff, Everfall, Weavers Fen, and Brightwood.</string>
+	<string key="ui_event_springtide_bloom_bullet1" rel_version="Event_SpringtideBloom_Temp">Springtide Village</string>
+	<string key="ui_event_springtide_bloom_bullet2" rel_version="Event_SpringtideBloom_Temp">Wispybloom Flowers</string>
+	<string key="ui_event_springtide_bloom_about" rel_version="Event_SpringtideBloom_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Springtide Bloom</string>
 	<string key="ui_event_apr_mtx_tabname" rel_version="Entitlements_Highwayman">Store</string>
-	<string key="ui_event_apr_mtx_title" rel_version="Entitlements_Highwayman">Highway Man</string>
-	<string key="ui_event_apr_mtx_description" rel_version="Entitlements_Highwayman">Scoundrels and brigands are on the loose in Aeternum! Outfit yourself in the store with new Highwayman items and join their ranks. Don the garb of the Ringleader and take charge with three variants of headgear - perfect for whatever level of disguise you require!</string>
+	<string key="ui_event_apr_mtx_title" rel_version="Entitlements_Highwayman">Highwaymen</string>
+	<string key="ui_event_apr_mtx_description" rel_version="Entitlements_Highwayman">Scoundrels and brigands are on the loose in Aeternum! Outfit yourself in the store with new Highwaymen items and join their ranks. Don the garb of the Ringleader and take charge with three variants of headgear - perfect for whatever level of disguise you require!</string>
 	<string key="ui_event_apr_mtx_bullet1" rel_version="Entitlements_Highwayman">Apparel Skins</string>
 	<string key="ui_event_apr_mtx_bullet2" rel_version="Entitlements_Highwayman">Weapon Skins</string>
 	<string key="ui_event_apr_mtx_bullet3" rel_version="Entitlements_Highwayman">Emotes</string>
-	<string key="ui_event_apr_mtx_about" rel_version="Entitlements_Highwayman">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Highway Man</string>
+	<string key="ui_event_apr_mtx_about" rel_version="Entitlements_Highwayman">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Highwaymen</string>
 </resources>
 

@@ -746,6 +746,8 @@
 	<string key="AnubianBrute_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Anubian Automaton</string>
 	<string key="AnubianPanther_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Sphinx Automaton</string>
 	<string key="16BS_LootContainer_Elite_LegionStoneTomb_DisplayName" rel_version="Territory_Brimstone_Sands">Elite Grave Offerings</string>
+	<string key="Springtide_Wispybloom_DisplayName" rel_version="Event_SpringtideBloom_Temp">Wispybloom</string>
+	<string key="Springtide_WispySpritzPlantSite_DisplayName" rel_version="Event_SpringtideBloom_Temp">Plant Wispy Spritz</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">War Camp Chest</string>
 	<string key="1130_ArcaneFocus1_DisplayName">Arcane Focus</string>
 	<string key="1130_ArcaneFocus2_DisplayName">Arcane Focus</string>
@@ -1045,6 +1047,10 @@
 	<string key="99B_MSQ_11_BrightwatchHistory_DisplayName" rel_version="Quest_MSQ2_Brightwood">Read the History</string>
 	<string key="Dungeon_GreatCleave_01_GemGather" rel_version="Expedition_GreatCleave_01">Amirite Cluster</string>
 	<string key="95_s01_05_ChurchFundCabinet" rel_version="Season_1_Perm">Collect Funds</string>
+	<string key="SpringtideBloom_Village_GiftBag_DisplayName" rel_version="Event_SpringtideBloom_Temp">Delightful Gift Sack</string>
+	<string key="SpringtideBloom_Village_GiftBag_Description" rel_version="Event_SpringtideBloom_Temp">Collect a delightful present each day to celebrate and revel in the excitement of Springtide Bloom!</string>
+	<string key="SpringtideBloom_Settlement_GiftBag_DisplayName" rel_version="Event_SpringtideBloom_Temp">Joyous Gift Pile</string>
+	<string key="SpringtideBloom_Settlement_GiftBag_Description" rel_version="Event_SpringtideBloom_Temp">Collect a joyous gift each day to celebrate and revel in the excitement of Springtide Bloom!</string>
 	<string key="02A_Side08_CoffinA_DisplayName" rel_version="Quest_MSQ2_Brightwood">Open Coffin</string>
 	<string key="95_s01_06_TEMP_SupplyChain_Footprints">Investigate footprints</string>
 	<string key="13A_SQ_01_FogBed_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Clear Magical Fog</string>
