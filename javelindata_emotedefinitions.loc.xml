@@ -344,7 +344,7 @@
 	<string key="ui_emote_Pout_description" rel_version="Emote_Pout">Things aren't going your way. Show it.</string>
 	<string key="emote_Pout" rel_version="Emote_Pout">{playerName} pouts.</string>
 	<string key="ui_emote_DevilHornRock_name" rel_version="Emote_DevilHornRock">Rock Horns</string>
-	<string key="ui_emote_DevilHornRock_description" rel_version="Emote_DevilHornRock">Pledge your soul to the devil.</string>
+	<string key="ui_emote_DevilHornRock_description" rel_version="Emote_DevilHornRock">Rock on!</string>
 	<string key="emote_DevilHornRock" rel_version="Emote_DevilHornRock">{playerName} makes devil horns with his fingers.</string>
 	<string key="emote_DevilHornRock_SHE" rel_version="Emote_DevilHornRock">{playerName} makes devil horns with her fingers.</string>
 	<string key="emote_DevilHornRock_THEY" rel_version="Emote_DevilHornRock">{playerName} makes devil horns with their fingers.</string>
@@ -423,5 +423,13 @@
 	<string key="ui_emote_PointLaugh_name" rel_version="Emote_PointAndLaugh">Point and Laugh</string>
 	<string key="ui_emote_PointLaugh_description" rel_version="Emote_PointAndLaugh">Ha ha!</string>
 	<string key="Emote_PointLaugh" rel_version="Emote_PointAndLaugh">{playerName} points and laughs.</string>
+	<string key="ui_emote_ArmWaveDance_name" rel_version="Emote_BreakdanceArmwave">The Arm Wave</string>
+	<string key="ui_emote_ArmWaveDance_description" rel_version="Emote_BreakdanceArmwave">When you're feeling it, bust out the arm wave dance.</string>
+	<string key="Emote_ArmWaveDance" rel_version="Emote_BreakdanceArmwave">{playerName} makes a wave with his arms.</string>
+	<string key="Emote_ArmWaveDance_SHE" rel_version="Emote_BreakdanceArmwave">{playerName} makes a wave with her arms.</string>
+	<string key="Emote_ArmWaveDance_THEY" rel_version="Emote_BreakdanceArmwave">{playerName} makes a wave with their arms.</string>
+	<string key="ui_emote_Walk_Fashion_name" rel_version="Emote_FashionWalk">Fashion Walk</string>
+	<string key="ui_emote_Walk_Fashion_description" rel_version="Emote_FashionWalk">Strut your stuff!</string>
+	<string key="Emote_Walk_Fashion" rel_version="Emote_FashionWalk">{playerName} walks confidently and fashionably.</string>
 </resources>
 

@@ -131,7 +131,7 @@
 	<string key="ui_seasons_task_Complete1War_name" rel_version="Feature_Seasons_Rewards">War-rior</string>
 	<string key="ui_seasons_task_Complete1War_desc" rel_version="Feature_Seasons_Rewards">Participate in a War</string>
 	<string key="ui_seasons_task_Complete2Invasions_name" rel_version="Feature_Seasons_Rewards">Holding the Fort</string>
-	<string key="ui_seasons_task_CompleteInvasions_desc" rel_version="Feature_Seasons_Rewards">Complete {maxCount} Invasions</string>
+	<string key="ui_seasons_task_CompleteInvasions_desc" rel_version="Feature_Seasons_Rewards">Complete {maxCount} Invasion</string>
 	<string key="ui_seasons_task_Win1OutpostRushBy750Points_name" rel_version="Feature_Seasons_Rewards">Outpost Rush Domination</string>
 	<string key="ui_seasons_task_Win1OutpostRushByPoints_desc" rel_version="Feature_Seasons_Rewards">Win an Outpost Rush by more than {score} points</string>
 	<string key="ui_seasons_task_Kill500PlayersInOpenWorld_name" rel_version="Feature_Seasons_Rewards">Serial Killer</string>
@@ -209,8 +209,8 @@
 	<string key="ui_seasons_task_CompleteFellowshipAndFireSeasonalStory_desc" rel_version="Feature_Seasons_Rewards">Complete the Fellowship &#038; Fire Seasonal Story</string>
 	<string key="ui_seasons_task_Craft25GS600UsingFlameCore_name" rel_version="Feature_Seasons_Rewards">Flame Core Hoarder</string>
 	<string key="ui_seasons_task_Craft25GS600UsingFlameCore_desc" rel_version="Feature_Seasons_Rewards">Craft 25 GS600 item with Flame Cores.</string>
-	<string key="ui_seasons_task_Complete25M10ExpeditionWithGoldRank_name" rel_version="Feature_Seasons_Rewards">Give Me Gold Or Give Me Death!</string>
-	<string key="ui_seasons_task_Complete25M10ExpeditionWithGoldRank_desc" rel_version="Feature_Seasons_Rewards">Complete 25 M10 Expeditions with a gold rating or higher</string>
+	<string key="ui_seasons_task_Complete25M10ExpeditionWithGoldRank_name" rel_version="Feature_Seasons_Rewards">Mutation Master</string>
+	<string key="ui_seasons_task_Complete25M10ExpeditionWithGoldRank_desc" rel_version="Feature_Seasons_Rewards">Complete 25 M10 Expeditions with a silver rating or higher</string>
 	<string key="ui_seasons_task_Complete10MutatedExpeditionsFlawlessly_name" rel_version="Feature_Seasons_Rewards">Defying Death</string>
 	<string key="ui_seasons_task_Complete10MutatedExpeditionsFlawlessly_desc" rel_version="Feature_Seasons_Rewards">Complete 10 Mutated Expeditions without anyone in your group dying</string>
 	<string key="ui_seasons_task_LocateLostEasel_name" rel_version="Feature_Seasons_Rewards">Easy Easels</string>
@@ -286,7 +286,7 @@
 	<string key="SeasonsActivities_Spend250AzothSalt" rel_version="Feature_Seasons_Rewards">Spend Azoth</string>
 	<string key="SeasonsActivities_Place1Decoration" rel_version="Feature_Seasons_Rewards">Place a Decoration in Your House</string>
 	<string key="SeasonsActivities_Complete2PvpFactionMissions" rel_version="Feature_Seasons_Rewards">Complete PvP Faction Missions</string>
-	<string key="SeasonsActivities_FlawlessVictoryInPvpArena" rel_version="Feature_Seasons_Rewards">Earn a Flawless Victory in PVP Arena</string>
+	<string key="SeasonsActivities_FlawlessVictoryInPvpArena" rel_version="Feature_Seasons_Rewards">Earn a Victory in PVP Arena</string>
 	<string key="SeasonsActivities_UseFlameCoreForgex1" rel_version="Feature_Seasons_Rewards">Craft a Cast at the Flame Core Forge</string>
 	<string key="SeasonsActivities_CraftUsingTimelessShard" rel_version="Feature_Seasons_Rewards">Craft Tier 5 Items using Timeless Shards</string>
 	<string key="SeasonsActivities_CraftUsingPoultryThigh" rel_version="Feature_Seasons_Rewards">Cook Tier 5 Recipes that specifically require Poultry Thigh</string>
@@ -327,5 +327,13 @@
 	<string key="SeasonsRewardTrack_PartialClaimWarning" rel_version="Feature_Seasons_Rewards">One or more of the items in this reward are already claimed on this account</string>
 	<string key="ui_seasonpassrewardsinfo">&lt;img src="LyShineUI/Images/Icons/Misc/icon_question_orange" scale="2" yOffset="5"&gt;&lt;/img&gt;  Season Pass Rewards Information</string>
 	<string key="url_seasonpassrewardsinfo">https://www.newworld.com/en-us/news/articles/season-pass-free-and-premium-reward-tracks-faq</string>
+	<string key="SeasonsRewardTrack_SoftDisabledNotification" rel_version="Feature_Seasons_Rewards">Seasons activities are currently disabled</string>
+	<string key="SeasonsActivities_KillPOIMyrkgard" rel_version="Feature_Seasons_Rewards">Kill Enemies in Myrkgard</string>
+	<string key="SeasonsActivities_KillPOIImperialPalace" rel_version="Feature_Seasons_Rewards">Kill Enemies in the Imperial Palace</string>
+	<string key="SeasonsActivities_KillPOIMalevolence" rel_version="Feature_Seasons_Rewards">Kill Enemies in Malevolence</string>
+	<string key="SeasonsActivities_KillPOIEternalPool" rel_version="Feature_Seasons_Rewards">Kill Enemies in the Eternal Pool</string>
+	<string key="SeasonsActivities_KillPOIBedsOfTaBitJet" rel_version="Feature_Seasons_Rewards">Kill Enemies in the Beds of Ta-Bitjet</string>
+	<string key="SeasonsActivities_KillNamed" rel_version="Feature_Seasons_Rewards">Kill Named Enemies</string>
+	<string key="SeasonsActivities_KillElite" rel_version="Feature_Seasons_Rewards">Kill Elite Enemies</string>
 </resources>
 
