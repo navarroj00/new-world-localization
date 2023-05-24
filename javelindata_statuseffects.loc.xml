@@ -1583,8 +1583,6 @@
 	<string key="Status_Timer_ChargedHeavyRend_Description" rel_version="MorePerksV1">When this ends, you can trigger the Trenchant Rend perk again.</string>
 	<string key="Wispy_Wasp_Swarm_Tick_DisplayName">Bleeding</string>
 	<string key="Wispy_Wasp_Swarm_Tick_Tooltip">Bleeding for {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.HealthModifierDamageBased * -100]}% base health Physical damage every {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.TickRate]} seconds for {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.BaseDuration]} seconds.</string>
-	<string key="Wispy_Wasp_Swarm_Repellent_DisplayName" rel_version="Event_SpringtideBloom_Temp">Wispy Wasp Repellent</string>
-	<string key="Wispy_Wasp_Swarm_Repellent_Description" rel_version="Event_SpringtideBloom_Temp">Protects against pesky Wispy Wasp stings.</string>
 	<string key="Blunderbuss_ChargeCooldown_Name" rel_version="Weapon_Blunderbuss">Double Down</string>
 	<string key="Blunderbuss_ChargeCooldown_Desc" rel_version="Weapon_Blunderbuss">Your next blunderbuss skill recharges quicker.</string>
 	<string key="Blunderbuss_ChargeCooldownOnCooldown_Desc" rel_version="Weapon_Blunderbuss">When this expires you can use your Double Down passive again.</string>
@@ -1626,7 +1624,6 @@
 	<string key="Status_DodgeStamina_Timer_Description" rel_version="MorePerksV2">When this ends, you can trigger the Shirking Energy perk again.</string>
 	<string key="Status_GatherProc_Heal" rel_version="MorePerksV2">Gathering Heal</string>
 	<string key="Status_GatherProc_Heal_Description" rel_version="MorePerksV2">Regenerating Health from the Gathering Recovery Perk.</string>
-	<string key="Wispy_Wasp_Swarm_ResetToFlower_DisplayName" rel_version="Event_SpringtideBloom_Temp">Guarding Wispybloom</string>
 	<string key="Status_MothersLove" rel_version="Housing_MothersLove_Memorial">Mother's Love</string>
 	<string key="Status_MothersLove_Description" rel_version="Housing_MothersLove_Memorial">You feel a guiding and motherly presence upon you, increasing Luck by {[Type_StatusEffectData.Shrine_MothersLove.GlobalRollMod * 0.01]}% for {[Type_StatusEffectData.Shrine_MothersLove.BaseDuration / 60]}m.</string>
 	<string key="Dungeon_RelicBubble" rel_version="Expedition_ShatterMtn_00">Reliquary</string>

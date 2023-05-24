@@ -19,11 +19,6 @@
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Azoth Salt is a currency that allows you to acquire rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, killing players in the open world, and earning XP while flagged.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">REWARDS</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
-	<string key="ui_event_spring_shop_header" rel_version="Event_SpringtideBloom_Temp">Springtide Bloom</string>
-	<string key="ui_event_spring_progress_name" rel_version="Event_SpringtideBloom_Temp">Event Reputation</string>
-	<string key="ui_event_spring_rank_0" rel_version="Event_SpringtideBloom_Temp">Blossom</string>
-	<string key="ui_event_spring_rank_1" rel_version="Event_SpringtideBloom_Temp">Shepard</string>
-	<string key="ui_event_spring_rank_2" rel_version="Event_SpringtideBloom_Temp">Herald</string>
 	<string key="ui_event_weapon_xp_tabname">XP Event</string>
 	<string key="ui_event_weapon_xp_title">WEAPON XP BONUS EVENT</string>
 	<string key="ui_event_weapon_xp_desc">Active bonuses:</string>
@@ -152,12 +147,6 @@
 	<string key="ui_event_mar_mtx_bullet1" rel_version="Entitlements_FirelightSeason">Armors</string>
 	<string key="ui_event_mar_mtx_bullet2" rel_version="Entitlements_FirelightSeason">Weapons</string>
 	<string key="ui_event_mar_mtx_bullet3" rel_version="Entitlements_FirelightSeason">Emotes</string>
-	<string key="ui_event_springtide_bloom_tabname" rel_version="Event_SpringtideBloom_Temp">Springtide Bloom</string>
-	<string key="ui_event_springtide_bloom_title" rel_version="Event_SpringtideBloom_Temp">Springtide Bloom</string>
-	<string key="ui_event_springtide_bloom_description" rel_version="Event_SpringtideBloom_Temp">The Time of Awakening has arrived! Springtide Bloom calls its Children to share an ancient secret capable of granting true freedom. Help the enigmatic Bloom Herald unravel the mysteries of the ethereal Wispybloom and collect Springtide's fertile bounty of limited-time rewards. Harvest with caution, as swarms of vile Wispy Wasps guard the blooms with fury! Questline starts at level 25. Springtide Villages are located in Monarch's Bluff, Everfall, Weavers Fen, and Brightwood.</string>
-	<string key="ui_event_springtide_bloom_bullet1" rel_version="Event_SpringtideBloom_Temp">Springtide Village</string>
-	<string key="ui_event_springtide_bloom_bullet2" rel_version="Event_SpringtideBloom_Temp">Wispybloom Flowers</string>
-	<string key="ui_event_springtide_bloom_about" rel_version="Event_SpringtideBloom_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Springtide Bloom</string>
 	<string key="ui_event_apr_mtx_tabname" rel_version="Entitlements_Highwayman">Store</string>
 	<string key="ui_event_apr_mtx_title" rel_version="Entitlements_Highwayman">Highwaymen</string>
 	<string key="ui_event_apr_mtx_description" rel_version="Entitlements_Highwayman">Scoundrels and brigands are on the loose in Aeternum! Outfit yourself in the store with new Highwaymen items and join their ranks. Don the garb of the Ringleader and take charge with three variants of headgear - perfect for whatever level of disguise you require!</string>
@@ -165,6 +154,12 @@
 	<string key="ui_event_apr_mtx_bullet2" rel_version="Entitlements_Highwayman">Weapon Skins</string>
 	<string key="ui_event_apr_mtx_bullet3" rel_version="Entitlements_Highwayman">Emotes</string>
 	<string key="ui_event_apr_mtx_about" rel_version="Entitlements_Highwayman">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Highwaymen</string>
+	<string key="ui_event_fury_of_the_spriggan_tabname" rel_version="Season_1_Event">Fury of the Spriggan</string>
+	<string key="ui_event_fury_of_the_spriggan_title" rel_version="Season_1_Event">Fury of the Spriggan</string>
+	<string key="ui_event_fury_of_the_spriggan_description" rel_version="Season_1_Event">With the Ennead awakened, the Angry Earth are rising up around Aeternum! Put a stop to their rituals as they attempt to awaken furious Spriggans. Earn unique daily rewards for your efforts as you quell these rituals in Brightwood, Weavers Fen, Mourningdale, Ebonscale Reach, and Edengrove.</string>
+	<string key="ui_event_fury_of_the_spriggan_bullet1" rel_version="Season_1_Event">Daily Armor Pieces</string>
+	<string key="ui_event_fury_of_the_spriggan_bullet2" rel_version="Season_1_Event">Daily Weapons</string>
+	<string key="ui_event_fury_of_the_spriggan_about" rel_version="Season_1_Event">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Fury of the Spriggan</string>
 	<string key="ui_event_may_mtx_title" rel_version="Entitlements_MedievalHistoric">Knights Errant</string>
 	<string key="ui_event_may_mtx_description" rel_version="Entitlements_MedievalHistoric">Dost thou hath weapons and armor from the days of Yore? Gothic skins based on real designs from the 16th and 17th centuries are now available to buy in the store. Smite your foes while wearing solid steel fit for a hero of old, or strike terror in your enemies while clad in menacing armor. Regardless of your choice, your rivals will shudder in fear when you brandish thine weapon. With these tried and true armaments, victory on the field of battle is nearly ensured.</string>
 	<string key="ui_event_may_mtx_bullet1" rel_version="Entitlements_MedievalHistoric">Armors</string>
