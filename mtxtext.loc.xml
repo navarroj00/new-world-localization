@@ -119,7 +119,8 @@
 	<string key="reward_type_tooltip_itemskin" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;ITEM SKINS&lt;/font&gt; : You can apply a skin by clicking on armor, tools and weapons in your inventory and then selecting “Change Skin.”</string>
 	<string key="reward_type_tooltip_campskin" rel_version="Feature_Camp_Skins">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;CAMP SKINS&lt;/font&gt; : You can apply the skin by selecting “Change Skin” from your camp.</string>
 	<string key="reward_type_tooltip_itemdye" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;DYES&lt;/font&gt; : You can use a dye by clicking on armor in your inventory and then selecting “Dye Armor."</string>
-	<string key="reward_type_tooltip_token" rel_version="Feature_Seasons_Consumable_Tokens">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;BOOSTERS&lt;/font&gt; : You can use a booster by opening the Boosters menu from your inventory.</string>
+	<string key="reward_type_tooltip_token" rel_version="Feature_Seasons_Consumable_Tokens">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;BOOSTERS&lt;/font&gt; : You can use a booster by opening the Augments menu from your inventory.</string>
+	<string key="reward_type_tooltip_permit" rel_version="Feature_Seasons_Consumable_Tokens">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;EMOTE PERMITS&lt;/font&gt; : You can use an Emote Permit by opening the Augments menu from your inventory.</string>
 	<string key="reward_type_tooltip_guildcrest" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;CRESTS&lt;/font&gt; : You can apply crests in the Company screen.</string>
 	<string key="reward_type_tooltip_housing_item" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;HOUSING ITEMS&lt;/font&gt; : You can place housing items in Housing Decoration mode when you are in your house.</string>
 	<string key="reward_type_tooltip_player_title" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;TITLES&lt;/font&gt; : You can apply a title in the Bio tab of the Character menu and then “Change title.”</string>
@@ -135,6 +136,7 @@
 	<string key="ui_disabled_freeplayer_description" rel_version="Feature_MTX">Purchase New World to access the store.</string>
 	<string key="ui_preview_emote">Preview Emote</string>
 	<string key="ui_preview_skin">Preview Skin</string>
+	<string key="ui_preview_cooldown">Preview Cooldown: {timeRemaining}</string>
 	<string key="ui_end_preview">End Preview</string>
 	<string key="ui_preview_item_withname">{itemName} Preview</string>
 	<string key="ui_limited_time">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Limited Time&lt;/font&gt;</string>
@@ -1036,6 +1038,16 @@
 	<string key="reward_type_Toolskin_skinningknife">Skinning Knife Skin</string>
 	<string key="reward_type_Toolskin_harvestingsickle">Harvesting Sickle Skin</string>
 	<string key="reward_type_Toolskin_azothstaff">Azoth Staff Skin</string>
+	<string key="Token_PremiumEmote_Firework1_name" rel_version="Feature_Premium_Emotes">Flower Firework Emote Permit</string>
+	<string key="Token_PremiumEmote_Firework1_description" rel_version="Feature_Premium_Emotes">A dazzling blast of color! Allows use of the Flower Rocket Firework emote for 2 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
+	<string key="Token_PremiumEmote_Firework2_name" rel_version="Feature_Premium_Emotes">Dynasty Firework Emote Permit</string>
+	<string key="Token_PremiumEmote_Firework2_description" rel_version="Feature_Premium_Emotes">Blood red holiday fun! Allows use of the Dynasty Rocket Firework emote for 2 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
+	<string key="Token_PremiumEmote_Firework3_name" rel_version="Feature_Premium_Emotes">Dryad Firework Emote Permit</string>
+	<string key="Token_PremiumEmote_Firework3_description" rel_version="Feature_Premium_Emotes">An explosion of emerald! Allows use of the Dryad Rocket Firework emote for 2 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
+	<string key="Token_PremiumEmote_Firework4_name" rel_version="Feature_Premium_Emotes">Ancient Firework Emote Permit</string>
+	<string key="Token_PremiumEmote_Firework4_description" rel_version="Feature_Premium_Emotes">Purple explosion! Allows use of the Ancient Rocket Firework emote for 2 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
+	<string key="Token_PremiumEmote_Firework5_name" rel_version="Feature_Premium_Emotes">Shooting Star Firework Emote Permit</string>
+	<string key="Token_PremiumEmote_Firework5_description" rel_version="Feature_Premium_Emotes">Caution! May emit showers of sparks! Allows use of the Shooting Star Firework emote for 2 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
 	<string key="Apparel_Highwayman_Capelet_name" rel_version="Apparel_Highwayman_1">Ringleader</string>
 	<string key="Apparel_Highwayman_Tricorn_name" rel_version="Apparel_Highwayman_2">Frayed Scoundrel</string>
 	<string key="Apparel_Highwayman_PrickleRust_name" rel_version="Apparel_Highwayman_3">Tarnished Soul</string>
@@ -1057,5 +1069,13 @@
 	<string key="Bundle_PR_MedievalHistoric_Apparel_description" rel_version="Entitlements_MedievalHistoric">Encase yourself in a shell of steel or end up in a coffin of wood.\n\nIncludes two apparel variants, one marked with the scars of battle!</string>
 	<string key="Bundle_PR_MedievalHistoric_Weapon_name" rel_version="Entitlements_MedievalHistoric">Weapons of Yore</string>
 	<string key="Bundle_PR_MedievalHistoric_Weapon_description" rel_version="Entitlements_MedievalHistoric">Steel from centuries past, if well maintained, is just as deadly as any crafted today.</string>
+	<string key="reward_type_emote_permit" rel_version="Feature_Premium_Emotes">Emote Permit</string>
+	<string key="Emote_Premium_Firework1_x10_name" rel_version="Feature_Premium_Emotes">Flower Firework Emote Permit 10-Pack</string>
+	<string key="Emote_Premium_Firework2_x10_name" rel_version="Feature_Premium_Emotes">Dynasty Firework Emote Permit 10-Pack</string>
+	<string key="Emote_Premium_Firework3_x10_name" rel_version="Feature_Premium_Emotes">Dryad Firework Emote Permit 10-Pack</string>
+	<string key="Emote_Premium_Firework4_x10_name" rel_version="Feature_Premium_Emotes">Ancient Firework Emote Permit 10-Pack</string>
+	<string key="Emote_Premium_Firework5_x10_name" rel_version="Feature_Premium_Emotes">Shooting Star Firework Emote Permit 10-Pack</string>
+	<string key="Emote_Premium_Firework_Show_Pack_name" rel_version="Feature_Premium_Emotes">Firework Show Variety Pack</string>
+	<string key="Emote_Premium_Firework_Show_Pack_description" rel_version="Feature_Premium_Emotes">Wow your friends with a dazzling firework show! Just be sure to keep water on hand to extinguish any potential fires.\nIncludes five each of the Flower, Dynasty, Dryad, Ancient and Shooting Star Firework Permits.</string>
 </resources>
 

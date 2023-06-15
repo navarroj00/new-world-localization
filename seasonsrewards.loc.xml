@@ -215,10 +215,12 @@
 	<string key="ui_seasons_task_Complete10MutatedExpeditionsFlawlessly_desc" rel_version="Feature_Seasons_Rewards">Complete 10 Mutated Expeditions without anyone in your group dying</string>
 	<string key="ui_seasons_task_LocateLostEasel_name" rel_version="Feature_Seasons_Rewards">Easy Easels</string>
 	<string key="ui_seasons_task_LocateLostEasel_desc" rel_version="Feature_Seasons_Rewards">Locate a Lost Easel</string>
-	<string key="token_toggle_popup" rel_version="Feature_Seasons_Consumable_Tokens">Boosters</string>
-	<string key="token_show_popup" rel_version="Feature_Seasons_Consumable_Tokens">Boosters</string>
-	<string key="token_list_header" rel_version="Feature_Seasons_Consumable_Tokens">Boosters</string>
+	<string key="token_toggle_popup" rel_version="Feature_Seasons_Consumable_Tokens">Boosters &#038; Permits</string>
+	<string key="token_show_popup" rel_version="Feature_Seasons_Consumable_Tokens">Boosters &#038; Permits</string>
+	<string key="token_list_header" rel_version="Feature_Seasons_Consumable_Tokens">Boosters &#038; Permits</string>
+	<string key="token_command_openmenu" rel_version="Feature_Premium_Emotes">Open Boosters &#038; Permits</string>
 	<string key="token_use_new_header" rel_version="Feature_Seasons_Consumable_Tokens">Use Booster</string>
+	<string key="permit_use_new_header" rel_version="Feature_Seasons_Consumable_Tokens">Use Permit</string>
 	<string key="token_use_new_body" rel_version="Feature_Seasons_Consumable_Tokens">Activate {boostName} for this character?\n\nThis effect will last {duration}.</string>
 	<string key="token_add_time_header" rel_version="Feature_Seasons_Consumable_Tokens">Add Time</string>
 	<string key="token_add_time_body" rel_version="Feature_Seasons_Consumable_Tokens">Add {duration} to the {boostName}?\n\nNew time remaining: {newDuration}</string>

@@ -46,15 +46,17 @@
 	<string key="emote_thumbsup" rel_version="New_World_Launch">{playerName} gives the thumbs up</string>
 	<string key="emote_wave">{playerName} waves</string>
 	<string key="emote_whistle" rel_version="Emote_Whistle">{playerName} whistles long and low</string>
-	<string key="emote_firework1" rel_version="Entitlements_November">{playerName} lit a Chrysanthemum Rocket</string>
-	<string key="emote_firework2" rel_version="Entitlements_November">{playerName} lit a 2 Rocket</string>
-	<string key="emote_firework3" rel_version="Entitlements_November">{playerName} lit a 3 Rocket</string>
-	<string key="emote_firework4" rel_version="Entitlements_November">{playerName} lit a 4 Rocket</string>
-	<string key="emote_firework5" rel_version="Entitlements_November">{playerName} lit a 5 Rocket</string>
+	<string key="emote_firework1" rel_version="Entitlements_November">{playerName} lit a Flower Rocket.</string>
+	<string key="emote_firework2" rel_version="Entitlements_November">{playerName} lit a Dynasty Rocket.</string>
+	<string key="emote_firework3" rel_version="Entitlements_November">{playerName} lit a Dryad Rocket.</string>
+	<string key="emote_firework4" rel_version="Entitlements_November">{playerName} lit an Ancient Rocket.</string>
+	<string key="emote_firework5" rel_version="Entitlements_November">{playerName} lit a Shooting Star Rocket.</string>
 	<string key="emote_blowkiss" rel_version="New_World_Launch">{playerName} blows a kiss</string>
 	<string key="emote_ahoy" rel_version="New_World_Launch">{playerName} strikes a pose</string>
 	<string key="emote_fingerwag" rel_version="New_World_Launch">{playerName} says no no no</string>
 	<string key="emote_RussianDance" rel_version="Emote_Leg_Kick_Dance">{playerName} begins a traditional dance</string>
+	<string key="emote_command_openmenu">Open Emote Menu</string>
+	<string key="emote_command_tooltip">Once you use this Permit, you can perform this emote from the Emote Menu</string>
 	<string key="ui_emote">Emote</string>
 	<string key="ui_emotes">Emotes</string>
 	<string key="ui_emote_unavailable_reason">This emote is only available for {entitlementRequirements}</string>
@@ -119,6 +121,12 @@
 	<string key="ui_emote_Push_Ups" rel_version="Emote_Pushups">Push Ups</string>
 	<string key="ui_emote_Flex_3">Arm Flex</string>
 	<string key="ui_emote_Golf_Clap">Courteous Applause</string>
+	<string key="ui_emote_Firework1" rel_version="Feature_Premium_Emotes">Flower Rocket</string>
+	<string key="ui_emote_Firework2" rel_version="Feature_Premium_Emotes">Dynasty Rocket</string>
+	<string key="ui_emote_Firework3" rel_version="Feature_Premium_Emotes">Dryad Rocket</string>
+	<string key="ui_emote_Firework4" rel_version="Feature_Premium_Emotes">Ancient Rocket</string>
+	<string key="ui_emote_Firework5" rel_version="Feature_Premium_Emotes">Shooting Star Rocket</string>
+	<string key="ui_emote_Firework6" rel_version="Feature_Premium_Emotes">Fountain</string>
 	<string key="ui_emote_sit_description">"Take a seat and rest awhile."</string>
 	<string key="ui_emote_flex_description">Flex Emote Description</string>
 	<string key="ui_emote_flex2_description">"Doth my imposing stature impress thee?"</string>
@@ -157,6 +165,12 @@
 	<string key="ui_emote_Push_Ups_description" rel_version="Emote_Pushups">"Dost thou even lift, brother?"</string>
 	<string key="ui_emote_Flex_3_description">"Show your strength."</string>
 	<string key="ui_emote_Golf_Clap_description">"A job well done!"</string>
+	<string key="ui_emote_Firework1_description" rel_version="Feature_Premium_Emotes">Fires a rocket into the air. Explodes in a burst of color.</string>
+	<string key="ui_emote_Firework2_description" rel_version="Feature_Premium_Emotes">Fires a rocket into the air. Explodes in a burst of Dynasty colors.</string>
+	<string key="ui_emote_Firework3_description" rel_version="Feature_Premium_Emotes">Fires a rocket into the air. Explodes in a burst of Dryad colors.</string>
+	<string key="ui_emote_Firework4_description" rel_version="Feature_Premium_Emotes">Fires a rocket into the air. Explodes in a burst of Ancient colors.</string>
+	<string key="ui_emote_Firework5_description" rel_version="Feature_Premium_Emotes">Fires a rocket into the air. Shooting Stars rain across the sky</string>
+	<string key="ui_emote_Firework6_description" rel_version="Feature_Premium_Emotes">Fires a rocket into the air. Bursts into a fountain of sparks.</string>
 	<string key="UI_emote_RussianDance_name" rel_version="Emote_Leg_Kick_Dance">Leg Kick Dance</string>
 	<string key="UI_emote_RussianDance_description" rel_version="Emote_Leg_Kick_Dance">"A traditional dance."</string>
 	<string key="emote_Shiver" rel_version="Emote_Shiver">{playerName} shivers violently. Brrr!</string>
