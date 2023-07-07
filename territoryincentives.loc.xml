@@ -1,15 +1,15 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="ui_eow_company_title">{territoryName} is now yours!</string>
-	<string key="ui_eow_company_subtitle">{factionName} is now in control of {territoryName}</string>
-	<string key="ui_eow_company_benefits">As a governing company member you get:</string>
-	<string key="ui_eow_faction_title">{territoryName} is now yours!</string>
+	<string key="ui_eow_company_title">{territoryName} is yours!</string>
+	<string key="ui_eow_company_subtitle">{territoryName} is now under {factionName} control.</string>
+	<string key="ui_eow_company_benefits">Governing Company Member Bonuses</string>
+	<string key="ui_eow_faction_title">{territoryName} is yours!</string>
 	<string key="ui_eow_faction_subtitle">Members of the controlling faction and company receive the following bonuses.</string>
-	<string key="ui_eow_faction_company_benefits">Governing Company members:</string>
-	<string key="ui_eow_faction_faction_benefits">Faction members:</string>
+	<string key="ui_eow_faction_company_benefits">Governing Company Member Bonuses</string>
+	<string key="ui_eow_faction_faction_benefits">Faction Member Bonuses</string>
 	<string key="ui_eow_others_title">Territory Incentives</string>
 	<string key="ui_eow_others_subtitle">Members of the controlling faction and company receive the following bonuses.</string>
-	<string key="ui_eow_others_company_benefits">Governing Company members:</string>
-	<string key="ui_eow_others_faction_benefits">Faction members:</string>
+	<string key="ui_eow_others_company_benefits">Governing Company Member Bonuses</string>
+	<string key="ui_eow_others_faction_benefits">Faction Member Bonuses</string>
 	<string key="ui_eow_company_fast_travel_title">Discount for Fast Travel</string>
 	<string key="ui_eow_company_fast_travel_subtitle">to {territoryName}</string>
 	<string key="ui_eow_company_tax_title">Discount for Taxes</string>
@@ -28,18 +28,18 @@
 	<string key="ui_eow_faction_global_luck_subtitle">in {territoryName}</string>
 	<string key="ui_eow_faction_gathering_title">Gathering Bonus</string>
 	<string key="ui_eow_faction_gathering_subtitle">in {territoryName}</string>
-	<string key="ui_eow_howto_run_a_town">How do I run a town?</string>
+	<string key="ui_eow_howto_run_a_town">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; How do I run a town?</string>
 	<string key="ui_eow_close">Close</string>
 	<string key="ui_eow_invalid_territory_id">[InvalidTerritoryId]</string>
 	<string key="ui_eow_invalid_faction_id">[InvalidFactionId]</string>
 	<string key="ui_eow_default_territory_name">the territory</string>
-	<string key="ui_run_a_town_popup_title">How to Run a Town</string>
-	<string key="ui_run_a_town_popup_desc">Make sure to pay territory upkeep at the Governor's Desk to prevent the town from downgrading.\n\nTo upgrade the town, start a town project at Territory planning board.\n\nComplete town projects with other players.</string>
+	<string key="ui_run_a_town_popup_title">Town Management</string>
+	<string key="ui_run_a_town_popup_desc">Pay territory upkeep at the Governor's Desk to prevent the town from downgrading.\n\nTo upgrade the town, start a town project at the Territory Planning Board.\n\nComplete town projects with other players.</string>
 	<string key="ui_run_a_town_popup_close_button_text">OK</string>
 	<string key="ui_eow_territory_owner_change_win_title">New {factionName} Territory</string>
 	<string key="ui_eow_territory_owner_change_lose_title">Lost Bonuses</string>
 	<string key="ui_eow_territory_owner_change_win_text">{territoryName} is now {factionName}'s territory.\nFind out more about bonuses you can get in {territoryName}.</string>
-	<string key="ui_eow_territory_owner_change_lose_text">{territoryName} is now {factionName}'s territory.\nYou are no longer getting faction bonuses in {territoryName}.</string>
+	<string key="ui_eow_territory_owner_change_lose_text">{territoryName} is now {factionName}'s territory.\nYou are no longer receiving faction bonuses in {territoryName}.</string>
 	<string key="ui_eow_territory_owner_change_chat_message">{territoryName} territory is now claimed by {guildName}</string>
 </resources>
 

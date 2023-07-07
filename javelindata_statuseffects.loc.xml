@@ -67,6 +67,8 @@
 	<string key="PotionBoostVoidAbsT4_Tooltip">Increases Void Absorption by {[Type_StatusEffectData.PotionBoostVoidAbsT4.ABSCorruption * 100]}%.</string>
 	<string key="PotionBoostVoidAbsT5_Tooltip">Increases Void Absorption by {[Type_StatusEffectData.PotionBoostVoidAbsT5.ABSCorruption * 100]}%.</string>
 	<string key="eating_DisplayName">Basic Health Recovery</string>
+	<string key="AI_Season_02_Malek_Sandstorm_DisplayName" rel_version="Season_2_Temp">Sandstorm</string>
+	<string key="AI_Season_02_Malek_Sandstorm_Tooltip" rel_version="Season_2_Temp">The fury of the sands rages, damaging you.</string>
 	<string key="drinking_DisplayName">Drinking</string>
 	<string key="feasting_DisplayName">Feasting</string>
 	<string key="ResetAI_DisplayName">Retreating</string>
@@ -554,7 +556,7 @@
 	<string key="Mut_Nat_Curse3_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Shrivelled Nature</string>
 	<string key="Mut_Voi_Curse3_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Shrivelled Void</string>
 	<string key="Mut_Curse3_Weaken_DisplayName" rel_version="Feature_Dungeon_Mutators">Shrivelled</string>
-	<string key="Mut_Curse3_Weaken_Tooltip" rel_version="Feature_Dungeon_Mutators">All damage dealt reduced by {[Type_StatusEffectData.Mut_Curse3_Weaken.DMGStandard * -100]}% and all healing applied reduced by {[Type_StatusEffectData.Mut_Curse3_Weaken.HealScalingValueMultiplier * -100]}%.</string>
+	<string key="Mut_Curse3_Weaken_Tooltip" rel_version="Feature_Dungeon_Mutators">All damage dealt reduced by {[Type_StatusEffectData.Mut_Curse3_Weaken.DMGStandard * -100]}% and all damage based healing is reduced by {[Type_StatusEffectData.Mut_Curse3_Weaken.HealScalingValueMultiplier * -100]}%.</string>
 	<string key="Mut_Curse4_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Truncated</string>
 	<string key="Mut_Fir_Curse4_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Blowback Fire</string>
 	<string key="Mut_Ice_Curse4_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Blowback Ice</string>
@@ -619,7 +621,7 @@
 	<string key="BruteBlast_DisplayName">Blast Burn</string>
 	<string key="BruteBlast_Description">Deals {[Type_StatusEffectData.PirateBrute_Blast.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.PirateBrute_Blast.TickRate]} seconds for {[Type_StatusEffectData.PirateBrute_Blast.BaseDuration]}.</string>
 	<string key="UndeadBrute_Consume_DisplayName">Full Stomach</string>
-	<string key="UndeadBrute_Consume_Description">Heals for {[Type_StatusEffectData.UndeadBrute_Consume.HealthModifierPercent * 100]}% base health every {[Type_StatusEffectData.UndeadBrute_Consume.TickRate]} seconds and increases base damage by {[Type_StatusEffectData.UndeadBrute_Consume.DMGStandard]} for {[Type_StatusEffectData.UndeadBrute_Consume.BaseDuration]} seconds.</string>
+	<string key="UndeadBrute_Consume_Description">Increases base damage by {[Type_StatusEffectData.UndeadBrute_Consume.DMGStandard]} for {[Type_StatusEffectData.UndeadBrute_Consume.BaseDuration]} seconds.</string>
 	<string key="Legion_Inspire_Buff" rel_version="Territory_Brimstone_Sands">Inspired</string>
 	<string key="Legion_HeroOfLegion_Buff" rel_version="Territory_Brimstone_Sands">Hero of Legion</string>
 	<string key="Legion_HeroOfLegion_Crassus_Buff" rel_version="Territory_Brimstone_Sands">Heroes of Legion</string>
@@ -661,6 +663,7 @@
 	<string key="AI_ProjectileShield_Buff_DisplayName">Phalanx</string>
 	<string key="AI_RotatingBeam_Buff_DisplayName">Slicer</string>
 	<string key="AI_Geyser_Buff_DisplayName">Geyser</string>
+	<string key="AI_SiegeBreaker_Buff_DisplayName">Siegebreaker</string>
 	<string key="AI_Slime_Buff_DisplayName">Slimy</string>
 	<string key="AI_Slime_Slow_DisplayName">Sticky</string>
 	<string key="AI_Slime_Slow_Tooltip">Movement speed reduced by {[Type_StatusEffectData.AI_Slime_Slow.MoveSpeedMod * -100]}%.</string>
@@ -697,7 +700,7 @@
 	<string key="AI_Thorpe_Burn_DisplayName">Umbrous Burn</string>
 	<string key="AI_Thorpe_Burn_Tooltip">Burning for {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierPercent * -100]}% base health Fire damage every {[Type_StatusEffectData.AI_Thorpe_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_Thorpe_Burn.BaseDuration]} seconds.</string>
 	<string key="AI_Thorpe_FTUE_Burn_DisplayName">Burn</string>
-	<string key="AI_Thorpe_FTUE_Burn_Tooltip">Burning for {[Type_StatusEffectData.AI_Thorpe_FTUE_Burn.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Thorpe_FTUE_Burn.HealthModifierPercent * -100]}% base health Fire damage every {[Type_StatusEffectData.AI_Thorpe_FTUE_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_Thorpe_FTUE_Burn.BaseDuration]} seconds.</string>
+	<string key="AI_Thorpe_FTUE_Burn_Tooltip">Burning for {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierPercent * -100]}% base health Fire damage every {[Type_StatusEffectData.AI_Thorpe_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_Thorpe_Burn.BaseDuration]} seconds.</string>
 	<string key="AI_Evil_Knight_Fire_Champion_HeatingUp" rel_version="Expedition_GreatCleave_01">Heating Up</string>
 	<string key="AI_Evil_Knight_Fire_Champion_HeatingUp_Tooltip" rel_version="Expedition_GreatCleave_01">The Commander is burning with so much rage he might just explode.</string>
 	<string key="AI_Evil_Knight_Fire_Champion_Overheat_DisplayName" rel_version="Expedition_GreatCleave_01">Overheat</string>
@@ -742,6 +745,7 @@
 	<string key="TotemDisease_DisplayName">Disease Aura</string>
 	<string key="TotemDisease_Tooltip">Reduces healing taken by {[Type_StatusEffectData.TotemDisease.HealMod * -100]}%. Stacks with other Disease effects.</string>
 	<string key="AI_ChainLightning_DisplayName">Chain Lightning</string>
+	<string key="AI_SirenEnableChainLightning_DisplayName">Electrified</string>
 	<string key="AI_DryadSiren_Electrified_DisplayName" rel_version="Expedition_CutlassKeys_00">Electrified</string>
 	<string key="AI_DryadSiren_Erosion_Debuff_DisplayName" rel_version="Expedition_CutlassKeys_00">Erosion</string>
 	<string key="AI_DryadSiren_Erosion_Debuff_Tooltip" rel_version="Expedition_CutlassKeys_00">You suffer {[Type_StatusEffectData.AI_DryadSiren_Erosion_Debuff.ABSStandard * -100]}% increased damage from all sources for {[Type_StatusEffectData.AI_DryadSiren_Erosion_Debuff.BaseDuration]} seconds.</string>
@@ -771,7 +775,7 @@
 	<string key="AI_IceDryad_Frostgrip_IceField_Slow_DisplayName" rel_version="Event_WinterConvergence_Perm">Slow</string>
 	<string key="AI_IceDryad_Frostgrip_IceField_Slow_Tooltip" rel_version="Event_WinterConvergence_Perm">Movement speed reduced by {[Type_StatusEffectData.AI_IceDryad_Frostgrip_IceField_Slow.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_IceDryad_Frostgrip_IceField_Slow.BaseDuration]} seconds.</string>
 	<string key="AI_IceDryad_Frostfang_Buff_Empower_DisplayName" rel_version="Event_WinterConvergence_Perm">Empower</string>
-	<string key="AI_IceDryad_Frostfang_Buff_Empower_Tooltip" rel_version="Event_WinterConvergence_Perm">Increased damage from specific types for {[Type_StatusEffectData.Type_StatusEffectData.AI_IceDryad_Frostfang_Buff_Empower.BaseDuration * 100]} seconds.</string>
+	<string key="AI_IceDryad_Frostfang_Buff_Empower_Tooltip" rel_version="Event_WinterConvergence_Perm">Increased damage from specific types for {[Type_StatusEffectData.AI_IceDryad_Frostfang_Buff_Empower.BaseDuration * 100]} seconds.</string>
 	<string key="AI_IceDryad_Frostfang_Debuff_Weaken_DisplayName" rel_version="Event_WinterConvergence_Perm">Weaken</string>
 	<string key="AI_IceDryad_Frostfang_Debuff_Weaken_Tooltip" rel_version="Event_WinterConvergence_Perm">Outgoing damage reduction for most types for {[Type_StatusEffectData.AI_IceDryad_Frostfang_Debuff_Weaken.BaseDuration]} seconds.</string>
 	<string key="AI_DPTank_SandDevil_Bleed_Cyclone_DisplayName" rel_version="Territory_Brimstone_Sands">Sand Devil</string>
@@ -781,11 +785,11 @@
 	<string key="AI_DPTank_SandDevil_Bleed_Axe_DisplayName" rel_version="Territory_Brimstone_Sands">Bleeding Sands</string>
 	<string key="AI_DPTank_SandDevil_Bleed_Axe_Tooltip" rel_version="Territory_Brimstone_Sands">Bleeding for {[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Axe.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Axe.TickRate]} seconds for {[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Axe.BaseDuration]} seconds.</string>
 	<string key="AI_DPTank_Fortify_Limited_DisplayName" rel_version="Territory_Brimstone_Sands">Fortify</string>
-	<string key="AI_DPTank_Fortify_Limited_Tooltip" rel_version="Territory_Brimstone_Sands">Increased damage absorption from specfic types for {[Type_StatusEffectData.Type_StatusEffectData.AI_DPTank_Fortify_Limited.BaseDuration * 100]} seconds.</string>
+	<string key="AI_DPTank_Fortify_Limited_Tooltip" rel_version="Territory_Brimstone_Sands">Increased damage absorption from specfic types for {[Type_StatusEffectData.AI_DPTank_Fortify_Limited.BaseDuration * 100]} seconds.</string>
 	<string key="AI_DPTank_Empower_Unlimited_DisplayName" rel_version="Territory_Brimstone_Sands">Empower</string>
-	<string key="AI_DPTank_Empower_Unlimited_Tooltip" rel_version="Territory_Brimstone_Sands">Increased damage from specific types for {[Type_StatusEffectData.Type_StatusEffectData.AI_DPTank_Empower_Unlimited.BaseDuration * 100]} seconds.</string>
+	<string key="AI_DPTank_Empower_Unlimited_Tooltip" rel_version="Territory_Brimstone_Sands">Increased damage from specific types for {[Type_StatusEffectData.AI_DPTank_Empower_Unlimited.BaseDuration * 100]} seconds.</string>
 	<string key="AI_Empower_DisplayName" rel_version="Territory_Brimstone_Sands">Empower</string>
-	<string key="AI_Empower_Tooltip" rel_version="Territory_Brimstone_Sands">Increased damage from specific types for {[Type_StatusEffectData.Type_StatusEffectData.AI_Empower_Unlimited.BaseDuration * 100]} seconds.</string>
+	<string key="AI_Empower_Tooltip" rel_version="Territory_Brimstone_Sands">Increased damage from specific types for {[Type_StatusEffectData.AI_Empower.BaseDuration * 100]} seconds.</string>
 	<string key="AI_Fulgoris_Gas_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Blighted Gas</string>
 	<string key="AI_Fulgoris_Gas_Tooltip" rel_version="Quest_MSQ2_WeaversFen">Taking Damage and Blighted Effect</string>
 	<string key="AI_SandElementalHeavy_AoESlow_T2_DisplayName" rel_version="Territory_Brimstone_Sands">Snared</string>
@@ -806,6 +810,24 @@
 	<string key="AI_FireNaga_Flamethrower_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.HealthModifierPercent * -100]}% max health of Fire damage every {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.TickRate]} seconds for {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.BaseDuration]} seconds.</string>
 	<string key="AI_FireNaga_LavaPool_DoT_DisplayName" rel_version="Expedition_GreatCleave_01">Burning Lava</string>
 	<string key="AI_FireNaga_LavaPool_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[Type_StatusEffectData.AI_FireNaga_LavaPool_DoT.HealthModifierPercent * -100]}% max health of Fire damage every {[Type_StatusEffectData.AI_FireNaga_LavaPool_DoT.TickRate]} second.</string>
+	<string key="Sandworm_ArenaEncounter_PressurePlate_Ranged_Buff_DisplayName" rel_version="Trial_Brimstone_Sandworm">Shield Breaker</string>
+	<string key="Sandworm_ArenaEncounter_PressurePlate_Ranged_Buff_Tooltip" rel_version="Trial_Brimstone_Sandworm">Become overcharged dealing bonus Shield stamina damage.</string>
+	<string key="Sandworm_Acid_Resistance_DisplayName" rel_version="Trial_Brimstone_Sandworm">Storm Chaser</string>
+	<string key="Sandworm_Acid_Resistance_Tooltip" rel_version="Trial_Brimstone_Sandworm">Become highly resistant to Siege Damage. Your Melee attacks apply Rend causing targets hit to take increased damage by {[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.ABSStandard * -100]}% for {[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.BaseDuration]} seconds, stacking up to {[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.StackMax]} times.</string>
+	<string key="Sandworm_Acid_Pool_DisplayName" rel_version="Trial_Brimstone_Sandworm">Acid Pool</string>
+	<string key="Sandworm_Acid_Pool_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[Type_StatusEffectData.Sandworm_Acid_Pool.HealthModifierPercent * -100]}% max health in Acid damage and suffer Acid Affliction every {[Type_StatusEffectData.Sandworm_Acid_Pool.TickRate]} seconds.</string>
+	<string key="Sandworm_Devour_Area_Denial_DisplayName" rel_version="Trial_Brimstone_Sandworm">Digestive Juices</string>
+	<string key="Sandworm_Devour_Area_Denial_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[Type_StatusEffectData.Sandworm_Devour_Area_Denial.HealthModifierPercent * -100]}% max health in Acid damage and suffer Acid Affliction every {[Type_StatusEffectData.Sandworm_Devour_Area_Denial.TickRate]} seconds.</string>
+	<string key="Sandworm_ElenetalJuggernaut_Invulnerability_DisplayName" rel_version="Trial_Brimstone_Sandworm">Shielded</string>
+	<string key="Sandworm_ElenetalJuggernaut_Invulnerability_Tooltip" rel_version="Trial_Brimstone_Sandworm">Immune to damage.</string>
+	<string key="Sandworm_Invulnerability_DisplayName" rel_version="Trial_Brimstone_Sandworm">Shielded</string>
+	<string key="Sandworm_Invulnerability_Tooltip" rel_version="Trial_Brimstone_Sandworm">Immune to damage.</string>
+	<string key="Sandworm_Storm_Chaser_Debuff_DisplayName" rel_version="Trial_Brimstone_Sandworm">Storm Chaser Rend</string>
+	<string key="Sandworm_Storm_Chaser_Debuff_Tooltip" rel_version="Trial_Brimstone_Sandworm">Incoming damage is increased by {[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.ABSStandard * 100]}% for {[{[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.BaseDuration]}]} seconds. Stacks up to {[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.StackMax]} times.</string>
+	<string key="Sandworm_Acid_Storm_DisplayName" rel_version="Trial_Brimstone_Sandworm">Acid Storm</string>
+	<string key="Sandworm_Acid_Storm_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[Type_StatusEffectData.Sandworm_Acid_Storm.HealthModifierPercent * -100]}% max health in Acid damage and suffer Acid Affliction every {[Type_StatusEffectData.Sandworm_Acid_Storm.TickRate]} seconds.</string>
+	<string key="Sandworm_Acid_Spew_DisplayName" rel_version="Trial_Brimstone_Sandworm">Acid Spew</string>
+	<string key="Sandworm_Acid_Spew_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[Type_StatusEffectData.Sandworm_Acid_Spew.HealthModifierPercent * -100]}% max health in Acid damage and suffer Acid Affliction every {[Type_StatusEffectData.Sandworm_Acid_Spew.TickRate]} seconds.</string>
 	<string key="godModeThirst_DisplayName">God Mode</string>
 	<string key="godModeHealth_DisplayName">God Mode</string>
 	<string key="godModeAll_DisplayName">God Mode</string>
@@ -1200,11 +1222,11 @@
 	<string key="FireStaff_ManaRegen_Description" comment="FIRESTAFF">Increased mana regeneration.</string>
 	<string key="Combust_Stun_Description" comment="FIRESTAFF">You are stunned for 3 seconds!.</string>
 	<string key="HornOfResilienceT1_DisplayName">Horn of Resilience T1</string>
-	<string key="HornOfResilienceT1_Tooltip">Restores {[Type_StatusEffectData.HornOfResilience.Health]} health per second and adds {[Type_StatusEffectData.HornOfResilience.PhysicalArmor * -100]}% armor.</string>
+	<string key="HornOfResilienceT1_Tooltip">Restores {[Type_StatusEffectData.HornOfResilience.Health]} health per second and adds {[Type_StatusEffectData.HornOfResilience.PhysicalArmor * 100]}% armor.</string>
 	<string key="HornOfResilienceT2_DisplayName">Horn of Resilience T2</string>
-	<string key="HornOfResilienceT2_Tooltip">Restores {[Type_StatusEffectData.HornOfResilience_T2.Health]} health per second and adds {[Type_StatusEffectData.HornOfResilience_T2.PhysicalArmor * -100]}% armor.</string>
+	<string key="HornOfResilienceT2_Tooltip">Restores {[Type_StatusEffectData.HornOfResilience_T2.Health]} health per second and adds {[Type_StatusEffectData.HornOfResilience_T2.PhysicalArmor * 100]}% armor.</string>
 	<string key="HornOfResilienceT3_DisplayName">Horn of Resilience T3</string>
-	<string key="HornOfResilienceT3_Tooltip">Restores {[Type_StatusEffectData.HornOfResilience_T3.Health]} health per second and adds {[Type_StatusEffectData.HornOfResilience_T3.PhysicalArmor * -100]}% armor.</string>
+	<string key="HornOfResilienceT3_Tooltip">Restores {[Type_StatusEffectData.HornOfResilience_T3.Health]} health per second and adds {[Type_StatusEffectData.HornOfResilience_T3.PhysicalArmor * 100]}% armor.</string>
 	<string key="Cleanse_DisplayName">Cleanse</string>
 	<string key="Cleanse_Tooltip">Removes and provides immunity to debuffs.</string>
 	<string key="HasteElixir_DisplayName">Haste Elixir</string>
@@ -1251,7 +1273,6 @@
 	<string key="WeaponCoatingEffect_T5_Corrupted_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingCorruptedT5.DMGVitalsCategory * 100]}% damage to Corrupted.</string>
 	<string key="WeaponCoatingEffect_T5_AngryEarth_DisplayName">Infused Angry Earth Weapon Coating</string>
 	<string key="WeaponCoatingEffect_T5_AngryEarth_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingAngryEarthT5.DMGVitalsCategory * 100]}% damage to Angry Earth.</string>
-	<string key="Season_01_Event_DamageBoostEffect_DisplayName" rel_version="Season_1_Temp">Blessing of Flame</string>
 	<string key="Season_01_Event_DamageBoostEffect_Description">The flame flows through you, increasing your damage against Brambleweaver Spriggan Enemies by {[Type_StatusEffectData.Season_01_Event_DamageBoostEffect.DMGVitalsCategory * 100]}%.</string>
 	<string key="Status_Spear_Skewer_Bleed_DisplayName">Skewer</string>
 	<string key="Status_Spear_Skewer_Bleed_Description">{[Type_StatusEffectData.Spear_Skewer_Bleed.HealthModifierDamageBased * -100]}% Bleed every {[Type_StatusEffectData.Spear_Skewer_Bleed.TickRate]} second for {[Type_StatusEffectData.Spear_Skewer_Bleed.BaseDuration]} seconds.</string>
@@ -1321,6 +1342,7 @@
 	<string key="Status_Silence">Silence</string>
 	<string key="Status_Disease">Disease</string>
 	<string key="Status_Recovery">Recovery</string>
+	<string key="Status_Reinforced">Reinforced</string>
 	<string key="Status_Empower_Description">You have an active damage increase buff.</string>
 	<string key="Status_Fortify_Description">You have an active buff to armor.</string>
 	<string key="Status_Haste_Description">Your move speed is currently increased</string>
@@ -1333,6 +1355,7 @@
 	<string key="Status_Poison_Description">You currently have a Poison damage over time effect on you.</string>
 	<string key="Status_Bleed_Description">You currently have a Bleed damage over time effect on you.</string>
 	<string key="Status_Burn_Description">You currently have a Fire damage over time effect on you.</string>
+	<string key="Status_Reinforced_description">Gain damage reduction for a limited number of hits while this is active.</string>
 	<string key="Status_HealingReceived_Description">Healing efficiency on self by self and other sources is increased.</string>
 	<string key="Status_HealOverTimeNonCombat_Description">Gain health every second.</string>
 	<string key="Status_Heal_Description">Your healing effects will heal for more.</string>
@@ -1341,7 +1364,7 @@
 	<string key="Status_Upgrade_Bow_EvasiveShot_Haste_description">Your movement speed is increased by {[Type_StatusEffectData.Status_Upgrade_Bow_EvasiveShot_Haste.SprintSpeedMod * 100]}%.</string>
 	<string key="Status_Passive_Bow_Skirmish_HasteOnSwap_description">Your movement speed is increased by {[Type_StatusEffectData.Status_Passive_Bow_Skirmish_HasteOnSwap.SprintSpeedMod * 100]}%.</string>
 	<string key="Status_Passive_Bow_Skirmish_DodgeHaste_description">Your movement speed is increased by {[Type_StatusEffectData.Status_Passive_Bow_Skirmish_DodgeHaste.SprintSpeedMod * 100]}%.</string>
-	<string key="Status_Passive_Bow_Skirmish_DodgeDmg_description">Your damage is increased by {[Type_StatusEffectData.Status_Passive_Bow_Skirmish_DodgeDmg.DMGStandard * 100]}%.</string>
+	<string key="Status_Ultimate_Bow_Skirmish_DodgeDmg_description">Your damage is increased by {[Type_StatusEffectData.Status_Ultimate_Bow_Skirmish_DodgeDmg.DMGStandard * 100]}%.</string>
 	<string key="Status_Passive_Bow_Skirmish_SlowFull_description">Your movement speed reduced by {[Type_StatusEffectData.Status_Passive_Bow_Skirmish_SlowFull.SprintSpeedMod * 100]}%.</string>
 	<string key="Status_Ultimate_Bow_Skirmish_description">Your movement speed reduced by {[Type_StatusEffectData.Status_Ultimate_Bow_Skirmish.SprintSpeedMod * 100]}%.</string>
 	<string key="Status_Passive_Bow_Hunter_ArmorAimHeavy_description">Armor is increased by by {[Type_StatusEffectData.Status_Passive_Bow_Hunter_ArmorAimHeavy.ABSStandard * 100]}%.</string>
@@ -1420,8 +1443,6 @@
 	<string key="Status_NearbyEnemyHaste_Description">Your walking/strafing movement speed is increased by {[Type_StatusEffectData.Musket_Pass_WalkSpeedWhileNearEnemy.MoveSpeedMod * 100]}% while near an enemy.</string>
 	<string key="Status_EmpowerHeadshot_Description">Your attacks deal {[Type_StatusEffectData.Musket_Pass_EmpowerOnHeadshot.DMGSlash * 100]}% more damage.</string>
 	<string key="Status_EmpowerOnDebuff_Description">Your attacks deal {[Type_StatusEffectData.Musket_Pass_EmpowerOnDebuffHit.DMGSlash * 100]}% more damage.</string>
-	<string key="Musket_Status_UltimateBuff">Compounded Adrenaline</string>
-	<string key="Musket_Status_UltimateBuff_Description">{[Type_StatusEffectData.Musket_Ult_StaminaRegenPlusMoveSpeed.StaminaRate * 100]}% stamina regen rate, {[Type_StatusEffectData.Musket_Ult_StaminaRegenPlusMoveSpeed.MoveSpeedMod * 100]} move speed, and {[MusketAbilityTable.Ult_Passive_Musket_StackAbilities.CooldownTimer * -100]} cooldown reduction.</string>
 	<string key="Musket_Status_DMG_EveryADSShot">Heightened Precision</string>
 	<string key="Musket_Status_DMG_EveryADSShot_Description">Increase damage by 2.5% for every successful shot while aiming down sights.</string>
 	<string key="ATB_CritOnDodge_DisplayName">Crit After Dodge Timer</string>
@@ -1435,7 +1456,7 @@
 	<string key="Status_VoidGauntlet_VoidBlade_Description" rel_version="Weapon_Void_Gauntlet">Your basic attacks are now melee.</string>
 	<string key="Status_VoidGauntlet_VoidBlade_Fortify_Description" rel_version="Weapon_Void_Gauntlet">Your armor is increased by {[Type_StatusEffectData.VoidGauntlet_VoidBlade_Fortify.PhysicalArmor * 100]}%.</string>
 	<string key="Status_VoidGauntlet_Disintegrate_DisplayName" rel_version="Weapon_Void_Gauntlet">Disintegrate</string>
-	<string key="Status_VoidGauntlet_Disintegrate_Description" rel_version="Weapon_Void_Gauntlet">You suffer {[Type_StatusEffectData.VoidGauntlet_Disintegrate.HealthModifierDamageBased * -100]}% Void damage per second and your incoming damage is increased by {[Type_StatusEffectData.VoidGauntlet_Disintegrate.ABSStandard * -100]}%.</string>
+	<string key="Status_VoidGauntlet_Disintegrate_Description" rel_version="Weapon_Void_Gauntlet">You suffer {[Type_StatusEffectData.VoidGauntlet_Disintegrate.HealthModifierDamageBased * -100]}% Void damage per second and your armor is reduced by {[Type_StatusEffectData.VoidGauntlet_Disintegrate.PhysicalArmor * -100]}%.</string>
 	<string key="Status_VoidGauntlet_EssenceRupture_Description" rel_version="Weapon_Void_Gauntlet">Enemies who hit you are healed for {[Type_StatusEffectData.VoidGauntlet_EssenceRupture_Heal.HealthModifierDamageBased * 100]}% of the damage done.</string>
 	<string key="Status_VoidGauntlet_EssenceRupture_Empower_Description" rel_version="Weapon_Void_Gauntlet">Your damage is increased by {[Type_StatusEffectData.VoidGauntlet_EssenceRupture_Empower.DMGCorruption * 100]}%.</string>
 	<string key="Status_VoidGauntlet_NullChamber_Empower_Description" rel_version="Weapon_Void_Gauntlet">Your damage is increased by {[Type_StatusEffectData.VoidGauntlet_NullChamber_Empower.DMGCorruption * 100]}%.</string>
@@ -1480,11 +1501,11 @@
 	<string key="Status_Ultimate_Sword_Defender_Timer_description">When this ends you can use Defensive Formation again.</string>
 	<string key="Status_Ability_Lifestaff_OrbofProtection_description">Your armor is increased by {[Type_StatusEffectData.Status_Ability_Lifestaff_OrbofProtection.PhysicalArmor * 100]}%.</string>
 	<string key="Status_Upgrade_Lifestaff_OrbofProtection_Dmg_description">Your damage is increased by {[Type_StatusEffectData.Status_Upgrade_Lifestaff_OrbofProtection_Dmg.DMGStandard * 100]}%.</string>
-	<string key="Status_Passive_Lifestaff_Protection_HealingOnDodge_description">Your healing is increased by {[Type_StatusEffectData.Status_Passive_Lifestaff_Protection_HealingOnDodge.HealScalingValueMultiplier * 100]}%.</string>
+	<string key="Status_Passive_Lifestaff_Protection_HealingOnDodge_description">Your damage based healing is increased by {[Type_StatusEffectData.Status_Passive_Lifestaff_Protection_HealingOnDodge.HealScalingValueMultiplier * 100]}%.</string>
 	<string key="Status_Passive_Lifestaff_Protection_HasteWhenLow_description">Your movement speed reduced by {[Type_StatusEffectData.Status_Passive_Lifestaff_Protection_HasteWhenLow.SprintSpeedMod * 100]}%.</string>
 	<string key="Status_Passive_Lifestaff_Protection_HasteWhenLow_Timer_description">When this ends you can trigger Balance again.</string>
 	<string key="Status_Passive_Lifestaff_Healing_HealingBuffonBasic_name">Intensify</string>
-	<string key="Status_Passive_Lifestaff_Healing_HealingBuffonBasic_description">Your healing is increased by {[Type_StatusEffectData.Status_Passive_Lifestaff_Healing_HealingBuffonBasic.HealScalingValueMultiplier * 100]}%.</string>
+	<string key="Status_Passive_Lifestaff_Healing_HealingBuffonBasic_description">Your damage based healing is increased by {[Type_StatusEffectData.Status_Passive_Lifestaff_Healing_HealingBuffonBasic.HealScalingValueMultiplier * 100]}%.</string>
 	<string key="Status_Passive_Lifestaff_Healing_AoeHealWhenHit_description">Healing aura active for you and nearby friends in a 4m radius healing for {[Type_StatusEffectData.Status_Passive_Lifestaff_Healing_AoeHealWhenHit.HealthModifierDamageBased * 100]}% weapon damage each second.</string>
 	<string key="Status_Ability_Lifestaff_SacredGround">Sacred Ground</string>
 	<string key="Status_Ability_Lifestaff_SacredGround_description">You heal for {[Type_StatusEffectData.Status_Ability_Lifestaff_SacredGround.HealthModifierDamageBased * 100]}% casters weapon damage.</string>
@@ -1536,6 +1557,7 @@
 	<string key="Immune_To_Damage">Immune</string>
 	<string key="Attack_Dodged">Dodged</string>
 	<string key="Attack_Evaded">Evaded</string>
+	<string key="Attack_Blocked">Blocked</string>
 	<string key="Attack_Invulnerable">Invulnerable</string>
 	<string key="HealthMin_Immortal_Damage">Immortal</string>
 	<string key="TauntAI_DisplayName">Taunted</string>
@@ -1573,6 +1595,10 @@
 	<string key="AI_Evil_Knight_Flamekeeper_Combustion_Tooltip" rel_version="Season_1_Perm">You have collected too many Kindling bits, causing you to explode with damage.</string>
 	<string key="AI_Evil_Knight_Flamekeeper_Combustible_DisplayName" rel_version="Season_1_Perm">Combustible</string>
 	<string key="AI_Evil_Knight_Flamekeeper_Combustible_Tooltip" rel_version="Season_1_Perm">You gain 1 stack of Combustible for each kindling bit you extinguish. Reaching 10 stacks causes you to Combust.</string>
+	<string key="AI_Evil_Knight_Flamekeeper_Burn_DisplayName">Flamekeeper's Fire</string>
+	<string key="AI_Evil_Knight_Flamekeeper_Burn_Tooltip">Burning for {[Type_StatusEffectData.AI_Evil_Knight_Flamekeeper_Burn.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_Evil_Knight_Flamekeeper_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_Evil_Knight_Flamekeeper_Burn.BaseDuration]} seconds.</string>
+	<string key="AI_Evil_Knight_Gruntmaster_LavaBurn_DisplayName">Lava Burn</string>
+	<string key="AI_Evil_Knight_Gruntmaster_LavaBurn_Tooltip">Burning for {[Type_StatusEffectData.AI_Evil_Knight_Gruntmaster_LavaBurn.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_Evil_Knight_Gruntmaster_LavaBurn.TickRate]} seconds for {[Type_StatusEffectData.AI_Evil_Knight_Gruntmaster_LavaBurn.BaseDuration]} seconds.</string>
 	<string key="RoadTravel_SprintBoost">Haste On Roads</string>
 	<string key="RoadTravel_SprintBoost_Description">Sprint Speed is increased by {[Type_StatusEffectData.Traversal_RoadSprintBoost_Haste.SprintSpeedMod * 100]}% while sprinting on roads</string>
 	<string key="OutOfCombat_PassiveRegen_Name">Peaceful Regen</string>
@@ -1582,7 +1608,7 @@
 	<string key="Status_Weapon_ChargedHeavyRend_Description" rel_version="MorePerksV1">Your armor is reduced by {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.PhysicalArmor * -100]}%.</string>
 	<string key="Status_Timer_ChargedHeavyRend_Description" rel_version="MorePerksV1">When this ends, you can trigger the Trenchant Rend perk again.</string>
 	<string key="Wispy_Wasp_Swarm_Tick_DisplayName">Bleeding</string>
-	<string key="Wispy_Wasp_Swarm_Tick_Tooltip">Bleeding for {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.HealthModifierDamageBased * -100]}% base health Physical damage every {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.TickRate]} seconds for {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.BaseDuration]} seconds.</string>
+	<string key="Wispy_Wasp_Swarm_Tick_Tooltip">Bleeding for {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.TickRate]} seconds for {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.BaseDuration]} seconds.</string>
 	<string key="Blunderbuss_ChargeCooldown_Name" rel_version="Weapon_Blunderbuss">Double Down</string>
 	<string key="Blunderbuss_ChargeCooldown_Desc" rel_version="Weapon_Blunderbuss">Your next blunderbuss skill recharges quicker.</string>
 	<string key="Blunderbuss_ChargeCooldownOnCooldown_Desc" rel_version="Weapon_Blunderbuss">When this expires you can use your Double Down passive again.</string>
@@ -1593,7 +1619,7 @@
 	<string key="Blunderbuss_Ramp_Name" rel_version="Weapon_Blunderbuss">Ramp</string>
 	<string key="Blunderbuss_Ramp_Desc" rel_version="Weapon_Blunderbuss">4% increased damage.</string>
 	<string key="Blunderbuss_LastChance_Name" rel_version="Weapon_Blunderbuss">Last Chance</string>
-	<string key="Blunderbuss_LastChance_Desc">You take {[Type_StatusEffectData.Blunderbuss_LastChance.ABSStandard * 100]}% less damage</string>
+	<string key="Blunderbuss_LastChance_Desc">You take {[Type_StatusEffectData.Blunderbuss_LastChance.PhysicalArmor * 100]}% less damage</string>
 	<string key="Blunderbuss_LastChanceCooldown_Desc" rel_version="Weapon_Blunderbuss">When this expires you can trigger your Last Chance passive again.</string>
 	<string key="Blunderbuss_BarbedNet_Name" rel_version="Weapon_Blunderbuss">Barbed Net</string>
 	<string key="Blunderbuss_BarbedNet_Desc" rel_version="Weapon_Blunderbuss">You take damage over time.</string>
@@ -1733,6 +1759,13 @@
 	<string key="Status_Rune_FireStorm_Empower_Desc" rel_version="Feature_Heartgems_FireStorm">Outgoing damage increased by {[Type_StatusEffectData.Rune_FireStorm_Empower.DMGStandard * 100]}%.</string>
 	<string key="Status_FireStorm_Major_Desc" rel_version="Feature_Heartgems_FireStorm">Outgoing damage reduced by {[Type_StatusEffectData.Status_Rune_FireStorm_Major.DMGStandard * -100]}%.</string>
 	<string key="Status_FireStorm_Greater_Desc" rel_version="Feature_Heartgems_FireStorm">Movement speed increased by {[Type_StatusEffectData.Status_Rune_FireStorm_Greater.MoveSpeedMod * 100]}%.</string>
+	<string key="Status_Rune_Sandworm_Major_Desc" rel_version="Feature_Heartgems_Sandworm">Movement speed reduced by {[Type_StatusEffectData.Status_Rune_Sandworm_Slow.MoveSpeedMod * -100]}%.</string>
+	<string key="Status_Sandworm_DoT_Name" rel_version="Feature_Heartgems_Sandworm">Poisoned</string>
+	<string key="Status_Rune_Sandworm_DoT_Desc" rel_version="Feature_Heartgems_Sandworm">Poisoned for {[Type_StatusEffectData.Status_Rune_Sandworm_Poison.HealthModifierDamageBased * -100]}% heartrune damage per second.</string>
+	<string key="Status_Sandworm_SelfWeaken_Name" rel_version="Feature_Heartgems_Sandworm">Weakened</string>
+	<string key="Status_Sandworm_SelfWeaken_Desc" rel_version="Feature_Heartgems_Sandworm">Outgoing damage reduced by {[Type_StatusEffectData.Status_Rune_Sandworm_SelfWeaken.DMGStandard * -100]}% while active.</string>
+	<string key="Status_Sandworm_Uninterruptible_Name" rel_version="Feature_Heartgems_Sandworm">Uninterruptible</string>
+	<string key="Status_Sandworm_Uninterruptible_Desc" rel_version="Feature_Heartgems_Sandworm">Uninterruptible to staggers and knockdowns while active.</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Tracking_DisplayName">Judgement of the Gods</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Tracking_Tooltip">The gods of the Ennead are judging your heart.</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Damage_DisplayName">Verdict of the Gods</string>
@@ -1751,5 +1784,7 @@
 	<string key="SpringtideBloom_SpringtideDram_MasterName">Springtide Dram</string>
 	<string key="SpringtideBloom_SpringtideCrumble_MasterName">Springtide Crumble</string>
 	<string key="SpringtideBloom_SpringtideWafer_MasterName">Springtide Wafer</string>
+	<string key="AI_MummifiedCorpse_Bleed_Tooltip">Bleeding for {[Type_StatusEffectData.AI_MummifiedCorpse_Bleed.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_MummifiedCorpse_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_MummifiedCorpse_Bleed.TickRate]} seconds for {[Type_StatusEffectData.AI_MummifiedCorpse_Bleed.BaseDuration]} seconds.</string>
+	<string key="AI_GhastlyHatchet_ReflexCheck_Bleed_Tooltip">A small X-shaped wound. Bleeding for {[Type_StatusEffectData.AI_GhastlyHatchet_ReflexCheck_Bleed.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_GhastlyHatchet_ReflexCheck_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_GhastlyHatchet_ReflexCheck_Bleed.TickRate]} seconds for {[Type_StatusEffectData.AI_GhastlyHatchet_ReflexCheck_Bleed.BaseDuration]} seconds.</string>
 </resources>
 

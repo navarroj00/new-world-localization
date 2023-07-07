@@ -174,6 +174,7 @@
 	<string key="ui_infinite">&lt;img src="lyshineui/images/icons/misc/infinity_tan" xPadding="0" scale="1.8" yOffset="5.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_infiniteBigger">&lt;img src="lyshineui/images/icons/misc/infinity_tan" xPadding="0" scale="2.2" yOffset="5.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_new_balance">New Balance</string>
+	<string key="ui_store_unlock">Unlock</string>
 	<string key="ui_view_details">View Details</string>
 	<string key="ui_cancelorder_confirmation">Are you sure you want to cancel this order?</string>
 	<string key="ui_returnorder_buyconfirmation">The remaining &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{priceTotal}&lt;/font&gt;&lt;/font&gt; &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; will be returned to your wallet.</string>
@@ -283,9 +284,10 @@
 	<string key="compensations_column_date" rel_version="Feature_Make_Good">Date</string>
 	<string key="compensations_column_message" rel_version="Feature_Make_Good">Message</string>
 	<string key="compensations_notification_message" rel_version="Feature_Make_Good">Message</string>
-	<string key="compensations_notification_title" rel_version="Feature_Make_Good">CompensationAvailable</string>
+	<string key="compensations_notification_title" rel_version="Feature_Make_Good">Compensation Available</string>
 	<string key="ui_compensations_available_desc_mult" rel_version="Feature_Make_Good">You have &lt;font color={color}&gt;{number} pending compensations&lt;/font&gt; to claim!</string>
 	<string key="ui_compensations_available_desc_one" rel_version="Feature_Make_Good">You have &lt;font color={color}&gt;1 pending compensation&lt;/font&gt; to claim!</string>
+	<string key="ui_compensations_no_existing_compensations_message" rel_version="Feature_Make_Good">No existing compensations</string>
 	<string key="ui_claim" rel_version="Feature_Make_Good">Claim</string>
 	<string key="ui_claimed" rel_version="Feature_Make_Good">Claimed</string>
 	<string key="ui_unclaimed_contract" rel_version="Feature_Make_Good">Unclaimed</string>

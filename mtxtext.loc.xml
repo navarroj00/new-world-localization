@@ -5,7 +5,7 @@
 	<string key="marketing_new" rel_version="Feature_MTX">New!</string>
 	<string key="marketing_sale" rel_version="Feature_MTX">Sale!</string>
 	<string key="ui_credits_purchase" rel_version="Feature_MTX">Purchase Credits</string>
-	<string key="ui_credit_purchase_suggest" rel_version="Feature_MTX">You need &lt;font color="#ffae00"&gt;{amount} Marks of Fortune&lt;/font&gt; to purchase &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{product}&lt;/font&gt;.</string>
+	<string key="ui_credit_purchase_suggest" rel_version="Feature_MTX">You need &lt;font color={color}&gt;{amount} more Marks of Fortune&lt;/font&gt; to purchase &lt;font color={color}&gt;{product}&lt;/font&gt;.</string>
 	<string key="ui_featureddeals" rel_version="Feature_MTX">Featured Deals</string>
 	<string key="ui_consumables" rel_version="Feature_MTX">Consumables</string>
 	<string key="ui_armorskins" rel_version="Feature_MTX">Apparel Skins</string>
@@ -66,6 +66,7 @@
 	<string key="reward_type_marks_of_fortune" rel_version="Feature_MTX">Marks of Fortune</string>
 	<string key="reward_type_service" rel_version="Feature_MTX">World or Region Transfer (Single-Use)</string>
 	<string key="reward_type_loadout" rel_version="Feature_Gear_Set_Storage">Gear Set</string>
+	<string key="reward_type_transmog" rel_version="Season_2_Perm">Transmog Token</string>
 	<string key="entitlement_included" rel_version="Feature_MTX">Included</string>
 	<string key="ui_account_bound" rel_version="Feature_MTX">All items are account bound (non-tradeable) and non-refundable</string>
 	<string key="ui_account_bound_tooltip" rel_version="Feature_MTX">All items are account bound (can be used on all of your characters) and cannot be discarded, traded, or sold at the trading post. All items are also non-refundable.\n\n&lt;font face="lyshineui/fonts/Nimbus_Bold.font" &gt;Consumable items: &lt;/font&gt; These items have limited usage and using one on a specific character depletes the count across the account. For example, if you have five dyes and use one on a character, you will now have four dyes if you log onto a different character under the same account.</string>
@@ -130,6 +131,7 @@
 	<string key="reward_type_tooltip_marks_of_fortune" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;MARKS OF FORTUNE&lt;/font&gt; : You can use this currency in the Store to purchase a product.</string>
 	<string key="reward_type_tooltip_service" rel_version="Feature_MTX">If your character fulfills all requirements to transfer, select a world and/or region to transfer to.</string>
 	<string key="reward_type_tooltip_loadout" rel_version="Feature_Gear_Set_Storage">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;GEAR SET&lt;/font&gt; : You can assign items to a new Gear Set slot from your inventory.</string>
+	<string key="reward_type_tooltip_transmog" rel_version="Season_2_Perm">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;TRANSMOG TOKEN&lt;/font&gt; : You can use this token to unlock appearances at the Stylemancer.</string>
 	<string key="ui_crest_disclaimer" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Notice:&lt;/font&gt; Company Crests can only be used if you are the governor (creator) of the company.</string>
 	<string key="ui_disabled_default_title" rel_version="Feature_MTX">Content Unavailable</string>
 	<string key="ui_disabled_default_description" rel_version="Feature_MTX">This content is currently unavailable.</string>
@@ -170,8 +172,8 @@
 	<string key="ui_transaction_failed">Transaction failed.</string>
 	<string key="ui_transaction_timed_out">Transaction timed out. Retry?</string>
 	<string key="ui_transaction_timeout_overlay">Transaction timed out.\nPlease ensure Steam Overlay is enabled.</string>
-	<string key="ui_bonus_marks">{base} + {bonus} Bonus =</string>
-	<string key="ui_bonus_percent">{bonusPct}% Bonus!</string>
+	<string key="ui_bonus_marks">({base} &lt;font color={color}&gt;+ {bonus})&lt;/font&gt;</string>
+	<string key="ui_bonus_percent">{bonusPct}% Bonus</string>
 	<string key="ui_how_to_use">How To Use</string>
 	<string key="ui_notification_unlock_desc">Items have been added to your account.</string>
 	<string key="ui_notification_unlock_title">Unlocked!</string>
@@ -180,6 +182,8 @@
 	<string key="ui_claim_fail_alreadyunlocked">You have already claimed this entitlement.</string>
 	<string key="ui_claim_fail_inventoryfull">Cannot claim entitlement while your inventory is full. Please free up some space and try again.</string>
 	<string key="ui_claim_fail_transactionerror">Transaction error. Please try again.</string>
+	<string key="ui_claim_fail_claimpending">There is already a claim transaction in progress. Please wait for it to complete before claiming another.</string>
+	<string key="ui_claim_fail_entitlementnotunlocked">Cannot claim an entitlement you do not own. Please wait and try again.</string>
 	<string key="smolderingscarlet_dye_name" rel_version="Dye_SmolderingScarlet">Smoldering Scarlet</string>
 	<string key="runic_jackal_name" rel_version="Apparel_RunicJackal">Runic Jackal</string>
 	<string key="crescent_fang_name" rel_version="Weapon_CrescentFang">Crescent Fang</string>
@@ -494,7 +498,7 @@
 	<string key="server_transfer_change_world" rel_version="Feature_Server_Transfer">Change World</string>
 	<string key="server_transfer_select_world" rel_version="Feature_Server_Transfer">Select World</string>
 	<string key="server_transfer_select_region" rel_version="Feature_Server_Transfer">Select Region</string>
-	<string key="server_transfer_change_world_tooltip" rel_version="Feature_Server_Transfer">You can change worlds by logging into your character and accessing the in-game store under "World Transfer".</string>
+	<string key="server_transfer_change_world_tooltip" rel_version="Feature_Server_Transfer">You can change worlds by logging into your character and accessing "Character Transfer" in the in-game Store.</string>
 	<string key="server_transfer_maintenance" rel_version="Feature_Server_Transfer">You cannot transfer to a world while it is in maintenance.</string>
 	<string key="server_transfer_requirements_company" rel_version="Feature_Server_Transfer">You cannot belong to a Company or have pending Company invites.</string>
 	<string key="server_transfer_requirements_tradingPost" rel_version="Feature_Server_Transfer">You cannot have active Trading Post Buy/Sell Orders.</string>
@@ -982,15 +986,15 @@
 	<string key="Bundle_PR_WinterDragon_Weapons_description" rel_version="Weapon_Winter_Greatsword">Cleave your way through the deepest of winter snow.</string>
 	<string key="reward_type_token" rel_version="Entitlements_FirelightSeason">Booster Pack</string>
 	<string key="Token_Proficiency_Boost_name" rel_version="Entitlements_FirelightSeason">Proficiency Booster</string>
-	<string key="Token_Proficiency_Boost_description" rel_version="Entitlements_FirelightSeason">Increase a character's yield by 10% for 90 minutes of game time while Logging, Mining, Harvesting, and Skinning.\n\nUsage is paused during instanced game modes.</string>
+	<string key="Token_Proficiency_Boost_description" rel_version="Entitlements_FirelightSeason">Increase a character's yield by 10% for 90 minutes of game time while Logging, Mining, Harvesting, and Skinning.\n\nUsage is paused during Outpost Rush.</string>
 	<string key="Token_WeaponXP_Boost_name" rel_version="Entitlements_FirelightSeason">Weapon XP Booster</string>
-	<string key="Token_WeaponXP_Boost_description" rel_version="Entitlements_FirelightSeason">Increase a character's Weapon experience earned by 100% for 2 hours of game time.\n\nUsage is paused during instanced PvP modes.</string>
+	<string key="Token_WeaponXP_Boost_description" rel_version="Entitlements_FirelightSeason">Increase a character's Weapon experience earned by 100% for 2 hours of game time.</string>
 	<string key="Token_TerritoryStanding_Boost_name" rel_version="Entitlements_FirelightSeason">Territory Standing Booster</string>
-	<string key="Token_TerritoryStanding_Boost_description" rel_version="Entitlements_FirelightSeason">Increase a character's Territory Standing earned by 100% for 2 hours of game time.\n\nUsage is paused during instanced game modes.</string>
+	<string key="Token_TerritoryStanding_Boost_description" rel_version="Entitlements_FirelightSeason">Increase a character's Territory Standing earned by 100% for 2 hours of game time.</string>
 	<string key="Token_SeasonXP_Boost_name" rel_version="Entitlements_FirelightSeason">Season XP Booster</string>
 	<string key="Token_SeasonXP_Boost_description" rel_version="Entitlements_FirelightSeason">Increase a character's passive Season experience generation by 100% for 2 hours of game time.</string>
 	<string key="Token_GatheringXP_Boost_name" rel_version="Entitlements_FirelightSeason">Gathering XP Booster</string>
-	<string key="Token_GatheringXP_Boost_description" rel_version="Entitlements_FirelightSeason">Increase a character's Logging, Mining, Harvesting, and Skinning experience earned by 100% for 2 hours of game time. Does not apply for Aptitude levels.\n\nUsage is paused during instanced game modes.</string>
+	<string key="Token_GatheringXP_Boost_description" rel_version="Entitlements_FirelightSeason">Increase a character's Logging, Mining, Harvesting, and Skinning experience earned by 100% for 2 hours of game time. Does not apply for Aptitude levels.</string>
 	<string key="Apparel_OmensOfWinter_Owl_name" rel_version="Apparel_OmensWinter_1">Cailleach Owl</string>
 	<string key="Apparel_OmensOfWinter_Cat_name" rel_version="Apparel_OmensWinter_2">Imbolc Lynx</string>
 	<string key="Bundle_PR_OmensOfWinter_Apparel_name" rel_version="Bundle_OmensWinter_Apparel">Omens of Winter Apparel Bundle</string>
@@ -1039,15 +1043,19 @@
 	<string key="reward_type_Toolskin_harvestingsickle">Harvesting Sickle Skin</string>
 	<string key="reward_type_Toolskin_azothstaff">Azoth Staff Skin</string>
 	<string key="Token_PremiumEmote_Firework1_name" rel_version="Feature_Premium_Emotes">Flower Firework Emote Permit</string>
-	<string key="Token_PremiumEmote_Firework1_description" rel_version="Feature_Premium_Emotes">A dazzling blast of color! Allows use of the Flower Rocket Firework emote for 2 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
+	<string key="Token_PremiumEmote_Firework1_description" rel_version="Feature_Premium_Emotes">A dazzling blast of color! Allows use of the Flower Rocket Firework emote for 2 hours.\n\nUsage is paused during instanced game modes.</string>
 	<string key="Token_PremiumEmote_Firework2_name" rel_version="Feature_Premium_Emotes">Dynasty Firework Emote Permit</string>
-	<string key="Token_PremiumEmote_Firework2_description" rel_version="Feature_Premium_Emotes">Blood red holiday fun! Allows use of the Dynasty Rocket Firework emote for 2 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
+	<string key="Token_PremiumEmote_Firework2_description" rel_version="Feature_Premium_Emotes">Blood red holiday fun! Allows use of the Dynasty Rocket Firework emote for 2 hours.\n\nUsage is paused during instanced game modes.</string>
 	<string key="Token_PremiumEmote_Firework3_name" rel_version="Feature_Premium_Emotes">Dryad Firework Emote Permit</string>
-	<string key="Token_PremiumEmote_Firework3_description" rel_version="Feature_Premium_Emotes">An explosion of emerald! Allows use of the Dryad Rocket Firework emote for 2 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
+	<string key="Token_PremiumEmote_Firework3_description" rel_version="Feature_Premium_Emotes">An explosion of emerald! Allows use of the Dryad Rocket Firework emote for 2 hours.\n\nUsage is paused during instanced game modes.</string>
 	<string key="Token_PremiumEmote_Firework4_name" rel_version="Feature_Premium_Emotes">Ancient Firework Emote Permit</string>
-	<string key="Token_PremiumEmote_Firework4_description" rel_version="Feature_Premium_Emotes">Purple explosion! Allows use of the Ancient Rocket Firework emote for 2 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
+	<string key="Token_PremiumEmote_Firework4_description" rel_version="Feature_Premium_Emotes">Purple explosion! Allows use of the Ancient Rocket Firework emote for 2 hours.\n\nUsage is paused during instanced game modes.</string>
 	<string key="Token_PremiumEmote_Firework5_name" rel_version="Feature_Premium_Emotes">Shooting Star Firework Emote Permit</string>
-	<string key="Token_PremiumEmote_Firework5_description" rel_version="Feature_Premium_Emotes">Caution! May emit showers of sparks! Allows use of the Shooting Star Firework emote for 2 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
+	<string key="Token_PremiumEmote_Firework5_description" rel_version="Feature_Premium_Emotes">Caution! May emit showers of sparks! Allows use of the Shooting Star Firework emote for 2 hours.\n\nUsage is paused during instanced game modes.</string>
+	<string key="Token_Transmog_X1_name" rel_version="Season_2_Perm">Transmog Token</string>
+	<string key="Token_Transmog_X1_description" rel_version="Season_2_Perm">Each Transmog token allows you to capture one item appearance for use as a skin.</string>
+	<string key="Token_Transmog_X5_name" rel_version="Season_2_Perm">Transmog Token Pack</string>
+	<string key="Token_Transmog_X5_description" rel_version="Season_2_Perm">A pack of Transmog tokens. Each token allows you to capture one item appearance for use as a skin.</string>
 	<string key="Apparel_Highwayman_Capelet_name" rel_version="Apparel_Highwayman_1">Ringleader</string>
 	<string key="Apparel_Highwayman_Tricorn_name" rel_version="Apparel_Highwayman_2">Frayed Scoundrel</string>
 	<string key="Apparel_Highwayman_PrickleRust_name" rel_version="Apparel_Highwayman_3">Tarnished Soul</string>
@@ -1058,9 +1066,10 @@
 	<string key="Bundle_PR_Highwayman_Weapon_description" rel_version="Bundle_Highwayman_Weapons">Weapons suitable for mercenaries, brigands and other dangerous wanderers of the land.</string>
 	<string key="Bundle_PR_LichenLord_name">Lichen Lord Bundle</string>
 	<string key="Bundle_PR_LichenLord_description">Even amid the horrors of Aeternum, one can find still find verdant green sanctuaries, but the Angry Earth is always near at hand.</string>
-	<string key="Apparel_Highwayman_Capelet_description" rel_version="Apparel_Highwayman_1">When adorned in glittering riches from head to toe, does it truly matter from whence it came? After all, they’re mine now.\n\nIncludes three head skin variants!</string>
 	<string key="Bundle_PR_PauldronedFears_name" rel_version="Entitlements_MedievalHistoric">Pauldroned Fears Bundle</string>
 	<string key="Bundle_PR_PauldronedFears_description" rel_version="Entitlements_MedievalHistoric">Clad yourself in menacing armor and be ready to annihilate your foes.</string>
+	<string key="Apparel_Highwayman_Capelet_description" rel_version="Apparel_Highwayman_1">When adorned in glittering riches from head to toe, does it truly matter from whence it came? After all, they’re mine now.\n\nIncludes three head skin variants!</string>
+	<string key="ui_crestforeground_231" rel_version="Crest_Gryphon">Gryphon Crest</string>
 	<string key="Apparel_MedievalHistoric_HounSkull_name" rel_version="Entitlements_MedievalHistoric">Argent Herald</string>
 	<string key="Apparel_MedievalHistoric_DarkHorns_name" rel_version="Entitlements_MedievalHistoric">Sable Dragoon</string>
 	<string key="Apparel_MedievalHistoric_Twitch01_name" rel_version="Entitlements_MedievalHistoric">Paladin of Or</string>
@@ -1070,6 +1079,24 @@
 	<string key="Bundle_PR_MedievalHistoric_Weapon_name" rel_version="Entitlements_MedievalHistoric">Weapons of Yore</string>
 	<string key="Bundle_PR_MedievalHistoric_Weapon_description" rel_version="Entitlements_MedievalHistoric">Steel from centuries past, if well maintained, is just as deadly as any crafted today.</string>
 	<string key="reward_type_emote_permit" rel_version="Feature_Premium_Emotes">Emote Permit</string>
+	<string key="Apparel_FrontierWasteland_Shawl_name" rel_version="Apparel_WastelandFrontier_1">Outback Pioneer</string>
+	<string key="Apparel_FrontierWasteland_Gambeson_name" rel_version="Apparel_WastelandFrontier_2">Longhorn Legionnaire</string>
+	<string key="Apparel_FrontierWasteland_Deluxe_name" rel_version="Apparel_WastelandFrontier_Deluxe">Bane of the Badlands</string>
+	<string key="Apparel_FrontierWasteland_Twitch_name" rel_version="Apparel_WastelandFrontier_Twitch">Wasteland Wanderer</string>
+	<string key="Bundle_Tool_FrontierWasteland_name" rel_version="ToolSkins_FrontierWastelander">Nameless Vagabond Toolset</string>
+	<string key="Bundle_Tool_FrontierWasteland_description" rel_version="ToolSkins_FrontierWastelander">Wanderers of Aeternum need great skill in foraging in order to survive.</string>
+	<string key="Bundle_Decor_FrontierWasteland_name" rel_version="Housing_Wasteland_MTX_Pack_2023">Frontier Wastelander Décor Bundle</string>
+	<string key="Bundle_Decor_FrontierWasteland_description" rel_version="Housing_Wasteland_MTX_Pack_2023">Treasures acquired from a life of brigandry.</string>
+	<string key="Bundle_PR_FrontierWasteland_Apparel_name" rel_version="Entitlements_WastelandFrontier">Frontier Wastelander Apparel Bundle</string>
+	<string key="Bundle_PR_FrontierWasteland_Apparel_description" rel_version="Entitlements_WastelandFrontier">Your clothes mark you as one unafraid of the untamed wilderness, capable enough to face its dangers alone.</string>
+	<string key="Bundle_PR_FrontierWasteland_Weapon_name" rel_version="Entitlements_WastelandFrontier">Frontier Wastelander Weapon Bundle</string>
+	<string key="Bundle_PR_FrontierWasteland_Weapon_description" rel_version="Entitlements_WastelandFrontier">Steel is more valuable than a companion when wandering the wasteland. Companions can be unreliable. Steel never is.</string>
+	<string key="CampSkin_FrontierWaste01_A_MasterName" rel_version="Entitlements_WastelandFrontier">Rugged Respite</string>
+	<string key="CampSkin_FrontierWaste01_A_Description" rel_version="Entitlements_WastelandFrontier">Take shelter from the storms of dust and blood alike.</string>
+	<string key="SeasonPass_Premium_Season_2_name" rel_version="Season_2_Perm">Premium Pass - Season 2</string>
+	<string key="SeasonPass_HeadStart_Season_2_name" rel_version="Season_2_Perm">Premium Pass Head Start - Season 2</string>
+	<string key="Bundle_PR_EmoteGestures_name" rel_version="Entitlements_WastelandFrontier">Emotive Bundle</string>
+	<string key="Bundle_PR_EmoteGestures_description" rel_version="Entitlements_WastelandFrontier">How are you feeling?</string>
 	<string key="Emote_Premium_Firework1_x10_name" rel_version="Feature_Premium_Emotes">Flower Firework Emote Permit 10-Pack</string>
 	<string key="Emote_Premium_Firework2_x10_name" rel_version="Feature_Premium_Emotes">Dynasty Firework Emote Permit 10-Pack</string>
 	<string key="Emote_Premium_Firework3_x10_name" rel_version="Feature_Premium_Emotes">Dryad Firework Emote Permit 10-Pack</string>

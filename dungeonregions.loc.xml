@@ -22,7 +22,7 @@
 	<string key="ui_icon_reekwater00_ancient_heart">ANCIENT GUARDIAN HEART</string>
 	<string key="ui_icon_reekwater00_ancient_device">ANCIENT DEVICE</string>
 	<string key="ui_icon_reekwater00_azoth_pool">IMBUED AZOTH POOL</string>
-	<string key="ui_icon_reekwater00_azoth_seal">AZOTH SEAL</string>
+	<string key="ui_icon_reekwater00_azoth_seal">ANCIENT AZOTH SEAL</string>
 	<string key="ui_icon_reekwater00_title_miniboss_mage">KHAMRUSET ARCANIST</string>
 	<string key="ui_icon_reekwater00_description_miniboss_mage">GATEKEEPER OF THE HEART</string>
 	<string key="ui_area_everfall00_amphitheater">THE AMPHITHEATER</string>
@@ -197,5 +197,11 @@
 	<string key="ui_area_greatcleave01_FireSeal" rel_version="Expedition_GreatCleave_01">Fire Seal</string>
 	<string key="ui_area_greatcleave01_Desecrated" rel_version="Expedition_GreatCleave_01">Desecrated Ancient Mechanism</string>
 	<string key="ui_area_greatcleave01_Heel" rel_version="Expedition_GreatCleave_01">The Heel</string>
+	<string key="ui_icon_trial_season_02_q12_boss_title" rel_version="Season_2_Temp">HADISH AZAR, KEEPER OF FLAME</string>
+	<string key="ui_icon_trial_season_02_q12_boss_description" rel_version="Season_2_Temp">LEVEL 66 BOSS\nCARETAKER OF THE HATCHERY</string>
+	<string key="ui_icon_trial_season_02_q13_boss_title" rel_version="Season_2_Temp">MALEK</string>
+	<string key="ui_icon_trial_season_02_q13_boss_description" rel_version="Season_2_Temp">LEVEL 66 BOSS\nRELIGIOUS ZEALOT</string>
+	<string key="ui_area_trial_season_02_Q12_arena" rel_version="Season_2_Temp">ANCIENT HATCHERY</string>
+	<string key="ui_area_trial_season_02_Q13_arena" rel_version="Season_2_Temp">SANCTUM OF THE SANDS</string>
 </resources>
 

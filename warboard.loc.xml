@@ -39,6 +39,7 @@
 	<string key="ui_or_player_takedowns" comment="Total azoth essence deposited by player">Player Takedowns</string>
 	<string key="ui_or_capture_point_contests" comment="Total amount of time spent contesting a capture point by player">Objective Points</string>
 	<string key="ui_or_total_resources_deposited" comment="Total of all resources contributed by player">Total Resources Contributed</string>
+	<string key="ui_or_player_damage_blocked" comment="Total amount of damage blocked by the player">Damage Blocked</string>
 	<string key="ui_war_eom_overview_tab">Overview</string>
 	<string key="ui_war_eom_performance_tab">Performance</string>
 	<string key="ui_war_eom_rankings_tab">Rankings</string>

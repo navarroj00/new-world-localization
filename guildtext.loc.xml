@@ -100,8 +100,8 @@
 	<string key="ui_guildranknameinusemessage">That rank name already exists.</string>
 	<string key="ui_guildoverviewtab">Overview</string>
 	<string key="ui_guildoverviewtabsubtitle">Read Message of the Day</string>
-	<string key="ui_guildwarstab">Active Wars</string>
-	<string key="ui_guildwarstabsubtitle">View Enemies</string>
+	<string key="ui_guildwarstab">Active Conflicts</string>
+	<string key="ui_guildwarstabsubtitle">View Active Conflicts</string>
 	<string key="ui_guildrankstab">Ranks</string>
 	<string key="ui_guildrostertab">Members</string>
 	<string key="ui_guildsiegetab">Siege Window</string>
@@ -183,6 +183,8 @@
 	<string key="ui_guildCannotInviteNoPrivilege">Unable to send Company invites. Insufficient rank.</string>
 	<string key="ui_guildCannotInviteNoFaction">Unable to send Company invites. Not in a Faction.</string>
 	<string key="ui_guildcannotpromote_nofaction" rel_version="Feature_Unfactioned_Company_Members">Unable to promote to Governor. Not in a Faction.</string>
+	<string key="ui_guild_blocked_on_this_world" rel_version="Feature_Cross_World_Social">Cannot perform this action on this World.</string>
+	<string key="ui_guild_cannot_invite_player_from_other_world" rel_version="Feature_Cross_World_Social">Cannot invite a player from another World.</string>
 	<string key="ui_guildranksettler" comment="Pronoun for Target Player">Settler</string>
 	<string key="ui_guildranksettler_SHE">Settler</string>
 	<string key="ui_guildranksettler_THEY">Settler</string>
@@ -378,10 +380,11 @@
 	<string key="ui_warframe_siegeinfo_label">NEXT AVAILABLE SIEGE WINDOW</string>
 	<string key="ui_myguildtitle">My Company</string>
 	<string key="ui_otherguildstitlewithworld">{worldName} Companies</string>
+	<string key="ui_companylist_crossworld">Unavailable In Cross World</string>
 	<string key="ui_otherguildstitle">World</string>
 	<string key="ui_otherguildssubtitle">Of {worldName}</string>
 	<string key="ui_guildsinworld">{number} in {worldName}</string>
-	<string key="ui_warstitle">Wars</string>
+	<string key="ui_warstitle">Conflicts</string>
 	<string key="ui_otherguilds_memberslabel">Members</string>
 	<string key="ui_otherguilds_claimslabel">Claims</string>
 	<string key="ui_otherguilds_claimslabelsingular">Claim</string>
@@ -455,6 +458,7 @@
 	<string key="ui_trade_failure_global_storage_wrong_faction">Withdrawing requires both territories to be in your faction and be current on their upkeep.</string>
 	<string key="ui_trade_failure_global_storage_invalid_deposit">You can only deposit items to the storage shed at your current location.</string>
 	<string key="ui_trade_failure_global_storage_invalid_deposit_rfi">You can only deposit items into storage sheds from settlements you have visited.</string>
+	<string key="ui_trade_failure_global_storage_settlement_inaccessible">You cannot deposit items into inaccessible Settlements.</string>
 	<string key="ui_guildclaimsowned">Claims</string>
 	<string key="ui_guildoneclaimowned">Claim</string>
 	<string key="ui_acceptguildinvitepopuptitle">Join New Company?</string>
@@ -623,7 +627,7 @@
 	<string key="ui_no_faction" comment="text to show when a faction name would be present but the player isn't in one">No Faction</string>
 	<string key="ui_wartime">War time</string>
 	<string key="ui_location">Location</string>
-	<string key="ui_how_does_war_work">How does war work?</string>
+	<string key="ui_how_does_war_work">How War Works</string>
 	<string key="ui_how_does_invasion_work">How does Invasion work?</string>
 	<string key="ui_signup_restriction_tooltip">You cannot sign up for your faction's opponent.</string>
 	<string key="ui_signup_nofaction_tooltip">You must have a faction to sign up for a war.</string>
@@ -654,10 +658,11 @@
 	<string key="ui_how_war_works">War Tutorial</string>
 	<string key="ui_how_invasion_works">Invasion Tutorial</string>
 	<string key="ui_tutorial_level_requirement">&lt;font color="#ffe294"&gt;Player level {level}&lt;/font&gt; is required to participate in an invasion.</string>
-	<string key="ui_raid_time_remaining">&lt;font color="#bababa"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{time}&lt;/font&gt;&lt;/font&gt; Remaining</string>
+	<string key="ui_raid_time_remaining">&lt;font color="#bababa"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{time}&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_current_time">Current time : &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{time}&lt;/font&gt;</string>
 	<string key="ui_manage_army">Manage Army</string>
 	<string key="ui_invitation_time">Invitations will be sent at\n&lt;font color="#ffdd85"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{time}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_warinvitation_time">Invitation will be sent out in</string>
 	<string key="ui_normal">Normal</string>
 	<string key="ui_high">High</string>
 	<string key="ui_highest">Highest</string>

@@ -1,0 +1,22 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_flretraction_info_title">First Light has fallen!</string>
+	<string key="ui_flretraction_info_content1">The merciless creatures of the Angry Earth have overrun the territory now known as Old First Light. Answering the sinister call of the Ancient huntress Adiana, they've destroyed our homes and taken our friends captive, now subjecting them to unknown horrors.</string>
+	<string key="ui_flretraction_info_bullet1">The settlement at First Light has been ravaged, and the territory has been claimed by the Angry Earth.</string>
+	<string key="ui_flretraction_info_bullet2">All outstanding regional quests and tasks from First Light have been canceled. Check your journal for further details.</string>
+	<string key="ui_flretraction_info_bullet3">A wall of thorns has burst from the ground along the border of Old First Light, barring entry to any adventurers.</string>
+	<string key="ui_flretraction_info_bullet4">You last logged out in First Light. You have been relocated to {location}.</string>
+	<string key="ui_flretraction_storage_title">The settlement stores have been salvaged!</string>
+	<string key="ui_flretraction_storage_content1">As part of the evacuation of First Light, all stored goods and resources have been placed in temporary storage.</string>
+	<string key="ui_flretraction_storage_bullet1">Report to any storage facility to claim your personal property at your earliest convenience.</string>
+	<string key="ui_flretraction_storage_bullet2">Once all property has been claimed, Old First Light storage will be closed permanently.</string>
+	<string key="ui_flretraction_storage_bullet3">The local trading post was annihilated, but any pending transactions are accessible from other regions.</string>
+	<string key="ui_flretraction_storage_bullet4">Please ensure you have suitable alternatives available before you make a withdrawal.</string>
+	<string key="ui_flretraction_housing_title">Restitution for lost housing</string>
+	<string key="ui_flretraction_housing_content1">Captain Antonia Lucian of Spyglass Ridge has offered compensation for the loss of your property in First Light. \n\nThe following amount has been credited to your exchequer:</string>
+	<string key="ui_flretraction_housing_content2">All furniture from your home has been placed in storage alongside your other goods. You may withdraw your property at your leisure.</string>
+	<string key="ui_flretraction_governance_title">Compensation for governing companies!</string>
+	<string key="ui_flretraction_governance_content1">All holdings in First Light have been lost to the ravages of the Angry Earth.</string>
+	<string key="ui_flretraction_governance_bullet1">If your company has experienced a territorial loss, you will receive a one-time deposit paid directly into your treasury.</string>
+	<string key="ui_flretraction_governance_bullet2">All other rights and privileges associated with control of the territory have been lost. You have our sympathies in this time of crisis.</string>
+</resources>
+

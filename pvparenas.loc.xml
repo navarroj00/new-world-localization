@@ -1,13 +1,13 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_pvp_3v3_arena_signup_title" rel_version="Feature_PVP_Arenas">3v3 Arena</string>
 	<string key="ui_pvp_3v3_arena_queue_title" rel_version="Feature_PVP_Arenas">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3v3&lt;/font&gt; Arena</string>
-	<string key="ui_pvp_3v3_arena_leave_queue_title" rel_version="Feature_PVP_Arenas">Leave 3v3 Arena Queue?</string>
-	<string key="ui_pvp_3v3_arena_leave_desc" rel_version="Feature_PVP_Arenas">Are you sure you want to leave the queue for a 3v3 Arena?</string>
+	<string key="ui_pvp_3v3_arena_leave_queue_title" rel_version="Feature_PVP_Arenas">Leave Queue</string>
+	<string key="ui_pvp_3v3_arena_leave_desc" rel_version="Feature_PVP_Arenas">Are you sure you want to leave the 3v3 Arena queue?</string>
 	<string key="ui_pvp_3v3_arena_queue_group_removed" rel_version="Feature_PVP_Arenas">Your group has been removed from the queue for 3v3 Arena.</string>
 	<string key="ui_pvp_3v3_arena_queue_left_desc" rel_version="Feature_PVP_Arenas">Exited</string>
 	<string key="ui_pvp_3v3_arena_queue_left_reason" rel_version="Feature_PVP_Arenas">Cancelled by {player}</string>
 	<string key="ui_pvp_3v3_arena_queue_left_reason_placeholder_player" rel_version="Feature_PVP_Arenas">group member</string>
-	<string key="ui_pvp_3v3_arena_requeue_as_solo" rel_version="Feature_PVP_Arenas">Requeue as solo player</string>
+	<string key="ui_pvp_3v3_arena_requeue_as_solo" rel_version="Feature_PVP_Arenas">Requeue as solo</string>
 	<string key="ui_pvp_3v3_arena_requeue_as_group" rel_version="Feature_PVP_Arenas">Requeue as group</string>
 	<string key="ui_pvp_3v3_arena_requeue_as_solo_warning" rel_version="Feature_PVP_Arenas">If you choose to requeue as a solo player, you will leave your existing group.\n\nAre you sure?</string>
 	<string key="ui_pvp_3v3_arena_invite_notification_title" rel_version="Feature_PVP_Arenas">3v3 Arena Invite</string>
@@ -20,7 +20,7 @@
 	<string key="ui_pvparenas_signup_goal1" rel_version="Feature_PVP_Arenas">Win 3 rounds to win the match</string>
 	<string key="ui_pvparenas_signup_goal2" rel_version="Feature_PVP_Arenas">When time is up, fire will engulf the Arena</string>
 	<string key="ui_pvparenas_signup_goal3" rel_version="Feature_PVP_Arenas">As the round progresses, healing is reduced</string>
-	<string key="ui_pvparenas_leave_queue_title" rel_version="Feature_PVP_Arenas">Leave 3v3 Arena Queue?</string>
+	<string key="ui_pvparenas_leave_queue_title" rel_version="Feature_PVP_Arenas">Leave Queue</string>
 	<string key="ui_pvparenas_leave_queue_desc" rel_version="Feature_PVP_Arenas">Are you sure you want to leave the 3v3 Arena queue?</string>
 	<string key="ui_pvparenas_requeue" rel_version="Feature_PVP_Arenas">Queue Again</string>
 	<string key="ui_pvparenas_exit_match" rel_version="Feature_PVP_Arenas">Exit Match</string>
@@ -31,21 +31,21 @@
 	<string key="ui_pvparenas_player_disconnected" rel_version="Feature_PVP_Arenas">&lt;font color={teamColor}&gt;{player}&lt;/font&gt; exited the match</string>
 	<string key="ui_pvparenas_queue_for_bracket" rel_version="Feature_PVP_Arenas">Queue for level {bracketLevels}.</string>
 	<string key="ui_pvparenas_queue_as_group_warning" rel_version="Feature_PVP_Arenas">Groups queue for the level bracket of their highest level member. One or more members of your group are below this level bracket.</string>
-	<string key="ui_pvparenas_group_ineligible" rel_version="Feature_PVP_Arenas">Not all group members are above the minimum level of {levelRequirement}</string>
+	<string key="ui_pvparenas_group_ineligible" rel_version="Feature_PVP_Arenas">Not all group members are above the minimum level of {levelRequirement}.</string>
 	<string key="ui_pvparenas_failgrouppenalty" rel_version="Feature_PVP_Arenas">One or more of your group members have a penalty timer for leaving a previous 3v3 Arena match.</string>
 	<string key="ui_pvparenas_group_too_large" rel_version="Feature_PVP_Arenas">Group too large to join.</string>
-	<string key="ui_pvparenas_group_too_large_tooltip" rel_version="Feature_PVP_Arenas">Group size must be {groupSizeRequirement} or less</string>
+	<string key="ui_pvparenas_group_too_large_tooltip" rel_version="Feature_PVP_Arenas">Group size must be {groupSizeRequirement} or less.</string>
 	<string key="ui_pvparenas_too_many_items" rel_version="Feature_PVP_Arenas">You have too many unique items in your inventory to enter this game mode.</string>
-	<string key="ui_pvparenas_too_many_items_tooltip" rel_version="Feature_PVP_Arenas">Reduce your inventory by {numItemsToRemove} item(s)</string>
+	<string key="ui_pvparenas_too_many_items_tooltip" rel_version="Feature_PVP_Arenas">Reduce your inventory by {numItemsToRemove} item(s).</string>
 	<string key="ui_pvparenas_cannotleavegroup_in_arena" rel_version="Feature_PVP_Arenas">You cannot leave your group while in a 3v3 Arena.</string>
-	<string key="ui_pvp_arena_leave" rel_version="Feature_PVP_Arenas">Leave 3v3 Arena</string>
+	<string key="ui_pvp_arena_leave" rel_version="Feature_PVP_Arenas">Leave Activity</string>
 	<string key="ui_pvp_arena_leave_desc" rel_version="Feature_PVP_Arenas">Are you sure you want to leave 3v3 Arena?</string>
 	<string key="ui_pvp_arena_leave_desc_time" rel_version="Feature_PVP_Arenas">Are you sure you want to leave 3v3 Arena?\nYou will be unable to queue for 3v3 Arena again for &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt;.</string>
-	<string key="ui_pvp_arena_leave_title" rel_version="Feature_PVP_Arenas">Leave 3v3 Arena?</string>
-	<string key="ui_cannot_travel_pvp_arena" rel_version="Feature_PVP_Arenas">You cannot fast travel while in 3v3 Arena</string>
+	<string key="ui_pvp_arena_leave_title" rel_version="Feature_PVP_Arenas">Leave Activity</string>
+	<string key="ui_cannot_travel_pvp_arena" rel_version="Feature_PVP_Arenas">You cannot fast travel while in 3v3 Arena.</string>
 	<string key="ui_pvparenas_cannot_use_item" rel_version="Feature_PVP_Arenas">Cannot use this item in 3v3 Arenas</string>
 	<string key="ui_pvparenas_equip_items_title" rel_version="Feature_PVP_Arenas">Make Preparations</string>
-	<string key="ui_pvparenas_equip_items_desc" rel_version="Feature_PVP_Arenas">Check equipment and consumables</string>
+	<string key="ui_pvparenas_equip_items_desc" rel_version="Feature_PVP_Arenas">Check equipment and consumables.</string>
 	<string key="ui_pvparenas_waiting_for_players" rel_version="Feature_PVP_Arenas">Waiting For Players</string>
 	<string key="ui_pvparenas_waiting_for_players_queue_hud" rel_version="Feature_PVP_Arenas">Waiting For Players ({numAccepted}/{numTotal})</string>
 	<string key="ui_pvparenas_time_remaining" rel_version="Feature_PVP_Arenas">{seconds} Remaining</string>

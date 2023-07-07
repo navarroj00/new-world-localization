@@ -103,5 +103,22 @@
 	<string key="TempestRisingMB08" start="72" end="77" dialogue-next="TempestRisingMB09">The only thing I had not foreseen is you.</string>
 	<string key="TempestRisingMB09" start="77" end="85" dialogue-next="TempestRisingMB10">You who have stolen the gift meant for me. And now your soul will pay the price.</string>
 	<string key="TempestRisingMB10" start="85" end="100">For I will not stop until I have seized back the destiny stolen from us. And brought true freedom to the world both old and new.</string>
+	<string key="DevourerLegacy01" start="1" end="6" dialogue-next="DevourerLegacy02">The Babylonians called them, "Akilu."</string>
+	<string key="DevourerLegacy02" start="7" end="10" dialogue-next="DevourerLegacy03">The Egyptians, "Shah Neshen."</string>
+	<string key="DevourerLegacy03" start="11" end="14" dialogue-next="DevourerLegacy04">Its meaning? "The Devourer."</string>
+	<string key="DevourerLegacy04" start="15" end="23" dialogue-next="DevourerLegacy05">Vested with the power of the Titans, even the Ancients could not control them.</string>
+	<string key="DevourerLegacy05" start="23" end="31" dialogue-next="DevourerLegacy06">But our tribe, the Blood of the Sands, earned their trust, learned to speak to them.</string>
+	<string key="DevourerLegacy06" start="31" end="37" dialogue-next="DevourerLegacy07">And in time, we fought together in battle as one.</string>
+	<string key="DevourerLegacy07" start="38" end="45" dialogue-next="DevourerLegacy08">We called them "šà-hul sahar," the heart of the desert.</string>
+	<string key="DevourerLegacy08" start="45" end="52" dialogue-next="DevourerLegacy09">But when the Ancients vanished, the šà-hul retreated deep beneath the sands...</string>
+	<string key="DevourerLegacy09" start="53" end="56" dialogue-next="DevourerLegacy10">We heard them, no more.</string>
+	<string key="DevourerLegacy10" start="57" end="61" dialogue-next="DevourerLegacy11">Their eggs remained, but were plundered by the wicked.</string>
+	<string key="DevourerLegacy11" start="62" end="66" dialogue-next="DevourerLegacy12">We failed in our duty to protect them.</string>
+	<string key="DevourerLegacy12" start="67" end="75" dialogue-next="DevourerLegacy13">To preserve the last of the eggs, we sent forth bearers to hide them until the day of prophesy.</string>
+	<string key="DevourerLegacy13" start="75" end="79" dialogue-next="DevourerLegacy14">Their locations, scattered to the winds.</string>
+	<string key="DevourerLegacy14" start="83" end="87" dialogue-next="DevourerLegacy15">But the eggs are still alive.</string>
+	<string key="DevourerLegacy15" start="88" end="93" dialogue-next="DevourerLegacy16">And should they awaken without the Blood of the Sands to tend them...</string>
+	<string key="DevourerLegacy16" start="94" end="100">The world will know the true meaning of "Devourer."</string>
+	<string key="FinalCinePlaceholderSub01" start="1" end="15">Placeholder video for the final version.</string>
 </resources>
 

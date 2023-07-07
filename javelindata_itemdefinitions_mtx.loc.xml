@@ -135,10 +135,10 @@
 	<string key="Skin_Mar2023_Hatchet_Description" rel_version="Weapon_Firelight_Hatchet">“Be the blaze that brings light to the morrow.”</string>
 	<string key="Skin_Mar2023_Warhammer_MasterName" rel_version="Weapon_Firelight_Warhammer">Iron-forged Furnace</string>
 	<string key="Skin_Mar2023_Warhammer_Description" rel_version="Weapon_Firelight_Warhammer">As heavy as an anvil; as hot as the forge.</string>
-	<string key="Skin_Mar2023_Firestaff_MasterName" rel_version="Weapon_Firelight_Firestaff">Lodestar Lantern</string>
-	<string key="Skin_Mar2023_Firestaff_Description" rel_version="Weapon_Firelight_Firestaff">Lost souls crave the warmth of its glow.</string>
-	<string key="Skin_Mar2023_Lifestaff_MasterName" rel_version="Weapon_Firelight_Lifestaff">Burning Beacon</string>
-	<string key="Skin_Mar2023_Lifestaff_Description" rel_version="Weapon_Firelight_Lifestaff">It’s said that on a stormy night, its light can shine brighter and further than any lighthouse.</string>
+	<string key="Skin_Mar2023_Firestaff_MasterName" rel_version="Weapon_Firelight_FireStaff">Lodestar Lantern</string>
+	<string key="Skin_Mar2023_Firestaff_Description" rel_version="Weapon_Firelight_FireStaff">Lost souls crave the warmth of its glow.</string>
+	<string key="Skin_Mar2023_Lifestaff_MasterName" rel_version="Weapon_Firelight_LifeStaff">Burning Beacon</string>
+	<string key="Skin_Mar2023_Lifestaff_Description" rel_version="Weapon_Firelight_LifeStaff">It’s said that on a stormy night, its light can shine brighter and further than any lighthouse.</string>
 	<string key="Skin_Mar2023_ShieldT_MasterName" rel_version="Weapon_Firelight_ShieldT">Firelight Tower</string>
 	<string key="Skin_Mar2023_ShieldT_Description" rel_version="Weapon_Firelight_ShieldT">A faint light embers on its surface.</string>
 	<string key="Skin_Mar2023_IceGauntlet_MasterName" rel_version="Weapon_Firelight_IceGauntlet">Frozen Flame</string>
@@ -236,13 +236,21 @@
 	<string key="Skin_Apr2023_Rapier_MasterName" rel_version="Weapon_Highwayman_Rapier">Scoundrel's Steel</string>
 	<string key="Skin_Apr2023_Rapier_Description" rel_version="Weapon_Highwayman_Rapier">Proof that the gentry don't have a monopoly on fencing.</string>
 	<string key="Skin_Apr2023_IceGauntlet_MasterName" rel_version="Weapon_Highwayman_IceGauntlet">Cold Grip</string>
-	<string key="Skin_Apr2023_IceGauntlet_Description" rel_version="Weapon_Highwayman_IceGauntlet">Some might call the cold a mercy, though its debatable.</string>
+	<string key="Skin_Apr2023_IceGauntlet_Description" rel_version="Weapon_Highwayman_IceGauntlet">Some might call the cold a mercy, though it's debatable.</string>
 	<string key="Skin_Apr2023_ShieldT_MasterName" rel_version="Weapon_Highwayman_ShieldT">Nicked Escutcheon</string>
 	<string key="Skin_Apr2023_ShieldT_Description" rel_version="Weapon_Highwayman_ShieldT">Whether or not this shield has seen better days is really a matter of perspective.</string>
 	<string key="Skin_Apr2023_Hatchet_MasterName" rel_version="Weapon_Highwayman_Hatchet">Remodeled Butcher</string>
 	<string key="Skin_Apr2023_Hatchet_Description" rel_version="Weapon_Highwayman_Hatchet">The sharp, serrated teeth were a nice touch to an otherwise verily lethal hatchet.</string>
 	<string key="Skin_Apr2023_WarHammer_MasterName" rel_version="Weapon_Highwayman_Warhammer">Poached Mauler</string>
 	<string key="Skin_Apr2023_WarHammer_Description" rel_version="Weapon_Highwayman_Warhammer">What is of more value than the most dangerous game?</string>
+	<string key="House_HousingItem_Entitlement_FrontierWasteland2023_RoomDivider01_MasterName" rel_version="Housing_Wasteland_MTX_Pack_2023">Veneer Partition-Nook</string>
+	<string key="House_HousingItem_Entitlement_FrontierWasteland2023_RoomDivider01_Description" rel_version="Housing_Wasteland_MTX_Pack_2023">Protect your privacy from trapezing lumberjacks.</string>
+	<string key="House_HousingItem_Entitlement_FrontierWasteland2023_DeerWallMountr01_MasterName" rel_version="Housing_Wasteland_MTX_Pack_2023">Stag Wall Mount</string>
+	<string key="House_HousingItem_Entitlement_FrontierWasteland2023_DeerWallMountr01_Description" rel_version="Housing_Wasteland_MTX_Pack_2023">A fine kill. Not yours, mind you, but a fine one nonetheless.</string>
+	<string key="House_HousingItem_Entitlement_FrontierWasteland2023_AnimalRug01_MasterName" rel_version="Housing_Wasteland_MTX_Pack_2023">Fox Skin Rug</string>
+	<string key="House_HousingItem_Entitlement_FrontierWasteland2023_AnimalRug01_Description" rel_version="Housing_Wasteland_MTX_Pack_2023">Now that you think about it, you've yet to see foxes in Aeternum...</string>
+	<string key="House_HousingItem_Entitlement_FrontierWasteland2023_Bathtub01_MasterName" rel_version="Housing_Wasteland_MTX_Pack_2023">Tooth-and-Clawfoot Bathtub</string>
+	<string key="House_HousingItem_Entitlement_FrontierWasteland2023_Bathtub01_Description" rel_version="Housing_Wasteland_MTX_Pack_2023">After bloodily persevering savage foes and feral animals, relish in a twee bubble bath.</string>
 	<string key="Skin_Chest_MedievalHistoric_HounSkull_MasterName" rel_version="Entitlements_MedievalHistoric">Argent Herald</string>
 	<string key="Skin_Chest_MedievalHistoric_HounSkull_Description" rel_version="Entitlements_MedievalHistoric">The heralding hero, clad in silver, proudly bears the charge of the people's kingdom.</string>
 	<string key="Skin_Head_MedievalHistoric_HounSkull_MasterName" rel_version="Entitlements_MedievalHistoric">Argent HounSkull</string>
@@ -297,5 +305,73 @@
 	<string key="Skin_MedievalHistoric_Spear_Description" rel_version="Weapon_MedievalHistoric_Spear">The venerable design harkens back to antiquity, to a time of honor and glory.</string>
 	<string key="May2023_Container_MasterName" rel_version="Entitlements_MedievalHistoric">Gilded Supply Chest</string>
 	<string key="May2023_Container_Description" rel_version="Entitlements_MedievalHistoric">May these supplies serve you well in your next battle.</string>
+	<string key="Skin_Head_Jun2023_FrontWasteShawl_MasterName">Outback Pioneer's Slouch Hat</string>
+	<string key="Skin_Chest_Jun2023_FrontWasteShawl_Description">No quarry is beyond your reach, from the mountains to the badlands.</string>
+	<string key="Skin_Chest_Jun2023_FrontWasteShawl_MasterName">Outback Pioneer's Raw Poncho</string>
+	<string key="Skin_Head_Jun2023_FrontWasteShawl_Description">No quarry is beyond your reach, from the mountains to the badlands.</string>
+	<string key="Skin_Hands_Jun2023_FrontWasteShawl_MasterName">Outback Pioneer's Thick Gloves</string>
+	<string key="Skin_Legs_Jun2023_FrontWasteShawl_Description">No quarry is beyond your reach, from the mountains to the badlands.</string>
+	<string key="Skin_Legs_Jun2023_FrontWasteShawl_MasterName">Outback Pioneer's Hiking Trousers</string>
+	<string key="Skin_Feet_Jun2023_FrontWasteShawl_Description">No quarry is beyond your reach, from the mountains to the badlands.</string>
+	<string key="Skin_Feet_Jun2023_FrontWasteShawl_MasterName">Outback Pioneer's Steel-Toed Boots</string>
+	<string key="Skin_Hands_Jun2023_FrontWasteShawl_Description">No quarry is beyond your reach, from the mountains to the badlands.</string>
+	<string key="Skin_Head_Jun2023_FrontWasteGambeson_MasterName">The Longhorn</string>
+	<string key="Skin_Chest_Jun2023_FrontWasteGambeson_MasterName">Longhorn Plated Gambeson</string>
+	<string key="Skin_Hands_Jun2023_FrontWasteGambeson_MasterName">Longhorn Layered Gauntlets</string>
+	<string key="Skin_Legs_Jun2023_FrontWasteGambeson_MasterName">Longhorn Layered Tassets</string>
+	<string key="Skin_Feet_Jun2023_FrontWasteGambeson_MasterName">Longhorn Fringed Schynbalds</string>
+	<string key="Skin_Chest_Jun2023_FrontWasteGambeson_Description">The perfect suit of armor to accomodate your majestic horns, or to simply leave your enemies guessing.</string>
+	<string key="Skin_Head_Jun2023_FrontWasteGambeson_Description">The perfect suit of armor to accomodate your majestic horns, or to simply leave your enemies guessing.</string>
+	<string key="Skin_Legs_Jun2023_FrontWasteGambeson_Description">The perfect suit of armor to accomodate your majestic horns, or to simply leave your enemies guessing.</string>
+	<string key="Skin_Feet_Jun2023_FrontWasteGambeson_Description">The perfect suit of armor to accomodate your majestic horns, or to simply leave your enemies guessing.</string>
+	<string key="Skin_Hands_Jun2023_FrontWasteGambeson_Description">The perfect suit of armor to accomodate your majestic horns, or to simply leave your enemies guessing.</string>
+	<string key="Skin_Head_Jun2023_FrontWasteDeluxe_MasterName">Etched Bascinet of the Badlands</string>
+	<string key="Skin_Chest_Jun2023_FrontWasteDeluxe_MasterName">Alated Cuirass of the Badlands</string>
+	<string key="Skin_Hands_Jun2023_FrontWasteDeluxe_MasterName">Barbed Gauntlets of the Badlands</string>
+	<string key="Skin_Legs_Jun2023_FrontWasteDeluxe_MasterName">Reinforced Poleyn of the Badlands</string>
+	<string key="Skin_Feet_Jun2023_FrontWasteDeluxe_MasterName">Spurred Greaves of the Badlands</string>
+	<string key="Skin_Chest_Jun2023_FrontWasteDeluxe_Description">Cut an imposing silhouette as you roam the frontier, striking fear into the hearts of your foes.</string>
+	<string key="Skin_Head_Jun2023_FrontWasteDeluxe_Description">Cut an imposing silhouette as you roam the frontier, striking fear into the hearts of your foes.</string>
+	<string key="Skin_Legs_Jun2023_FrontWasteDeluxe_Description">Cut an imposing silhouette as you roam the frontier, striking fear into the hearts of your foes.</string>
+	<string key="Skin_Feet_Jun2023_FrontWasteDeluxe_Description">Cut an imposing silhouette as you roam the frontier, striking fear into the hearts of your foes.</string>
+	<string key="Skin_Hands_Jun2023_FrontWasteDeluxe_Description">Cut an imposing silhouette as you roam the frontier, striking fear into the hearts of your foes.</string>
+	<string key="Skin_Head_Jun2023_FrontWasteTwitch_MasterName">Wasteland Wanderer's Rimmed Armet</string>
+	<string key="Skin_Chest_Jun2023_FrontWasteTwitch_MasterName">Wasteland Wanderer's Weathered Duster</string>
+	<string key="Skin_Hands_Jun2023_FrontWasteTwitch_MasterName">Wasteland Wanderer's Finger-Gloves</string>
+	<string key="Skin_Legs_Jun2023_FrontWasteTwitch_MasterName">Wasteland Wanderer's Layered Chaps</string>
+	<string key="Skin_Feet_Jun2023_FrontWasteTwitch_MasterName">Wasteland Wanderer's Guarded Buskins</string>
+	<string key="Skin_Chest_Jun2023_FrontWasteTwitch_Description">Stalk the plains and mountains alike with the fear of no beast or being.</string>
+	<string key="Skin_Head_Jun2023_FrontWasteTwitch_Description">Stalk the plains and mountains alike with the fear of no beast or being.</string>
+	<string key="Skin_Legs_Jun2023_FrontWasteTwitch_Description">Stalk the plains and mountains alike with the fear of no beast or being.</string>
+	<string key="Skin_Feet_Jun2023_FrontWasteTwitch_Description">Stalk the plains and mountains alike with the fear of no beast or being.</string>
+	<string key="Skin_Hands_Jun2023_FrontWasteTwitch_Description">Stalk the plains and mountains alike with the fear of no beast or being.</string>
+	<string key="Skin_ShieldT_FrontierWastelander_MasterName">Tower Shield of the Briar Rose</string>
+	<string key="Skin_ShieldT_FrontierWastelander_Description">Determined as the Briar, Exceptional as the Rose.</string>
+	<string key="Skin_Warhammer_FrontierWastelander_MasterName">Warhammer of the Briar Rose</string>
+	<string key="Skin_Warhammer_FrontierWastelander_Description">Stubborn as the Briar, Striking as the Rose.</string>
+	<string key="Skin_Bow_FrontierWastelander_MasterName">Bow of the Briar Rose</string>
+	<string key="Skin_Bow_FrontierWastelander_Description">Relentless as the Briar, Thorny as the Rose.</string>
+	<string key="Skin_Greatsword_FrontierWastelander_MasterName">Greatsword of the Briar Rose</string>
+	<string key="Skin_Greatsword_FrontierWastelander_Description">Enduring as the Briar, Dignified as the Rose.</string>
+	<string key="Skin_LifeStaff_FrontierWastelander_MasterName">Lifestaff of the Briar Rose</string>
+	<string key="Skin_LifeStaff_FrontierWastelander_Description">Hardy as the Briar, Benevolent as the Rose.</string>
+	<string key="Skin_IceGauntlet_FrontierWastelander_MasterName">Ice Gauntlet of the Briar Rose</string>
+	<string key="Skin_IceGauntlet_FrontierWastelander_Description">Ceaseless as the Briar, Magnificent as the Rose.</string>
+	<string key="Skin_FishingPole_FrontierWastelander_MasterName">Nameless Vagabond's Fishing Pole</string>
+	<string key="Skin_FishingPole_FrontierWastelander_Description">The land provides - but so do the waters, if you know where to look.</string>
+	<string key="Skin_AzothStaff_FrontierWastelander_MasterName">Nameless Vagabond's Azoth Scepter</string>
+	<string key="Skin_AzothStaff_FrontierWastelander_Description">A rugged implement meant to withstand the fury of nature and humankind alike.</string>
+	<string key="Skin_LoggingAxe_FrontierWastelander_MasterName">Nameless Vagabond's Logging Axe</string>
+	<string key="Skin_LoggingAxe_FrontierWastelander_Description">Better used for trees, but sharp enough for other uses.</string>
+	<string key="Skin_Pickaxe_FrontierWastelander_MasterName">Nameless Vagabond's Pickaxe</string>
+	<string key="Skin_Pickaxe_FrontierWastelander_Description">Unearth Aeternum's undiscovered treasures. Or at least some Ore.</string>
+	<string key="Skin_Sickle_FrontierWastelander_MasterName">Nameless Vagabond's Sickle</string>
+	<string key="Skin_Sickle_FrontierWastelander_Description">For reaping of the sort found off the field of battle.</string>
+	<string key="Skin_SkinningKnife_FrontierWastelander_MasterName">Nameless Vagabond's Skinning Knife</string>
+	<string key="Skin_SkinningKnife_FrontierWastelander_Description">Waste not - all parts of your quarry are useful in their way.</string>
+	<string key="Jun2023_Container_MasterName">Frontier Supply Crate</string>
+	<string key="Jun2023_Container_Description">Everything you need for venturing into the vast unknown.</string>
+	<string key="PrimeDay2023_Container_MasterName">Prime Bounty</string>
+	<string key="PrimeDay2023_Container_Description">A cache of fine items that had been stashed away for a special day.</string>
 </resources>
 

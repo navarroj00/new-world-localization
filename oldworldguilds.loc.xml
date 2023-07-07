@@ -71,7 +71,7 @@
 	<string key="owg_factionwarinfo_title_1_desc_3_bullet_2">Complete Town Missions to Upgrade the Settlement</string>
 	<string key="owg_factionwarinfo_title_2">PvP &amp; Faction War</string>
 	<string key="owg_factionwarinfo_title_2_desc_1">Flagging for PvP</string>
-	<string key="owg_factionwarinfo_title_2_desc_1_bullet_1">Flag for PvP from any Settlement or Outpost (default key U)</string>
+	<string key="owg_factionwarinfo_title_2_desc_1_bullet_1">Flag for PvP from any Settlement or Outpost</string>
 	<string key="owg_factionwarinfo_title_2_desc_1_bullet_2">Get &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;additional XP&lt;/font&gt; and &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;increased Global Luck&lt;/font&gt; when flagged</string>
 	<string key="owg_factionwarinfo_title_2_desc_1_bullet_3">Contribute to &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Faction Influence&lt;/font&gt; within the Territory</string>
 	<string key="owg_factionwarinfo_title_2_desc_2">Territory Control</string>
@@ -95,15 +95,15 @@
 	<string key="owg_factionwarinfo_title_3_desc_2_bullet_3">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Prevent other Factions&lt;/font&gt; from completing PvP Faction Missions by flagging for PvP and patrolling the Territory</string>
 	<string key="owg_factionwarinfo_title_3_desc_2_bullet_4">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Prevent the controlling&lt;/font&gt; Faction from completing PvP Faction Missions by flagging for PvP and patrolling those Territories</string>
 	<string key="owg_factionwarinfo_title_4">flag for pvp</string>
-	<string key="owg_factionwarinfo_title_4_desc_1_bullet_1">Turn your PvP flag on (default key U) from any Sanctuary, such as a Settlement or Outpost.</string>
+	<string key="owg_factionwarinfo_title_4_desc_1_bullet_1">Turn your PvP flag on from any Sanctuary, such as a Settlement or Outpost.</string>
 	<string key="owg_factionwarinfo_title_4_desc_1_bullet_2">Upon leaving a Settlement, you receive a &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;30 second timer&lt;/font&gt; before becoming flagged. Once the timer expires, you are free to engage flagged members of the opposing Factions</string>
 	<string key="owg_factionwarinfo_title_4_desc_1_bullet_3">Turning on your PvP flag grants &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;an XP Bonus&lt;/font&gt; and allows you to participate in PvP missions, control Territory Forts, and battle other players.</string>
 	<string key="owg_factionwarinfo_title_4_desc_1_bullet_4" rel_version="PvP_Rewards_Track">Completing PVP activities will progress your PvP Reward Track.</string>
 	<string key="owg_factionwarinfo_title_4_desc_1_bullet_5" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Azoth Salt will be awarded&lt;/font&gt; when PvP kills happen outside of modes.</string>
-	<string key="owg_factionwarinfo_title_5" rel_version="PvP_Rewards_Track">PVP REWARD TRACK</string>
+	<string key="owg_factionwarinfo_title_5" rel_version="PvP_Rewards_Track">PvP REWARD TRACK</string>
 	<string key="owg_factionwarinfo_title_5_desc_1_bullet_1" rel_version="PvP_Rewards_Track">The PvP Reward Track contains PvP-specific rewards for doing PvP activities in the game. The track can be completed and run again to get a different selection of rewards, with more prestigious rewards becoming available as more tracks are completed.</string>
-	<string key="owg_factionwarinfo_title_5_desc_2" rel_version="PvP_Rewards_Track">PVP XP</string>
-	<string key="owg_factionwarinfo_title_5_desc_2_bullet_1" rel_version="PvP_Rewards_Track">Progress your track by engaging in PvP Missions, War, Outpost Rush, Capturing Forts, Defeating other players and 3v3 Arenas.</string>
+	<string key="owg_factionwarinfo_title_5_desc_2" rel_version="PvP_Rewards_Track">PvP XP</string>
+	<string key="owg_factionwarinfo_title_5_desc_2_bullet_1" rel_version="PvP_Rewards_Track">Progress your track by defeating other players and engaging in PvP Missions, War, Outpost Rush, Capturing Forts, and 3v3 Arenas.</string>
 	<string key="owg_factionwarinfo_title_5_desc_3" rel_version="PvP_Rewards_Track">AZOTH SALT</string>
 	<string key="owg_factionwarinfo_title_5_desc_3_bullet_1" rel_version="PvP_Rewards_Track">Azoth Salt is the currency that gets you rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, PvP open world kills, and earning XP while flagged.</string>
 	<string key="owg_factionwarinfo_title_5_desc_4" rel_version="PvP_Rewards_Track">REWARDS</string>
@@ -245,8 +245,8 @@
 	<string key="owg_pvp_cannotacceptmission_nosanctuary">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; until you are in a sanctuary.</string>
 	<string key="owg_pvp_cannotacceptmission_typeblocked">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; of this type at this time.</string>
 	<string key="owg_pvp_cannotacceptmission_ingroupfindergroup" rel_version="Feature_Group_Finder">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are in a PvE Lobby which will not allow you to turn on your PvP flag.</string>
-	<string key="owg_pvp_cannotacceptmission_pvpinactive_canswitch" rel_version="Feature_Alt_Character_Protection">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are PvP inactive. Would you like to become PvP active?</string>
-	<string key="owg_pvp_cannotacceptmission_pvpinactive" rel_version="Feature_Alt_Character_Protection">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are PvP inactive. You can switch to PvP active in: {timeRemaining}</string>
+	<string key="owg_pvp_cannotacceptmission_pvpinactive_canswitch" rel_version="Feature_Alt_Character_Protection">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are PvP inactive. Would you like to become PvP active?\n\n Doing so will remove your current PvP active character from any wars they are signed up for and fail any active PvP missions.</string>
+	<string key="owg_pvp_cannotacceptmission_pvpinactive" rel_version="Feature_Alt_Character_Protection">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are PvP inactive. You can switch to PvP active in: {timeRemaining}.\nIf you have recently deleted your PvP Active character, please wait 15 minutes and relog to made PvP active.</string>
 	<string key="owg_pvp_cannotacceptmission_pendinggroupfinderapplications" rel_version="Feature_Group_Finder">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you have Lobby invites which will not allow you to turn on your PvP flag.</string>
 	<string key="owg_pvp_cannotacceptmission_unknown">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; at this time.</string>
 	<string key="owg_tooltip_warning">Only 1 Mission can be active at a time.</string>
@@ -402,6 +402,7 @@
 	<string key="FactionMission_SANCTIFY_desc">Liberate {POITags}. Stand strong, walk in the light.</string>
 	<string key="FactionMission_PRESERVE_title">Preserve (PvP)</string>
 	<string key="FactionMission_PRESERVE_desc">Bless {POITags} with the light of the Spark.</string>
+	<string key="FactionMission_M_EXPEDITIONRAID_desc_singular">Delve into {POITags} for the Marauders and defeat &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_EXPEDITIONRAID_title">Raid: {POITags}</string>
 	<string key="FactionMission_EXPEDITIONRAID_desc">Delve into {POITags} for the Syndicate and defeat every &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; necessary. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_EXPEDITIONRAID_desc_singular">Delve into {POITags} for the Syndicate and defeat &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
@@ -415,7 +416,7 @@
 	<string key="FactionMission_C_INTERCEPT_desc">Defeat &lt;font color="#eaeaea"&gt;Syndicate&lt;/font&gt; or &lt;font color="#eaeaea"&gt;Marauder&lt;/font&gt; members to purify their souls.\n\n (This mission keeps your progress even on death)</string>
 	<string key="FactionMission_S_EXPEDITIONRAID_title">Purge: {POITags}</string>
 	<string key="FactionMission_S_EXPEDITIONRAID_desc">Delve into {POITags} for the Syndicate and defeat every &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; necessary. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
-	<string key="FactionMission_S_EXPEDITIONRAID_desc_singular">Delve into {POITags} for the Syndicate and defeat &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; . \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
+	<string key="FactionMission_S_EXPEDITIONRAID_desc_singular">Delve into {POITags} for the Syndicate and defeat &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_S_EXPEDITIONLOOT_title">Procure: {POITags}</string>
 	<string key="FactionMission_S_EXPEDITIONLOOT_desc">Delve into {POITags} for the Syndicate and collect each &lt;font color="#eaeaea"&gt;{itemName}&lt;/font&gt; within.\n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_C_EXPEDITIONRAID_title">Crusade: {POITags}</string>

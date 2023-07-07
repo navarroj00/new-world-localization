@@ -25,8 +25,6 @@
 	<string key="tip_overworld_azoth_acquireFrom02-content">You'll rarely collect Azoth from defeating enemies, but the likelihood can be increased with certain item perks.</string>
 	<string key="tip_overworld_camping_resting01-title">Camping</string>
 	<string key="tip_overworld_camping_resting01-content">Rest at your Camp to recover Health before going into unknown areas.</string>
-	<string key="tip_overworld_camping_crafting01-title">Camping</string>
-	<string key="tip_overworld_camping_crafting01-content">Craft basic items, food, and potions at your camp to avoid upkeep.</string>
 	<string key="tip_overworld_camping_upgrades01-title">Camp Upgrades</string>
 	<string key="tip_overworld_camping_upgrades01-content">You can unlock upgrades to your Camp by completing Special Quests at Levels 15, 25, 40, and 55. These Quests are located in Monarch's Bluffs, Cutlass Keys, Restless Shore, and Edengrove.</string>
 	<string key="tip_overworld_camping_respawn01-title">Camping</string>
@@ -55,9 +53,9 @@
 	<string key="tip_overworld_combat_duels01-content">There's no penalty for losing a Duel so don't be afraid to take on all challengers!</string>
 	<string key="tip_overworld_combat_duels02-title">Duels</string>
 	<string key="tip_overworld_combat_duels02-content">Ammo is not consumed during Duels.</string>
-	<string key="tip_overworld_combat_pvpFlagging01-title">PVP Flagging</string>
-	<string key="tip_overworld_combat_pvpFlagging01-content">You can turn your PVP flag on and off inside of Settlements, Outposts, Watchtowers, and at Spirit Shrines.</string>
-	<string key="tip_overworld_combat_pvpFlagging02-title">PVP Flagging</string>
+	<string key="tip_overworld_combat_pvpFlagging01-title">PvP Flagging</string>
+	<string key="tip_overworld_combat_pvpFlagging01-content">You can turn your PvP flag on and off inside of Settlements, Outposts, Watchtowers, and at Spirit Shrines.</string>
+	<string key="tip_overworld_combat_pvpFlagging02-title">PvP Flagging</string>
 	<string key="tip_overworld_combat_pvpFlagging02-content">Before leaving a Territory, be sure to double-check if you're Flagged for PVP!</string>
 	<string key="tip_overworld_combat_npcNameplates01-title">Enemy Nameplates</string>
 	<string key="tip_overworld_combat_npcNameplates01-content">If the enemy has a Skull &lt;img src="lyshineui/images/loadingscreen/icons/nameplateskull" xPadding="0" scale="2.0" yOffset="6.0"&gt;&lt;/img&gt; over their health bar, don't engage! This indicates a level, and difficulty, much higher than yours. Aeternum does not show mercy.</string>
@@ -88,13 +86,13 @@
 	<string key="tip_overworld_combat_lifeStaff02-title">The Life Staff</string>
 	<string key="tip_overworld_combat_lifeStaff02-content">If you want to use a Life Staff ability on yourself, press [{hint1}] + the ability key.</string>
 	<string key="tip_overworld_combat_iceGaunlet01-title">The Ice Gauntlet</string>
-	<string key="tip_overworld_combat_iceGaunlet01-content">The Ice Gauntlet is excellent at hindering enemy progression. Use the Slowing Effects to gain better positioning or give teammates an opening to do more damage.</string>
+	<string key="tip_overworld_combat_iceGaunlet01-content">The Ice Gauntlet is excellent at hindering enemy progression. Use its Slowing Effects to gain better positioning or give teammates an opening to do more damage.</string>
 	<string key="tip_overworld_combat_voidGaunlet01-title">The Void Gauntlet</string>
 	<string key="tip_overworld_combat_voidGaunlet01-content">The Void Gauntlet's numerous Buffs and Debuffs make it very effective in group combat.</string>
 	<string key="tip_overworld_combat_ai01-title">Retreating Enemies</string>
 	<string key="tip_overworld_combat_ai01-content">Enemies in the world will retreat and become temporarily invulnerable if they are led too far from home, or cannot reach you.</string>
 	<string key="tip_overworld_company_benefits01-title">Companies</string>
-	<string key="tip_overworld_company_benefits01-content">Join a Company and fight alongside your friends against the Corrupted. Also, siege opposing Faction Territories.</string>
+	<string key="tip_overworld_company_benefits01-content">Join a Company and fight alongside your friends against the Corrupted and siege opposing Faction Territories.</string>
 	<string key="tip_overworld_company_benefits02-title">Companies</string>
 	<string key="tip_overworld_company_benefits02-content">Only Companies can declare war and siege Territories to take them over. As Governor of a Territory, your Company earns coin through upkeep, gets huge discounts on Fast Travel, and contributes to the success of your whole Faction.</string>
 	<string key="tip_overworld_company_benefits03-title">Companies</string>
@@ -168,9 +166,9 @@
 	<string key="tip_overworld_factions_benefits02-title">Faction Benefit</string>
 	<string key="tip_overworld_factions_benefits02-content">Every settlement has a unique item cart in it. Visit a settlement controlled by your faction to claim free items. Be sure to check back regularly!</string>
 	<string key="tip_overworld_factions_pvpMissions01-title">Consequences of DEATH</string>
-	<string key="tip_overworld_factions_pvpMissions01-content">Some PVP Missions will be Reset if you die while they're in progress. Turn in finished PVP Missions as soon as you can to guarantee Rewards for you and your Faction!</string>
+	<string key="tip_overworld_factions_pvpMissions01-content">Some PvP Missions will be Reset if you die while they're in progress. Turn in finished PvP Missions as soon as you can to guarantee Rewards for you and your Faction!</string>
 	<string key="tip_overworld_factions_pveMissions01-title">Faction Reputation</string>
-	<string key="tip_overworld_factions_pveMissions01-content">Complete PVE Missions to increase your Faction Reputation, increase your XP, and earn access to better Faction Gear.</string>
+	<string key="tip_overworld_factions_pveMissions01-content">Complete PvE Missions to increase your Faction Reputation, increase your XP, and earn access to better Faction Gear.</string>
 	<string key="tip_overworld_factions_currency01-title">Faction Equipment</string>
 	<string key="tip_overworld_factions_currency01-content">Faction Representatives sell reliable Armor and Weapons. Consider purchasing some if you're looking for something specific.</string>
 	<string key="tip_overworld_factions_huntMissions01-title">Hunters Hunt</string>
@@ -306,7 +304,7 @@
 	<string key="tip_overworld_movement_lore01-title">Lore Pages</string>
 	<string key="tip_overworld_movement_lore01-content">Feed your head! Reading Lore Pages on Aeternum awards XP!</string>
 	<string key="tip_overworld_pings_contextualPings01-title">Contextual Pings</string>
-	<string key="tip_overworld_pings_contextualPings01-content">Quick pings [{hint1}] are contextual. Placing one in the environment, PVP enemies, or loot, will ping "Moving Here", "Danger Here", and "Loot Here".</string>
+	<string key="tip_overworld_pings_contextualPings01-content">Quick pings [{hint1}] are contextual. Placing one in the environment, PvP enemies, or loot, will ping "Moving Here", "Danger Here", and "Loot Here".</string>
 	<string key="tip_overworld_pings_pingWheel01-title">Ping Wheel</string>
 	<string key="tip_overworld_pings_pingWheel01-content">Hold [{hint1}] to open the Ping Wheel for more ping types.</string>
 	<string key="tip_overworld_pings_targetMarking01-title">Target Marking</string>
@@ -589,5 +587,21 @@
 	<string key="tip_dungeon_theDepths_bossTip01-content">The Archdeacon's mines can be destroyed before they explode. Your healer will thank you.</string>
 	<string key="tip_dungeon_theDepths_lore01-title">The Depths</string>
 	<string key="tip_dungeon_theDepths_lore01-content">[Placeholder]</string>
+	<string key="tip_trial_flamekeeper_general01-title" rel_version="Season_2_Perm">Blood of the Sands</string>
+	<string key="tip_trial_flamekeeper_general01-content" rel_version="Season_2_Perm">Fight through each wave of enemies before engaging Razhan the Hordemaster and Hadish Azar.</string>
+	<string key="tip_trial_flamekeeper_general02-title" rel_version="Season_2_Perm">Kindling</string>
+	<string key="tip_trial_flamekeeper_general02-content" rel_version="Season_2_Perm">Run over Hadish Azar's kindling lizards to extinguish their flame.</string>
+	<string key="tip_trial_flamekeeper_general03-title" rel_version="Season_2_Perm">Stop, Drop, and Roll!</string>
+	<string key="tip_trial_flamekeeper_general03-content" rel_version="Season_2_Perm">When Hadish Azar casts Stop, Drop, and Roll, drain all of your stamina to remove the effect.</string>
+	<string key="tip_trial_flamekeeper_general04-title" rel_version="Season_2_Perm">Reforging</string>
+	<string key="tip_trial_flamekeeper_general04-content" rel_version="Season_2_Perm">Razhan's minions will reforge if they live too long. Put a stop to them before it's too late!</string>
+	<string key="tip_trial_sandworm_general01-title" rel_version="Season_2_Perm">Come Prepared</string>
+	<string key="tip_trial_sandworm_general01-content" rel_version="Season_2_Perm">Equipping Chitin in your Gem Slots will reduce damage from Acid.</string>
+	<string key="tip_trial_sandworm_general02-title" rel_version="Season_2_Perm">Use the Arena</string>
+	<string key="tip_trial_sandworm_general02-content" rel_version="Season_2_Perm">Solving the Glyphs will confer a buff on all players allowing them to break Stamina Shields.</string>
+	<string key="tip_trial_sandworm_general03-title" rel_version="Season_2_Perm">Shah Neshen's Rage</string>
+	<string key="tip_trial_sandworm_general03-content" rel_version="Season_2_Perm">The Devourer will become more difficult the longer the fight takes!</string>
+	<string key="tip_trial_sandworm_general04-title" rel_version="Season_2_Perm">Party Matters</string>
+	<string key="tip_trial_sandworm_general04-content" rel_version="Season_2_Perm">Bringing a tank - or two - matters.</string>
 </resources>
 

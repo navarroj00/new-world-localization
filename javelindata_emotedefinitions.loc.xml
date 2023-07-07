@@ -371,6 +371,11 @@
 	<string key="ui_emote_ShruggyDance_name" rel_version="Emote_ShruggyDance">Shruggy Dance</string>
 	<string key="ui_emote_ShruggyDance_description" rel_version="Emote_ShruggyDance">An unsure, yet not uncool set of moves.</string>
 	<string key="emote_ShruggyDance" rel_version="Emote_ShruggyDance">{playerName} dances a shruggy dance.</string>
+	<string key="ui_emote_DoffCap_name" rel_version="Emote_DoffCap">Doff Cap</string>
+	<string key="ui_emote_DoffCap_description" rel_version="Emote_DoffCap">Courtesy counts for a lot in this world. Not as much as skill with a great axe and a band of murderous friends, but still a lot.</string>
+	<string key="emote_DoffCap" rel_version="Emote_DoffCap">{playerName} doffs his cap.</string>
+	<string key="emote_DoffCap_SHE" rel_version="Emote_DoffCap">{playerName} doffs her cap.</string>
+	<string key="emote_DoffCap_THEY" rel_version="Emote_DoffCap">{playerName} doffs their cap.</string>
 	<string key="ui_emote_SnowPileThrow_name" rel_version="Emote_SnowPileThrow">Throw Snow</string>
 	<string key="ui_emote_SnowPileThrow_description" rel_version="Emote_SnowPileThrow">Toss white fluffy snow into the chill air.</string>
 	<string key="emote_SnowPileThrow" rel_version="Emote_SnowPileThrow">{playerName} throws snow.</string>
@@ -395,6 +400,9 @@
 	<string key="ui_emote_GleamiteThrow_name" rel_version="Emote_GleamiteThrow">Gleamite Throw</string>
 	<string key="ui_emote_GleamiteThrow_description" rel_version="Emote_GleamiteThrow">Toss glittering gleamites.</string>
 	<string key="emote_GleamiteThrow" rel_version="Emote_GleamiteThrow">{playerName} throws a handful of gleamites.</string>
+	<string key="ui_emote_TrafficCop_name" rel_version="Emote_TrafficCop">Traffic Guide</string>
+	<string key="ui_emote_TrafficCop_description" rel_version="Emote_TrafficCop">What’s worse than corruption? Congestion.</string>
+	<string key="Emote_TrafficCop" rel_version="Emote_TrafficCop">{playername} is directing traffic.</string>
 	<string key="ui_emote_FlowerChildDance_name" rel_version="Emote_FlowerChildDance">Flower Child Dance</string>
 	<string key="ui_emote_FlowerChildDance_description" rel_version="Emote_FlowerChildDance">Attune yourself with nature, however corrupted that may be on Aeternum.</string>
 	<string key="emote_FlowerChildDance" rel_version="Emote_FlowerChildDance">{playerName} dances in tune with nature.</string>
@@ -426,6 +434,11 @@
 	<string key="Emote_HandHeart" rel_version="Emote_HandHeart">{playerName} makes a heart with his hands.</string>
 	<string key="Emote_HandHeart_SHE" rel_version="Emote_HandHeart">{playerName} makes a heart with her hands.</string>
 	<string key="Emote_HandHeart_THEY" rel_version="Emote_HandHeart">{playerName} makes a heart with their hands.</string>
+	<string key="ui_emote_ArmWaveDance_name" rel_version="Emote_BreakdanceArmwave">The Arm Wave</string>
+	<string key="ui_emote_ArmWaveDance_description" rel_version="Emote_BreakdanceArmwave">When you're feeling it, bust out the arm wave dance.</string>
+	<string key="Emote_ArmWaveDance" rel_version="Emote_BreakdanceArmwave">{playerName} makes a wave with his arms.</string>
+	<string key="Emote_ArmWaveDance_SHE" rel_version="Emote_BreakdanceArmwave">{playerName} makes a wave with her arms.</string>
+	<string key="Emote_ArmWaveDance_THEY" rel_version="Emote_BreakdanceArmwave">{playerName} makes a wave with their arms.</string>
 	<string key="ui_emote_Walk_Drunk_name" rel_version="Emote_Stumbling_Walk">Stumble Home Walk</string>
 	<string key="ui_emote_Walk_Drunk_description" rel_version="Emote_Stumbling_Walk">A walk suitable for traveling between the tavern and your house, if you can remember where it is.</string>
 	<string key="Emote_Walk_Drunk" rel_version="Emote_Stumbling_Walk">{playerName} walks drunkenly.</string>
@@ -434,16 +447,46 @@
 	<string key="Emote_HipTwistDance" rel_version="Emote_Dance_HipTwist">{playerName} twists his hips rhythmically.</string>
 	<string key="Emote_HipTwistDance_SHE" rel_version="Emote_Dance_HipTwist">{playerName} twists her hips rhythmically.</string>
 	<string key="Emote_HipTwistDance_THEY" rel_version="Emote_Dance_HipTwist">{playerName} twists their hips rhythmically.</string>
-	<string key="ui_emote_PointLaugh_name" rel_version="Emote_PointAndLaugh">Point and Laugh</string>
-	<string key="ui_emote_PointLaugh_description" rel_version="Emote_PointAndLaugh">Ha ha!</string>
-	<string key="Emote_PointLaugh" rel_version="Emote_PointAndLaugh">{playerName} points and laughs.</string>
-	<string key="ui_emote_ArmWaveDance_name" rel_version="Emote_BreakdanceArmwave">The Arm Wave</string>
-	<string key="ui_emote_ArmWaveDance_description" rel_version="Emote_BreakdanceArmwave">When you're feeling it, bust out the arm wave dance.</string>
-	<string key="Emote_ArmWaveDance" rel_version="Emote_BreakdanceArmwave">{playerName} makes a wave with his arms.</string>
-	<string key="Emote_ArmWaveDance_SHE" rel_version="Emote_BreakdanceArmwave">{playerName} makes a wave with her arms.</string>
-	<string key="Emote_ArmWaveDance_THEY" rel_version="Emote_BreakdanceArmwave">{playerName} makes a wave with their arms.</string>
 	<string key="ui_emote_Walk_Fashion_name" rel_version="Emote_FashionWalk">Fashion Walk</string>
 	<string key="ui_emote_Walk_Fashion_description" rel_version="Emote_FashionWalk">Strut your stuff!</string>
 	<string key="Emote_Walk_Fashion" rel_version="Emote_FashionWalk">{playerName} walks confidently and fashionably.</string>
+	<string key="ui_emote_PointLaugh_name" rel_version="Emote_PointAndLaugh">Point and Laugh</string>
+	<string key="ui_emote_PointLaugh_description" rel_version="Emote_PointAndLaugh">Ha ha!</string>
+	<string key="Emote_PointLaugh" rel_version="Emote_PointAndLaugh">{playerName} points and laughs.</string>
+	<string key="ui_emote_BugJar_name" rel_version="Emote_BugJar">Maudlinbug Jar</string>
+	<string key="ui_emote_BugJar_description" rel_version="Emote_BugJar">A source of light on a dark Aeternum summer night.</string>
+	<string key="Emote_BugJar" rel_version="Emote_BugJar">{playerName} captures a Maudlinbug in a jar.</string>
+	<string key="ui_emote_PiedPiper_name" rel_version="Emote_PiedPiper">Pied Piper</string>
+	<string key="ui_emote_PiedPiper_description" rel_version="Emote_PiedPiper">You've always considered yourself a leader. And a master flutist.</string>
+	<string key="Emote_PiedPiper" rel_version="Emote_PiedPiper">{playerName} plays the flute.</string>
+	<string key="ui_emote_WormDance_name" rel_version="Emote_WormDance">Worm Dance</string>
+	<string key="ui_emote_WormDance_description" rel_version="Emote_WormDance">A dance move for the one-dimensional.</string>
+	<string key="Emote_WormDance" rel_version="Emote_WormDance">{playerName} moves his arms like a worm.</string>
+	<string key="Emote_WormDance_SHE" rel_version="Emote_WormDance">{playerName} moves her arms like a worm.</string>
+	<string key="Emote_WormDance_THEY" rel_version="Emote_WormDance">{playerName} moves their arms like a worm.</string>
+	<string key="ui_emote_PocketSand_name" rel_version="Emote_PocketSand">Pocket Sand</string>
+	<string key="ui_emote_PocketSand_description" rel_version="Emote_PocketSand">Tactically blind your opponent with a fistful of granularity.</string>
+	<string key="Emote_PocketSand" rel_version="Emote_PocketSand">{playerName} used sand self-defense!</string>
+	<string key="ui_emote_CallMe_name" rel_version="Emote_CallMe">Call Me</string>
+	<string key="ui_emote_CallMe_description" rel_version="Emote_CallMe">Let's connect.</string>
+	<string key="Emote_CallMe" rel_version="Emote_CallMe">{playerName} pretends to contact someone.</string>
+	<string key="ui_emote_BadSmell_name" rel_version="Emote_BadSmell">Something Stinks</string>
+	<string key="ui_emote_BadSmell_description" rel_version="Emote_BadSmell">He who smelt it did not, in fact, delt it.</string>
+	<string key="Emote_BadSmell" rel_version="Emote_BadSmell">Something stinks and it's not {playername}.</string>
+	<string key="ui_emote_Facepalm_name" rel_version="Emote_Facepalm">Facepalm</string>
+	<string key="ui_emote_Facepalm_description" rel_version="Emote_Facepalm">For when you simply lack the words.</string>
+	<string key="Emote_Facepalm" rel_version="Emote_Facepalm">{playername} facepalms.</string>
+	<string key="ui_emote_Surrender_name" rel_version="Emote_Surrender">Surrender</string>
+	<string key="ui_emote_Surrender_description" rel_version="Emote_Surrender">REPLACEME</string>
+	<string key="Emote_Surrender" rel_version="Emote_Surrender">{playerName} surrenders.</string>
+	<string key="ui_emote_ChefKiss_name" rel_version="Emote_ChefKiss">Chef's Kiss</string>
+	<string key="ui_emote_ChefKiss_description" rel_version="Emote_ChefKiss">For a job well done.</string>
+	<string key="Emote_ChefKiss" rel_version="Emote_ChefKiss">{playerName} gives a chef's kiss.</string>
+	<string key="ui_emote_DeathDrop_name" rel_version="Emote_DeathDrop">Death Drop</string>
+	<string key="ui_emote_DeathDrop_description" rel_version="Emote_DeathDrop">Die. Hard.</string>
+	<string key="Emote_DeathDrop" rel_version="Emote_DeathDrop">{playerName} drops dead.</string>
+	<string key="ui_emote_Thanks_name" rel_version="Emote_Thanks">Thanks</string>
+	<string key="ui_emote_Thanks_description" rel_version="Emote_Thanks">Much appreciated!</string>
+	<string key="Emote_Thanks" rel_version="Emote_Thanks">{playerName} makes a gesture of appreciation.</string>
 </resources>
 

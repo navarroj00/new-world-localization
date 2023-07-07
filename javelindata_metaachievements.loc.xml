@@ -973,6 +973,8 @@
 	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Territory Control Medalist</string>
 	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Territory Control Medalist</string>
 	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Territory Control Medalist</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_trial_devourer_title" rel_version="Trial_Brimstone_Sandworm">The Devourer Victor</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_trial_devourer_title" rel_version="Trial_Brimstone_Sandworm">The Devourer Medalist</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1">Arcane Provisioner</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1_SHE">Arcane Provisioner</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1_THEY">Arcane Provisioner</string>
@@ -2175,6 +2177,9 @@
 	<string key="ui_metachievement_territorystanding_firstlight_title1">First Light: Making Headway</string>
 	<string key="ui_metachievement_territorystanding_firstlight_title1_SHE">First Light: Making Headway</string>
 	<string key="ui_metachievement_territorystanding_firstlight_title1_THEY">First Light: Making Headway</string>
+	<string key="ui_metachievement_territorystanding_firstlight_title_retract_10">Getting to Know New People</string>
+	<string key="ui_metachievement_territorystanding_firstlight_title_retract_10_SHE">Getting to Know New People</string>
+	<string key="ui_metachievement_territorystanding_firstlight_title_retract_10_THEY">Getting to Know New People</string>
 	<string key="ui_metachievement_territorystanding_firstlight_title2">First Light: Earning A Good Reputation</string>
 	<string key="ui_metachievement_territorystanding_firstlight_title2_SHE">First Light: Earning A Good Reputation</string>
 	<string key="ui_metachievement_territorystanding_firstlight_title2_THEY">First Light: Earning A Good Reputation</string>
@@ -3289,6 +3294,8 @@
 	<string key="ui_metaachievement_brimstone_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Brimestone Sands Days Governed Leaderboard.</string>
 	<string key="ui_metaachievement_all_territories_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Days Governed for All Territories.</string>
 	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Days Governed for All Territories.</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_trial_devourer_desc" rel_version="Trial_Brimstone_Sandworm">Title earned by placing Top 10 on the Devourer Elite Trial Leaderboard.</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_trial_devourer_desc" rel_version="Trial_Brimstone_Sandworm">Title earned by placing Top 50 on the Devourer Elite Trial Leaderboard.</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_generic_desc">Complete {number} Arcana PvE faction missions.</string>
 	<string key="ui_metachievement_pvefactionmissions_armory_generic_desc">Complete {number} Armoring PvE faction missions.</string>
 	<string key="ui_metachievement_pvefactionmissions_cook_generic_desc">Complete {number} Cooking PvE faction missions.</string>
@@ -3644,13 +3651,15 @@
 	<string key="ui_metachievement_quest_brimstonesands_allzq_desc" rel_version="Territory_Brimstone_Sands">Your deeds have defeated the Corrupted Legion, restored order, and brought renewed hope to the people of New Corsica.</string>
 	<string key="ui_metachievement_quest_brimstonesands_allsq_desc" rel_version="Territory_Brimstone_Sands">Your heroic deeds throughout Brimstone have spread your legend to the farthest reaches of the land.</string>
 	<string key="ui_metachievement_quest_brimstonesands_coronation_desc" rel_version="Territory_Brimstone_Sands">Having ushered in Cleopatra's new reign as Queen of Brimstone Sands, you have become her greatest defender and most trusted confidant.</string>
-	<string key="ui_metachievement_quest_brimstonesands_devourer_desc" rel_version="Territory_Brimstone_Sands">You've discovered the reawakening of Shah-Neshen the Devourer, the Terror of the Desert whom all beings fear.</string>
+	<string key="ui_metachievement_quest_brimstonesands_devourer_desc" rel_version="Territory_Brimstone_Sands">You've discovered the reawakening of Shah Neshen the Devourer, the Terror of the Desert whom all beings fear.</string>
 	<string key="ui_metachievement_quest_brimstonesands_unlock_desc" rel_version="Territory_Brimstone_Sands">You have unlocked the secret to enduring the blistering heat of Brimstone opening the way into this land of mystery.</string>
 	<string key="ui_metachievement_quest_brimstonesands_activateennead_desc" rel_version="Territory_Brimstone_Sands">Like the Ancients of old, you have activated the Gate of Night and sent forth a beacon into the impenetrable dark.</string>
 	<string key="ui_metachievement_quest_brimstonesands_thothshrine_desc" rel_version="Territory_Brimstone_Sands">You have reactivated the Ancient's miraculous portals, allowing for swift travel across the vast land of Brimstone Sands.</string>
 	<string key="ui_metachievement_quest_brimstonesands_heartgem_desc" rel_version="Territory_Brimstone_Sands">The secrets of improving your Heartgem have been revealed to you, forging you into an even more formidable champion of Aeternum.</string>
 	<string key="ui_metachievement_lore_brimstone_ancientglyphs_title" rel_version="Territory_Brimstone_Sands">Scrivener of the Ancients</string>
 	<string key="ui_metachievement_lore_brimstone_ancientglyphs_desc" rel_version="Territory_Brimstone_Sands">Having found all of the Ancient glyphs, your journey towards enlightenment has only just begun…</string>
+	<string key="ui_metachievement_pve_bossKill_trial_sandworm_title" rel_version="Territory_Brimstone_Sands">Slayer of Shah Neshen</string>
+	<string key="ui_metachievement_pve_bossKill_trial_sandworm_desc" rel_version="Territory_Brimstone_Sands">Defeat Shah Neshen in Brimstone Sands</string>
 	<string key="ui_metachievement_hidden_brimstone">Keep playing in Brimstone Sands to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_brimstone_ancientglyphs">Collect more Ancient glyphs in Brimstone Sands to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_monarchs">Keep playing in Monarch's Bluffs to complete this hidden achievement.</string>

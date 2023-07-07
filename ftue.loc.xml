@@ -236,8 +236,8 @@
 	<string key="ui_mudflats_location">MUDFLATS</string>
 	<string key="TUT_Hold">(HOLD)</string>
 	<string key="ui_content_unavailable_title">Content Unavailable</string>
-	<string key="ui_content_unavailable_message">This content is not available in the prologue.</string>
-	<string key="ftue_action_unavailable">You cannot perform this action yet</string>
+	<string key="ui_content_unavailable_message">This content is currently not available.</string>
+	<string key="ftue_action_unavailable">You cannot perform this action yet.</string>
 	<string key="Damned_Commander_FTUE_VitalsName">Corrupted Captain Thorpe</string>
 	<string key="ui_ftue_captains_chest">Captain's Stash</string>
 	<string key="ftue_archetypes_choose_your_backstory">Choose your backstory</string>

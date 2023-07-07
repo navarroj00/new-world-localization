@@ -5,22 +5,25 @@
 	<string key="ui_queue_leave_group">Leave Group</string>
 	<string key="ui_queue_leave_group_confirm_title">Leave Group</string>
 	<string key="ui_queue_leave_group_confirm_message">If the remaining group size drops below {minGroupSize} members, the group will be removed from the queue.\n\nAre you sure?</string>
-	<string key="ui_queue_leave_notification_generic">You have been removed from your game mode queue</string>
+	<string key="ui_queue_leave_notification_generic">You have been removed from your game mode queue.</string>
 	<string key="ui_queue_ready">F2 To Enter Expedition</string>
 	<string key="ui_game_mode_matchmaking_failed">An unexpected matchmaking failure has occurred.</string>
-	<string key="ui_game_mode_disabled">This game mode is currently disabled</string>
+	<string key="ui_game_mode_disabled">This game mode is currently disabled.</string>
 	<string key="ui_dungeon_enter_info">&lt;font color={color}&gt;At least 1 person&lt;/font&gt; must enter to keep the Expedition open. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_solo">&lt;font color={color}&gt;Soul Trial is ready&lt;/font&gt;. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_raidtrial">&lt;font color={color}&gt;At least 1 person&lt;/font&gt; must enter to keep the Elite Trial open. Teleport in now?</string>
+	<string key="ui_dungeon_enter_info_seasontrial" rel_version="Season_2_Trial">&lt;font color={color}&gt;At least 1 person&lt;/font&gt; must enter to keep the Seasonal Trial open. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_entered">The Expedition is now open!\n&lt;font color={color}&gt;Teleport in now?&lt;/font&gt;</string>
 	<string key="ui_dungeon_enter_info_entered_solo">&lt;font color={color}&gt;Soul Trial is ready&lt;/font&gt;. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_entered_raidtrial">The Elite Trial is now open!\n&lt;font color={color}&gt;Teleport in now?&lt;/font&gt;</string>
+	<string key="ui_dungeon_enter_info_entered_seasontrial" rel_version="Season_2_Trial">The Seasonal Trial is now open!\n&lt;font color={color}&gt;Teleport in now?&lt;/font&gt;</string>
 	<string key="ui_duel_player">Duel Player</string>
 	<string key="ui_duel_failmessage_invalidname">{playerName} is not a valid player name.</string>
 	<string key="ui_duel_failmessage_outofrange">You cannot Duel a player further than {distance} meters.</string>
 	<string key="ui_duel_failmessage_alreadyinduel">You are already in a Duel.</string>
 	<string key="ui_duel_failmessage_in_dungeon">You cannot Duel while in a Expedition.</string>
 	<string key="ui_duel_failmessage_in_dungeon_raidtrial">You cannot Duel while in a Elite Trial.</string>
+	<string key="ui_duel_failmessage_in_dungeon_seasontrial" rel_version="Season_2_Trial">You cannot Duel while in a Seasonal Trial.</string>
 	<string key="ui_duel_failmessage_in_other_gamemode">You cannot Duel right now.</string>
 	<string key="ui_duel_failmessage_pendinginvite">You already have a pending Duel invite.</string>
 	<string key="ui_duel_failmessage_deathsdoor">You cannot Duel while at Death's Door.</string>
@@ -90,23 +93,25 @@
 	<string key="ui_outpost_rush_invite_status">Accept to join the battle!</string>
 	<string key="ui_outpost_rush_signup_title">OUTPOST RUSH</string>
 	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;Outpost Rush&lt;/font&gt; is a 20v20 match that takes place on a large island with three Outposts that teams compete to capture and hold.</string>
-	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;Outpost Rush&lt;/font&gt; is a 20v20 match that takes place on a large island with three Outposts that teams compete to capture and hold.\nThis mode has &lt;font color="#ffe940"&gt;Gear Score Scaling&lt;/font&gt;, increasing the gear score of all equipment below 600 gear score to 600.</string>
+	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 600 to 600.</string>
+	<string key="ui_outpost_rush_signup_desc_cross_world">Outpost Rush is a 20x20 &lt;font color="#ffe940"&gt;Cross World game mode.&lt;/font&gt;</string>
+	<string key="ui_outpost_rush_signup_desc_cross_world_tooltip">&lt;font color="#ffe940"&gt;Cross World&lt;/font&gt; means that you will be playing together with players from all worlds within your region. This can help shorten wait times to find a match.\n\nThings to note:\n\n-When you see a player with &lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier" xPadding="-1" scale="1.8" yOffset="2"&gt;&lt;/img&gt; next to their name, this means they are from another world.\n\n-While in the Cross World match, several social functions will be disabled, including trading, invites, and more.\n\n-The OPR Wins Leaderboard is now a Regional Leaderboard.</string>
 	<string key="ui_outpost_rush_signup_goal1">Capture and hold Outposts to score</string>
 	<string key="ui_outpost_rush_signup_goal2">The first team to score 1,000 points wins</string>
 	<string key="ui_outpost_rush_signup_goal3">Utilize special resources to attack &amp; defend</string>
 	<string key="ui_outpost_rush_signup_points_number">1,000</string>
 	<string key="ui_outpost_rush_signup_points_text">POINTS</string>
 	<string key="ui_outpost_rush_signup_joinsolo">Play</string>
-	<string key="ui_outpost_rush_signup_joingroup">Play with your group</string>
+	<string key="ui_outpost_rush_signup_joingroup">Play With Group</string>
 	<string key="ui_outpost_rush_signup_joinmid">I would like to join matches in progress &lt;font color="#ffe940"&gt;(Shorter wait time)&lt;/font&gt;</string>
 	<string key="ui_outpost_rush_signup_playercount">{playerCount} Players</string>
-	<string key="ui_outpost_rush_signup_failsolo">You are currently in a group and cannot join as a solo player</string>
-	<string key="ui_outpost_rush_signup_failgroup">You are not currently in a group</string>
-	<string key="ui_outpost_rush_signup_failgroupinvite">You currently have an invite to an Expedition or Elite Trial Lobby</string>
+	<string key="ui_outpost_rush_signup_failsolo">You are currently in a group and cannot join as a solo player.</string>
+	<string key="ui_outpost_rush_signup_failgroup">You are not currently in a group.</string>
+	<string key="ui_outpost_rush_signup_failgroupinvite">You currently have a pending invite.</string>
 	<string key="ui_outpost_rush_signup_faillevel">Player level {levelRequirement} &lt;font color="#f10000"&gt;is required&lt;/font&gt;</string>
 	<string key="ui_outpost_rush_signup_failwar">You cannot sign up because you are already signed up for an upcoming war that starts within the next hour.</string>
 	<string key="ui_outpost_rush_signup_failqueue">You cannot sign up because you are currently signed up for {matchname}</string>
-	<string key="ui_outpost_rush_signup_faildungeon">You cannot sign up because you are currently in queue for an expedition or elite trial.</string>
+	<string key="ui_outpost_rush_signup_faildungeon">You cannot sign up because you are currently in queue for an Expedition or Elite Trial.</string>
 	<string key="ui_outpost_rush_signup_failevent">You cannot sign up because you are currently in an event.</string>
 	<string key="ui_outpost_rush_signup_failgeneric">You cannot sign up at this time.</string>
 	<string key="ui_outpost_rush_signup_failgrouptitle">Cannot Join</string>
@@ -118,11 +123,13 @@
 	<string key="ui_outpost_rush_signup_failgrouppenalty">One or more of your group members have a penalty timer for leaving a previous Outpost Rush match.</string>
 	<string key="ui_outpost_rush_signup_failgrouptimeout">One or more of your group members did not respond to the invitation.</string>
 	<string key="ui_outpost_rush_signup_failgroupfinder">One or more of your group members are in a Lobby.</string>
-	<string key="ui_outpost_rush_signup_failpenalty">Since you left mid-match, a penalty is applied</string>
-	<string key="ui_outpost_rush_signup_penaltytimer">You are blocked for: {time}</string>
-	<string key="ui_outpost_rush_signup_joingroup_desc">You won't be able to add any additional group members once your group is in the queue.</string>
-	<string key="ui_outpost_rush_signup_joingroup_accept">Yes, we are ready</string>
-	<string key="ui_outpost_rush_signup_joingroup_cancel">Cancel</string>
+	<string key="ui_outpost_rush_signup_failpenalty">A penalty has been applied for leaving a match early.</string>
+	<string key="ui_outpost_rush_signup_failgrouppendinginvite">One or more of your group members has a pending invitation.</string>
+	<string key="ui_outpost_rush_signup_failtryagain">Failed to join the queue. Please try again later.</string>
+	<string key="ui_outpost_rush_signup_penaltytimer">Can queue in: {time}</string>
+	<string key="ui_outpost_rush_signup_joingroup_desc">Is everyone ready?\n\nYou cannot adjust group members once your group has queued.</string>
+	<string key="ui_outpost_rush_signup_joingroup_accept">Yes</string>
+	<string key="ui_outpost_rush_signup_joingroup_cancel">No</string>
 	<string key="ui_outpost_rush_signup_timer_prompt">Time Elapsed: {time}</string>
 	<string key="ui_outpost_rush_signup_leave_queue">Leave Queue</string>
 	<string key="ui_outpost_rush_queue_group_removed">Your group has been removed from the queue for Outpost Rush.</string>
@@ -146,10 +153,10 @@
 	<string key="ui_outpost_rush_match_started">Match Started</string>
 	<string key="ui_outpost_rush_match_started_desc">Capture outposts and slay the enemy to score points. First team to {value} points wins!</string>
 	<string key="ui_outpost_rush_score_to_win">{value} to win</string>
-	<string key="ui_outpost_rush_leave">Leave Outpost Rush</string>
-	<string key="ui_outpost_rush_leave_queue_title">Leave Outpost Rush Queue?</string>
+	<string key="ui_outpost_rush_leave">Leave Activity</string>
+	<string key="ui_outpost_rush_leave_queue_title">Leave Queue</string>
 	<string key="ui_outpost_rush_leave_queue_desc">Are you sure you want to leave the Outpost Rush queue?</string>
-	<string key="ui_outpost_rush_leave_title">Leave Outpost Rush?</string>
+	<string key="ui_outpost_rush_leave_title">Leave Activity</string>
 	<string key="ui_outpost_rush_leave_desc">Are you sure you want to leave Outpost Rush?</string>
 	<string key="ui_outpost_rush_leave_desc_time">Are you sure you want to leave Outpost Rush?\nYou will be unable to queue for Outpost Rush again for {time}.</string>
 	<string key="ui_outpost_rush_leave_group_desc_time">Are you sure you want to join another group?\nLeaving your group will cause you to leave Outpost Rush.\nYou will be unable to queue for Outpost Rush again for {time}.</string>
@@ -159,6 +166,12 @@
 	<string key="ui_outpost_rush_boss">Baroness Hain</string>
 	<string key="ui_outpost_rush_boss_alive">ALIVE</string>
 	<string key="ui_outpost_rush_boss_alive_in">Baroness Hain Appears In:</string>
+	<string key="ui_outpost_rush_corrupted_portal_encounter">Corrupted Portal</string>
+	<string key="ui_outpost_rush_corrupted_portal_active">ACTIVE</string>
+	<string key="ui_outpost_rush_corrupted_portal_active_in">Corrupted Portal Active In:</string>
+	<string key="ui_outpost_rush_corrupted_portal_started">Corrupted Portal Is Active</string>
+	<string key="ui_outpost_rush_corrupted_portal_soon">Corrupted Portal Will Activate Soon</string>
+	<string key="ui_outpost_rush_corrupted_portal_finished">Corrupted Portal Is Closed</string>
 	<string key="ui_outpost_rush_tutorial_how_it_works">How Outpost Rush Works</string>
 	<string key="ui_outpost_rush_tutorial_title1">Capture Outposts</string>
 	<string key="ui_outpost_rush_tutorial_title2">Gathering Resources</string>
@@ -166,12 +179,13 @@
 	<string key="ui_outpost_rush_tutorial_title4">Slay the Boss</string>
 	<string key="ui_outpost_rush_tutorial_desc1">Capture outposts and slay the enemy to score points. First team to 1000 points wins!</string>
 	<string key="ui_outpost_rush_tutorial_desc2">Gather infused wood, ore, and hides to upgrade your outposts by building gates and siege weapons. Build a command post to gain powerful offensive and defensive boosts for your team.</string>
-	<string key="ui_outpost_rush_tutorial_desc3">Use summoning stones to summon powerful allies at summoning circles. Summon a bear by buying a stone from the armory or gain an ultra-powerful brute ally by donating Azoth at the corrupted portal.</string>
+	<string key="ui_outpost_rush_tutorial_desc3">Use summoning stones to summon powerful allies at summoning circles. Summon a bear by defeating the powerful Alpha Wolf or gain an ultra-powerful brute ally by defeating and closing the corrupted portal.</string>
 	<string key="ui_outpost_rush_tutorial_desc4">Baroness Hain is the ghost of a long dead noble that haunts the island. Slay her to gain a powerful buff that increases the defense of your team and freezes the enemy score!</string>
 	<string key="ui_outpost_rush_tutorial_level_requirement">&lt;font color="#ffe294"&gt;Player level {level}&lt;/font&gt; is required to participate in Outpost Rush.</string>
 	<string key="ui_outpost_rush_locked">Locked</string>
 	<string key="ui_outpost_rush_select_summoning_stone">Select Summoning Stone</string>
 	<string key="ui_outpost_rush_barrier">Fort Barrier</string>
+	<string key="ui_outpost_rush_baroness_barrier">Baroness Barrier</string>
 	<string key="ui_or_total_score">TOTAL SCORE</string>
 	<string key="ui_or_points_from">POINTS FROM</string>
 	<string key="ui_or_outpost_a">OUTPOST LUNA</string>
@@ -187,6 +201,7 @@
 	<string key="ui_pinning_disabled_expeditions">Pinning/Unpinning disabled for Expeditions objectives</string>
 	<string key="ui_pinning_disabled_expeditions_solo">Pinning/Unpinning disabled for Soul Trial objectives</string>
 	<string key="ui_pinning_disabled_expeditions_raidtrial">Pinning/Unpinning disabled for Elite Trial objectives</string>
+	<string key="ui_pinning_disabled_expeditions_seasontrial" rel_version="Season_2_Trial">Pinning/Unpinning disabled for Seasonal Trial objectives</string>
 	<string key="ui_or_commandpost_buff_on">Structure is granting team buffs</string>
 	<string key="ui_or_commandpost_buff_off">Build to get team buffs</string>
 	<string key="or_azoth_portal">Azoth Portal</string>
@@ -197,12 +212,12 @@
 	<string key="or_tutorial_rules_capture_body">Capture an outpost by standing in the circle at the center.</string>
 	<string key="or_tutorial_rules_score_title">YOUR TEAM IS LOSING</string>
 	<string key="or_tutorial_rules_score_body">Capture and hold Outposts &amp; defeat enemy players to increase your team’s score.</string>
-	<string key="or_tutorial_rules_portal_title">PUT 750 AZOTH ESSENCE IN CORRUPTED PORTAL</string>
-	<string key="or_tutorial_rules_portal_body">Put in the 750th Azoth Essence to receive a Corrupted Summoning Stone.</string>
+	<string key="or_tutorial_rules_portal_title">Defeat and close the Corrupted Portal</string>
+	<string key="or_tutorial_rules_portal_body">Defeat and close the Corrupted Portal to recieve a brute summoning stone.</string>
 	<string key="or_tutorial_boss_spawn_title">BARONESS HAIN HAS APPEARED</string>
 	<string key="or_tutorial_boss_spawn_body">Kill her for a powerful defense buff, and freeze the enemy team's score for 3 minutes.</string>
 	<string key="or_tutorial_boss_near_title">BARONESS HAIN IS NEAR</string>
-	<string key="or_tutorial_boss_near_body">Kill her for a powerful defense buff, and freeze the enemy team's score for 3 minutes..</string>
+	<string key="or_tutorial_boss_near_body">Kill her for a powerful defense buff, and freeze the enemy team's score for 3 minutes.</string>
 	<string key="or_tutorial_outpost_gates_title">BUILD GATES TO PROTECT OUTPOST</string>
 	<string key="or_tutorial_outpost_gates_body">Collect infused wood and ore, then interact with the gate to build and upgrade it.</string>
 	<string key="or_tutorial_outpost_ward_title">BUILD A PROTECTION WARD</string>
@@ -224,20 +239,22 @@
 	<string key="or_tutorial_summoning_reminder_title">USE YOUR SUMMONING STONE</string>
 	<string key="or_tutorial_summoning_reminder_body">Get to an unoccupied summoning circle to summon a powerful ally.</string>
 	<string key="or_tutorial_summoning_findstone_title">YOU NEED A SUMMONING STONE</string>
-	<string key="or_tutorial_summoning_findstone_body">Buy one at the armory, defeating Ug or Dug at the mines, or donate 750 Azoth Essence to the Corrupted Portal.</string>
+	<string key="or_tutorial_summoning_findstone_body">Defeat the Alpha Wolf at the wolves den, defeating Ug or Dug at the mines, or defeating and closing the Corrupted Portal.</string>
 	<string key="or_tutorial_summoning_nostone_title">GET A SUMMONING STONE AND TRY AGAIN</string>
-	<string key="or_tutorial_summoning_nostone_body">Buy one at the armory, defeating Ug or Dug at the mines, or donate 750 Azoth Essence to the Corrupted Portal.</string>
+	<string key="or_tutorial_summoning_nostone_body">Defeat the Alpha Wolf at the wolves den, defeating Ug or Dug at the mines, or defeating and closing the Corrupted Portal.</string>
 	<string key="or_tutorial_summoning_creature_title">SUMMONING CIRCLE CAN'T BE USED AGAIN YET</string>
 	<string key="or_tutorial_summoning_creature_body">Try a different one, or wait until this one is available again.</string>
-	<string key="emote_unable_to_use_emote">Unable to use Emote in this game mode</string>
-	<string key="ui_durability_loss_outpost_rush">You are in an Outpost Rush, your equipment was not damaged upon death.</string>
-	<string key="ui_durability_loss_war">You are in a War (or Invasion), your equipment was not damaged upon death.</string>
+	<string key="emote_unable_to_use_emote">Unable to use Emote in this game mode.</string>
+	<string key="ui_durability_loss">Your equipment was not damaged upon death.</string>
+	<string key="ui_durability_loss_outpost_rush">Your equipment was not damaged upon death.</string>
+	<string key="ui_durability_loss_war">Your equipment was not damaged upon death.</string>
 	<string key="ui_item_durability_loss">Your equipment took damage upon death.</string>
-	<string key="ui_item_durability_dungeon">You are in an Expedition, your equipment was not damaged upon death.</string>
-	<string key="ui_item_durability_dungeon_solo">You are in a Soul Trial, your equipment was not damaged upon death.</string>
-	<string key="ui_item_durability_dungeon_raidtrial">You are in a Elite Trial, your equipment was not damaged upon death.</string>
-	<string key="ui_item_durability_arena" rel_version="Feature_PVP_Arenas">You are in an Arena, your equipment was not damaged upon death.</string>
-	<string key="ui_item_durability_loss_pvp">You were killed by another player, your equipment took reduced damage.</string>
+	<string key="ui_item_durability_dungeon">Your equipment was not damaged upon death.</string>
+	<string key="ui_item_durability_dungeon_solo">Your equipment was not damaged upon death.</string>
+	<string key="ui_item_durability_dungeon_raidtrial">Your equipment was not damaged upon death.</string>
+	<string key="ui_item_durability_dungeon_seasontrial" rel_version="Season_2_Trial">Your equipment was not damaged upon death.</string>
+	<string key="ui_item_durability_arena" rel_version="Feature_PVP_Arenas">Your equipment was not damaged upon death.</string>
+	<string key="ui_item_durability_loss_pvp">You were killed by another player, and your equipment took reduced damage.</string>
 	<string key="ui_in_spectators_box">In Spectator's Box</string>
 	<string key="ui_in_spectators_box_description">Abilities disabled</string>
 	<string key="ui_in_spectators_moving_to">Moving To Spectator Box in {seconds}s</string>
@@ -255,8 +272,10 @@
 	<string key="ui_switching_sides">Switching Sides</string>
 	<string key="ui_rounds_won">Rounds Won</string>
 	<string key="ui_see_through_label">See Through Mode</string>
-	<string key="ui_invasion_leave">Leave Invasion</string>
+	<string key="ui_invasion_leave">Leave Activity</string>
 	<string key="ui_matchmaking_ready_title">Match Ready</string>
 	<string key="ui_matchmaking_ready_text">Your queued &lt;font color={color}&gt;match is ready to play&lt;/font&gt;. Teleport in now?</string>
+	<string key="dungeon_how_to_raid">How to Form a Raid</string>
+	<string key="dungeon_entry_requirements">Entry Requirements</string>
 </resources>
 

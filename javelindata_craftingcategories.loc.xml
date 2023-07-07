@@ -203,8 +203,8 @@
 	<string key="HousingTrdG_Cabinets_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Cabinets</string>
 	<string key="HousingTrdG_Cabinets_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Housing Cabinets</string>
 	<string key="HousingTrdG_Veg_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Vegetation</string>
-	<string key="1hHatchet_GroupDesc">A diverse weapon that allows for ranged throwing attacks or rapid close quarters attacks. Ideal for aggressive, fully committed close quarters melee combat or tactical medium range combat.\n\n•Light Attack: Deals {[DamageTable.Hatchet_Damage_PrimaryAttack.DmgCoef * 100]}% Slash damage.\n•Light Ender: Deals {[DamageTable.Hatchet_Damage_PrimaryAttack_Ender.DmgCoef * 100]}% Slash damage.\n•Heavy Attack: Deals {[DamageTable.Hatchet_Damage_HeavyAttack.DmgCoef * 100]}% Slash damage.\n•Charged Heavy: Deals {[DamageTable.Hatchet_Damage_HeavyAttack_Charged.DmgCoef * 100]}% Slash damage.</string>
 	<string key="1hHatchet_GroupName">Crafted Hatchets</string>
+	<string key="1hHatchet_GroupDesc">A diverse weapon that allows for ranged throwing attacks or rapid close quarters attacks. Ideal for aggressive, fully committed close quarters melee combat or tactical medium range combat.\n\n•Light Attack: Deals {[DamageTable.Hatchet_Damage_PrimaryAttack.DmgCoef * 100]}% Slash damage.\n•Light Ender: Deals {[DamageTable.Hatchet_Damage_PrimaryAttack_Ender.DmgCoef * 100]}% Slash damage.\n•Heavy Attack: Deals {[DamageTable.Hatchet_Damage_HeavyAttack.DmgCoef * 100]}% Slash damage.\n•Charged Heavy: Deals {[DamageTable.Hatchet_Damage_HeavyAttack_Charged.DmgCoef * 100]}% Slash damage.</string>
 	<string key="1hHatchetAngryEarth_GroupName">Primeval Hatchets</string>
 	<string key="1hHatchetB_GroupName">Cold Iron Hatchets</string>
 	<string key="1hHatchetBeast_GroupName">Ancient Hatchets</string>
@@ -1408,7 +1408,7 @@
 	<string key="MoonstoneCut_GroupDesc">Cut and polished Moonstone Gemstones. Can be crafted into jewelry to increase Strength and Focus, or socketed into equipment to provide the Exhilarate and Slash Ward perks.</string>
 	<string key="MoonstoneCut_GroupName">Cut Moonstone</string>
 	<string key="MusketA_GroupDesc">A ranged weapon that fires high-damage cartridges. Ideal for keeping targets at a distance and long-ranged combat with a high payoff for precise aim.\n\n•Standard Attack: Deals {[DamageTable.MusketAttack1.DmgCoef * 100]}% Thrust damage.</string>
-	<string key="Blunderbuss_GroupDesc" rel_version="Weapon_Blunderbuss">A close quarters ranged weapon that fires 6 pellets in a single blast. Ideal for keeping pressure on melee targets and getting up close and personal with ranged targets.\n\n•Standard Attack: Deals {[DamageTable.Blunderbuss_Primary_Attack.DmgCoef * 100]}% Thrust damage per pellet.</string>
+	<string key="Blunderbuss_GroupDesc" rel_version="Weapon_Blunderbuss">A close quarters ranged weapon that fires 6 pellets in a single blast. Ideal for keeping pressure on melee targets and getting up close and personal with ranged targets.\n\n•Standard Attack: Deals {[DamageTable.Blunderbuss_Primary_Attack.DmgCoef * 100]}% Thrust damage per pellet. ({[DamageTable.Blunderbuss_Primary_Attack_TooltipValue.DmgCoef * 100]}% total of all 6 pellets)</string>
 	<string key="MusketA_GroupName">Musket</string>
 	<string key="Muskets_GroupName">Muskets</string>
 	<string key="nut_GroupName">Nut</string>
@@ -1959,5 +1959,19 @@
 	<string key="CoatingAeternian_GroupDesc" rel_version="Season_1_Perm">PVE only: Coatings that enhance damage against Humans (who are not Lost or Corrupted).</string>
 	<string key="CoatingAeternian_GroupName" rel_version="Season_1_Perm">Human Coating</string>
 	<string key="OverchargedCasts_GroupName">Overcharged Gypsum Casts</string>
+	<string key="PVPReplicas_GroupName">PvP Replicas</string>
+	<string key="PVPReplicaWeapon_GroupName">Brutish Weapon Replicas</string>
+	<string key="PVPReplicaLightArmor_GroupName">Brutish Light Armor Replicas</string>
+	<string key="PVPReplicaMediumArmor_GroupName">Brutish Medium Armor Replicas</string>
+	<string key="PVPReplicaHeavyArmor_GroupName">Brutish Heavy Armor Replicas</string>
+	<string key="TrialCrafting_GroupName" rel_version="Season_2_Perm">Trial Crafting</string>
+	<string key="TheHatchery_GroupName" rel_version="Season_2_Perm">The Hatchery</string>
+	<string key="GypsumLegendaryCasts_GroupName" rel_version="Season_2_Perm">Legendary Gypsum Casts</string>
+	<string key="PatternWeapon_GroupName">Weapon Patterns</string>
+	<string key="PatternArmorHeavy_GroupName" rel_version="Season_2_Perm">Heavy Armor Patterns</string>
+	<string key="PatternArmorMedium_GroupName" rel_version="Season_2_Perm">Medium Armor Patterns</string>
+	<string key="PatternArmorLight_GroupName" rel_version="Season_2_Perm">Light Armor Patterns</string>
+	<string key="TrialNamedReplicas_GroupName" rel_version="Season_2_Perm">Elite Trial Replicas</string>
+	<string key="UniqueEliteTrialReplicas1_GroupName" rel_version="Season_2_Perm">Unique Sandworm Trial Replicas</string>
 </resources>
 

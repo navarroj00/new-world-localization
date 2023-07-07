@@ -1,13 +1,13 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="ui_abandon" comment="Abandon House">Abandon this house</string>
+	<string key="ui_abandon" comment="Abandon House">Abandon House</string>
 	<string key="ui_house_abandon_confirm_button" comment="Abandon House">Abandon House</string>
 	<string key="ui_house_abandon_confirm_placeholder_text" comment="Abandon House">Type the territory name.</string>
 	<string key="ui_house_abandon_notification" comment="Abandon House">Your house {houseName} has been abandoned.</string>
 	<string key="ui_house_abandon_popup_desc" comment="Abandon House">You already have 1 house in this town.\n Would you like to abandon {houseName} to purchase this house?\nAll trophies &amp; furniture in the abandoned house will be moved into Town Storage.</string>
 	<string key="ui_house_abandon_popup_title" comment="Abandon House">You can only have one house in a town.</string>
-	<string key="ui_house_abandon_this_house_desc" comment="Abandon House">{percent}% of the original purchase cost will be refunded if this house is abandoned. All trophies and furniture in the house will be moved to the town storage.</string>
-	<string key="ui_house_abandon_this_popup_desc" comment="Abandon House">&lt;font color="#f25d5d"&gt;{percent}% of the original purchase cost will be refunded if this house is abandoned.&lt;/font&gt;\nAll trophies &amp; furniture in the abandoned house will be moved into Town Storage.\n\nTo continue, type {territoryName} below.</string>
-	<string key="ui_house_abandon_this_popup_title" comment="Abandon House">Abandon House?</string>
+	<string key="ui_house_abandon_this_house_desc" comment="Abandon House">{percent}% of the original purchase cost will be refunded. All trophies and furniture in this house will be moved to the storage shed.</string>
+	<string key="ui_house_abandon_this_popup_desc" comment="Abandon House">{percent}% of the original purchase cost will be refunded. All trophies and furniture in this house will be moved to the storage shed.\n\nTo continue, type {territoryName} below.</string>
+	<string key="ui_house_abandon_this_popup_title" comment="Abandon House">Abandon House</string>
 	<string key="ui_house_abandon_no_storage_warning" comment="Abandon House">You must have at least one free slot of Settlement storage before you can remove all items from your house.</string>
 	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Pay {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; to reset cooldown.</string>
 	<string key="ui_cannot_travel_currency" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; is required to fast travel</string>
@@ -49,8 +49,8 @@
 	<string key="ui_need_reset_travel_currency" comment="Fast Travel">You need {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; to reset cooldown.</string>
 	<string key="ui_recall_not_available_server_error" comment="Fast Travel">Recall is not available due to server error.</string>
 	<string key="ui_recall_to" comment="Fast Travel">Recall to</string>
-	<string key="ui_recall_to_house" comment="Fast Travel">Recall to house</string>
-	<string key="ui_recall_to_house_disabled" comment="Fast Travel">Recall to house (Disabled)</string>
+	<string key="ui_recall_to_house" comment="Fast Travel">Recall to House</string>
+	<string key="ui_recall_to_house_disabled" comment="Fast Travel">Recall to House (Disabled)</string>
 	<string key="ui_reset_travel" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; Reset Cooldown</string>
 	<string key="ui_settlement_fast_travel" comment="Fast Travel">Fast Travel</string>
 	<string key="ui_settlement_fast_travel_desc" comment="Fast Travel">Fast Travel To This Settlement for {cost} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt;</string>
@@ -64,7 +64,7 @@
 	<string key="ui_house" comment="House Plots">House</string>
 	<string key="ui_house_already_owned" comment="House Plots">Already Owned</string>
 	<string key="ui_house_max_home_owned_on_territory" comment="House Plots">Max Homes Owned On Territory</string>
-	<string key="ui_house_menu" comment="House Plots">Manage Your House</string>
+	<string key="ui_house_menu" comment="House Plots">Upkeep</string>
 	<string key="ui_house_preview" comment="House Plots">Preview</string>
 	<string key="ui_house_price" comment="House Plots">Price</string>
 	<string key="ui_house_type" comment="House Plots">Type</string>
@@ -78,7 +78,7 @@
 	<string key="ui_housing_next_due_in" comment="House Plots">Next Due In</string>
 	<string key="ui_housing_select_house" comment="House Plots">Select a house to view</string>
 	<string key="ui_housing_time_calculating" comment="House Plots">Calculating...</string>
-	<string key="ui_housing_time_to_recompute" comment="House Plots">This list will be updated in &lt;font color="#ffffff"&gt;{time}&lt;/font&gt;</string>
+	<string key="ui_housing_time_to_recompute" comment="House Plots">Updates in &lt;font color="#EBE3D6"&gt;{time}&lt;/font&gt;</string>
 	<string key="ui_housing_update_time" comment="House Plots">This list will update in {time}</string>
 	<string key="ui_max_homes_owned" comment="House Plots">Max Homes Owned</string>
 	<string key="ui_max_homes_owned_territory" comment="House Plots">Max Homes Owned In This Territory</string>
@@ -88,7 +88,7 @@
 	<string key="ui_my_house_map_title" comment="House Plots">Your House</string>
 	<string key="ui_my_houses_map_title" comment="House Plots">Your Houses</string>
 	<string key="ui_no_home_owners" comment="House Plots">Empty House</string>
-	<string key="ui_owner_list" comment="House Plots">Owners</string>
+	<string key="ui_owner_list" comment="House Plots">Homeowners</string>
 	<string key="ui_red_button_housing_disabled" comment="House Plots">Housing is currently disabled due to maintenance</string>
 	<string key="ui_red_button_housing_disabled_title" comment="House Plots">Housing Disabled</string>
 	<string key="ui_residence" comment="House Plots">{playerName}'s Residence</string>
@@ -123,12 +123,14 @@
 	<string key="ui_context_menu_hint" comment="Housing Hints">Options</string>
 	<string key="ui_house_hint_decorate" comment="Housing Hints">Decorate</string>
 	<string key="ui_house_hint_exit" comment="Housing Hints">Exit</string>
-	<string key="ui_house_hint_menu" comment="Housing Hints">Menu</string>
-	<string key="ui_house_hint_tips" comment="Housing Hints">Tips</string>
-	<string key="ui_house_hud_hint" comment="Housing Hints">You are invisible to other players</string>
+	<string key="ui_house_hint_menu" comment="Housing Hints">Upkeep</string>
+	<string key="ui_house_hint_tips" comment="Settings">Housing Help</string>
+	<string key="ui_house_hint_tips_bar" comment="Housing Hints">Help</string>
+	<string key="ui_house_hud_hint" comment="Housing Hints">You are invisible to other players.</string>
 	<string key="ui_housing_grid_snap_hint" comment="Housing Hints">Grid Placement</string>
 	<string key="ui_housing_grid_snap_hint_colon" comment="Housing Hints">Grid Placement:</string>
-	<string key="ui_housing_rotate_camera_hint" comment="Housing Hints">&lt;img src="lyshineui/images/icons/misc/Icon_RightMouseButton" xPadding="0" scale="2.2" yOffset="8"&gt;&lt;/img&gt; (Hold) Rotate Camera</string>
+	<string key="ui_housing_rotate_camera_hint" comment="Housing Hints">(Hold) Rotate Camera</string>
+	<string key="ui_housing_enable_movement_hint" comment="Housing Hints">(Hold) Enable Movement</string>
 	<string key="ui_housing_rotate_object_hint" comment="Housing Hints">Rotate Object</string>
 	<string key="ui_housing_surface_lock_hint" comment="Housing Hints">Lock To Surface</string>
 	<string key="ui_housing_surface_lock_hint_colon" comment="Housing Hints">Lock To Surface:</string>
@@ -143,7 +145,7 @@
 	<string key="ui_housing_item_score" comment="Housing Score/Points">Decoration Score</string>
 	<string key="ui_housing_point_tooltip" comment="Housing Score/Points">The Top 20 houses are determined every 2 days by the highest housing points, which are calculated based on the owners' gained Territory Standing and furniture placed on their property.</string>
 	<string key="ui_num_housing_points" comment="Housing Score/Points">{points} Points</string>
-	<string key="ui_cant_pay_property_tax" comment="Housing Taxes">Can pay in {time}</string>
+	<string key="ui_cant_pay_property_tax" comment="Housing Taxes">Next Payment: {time}</string>
 	<string key="ui_decoration_mode_unpaid" comment="Housing Taxes">Taxes must be paid to decorate your home.</string>
 	<string key="ui_house_compensation_message_JAV141577" comment="Housing Taxes">Due to incorrect messaging around taxes for first time homebuyers, you have been granted {amount} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; as a homebuyer. We hope you continue to enjoy New World and your house.</string>
 	<string key="ui_house_overdue_at" comment="Housing Taxes">Property upkeep is overdue at {territoryName}. Pay the property upkeep to enable housing features.</string>
@@ -157,12 +159,12 @@
 	<string key="ui_house_unpaid_taxes_due_soon" comment="Housing Taxes">Property upkeep due at {territoryName} in: {time}. Pay the property upkeep to continue using housing features.</string>
 	<string key="ui_house_unpaid_taxes_string" comment="Housing Taxes">Your House (Disabled)</string>
 	<string key="ui_housing_disabled_tooltip" comment="Housing Taxes">Your house is disabled. Pay upkeep now to enable your house.</string>
-	<string key="ui_housing_pay_taxes" comment="Housing Taxes">Pay Upkeep</string>
+	<string key="ui_housing_pay_taxes" comment="Housing Taxes">Upkeep</string>
 	<string key="ui_pay_house_tax_fail" comment="Housing Taxes">Error paying upkeep on home, please try again.</string>
 	<string key="ui_pay_property_tax" comment="Housing Taxes">Pay Upkeep</string>
 	<string key="ui_pay_property_tax_desc" comment="Housing Taxes">Pay Property upkeep via the map or at your house.</string>
 	<string key="ui_pay_property_tax_popup_desc" comment="Housing Taxes">Property upkeep must be paid in order to recall to, respawn at, and decorate your house.\nUpkeep is due {firstCycle} after you buy a house and every {otherCycle} thereafter.</string>
-	<string key="ui_property_tax" comment="Housing Taxes">Property Upkeep</string>
+	<string key="ui_property_tax" comment="Housing Taxes">Property Management</string>
 	<string key="ui_property_tax_amount_desc" comment="Housing Taxes">Recurring Property Upkeep Amount</string>
 	<string key="ui_property_tax_desc" comment="Housing Taxes">Pay recurring property upkeep to keep using the housing features.</string>
 	<string key="ui_property_tax_disabled" comment="Housing Taxes">Property upkeep has been disabled.</string>
@@ -173,7 +175,7 @@
 	<string key="ui_your_house_desc" comment="Housing Taxes">You can always recall and respawn at your house as long as the upkeep is paid.</string>
 	<string key="ui_house_type_trophies" comment="Housing Trophy Buffs">Slots</string>
 	<string key="ui_housing_trophy_buff" comment="Housing Trophy Buffs">Trophies</string>
-	<string key="ui_housing_trophy_buff_desc" comment="Housing Trophy Buffs">Place to get buffs</string>
+	<string key="ui_housing_trophy_buff_desc" comment="Housing Trophy Buffs">Provides buffs</string>
 	<string key="ui_housing_trophy_buff_desc_tooltip" comment="Housing Trophy Buffs">A trophy that inspires you when placed in your home.</string>
 	<string key="ui_housing_trophy_buffs" comment="Housing Trophy Buffs">Trophy Buffs</string>
 	<string key="ui_housing_trophy_buffs_disabled" comment="Housing Trophy Buffs">Trophy Buffs (Disabled)</string>
@@ -230,7 +232,7 @@
 	<string key="ui_house_purchase_standing_bonus_requirement" comment="Purchase House">{standingName} House Ownership Bonus</string>
 	<string key="ui_house_purchase_standing_requirement" comment="Purchase House">{standingValue} {standingName} Standing Level</string>
 	<string key="ui_house_purchased" comment="Purchase House">House purchased!</string>
-	<string key="ui_house_purchased_detail" comment="Purchase House">Congratulations, you are now a &lt;font color="#FFFFFF"&gt;home owner&lt;/font&gt; in &lt;font color="#F4D179"&gt;{settlementName}&lt;/font&gt;! Make sure to pay property upkeep to use the housing features!</string>
+	<string key="ui_house_purchased_detail" comment="Purchase House">Congratulations, you are now a homeowner in {settlementName}!\n\nPay the recurring property upkeep to keep using the housing features.</string>
 	<string key="ui_housing_purchase_house" comment="Purchase House">Purchase House</string>
 	<string key="ui_reward_type_community_goal_territory_standing" comment="Settlement">{amount} Territory Standing</string>
 	<string key="ui_this_location" comment="Settlement">This location</string>
@@ -240,15 +242,15 @@
 	<string key="ui_inn" comment="Settlement Inn">Inn</string>
 	<string key="ui_inn_already_checked_in" comment="Settlement Inn">Oh, It seems like you already checked into this inn!\n\nYou can recall and respawn at this settlement\nfrom anywhere in the world!</string>
 	<string key="ui_inn_check_in" comment="Settlement Inn">Check in at {territoryName} Inn.</string>
-	<string key="ui_inn_check_in_desc" comment="Settlement Inn">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Welcome to {territoryName} Inn!&lt;/font&gt;&lt;/font&gt;\n\n Would you like to &lt;font color="#f3d981"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;check in&lt;/font&gt;&lt;/font&gt;?\n\nThis will allow you to recall and respawn at this settlement\nfrom anywhere in the world!</string>
+	<string key="ui_inn_check_in_desc" comment="Settlement Inn">&lt;font color="#EBE3D6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Welcome to {territoryName} Inn!&lt;/font&gt;&lt;/font&gt;\n\n Would you like to &lt;font color="#f3d981"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;check in&lt;/font&gt;&lt;/font&gt;?\n\nThis will allow you to recall and respawn at this settlement\nfrom anywhere in the world!</string>
 	<string key="ui_inn_checked_in" comment="Settlement Inn">{territoryName} is now your new recall point.</string>
 	<string key="ui_inn_fast_travel" comment="Settlement Inn">Recall to Inn</string>
-	<string key="ui_inn_fast_travel_notavailable" comment="Settlement Inn">Can Recall In : {time}</string>
+	<string key="ui_inn_fast_travel_notavailable" comment="Settlement Inn">Can Recall In: {time}</string>
 	<string key="ui_inn_header" comment="Settlement Inn">{territoryName} Inn</string>
 	<string key="ui_inn_map_tooltip" comment="Settlement Inn">&lt;font color="#949494"&gt;&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;Not Checked In&lt;/font&gt;&lt;/font&gt;\nCheck in to set a respawn and recall point.</string>
 	<string key="ui_inn_recall_from_esc_popup_confirm" comment="Settlement Inn">Would you like to recall to the inn located in {territoryName}?</string>
 	<string key="ui_inn_recall_popup_confirm" comment="Settlement Inn">Would you like to recall to this inn?</string>
-	<string key="ui_inn_replace_desc" comment="Settlement Inn">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Welcome to {territoryName} Inn!&lt;/font&gt;&lt;/font&gt;\n\n Would you like to &lt;font color="#f3d981"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;check in&lt;/font&gt;&lt;/font&gt;?\nThis will allow you to recall and respawn at this settlement\nfrom anywhere in the world!\n\n&lt;font color="#f3d981"&gt;This will replace your current recall point.&lt;/font&gt;</string>
+	<string key="ui_inn_replace_desc" comment="Settlement Inn">&lt;font color="#EBE3D6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Welcome to {territoryName} Inn!&lt;/font&gt;&lt;/font&gt;\n\n Would you like to &lt;font color="#f3d981"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;check in&lt;/font&gt;&lt;/font&gt;?\nThis will allow you to recall and respawn at this settlement\nfrom anywhere in the world!\n\n&lt;font color="#f3d981"&gt;This will replace your current recall point.&lt;/font&gt;</string>
 	<string key="ui_not_checked_in" comment="Settlement Inn">Check in at the inn to activate the recall point in this settlement.</string>
 	<string key="ui_not_checked_in_escape_menu" comment="Settlement Inn">Check in at an inn to activate a recall point.</string>
 	<string key="ui_not_checked_in_outpost" comment="Settlement Inn">Check in at the inn to activate the recall point in this outpost.</string>
@@ -259,10 +261,10 @@
 	<string key="ui_view_warinfo" comment="Territory Wars">View War Info</string>
 	<string key="ui_housing_item_over_placement_no_points" comment="Placed Housing Items">Warning: You have reached the housing point limit for this item.</string>
 	<string key="ui_housing_item_over_placement_negative_points" comment="Placed Housing Items">Warning: Too many of the same housing item placed will accrue negative points.</string>
-	<string key="ui_remove_all_furniture_desc" comment="Remove All Furniture">Place all furniture and decorations into your Settlement storage?</string>
-	<string key="ui_remove_all_furniture_button" comment="Remove All Furniture">Remove All Furniture</string>
-	<string key="ui_remove_all_furniture_confirm_title" comment="Remove All Furniture">Remove All Furniture?</string>
-	<string key="ui_remove_all_furniture_confirm_message" comment="Remove All Furniture">All trophies and furniture in the house will be moved to the town storage.</string>
-	<string key="ui_house_remove_all_furniture_confirm_button" comment="Remove All Furniture">Remove All Furniture</string>
+	<string key="ui_remove_all_furniture_desc" comment="Remove All Furniture">Move all furniture and decorations to the storage shed?</string>
+	<string key="ui_remove_all_furniture_button" comment="Remove All Furniture">Remove All</string>
+	<string key="ui_remove_all_furniture_confirm_title" comment="Remove All Furniture">Remove All</string>
+	<string key="ui_remove_all_furniture_confirm_message" comment="Remove All Furniture">All trophies and furniture in this house will be moved to the storage shed.</string>
+	<string key="ui_house_remove_all_furniture_confirm_button" comment="Remove All Furniture">Remove All</string>
 </resources>
 

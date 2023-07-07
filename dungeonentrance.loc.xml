@@ -3,69 +3,92 @@
 	<string key="ui_enter_dungeon">Enter</string>
 	<string key="ui_enter_solo_trial">Enter</string>
 	<string key="ui_enter_raid_trial">Enter</string>
-	<string key="ui_open_dungeon_menu">Open Expedition Menu</string>
-	<string key="ui_open_dungeon_menu_solo">Open Soul Trial Menu</string>
-	<string key="ui_open_dungeon_menu_raidtrial">Open Elite Trial Menu</string>
-	<string key="join_group_in_dungeon">Enter Expedition</string>
-	<string key="join_group_in_dungeon_solo">Enter Soul Trial</string>
-	<string key="join_group_in_dungeon_raidtrial">Enter Elite Trial</string>
-	<string key="ui_dungeon_leave">Leave Expedition</string>
-	<string key="ui_dungeon_leave_solo">Leave Soul Trial</string>
-	<string key="ui_dungeon_leave_raidtrial">Leave Elite Trial</string>
-	<string key="ui_dungeon_screen_header">Expedition Entrance</string>
-	<string key="ui_dungeon_screen_header_solo">Soul Trial Entrance</string>
-	<string key="ui_dungeon_screen_header_raidtrial">Elite Trial Entrance</string>
+	<string key="ui_open_dungeon_menu">Open</string>
+	<string key="ui_open_dungeon_menu_solo">Open</string>
+	<string key="ui_open_dungeon_menu_raidtrial">Open</string>
+	<string key="ui_open_dungeon_menu_seasontrial" rel_version="Season_2_Perm">Open</string>
+	<string key="join_group_in_dungeon">Enter</string>
+	<string key="join_group_in_dungeon_solo">Enter</string>
+	<string key="join_group_in_dungeon_raidtrial">Enter</string>
+	<string key="join_group_in_dungeon_seasontrial" rel_version="Season_2_Perm">Enter</string>
+	<string key="ui_dungeon_leave">Leave</string>
+	<string key="ui_dungeon_leave_solo">Leave</string>
+	<string key="ui_dungeon_leave_raidtrial">Leave</string>
+	<string key="ui_dungeon_leave_seasontrial" rel_version="Season_2_Perm">Leave</string>
+	<string key="ui_dungeon_screen_header">Expedition</string>
+	<string key="ui_dungeon_screen_header_solo">Soul Trial</string>
+	<string key="ui_dungeon_screen_header_raidtrial">Elite Trial</string>
+	<string key="ui_dungeon_screen_header_seasontrial" rel_version="Season_2_Perm">Seasonal Trial</string>
 	<string key="ui_dungeon_requirements">&lt;img src="LyShineUI/Images/icons/misc/icon_level_simple" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; Recommended Level: {level}   &lt;img src="LyShineUI/Images/icons/misc/icon_character" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; Minimum Players: {players}</string>
-	<string key="ui_dungeon_requirements_groupsize">Minimum Players: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{players}&lt;/font&gt;</string>
-	<string key="ui_dungeon_requirements_groupsize_single">Maximum Players: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
+	<string key="ui_dungeon_requirements_groupsize">Minimum Players: {players}</string>
+	<string key="ui_dungeon_requirements_groupsize_range">{minPlayers} - {maxPlayers} Players (Current: {currentPlayers})</string>
+	<string key="ui_dungeon_requirements_groupsize_single">Maximum Players: 1</string>
 	<string key="ui_dungeon_requirements_gearscore">Recommended Level: {level}</string>
-	<string key="ui_flyout_recommended_groupsize">Recommended Players: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{players}&lt;/font&gt;</string>
-	<string key="ui_dungeon_requirements_equipment_warning">Your group must have at least &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
-	<string key="ui_dungeon_requirements_equipment_warning_solo">You must have at least &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
-	<string key="ui_dungeon_requirements_equipment_warning_raidtrial">You must have at least &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
+	<string key="ui_flyout_recommended_groupsize">Recommended Players: {players}</string>
+	<string key="ui_dungeon_requirements_equipment_warning">Your group must have at least &lt;font color="#ebe3d6"&gt;{item}&lt;/font&gt;.</string>
+	<string key="ui_dungeon_requirements_equipment_warning_solo">You must have at least &lt;font color="#ebe3d6"&gt;{item}&lt;/font&gt;.</string>
+	<string key="ui_dungeon_requirements_equipment_warning_raidtrial">You must have at least &lt;font color="#ebe3d6"&gt;{item}&lt;/font&gt;.</string>
+	<string key="ui_dungeon_requirements_equipment_warning_seasontrial" rel_version="Season_2_Perm">You must have at least &lt;font color="#ebe3d6"&gt;{item}&lt;/font&gt;.</string>
 	<string key="ui_dungeon_reward_level">The quality of the overall loot increases as difficulty level increases.\n\nItems you find may vary from the listed items based on their Gear Score.</string>
 	<string key="ui_dungeon_level_requirement">Level Requirement: {level}</string>
 	<string key="ui_dungeon_elapsed_time">Time Elapsed:</string>
 	<string key="ui_dungeon_estimated_time_remaining">Estimated Wait Time:</string>
-	<string key="ui_dungeon_activate">Open Expedition</string>
-	<string key="ui_dungeon_activate_solo">Open Soul Trial</string>
-	<string key="ui_dungeon_activate_raidtrial">Open Elite Trial</string>
+	<string key="ui_dungeon_activate">Open</string>
+	<string key="ui_dungeon_activate_solo">Open</string>
+	<string key="ui_dungeon_activate_raidtrial">Open</string>
+	<string key="ui_dungeon_activate_seasontrial" rel_version="Season_2_Perm">Open</string>
 	<string key="ui_dungeon_leave_group">Leave Group</string>
 	<string key="ui_dungeon_leave_group_sufficient_members">You will be kicked out of the queue if you leave the group.\nAre you sure?</string>
 	<string key="ui_dungeon_group_in_queue">Waiting for Expedition...</string>
 	<string key="ui_dungeon_group_in_queue_solo">Waiting for Soul Trial...</string>
 	<string key="ui_dungeon_group_in_queue_raidtrial">Waiting for Elite Trial...</string>
+	<string key="ui_dungeon_group_in_queue_seasontrial" rel_version="Season_2_Perm">Waiting for Seasonal Trial...</string>
 	<string key="ui_dungeon_group_proximity">Group member too far away</string>
 	<string key="ui_dungeon_group_already_in_queue_dungeon">Your group is already in a queue for a different Expedition. Create a new group to open this Expedition.</string>
 	<string key="ui_dungeon_group_already_in_queue_dungeon_solo">Your group is already in a queue for a different Expedition. Create a new group to open this Trial.</string>
 	<string key="ui_dungeon_group_already_in_queue_dungeon_raidtrial">Your group is already in a queue for a different Expedition. Create a new group to open this Elite Trial.</string>
+	<string key="ui_dungeon_group_already_in_queue_dungeon_seasontrial" rel_version="Season_2_Perm">Your group is already in a queue for a different Expedition. Create a new group to open this Seasonal Trial.</string>
 	<string key="ui_dungeon_group_in_active_dungeon">Your group already has an active Expedition or Trial. All group members need to exit the active Instance to open this Expedition.</string>
 	<string key="ui_dungeon_group_in_active_dungeon_solo">Your group already has an active Expedition or Trial. All group members need to exit the active Instance to open this Soul Trial.</string>
 	<string key="ui_dungeon_group_in_active_dungeon_raidtrial">Your group already has an active Expedition or Trial. All group members need to exit the active Instance to open this Elite Trial.</string>
-	<string key="ui_dungeon_group_dead">Group member is dead</string>
+	<string key="ui_dungeon_group_in_active_dungeon_seasontrial" rel_version="Season_2_Perm">Your group already has an active Expedition or Trial. All group members need to exit the active Instance to open this Seasonal Trial.</string>
+	<string key="ui_dungeon_group_dead">Group member is dead.</string>
 	<string key="ui_dungeon_activating">Entering Expedition...</string>
 	<string key="ui_dungeon_activating_solo">Entering Soul Trial...</string>
 	<string key="ui_dungeon_activating_raidtrial">Entering Elite Trial...</string>
-	<string key="ui_dungeon_not_enough_members">Not enough members in group</string>
-	<string key="ui_dungeon_disabled">This Expedition is currently disabled</string>
-	<string key="ui_dungeon_disabled_solo">This Soul Trial is currently disabled</string>
-	<string key="ui_dungeon_disabled_raidtrial">This Elite Trial is currently disabled</string>
-	<string key="ui_dungeon_activate_failure">Failed to open Expedition</string>
-	<string key="ui_dungeon_activate_failure_solo">Failed to open Soul Trial</string>
-	<string key="ui_dungeon_activate_failure_raidtrial">Failed to open Elite Trial</string>
-	<string key="ui_dungeon_not_ready">Expedition not ready</string>
+	<string key="ui_dungeon_activating_seasontrial" rel_version="Season_2_Perm">Entering Seasonal Trial...</string>
+	<string key="ui_dungeon_not_enough_members">Not enough members in group.</string>
+	<string key="ui_dungeon_too_many_members">Too many members in group.</string>
+	<string key="ui_dungeon_not_in_regular_group">Cannot enter this instance while in a raid group.</string>
+	<string key="ui_dungeon_not_in_raid_group">Must be in a raid group.</string>
+	<string key="ui_dungeon_convert_to_raid_tooltip">Form a group and convert it to raid from the group menu.</string>
+	<string key="ui_dungeon_not_group_leader">Must be the group leader.</string>
+	<string key="ui_dungeon_group_leader_tooltip">Ask the group leader to open the trial.</string>
+	<string key="ui_dungeon_disabled">This Expedition is currently disabled.</string>
+	<string key="ui_dungeon_disabled_solo">This Soul Trial is currently disabled.</string>
+	<string key="ui_dungeon_disabled_raidtrial">This Elite Trial is currently disabled.</string>
+	<string key="ui_dungeon_disabled_seasontrial" rel_version="Season_2_Perm">This Seasonal Trial is currently disabled.</string>
+	<string key="ui_dungeon_activate_failure">Failed to open Expedition.</string>
+	<string key="ui_dungeon_activate_failure_solo">Failed to open Soul Trial.</string>
+	<string key="ui_dungeon_activate_failure_raidtrial">Failed to open Elite Trial.</string>
+	<string key="ui_dungeon_activate_failure_seasontrial" rel_version="Season_2_Perm">Failed to open Seasonal Trial.</string>
+	<string key="ui_dungeon_not_ready">Expedition not ready.</string>
 	<string key="ui_dungeon_opened_title">Expedition Open</string>
 	<string key="ui_dungeon_opened_title_solo">Soul Trial Open</string>
 	<string key="ui_dungeon_opened_title_raidtrial">Elite Trial Open</string>
-	<string key="ui_dungeon_removed_from_queue">You have been removed from the Expedition queue</string>
-	<string key="ui_dungeon_removed_from_queue_solo">You have been removed from the Soul Trial queue</string>
-	<string key="ui_dungeon_removed_from_queue_raidtrial">You have been removed from the Elite Trial queue</string>
+	<string key="ui_dungeon_opened_title_seasontrial" rel_version="Season_2_Perm">Seasonal Trial Open</string>
+	<string key="ui_dungeon_removed_from_queue">You have been removed from the Expedition queue.</string>
+	<string key="ui_dungeon_removed_from_queue_solo">You have been removed from the Soul Trial queue.</string>
+	<string key="ui_dungeon_removed_from_queue_raidtrial">You have been removed from the Elite Trial queue.</string>
+	<string key="ui_dungeon_removed_from_queue_seasontrial" rel_version="Season_2_Perm">You have been removed from the Seasonal Trial queue.</string>
 	<string key="ui_dungeon_entry_expired">Expedition entrance expired</string>
 	<string key="ui_dungeon_entry_expired_solo">Solo Trial entrance expired</string>
 	<string key="ui_dungeon_entry_expired_raidtrial">Elite Trial entrance expired</string>
+	<string key="ui_dungeon_entry_expired_seasontrial" rel_version="Season_2_Perm">Seasonal Trial entrance expired</string>
 	<string key="ui_dungeon_closed">Expedition closed</string>
 	<string key="ui_dungeon_closed_solo">Soul Trial closed</string>
 	<string key="ui_dungeon_closed_raidtrial">Elite Trial closed</string>
+	<string key="ui_dungeon_closed_seasontrial" rel_version="Season_2_Perm">Seasonal Trial closed</string>
 	<string key="ui_dungeon_required_item">{quantity} {item} (consumed once you join)</string>
 	<string key="ui_dungeon_required_item_started">{item}</string>
 	<string key="ui_dungeon_required_item_tooltip">{quantity} {item} required</string>
@@ -77,18 +100,22 @@
 	<string key="dungeon">Expedition</string>
 	<string key="dungeon_solo">Soul Trial</string>
 	<string key="dungeon_raidtrial">Elite Trial</string>
+	<string key="dungeon_seasontrial" rel_version="Season_2_Perm">Seasonal Trial</string>
 	<string key="dungeon_started">Expedition Activated</string>
 	<string key="dungeon_teleport_title">Prepare to Teleport</string>
 	<string key="dungeon_teleport_desc">Your group will be teleported into the Expedition.</string>
-	<string key="dungeon_enter">Enter Expedition</string>
-	<string key="dungeon_enter_solo">Enter Soul Trial</string>
-	<string key="dungeon_enter_raidtrial">Enter Elite Trial</string>
+	<string key="dungeon_enter">Enter</string>
+	<string key="dungeon_enter_solo">Enter</string>
+	<string key="dungeon_enter_raidtrial">Enter</string>
+	<string key="dungeon_enter_seasontrial" rel_version="Season_2_Perm">Enter</string>
 	<string key="dungeon_flyout">Expedition</string>
 	<string key="dungeon_success">Mission Complete</string>
 	<string key="dungeon_fail">Mission Failed</string>
+	<string key="dungeon_locked_solo">Soul Trial Locked</string>
 	<string key="dungeon_completed">Expedition Completed</string>
 	<string key="dungeon_completed_solo">Soul Trial Completed</string>
 	<string key="dungeon_completed_raidtrial">Elite Trial Completed</string>
+	<string key="dungeon_completed_seasontrial" rel_version="Season_2_Perm">Seasonal Trial Completed</string>
 	<string key="ui_dungeon_find_group" rel_version="Feature_Group_Finder">Find Group</string>
 	<string key="ui_dungeon_manage_group" rel_version="Feature_Group_Finder">Manage My Lobby</string>
 	<string key="ui_dungeon_view_group" rel_version="Feature_Group_Finder">View My Lobby</string>
@@ -96,37 +123,44 @@
 	<string key="ui_dungeon_enter_pvpwarning_info">Entering an Expedition will &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
 	<string key="ui_dungeon_enter_pvpwarning_info_solo">Entering Soul Trial will &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
 	<string key="ui_dungeon_enter_pvpwarning_info_raidtrial">Entering a Elite Trial will &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
-	<string key="ui_dungeon_full_header">Expedition is currently full. Join the queue to enter the expedition.</string>
-	<string key="ui_dungeon_full_header_solo">Soul Trial is currently full. Join the queue to enter the soul trial.</string>
-	<string key="ui_dungeon_full_header_raidtrial">Elite Trial is currently full. Join the queue to enter the elite trial.</string>
-	<string key="ui_dungeon_player_average_gear_score">&lt;font color="#c3b79f"&gt;Average Gear Score: &lt;/font&gt; &lt;font color="#ffffff" face="lyshineui/fonts/CaslonAnt.font"&gt;{gearscore}&lt;/font&gt;</string>
-	<string key="ui_dungeon_queued_blocked">Can't Open Expedition</string>
-	<string key="ui_dungeon_queued_blocked_solo">Can't Open Soul Trial</string>
-	<string key="ui_dungeon_queued_blocked_raidtrial">Can't Open Elite Trial</string>
-	<string key="ui_dungeon_outpost_rush">You are already in a queue for Outpost Rush</string>
-	<string key="ui_dungeon_expiring">Leaving expedition in</string>
-	<string key="ui_dungeon_expiring_solo">Leaving Soul Trial in</string>
-	<string key="ui_dungeon_expiring_raidtrial">Leaving Elite Trial in</string>
-	<string key="ui_dungeon_cooldown">Can Open in &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{timeRemaining}&lt;/font&gt;</string>
+	<string key="ui_dungeon_enter_pvpwarning_info_seasontrial" rel_version="Season_2_Perm">Entering a Seasonal Trial will &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
+	<string key="ui_dungeon_full_header">Expedition is currently full. Join the queue to enter the Expedition.</string>
+	<string key="ui_dungeon_full_header_solo">Soul Trial is currently full. Join the queue to enter the Soul Trial.</string>
+	<string key="ui_dungeon_full_header_raidtrial">Elite Trial is currently full. Join the queue to enter the Elite Trial.</string>
+	<string key="ui_dungeon_full_header_seasontrial" rel_version="Season_2_Perm">Seasonal Trial is currently full. Join the queue to enter the Seasonal Trial.</string>
+	<string key="ui_dungeon_player_average_gear_score">&lt;font color="#c3b79f"&gt;Average Gear Score: &lt;/font&gt; &lt;font color="#ebe3d6"&gt;{gearscore}&lt;/font&gt;</string>
+	<string key="ui_dungeon_queued_blocked">Open</string>
+	<string key="ui_dungeon_queued_blocked_solo">Open</string>
+	<string key="ui_dungeon_queued_blocked_raidtrial">Open</string>
+	<string key="ui_dungeon_queued_blocked_seasontrial" rel_version="Season_2_Perm">Open</string>
+	<string key="ui_dungeon_outpost_rush">You are already in a queue for Outpost Rush.</string>
+	<string key="ui_dungeon_expiring">Leaving in</string>
+	<string key="ui_dungeon_expiring_solo">Leaving in</string>
+	<string key="ui_dungeon_expiring_raidtrial">Leaving in</string>
+	<string key="ui_dungeon_expiring_seasontrial" rel_version="Season_2_Perm">Leaving in</string>
+	<string key="ui_dungeon_cooldown">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{timeRemaining}&lt;/font&gt;</string>
 	<string key="ui_dungeon_cooldown_flyout">You can open this Expedition in {timeRemaining}</string>
 	<string key="ui_dungeon_cooldown_flyout_solo">You can open this Soul Trial in {timeRemaining}</string>
 	<string key="ui_dungeon_cooldown_flyout_raidtrial">You can open this Elite Trial in {timeRemaining}</string>
+	<string key="ui_dungeon_cooldown_flyout_seasontrial" rel_version="Season_2_Perm">You can open this Seasonal Trial in {timeRemaining}</string>
 	<string key="ui_dungeon_map_flyout_button">View Expedition</string>
 	<string key="ui_dungeon_remaining_label">Regular Expeditions Remaining</string>
 	<string key="ui_dungeon_remaining_label_raidtrial">Regular Elite Trials Remaining</string>
+	<string key="ui_dungeon_remaining_label_seasontrial" rel_version="Season_2_Perm">Regular Seasonal Trials Remaining</string>
 	<string key="ui_dungeon_remaining_tooltip">You may enter up to {amount} Regular Expeditions per day.</string>
 	<string key="ui_dungeon_remaining_tooltip_raidtrial">You may enter up to {amount} Elite Trials per day.</string>
+	<string key="ui_dungeon_remaining_tooltip_seasontrial" rel_version="Season_2_Perm">You may enter up to {amount} Seasonal Trials per day.</string>
 	<string key="ui_dungeon_mutation_remaining_label" rel_version="Feature_Dungeon_Mutators">Mutated Expeditions Remaining</string>
 	<string key="ui_dungeon_mutation_remaining_tooltip" rel_version="Feature_Dungeon_Mutators">You may enter up to {amount} Mutated Expeditions per week.</string>
-	<string key="ui_dungeon_mutation_flyout_tooltip" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Weekly Mutation&lt;/font&gt;\nElemental Mutations, Promotions and Curses are randomized weekly for Mutated Expeditions.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Mutation&lt;/font&gt;\nBattle through Elemental Mutations\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Promotion&lt;/font&gt;\nElite Promotions for Enemies\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Curses&lt;/font&gt;\nExpedition wide Effects</string>
+	<string key="ui_dungeon_mutation_flyout_tooltip" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Weekly Mutation&lt;/font&gt;\nElemental Mutations, Promotions and Curses are randomized weekly for Mutated Expeditions.\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Mutation&lt;/font&gt;\nBattle through Elemental Mutations\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Promotion&lt;/font&gt;\nElite Promotions for Enemies\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Curses&lt;/font&gt;\nExpedition wide Effects</string>
 	<string key="ui_dungeon_mutation_elemental" rel_version="Feature_Dungeon_Mutators">Mutation</string>
 	<string key="ui_dungeon_mutation_promotion" rel_version="Feature_Dungeon_Mutators">Promotion</string>
 	<string key="ui_dungeon_mutation_curse" rel_version="Feature_Dungeon_Mutators">Curse</string>
-	<string key="ui_dungeon_mutation_elemental_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff9393" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Enemies&lt;/font&gt; may have the following &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Perks:&lt;/font&gt;</string>
-	<string key="ui_dungeon_mutation_promotion_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff9393" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Enemies&lt;/font&gt; may have the following &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Buffs:&lt;/font&gt;</string>
-	<string key="ui_dungeon_mutation_curse_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Players&lt;/font&gt; receive the following &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Debuffs:&lt;/font&gt;</string>
-	<string key="ui_dungeon_mutator_expiration_text" rel_version="Feature_Dungeon_Mutators">Changes in: </string>
-	<string key="ui_dungeon_mutator_recommended_gearscore" rel_version="Feature_Dungeon_Mutators">Recommended Minimum Gear Score: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{score}&lt;/font&gt; - {gearScaling}</string>
+	<string key="ui_dungeon_mutation_elemental_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff9393" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Enemies&lt;/font&gt; may have the following &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Perks:&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutation_promotion_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff9393" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Enemies&lt;/font&gt; may have the following &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Buffs:&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutation_curse_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Players&lt;/font&gt; receive the following &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Debuffs:&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutator_expiration_text" rel_version="Feature_Dungeon_Mutators">Changes in:</string>
+	<string key="ui_dungeon_mutator_recommended_gearscore" rel_version="Feature_Dungeon_Mutators">Recommended Minimum Gear Score: {score} - {gearScaling}</string>
 	<string key="ui_dungeon_mutator_gearscaling_low" rel_version="Feature_Dungeon_Mutators">Low Gear Score Scaling</string>
 	<string key="ui_dungeon_mutator_gearscaling_medium" rel_version="Feature_Dungeon_Mutators">Medium Gear Score Scaling</string>
 	<string key="ui_dungeon_mutator_gearscaling_high" rel_version="Feature_Dungeon_Mutators">High Gear Score Scaling</string>
@@ -196,7 +230,7 @@
 	<string key="ui_dungeon_mutator_active" rel_version="Feature_Dungeon_Mutators">&lt;font color="#00ffa8"&gt;Active &lt;img src="LyShineUI/Images/icons/misc/icon_question_orange" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; &lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_inactive" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff9393"&gt;Inactive &lt;img src="LyShineUI/Images/icons/misc/icon_question_orange" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; &lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_rotation_notice" rel_version="Feature_Dungeon_Mutators">An Expedition is randomly selected every week to mutate. Only the selected Expedition can be played with raised difficulties.</string>
-	<string key="ui_dungeon_mutation_rewards_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Items&lt;/font&gt; have a chance to drop with these &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Perks:&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutation_rewards_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Items&lt;/font&gt; have a chance to drop with these &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Perks:&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_standard_reward_count" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Expedition Items</string>
 	<string key="ui_dungeon_mutator_difficulty_reward_count" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Difficulty Items</string>
 	<string key="ui_dungeon_mutator_special_reward_tooltip" rel_version="Feature_Dungeon_Mutators">Umbral Shards are rewarded based on your rank when the Expedition is completed.\n\nUnlock the next Expedition difficulty with Silver rank or higher.</string>
@@ -269,10 +303,10 @@
 	<string key="Mut_Ice_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Periodically selects the player with the lowest percent health. After several seconds, the selected player casts chain Ice, damaging nearby players for {[Type_StatusEffectData.Mut_Ice_Curse3_Minor_Damage.HealthModifierPercent * -100]}% of their max health. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Nat_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Periodically selects the player with the lowest percent health. After several seconds, the selected player casts chain Nature, damaging nearby players for {[Type_StatusEffectData.Mut_Nat_Curse3_Minor_Damage.HealthModifierPercent * -100]}% of their max health. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Voi_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Periodically selects the player with the lowest percent health. After several seconds, the selected player casts chain Void, damaging nearby players {[Type_StatusEffectData.Mut_Voi_Curse3_Minor_Damage.HealthModifierPercent * -100]}% of their max health. (This effect cannot be cleansed by player abilities)</string>
-	<string key="Mut_Fir_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">When selecting the lowest percent health player, all other players are given Shrivelled Weaken, reducing their damage by {[Type_StatusEffectData.Mut_Curse3_Weaken.DMGStandard * -100]}% and healing by {[Type_StatusEffectData.Mut_Curse3_Weaken.HealScalingValueMultiplier * -100]}%. The selected player gains an aura that cleanses Shrivelled Weaken. (This effect cannot be cleansed by player abilities)</string>
-	<string key="Mut_Ice_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">When selecting the lowest percent health player, all other players are given Shrivelled Weaken, reducing their damage by {[Type_StatusEffectData.Mut_Curse3_Weaken.DMGStandard * -100]}% and healing by {[Type_StatusEffectData.Mut_Curse3_Weaken.HealScalingValueMultiplier * -100]}%. The selected player gains an aura that cleanses Shrivelled Weaken. (This effect cannot be cleansed by player abilities)</string>
-	<string key="Mut_Nat_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">When selecting the lowest percent health player, all other players are given Shrivelled Weaken, reducing their damage by {[Type_StatusEffectData.Mut_Curse3_Weaken.DMGStandard * -100]}% and healing by {[Type_StatusEffectData.Mut_Curse3_Weaken.HealScalingValueMultiplier * -100]}%. The selected player gains an aura that cleanses Shrivelled Weaken. (This effect cannot be cleansed by player abilities)</string>
-	<string key="Mut_Voi_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">When selecting the lowest percent health player, all other players are given Shrivelled Weaken, reducing their damage by {[Type_StatusEffectData.Mut_Curse3_Weaken.DMGStandard * -100]}% and healing by {[Type_StatusEffectData.Mut_Curse3_Weaken.HealScalingValueMultiplier * -100]}%. The selected player gains an aura that cleanses Shrivelled Weaken. (This effect cannot be cleansed by player abilities)</string>
+	<string key="Mut_Fir_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">When selecting the lowest percent health player, all other players are given Shrivelled Weaken, reducing their damage by {[Type_StatusEffectData.Mut_Curse3_Weaken.DMGStandard * -100]}% and damage based healing by {[Type_StatusEffectData.Mut_Curse3_Weaken.HealScalingValueMultiplier * -100]}%. The selected player gains an aura that cleanses Shrivelled Weaken. (This effect cannot be cleansed by player abilities)</string>
+	<string key="Mut_Ice_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">When selecting the lowest percent health player, all other players are given Shrivelled Weaken, reducing their damage by {[Type_StatusEffectData.Mut_Curse3_Weaken.DMGStandard * -100]}% and damage based healing by {[Type_StatusEffectData.Mut_Curse3_Weaken.HealScalingValueMultiplier * -100]}%. The selected player gains an aura that cleanses Shrivelled Weaken. (This effect cannot be cleansed by player abilities)</string>
+	<string key="Mut_Nat_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">When selecting the lowest percent health player, all other players are given Shrivelled Weaken, reducing their damage by {[Type_StatusEffectData.Mut_Curse3_Weaken.DMGStandard * -100]}% and damage based healing by {[Type_StatusEffectData.Mut_Curse3_Weaken.HealScalingValueMultiplier * -100]}%. The selected player gains an aura that cleanses Shrivelled Weaken. (This effect cannot be cleansed by player abilities)</string>
+	<string key="Mut_Voi_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">When selecting the lowest percent health player, all other players are given Shrivelled Weaken, reducing their damage by {[Type_StatusEffectData.Mut_Curse3_Weaken.DMGStandard * -100]}% and damage based healing by {[Type_StatusEffectData.Mut_Curse3_Weaken.HealScalingValueMultiplier * -100]}%. The selected player gains an aura that cleanses Shrivelled Weaken. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Curse4_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">While silence zones are active, all players lose natural mana regeneration. Standing in the silence zone grants {[Type_StatusEffectData.Mut_Curse4_Major_ManaRegen.Mana]} mana per {[Type_StatusEffectData.Mut_Curse4_Major_ManaRegen.TickRate]} seconds. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Fir_Curse4_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Using abilities depletes a global affliction. When the affliction is depleted, a zone is cast on all players which silences players in its area. After the affliction expires, the zones detonate dealing {[Type_StatusEffectData.Mut_Fir_Curse4_Minor_Damage.HealthModifierPercent * -100]}% max health Fire damage to players in the radius. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Ice_Curse4_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Using abilities depletes a global affliction. When the affliction is depleted, a zone is cast on all players which silences players in its area. After the affliction expires, the zones detonate dealing {[Type_StatusEffectData.Mut_Ice_Curse4_Minor_Damage.HealthModifierPercent * -100]}% max health Ice damage to players in the radius. (This effect cannot be cleansed by player abilities)</string>
@@ -300,34 +334,98 @@
 	<string key="Mut_Curse1_Ice_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">If Unstable expires with {[Type_StatusEffectData.Mut_Curse1_Ice_Minor_Damage.StackMax]} stacks active, it drops a {[SpellDataTable_Global.Mut_Ice_Curse1_Major.Radius]}m radius zone that lasts for {[SpellDataTable_Global.Mut_Ice_Curse1_Major.Duration / 1000]} seconds. While inside, players take {[Type_StatusEffectData.Mut_Curse1_Ice_Major_Damage_DoT.HealthModifierPercent * -100]}% of their max HP worth of damage every second. Entering the effect consumes all stacks of Unstable, dealing {[Type_StatusEffectData.Mut_Curse1_Ice_Major_Damage_Cleanse.HealthModifierPercent * -100]}% of max HP damage. (This effect cannot be cleansed by player abilities)</string>
 	<string key="ui_dungeon_mutator_highest_rank_tooltip" rel_version="Feature_Dungeon_Mutators">The highest rank you achieved on this difficulty: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{rank}&lt;/font&gt;</string>
 	<string key="ui_dungeon_survive_for">Survive for</string>
-	<string key="ui_dungeon_possible_rewards_header" rel_version="Feature_Dungeon_Mutators">Possible Rewards</string>
-	<string key="ui_dungeon_no_possible_rewards" rel_version="Feature_Dungeon_Mutators">No Possible Rewards</string>
+	<string key="ui_dungeon_possible_rewards_header" rel_version="Feature_Dungeon_Mutators">Available Rewards</string>
+	<string key="ui_dungeon_no_possible_rewards" rel_version="Feature_Dungeon_Mutators">No Available Rewards</string>
 	<string key="ui_dungeon_orb_explanation" rel_version="Feature_Dungeon_Mutators">A one time reward. Mutated Expedition Tuning Orbs are also available through the Faction Shop.</string>
-	<string key="ui_dungeon_gearscore_recommendation_tooltip" rel_version="Feature_Dungeon_Mutators">
-	&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Recommended Gear Score&lt;/font&gt;\n\nCombat calculations are affected by the difference between your average Gear Score and the Recommended Gear Score.\n\n&lt;font color="#ff9393"&gt;Lower&lt;/font&gt; than the Recommended Minimum Gear Score results in &lt;font color="#ffffff"&gt;doing less damage&lt;/font&gt;, and &lt;font color="#ffffff"&gt;taking more damage&lt;/font&gt; from enemies in the Expedition.</string>
-	<string key="ui_dungeon_gearscore_recommendation_tooltip_raidtrial" rel_version="Feature_Dungeon_Mutators">
-	&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Recommended Gear Score&lt;/font&gt;\n\nCombat calculations are affected by the difference between your average Gear Score and the Recommended Gear Score.\n\n&lt;font color="#ff9393"&gt;Lower&lt;/font&gt; than the Recommended Minimum Gear Score results in &lt;font color="#ffffff"&gt;doing less damage&lt;/font&gt;, and &lt;font color="#ffffff"&gt;taking more damage&lt;/font&gt; from enemies in the Elite Trial.</string>
+	<string key="ui_dungeon_gearscore_recommendation_tooltip" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Recommended Gear Score&lt;/font&gt;\n\nCombat calculations are affected by the difference between your average Gear Score and the Recommended Gear Score.\n\n&lt;font color="#ff9393"&gt;Lower&lt;/font&gt; than the Recommended Minimum Gear Score results in &lt;font color="#ebe3d6"&gt;doing less damage&lt;/font&gt;, and &lt;font color="#ebe3d6"&gt;taking more damage&lt;/font&gt; from enemies in the Expedition.</string>
+	<string key="ui_dungeon_gearscore_recommendation_tooltip_raidtrial" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Recommended Gear Score&lt;/font&gt;\n\nCombat calculations are affected by the difference between your average Gear Score and the Recommended Gear Score.\n\n&lt;font color="#ff9393"&gt;Lower&lt;/font&gt; than the Recommended Minimum Gear Score results in &lt;font color="#ebe3d6"&gt;doing less damage&lt;/font&gt;, and &lt;font color="#ebe3d6"&gt;taking more damage&lt;/font&gt; from enemies in the Elite Trial.</string>
+	<string key="ui_dungeon_gearscore_recommendation_tooltip_seasontrial" rel_version="Season_2_Perm">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Recommended Gear Score&lt;/font&gt;\n\nCombat calculations are affected by the difference between your average Gear Score and the Recommended Gear Score.\n\n&lt;font color="#ff9393"&gt;Lower&lt;/font&gt; than the Recommended Minimum Gear Score results in &lt;font color="#ebe3d6"&gt;doing less damage&lt;/font&gt;, and &lt;font color="#ebe3d6"&gt;taking more damage&lt;/font&gt; from enemies in the Seasonal Trial.</string>
 	<string key="ui_dungeon_gearscore_underlevel_warning" rel_version="Feature_Dungeon_Mutators">&lt;font color={color} face="lyshineui/fonts/Nimbus_Bold.font"&gt;WARNING:&lt;/font&gt; Your Average Gear Score is too low to perform well in this Expedition.</string>
 	<string key="ui_dungeon_gearscore_underlevel_warning_raidtrial" rel_version="Feature_Dungeon_Mutators">&lt;font color={color} face="lyshineui/fonts/Nimbus_Bold.font"&gt;WARNING:&lt;/font&gt; Your Average Gear Score is too low to perform well in this Elite Trial.</string>
-	<string key="ui_dungeon_mutator_max_warning" rel_version="Feature_Dungeon_Mutators">You have reached the weekly limit to enter Mutated Expeditions. &lt;font color="#ffffff"&gt;({amount} per week)&lt;/font&gt;</string>
-	<string key="ui_dungeon_mutator_max_warning_raidtrial" rel_version="Feature_Dungeon_Mutators">You have reached the weekly limit to enter Mutated Elite Trials. &lt;font color="#ffffff"&gt;({amount} per week)&lt;/font&gt;</string>
-	<string key="ui_dungeon_max_warning">You have reached the daily limit to enter Regular Expeditions. &lt;font color="#ffffff"&gt;({amount} per day)&lt;/font&gt;</string>
-	<string key="ui_dungeon_max_warning_raidtrial">You have reached the daily limit to enter Regular Elite Trials. &lt;font color="#ffffff"&gt;({amount} per day)&lt;/font&gt;</string>
+	<string key="ui_dungeon_gearscore_underlevel_warning_seasontrial" rel_version="Season_2_Perm">&lt;font color={color} face="lyshineui/fonts/Nimbus_Bold.font"&gt;WARNING:&lt;/font&gt; Your Average Gear Score is too low to perform well in this Seasonal Trial.</string>
+	<string key="ui_dungeon_mutator_max_warning" rel_version="Feature_Dungeon_Mutators">You have reached the weekly limit to enter Mutated Expeditions. &lt;font color="#ebe3d6"&gt;({amount} per week)&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutator_max_warning_raidtrial" rel_version="Feature_Dungeon_Mutators">You have reached the weekly limit to enter Mutated Elite Trials. &lt;font color="#ebe3d6"&gt;({amount} per week)&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutator_max_warning_seasontrial" rel_version="Season_2_Perm">You have reached the weekly limit to enter Mutated Seasonal Trials. &lt;font color="#ebe3d6"&gt;({amount} per week)&lt;/font&gt;</string>
+	<string key="ui_dungeon_max_warning">You have reached the daily limit to enter Regular Expeditions. &lt;font color="#ebe3d6"&gt;({amount} per day)&lt;/font&gt;</string>
+	<string key="ui_dungeon_max_warning_raidtrial">You have reached the daily limit to enter Regular Elite Trials. &lt;font color="#ebe3d6"&gt;({amount} per day)&lt;/font&gt;</string>
+	<string key="ui_dungeon_max_warning_seasontrial" rel_version="Season_2_Perm">You have reached the daily limit to enter Regular Seasonal Trials. &lt;font color="#ebe3d6"&gt;({amount} per day)&lt;/font&gt;</string>
 	<string key="ui_dungeon_limit_refresh_enter">Can Enter {date}</string>
 	<string key="ui_dungeon_limit_refresh_open">Can Open {date}</string>
 	<string key="ui_dungeon_characters_at_limit_title">Can't Open Expedition</string>
 	<string key="ui_dungeon_characters_at_limit_title_raidtrial">Can't Open Elite Trial</string>
-	<string key="ui_dungeon_characters_at_limit_desc_regular">The following group member(s) have reached their daily Regular Expedition limit and cannot enter this expedition.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can open {date})&lt;/font&gt;</string>
-	<string key="ui_dungeon_characters_at_limit_desc_regular_raidtrial">The following group member(s) have reached their daily Regular Elite Trial limit and cannot enter this elite trial.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can open {date})&lt;/font&gt;</string>
-	<string key="ui_dungeon_characters_at_limit_desc_mutated" rel_version="Feature_Dungeon_Mutators">The following group member(s) have reached their weekly Mutated Expedition limit and cannot enter this expedition.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can open {date})&lt;/font&gt;</string>
-	<string key="ui_dungeon_characters_at_limit_desc_mutated_raidtrial" rel_version="Feature_Dungeon_Mutators">The following group member(s) have reached their weekly Mutated Elite Trial limit and cannot enter this Elite Trial.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can open {date})&lt;/font&gt;</string>
+	<string key="ui_dungeon_characters_at_limit_title_seasontrial" rel_version="Season_2_Perm">Can't Open Seasonal Trial</string>
+	<string key="ui_dungeon_characters_at_limit_desc_regular">The following group member(s) have reached their daily Regular Expedition limit and cannot enter this Expedition.\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can open {date})&lt;/font&gt;</string>
+	<string key="ui_dungeon_characters_at_limit_desc_regular_raidtrial">The following group member(s) have reached their daily Regular Elite Trial limit and cannot enter this Elite Trial.\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can open {date})&lt;/font&gt;</string>
+	<string key="ui_dungeon_characters_at_limit_desc_regular_seasontrial" rel_version="Season_2_Perm">The following group member(s) have reached their daily Regular Seasonal Trial limit and cannot enter this Seasonal Trial.\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can open {date})&lt;/font&gt;</string>
+	<string key="ui_dungeon_characters_at_limit_desc_mutated" rel_version="Feature_Dungeon_Mutators">The following group member(s) have reached their weekly Mutated Expedition limit and cannot enter this expedition.\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can open {date})&lt;/font&gt;</string>
+	<string key="ui_dungeon_characters_at_limit_desc_mutated_raidtrial" rel_version="Feature_Dungeon_Mutators">The following group member(s) have reached their weekly Mutated Elite Trial limit and cannot enter this Elite Trial.\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can open {date})&lt;/font&gt;</string>
+	<string key="ui_dungeon_characters_at_limit_desc_mutated_seasontrial" rel_version="Season_2_Perm">The following group member(s) have reached their weekly Mutated Seasonal Trial limit and cannot enter this Seasonal Trial.\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can open {date})&lt;/font&gt;</string>
 	<string key="ui_dungeon_enter_warning_mutated" rel_version="Feature_Dungeon_Mutators">You have entered {amount} Mutated Expeditions so far this week. The limit is {max} per week.</string>
 	<string key="ui_dungeon_enter_warning_mutated_raidtrial" rel_version="Feature_Dungeon_Mutators">You have entered {amount} Mutated Elite Trials so far this week. The limit is {max} per week.</string>
+	<string key="ui_dungeon_enter_warning_mutated_seasontrial" rel_version="Season_2_Perm">You have entered {amount} Mutated Seasonal Trials so far this week. The limit is {max} per week.</string>
 	<string key="ui_dungeon_enter_warning_regular">You have entered {amount} Regular Expeditions today. The limit is {max} per day.</string>
 	<string key="ui_dungeon_enter_warning_regular_raidtrial">You have entered {amount} Regular Elite Trials today. The limit is {max} per day.</string>
+	<string key="ui_dungeon_enter_warning_regular_seasontrial" rel_version="Season_2_Perm">You have entered {amount} Regular Seasonal Trials today. The limit is {max} per day.</string>
 	<string key="ui_dungeon_enter_warning_notification_regular">You are almost at the daily limit for Regular Expeditions. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} remaining)</string>
 	<string key="ui_dungeon_enter_warning_notification_regular_raidtrial">You are almost at the daily limit for Regular Elite Trials. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} remaining)</string>
+	<string key="ui_dungeon_enter_warning_notification_regular_seasontrial" rel_version="Season_2_Perm">You are almost at the daily limit for Regular Seasonal Trials. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} remaining)</string>
 	<string key="ui_dungeon_enter_warning_notification_mutated" rel_version="Feature_Dungeon_Mutators">You are almost at the weekly limit for Mutated Expeditions. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} remaining)</string>
 	<string key="ui_dungeon_enter_warning_notification_mutated_raidtrial" rel_version="Feature_Dungeon_Mutators">You are almost at the weekly limit for Mutated Elite Trials. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} remaining)</string>
+	<string key="ui_dungeon_enter_warning_notification_mutated_seasontrial" rel_version="Season_2_Perm">You are almost at the weekly limit for Mutated Seasonal Trials. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} remaining)</string>
+	<string key="ui_seasontrial_challenges" rel_version="Season_2_Perm">Trial Challenges</string>
+	<string key="ui_seasontrial_header" rel_version="Season_2_Perm">Seasonal Trial</string>
+	<string key="ui_seasontrial_bonusruns_prefix" rel_version="Season_2_Perm">&lt;img src="lyshineui/images/icons/misc/icon_hourglass" scale="0.80" yOffset="1.0"&gt;&lt;/img&gt;</string>
+	<string key="ui_seasontrial_player_average_gear_score" rel_version="Season_2_Perm">Average Gear Score: &lt;img src="lyshineui/images/icons/misc/icon_gearscore_tan" scale="1.6" yOffset="4.0" &gt;&lt;/img&gt; {gearscore}</string>
+	<string key="ui_seasontrial_player_recommended_gear_score" rel_version="Season_2_Perm">Recommended: &lt;img src="lyshineui/images/icons/misc/icon_gearscore_tan" scale="1.6" yOffset="4.0" &gt;&lt;/img&gt; {gearscoreMin} - {gearscoreMax}</string>
+	<string key="ui_seasontrial_season_ends_prefix" rel_version="Season_2_Perm">Season End in:</string>
+	<string key="ui_howtofindraid_title" rel_version="Season_2_Perm">Forming a raid</string>
+	<string key="ui_howtofindraid_bullet1" rel_version="Season_2_Perm">i.</string>
+	<string key="ui_howtofindraid_bullet2" rel_version="Season_2_Perm">ii.</string>
+	<string key="ui_howtofindraid_bullet3" rel_version="Season_2_Perm">iii.</string>
+	<string key="ui_howtofindraid_header1" rel_version="Season_2_Perm">Invite a player to a group</string>
+	<string key="ui_howtofindraid_header2" rel_version="Season_2_Perm">Click more options under group management</string>
+	<string key="ui_howtofindraid_header3" rel_version="Season_2_Perm">Convert to a raid</string>
+	<string key="ui_howtofindraid_body1" rel_version="Season_2_Perm">Raid is formed through an existing group. Invite at least one player to form a group.</string>
+	<string key="ui_howtofindraid_body2" rel_version="Season_2_Perm">Access "more options" under group members' portraits.</string>
+	<string key="ui_howtofindraid_body3" rel_version="Season_2_Perm">A player who converts the group into a raid will be assigned as the group leader. They will be able to manage the raid and invite players into the raid.</string>
+	<string key="ui_elitetrial_landing_header" rel_version="Season_2_Perm">Available Rewards</string>
+	<string key="ui_elitetrial_landing_daily" rel_version="Season_2_Perm">Daily</string>
+	<string key="ui_elitetrial_landing_weekly" rel_version="Season_2_Perm">Weekly</string>
+	<string key="ui_elitetrial_reward_header" rel_version="Season_2_Perm">Rewards</string>
+	<string key="ui_elitetrial_reward_desc" rel_version="Season_2_Perm">Successfully completing the trial will drop the following if you haven't reached your daily/weekly limit.</string>
+	<string key="ui_elitetrial_reward_daily" rel_version="Season_2_Perm">{amount}/{max} Daily</string>
+	<string key="ui_elitetrial_reward_dailydesc" rel_version="Season_2_Perm">Daily Chest contains one of these items.</string>
+	<string key="ui_elitetrial_reward_weekly" rel_version="Season_2_Perm">{amount}/{max} Weekly</string>
+	<string key="ui_elitetrial_reward_weeklydesc" rel_version="Season_2_Perm">Weekly Chest contains one of these items.</string>
+	<string key="ui_elitetrial_reward_completion" rel_version="Season_2_Perm">Completion</string>
+	<string key="ui_elitetrial_reward_completiondesc" rel_version="Season_2_Perm">These items are awarded upon Trial completion. Repeatable.</string>
+	<string key="ui_seasontrial_available_rewards" rel_version="Season_2_Perm">Available Rewards</string>
+	<string key="ui_seasontrial_exclusive_rewards" rel_version="Season_2_Perm">Exclusive Rewards</string>
+	<string key="ui_seasontrial_exclusive_rewards_desc" rel_version="Season_2_Perm">These only drop on first 7 completions and change every week.</string>
+	<string key="ui_seasontrial_unique_rewards" rel_version="Season_2_Perm">Unique Rewards</string>
+	<string key="ui_seasontrial_unique_rewards_desc" rel_version="Season_2_Perm">These only drop on first 7 completions and change every week.</string>
+	<string key="ui_seasontrial_basic_rewards" rel_version="Season_2_Perm">Basic Rewards</string>
+	<string key="ui_seasontrial_basic_rewards_desc" rel_version="Season_2_Perm">These items can always drop.</string>
+	<string key="ui_seasontrial_not_in_raid" rel_version="Season_2_Perm">You're not in a Raid</string>
+	<string key="ui_seasontrial_in_raid" rel_version="Season_2_Perm">You're in a Raid</string>
+	<string key="ui_seasontrial_minimum_players" rel_version="Season_2_Perm">Minimum Players: {players}</string>
+	<string key="ui_seasontrial_cant_enter" comment="Says Enter since the button is already in a disabled state" rel_version="Season_2_Perm">Enter</string>
+	<string key="ui_seasontrial_map_button" rel_version="Season_2_Perm">View Trial</string>
+	<string key="ui_seasontrial_group_count" rel_version="Season_2_Perm">&lt;font color={color}&gt;{number}&lt;/font&gt; / {total}</string>
+	<string key="ui_seasontrial_map_bonusrun_count" rel_version="Season_2_Perm">{count} / {max} Bonus Runs Completed</string>
+	<string key="ui_seasontrial_beat_in" rel_version="Season_2_Perm">Time Remaining</string>
+	<string key="ui_seasontrial_milestone_bonus_run_rewards_message" rel_version="Season_2_Perm">Bonus Run Rewards</string>
+	<string key="ui_seasontrial_bonus_run_header" rel_version="Season_2_Perm">Bonus Runs</string>
+	<string key="ui_seasontrial_bonus_run_tooltip" rel_version="Season_2_Perm">Your first {maxCount} attempts at the Trial each week earn bonus rewards. Season Exclusives only drop during these attempts.</string>
+	<string key="ui_seasontrial_milestone_normal_message" rel_version="Season_2_Perm">Trial Complete</string>
+	<string key="ui_elitetrial_milestone_daily_weekly_rewards_message" rel_version="Season_2_Perm">Daily and Weekly Rewards</string>
+	<string key="ui_elitetrial_milestone_normal_message" rel_version="Season_2_Perm">Elite Trial Rewards</string>
+	<string key="ui_elitetrial_map_daily_rewards_cooldown_message" rel_version="Season_2_Perm">Daily Rewards In</string>
+	<string key="ui_elitetrial_map_weekly_rewards_cooldown_message" rel_version="Season_2_Perm">Weekly Rewards In</string>
+	<string key="ui_elitetrial_map_daily_count" rel_version="Season_2_Perm">{count} / {max} Daily Reward Collected</string>
+	<string key="ui_elitetrial_map_weekly_count" rel_version="Season_2_Perm">{count} / {max} Weekly Reward Collected</string>
+	<string key="ui_elitetrial_banner_daily_count" rel_version="Season_2_Perm">{count}/{max} Daily</string>
+	<string key="ui_elitetrial_banner_weekly_count" rel_version="Season_2_Perm">{count}/{max} Weekly</string>
+	<string key="Respawn_EntranceNameTrial" rel_version="Trial_Brimstone_Sandworm">Trial Entrance</string>
 </resources>
 

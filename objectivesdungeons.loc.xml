@@ -74,7 +74,7 @@
 	<string key="dungeon_reekwater_task_victory_celebration">Leave the Lazarus Instrumentality.</string>
 	<string key="dungeon_reekwater_task_complete">Leave the Lazarus Instrumentality.</string>
 	<string key="dungeon_ebonscale00_title">The Dynasty Shipyard</string>
-	<string key="dungeon_ebonscale00_description">Foil the Empress' plans</string>
+	<string key="dungeon_ebonscale00_description">Foil the Empress' plans.</string>
 	<string key="dungeon_cutlasskeys00_title" rel_version="Expedition_CutlassKeys_00">Barnacles and Black Powder</string>
 	<string key="dungeon_cutlasskeys00_description" rel_version="Expedition_CutlassKeys_00">Infiltrate the Black Flag Pirates hideout and discover what lies in the depths beneath the cove.</string>
 	<string key="dungeon_cutlasskeys00_required_equipment" rel_version="Expedition_CutlassKeys_00">1 Ranged Weapon</string>
@@ -108,7 +108,7 @@
 	<string key="dungeon_cutlasskeys00_task_defeat_siren_boss" rel_version="Expedition_CutlassKeys_00">Defeat Nereid.</string>
 	<string key="dungeon_cutlasskeys00_task_complete" rel_version="Expedition_CutlassKeys_00">Leave Barnacles and Black Powder</string>
 	<string key="dungeon_restlessshores01_title">The Depths</string>
-	<string key="dungeon_restlessshores01_description">Find and eliminate Thorpe</string>
+	<string key="dungeon_restlessshores01_description">Find and eliminate Thorpe.</string>
 	<string key="dungeon_restlessshores01_task_break_in">Break into Commander Thorpe's Stronghold</string>
 	<string key="dungeon_restlessshores01_task_find_azoth_seal">Find the Azoth Seal locking the Ancient Mechana</string>
 	<string key="dungeon_restlessshores01_task_unlock_azoth_seal">Unlock the Azoth Seal</string>
@@ -188,8 +188,9 @@
 	<string key="dungeon_ebonscale00_task_defeat_empress">Defeat Empress Zhou!</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Leave the Shipyard.</string>
 	<string key="dungeon_greatcleave01_title" rel_version="Expedition_GreatCleave_01">Empyrean Forge</string>
+	<string key="dungeon_greatcleave01_title" rel_version="Expedition_GreatCleave_01">Empyrean Forge</string>
 	<string key="dungeon_greatcleave01_required_equipment" rel_version="Expedition_GreatCleave_01">1 Azoth Staff</string>
-	<string key="dungeon_greatcleave01_description" rel_version="Expedition_GreatCleave_01">Pursue Ser Loth and eliminate the Varangian Presence in the Forge</string>
+	<string key="dungeon_greatcleave01_description" rel_version="Expedition_GreatCleave_01">Pursue Ser Loth and eliminate the Varangian Presence in the Forge.</string>
 	<string key="dungeon_greatcleave01_task_explore" rel_version="Expedition_GreatCleave_01">Delve into the Empyrean Forge</string>
 	<string key="dungeon_greatcleave01_task_solveforgeentry" rel_version="Expedition_GreatCleave_01">Find a way through the Main Gate</string>
 	<string key="dungeon_greatcleave01_task_gain_access_forge" rel_version="Expedition_GreatCleave_01">Use the Ancient Azoth Seal</string>
@@ -213,8 +214,8 @@
 	<string key="dungeon_greatcleave01_task_exit_dungeon" rel_version="Expedition_GreatCleave_01">Return to report on the defeat of Commander Marius</string>
 	<string key="dungeon_brimstone_title" rel_version="Expedition_BrimstoneSands_00">The Ennead</string>
 	<string key="dungeon_brimstonesands00_title" rel_version="Expedition_BrimstoneSands_00">The Ennead</string>
-	<string key="dungeon_brimstone_description" rel_version="Expedition_BrimstoneSands_00">Investigate The Ennead and discover what secrets the Ancients hid in this timeless place</string>
-	<string key="dungeon_brimstonesands00_description" rel_version="Expedition_BrimstoneSands_00">Investigate The Ennead and discover what secrets the Ancients hid in this timeless place</string>
+	<string key="dungeon_brimstone_description" rel_version="Expedition_BrimstoneSands_00">Investigate The Ennead and discover what secrets the Ancients hid in this timeless place.</string>
+	<string key="dungeon_brimstonesands00_description" rel_version="Expedition_BrimstoneSands_00">Investigate The Ennead and discover what secrets the Ancients hid in this timeless place.</string>
 	<string key="dungeon_brimstonesands00_required_equipment" rel_version="Expedition_BrimstoneSands_00">3 Azoth Staves</string>
 	<string key="dungeon_brimstone_task_defeat_shai" rel_version="Expedition_BrimstoneSands_00">Defeat Shai and his minions to open the door and explore the depths of the Ennead</string>
 	<string key="dungeon_brimstone_task_reach_scarab" rel_version="Expedition_BrimstoneSands_00">Find a way through the defenders of the Ennead</string>
@@ -229,7 +230,7 @@
 	<string key="dungeon_ebonscale_required_equipment">1 Azoth Staff</string>
 	<string key="dungeon_restlessshores01_required_equipment">3 Azoth Staves</string>
 	<string key="dungeon_shattermtn00_title" rel_version="Expedition_ShatterMtn_00">Tempest's Heart</string>
-	<string key="dungeon_shattermtn00_description" rel_version="Expedition_ShatterMtn_00">Pursue Isabella into a corrupted dimension of reality</string>
+	<string key="dungeon_shattermtn00_description" rel_version="Expedition_ShatterMtn_00">Pursue Isabella into a corrupted dimension of reality.</string>
 	<string key="dungeon_shattermtn00_required_equipment" rel_version="Expedition_ShatterMtn_00">1 Azoth Staff</string>
 	<string key="dungeon_shattermtn00_task_explore_entry" rel_version="Expedition_ShatterMtn_00">Make your descent towards the Gate of Madness</string>
 	<string key="dungeon_shattermtn00_task_open_gate_madness" rel_version="Expedition_ShatterMtn_00">Destroy the Corrupted Monolith to open the Gate of Madness</string>
@@ -267,13 +268,21 @@
 	<string key="dungeon_shattermtn00_task_dungeon_complete" rel_version="Expedition_ShatterMtn_00">Exit the Tempest's Heart Expedition</string>
 	<string key="DungeonUseRelicBubble" rel_version="Expedition_ShatterMtn_00">Requires The Reliquary</string>
 	<string key="dungeon_open_conversation" rel_version="Expedition_CutlassKeys_00">Examine</string>
+	<string key="trial_brimstone_sandworm_title" rel_version="Trial_Brimstone_Sandworm">Trial of the Devourer</string>
+	<string key="trial_brimstone_sandworm_description" rel_version="Trial_Brimstone_Sandworm">Lure Shah Neshen the Devourer from the sands of Brimstone and trap the colossal leviathan.</string>
+	<string key="trial_sandworm_title" rel_version="Trial_Brimstone_Sandworm">Trial of the Devourer</string>
+	<string key="trial_clearscorpions" rel_version="Trial_Brimstone_Sandworm">Clear the Arena</string>
+	<string key="trial_callsandworm" rel_version="Trial_Brimstone_Sandworm">Call Shah Neshen the Devourer</string>
+	<string key="trial_bossfight" rel_version="Trial_Brimstone_Sandworm">Defeat Shah Neshen the Devourer</string>
+	<string key="trial_victory" rel_version="Trial_Brimstone_Sandworm">Exit the Trial</string>
+	<string key="trial_exitarena" rel_version="Trial_Brimstone_Sandworm">Exit the Trial</string>
 	<string key="Quest_Apophis_title" rel_version="Territory_Brimstone_Sands">Necropolis of Sutekh</string>
-	<string key="Quest_Apophis_description" rel_version="Territory_Brimstone_Sands">Prevent Apophis from reawakening the mighty Ancient, Sutekh, or all of Aeternum shall be flung into madness</string>
+	<string key="Quest_Apophis_description" rel_version="Territory_Brimstone_Sands">Prevent Apophis from reawakening the mighty Ancient, Sutekh, or all of Aeternum shall be flung into madness.</string>
 	<string key="quest_apophis_task_approach" rel_version="Territory_Brimstone_Sands">Approach the Ancient Sarcophagus</string>
 	<string key="quest_apophis_task_destroy_apophis" rel_version="Territory_Brimstone_Sands">Defeat Apophis</string>
 	<string key="quest_apophis_task_leave" rel_version="Territory_Brimstone_Sands">Explore the Necropolis and Exit the Soul Trial</string>
 	<string key="Quest_Apophis_required_equipment" rel_version="Territory_Brimstone_Sands">1 Azoth Staff</string>
-	<string key="ui_solo_arena_leave" rel_version="Territory_Brimstone_Sands">Leave Soul Trial</string>
+	<string key="ui_solo_arena_leave" rel_version="Territory_Brimstone_Sands">Leave</string>
 	<string key="ui_solo_arena_leave_desc" rel_version="Territory_Brimstone_Sands">Are you sure you want to leave Soul Trial?</string>
 	<string key="ui_solo_arena_leave_desc_time" rel_version="Territory_Brimstone_Sands">Are you sure you want to leave Soul Trial?\nYou will be unable to queue for Soul Trial again for &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt;.</string>
 	<string key="ui_solo_arena_leave_title" rel_version="Territory_Brimstone_Sands">Leave Soul Trial?</string>
@@ -287,5 +296,52 @@
 	<string key="quest_CaerDun_task_purify" rel_version="Quest_MSQ2_Brightwood">Use your Azoth Staff to dispel the Curse of Caer Dun</string>
 	<string key="quest_CaerDun_task_leave" rel_version="Quest_MSQ2_Brightwood">Explore the Undercroft and Exit the Soul Trial</string>
 	<string key="Quest_CaerDun_required_equipment" rel_version="Quest_MSQ2_Brightwood">1 Azoth Staff, 1 Mining Pickaxe</string>
+	<string key="trial_season_02_q12_title" rel_version="Season_2_Temp">Break Some Eggs</string>
+	<string key="trial_season_02_q12_description" rel_version="Season_2_Temp">Stop Malek's plans to hatch the eggs of the Devourers.</string>
+	<string key="trial_season_02_q12_task_approach" rel_version="Season_2_Temp">Approach the center of the arena</string>
+	<string key="trial_season_02_q12_task_defeat_fodder01" rel_version="Season_2_Temp">Defeat Hadish's minions</string>
+	<string key="trial_season_02_q12_task_fodder02_grace" rel_version="Season_2_Temp">Prepare for Hadish's next attack</string>
+	<string key="trial_season_02_q12_task_defeat_fodder02" rel_version="Season_2_Temp">Defeat Hadish's officers</string>
+	<string key="trial_season_02_q12_task_boss_grace" rel_version="Season_2_Temp">Prepare to fight Hadish Azar</string>
+	<string key="trial_season_02_q12_task_defeat_boss" rel_version="Season_2_Temp">Defeat Hadish Azar, Keeper of Flame</string>
+	<string key="trial_season_02_q12_task_destroy_eggs" rel_version="Season_2_Temp">Destroy the corrupted devourer eggs</string>
+	<string key="trial_season_02_q12_task_leave" rel_version="Season_2_Temp">Exit the Soul Trial</string>
+	<string key="trial_season_02_q13_title" rel_version="Season_2_Temp">Legacy of the Sands</string>
+	<string key="trial_season_02_q13_description" rel_version="Season_2_Temp">Confront Malek and put an end to his plans.</string>
+	<string key="trial_season_02_q13_task_approach" rel_version="Season_2_Temp">Approach Malek</string>
+	<string key="trial_season_02_q13_task_defeat_boss" rel_version="Season_2_Temp">Defeat Malek</string>
+	<string key="trial_season_02_q13_task_leave" rel_version="Season_2_Temp">Exit the Soul Trial</string>
+	<string key="trial_hatchery_title" rel_version="Season_2_Temp">The Hatchery</string>
+	<string key="trial_hatchery_description" rel_version="Season_2_Temp">Gather your allies and stop Hadish Azar and the plans to hatch the eggs of the Devourers.</string>
+	<string key="trial_hatchery_approach_01" rel_version="Season_2_Temp">Approach the center of the arena</string>
+	<string key="trial_hatchery_defeat_fodder01" rel_version="Season_2_Temp">Survive the Dunewalker ambush</string>
+	<string key="trial_hatchery_defeat_fodder01_banner_title" rel_version="Season_2_Temp">Stage 1 of 5</string>
+	<string key="trial_hatchery_defeat_fodder01_banner_description" rel_version="Season_2_Temp">Survive the Dunewalker ambush</string>
+	<string key="trial_hatchery_fodder02_grace" rel_version="Season_2_Temp">Take a moment to collect yourself</string>
+	<string key="trial_hatchery_defeat_fodder02" rel_version="Season_2_Temp">Defeat Hadish's minions</string>
+	<string key="trial_hatchery_defeat_fodder02_banner_title" rel_version="Season_2_Temp">Stage 2 of 5</string>
+	<string key="trial_hatchery_defeat_fodder02_banner_description" rel_version="Season_2_Temp">Defeat Hadish's minions</string>
+	<string key="trial_hatchery_fodder03_grace" rel_version="Season_2_Temp">Take a moment to collect yourself</string>
+	<string key="trial_hatchery_defeat_fodder03" rel_version="Season_2_Temp">Defeat Hadish's officers</string>
+	<string key="trial_hatchery_defeat_fodder03_banner_title" rel_version="Season_2_Temp">Stage 3 of 5</string>
+	<string key="trial_hatchery_defeat_fodder03_banner_description" rel_version="Season_2_Temp">Defeat Hadish's officers</string>
+	<string key="trial_hatchery_minibosss_grace" rel_version="Season_2_Temp">Take a moment to breathe</string>
+	<string key="trial_hatchery_defeat_miniboss" rel_version="Season_2_Temp">Defeat Razhan the Hordemaster</string>
+	<string key="trial_hatchery_defeat_miniboss_banner_title" rel_version="Season_2_Temp">Stage 4 of 5</string>
+	<string key="trial_hatchery_defeat_miniboss_banner_description" rel_version="Season_2_Temp">Defeat Razhan the Hordemaster</string>
+	<string key="trial_hatchery_boss_grace" rel_version="Season_2_Temp">Take a moment to recover</string>
+	<string key="trial_hatchery_defeat_boss" rel_version="Season_2_Temp">Defeat Hadish Azar, Keeper of Flame</string>
+	<string key="trial_hatchery_defeat_boss_banner_title" rel_version="Season_2_Temp">Stage 5 of 5</string>
+	<string key="trial_hatchery_defeat_boss_banner_description" rel_version="Season_2_Temp">Defeat Hadish Azar, Keeper of Flame</string>
+	<string key="trial_hatchery_leave" rel_version="Season_2_Temp">Explore and then exit the Soul Trial</string>
+	<string key="Trial_Season_01_title" rel_version="Season_2_Temp">The Hatchery</string>
+	<string key="Trial_Season_01_description" rel_version="Season_2_Temp">Gather your allies and stop Hadish Azar and the plan to hatch the eggs of the Devourers.</string>
+	<string key="Trial_Season_01_required_equipment" rel_version="Season_2_Temp">1 Ranged Weapon</string>
+	<string key="Trial_Season_01_Objective_1" rel_version="Season_2_Temp">Defeat Hadish Hazar and his minions</string>
+	<string key="Trial_Season_01_Objective_2" rel_version="Season_2_Temp">Withstand the heat of The Hatchery</string>
+	<string key="Trial_Season_01_Objective_3" rel_version="Season_2_Temp">Claim the riches of the desert in victory</string>
+	<string key="Trial_Season_02_Objective_1" rel_version="Trial_Brimstone_Sandworm">Defeat Shah Neshen in the desert arena</string>
+	<string key="Trial_Season_02_Objective_2" rel_version="Trial_Brimstone_Sandworm">Withstand the brutal and acidic hazards</string>
+	<string key="Trial_Season_02_Objective_3" rel_version="Trial_Brimstone_Sandworm">Claim the riches of victory over the wurm</string>
 </resources>
 

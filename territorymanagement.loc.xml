@@ -158,7 +158,7 @@
 	<string key="ui_refining_fee_description">Refining resources in this territory costs a fee per resource</string>
 	<string key="ui_edit">Edit</string>
 	<string key="ui_can_edit_in_time">Can edit in {time}</string>
-	<string key="ui_can_pay_in_time">CAN PAY IN   &lt;font color='#d7d7d7'&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{time}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_can_pay_in_time">Next Payment {time}</string>
 	<string key="ui_units_units">{units} units</string>
 	<string key="ui_kill">Kill</string>
 	<string key="ui_courier">Courier</string>
@@ -217,14 +217,16 @@
 	<string key="ui_fortressinfo_siegewindow">Siege Window</string>
 	<string key="ui_fortressinfo_governedby">Governed By</string>
 	<string key="ui_fortressinfo_controlledby">Controlled By</string>
-	<string key="ui_fortressinfo_notclaimed">This fortress has not been claimed.</string>
-	<string key="ui_territoryinfo_notclaimed">This territory has not been claimed.</string>
-	<string key="ui_territoryinfo_notclaimable">This territory is not claimable.</string>
-	<string key="ui_settlementinfo_notclaimed">This settlement has not been claimed.</string>
+	<string key="ui_fortressinfo_notclaimed">Fortress is unclaimed.</string>
+	<string key="ui_territoryinfo_notclaimed">Territory is unclaimed.</string>
+	<string key="ui_territoryinfo_notclaimable">Territory is not claimable.</string>
+	<string key="ui_settlementinfo_notclaimed">Settlement is unclaimed.</string>
+	<string key="ui_territoryinfo_unenterable">Unavailable</string>
+	<string key="ui_territoryinfo_unenterabledescription">No one can enter this territory.</string>
 	<string key="ui_fortressinfo_upcomingbattlelabel">Upcoming Battle Event</string>
 	<string key="ui_fortressinfo_ongoingbattlelabel">Ongoing Battle Event</string>
-	<string key="ui_fortressinfo_noupcomingbattle">There is no upcoming battle event.</string>
-	<string key="ui_fortressinfo_wardeclarationcooldown">A war can't be declared in this territory for {time}.</string>
+	<string key="ui_fortressinfo_noupcomingbattle">No upcoming battle event.</string>
+	<string key="ui_fortressinfo_wardeclarationcooldown">War cannot be declared in this territory for {time}.</string>
 	<string key="ui_fortressinfo_vs">vs</string>
 	<string key="ui_fortressinfo_war">WAR</string>
 	<string key="ui_fortressinfo_invasion">Invasion Starts In:</string>
@@ -242,16 +244,16 @@
 	<string key="ui_fortressinfo_invasionattackername">The Corrupted</string>
 	<string key="ui_fortressinfo_timetodeclare">Time to Declare War:</string>
 	<string key="ui_fortressinfo_timetodeclare_paused_invasion">Paused (Invasion)</string>
-	<string key="ui_fortressinfo_conflictdescription">You will &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;no longer earn Influence&lt;/font&gt; in this territory until War has been resolved. (All other Faction Mission rewards like XP and Coin are still available.)\n\nIf multiple Companies that contributed influence declare war, a random one will be selected.</string>
+	<string key="ui_fortressinfo_conflictdescription">You will &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;no longer earn Influence&lt;/font&gt; in this territory until War has been resolved (All other Faction Mission rewards like XP and Coin are still available).\n\nIf multiple Companies that contributed influence declare war, a random one will be selected.</string>
 	<string key="ui_fortressinfo_noconflict">Territory Not In Conflict</string>
 	<string key="ui_fortressinfo_contributionnotrequired">No company has contributed enough influence yet, so any company would be eligible to declare war.</string>
 	<string key="ui_fortressinfo_hascontribution">Your company HAS contributed enough influence to be eligible to declare war.</string>
 	<string key="ui_fortressinfo_insufficientcontribution">Your company HAS NOT contributed enough influence to be eligible to declare war.</string>
-	<string key="ui_fortressinfo_noconflictdescription">For an attacker to be able to declare war on this territory, their faction must first build up enough Territory Influence.</string>
+	<string key="ui_fortressinfo_noconflictdescription">For an attacker to be able to declare war on this territory, they must have at least 25 members in their Company and their Faction must first build up enough Territory Influence.</string>
 	<string key="ui_fortressinfo_upcomingwarlabel">War Starts In:</string>
 	<string key="ui_fortressinfo_ongoingwarlabel">War Active</string>
 	<string key="ui_fortressinfo_resolveingwarlabel">War Resolving</string>
-	<string key="ui_fortressinfo_atwardescription">You will &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;no longer earn Influence&lt;/font&gt; in this territory until War has been resolved. (All other Faction Mission rewards like XP and Gold are still available.)</string>
+	<string key="ui_fortressinfo_atwardescription">You will &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;no longer earn Influence&lt;/font&gt; in this territory until War has been resolved (All other Faction Mission rewards like XP and Gold are still available).</string>
 	<string key="ui_township">Settlement</string>
 	<string key="ui_fortress">Fort</string>
 	<string key="ui_complete">Complete</string>
@@ -293,94 +295,94 @@
 	<string key="GenericGemCutT4">Cut Pristine Gems</string>
 	<string key="ui_always_available_category">Always Available Category Id &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
 	<string key="ui_always_available_projectId">Always Available Project Id &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_BlacksmithProjectId">Upgrade Forge to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_BlacksmithProjectId2">Upgrade Forge to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_BlacksmithProjectId3">Upgrade Forge to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_SmeltingProjectId">Upgrade Smelter to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_SmeltingProjectId2">Upgrade Smelter to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_SmeltingProjectId3">Upgrade Smelter to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_CarpentryProjectId">Upgrade Woodshop to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_CarpentryProjectId2">Upgrade Woodshop to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_CarpentryProjectId3">Upgrade Woodshop to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_MasonryProjectId">Upgrade Stonecutting Table to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_MasonryProjectId2">Upgrade Stonecutting Table to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_MasonryProjectId3">Upgrade Stonecutting Table to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_WeavingProjectId">Upgrade Loom to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_WeavingProjectId2">Upgrade Loom to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_WeavingProjectId3">Upgrade Loom to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_TanningProjectId">Upgrade Tannery to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_TanningProjectId2">Upgrade Tannery to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_TanningProjectId3">Upgrade Tannery to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_EngineeringProjectId">Upgrade Workshop to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_EngineeringProjectId2">Upgrade Workshop to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_EngineeringProjectId3">Upgrade Workshop to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_OutfittingProjectId">Upgrade Outfitting Station to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_OutfittingProjectId2">Upgrade Outfitting Station to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_OutfittingProjectId3">Upgrade Outfitting Station to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_AlchemistProjectId">Upgrade Arcane Repository to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_AlchemistProjectId2">Upgrade Arcane Repository to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_AlchemistProjectId3">Upgrade Arcane Repository to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_CookingProjectId">Upgrade Kitchen to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_CookingProjectId2">Upgrade Kitchen to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_CookingProjectId3">Upgrade Kitchen to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_FortGatesProjectId">Upgrade Gates to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_FortGatesProjectId2">Upgrade Gates to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_FortHardPointsProjectId">Upgrade Hardpoint to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_FortHardPointsProjectId2">Upgrade Hardpoint to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_BallistaProjectId">Upgrade Ballista to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_BallistaProjectId2">Upgrade Ballista to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_FireBarrelProjectId">Upgrade Burning Oil Vat to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_FireBarrelProjectId2">Upgrade Burning Oil Vat to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_RepeaterProjectId">Upgrade Repeaters to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_RepeaterProjectId2">Upgrade Repeaters to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_HornProjectId">Upgrade Warhorns to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_HornProjectId2">Upgrade Warhorns to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_ExplosiveProjectId">Upgrade Explosives to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_ExplosiveProjectId2">Upgrade Explosives to Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_titleNoMarkup_BlacksmithProjectId">Upgrade Forge to Tier 3</string>
-	<string key="ui_upgrade_titleNoMarkup_BlacksmithProjectId2">Upgrade Forge to Tier 4</string>
-	<string key="ui_upgrade_titleNoMarkup_BlacksmithProjectId3">Upgrade Forge to Tier 5</string>
-	<string key="ui_upgrade_titleNoMarkup_SmeltingProjectId">Upgrade Smelter to Tier 3</string>
-	<string key="ui_upgrade_titleNoMarkup_SmeltingProjectId2">Upgrade Smelter to Tier 4</string>
-	<string key="ui_upgrade_titleNoMarkup_SmeltingProjectId3">Upgrade Smelter to Tier 5</string>
-	<string key="ui_upgrade_titleNoMarkup_CarpentryProjectId">Upgrade Woodshop to Tier 3</string>
-	<string key="ui_upgrade_titleNoMarkup_CarpentryProjectId2">Upgrade Woodshop to Tier 4</string>
-	<string key="ui_upgrade_titleNoMarkup_CarpentryProjectId3">Upgrade Woodshop to Tier 5</string>
-	<string key="ui_upgrade_titleNoMarkup_MasonryProjectId">Upgrade Stonecutting Table to Tier 3</string>
-	<string key="ui_upgrade_titleNoMarkup_MasonryProjectId2">Upgrade Stonecutting Table to Tier 4</string>
-	<string key="ui_upgrade_titleNoMarkup_MasonryProjectId3">Upgrade Stonecutting Table to Tier 5</string>
-	<string key="ui_upgrade_titleNoMarkup_WeavingProjectId">Upgrade Loom to Tier 3</string>
-	<string key="ui_upgrade_titleNoMarkup_WeavingProjectId2">Upgrade Loom to Tier 4</string>
-	<string key="ui_upgrade_titleNoMarkup_WeavingProjectId3">Upgrade Loom to Tier 5</string>
-	<string key="ui_upgrade_titleNoMarkup_TanningProjectId">Upgrade Tannery to Tier 3</string>
-	<string key="ui_upgrade_titleNoMarkup_TanningProjectId2">Upgrade Tannery to Tier 4</string>
-	<string key="ui_upgrade_titleNoMarkup_TanningProjectId3">Upgrade Tannery to Tier 5</string>
-	<string key="ui_upgrade_titleNoMarkup_EngineeringProjectId">Upgrade Workshop to Tier 3</string>
-	<string key="ui_upgrade_titleNoMarkup_EngineeringProjectId2">Upgrade Workshop to Tier 4</string>
-	<string key="ui_upgrade_titleNoMarkup_EngineeringProjectId3">Upgrade Workshop to Tier 5</string>
-	<string key="ui_upgrade_titleNoMarkup_OutfittingProjectId">Upgrade Outfitting Station to Tier 3</string>
-	<string key="ui_upgrade_titleNoMarkup_OutfittingProjectId2">Upgrade Outfitting Station to Tier 4</string>
-	<string key="ui_upgrade_titleNoMarkup_OutfittingProjectId3">Upgrade Outfitting Station to Tier 5</string>
-	<string key="ui_upgrade_titleNoMarkup_AlchemistProjectId">Upgrade Arcane Repository to Tier 3</string>
-	<string key="ui_upgrade_titleNoMarkup_AlchemistProjectId2">Upgrade Arcane Repository to Tier 4</string>
-	<string key="ui_upgrade_titleNoMarkup_AlchemistProjectId3">Upgrade Arcane Repository to Tier 5</string>
-	<string key="ui_upgrade_titleNoMarkup_CookingProjectId">Upgrade Kitchen to Tier 3</string>
-	<string key="ui_upgrade_titleNoMarkup_CookingProjectId2">Upgrade Kitchen to Tier 4</string>
-	<string key="ui_upgrade_titleNoMarkup_CookingProjectId3">Upgrade Kitchen to Tier 5</string>
-	<string key="ui_upgrade_titleNoMarkup_FortGatesProjectId">Upgrade Gates to Tier 2</string>
-	<string key="ui_upgrade_titleNoMarkup_FortGatesProjectId2">Upgrade Gates to Tier 3</string>
-	<string key="ui_upgrade_titleNoMarkup_FortHardPointsProjectId">Upgrade Hardpoint to Tier 2</string>
-	<string key="ui_upgrade_titleNoMarkup_FortHardPointsProjectId2">Upgrade Hardpoint to Tier 3</string>
-	<string key="ui_upgrade_titleNoMarkup_BallistaProjectId">Upgrade Ballista to Tier 2</string>
-	<string key="ui_upgrade_titleNoMarkup_BallistaProjectId2">Upgrade Ballista to Tier 3</string>
-	<string key="ui_upgrade_titleNoMarkup_FireBarrelProjectId">Upgrade Burning Oil Vat to Tier 2</string>
-	<string key="ui_upgrade_titleNoMarkup_FireBarrelProjectId2">Upgrade Burning Oil Vat to Tier 3</string>
-	<string key="ui_upgrade_titleNoMarkup_RepeaterProjectId">Upgrade Repeaters to Tier 2</string>
-	<string key="ui_upgrade_titleNoMarkup_RepeaterProjectId2">Upgrade Repeaters to Tier 3</string>
-	<string key="ui_upgrade_titleNoMarkup_HornProjectId">Upgrade Warhorns to Tier 2</string>
-	<string key="ui_upgrade_titleNoMarkup_HornProjectId2">Upgrade Warhorns to Tier 3</string>
-	<string key="ui_upgrade_titleNoMarkup_ExplosiveProjectId">Upgrade Explosives to Tier 2</string>
-	<string key="ui_upgrade_titleNoMarkup_ExplosiveProjectId2">Upgrade Explosives to Tier 3</string>
+	<string key="ui_upgrade_title_BlacksmithProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_BlacksmithProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_BlacksmithProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_SmeltingProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_SmeltingProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_SmeltingProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_CarpentryProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_CarpentryProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_CarpentryProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_MasonryProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_MasonryProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_MasonryProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_WeavingProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_WeavingProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_WeavingProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_TanningProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_TanningProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_TanningProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_EngineeringProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_EngineeringProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_EngineeringProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_OutfittingProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_OutfittingProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_OutfittingProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_AlchemistProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_AlchemistProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_AlchemistProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_CookingProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_CookingProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_CookingProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_FortGatesProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_FortGatesProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_FortHardPointsProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_FortHardPointsProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_BallistaProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_BallistaProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_FireBarrelProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_FireBarrelProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_RepeaterProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_RepeaterProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_HornProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_HornProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_ExplosiveProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_title_ExplosiveProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_BlacksmithProjectId">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_BlacksmithProjectId2">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_BlacksmithProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_SmeltingProjectId">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_SmeltingProjectId2">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_SmeltingProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_CarpentryProjectId">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_CarpentryProjectId2">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_CarpentryProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_MasonryProjectId">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_MasonryProjectId2">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_MasonryProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_WeavingProjectId">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_WeavingProjectId2">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_WeavingProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_TanningProjectId">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_TanningProjectId2">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_TanningProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_EngineeringProjectId">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_EngineeringProjectId2">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_EngineeringProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_OutfittingProjectId">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_OutfittingProjectId2">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_OutfittingProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_AlchemistProjectId">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_AlchemistProjectId2">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_AlchemistProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_CookingProjectId">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_CookingProjectId2">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_CookingProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_FortGatesProjectId">Upgrade Tier 2</string>
+	<string key="ui_upgrade_titleNoMarkup_FortGatesProjectId2">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_FortHardPointsProjectId">Upgrade Tier 2</string>
+	<string key="ui_upgrade_titleNoMarkup_FortHardPointsProjectId2">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_BallistaProjectId">Upgrade Tier 2</string>
+	<string key="ui_upgrade_titleNoMarkup_BallistaProjectId2">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_FireBarrelProjectId">Upgrade Tier 2</string>
+	<string key="ui_upgrade_titleNoMarkup_FireBarrelProjectId2">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_RepeaterProjectId">Upgrade Tier 2</string>
+	<string key="ui_upgrade_titleNoMarkup_RepeaterProjectId2">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_HornProjectId">Upgrade Tier 2</string>
+	<string key="ui_upgrade_titleNoMarkup_HornProjectId2">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_titleNoMarkup_ExplosiveProjectId">Upgrade Tier 2</string>
+	<string key="ui_upgrade_titleNoMarkup_ExplosiveProjectId2">Tier 3 Upgrade</string>
 	<string key="ui_upgrade_button_BlacksmithProjectId">Forge Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_BlacksmithProjectId2">Forge Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_BlacksmithProjectId3">Forge Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
@@ -416,9 +418,9 @@
 	<string key="ui_upgrade_button_FortGatesProjectId3">Gates Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_FortHardPointsProjectId">Emplacement Points</string>
 	<string key="ui_upgrade_button_FortHardPointsProjectId2">Emplacement Points</string>
-	<string key="ui_upgrade_button_BallistaProjectId">Ballista Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_BallistaProjectId2">Ballista Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_BallistaProjectId3">Ballista Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
+	<string key="ui_upgrade_button_BallistaProjectId">Ballistae Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
+	<string key="ui_upgrade_button_BallistaProjectId2">Ballistae Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
+	<string key="ui_upgrade_button_BallistaProjectId3">Ballistae Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_FireBarrelProjectId">Burning Oil Vat Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_FireBarrelProjectId2">Burning Oil Vat Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_FireBarrelProjectId3">Burning Oil Vat Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
@@ -431,45 +433,45 @@
 	<string key="ui_upgrade_button_ExplosiveProjectId">Explosives Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_ExplosiveProjectId2">Explosives Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_ExplosiveProjectId3">Explosives Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId">Upgrade Forge to Tier 3 to unlock additional Tier 3 crafts and an Azoth Discount.</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId2">Upgrade Forge to Tier 4 to unlock additional Tier 4 crafts and an Azoth Discount.</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId3">Upgrade Forge to Tier 5 to unlock additional Tier 5 crafts and an Azoth Discount.</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId">Upgrade Smelter to Tier 4 that can craft &lt;font color="#ffd058"&gt;Orichalcum ingots.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId2">Upgrade Smelter to Tier 5 that can craft &lt;font color="#ffd058"&gt;Asmodeum ingots.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId">Upgrade Woodshop to Tier 4 that can craft &lt;font color="#ffd058"&gt;Ironwood planks.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId2">Upgrade Woodshop to Tier 5 that can craft &lt;font color="#ffd058"&gt;Glittering ebony.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_MasonryProjectId">Upgrade Stonecutting Table to Tier 4 that can craft &lt;font color="#ffd058"&gt;Obsidian voidstone.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_MasonryProjectId2">Upgrade Stonecutting Table to Tier 5 that can craft &lt;font color="#ffd058"&gt;Runestone.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_WeavingProjectId">Upgrade Loom to Tier 4 that can craft &lt;font color="#ffd058"&gt;Infused Silk.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_WeavingProjectId2">Upgrade Loom to Tier 5 that can craft &lt;font color="#ffd058"&gt;Phoenixweave.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_TanningProjectId">Upgrade Tannery to Tier 4 that can craft &lt;font color="#ffd058"&gt;Infused Leather.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_TanningProjectId2">Upgrade Tannery to Tier 5 that can craft&lt;font color="#ffd058"&gt;Runic leather.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId">Upgrade Workshop to Tier 3 to unlock additional Tier 3 crafts and an Azoth Discount.</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId2">Upgrade Workshop to Tier 4 to unlock additional Tier 4 crafts and an Azoth Discount.</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId3">Upgrade Workshop to Tier 5 to unlock additional Tier 5 crafts and an Azoth Discount.</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId">Upgrade Outfitting Station to Tier 3 to unlock additional Tier 3 crafts and an Azoth Discount.</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId2">Upgrade Outfitting Station to Tier 4 to unlock additional Tier 4 crafts and an Azoth Discount.</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId3">Upgrade Outfitting Station to Tier 5 to unlock additional Tier 5 crafts and an Azoth Discount.</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId">Upgrade Arcane Repository to Tier 3 to unlock additional Tier 3 crafts and an Azoth Discount.</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId2">Upgrade Arcane Repository to Tier 4 to unlock additional Tier 4 crafts and an Azoth Discount.</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId3">Upgrade Arcane Repository to Tier 5 to unlock additional Tier 5 crafts and an Azoth Discount.</string>
-	<string key="ui_upgrade_desc_CookingProjectId">Upgrade Kitchen to Tier 3 that can craft &lt;font color="#ffd058"&gt;Tier 3 meals.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_CookingProjectId2">Upgrade Kitchen to Tier 4 that can craft &lt;font color="#ffd058"&gt;Tier 4 meals.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_CookingProjectId3">Upgrade Kitchen to Tier 5 that can craft &lt;font color="#ffd058"&gt;Tier 5 meals.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_FortGatesProjectId">Upgrade Gates to Tier 2. The gates increases in HP.</string>
-	<string key="ui_upgrade_desc_FortGatesProjectId2">Upgrade Gates to Tier 3. The gates increases in HP.</string>
-	<string key="ui_upgrade_desc_FortHardPointsProjectId">Unlocks an additional point to deploy an emplacement (e.g: Ballista, Burning Oil Vat, etc..)</string>
-	<string key="ui_upgrade_desc_FortHardPointsProjectId2">Unlocks an additional point to deploy an emplacement (e.g: Ballista, Burning Oil Vat, etc..)</string>
-	<string key="ui_upgrade_desc_BallistaProjectId">Upgrade Ballista to Tier 2. When upgraded, any existing Ballista (deployed or otherwise) are also upgraded.</string>
-	<string key="ui_upgrade_desc_BallistaProjectId2">Upgrade Ballista to Tier 3. When upgraded, any existing Ballista (deployed or otherwise) are also upgraded.</string>
-	<string key="ui_upgrade_desc_FireBarrelProjectId">Upgrade Burning Oil Vat to Tier 2. When upgraded, any existing Burning Oil Vats (deployed or otherwise) are also upgraded.</string>
-	<string key="ui_upgrade_desc_FireBarrelProjectId2">Upgrade Burning Oil Vat to Tier 3. When upgraded, any existing Burning Oil Vats (deployed or otherwise) are also upgraded.</string>
-	<string key="ui_upgrade_desc_RepeaterProjectId">Upgrade Repeaters to Tier 2. When upgraded, any existing Repeaters (deployed or otherwise) are also upgraded.</string>
-	<string key="ui_upgrade_desc_RepeaterProjectId2">Upgrade Repeaters to Tier 3. When upgraded, any existing Repeaters (deployed or otherwise) are also upgraded.</string>
-	<string key="ui_upgrade_desc_HornProjectId">Upgrade Warhorns to Tier 2. When upgraded, any existing Warhorns (deployed or otherwise) are also upgraded.</string>
-	<string key="ui_upgrade_desc_HornProjectId2">Upgrade Warhorns to Tier 3. When upgraded, any existing Warhorns (deployed or otherwise) are also upgraded.</string>
-	<string key="ui_upgrade_desc_ExplosiveProjectId">Upgrade Explosives to Tier 2. When upgraded, any existing Explosives (deployed or otherwise) are also upgraded.</string>
-	<string key="ui_upgrade_desc_ExplosiveProjectId2">Upgrade Explosives to Tier 3. When upgraded, any existing Explosives (deployed or otherwise) are also upgraded.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId">Unlock additional Tier 3 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId2">Unlock additional Tier 4 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId3">Unlock additional Tier 5 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId">Craft &lt;font color="#ffd058"&gt;Orichalcum ingots&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId2">Craft &lt;font color="#ffd058"&gt;Asmodeum ingots&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId">Craft &lt;font color="#ffd058"&gt;Ironwood planks&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId2">Craft &lt;font color="#ffd058"&gt;Glittering ebony&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_MasonryProjectId">Craft &lt;font color="#ffd058"&gt;Obsidian voidstone&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_MasonryProjectId2">Craft &lt;font color="#ffd058"&gt;Runestone&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_WeavingProjectId">Craft &lt;font color="#ffd058"&gt;Infused Silk&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_WeavingProjectId2">Craft &lt;font color="#ffd058"&gt;Phoenixweave&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_TanningProjectId">Craft &lt;font color="#ffd058"&gt;Infused Leather&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_TanningProjectId2">Craft&lt;font color="#ffd058"&gt;Runic leather&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId">Unlock additional Tier 3 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId2">Unlock additional Tier 4 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId3">Unlock additional Tier 5 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId">Unlock additional Tier 3 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId2">Unlock additional Tier 4 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId3">Unlock additional Tier 5 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId">Unlock additional Tier 3 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId2">Unlock additional Tier 4 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId3">Unlock additional Tier 5 crafts and an Azoth Discount.</string>
+	<string key="ui_upgrade_desc_CookingProjectId">Craft &lt;font color="#ffd058"&gt;Tier 3 meals&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_CookingProjectId2">Craft &lt;font color="#ffd058"&gt;Tier 4 meals&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_CookingProjectId3">Craft &lt;font color="#ffd058"&gt;Tier 5 meals&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_FortGatesProjectId">Increase health of gates.</string>
+	<string key="ui_upgrade_desc_FortGatesProjectId2">Increase health of gates.</string>
+	<string key="ui_upgrade_desc_FortHardPointsProjectId">Unlocks an additional point to deploy an emplacement (Ballista, Burning Oil Vat, etc.)</string>
+	<string key="ui_upgrade_desc_FortHardPointsProjectId2">Unlocks an additional point to deploy an emplacement (Ballista, Burning Oil Vat, etc.)</string>
+	<string key="ui_upgrade_desc_BallistaProjectId">Also upgrades any existing Ballistae.</string>
+	<string key="ui_upgrade_desc_BallistaProjectId2">Also upgrades any existing Ballistae.</string>
+	<string key="ui_upgrade_desc_FireBarrelProjectId">Also upgrades any existing Burning Oil Vats.</string>
+	<string key="ui_upgrade_desc_FireBarrelProjectId2">Also upgrades any existing Burning Oil Vats.</string>
+	<string key="ui_upgrade_desc_RepeaterProjectId">Also upgrades any existing Repeaters.</string>
+	<string key="ui_upgrade_desc_RepeaterProjectId2">Also upgrades any existing Repeaters.</string>
+	<string key="ui_upgrade_desc_HornProjectId">Also upgrades any existing Warhorns.</string>
+	<string key="ui_upgrade_desc_HornProjectId2">Also upgrades any existing Warhorns.</string>
+	<string key="ui_upgrade_desc_ExplosiveProjectId">Also upgrades any existing Explosives.</string>
+	<string key="ui_upgrade_desc_ExplosiveProjectId2">Also upgrades any existing Explosives.</string>
 	<string key="ui_event_project_endless">Endless</string>
 	<string key="ui_territory_level">Territory Level: {level}</string>
 	<string key="ui_enter_house">View House</string>
@@ -520,17 +522,17 @@
 	<string key="ui_project_tooltip_upkeep_overdue">A town project cannot be started if the territory upkeep is overdue</string>
 	<string key="ui_notavailable">N/A</string>
 	<string key="ui_timelimit">TIME LIMIT</string>
-	<string key="ui_minCompletionTime">MINIMUM COMPLETION TIME</string>
+	<string key="ui_minCompletionTime">COMPLETION TIME</string>
 	<string key="ui_territoryinformation">Territory Information</string>
 	<string key="ui_territorylog">Territory Log</string>
 	<string key="ui_territoryupkeep">Territory Upkeep</string>
 	<string key="ui_territoryupkeep_desc">Territory upkeep needs to be paid every 7 days by the governing company in order to prevent the territory from downgrading.</string>
-	<string key="ui_territoryupkeep_overdue_base_desc">Territory upkeep is &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;overdue.&lt;/font&gt; Until the upkeep is paid:</string>
+	<string key="ui_territoryupkeep_overdue_base_desc">Upkeep is overdue:</string>
 	<string key="ui_territoryupkeep_overdue_point1">The territory will downgrade every 24 hours.</string>
 	<string key="ui_territoryupkeep_overdue_point2">Company and Faction bonuses are disabled.</string>
 	<string key="ui_territoryupkeep_overdue_point3">The governing company cannot start a town project.</string>
-	<string key="ui_territoryupkeep_overdue_desc">Territory upkeep is &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;overdue.&lt;/font&gt;\nThis territory will downgrade every 24 hours until the upkeep is paid.</string>
-	<string key="ui_territoryupkeep_overdue_noupgrade_desc">Territory upkeep is &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;overdue.&lt;/font&gt;&lt;/font&gt;\nThe governing company cannot start a town project.</string>
+	<string key="ui_territoryupkeep_overdue_desc">Territory upkeep is &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;overdue&lt;/font&gt;.\nThis territory will downgrade every 24 hours until the upkeep is paid.</string>
+	<string key="ui_territoryupkeep_overdue_noupgrade_desc">Territory upkeep is &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;overdue&lt;/font&gt;.&lt;/font&gt;\nThe governing company cannot start a town project.</string>
 	<string key="ui_companypaycheck">Payrolls</string>
 	<string key="ui_companypaycheck_desc">The governing company receives income from taxes and fees.</string>
 	<string key="ui_taxandfee">Taxes and Fees</string>
@@ -546,7 +548,7 @@
 	<string key="ui_view_current_goal">View Current Goal</string>
 	<string key="ui_governorsdesk">Governor's Desk</string>
 	<string key="ui_governorsdesk_desc">The governing company sets the territory tax rates and pays upkeep here.</string>
-	<string key="ui_upkeep_tooltip">If the governing company doesn't pay the upkeep on time, &lt;font color="#e8a015"&gt;a random part of this territory will get downgraded.&lt;/font&gt;</string>
+	<string key="ui_upkeep_tooltip">If the governing company doesn't pay the upkeep on time, &lt;font color="#e8a015"&gt;a random part of this territory will get downgraded&lt;/font&gt;.</string>
 	<string key="ui_payroll_title">Company Payroll</string>
 	<string key="ui_payroll_tooltip">The governing company earns coin from taxes and fees.</string>
 	<string key="ui_firstdayofcycle">First day of cycle</string>
@@ -579,7 +581,7 @@
 	<string key="ui_no_territory_upgrade">A Territory with 0 upgrade doesn't require any territory upkeep.</string>
 	<string key="ui_overdue">Overdue</string>
 	<string key="ui_no_upgrade_desc">A Territory with &lt;font color="#ffffff"&gt;0 upgrade&lt;/font&gt; doesn’t require any Territory upkeep.</string>
-	<string key="ui_payroll_bottom_desc">The company income is automatically deposited to the company wallet.</string>
+	<string key="ui_payroll_bottom_desc">Automatically deposited to the company wallet.</string>
 	<string key="ui_change">Change</string>
 	<string key="ui_until_end">Completed! Next available in</string>
 	<string key="ui_until_end_return">Completed!\nNew Project available in</string>
@@ -620,10 +622,10 @@
 	<string key="ui_darkness_threshold_1">Low</string>
 	<string key="ui_darkness_threshold_2">Medium</string>
 	<string key="ui_darkness_threshold_3">High</string>
-	<string key="ui_darkness_threshold_desc_0">&lt;font color="#e1ddd4"&gt;No&lt;/font&gt; Corruption Breach present</string>
-	<string key="ui_darkness_threshold_desc_1">&lt;font color="#ffd45f"&gt;Minor&lt;/font&gt; A Corruption Breach may appear</string>
-	<string key="ui_darkness_threshold_desc_2">&lt;font color="#f67817"&gt;Minor and Major&lt;/font&gt; A Corruption Breach may appear</string>
-	<string key="ui_darkness_threshold_desc_3">&lt;font color="#f25d5d"&gt;Maximum Amount&lt;/font&gt; of Corruption Breaches present</string>
+	<string key="ui_darkness_threshold_desc_0">No Corruption Breaches present.</string>
+	<string key="ui_darkness_threshold_desc_1">Minor: Corruption Breaches may appear.</string>
+	<string key="ui_darkness_threshold_desc_2">Minor and Major: Corruption Breaches may appear.</string>
+	<string key="ui_darkness_threshold_desc_3">Maximum amount of Corruption Breaches present.</string>
 	<string key="ui_plan_territory">Plan Territory</string>
 	<string key="ui_upgrade_town">Upgrade Town</string>
 	<string key="ui_upgrade_fort">Upgrade Fort</string>
@@ -641,7 +643,7 @@
 	<string key="ui_cancel_mission">Cancel Mission</string>
 	<string key="ui_complete_mission">Complete Mission</string>
 	<string key="ui_complete_all_missions">Complete All Missions</string>
-	<string key="ui_lifestyle_panel_description">Start a town project to give a Special Long-term Buff to players &lt;font color="#edd05c"&gt;who own a house in this territory.&lt;/font&gt;</string>
+	<string key="ui_lifestyle_panel_description">Start a town project to grant a buff to all players who own a house in this territory.</string>
 	<string key="lifestyle_gathering_buff">Gathering buff</string>
 	<string key="lifestyle_combat_buff">Combat buff</string>
 	<string key="lifestyle_crafting_buff">Crafting buff</string>
@@ -652,19 +654,19 @@
 	<string key="ui_territory_influence">Territory Influence</string>
 	<string key="ui_territory_governed_by_label">This Territory is Governed by</string>
 	<string key="ui_AlwaysAvailableProjectId">Town Upkeep</string>
-	<string key="lifestyle_title_LumberJackSpiritProjectId">Activate Lumberjack's Spirit</string>
-	<string key="lifestyle_title_MinersResolveProjectId">Activate Miner's Resolve</string>
-	<string key="lifestyle_title_HuntersBountyProjectId">Activate Hunter's Bounty</string>
-	<string key="lifestyle_title_FarmersHarvestProjectId">Activate Farmer's Harvest</string>
-	<string key="lifestyle_title_ArcaneBlessingProjectId">Activate Arcane Blessing</string>
-	<string key="lifestyle_title_HaleAndHeartyProjectId">Activate Hale and Hearty</string>
-	<string key="lifestyle_title_StalwartProjectId">Activate Stalwart</string>
-	<string key="lifestyle_title_OutfittersInspirationProjectId">Activate Armorer's Inspiration</string>
-	<string key="lifestyle_title_BlacksmithTemperamentProjectId">Activate Weaponsmith's Temperament</string>
-	<string key="lifestyle_title_ArcaneWisdomProjectId">Activate Arcanist's Wisdom</string>
-	<string key="lifestyle_title_ChefsPassionProjectId">Activate Chef's Passion</string>
-	<string key="lifestyle_title_EngineersPatienceProjectId">Activate Engineer's Patience</string>
-	<string key="lifestyle_title_FishermansFortuneProjectId">Activate Fisherman's Fortune</string>
+	<string key="lifestyle_title_LumberJackSpiritProjectId">Lumberjack's Spirit</string>
+	<string key="lifestyle_title_MinersResolveProjectId">Miner's Resolve</string>
+	<string key="lifestyle_title_HuntersBountyProjectId">Hunter's Bounty</string>
+	<string key="lifestyle_title_FarmersHarvestProjectId">Farmer's Harvest</string>
+	<string key="lifestyle_title_ArcaneBlessingProjectId">Arcane Blessing</string>
+	<string key="lifestyle_title_HaleAndHeartyProjectId">Hale and Hearty</string>
+	<string key="lifestyle_title_StalwartProjectId">Stalwart</string>
+	<string key="lifestyle_title_OutfittersInspirationProjectId">Armorer's Inspiration</string>
+	<string key="lifestyle_title_BlacksmithTemperamentProjectId">Weaponsmith's Temperament</string>
+	<string key="lifestyle_title_ArcaneWisdomProjectId">Arcanist's Wisdom</string>
+	<string key="lifestyle_title_ChefsPassionProjectId">Chef's Passion</string>
+	<string key="lifestyle_title_EngineersPatienceProjectId">Engineer's Patience</string>
+	<string key="lifestyle_title_FishermansFortuneProjectId">Fisherman's Fortune</string>
 	<string key="lifestyle_button_LumberJackSpiritProjectId">Lumberjack's Spirit</string>
 	<string key="lifestyle_button_MinersResolveProjectId">Miner's Resolve</string>
 	<string key="lifestyle_button_HuntersBountyProjectId">Hunter's Bounty</string>
@@ -678,19 +680,19 @@
 	<string key="lifestyle_button_ChefsPassionProjectId">Chef's Passion</string>
 	<string key="lifestyle_button_EngineersPatienceProjectId">Engineer's Patience</string>
 	<string key="lifestyle_button_FishermansFortuneProjectId">Fisherman's Fortune</string>
-	<string key="lifestyle_desc_LumberJackSpiritProjectId">Increase Logging Quantity by &lt;font color="#ffffff"&gt;20%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days.&lt;/font&gt;</string>
-	<string key="lifestyle_desc_MinersResolveProjectId">Increase Mining Quantity by &lt;font color="#ffffff"&gt;20%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days.&lt;/font&gt;</string>
-	<string key="lifestyle_desc_HuntersBountyProjectId">Increase Skinning Quantity by &lt;font color="#ffffff"&gt;20%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days.&lt;/font&gt;</string>
-	<string key="lifestyle_desc_FarmersHarvestProjectId">Increase Harvesting Quantity by &lt;font color="#ffffff"&gt;20%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days.&lt;/font&gt;</string>
-	<string key="lifestyle_desc_ArcaneBlessingProjectId">Increase Corrupted damage absorption by &lt;font color="#ffffff"&gt;5%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days.&lt;/font&gt;</string>
-	<string key="lifestyle_desc_HaleAndHeartyProjectId">Increase base HP by &lt;font color="#ffffff"&gt;10%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days.&lt;/font&gt;</string>
-	<string key="lifestyle_desc_StalwartProjectId">Increase Defense Recovery by &lt;font color="#ffffff"&gt;20%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days.&lt;/font&gt;</string>
-	<string key="lifestyle_desc_OutfittersInspirationProjectId">Increase base Armoring Gear Score upon Craft for &lt;font color="#ffffff"&gt;3 days.&lt;/font&gt;</string>
-	<string key="lifestyle_desc_BlacksmithTemperamentProjectId">Increase base Weaponsmithing Gear Score upon Craft for &lt;font color="#ffffff"&gt;3 days.&lt;/font&gt;</string>
-	<string key="lifestyle_desc_ArcaneWisdomProjectId">Increase base Arcanist Gear Score upon Craft for &lt;font color="#ffffff"&gt;3 days.&lt;/font&gt;</string>
-	<string key="lifestyle_desc_ChefsPassionProjectId">Increase the chances of getting additional meals when Cooking for &lt;font color="#ffffff"&gt;3 days.&lt;/font&gt;</string>
-	<string key="lifestyle_desc_EngineersPatienceProjectId">Increase Base Engineer Gear Score upon Craft for &lt;font color="#ffffff"&gt;3 days.&lt;/font&gt;</string>
-	<string key="lifestyle_desc_FishermansFortuneProjectId">Increase Fishing Roll Chance for &lt;font color="#ffffff"&gt;3 days.&lt;/font&gt;</string>
+	<string key="lifestyle_desc_LumberJackSpiritProjectId">Increase Logging Yield by &lt;font color="#ffffff"&gt;20%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_MinersResolveProjectId">Increase Mining Yield by &lt;font color="#ffffff"&gt;20%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_HuntersBountyProjectId">Increase Skinning Yield by &lt;font color="#ffffff"&gt;20%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_FarmersHarvestProjectId">Increase Harvesting Yield by &lt;font color="#ffffff"&gt;20%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_ArcaneBlessingProjectId">Increase Corrupted damage absorption by &lt;font color="#ffffff"&gt;5%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_HaleAndHeartyProjectId">Increase base HP by &lt;font color="#ffffff"&gt;10%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_StalwartProjectId">Increase Defense Recovery by &lt;font color="#ffffff"&gt;20%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_OutfittersInspirationProjectId">Increase base Armoring Gear Score for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_BlacksmithTemperamentProjectId">Increase base Weaponsmithing Gear Score for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_ArcaneWisdomProjectId">Increase base Arcanist Gear Score for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_ChefsPassionProjectId">Increase the chance of additional meals when Cooking for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_EngineersPatienceProjectId">Increase base Engineer Gear Score for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_FishermansFortuneProjectId">Increase Fishing Roll Chance for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
 	<string key="ui_your_standing">Your Standing</string>
 	<string key="ui_station_tier">Tier &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{tier}&lt;/font&gt;</string>
 	<string key="ui_benefits">Benefits</string>

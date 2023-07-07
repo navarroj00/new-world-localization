@@ -14,7 +14,7 @@
 	<string key="ui_pvp_rewards_panel1_title" rel_version="PvP_Rewards_Track">NEW PVP REWARD TRACK ADDED</string>
 	<string key="ui_pvp_rewards_panel1_subtitle" rel_version="PvP_Rewards_Track">The PvP Reward Track contains PvP-specific rewards for doing PvP activities in the game. The track can be completed and run again to get a different selection of rewards, with more prestigious rewards becoming available as more tracks are completed.</string>
 	<string key="ui_pvp_rewards_panel1_bullet1_title" rel_version="PvP_Rewards_Track">PVP XP</string>
-	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Progress your track by engaging in PvP Missions, War, Outpost Rush, Capturing Forts, Defeating other players and 3v3 Arenas.</string>
+	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Progress your track by defeating other players and engaging in PvP Missions, War, Outpost Rush, Capturing Forts, and 3v3 Arenas.</string>
 	<string key="ui_pvp_rewards_panel1_bullet2_title" rel_version="PvP_Rewards_Track">AZOTH SALT</string>
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Azoth Salt is a currency that allows you to acquire rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, killing players in the open world, and earning XP while flagged.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">REWARDS</string>
@@ -122,6 +122,21 @@
 	<string key="ui_event_dec_mtx_description" rel_version="Entitlements_WinterConvergence_MTX">Protect yourself from the ravages of Forever Winter with new cosmetics available in the store! You'll want to kit yourself out with the latest winter weapons and apparel when the days grow shorter and long nights of terror await. Check the store regularly for free gifts in December and take advantage of our winter sales! Special unvaulted content goes on sale 12/13 and last year's Winter Convergence gear arrives on 12/20!</string>
 	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Convergence</string>
 	<string key="ui_news_store_tabname">Store</string>
+	<string key="ui_news_expedition_tabname">Expedition</string>
+	<string key="ui_news_expeditions_tabname">Expeditions</string>
+	<string key="ui_news_season_tabname">Season</string>
+	<string key="ui_news_seasons_tabname">Seasons</string>
+	<string key="ui_news_event_tabname">Event</string>
+	<string key="ui_news_events_tabname">Events</string>
+	<string key="ui_news_trial_tabname" rel_version="Season_2_Trial">Trial</string>
+	<string key="ui_news_trials_tabname" rel_version="Season_2_Trial">Trials</string>
+	<string key="ui_news_feature_tabname">Feature</string>
+	<string key="ui_news_features_tabname">Features</string>
+	<string key="ui_news_pvp_tabname" rel_version="Feature_PVP_Arena02">PvP</string>
+	<string key="ui_news_transmog_tabname" rel_version="Season_2_Perm">Transmog</string>
+	<string key="ui_news_bullet_armor_skins">Armor Skins</string>
+	<string key="ui_news_bullet_weapon_skins">Weapon Skins</string>
+	<string key="ui_news_bullet_weapons">Weapons</string>
 	<string key="ui_event_jan_mtx_title" rel_version="Entitlements_WinterDragon">Winter Dragon</string>
 	<string key="ui_event_jan_mtx_description" rel_version="Entitlements_WinterDragon">Is the shape of winter the shadow of a dragon? Visit the store for new cosmetics kissed by the frosty breath of the serpent! Don't get caught unprepared when less lethal combat breaks out! Pick up the Slap Fight emote or opt for the Tiptoe Walk in order to sneak past any violent squabbles instead!</string>
 	<string key="ui_event_jan_mtx_button_about" rel_version="Entitlements_WinterDragon">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Dragon</string>
@@ -154,17 +169,53 @@
 	<string key="ui_event_apr_mtx_bullet2" rel_version="Entitlements_Highwayman">Weapon Skins</string>
 	<string key="ui_event_apr_mtx_bullet3" rel_version="Entitlements_Highwayman">Emotes</string>
 	<string key="ui_event_apr_mtx_about" rel_version="Entitlements_Highwayman">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Highwaymen</string>
-	<string key="ui_event_fury_of_the_spriggan_tabname" rel_version="Season_1_Event">Fury of the Spriggan</string>
-	<string key="ui_event_fury_of_the_spriggan_title" rel_version="Season_1_Event">Fury of the Spriggan</string>
-	<string key="ui_event_fury_of_the_spriggan_description" rel_version="Season_1_Event">With the Ennead awakened, the Angry Earth are rising up around Aeternum! Put a stop to their rituals as they attempt to awaken furious Spriggans. Earn unique daily rewards for your efforts as you quell these rituals in Brightwood, Weavers Fen, Mourningdale, and Ebonscale Reach.</string>
-	<string key="ui_event_fury_of_the_spriggan_bullet1" rel_version="Season_1_Event">Daily Armor Pieces</string>
-	<string key="ui_event_fury_of_the_spriggan_bullet2" rel_version="Season_1_Event">Daily Weapons</string>
-	<string key="ui_event_fury_of_the_spriggan_about" rel_version="Season_1_Event">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Fury of the Spriggan</string>
 	<string key="ui_event_may_mtx_title" rel_version="Entitlements_MedievalHistoric">Knights Errant</string>
 	<string key="ui_event_may_mtx_description" rel_version="Entitlements_MedievalHistoric">Dost thou hath weapons and armor from the days of Yore? Gothic skins based on real designs from the 16th and 17th centuries are now available to buy in the store. Smite your foes while wearing solid steel fit for a hero of old, or strike terror in your enemies while clad in menacing armor. Regardless of your choice, your rivals will shudder in fear when you brandish thine weapon. With these tried and true armaments, victory on the field of battle is nearly ensured.</string>
 	<string key="ui_event_may_mtx_bullet1" rel_version="Entitlements_MedievalHistoric">Armors</string>
 	<string key="ui_event_may_mtx_bullet2" rel_version="Entitlements_MedievalHistoric">Weapons</string>
 	<string key="ui_event_may_mtx_bullet3" rel_version="Entitlements_MedievalHistoric">Emotes</string>
 	<string key="ui_event_may_mtx_about" rel_version="Entitlements_MedievalHistoric">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Knights Errant</string>
+	<string key="ui_event_jun_mtx_title" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier</string>
+	<string key="ui_event_jun_mtx_description" rel_version="Entitlements_WastelandFrontier">There's riches to be had on Aeternum for those willing to take them. Outlaws and brigands should head to the store for new apparel and weapon skins. Don't wander the wasteland unprepared!</string>
+	<string key="ui_event_jun_mtx_bullet1" rel_version="Entitlements_WastelandFrontier">Armor Skins</string>
+	<string key="ui_event_jun_mtx_bullet2" rel_version="Entitlements_WastelandFrontier">Weapon Skins</string>
+	<string key="ui_event_jun_mtx_bullet3" rel_version="Entitlements_WastelandFrontier">Housing</string>
+	<string key="ui_event_jun_mtx_about" rel_version="Entitlements_WastelandFrontier">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Wasteland Frontier</string>
+	<string key="ui_event_transmog_title" rel_version="Season_2_Perm">Transmog Tokens</string>
+	<string key="ui_event_transmog_description" rel_version="Season_2_Perm">Using the power of Transmog Tokens, Stylemancers can change the appearance of your weapons and gear to look like any others you've already obtained.\n\nBe fashionably early to the party and start earning them from the Season 2 pass now before the Stylemancers arrive in August!</string>
+	<string key="ui_event_transmog_about" rel_version="Season_2_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Transmog</string>
+	<string key="ui_event_crossworld_opr_title" rel_version="Feature_Cross_World_Social">Cross World Outpost Rush</string>
+	<string key="ui_event_crossworld_opr_description2" rel_version="Feature_Cross_World_Social">ThisIsATest</string>
+	<string key="ui_event_crossworld_opr_description" rel_version="Feature_Cross_World_Social">Outpost Rush now supports cross world play! Eliminate enemies, collect resources and fortify defenses with players from anywhere in your region.</string>
+	<string key="ui_event_crossworld_opr_descriptionbullet1" rel_version="Feature_Cross_World_Social">&lt;b&gt;Scoring:&lt;/b&gt; More points for defending, capturing, and tanking.</string>
+	<string key="ui_event_crossworld_opr_descriptionbullet2" rel_version="Feature_Cross_World_Social">&lt;b&gt;Fort:&lt;/b&gt; Stronger turrets and gates.</string>
+	<string key="ui_event_crossworld_opr_descriptionbullet3" rel_version="Feature_Cross_World_Social">&lt;b&gt;Death:&lt;/b&gt; OPR resources dropped reduced by 50%.</string>
+	<string key="ui_event_crossworld_opr_descriptionbullet4" rel_version="Feature_Cross_World_Social">&lt;b&gt;Summon Stones:&lt;/b&gt; Removed Azoth costs. Close the portal for the Demon Stone, and slay the Alpha Wolf for the Bear Stone.</string>
+	<string key="ui_event_crossworld_opr_descriptionbullet5" rel_version="Feature_Cross_World_Social">&lt;b&gt;Baroness:&lt;/b&gt; New barriers added to its arena.</string>
+	<string key="ui_event_crossworld_opr_about" rel_version="Feature_Cross_World_Social">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Cross-World Outpost Rush</string>
+	<string key="ui_event_first_light_fallen_title" rel_version="Territory_FirstLightRetraction">First Light has Fallen!</string>
+	<string key="ui_event_first_light_fallen_description" rel_version="Territory_FirstLightRetraction">The Angry Earth have overrun Old First Light. Answering the sinister call of the Ancient huntress Adiana, they've destroyed homes and taken our friends captive, now subjecting them to unknown horrors behind a wall of thorns barring entry to any adventurers.</string>
+	<string key="ui_event_first_light_fallen_descriptionbullet1" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Quests:&lt;/b&gt; All regional quests from Old First Light have been canceled.</string>
+	<string key="ui_event_first_light_fallen_descriptionbullet2" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Storage:&lt;/b&gt; Once all items are claimed, Old First Light storage will be closed.</string>
+	<string key="ui_event_first_light_fallen_descriptionbullet3" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Trading Post:&lt;/b&gt; Any pending transactions are accessible from other territories.</string>
+	<string key="ui_event_first_light_fallen_descriptionbullet4" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Housing:&lt;/b&gt; A compensation for the loss of housing has been made. All furniture from your home has been placed in the storage.</string>
+	<string key="ui_event_first_light_fallen_descriptionbullet5" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Governing Company:&lt;/b&gt; A one-time deposit has been paid into your treasury for the loss of the territory.</string>
+	<string key="ui_event_first_light_fallen_about" rel_version="Territory_FirstLightRetraction">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About First Light Has Fallen</string>
+	<string key="ui_event_arena_shah_neshen_title" rel_version="Trial_Brimstone_Sandworm">Arena of Shah Neshen</string>
+	<string key="ui_event_arena_shah_neshen_description" rel_version="Trial_Brimstone_Sandworm">The rekindled fires of Ennead called the primal terror from the deep beneath the sands. Now the Great Devourer stalks the dunes of Brimstone once again. Gather your bravest warriors at the Ambuscade. Can you defeat the spawn of the Titans? \n\n&lt;font color="#edc63e"&gt;Requires 20 person raid group.&lt;/font&gt;</string>
+	<string key="ui_event_arena_shah_neshen_bullet1" rel_version="Trial_Brimstone_Sandworm">Armor Skins</string>
+	<string key="ui_event_arena_shah_neshen_bullet2" rel_version="Trial_Brimstone_Sandworm">Weapon Skins</string>
+	<string key="ui_event_arena_shah_neshen_about" rel_version="Trial_Brimstone_Sandworm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Arena of Shah Neshen</string>
+	<string key="ui_event_dunewalker_trial_title" rel_version="Season_2_Trial">The Hatchery</string>
+	<string key="ui_event_dunewalker_trial_description" rel_version="Season_2_Trial">Dark forces have unearthed The Hatchery, a long-forgotten chamber, buried deep beneath the sands of Neapolis. There, they conspire to rip Aeternum asunder with a horde of sandwurms.\n\nRally with up to nine other adventurers to crush wave after wave of enemies in this high stakes, high reward trial. Stand victorious, and walk away with unique riches.</string>
+	<string key="ui_event_dunewalker_trial_bullet1" rel_version="Season_2_Trial">Armor Skins</string>
+	<string key="ui_event_dunewalker_trial_bullet2" rel_version="Season_2_Trial">Weapon Skins</string>
+	<string key="ui_event_dunewalker_trial_about" rel_version="Season_2_Trial">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About The Hatchery</string>
+	<string key="ui_event_season_two_title" rel_version="Season_2_Perm">Blood of the Sands</string>
+	<string key="ui_event_season_two_description" rel_version="Season_2_Perm">A new epic adventure awaits you and the Silver Crows in the sweltering heat of Brimstone Sands.\n\nMalek, a man claiming to be with the ancient order Blood of the Sands, is willing to pay you handsomely for primordial artifacts - Sandwurm eggs.\nJoin Grace O'Malley, Zander, and a new cast of characters as you discover the ancient power that has awakened beneath the shifting dunes.\n\n&lt;font color="#edc63e"&gt;Level 60 players&lt;/font&gt; can start their adventure by visiting any Crow's Nest location found in Edengrove, Shattered Mountain, and Brimstone Sands.</string>
+	<string key="ui_event_season_two_about" rel_version="Season_2_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Season Two</string>
+	<string key="ui_event_pvp_arena_map_2_title" rel_version="Feature_PVP_Arena02">New 3v3 Arena Map!</string>
+	<string key="ui_event_pvp_arena_map_2_description" rel_version="Feature_PVP_Arena02">The fight promoter, Maximus Marcellus, is spreading word of a ruined gladiatorial pit in Brimstone Sands.\n\nGather your team and your wits to master this new arena of varying heights!</string>
+	<string key="ui_event_pvp_arena_map_2_about" rel_version="Feature_PVP_Arena02">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About New 3v3 Arena Map</string>
 </resources>
 

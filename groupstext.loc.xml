@@ -5,12 +5,12 @@
 	<string key="ui_receivedgroupinvitemessage_pve" comment="">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvE Group.\nWould you like to accept?</string>
 	<string key="ui_receivedgroupinvitemessage_pvp_wrong_flag" comment="">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvP Group.\nYou must enable PvP at a Sanctuary to accept this invite.</string>
 	<string key="ui_receivedgroupinvitemessage_pve_wrong_flag" comment="">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvE Group.\nYou must disable PvP at a Sanctuary to accept this invite.</string>
-	<string key="ui_acceptgroupinviteblocked_pvp" comment="">Enable PvP at a Sanctuary to accept this PvP Group Invite</string>
-	<string key="ui_acceptgroupinviteblocked_pve" comment="">Disable PvP at a Sanctuary to accept this PvE Group Invite</string>
+	<string key="ui_acceptgroupinviteblocked_pvp" comment="">Enable PvP at a Sanctuary to accept this PvP Group Invite.</string>
+	<string key="ui_acceptgroupinviteblocked_pve" comment="">Disable PvP at a Sanctuary to accept this PvE Group Invite.</string>
 	<string key="ui_receivedgroupinvite_decline" comment="">Decline</string>
 	<string key="ui_receivedgroupinvite_hide" comment="">Hide</string>
 	<string key="ui_togglepvpblocked_title" comment="">PvP Flag Warning</string>
-	<string key="ui_togglepvpblocked_pvpinactive" rel_version="Feature_Alt_Character_Protection" comment="">You are currently not able to turn on your PvP flag because you are PvP inactive. You will be able to switch to PvP active in: {timeRemainingShorthand}</string>
+	<string key="ui_togglepvpblocked_pvpinactive" rel_version="Feature_Alt_Character_Protection" comment="">You are currently not able to turn on your PvP flag because you are PvP inactive. You will be able to switch to PvP active in: {timeRemainingShorthand}.\nIf you have recently deleted your PvP active character, please wait 15 minutes and relog to made PvP active.</string>
 	<string key="ui_togglepvpblocked_pvpinactive_canswitch" rel_version="Feature_Alt_Character_Protection" comment="">You are currently not able to turn on your PvP flag because you are PvP inactive. Would you like to switch to PvP active? \n\n Doing so will remove your current PvP active character from any wars they are signed up for and fail any active PvP missions.</string>
 	<string key="ui_togglepvpblocked_ingroup" comment="">PvP and PvE players cannot be grouped together. Changing your PvP flagging will kick you from this group.\n\nAre you sure you want to change your PvP flag?</string>
 	<string key="ui_togglepvpblocked_pendinginvites" comment="">Changing your PvP flagging will rescind all of your pending group invites.\n\nAre you sure you want to change your PvP flag?</string>
@@ -60,11 +60,16 @@
 	<string key="ui_grouperrortitle" comment="">Grouping Error</string>
 	<string key="ui_cannotinvite" comment="">You cannot invite someone at this time.</string>
 	<string key="ui_cannotinviteingroup" comment="">You cannot invite someone in your group.</string>
+	<string key="ui_cannotinviteinraid" comment="">You cannot invite someone in your raid.</string>
 	<string key="ui_cannotinvitependinginvite" comment="">You have already invited this player.</string>
 	<string key="ui_cannotinvitegroupfull" comment="">Your group is already full.</string>
 	<string key="ui_cannotinviteinWar" comment="">You cannot invite someone during a War.</string>
 	<string key="ui_cannotinviteinInvasion" comment="">You cannot invite someone during an Invasion.</string>
+	<string key="ui_cannotinviteinOutpostRush" comment="">You cannot invite someone while in Outpost Rush.</string>
+	<string key="ui_cannotinviteinPvPArena" comment="">You cannot invite someone while in a 3v3 Arena.</string>
+	<string key="ui_cannotleavegroup_in_outpost_rush" comment="">You cannot leave your group while in Outpost Rush.</string>
 	<string key="ui_cannotinvitein_pvp_wrong_faction" comment="">Must be in same faction for PvP group.</string>
+	<string key="ui_cannotinvitein_player_in_cw_instance" comment="">You cannot invite someone while they are cross world.</string>
 	<string key="ui_cannotleavegroup_in_arena" comment="">You cannot leave your group while in an Arena.</string>
 	<string key="ui_cannotleavegroup_in_war" comment="">You cannot leave your group while in a War.</string>
 	<string key="ui_cannotleavegroup_in_invasion" comment="">You cannot leave your group while in an Invasion.</string>
@@ -79,9 +84,9 @@
 	<string key="ui_groupmaxinviteserrormessage" comment="">Can&apos;t invite {playerName}, you reached your max number of invites.</string>
 	<string key="ui_groupfromplayerofflineerrormessage" comment="">Group invite removed: {playerName} went offline.</string>
 	<string key="ui_groupinvitetoplayerofflineerrormessage" comment="">Group invite failed: {playerName} went offline.</string>
-	<string key="ui_grouptoplayerofflineerrormessage" comment="">Can&apos;t invite {playerName}, he is offline.</string>
-	<string key="ui_grouptoplayerofflineerrormessage_SHE" comment="">Can&apos;t invite {playerName}, she is offline.</string>
-	<string key="ui_grouptoplayerofflineerrormessage_THEY" comment="">Can&apos;t invite {playerName}, they are offline.</string>
+	<string key="ui_grouptoplayerofflineerrormessage" comment="">Can&apos;t invite {playerName}, he is offline or in a Cross World mode.</string>
+	<string key="ui_grouptoplayerofflineerrormessage_SHE" comment="">Can&apos;t invite {playerName}, she is offline or in a Cross World mode.</string>
+	<string key="ui_grouptoplayerofflineerrormessage_THEY" comment="">Can&apos;t invite {playerName}, they are offline or in a Cross World mode.</string>
 	<string key="ui_groupinvitefailedgroupfullmessage" comment="">Group invite failed: {playerName}&apos;s group is now full.</string>
 	<string key="ui_groupinvitefailederrormessage" comment="">Failed to respond to invite from {playerName}'s group.</string>
 	<string key="ui_groupinvitefailedraid" comment="">Failed to respond to invite</string>
@@ -157,25 +162,25 @@
 	<string key="ui_ping_type_chat_NeedHelp" comment="">{playerName} needs help</string>
 	<string key="ui_ping_type_chat_NeedHealing" comment="">{playerName} needs healing</string>
 	<string key="ui_ping_type_chat_NeedRevive" comment="">{playerName} needs to be revived</string>
-	<string key="ui_shout_ping_notification_Danger" comment="">Army Alert - Danger Here</string>
-	<string key="ui_shout_ping_notification_Move" comment="">Army Alert - Moving Here</string>
-	<string key="ui_shout_ping_notification_Attack" comment="">Army Alert - Attack Here</string>
-	<string key="ui_shout_ping_notification_Defend" comment="">Army Alert - Defend Here</string>
-	<string key="ui_shout_ping_notification_Caution" comment="">Army Alert - Caution Here</string>
-	<string key="ui_shout_ping_notification_Someone" comment="">Army Alert - Someone's Here</string>
-	<string key="ui_shout_ping_notification_Loot" comment="">Army Alert - Loot Here</string>
-	<string key="ui_shout_ping_notification_Repair" comment="">Army Alert - Repair Here</string>
-	<string key="ui_ping_type_notification_NeedHelp" comment="">Army Alert - Need Help Here</string>
-	<string key="ui_ping_type_notification_NeedHealing" comment="">Army Alert - Need Healing Here</string>
+	<string key="ui_shout_ping_notification_Danger" comment="">Raid Alert - Danger Here</string>
+	<string key="ui_shout_ping_notification_Move" comment="">Raid Alert - Moving Here</string>
+	<string key="ui_shout_ping_notification_Attack" comment="">Raid Alert - Attack Here</string>
+	<string key="ui_shout_ping_notification_Defend" comment="">Raid Alert - Defend Here</string>
+	<string key="ui_shout_ping_notification_Caution" comment="">Raid Alert - Caution Here</string>
+	<string key="ui_shout_ping_notification_Someone" comment="">Raid Alert - Someone's Here</string>
+	<string key="ui_shout_ping_notification_Loot" comment="">Raid Alert - Loot Here</string>
+	<string key="ui_shout_ping_notification_Repair" comment="">Raid Alert - Repair Here</string>
+	<string key="ui_ping_type_notification_NeedHelp" comment="">Raid Alert - Need Help Here</string>
+	<string key="ui_ping_type_notification_NeedHealing" comment="">Raid Alert - Need Healing Here</string>
 	<string key="ui_pingTypeDistance" comment="">{pingType} {distance}</string>
-	<string key="ui_raid_war_header" comment="">Army for war</string>
+	<string key="ui_raid_war_header" comment="">Army Groups</string>
 	<string key="ui_raid_invasion_header" comment="">Army for Invasion</string>
 	<string key="ui_raid_standby_header" comment="">STANDBY</string>
 	<string key="ui_raid_armygroups" comment="">Army</string>
 	<string key="ui_raid_backfill" comment="">Backfill</string>
-	<string key="ui_raid_your_status" comment="">Your status</string>
+	<string key="ui_raid_your_status" comment="">Your status:</string>
 	<string key="ui_raid_standby_priority" comment="">PRIORITY</string>
-	<string key="ui_raid_group_header" comment="">Group &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{index}&lt;/font&gt;</string>
+	<string key="ui_raid_group_header" comment="">Group &lt;font face="lyshineui/fonts/nimbus_regular.font"&gt;{index}&lt;/font&gt;</string>
 	<string key="ui_raid_group_disabled_tooltip" comment="">Wars have a maximum of {maxRosterMembers} players. You cannot add any more players to this group.</string>
 	<string key="ui_raid_group_disabled_notification" comment="">Group disabled due to maximum roster change.</string>
 	<string key="ui_raid_max_roster_changed_tooltip" comment="">Wars have a maximum of {maxRosterMembers} players. You cannot add any more players.</string>
@@ -190,7 +195,7 @@
 	<string key="ui_raid_selections_remaining" comment="">The governing company can select only {remainingSelections} players.</string>
 	<string key="ui_raid_auto_select_countdown" comment="">{totalAutoSelections} players will be auto-selected based on priority in {timeRemaining}.</string>
 	<string key="ui_raid_standby_description" comment="">Wait until the company selects you to join the army.</string>
-	<string key="ui_raid_selected_description" comment="">Be online &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;by {time} {date}&lt;/font&gt;&lt;/font&gt;. If you are not online at that time, you will lose your spot.</string>
+	<string key="ui_raid_selected_description" comment="">If you are not online by &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{date}, {time}&lt;/font&gt;&lt;/font&gt;, you will lose your spot.</string>
 	<string key="ui_raid_not_signedup_remote_description" comment="">You have not signed up for this war. Go to a war board to sign up!</string>
 	<string key="ui_raid_not_signedup_description" comment="">You have not signed up for this war. Sign up for the war now!</string>
 	<string key="ui_invasion_standby_description" comment="">Be online at {time} {date}. Players will be selected randomly at that time.</string>
@@ -208,12 +213,88 @@
 	<string key="ui_kick_army" comment="">Kick and ban from war</string>
 	<string key="ui_kicked_from_army" comment="">You have been kicked from the army.</string>
 	<string key="ui_invasion_at" comment="">Invasion at</string>
-	<string key="ui_army_menu" comment="">Army menu</string>
+	<string key="ui_army_menu" comment="">Raid menu</string>
 	<string key="ui_raid_kick_confirmation_title">Kicking {player}</string>
 	<string key="ui_raid_kick_confirmation_message">Are you sure you want to kick &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{player}&lt;/font&gt;?</string>
 	<string key="ui_raid_kick_confirmation_yes">Confirm</string>
 	<string key="ui_raid_kick_confirmation_no">Cancel</string>
 	<string key="ui_raid_ban_confirmation_title">Banning {player}</string>
 	<string key="ui_raid_ban_confirmation_message">Are you sure you want to kick and ban &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{player}&lt;/font&gt;?</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_invitetoraid">Invite to Raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_invitetoraid_groupprioritysubtext">Invited Players will fill Group {groupIndex} first.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_invitetopveraid_tooltip" comment="">Invite players to a PvE Raid\n\n- You can invite players outside of your Faction who are also not flagged for PvP\n- You cannot mix PvP and PvE players within a raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_invitetopvpraid_tooltip" comment="">Invite players to a PvP Raid\n\n- You can only invite players within your Faction\n- You cannot mix PvP and PvE players within a raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_cannotinviteraidfull" comment="">Your raid is already full.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_cannotinviteraidfullforgamemode" comment="">Your raid cannot fit any more players for this game mode.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_cannotinviteraidnopermission" comment="">You don't have permission to invite to this raid.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raidinviteacceptreceivedmessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; accepted your raid invite.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raidinvitedeclinereceivedmessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; declined your raid invite.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid">Convert to Raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_tooltip">Convert to {maxRaidSize} Player Raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_join_raid">Joined Raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_moved_in_raid">You have been moved to group {number}</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_popup_title">Convert to Raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_popup_message">Raids are groups of players, similar to Groups, but allow more players and provide organizing features.\n\nWould you like to start a vote to turn your group into a Raid?</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_popup_message_no_vote">Raids are groups of players, similar to Groups, but allow more players and provide organizing features.\n\nWould you like to turn your group into a Raid?</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_full_group_popup_message">Your group is currently full.\n\nA raid allows you to invite up to {maxRaidSize} players together. You will be the General.\n\nWould you like to turn your group into a raid?\n\nNote: Certain game modes cannot be entered with more than 5 players.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_choice_title">Vote to Convert to Raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_choice_text">&lt;font color={color}&gt;{fromPlayerName}&lt;/font&gt; started a vote to convert your Group into a Raid and be the Leader. Do you want to intervene?</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_choice_accept">Accept (Default)</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_choice_decline">Deny</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_started_vote">You started the process to convert your Group into a Raid.\n\nWaiting for others...</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_ended_not_converted">Your Group was not converted to a Raid.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_ended_timed_out">The vote has timed out.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_error_in_progress">There is already a vote in progress.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_error_too_frequent">A vote was started too recently. Try again later.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_error_too_frequent_no_vote">Tried to convert too recently. Try again later.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_error_not_in_progress">The vote is no longer in progress.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_convert_to_raid_error_already_voted">You have already voted.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_cannot_convert_to_raid_in_arena">You cannot convert to a Raid while in an Arena.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_cannot_convert_to_raid_in_dungeon">You cannot convert to a Raid while in an Expedition.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_cannot_convert_to_raid_generic">You cannot convert to a Raid while group is in this game mode.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_cannot_join">You cannot join while in a Raid Group.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raidinvitesentmessage">Raid invite sent to &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt;.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_receivedraidinvitetitle_pvp">PvP Raid Invite</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_receivedraidinvitetitle_pve">Raid Invite</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_receivedraidinvitemessage_pvp">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvP Raid.\nWould you like to accept?</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_receivedraidinvitemessage_pve">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvE Raid.\nWould you like to accept?</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_receivedraidinvitemessage_pvp_wrong_flag">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvP Raid.\nYou must enable PvP at a Sanctuary to accept this invite.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_receivedraidinvitemessage_pve_wrong_flag">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvE Raid.\nYou must disable PvP at a Sanctuary to accept this invite.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_acceptraidinviteblocked_pvp">Enable PvP at a Sanctuary to accept this PvP Raid Invite</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_acceptraidinviteblocked_pve">Disable PvP at a Sanctuary to accept this PvE Raid Invite</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_faction_invite_error_pvp_raid">You cannot invite someone from another faction to a PvP Raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_group_screen_header">Manage Raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_group_manage_hint">Manage Raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_raidgroups">Groups</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_group_status_header">Options</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_group_your_role">Your Role:</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_group_role_not_selected">Not Selected</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_group_choose_role">Choose Role</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_leave_raid_button">Leave Raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_leave_raid">Leave Raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_abandon_raid">Abandon Raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raidgrouppopupmessage">Are you sure you want to leave the raid? You will need to be &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;invited back&lt;/font&gt; to join again.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raidgroup_whatisraids">What is a Raid?</string>
+	<string rel_version="Feature_Raid_Groups" key="promote_to_leader_popup_title">Promoting to General</string>
+	<string rel_version="Feature_Raid_Groups" key="promote_to_leader_popup_message">{player} will be the new General. You will be demoted to Lieutenant. Are you sure?</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_promote_to_leader_notification">{promoter} demoted himself. {promotee} is now the General.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_promote_to_leader_notification_SHE">{promoter} demoted herself. {promotee} is now the General.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_promote_to_leader_notification_THEY">{promoter} demoted themself. {promotee} is now the General.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_promotion_notification">{name} has been promoted to {newRank}.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_demotion_notification">{name} has been demoted to {newRank}.</string>
+	<string rel_version="Trial_Brimstone_Sandworm" key="ui_raidgroup_whatisraids_tooltip">A raid allows up to {maxRaidSize} players to group up for PvP and PvE activities and is required to enter Elite Trials.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raidgroup_whatisraids_tooltip_trimmed">A raid allows up to {maxRaidSize} players to group up for PvP and PvE activities.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_pvp_raid" comment="">PvP Raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid" comment="">Raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_member" comment="">Group {groupNumber}, Raid Member</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_manage_invite" comment="">Invite</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_leftraidmessage" comment="">Left Raid</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raidmemberleftmessage" comment="">&lt;font color="#ffd45f"&gt;{playerName}&lt;/font&gt; left the Raid.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raidgeneralleftmessage" comment="">&lt;font color="#ffd45f"&gt;{oldGeneral}&lt;/font&gt; has stepped down, &lt;font color="#ffd45f"&gt;{newGeneral}&lt;/font&gt; is the new General.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raidmemberkickedmessage" comment="">&lt;font color="#ffd45f"&gt;{playerName}&lt;/font&gt; was kicked from the raid.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_kickedfromraidpmessage" comment="">You have been kicked from your raid.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_hideothergroups">Hide other groups in HUD</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_hideothergroups_tooltip">Hides the other subgroups in the Raid HUD, showing only your own group</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_raid_kick">Kick from Raid</string>
 </resources>
 

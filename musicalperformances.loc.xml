@@ -1,6 +1,6 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_musical_performances_equip_music_sheet" rel_version="Feature_MusicalPerformances">Equip Music Sheet</string>
-	<string key="ui_musical_performances_start_performance" rel_version="Feature_MusicalPerformances">Start Performance</string>
+	<string key="ui_musical_performances_start_performance" rel_version="Feature_MusicalPerformances">Play</string>
 	<string key="ui_musical_performances_song_selection" rel_version="Feature_MusicalPerformances">Song Selection</string>
 	<string key="ui_musical_performances_exit_performance" rel_version="Feature_MusicalPerformances">Exit Performance</string>
 	<string key="ui_musical_performances_equip_instrument" rel_version="Feature_MusicalPerformances">Equip Instrument</string>
@@ -12,16 +12,16 @@
 	<string key="ui_musical_performances_failed_create_performance" rel_version="Feature_MusicalPerformances">Failed to create performance.</string>
 	<string key="ui_musical_performances_selected_performance" rel_version="Feature_MusicalPerformances">Selected Performance</string>
 	<string key="ui_musical_performances_selected_reward" rel_version="Feature_MusicalPerformances">Selected Reward</string>
-	<string key="ui_musical_performances_group_instructions" rel_version="Feature_MusicalPerformances">Select an Instrument Sheet to join and wait for the leader to start the Performance.</string>
-	<string key="ui_musical_performances_incooldown" rel_version="Feature_MusicalPerformances">You cannot place another Performance Zone for {time}.</string>
+	<string key="ui_musical_performances_group_instructions" rel_version="Feature_MusicalPerformances">Select a music sheet to join and wait for the leader to start the performance.</string>
+	<string key="ui_musical_performances_incooldown" rel_version="Feature_MusicalPerformances">You cannot begin another performance {time}.</string>
 	<string key="ui_musical_performances_recently_selected_sheet" rel_version="Feature_MusicalPerformances">You must wait for 2 seconds before attempting to select a new instrument.</string>
-	<string key="ui_musical_performances_restrictedarea" rel_version="Feature_MusicalPerformances">You are too close to another Performance Zone.</string>
-	<string key="ui_musical_performances_instrument_required_to_create" rel_version="Feature_MusicalPerformances">You need an instrument equipped to create a performance.</string>
+	<string key="ui_musical_performances_restrictedarea" rel_version="Feature_MusicalPerformances">You are too close to another performance.</string>
+	<string key="ui_musical_performances_instrument_required_to_create" rel_version="Feature_MusicalPerformances">You need an instrument equipped to perform.</string>
 	<string key="ui_musical_performances_instrument_broken" rel_version="Feature_MusicalPerformances">Equipped instrument is broken.</string>
 	<string key="ui_musical_performances_instrument_not_equipped" rel_version="Feature_MusicalPerformances">There is no instrument equipped.</string>
 	<string key="ui_musical_performances_instrument_required_to_start" rel_version="Feature_MusicalPerformances">You need at least 2 parts selected to start a performance.</string>
 	<string key="ui_musical_performances_timeout_inactivity" rel_version="Feature_MusicalPerformances">Your performance has timed out because of inactivity.</string>
-	<string key="ui_musical_performances_cannot_place_too_close_to_restricted" rel_version="Feature_MusicalPerformances">You cannot place a performance here - too close to a restricted area.</string>
+	<string key="ui_musical_performances_cannot_place_too_close_to_restricted" rel_version="Feature_MusicalPerformances">You are too close to a restricted area to perform.</string>
 	<string key="ui_musical_performances_createfailed_inhouse" rel_version="Feature_MusicalPerformances">You cannot start a performance while inside of a house.</string>
 	<string key="ui_musical_performances_no_part_selected" rel_version="Feature_MusicalPerformances">There is no part selected.</string>
 	<string key="ui_musical_performances_tooltip_description" rel_version="Feature_MusicalPerformances">{instrument} Music Sheet</string>
@@ -29,52 +29,52 @@
 	<string key="ui_musical_performances_tooltip_pages_found" rel_version="Feature_MusicalPerformances">My Pages Found:</string>
 	<string key="ui_musical_performances_tooltip_owned" rel_version="Feature_MusicalPerformances">Owned</string>
 	<string key="ui_musical_performances_perk_applied" rel_version="Feature_MusicalPerformances">Perk - {perkName} {count}</string>
-	<string key="ui_musical_performances_timeout_title" rel_version="Feature_MusicalPerformances">Musical Performance Timeout</string>
-	<string key="ui_musical_performances_message_performer_selected_sheet" rel_version="Feature_MusicalPerformances">{performer} selected {sheet}</string>
-	<string key="ui_musical_performances_message_performer_added" rel_version="Feature_MusicalPerformances">{performer} was added to the performance</string>
-	<string key="ui_musical_performances_music_rank" rel_version="Feature_MusicalPerformances">Music Rank</string>
+	<string key="ui_musical_performances_timeout_title" rel_version="Feature_MusicalPerformances">Performance Cancelled</string>
+	<string key="ui_musical_performances_message_performer_selected_sheet" rel_version="Feature_MusicalPerformances">{performer} selected {sheet}.</string>
+	<string key="ui_musical_performances_message_performer_added" rel_version="Feature_MusicalPerformances">{performer} was added to the performance.</string>
+	<string key="ui_musical_performances_music_rank" rel_version="Feature_MusicalPerformances">Music Level</string>
 	<string key="ui_musical_performances_performance" rel_version="Feature_MusicalPerformances">Performance</string>
 	<string key="ui_musical_performances_instrument" rel_version="Feature_MusicalPerformances">Instrument: {instrument}</string>
 	<string key="ui_musical_performances_rank_description" rel_version="Feature_MusicalPerformances">Level {currentRank} / {maxRank}</string>
 	<string key="ui_musical_performances_xp_to_next_level" rel_version="Feature_MusicalPerformances">{xpToNextLevel} to Level {nextRank}</string>
 	<string key="ui_musical_performances_duration" rel_version="Feature_MusicalPerformances">Duration - {duration}</string>
-	<string key="ui_musical_performances_easy" rel_version="Feature_MusicalPerformances">Novice Performances</string>
-	<string key="ui_musical_performances_medium" rel_version="Feature_MusicalPerformances">Skilled Performances</string>
-	<string key="ui_musical_performances_hard" rel_version="Feature_MusicalPerformances">Expert Performances</string>
+	<string key="ui_musical_performances_easy" rel_version="Feature_MusicalPerformances">Novice</string>
+	<string key="ui_musical_performances_medium" rel_version="Feature_MusicalPerformances">Skilled</string>
+	<string key="ui_musical_performances_hard" rel_version="Feature_MusicalPerformances">Expert</string>
 	<string key="ui_musical_performances_difficulty_easy" rel_version="Feature_MusicalPerformances">Novice</string>
 	<string key="ui_musical_performances_difficulty_medium" rel_version="Feature_MusicalPerformances">Skilled</string>
 	<string key="ui_musical_performances_difficulty_hard" rel_version="Feature_MusicalPerformances">Expert</string>
-	<string key="ui_musical_performances_sheet_select_error" rel_version="Feature_MusicalPerformances">Sheet Select Error</string>
-	<string key="ui_musical_performances_sheet_select_error_message" rel_version="Feature_MusicalPerformances">Can't select sheet</string>
-	<string key="ui_musical_performances_instrument_select_error_message" rel_version="Feature_MusicalPerformances">This instrument is already selected</string>
-	<string key="ui_musical_performances_instrument_not_available_message" rel_version="Feature_MusicalPerformances">This instrument is not available</string>
-	<string key="ui_musical_performances_sheet_select_warning" rel_version="Feature_MusicalPerformances">Sheet Select Warning</string>
-	<string key="ui_musical_performances_sheet_select_warning_message" rel_version="Feature_MusicalPerformances">Must select song sheet</string>
+	<string key="ui_musical_performances_sheet_select_error" rel_version="Feature_MusicalPerformances">Music Sheet Error</string>
+	<string key="ui_musical_performances_sheet_select_error_message" rel_version="Feature_MusicalPerformances">Cannot select music sheet.</string>
+	<string key="ui_musical_performances_instrument_select_error_message" rel_version="Feature_MusicalPerformances">This instrument is already selected.</string>
+	<string key="ui_musical_performances_instrument_not_available_message" rel_version="Feature_MusicalPerformances">This instrument is not available.</string>
+	<string key="ui_musical_performances_sheet_select_warning" rel_version="Feature_MusicalPerformances">Music Sheet Warning</string>
+	<string key="ui_musical_performances_sheet_select_warning_message" rel_version="Feature_MusicalPerformances">Must select song sheet.</string>
 	<string key="ui_musical_performances_song_warning" rel_version="Feature_MusicalPerformances">Song Warning</string>
-	<string key="ui_musical_performances_unavailable_song_warning_message" rel_version="Feature_MusicalPerformances">Selected song no longer available. Choose another song</string>
-	<string key="ui_musical_performances_cantselect_song_warning_message" rel_version="Feature_MusicalPerformances">Song couldn't be selected. Choose another song</string>
-	<string key="ui_musical_performances_reward_select_error" rel_version="Feature_MusicalPerformances">Reward Select Error</string>
-	<string key="ui_musical_performances_reward_select_error_message" rel_version="Feature_MusicalPerformances">Can't select reward</string>
-	<string key="ui_musical_performances_difficulty" rel_version="Feature_MusicalPerformances">difficulty: {difficulty}</string>
-	<string key="ui_musical_performances_reward" rel_version="Feature_MusicalPerformances">reward: {reward}</string>
-	<string key="ui_musical_performances_score" rel_version="Feature_MusicalPerformances">score:</string>
+	<string key="ui_musical_performances_unavailable_song_warning_message" rel_version="Feature_MusicalPerformances">Selected song is no longer available. Please choose another song.</string>
+	<string key="ui_musical_performances_cantselect_song_warning_message" rel_version="Feature_MusicalPerformances">Song could not be selected. Please choose another song.</string>
+	<string key="ui_musical_performances_reward_select_error" rel_version="Feature_MusicalPerformances">Reward Error</string>
+	<string key="ui_musical_performances_reward_select_error_message" rel_version="Feature_MusicalPerformances">Cannot select reward.</string>
+	<string key="ui_musical_performances_difficulty" rel_version="Feature_MusicalPerformances">Difficulty: {difficulty}</string>
+	<string key="ui_musical_performances_reward" rel_version="Feature_MusicalPerformances">Reward: {reward}</string>
+	<string key="ui_musical_performances_score" rel_version="Feature_MusicalPerformances">Score:</string>
 	<string key="ui_musical_performances_max" rel_version="Feature_MusicalPerformances">Max!</string>
-	<string key="ui_musical_performances_music_rank_label" rel_version="Feature_MusicalPerformances">Music Rank: {rank}</string>
-	<string key="ui_musical_performances_buff_dropdown" rel_version="Feature_MusicalPerformances">Select Buff</string>
-	<string key="ui_musical_performances_reward_dropdown" rel_version="Feature_MusicalPerformances">Select Reward</string>
-	<string key="ui_musical_performances_difficulty_dropdown" rel_version="Feature_MusicalPerformances">Select Difficulty</string>
-	<string key="ui_musical_performances_filter_checkbox" rel_version="Feature_MusicalPerformances">Song Filter</string>
+	<string key="ui_musical_performances_music_rank_label" rel_version="Feature_MusicalPerformances">Music Level: {rank}</string>
+	<string key="ui_musical_performances_buff_dropdown" rel_version="Feature_MusicalPerformances">Buff</string>
+	<string key="ui_musical_performances_reward_dropdown" rel_version="Feature_MusicalPerformances">Reward</string>
+	<string key="ui_musical_performances_difficulty_dropdown" rel_version="Feature_MusicalPerformances">Difficulty</string>
+	<string key="ui_musical_performances_filter_checkbox" rel_version="Feature_MusicalPerformances">Filter</string>
 	<string key="ui_musical_performances_filter_checkbox_label" rel_version="Feature_MusicalPerformances">Playable</string>
-	<string key="ui_musical_performances_select_song_message" rel_version="Feature_MusicalPerformances">Select a Song</string>
+	<string key="ui_musical_performances_select_song_message" rel_version="Feature_MusicalPerformances">Select a song.</string>
 	<string key="ui_musical_performances_input_result_perfect" rel_version="Feature_MusicalPerformances">PERFECT</string>
 	<string key="ui_musical_performances_input_result_great" rel_version="Feature_MusicalPerformances">GREAT</string>
 	<string key="ui_musical_performances_input_result_missed" rel_version="Feature_MusicalPerformances">MISS</string>
-	<string key="ui_musical_performances_pending" rel_version="Feature_MusicalPerformances">WAITING FOR PERFORMANCE</string>
+	<string key="ui_musical_performances_pending" rel_version="Feature_MusicalPerformances">SELECTING SONG...</string>
 	<string key="ui_musical_performances_watching_tips_timer" rel_version="Feature_MusicalPerformances">TIP TIMER</string>
-	<string key="ui_musical_performances_waiting_for_tips" rel_version="Feature_MusicalPerformances">WAITING FOR TIPS...</string>
+	<string key="ui_musical_performances_waiting_for_tips" rel_version="Feature_MusicalPerformances">COLLECTING TIPS...</string>
 	<string key="ui_musical_performances_end_tipping" rel_version="Feature_MusicalPerformances">End Now and Collect Tips</string>
 	<string key="ui_musical_performances_tip_timer_duration" rel_version="Feature_MusicalPerformances">{seconds}s</string>
-	<string key="ui_musical_performances_preshow_timeout_warning" rel_version="Feature_MusicalPerformances">Inactivity Exit: {seconds}s</string>
+	<string key="ui_musical_performances_preshow_timeout_warning" rel_version="Feature_MusicalPerformances">Inactivity Countdown: {seconds}s</string>
 	<string key="ui_musical_performances_complete" rel_version="Feature_MusicalPerformances">PERFORMANCE\nCOMPLETE!</string>
 	<string key="ui_musical_performances_score_00" rel_version="Feature_MusicalPerformances">Amazing!</string>
 	<string key="ui_musical_performances_score_01" rel_version="Feature_MusicalPerformances">Great!</string>
@@ -82,37 +82,37 @@
 	<string key="ui_musical_performances_score_03" rel_version="Feature_MusicalPerformances">Bad</string>
 	<string key="ui_musical_performance_invite_text" rel_version="Feature_MusicalPerformances">Music Invite</string>
 	<string key="ui_musical_performance_invite_popup_title" rel_version="Feature_MusicalPerformances">Invite to performance</string>
-	<string key="ui_musical_performance_invite_popup_message" rel_version="Feature_MusicalPerformances">You've been invited to a musical performance!  Join?</string>
+	<string key="ui_musical_performance_invite_popup_message" rel_version="Feature_MusicalPerformances">You've been invited to a performance! Join?</string>
 	<string key="ui_musical_performance_invite_action_text" rel_version="Feature_MusicalPerformances">Invite {player}</string>
-	<string key="ui_musical_performance_invite_prompt_text" rel_version="Feature_MusicalPerformances">Performance Invite</string>
+	<string key="ui_musical_performance_invite_prompt_text" rel_version="Feature_MusicalPerformances">Invite</string>
 	<string key="ui_musical_performance_invite_action_alt_text" rel_version="Feature_MusicalPerformances">Performance Invite {player}</string>
-	<string key="ui_musical_performance_invite_group_full" rel_version="Feature_MusicalPerformances">Your Performance group is full.</string>
+	<string key="ui_musical_performance_invite_group_full" rel_version="Feature_MusicalPerformances">Your performance group is full.</string>
 	<string key="ui_musical_performance_invite_target_player" rel_version="Feature_MusicalPerformances">Target a player to invite to your performance.</string>
-	<string key="ui_musical_performance_invite_not_leader" rel_version="Feature_MusicalPerformances">You must be the performance leader to invite band members.</string>
+	<string key="ui_musical_performance_invite_not_leader" rel_version="Feature_MusicalPerformances">You must be the performance leader to invite other players.</string>
 	<string key="ui_musical_performance_invite_player_not_eligible" rel_version="Feature_MusicalPerformances">That player is not eligible.</string>
 	<string key="ui_musical_performance_invite_performance_full" rel_version="Feature_MusicalPerformances">Your performance is full.</string>
 	<string key="ui_musical_performance_failmessage_eligibility_failed" rel_version="Feature_MusicalPerformances">That player is not eligible.</string>
 	<string key="ui_musical_performance_failmessage_system_error" rel_version="Feature_MusicalPerformances">An unknown error occured inviting that player.</string>
 	<string key="ui_musical_performance_failmessage_cancelled" rel_version="Feature_MusicalPerformances">The invite was cancelled.</string>
 	<string key="ui_musical_performance_failmessage_blocked" rel_version="Feature_MusicalPerformances">That player is blocked.</string>
-	<string key="ui_musical_performance_failmessage_fasttravelchanneling" rel_version="Feature_MusicalPerformances">You can't invite a player that is fast travel channeling.</string>
+	<string key="ui_musical_performance_failmessage_fasttravelchanneling" rel_version="Feature_MusicalPerformances">That player that is fast traveling.</string>
 	<string key="ui_musical_performance_failmessage_declined" rel_version="Feature_MusicalPerformances">That player declined your invite.</string>
 	<string key="ui_musical_performance_failmessage_throttled" rel_version="Feature_MusicalPerformances">Your invite was throttled.</string>
-	<string key="ui_musical_performance_invite_sent" rel_version="Feature_MusicalPerformances">Music Performance invite sent.</string>
-	<string key="ui_musical_performance_invite_notification_title">Musical Performance Invite</string>
-	<string key="ui_musical_performance_invite_notification_text">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invites you to a Musical Performance.\nWould you like to accept?</string>
-	<string key="ui_musical_performance_failmessage_generic">You cannot perform music right now.</string>
+	<string key="ui_musical_performance_invite_sent" rel_version="Feature_MusicalPerformances">Performance invite sent.</string>
+	<string key="ui_musical_performance_invite_notification_title">Performance Invite</string>
+	<string key="ui_musical_performance_invite_notification_text">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invites you to a performance.\nWould you like to accept?</string>
+	<string key="ui_musical_performance_failmessage_generic">You cannot perform right now.</string>
 	<string key="ui_musical_performance_failmessage_dead">You're dead.</string>
-	<string key="ui_musical_performance_failmessage_pendinginvite">You already have a pending musical performance invite.</string>
-	<string key="ui_musical_performance_failmessage_event">You cannot perform music while in a war/invasion/boss fight.</string>
-	<string key="ui_musical_performance_failmessage_level">You cannot perform music until you are level {level}.</string>
+	<string key="ui_musical_performance_failmessage_pendinginvite">You already have a pending performance invite.</string>
+	<string key="ui_musical_performance_failmessage_event">You cannot perform while in a war/invasion/boss fight.</string>
+	<string key="ui_musical_performance_failmessage_level">You cannot perform until you are level {level}.</string>
 	<string key="ui_musical_performance_failmessage_outofrange">You need to be within {distance} meters to perform.</string>
-	<string key="ui_musical_performance_failmessage_target_generic">{playerName} cannot receive musical performance invites right now.</string>
+	<string key="ui_musical_performance_failmessage_target_generic">{playerName} cannot receive performance invites right now.</string>
 	<string key="ui_musical_performance_failmessage_target_dead">{playerName} is dead.</string>
-	<string key="ui_musical_performance_failmessage_target_pendinginvite">{playerName} has a pending musical performance invite.</string>
+	<string key="ui_musical_performance_failmessage_target_pendinginvite">{playerName} has a pending performance invite.</string>
 	<string key="ui_musical_performance_failmessage_target_event">{playerName} is participating in an event.</string>
 	<string key="ui_musical_performance_failmessage_target_level">{playerName} is not level {level}.</string>
-	<string key="ui_musical_performance_failmessage_target_outofrange">{playername} needs to be within {distance} meters to invite to a musical performance.</string>
+	<string key="ui_musical_performance_failmessage_target_outofrange">{playername} needs to be within {distance} meters to invite to a performance.</string>
 	<string key="ui_musical_performance_page_unlocked">{songname}({difficulty}) - {sheetname} page collected {count}/{max}</string>
 	<string key="MusicBuff_SongInYourStep_Name" rel_version="Feature_MusicalPerformances">Song In Your Step</string>
 	<string key="MusicBuff_TerritorialTriumph_Name" rel_version="Feature_MusicalPerformances">Territorial Triumph</string>
@@ -157,8 +157,8 @@
 	<string key="ui_music_drums_part_2" rel_version="Feature_MusicalPerformances">Drums (Part 2)</string>
 	<string key="ui_music_mandolin_part_1" rel_version="Feature_MusicalPerformances">Mandolin (Part 1)</string>
 	<string key="ui_music_mandolin_part_2" rel_version="Feature_MusicalPerformances">Mandolin (Part 2)</string>
-	<string key="ui_cannot_travel_in_musical_performance" rel_verstion="Feature_MusicalPerformances">Cannot fast travel while in a musical performance.</string>
-	<string key="ui_cannot_enter_store_in_musical_performance" rel_version="Feature_MusicalPerformances">Cannot access the store while in a musical performance.</string>
+	<string key="ui_cannot_travel_in_musical_performance" rel_verstion="Feature_MusicalPerformances">Cannot fast travel while in a performance.</string>
+	<string key="ui_cannot_enter_store_in_musical_performance" rel_version="Feature_MusicalPerformances">Cannot access the store while in a performance.</string>
 	<string key="ui_musical_performance_combat_message">You cannot start a performance while in combat.</string>
 	<string key="songtitle_Maudlinbug_Waltz" rel_version="Feature_MusicalPerformances">Maudlinbug Haze</string>
 	<string key="songtitle_Traveling_Aeternum" rel_version="Feature_MusicalPerformances">Path Less Traveled</string>

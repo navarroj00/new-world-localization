@@ -334,12 +334,21 @@
 	<string key="ui_playertitle_territorystanding_everfall4" rel_version="P2_MetaAchievements">Everfall Mythic</string>
 	<string key="ui_playertitle_territorystanding_everfall4_SHE" rel_version="P2_MetaAchievements">Everfall Mythic</string>
 	<string key="ui_playertitle_territorystanding_everfall4_THEY" rel_version="P2_MetaAchievements">Everfall Mythic</string>
+	<string key="ui_playertitle_territorystanding_firstlight_retract_10" rel_version="Territory_FirstLightRetraction">Old First Light Pioneer</string>
+	<string key="ui_playertitle_territorystanding_firstlight_retract_10_SHE" rel_version="Territory_FirstLightRetraction">Old First Light Pioneer</string>
+	<string key="ui_playertitle_territorystanding_firstlight_retract_10_THEY" rel_version="Territory_FirstLightRetraction">Old First Light Pioneer</string>
 	<string key="ui_playertitle_territorystanding_firstlight3" rel_version="P2_MetaAchievements">First Light Famous</string>
 	<string key="ui_playertitle_territorystanding_firstlight3_SHE" rel_version="P2_MetaAchievements">First Light Famous</string>
 	<string key="ui_playertitle_territorystanding_firstlight3_THEY" rel_version="P2_MetaAchievements">First Light Famous</string>
 	<string key="ui_playertitle_territorystanding_firstlight4" rel_version="P2_MetaAchievements">First Light Mythic</string>
 	<string key="ui_playertitle_territorystanding_firstlight4_SHE" rel_version="P2_MetaAchievements">First Light Mythic</string>
 	<string key="ui_playertitle_territorystanding_firstlight4_THEY" rel_version="P2_MetaAchievements">First Light Mythic</string>
+	<string key="ui_playertitle_territorystanding_firstlight3_RETRACT" rel_version="Territory_FirstLightRetraction">Old First Light Homesteader</string>
+	<string key="ui_playertitle_territorystanding_firstlight3_RETRACT_SHE" rel_version="Territory_FirstLightRetraction">Old First Light Homesteader</string>
+	<string key="ui_playertitle_territorystanding_firstlight3_RETRACT_THEY" rel_version="Territory_FirstLightRetraction">Old First Light Homesteader</string>
+	<string key="ui_playertitle_territorystanding_firstlight4_RETRACT" rel_version="Territory_FirstLightRetraction">The Legend of Old First Light</string>
+	<string key="ui_playertitle_territorystanding_firstlight4_RETRACT_SHE" rel_version="Territory_FirstLightRetraction">The Legend of Old First Light</string>
+	<string key="ui_playertitle_territorystanding_firstlight4_RETRACT_THEY" rel_version="Territory_FirstLightRetraction">The Legend of Old First Light</string>
 	<string key="ui_playertitle_territorystanding_monarchs3" rel_version="P2_MetaAchievements">Monarch's Famous</string>
 	<string key="ui_playertitle_territorystanding_monarchs3_SHE" rel_version="P2_MetaAchievements">Monarch's Famous</string>
 	<string key="ui_playertitle_territorystanding_monarchs3_THEY" rel_version="P2_MetaAchievements">Monarch's Famous</string>
@@ -712,6 +721,9 @@
 	<string key="ui_playertitle_territory_permanent_owner_09" rel_version="Feature_Titles">First Light Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_09_SHE" rel_version="Feature_Titles">First Light Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_09_THEY" rel_version="Feature_Titles">First Light Owner</string>
+	<string key="ui_playertitle_territory_permanent_owner_09_RETRACT" rel_version="Territory_FirstLightRetraction">The Evicted</string>
+	<string key="ui_playertitle_territory_permanent_owner_09_RETRACT_SHE" rel_version="Territory_FirstLightRetraction">The Evicted</string>
+	<string key="ui_playertitle_territory_permanent_owner_09_RETRACT_THEY" rel_version="Territory_FirstLightRetraction">The Evicted</string>
 	<string key="ui_playertitle_territory_permanent_owner_10" rel_version="Feature_Titles">Cutlass Keys Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_10_SHE" rel_version="Feature_Titles">Cutlass Keys Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_10_THEY" rel_version="Feature_Titles">Cutlass Keys Owner</string>
@@ -731,6 +743,7 @@
 	<string key="ui_playertitle_territory_permanent_owner_16_SHE" rel_version="Territory_Brimstone_Sands">Brimstone Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_16_THEY" rel_version="Territory_Brimstone_Sands">Brimstone Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_desc" rel_version="Feature_Titles">Your company just won this territory.</string>
+	<string key="ui_playertitle_territory_permanent_owner_desc_RETRACT" rel_version="Feature_Titles">Your company had once won this territory.</string>
 	<string key="ui_playertitle_music_easy">Minstrel</string>
 	<string key="ui_playertitle_music_easy_SHE">Minstrel</string>
 	<string key="ui_playertitle_music_easy_THEY">Minstrel</string>
@@ -1043,10 +1056,18 @@
 	<string key="ui_playertitle_firstlight_company_score_top1_SHE" rel_version="Feature_Leaderboards">First Light Victor</string>
 	<string key="ui_playertitle_firstlight_company_score_top1_THEY" rel_version="Feature_Leaderboards">First Light Victor</string>
 	<string key="ui_playertitle_firstlight_company_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 3 on the First Light Days Governed Leaderboard.</string>
+	<string key="ui_playertitle_firstlight_company_score_top1_RETRACT" rel_version="Territory_FirstLightRetraction">Victor of Old First Light</string>
+	<string key="ui_playertitle_firstlight_company_score_top1_RETRACT_SHE" rel_version="Territory_FirstLightRetraction">Victor of Old First Light</string>
+	<string key="ui_playertitle_firstlight_company_score_top1_RETRACT_THEY" rel_version="Territory_FirstLightRetraction">Victor of Old First Light</string>
+	<string key="ui_playertitle_firstlight_company_score_top1_RETRACT_description" rel_version="Territory_FirstLightRetraction">Once earned by placing Top 3 on the First Light Days Governed Leaderboard, back in the day.</string>
 	<string key="ui_playertitle_firstlight_company_score_top10" rel_version="Feature_Leaderboards">First Light Medalist</string>
 	<string key="ui_playertitle_firstlight_company_score_top10_SHE" rel_version="Feature_Leaderboards">First Light Medalist</string>
 	<string key="ui_playertitle_firstlight_company_score_top10_THEY" rel_version="Feature_Leaderboards">First Light Medalist</string>
 	<string key="ui_playertitle_firstlight_company_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 6 on the First Light Days Governed Leaderboard.</string>
+	<string key="ui_playertitle_firstlight_company_score_top10_RETRACT" rel_version="Territory_FirstLightRetraction">Medalist of Old First Light</string>
+	<string key="ui_playertitle_firstlight_company_score_top10_RETRACT_SHE" rel_version="Territory_FirstLightRetraction">Medalist of Old First Light</string>
+	<string key="ui_playertitle_firstlight_company_score_top10_RETRACT_THEY" rel_version="Territory_FirstLightRetraction">Medalist of Old First Light</string>
+	<string key="ui_playertitle_firstlight_company_score_top10_RETRACT_description" rel_version="Territory_FirstLightRetraction">Once earned by placing Top 6 on the First Light Days Governed Leaderboard, back in the day.</string>
 	<string key="ui_playertitle_windsward_company_score_top1" rel_version="Feature_Leaderboards">Windsward Victor</string>
 	<string key="ui_playertitle_windsward_company_score_top1_SHE" rel_version="Feature_Leaderboards">Windsward Victor</string>
 	<string key="ui_playertitle_windsward_company_score_top1_THEY" rel_version="Feature_Leaderboards">Windsward Victor</string>
@@ -1135,6 +1156,10 @@
 	<string key="ui_playertitle_allterritories_company_score_top10_SHE" rel_version="Feature_Leaderboards">Territory Control Medalist</string>
 	<string key="ui_playertitle_allterritories_company_score_top10_THEY" rel_version="Feature_Leaderboards">Territory Control Medalist</string>
 	<string key="ui_playertitle_allterritories_company_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 6 on the Days Governed for All Territories.</string>
+	<string key="ui_playertitle_sandworm_top1" rel_version="Feature_Leaderboards">The Devourer Victor</string>
+	<string key="ui_playertitle_sandworm_top1_description" rel_version="Feature_Leaderboards">Earned by placing top 10 on the Devourer Elite Trial Leaderboard</string>
+	<string key="ui_playertitle_sandworm_top10" rel_version="Feature_Leaderboards">The Devourer Medalist</string>
+	<string key="ui_playertitle_sandworm_top10_description" rel_version="Feature_Leaderboards">Earned by placing top 50 on the Devourer Elite Trial Leaderboard</string>
 	<string key="ui_playertitle_special_thereturned">The Returned</string>
 	<string key="ui_playertitle_special_thereturned_SHE">The Returned</string>
 	<string key="ui_playertitle_special_thereturned_THEY">The Returned</string>
@@ -1200,5 +1225,54 @@
 	<string key="ui_playerTitle_LeaderboardPTR_Welp_SHE" rel_version="Feature_Leaderboards">Welp</string>
 	<string key="ui_playerTitle_LeaderboardPTR_Welp_THEY" rel_version="Feature_Leaderboards">Welp</string>
 	<string key="ui_playerTitle_LeaderboardPTR_Welp_description" rel_version="Feature_Leaderboards">Bravely attempted to place on the leaderboards.</string>
+	<string key="ui_playertitle_season2_journeychapter5" rel_version="Season_2_Perm">Sandwalker</string>
+	<string key="ui_playertitle_season2_journeychapter5_SHE" rel_version="Season_2_Perm">Sandwalker</string>
+	<string key="ui_playertitle_season2_journeychapter5_THEY" rel_version="Season_2_Perm">Sandwalker</string>
+	<string key="ui_playertitle_season2_journeychapter5_description" rel_version="Season_2_Perm">Earned by completing the Season Journey in Season 2.</string>
+	<string key="ui_playertitle_season2_journeychallenge1" rel_version="Season_2_Perm">Heart of the Desert</string>
+	<string key="ui_playertitle_season2_journeychallenge1_SHE" rel_version="Season_2_Perm">Heart of the Desert</string>
+	<string key="ui_playertitle_season2_journeychallenge1_THEY" rel_version="Season_2_Perm">Heart of the Desert</string>
+	<string key="ui_playertitle_season2_journeychallenge1_description" rel_version="Season_2_Perm">Earned by completing the Season 2 Challenge: Complete the Sandworm Trial Flawlessly</string>
+	<string key="ui_playertitle_season2_journeychallenge2" rel_version="Season_2_Perm">Hasty Hatcher</string>
+	<string key="ui_playertitle_season2_journeychallenge2_SHE" rel_version="Season_2_Perm">Hasty Hatcher</string>
+	<string key="ui_playertitle_season2_journeychallenge2_THEY" rel_version="Season_2_Perm">Hasty Hatcher</string>
+	<string key="ui_playertitle_season2_journeychallenge2_description" rel_version="Season_2_Perm">Earned by completing the Season 2 Challenge: Complete the Hatchery Trial in under 10 minutes</string>
+	<string key="ui_playertitle_season2_journeychallenge3" rel_version="Season_2_Perm">Mutation God</string>
+	<string key="ui_playertitle_season2_journeychallenge3_SHE" rel_version="Season_2_Perm">Mutation Goddess</string>
+	<string key="ui_playertitle_season2_journeychallenge3_THEY" rel_version="Season_2_Perm">Mutation God</string>
+	<string key="ui_playertitle_season2_journeychallenge3_description" rel_version="Season_2_Perm">Earned by completing the Season 2 Challenge: Complete 5 Mutation 10 Expeditions Flawlessly</string>
+	<string key="ui_playertitle_season2_journeychallenge4" rel_version="Season_2_Perm">Bones of Fortune</string>
+	<string key="ui_playertitle_season2_journeychallenge4_SHE" rel_version="Season_2_Perm">Bones of Fortune</string>
+	<string key="ui_playertitle_season2_journeychallenge4_THEY" rel_version="Season_2_Perm">Bones of Fortune</string>
+	<string key="ui_playertitle_season2_journeychallenge4_description" rel_version="Season_2_Perm">Earned by completing the Season 2 Challenge: Kill Rafflebones 10 times</string>
+	<string key="ui_playertitle_season2_journeychallenge5" rel_version="Season_2_Perm">Friend of the Sands</string>
+	<string key="ui_playertitle_season2_journeychallenge5_SHE" rel_version="Season_2_Perm">Friend of the Sands</string>
+	<string key="ui_playertitle_season2_journeychallenge5_THEY" rel_version="Season_2_Perm">Friend of the Sands</string>
+	<string key="ui_playertitle_season2_journeychallenge5_description" rel_version="Season_2_Perm">Earned by completing the Season 2 Challenge: Complete the Blood of the Sands Seasonal Story</string>
+	<string key="ui_playertitle_season2_journeychallenge6" rel_version="Season_2_Perm">Blood God</string>
+	<string key="ui_playertitle_season2_journeychallenge6_SHE" rel_version="Season_2_Perm">Blood Goddess</string>
+	<string key="ui_playertitle_season2_journeychallenge6_THEY" rel_version="Season_2_Perm">Blood God</string>
+	<string key="ui_playertitle_season2_journeychallenge6_description" rel_version="Season_2_Perm">Earned by completing the Season 2 Challenge: Get 300 Killing Blows on Player</string>
+	<string key="ui_playertitle_season2_journeychallenge7" rel_version="Season_2_Perm">Dune Arena Champion</string>
+	<string key="ui_playertitle_season2_journeychallenge7_SHE" rel_version="Season_2_Perm">Dune Arena Champion</string>
+	<string key="ui_playertitle_season2_journeychallenge7_THEY" rel_version="Season_2_Perm">Dune Arena Champion</string>
+	<string key="ui_playertitle_season2_journeychallenge7_description" rel_version="Season_2_Perm">Earned by completing the Season 2 Challenge: Win 100 Arena matches on the new map</string>
+	<string key="ui_playertitle_season2_journeychallenge8" rel_version="Season_2_Perm">Stamp Collector</string>
+	<string key="ui_playertitle_season2_journeychallenge8_SHE" rel_version="Season_2_Perm">Stamp Collector</string>
+	<string key="ui_playertitle_season2_journeychallenge8_THEY" rel_version="Season_2_Perm">Stamp Collector</string>
+	<string key="ui_playertitle_season2_journeychallenge8_description" rel_version="Season_2_Perm">Earned by completing the Season 2 Challenge: Complete 100 Activity Cards</string>
+	<string key="ui_playertitle_season2_journeychallenge9" rel_version="Season_2_Perm">Bloodfisher</string>
+	<string key="ui_playertitle_season2_journeychallenge9_SHE" rel_version="Season_2_Perm">Bloodfisher</string>
+	<string key="ui_playertitle_season2_journeychallenge9_THEY" rel_version="Season_2_Perm">Bloodfisher</string>
+	<string key="ui_playertitle_season2_journeychallenge9_description" rel_version="Season_2_Perm">Earned by completing the Season 2 Challenge: Earn 10 Fishing Aptitude Levels</string>
+	<string key="ui_playertitle_season2_journeychallenge10" rel_version="Season_2_Perm">Golden Artisan</string>
+	<string key="ui_playertitle_season2_journeychallenge10_SHE" rel_version="Season_2_Perm">Golden Artisan</string>
+	<string key="ui_playertitle_season2_journeychallenge10_THEY" rel_version="Season_2_Perm">Golden Artisan</string>
+	<string key="ui_playertitle_season2_journeychallenge10_description" rel_version="Season_2_Perm">Earned by completing the Season 2 Challenge: Craft 100 items with a Golden Scarab</string>
+	<string key="ui_playertitle_summer_guitarhero_description" rel_version="Season_2_Perm">Earned by completing the Expert version of YAAAHHHH! with an Amazing score.</string>
+	<string key="ui_playertitle_season2_deluxebattlepass" rel_version="Season_2_Perm">Scourge of the Sands</string>
+	<string key="ui_playertitle_season2_deluxebattlepass_SHE" rel_version="Season_2_Perm">Scourge of the Sands</string>
+	<string key="ui_playertitle_season2_deluxebattlepass_THEY" rel_version="Season_2_Perm">Scourge of the Sands</string>
+	<string key="ui_playertitle_season2_deluxebattlepass_description" rel_version="Season_2_Perm">Earned by completing the paid track of the Season 2 Season Pass.</string>
 </resources>
 

@@ -160,16 +160,16 @@
 	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_EngageTendrils" comment="AI_Overseer_Zane.slice" speaker="Overseer Zane" rel_version="Quest_MSQ2_Revamp">You will join us or be drained of life!</string>
 	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_EngageZane" comment="AI_Overseer_Zane.slice" speaker="Overseer Zane" rel_version="Quest_MSQ2_Revamp">Your resistance is...amusing.</string>
 	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_Defeat" comment="AI_Overseer_Zane.slice" speaker="Overseer Zane" rel_version="Quest_MSQ2_Revamp">You can not defeat us all...</string>
-	<string key="Helvan_CombatBark_01" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">PH TEXT: Ahoy there!</string>
-	<string key="Helvan_CombatBark_02" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">PH TEXT: Fire at them! Starboard!</string>
-	<string key="Helvan_CombatBark_03" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">PH TEXT: Fire at them! Port!</string>
-	<string key="Helvan_CombatBark_04" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">PH TEXT: Scoundrels! I'll deal with you myself</string>
-	<string key="Helvan_CombatBark_05" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">PH TEXT: To Davey Jones I go...</string>
-	<string key="Helvan_GreekFire_line1" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">Burn, you lily-livered loon!</string>
-	<string key="Helvan_CannonFire_line1" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">Scamper starboard, you dirty dog!</string>
-	<string key="Helvan_CannonFire_line2" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">Flee portside, you fat rat!</string>
-	<string key="Helvan_Death_line1" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">A short-lived victory. Soon you will be like me!</string>
-	<string key="Helvan_JumpsDown_line1" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">Ahoy, me hearty!</string>
+	<string key="Helvan_CombatBark_01" comment="AI_Helvan_the_Navigator.slice" speaker="@Undead_Navigator_Named_12MB01d_VitalsName" rel_version="Quest_MSQ2_Revamp">PH TEXT: Ahoy there!</string>
+	<string key="Helvan_CombatBark_02" comment="AI_Helvan_the_Navigator.slice" speaker="@Undead_Navigator_Named_12MB01d_VitalsName" rel_version="Quest_MSQ2_Revamp">PH TEXT: Fire at them! Starboard!</string>
+	<string key="Helvan_CombatBark_03" comment="AI_Helvan_the_Navigator.slice" speaker="@Undead_Navigator_Named_12MB01d_VitalsName" rel_version="Quest_MSQ2_Revamp">PH TEXT: Fire at them! Port!</string>
+	<string key="Helvan_CombatBark_04" comment="AI_Helvan_the_Navigator.slice" speaker="@Undead_Navigator_Named_12MB01d_VitalsName" rel_version="Quest_MSQ2_Revamp">PH TEXT: Scoundrels! I'll deal with you myself</string>
+	<string key="Helvan_CombatBark_05" comment="AI_Helvan_the_Navigator.slice" speaker="@Undead_Navigator_Named_12MB01d_VitalsName" rel_version="Quest_MSQ2_Revamp">PH TEXT: To Davey Jones I go...</string>
+	<string key="Helvan_GreekFire_line1" comment="AI_Helvan_the_Navigator.slice" speaker="@Undead_Navigator_Named_12MB01d_VitalsName" rel_version="Quest_MSQ2_Revamp">Burn, you lily-livered loon!</string>
+	<string key="Helvan_CannonFire_line1" comment="AI_Helvan_the_Navigator.slice" speaker="@Undead_Navigator_Named_12MB01d_VitalsName" rel_version="Quest_MSQ2_Revamp">Scamper starboard, you dirty dog!</string>
+	<string key="Helvan_CannonFire_line2" comment="AI_Helvan_the_Navigator.slice" speaker="@Undead_Navigator_Named_12MB01d_VitalsName" rel_version="Quest_MSQ2_Revamp">Flee portside, you fat rat!</string>
+	<string key="Helvan_Death_line1" comment="AI_Helvan_the_Navigator.slice" speaker="@Undead_Navigator_Named_12MB01d_VitalsName" rel_version="Quest_MSQ2_Revamp">A short-lived victory. Soon you will be like me!</string>
+	<string key="Helvan_JumpsDown_line1" comment="AI_Helvan_the_Navigator.slice" speaker="@Undead_Navigator_Named_12MB01d_VitalsName" rel_version="Quest_MSQ2_Revamp">Ahoy, me hearty!</string>
 	<string key="Imhotep_CombatBark_01" comment="AI_Imhotep.slice" speaker="@Imhotep_VitalsName" rel_version="Territory_Brimstone_Sands">Witness the power of the Ancients! Feel their wrath!</string>
 	<string key="Imhotep_CombatBark_02" comment="AI_Imhotep.slice" speaker="@Imhotep_VitalsName" rel_version="Territory_Brimstone_Sands">I am the Keeper of Mysteries! Guardian of Secrets!</string>
 	<string key="Imhotep_CombatBark_03" comment="AI_Imhotep.slice" speaker="@Imhotep_VitalsName" rel_version="Territory_Brimstone_Sands">Even you cannot stand against the Ancients! Stop fighting me!</string>
@@ -232,16 +232,30 @@
 	<string key="Apophis_CombatTaunt_D" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">Feast, Great Devourer!</string>
 	<string key="Apophis_Intro" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">Insignificant Worms!</string>
 	<string key="Apophis_Death" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">You are nothing!</string>
-	<string key="Flamekeeper_CombatBark_01" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: Living Bomb Bark!</string>
-	<string key="Flamekeeper_CombatBark_02" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: Meteor Shower Bark!</string>
-	<string key="Flamekeeper_CombatBark_03" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: Lava Flow Bark!</string>
-	<string key="Flamekeeper_CombatBark_04" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: Flame Entities Bark!</string>
-	<string key="Flamekeeper_CombatBark_05" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: Kindling Bark!</string>
-	<string key="Flamekeeper_CombatBark_06" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: Stop Drop and Roll Bark!</string>
-	<string key="Flamekeeper_CombatBark_07" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: Flame Vacuum Bark!</string>
-	<string key="BrotherUmberto_Intro_Human" comment="brother_umberto_human.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">I will not repent! Nor will I fall. It is you whose soul will be forfeit!</string>
-	<string key="BrotherUmberto_Death_Human" comment="brother_umberto_human.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">The righteous will always return!</string>
-	<string key="BrotherUmberto_Intro_Dark_Alt" comment="brother_umberto.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">My soul will not be so easily vanquished…</string>
-	<string key="BrotherUmberto_Death_Dark" comment="io_caerdun_99b_msq_10_finalseal.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">I am released….</string>
+	<string key="Flamekeeper_CombatBark_01" comment="Evil_Knight_Flamekeeper.slice" speaker="Hadish Azar" rel_version="Season_1_Perm">The cleansing fire prophesied this moment.</string>
+	<string key="Flamekeeper_CombatBark_02" comment="Evil_Knight_Flamekeeper.slice" speaker="Hadish Azar" rel_version="Season_1_Perm">To arms, warriors of flame!</string>
+	<string key="Flamekeeper_CombatBark_03" comment="Evil_Knight_Flamekeeper.slice" speaker="Hadish Azar" rel_version="Season_1_Perm">Destroy this defiler!</string>
+	<string key="Flamekeeper_CombatBark_04" comment="Evil_Knight_Flamekeeper.slice" speaker="Hadish Azar" rel_version="Season_1_Perm">Infernal warrior! Strike!</string>
+	<string key="Flamekeeper_CombatBark_05" comment="Evil_Knight_Flamekeeper.slice" speaker="Hadish Azar" rel_version="Season_1_Perm">My fire will light the way</string>
+	<string key="Flamekeeper_CombatBark_06" comment="Evil_Knight_Flamekeeper.slice" speaker="Hadish Azar" rel_version="Season_1_Perm">Flame of heaven!</string>
+	<string key="Flamekeeper_CombatBark_07" comment="Evil_Knight_Flamekeeper.slice" speaker="Hadish Azar" rel_version="Season_1_Perm">Come, Ahriman! Consume all!</string>
+	<string key="Flamekeeper_CombatBark_08" comment="Evil_Knight_Flamekeeper.slice" speaker="Hadish Azar" rel_version="Season_1_Perm">Seething conflagration!</string>
+	<string key="Flamekeeper_CombatBark_09" comment="Evil_Knight_Flamekeeper.slice" speaker="Hadish Azar" rel_version="Season_1_Perm">Burn! Burn! Haha!</string>
+	<string key="Flamekeeper_CombatBark_10" comment="Evil_Knight_Flamekeeper.slice" speaker="Hadish Azar" rel_version="Season_1_Perm">I summon the burning void!</string>
+	<string key="Flamekeeper_CombatBark_11" comment="Evil_Knight_Flamekeeper.slice" speaker="Hadish Azar" rel_version="Season_1_Perm">Arise, fiery claws of the daeva!</string>
+	<string key="Flamekeeper_CombatBark_12" comment="Evil_Knight_Flamekeeper.slice" speaker="Hadish Azar" rel_version="Season_1_Perm">Rise blazing barriers!</string>
+	<string key="Flamekeeper_CombatBark_13" comment="Evil_Knight_Flamekeeper.slice" speaker="Hadish Azar" rel_version="Season_1_Perm">Kindle my breath! Ignite my soul!</string>
+	<string key="Flamekeeper_CombatBark_14" comment="Evil_Knight_Flamekeeper.slice" speaker="Hadish Azar" rel_version="Season_1_Perm">The purity of fire... embraces me…</string>
+	<string key="BrotherUmberto_Intro_Human" comment="brother_umberto_human.slice" speaker="@UmbertoHuman_SubName" rel_version="Quest_MSQ2_Brightwood">I will not repent! Nor will I fall. It is you whose soul will be forfeit!</string>
+	<string key="BrotherUmberto_Death_Human" comment="brother_umberto_human.slice" speaker="@UmbertoHuman_SubName" rel_version="Quest_MSQ2_Brightwood">The righteous will always return!</string>
+	<string key="BrotherUmberto_Intro_Dark_Alt" comment="brother_umberto.slice" speaker="@UmbertoSpirit_SubName" rel_version="Quest_MSQ2_Brightwood">My soul will not be so easily vanquished…</string>
+	<string key="BrotherUmberto_Death_Dark" comment="io_caerdun_99b_msq_10_finalseal.slice" speaker="@UmbertoSpirit_SubName" rel_version="Quest_MSQ2_Brightwood">I am released….</string>
+	<string key="Season_02_Assassin_Ambush_1" comment="Enc_Season_02_EggAmbush_02.slice" speaker="Delirvesh the Sand Drinker" rel_version="Season_2_Perm">This Egg must not be removed! I have defended it against greater foes than you!</string>
+	<string key="Season_02_Assassin_Ambush_2" comment="Enc_Season_02_EggAmbush_02.slice" speaker="Blood of the Sands Assassin" rel_version="Season_2_Perm">Now is our chance to take the Egg!</string>
+	<string key="Season_02_Assassin_Ambush_2a" comment="Enc_Season_02_EggAmbush_02.slice" speaker="Blood of the Sands Assassin" rel_version="Season_2_Perm">Give that Egg to me!</string>
+	<string key="Season_02_Assassin_Ambush_3" comment="Enc_Season_02_EggAmbush_03.slice" speaker="Surahkdot the Ever-Watchful" rel_version="Season_2_Perm">You are not welcome here! Go away now.</string>
+	<string key="Season_02_Assassin_Ambush_3a" comment="Enc_Season_02_EggAmbush_03.slice" speaker="Surahkdot the Ever-Watchful" rel_version="Season_2_Perm">You have come too close... Attack!</string>
+	<string key="Season_02_Assassin_Ambush_3b" comment="Enc_Season_02_EggAmbush_03.slice" speaker="Surahkdot the Ever-Watchful" rel_version="Season_2_Perm">Rise and protect it!</string>
+	<string key="Herikai_CombatBark_Intro" comment="season_02_herikai.slice" speaker="Herikai" rel_version="Season_2_Temp">Malek said you might come for the egg, too late blasphemer! It belongs to us now. </string>
 </resources>
 

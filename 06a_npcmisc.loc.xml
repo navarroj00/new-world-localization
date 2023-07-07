@@ -25,7 +25,7 @@
 	<string key="06_UtkarshSingh" gender="M" rel_version="Quest_MSQ2_Revamp">Utkarsh Singh</string>
 	<string key="06_Historian_title" rel_version="Quest_MSQ2_Revamp">Historian</string>
 	<string key="06_VerildisJannsen" gender="F" rel_version="Quest_MSQ2_Revamp">Verildis Jannsen</string>
-	<string key="06_VerildisJannsen_title" rel_version="Quest_MSQ2_Revamp">Southern Breeze Innkeep</string>
+	<string key="06_VerildisJannsen_title" rel_version="Quest_MSQ2_Revamp">Innkeeper of the Southern Breeze</string>
 	<string key="06_LiZihan" gender="M" rel_version="Quest_MSQ2_Revamp">Li Zihan</string>
 	<string key="06_LiZihan_title" rel_version="Quest_MSQ2_Revamp">Tavern Keeper</string>
 	<string key="06_FudeHinode" gender="F" rel_version="Quest_MSQ2_Revamp">Fude Hinode</string>
@@ -60,5 +60,19 @@
 	<string key="0623_Fisher_title" rel_version="Quest_MSQ2_Revamp">Master Fisher</string>
 	<string key="0699_Barkimedes" comment="male" gender="M" rel_version="Quest_MSQ2_Revamp">Barkimedes</string>
 	<string key="0699_Barkimedes_title" rel_version="Quest_MSQ2_Revamp">Eternal Hound</string>
+	<string key="06_GunterRost" gender="M" rel_version="Season_2_Perm">Gunter Rost</string>
+	<string key="06_GunterRost_title" rel_version="Season_2_Perm">Refugee from First Light</string>
+	<string key="06_FLCrier1" comment="female" gender="M" rel_version="Season_2_Perm">Beatrice Marchand</string>
+	<string key="06_FLCrier1_title" rel_version="Season_2_Perm">Refugee from First Light</string>
+	<string key="06_FLCrier2" comment="female" rel_version="Season_2_Perm">Yuta Aoki</string>
+	<string key="06_FLCrier2_title" rel_version="Season_2_Perm">Refugee from First Light</string>
+	<string key="10_FLCrier1" comment="female" rel_version="Season_2_Perm">Agnetha Dahlberg</string>
+	<string key="10_FLCrier1_title" rel_version="Season_2_Perm">Refugee from First Light</string>
+	<string key="10_FLCrier2" comment="male" rel_version="Season_2_Perm">Julian Wade</string>
+	<string key="10_FLCrier2_title" rel_version="Season_2_Perm">Refugee from First Light</string>
+	<string key="12_FLCrier1" comment="male" rel_version="Season_2_Perm">Idris Makonnen</string>
+	<string key="12_FLCrier1_title" rel_version="Season_2_Perm">Refugee from First Light</string>
+	<string key="12_FLCrier2" comment="male" rel_version="Season_2_Perm">Tatsuya Ito</string>
+	<string key="12_FLCrier2_title" rel_version="Season_2_Perm">Refugee from First Light</string>
 </resources>
 

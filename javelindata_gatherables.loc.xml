@@ -983,22 +983,18 @@
 	<string key="Armadillo_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Armadillo</string>
 	<string key="Rat_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Rat</string>
 	<string key="FireNaga_Miniboss_FlameVent_DisplayName" rel_version="Expedition_GreatCleave_01">Flame Vent</string>
-	<string key="95_s01_01_SkyeLetter" rel_version="Season_1_Temp">Read Skye's Letter</string>
 	<string key="95_s01_01_CorruptedCampSupplies" rel_version="Season_1_Perm">Collect the Supplies</string>
 	<string key="95_s01_01_CorruptedTent" rel_version="Season_1_Perm">Burn Corrupted Tent</string>
 	<string key="95_s01_01_CrowsNestCampBuild" rel_version="Season_1_Perm">Build the Crow's Nest Camp</string>
-	<string key="95_s01_02_AidynBrooch" rel_version="Season_1_Temp">Collect Brooch and Message</string>
-	<string key="95_s01_02_BattleSite" rel_version="Season_1_Temp">Examine Ground</string>
-	<string key="95_s01_02_SkyeTrail" rel_version="Season_1_Temp">Follow Skye's Trail</string>
-	<string key="95_s01_02_AidynTrail" rel_version="Season_1_Temp">Follow Aidyn's Trail</string>
-	<string key="95_s01_02a_BoneCharmTable" rel_version="Season_1_Temp">Crush the Bone Talismans</string>
-	<string key="95_s01_09_FinalBoneCharmTable" rel_version="Season_1_Temp">Destroy Skye's Cursed Talisman</string>
 	<string key="95_s01_03_HeroesPoster" rel_version="Season_1_Perm">Place Poster</string>
 	<string key="95_s01_05_BWFakeFundsCabinet" rel_version="Season_1_Perm">Store the Fake Funds</string>
-	<string key="95_s01_06_ExamineFrankTrail" rel_version="Season_1_Temp">Examine Footprints</string>
-	<string key="95_s01_06_FrankTrail" rel_version="Season_1_Temp">Follow the Smuggler's Trail</string>
-	<string key="95_s01_06_RescueWarrior" rel_version="Season_1_Temp">Rescue the Captured Warrior</string>
 	<string key="95_s01_04_AzothSap" rel_version="Season_1_Perm">Extract Sap</string>
+	<string key="SandwormTrial_Drum_Displayname" rel_version="Trial_Brimstone_Sandworm">Summon Shah Neshen the Devourer</string>
+	<string key="SandwormTrial_RedButton_DisplayName" rel_version="Trial_Brimstone_Sandworm">Red</string>
+	<string key="SandwormTrial_BlueButton_DisplayName" rel_version="Trial_Brimstone_Sandworm">Blue</string>
+	<string key="Sandworm_Powerup_DisplayName" rel_version="Trial_Brimstone_Sandworm">Become Empowered</string>
+	<string key="SandwormDrumLocked" rel_version="Trial_Brimstone_Sandworm">Locked Drum of Shah Neshen</string>
+	<string key="SandwormTrial_WormPellet" rel_version="Trial_Brimstone_Sandworm">Destroy Explosive</string>
 	<string key="99C_MSQ2_WitchyGlyph_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Destructive Glyph</string>
 	<string key="99C_MSQ2_RitualObject_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Arcane Anchor</string>
 	<string key="99C_MSQ2_GlowingMushroom_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Study Unusual Plants</string>
@@ -1050,11 +1046,51 @@
 	<string key="13A_SQ_01_FogBed_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Clear Magical Fog</string>
 	<string key="13A_SQ_02_AnimalJar" rel_version="Quest_MSQ2_WeaversFen">Kick Jar Of Animal Remains</string>
 	<string key="FlameCore_Forge_DisplayName" rel_version="Season_1_Perm">Flame Core Forge</string>
-	<string key="SporePod_Type1_DisplayName">Type 1 Spore Pod</string>
-	<string key="SporePod_Type2_DisplayName">Type 2 Spore Pod</string>
-	<string key="SporePod_Type3_DisplayName">Type 3 Spore Pod</string>
-	<string key="SporePod_Type4_DisplayName">Type 4 Spore Pod</string>
-	<string key="SporePod_Type5_DisplayName">Type 5 Spore Pod</string>
+	<string key="SporePod_DisplayName">Spore Pod</string>
 	<string key="BeastLordStatue_Type1_DisplayName">Type 1 Beast Lord Statue</string>
+	<string key="99D_MSQ_01_BrokenCart_DisplayName">Fix Cart</string>
+	<string key="99D_MSQ_01_SupplyCrateArmor_DisplayName">Recover Stolen Armor</string>
+	<string key="99D_MSQ_01_SupplyCrateWeapons_DisplayName">Recover Stolen Weapons</string>
+	<string key="99D_MSQ_02_Fountain_DisplayName">Recover Ancient Knowledge</string>
+	<string key="Cyclic_99D_MSQ_BallistaRotate_DisplayName">Rotate Artillery</string>
+	<string key="99D_MSQ_FireBallista_DisplayName">Fire Artillery</string>
+	<string key="99D_MSQ_10_LogPile_DisplayName">Chop Wood</string>
+	<string key="99D_MSQ_10_StonePile_DisplayName">Mine Stones</string>
+	<string key="99D_MSQ_10_BuildBarricade_DisplayName">Build Barricade</string>
+	<string key="95A_S02_EggChamber_Enter_DisplayName" rel_version="Season_2_Perm">Enter</string>
+	<string key="95A_S02_EggChamber_Exit_DisplayName" rel_version="Season_2_Perm">Exit</string>
+	<string key="LootContainer_Elite_Trial_DisplayName" rel_version="Season_2_Perm">Soul Trial Chest</string>
+	<string key="95A_S02_Mural1_DisplayName" rel_version="Season_2_Temp">Collect Mural Rubbing</string>
+	<string key="95A_S02_MarketStone_DisplayName" rel_version="Season_2_Temp">Take Market Tablet</string>
+	<string key="95A_S02_SharifCage_DisplayName" rel_version="Season_2_Temp">Open Cage</string>
+	<string key="95A_S02_WordOfWater_DisplayName" rel_version="Season_2_Temp">Take Word of Water</string>
+	<string key="95A_S02_GeyserDoorPedestal_DisplayName" rel_version="Season_2_Temp">Place the Word of Water</string>
+	<string key="95A_S02_RoyalEgg1_DisplayName" rel_version="Season_2_Temp">Take Mysterious Egg</string>
+	<string key="95A_S02_SatyrFlute_DisplayName" rel_version="Season_2_Perm">Take Satyr Flute</string>
+	<string key="95A_S02_LionMeatSpice_DisplayName" rel_version="Season_2_Perm">Harvest Spice</string>
+	<string key="95A_S02_LionDish_DisplayName" rel_version="Season_2_Perm">Place Zander's Lion Treat</string>
+	<string key="95A_S02_LionSong_DisplayName" rel_version="Season_2_Perm">Collect Lion Roar</string>
+	<string key="95A_S02_PeacockFeathers_DisplayName" rel_version="Season_2_Perm">Take Peacock Feather</string>
+	<string key="95A_S02_PeacockStatue_DisplayName" rel_version="Season_2_Perm">Place Peacock Feathers</string>
+	<string key="95A_S02_PeacockSong_DisplayName" rel_version="Season_2_Perm">Collect Peacock Cry</string>
+	<string key="95A_S02_JackalSong_DisplayName" rel_version="Season_2_Perm">Collect the Jackal's Laugh</string>
+	<string key="95A_S02_OpenCaveSong_DisplayName" rel_version="Season_2_Perm">Play Song</string>
+	<string key="95A_S02_LuteChest_DisplayName" rel_version="Season_2_Perm">Open Chest</string>
+	<string key="95A_S02_EggAltarAmbush_DisplayName" rel_version="Season_2_Temp">Place a Decoy Egg</string>
+	<string key="95A_S02_MapRoomInteract_DisplayName" rel_version="Season_2_Temp">Place the Word of Stone</string>
+	<string key="95A_S02_RoyalEgg2_DisplayName" rel_version="Season_2_Temp">Take Mysterious Egg</string>
+	<string key="95A_S02_DroneEggshells_DisplayName" rel_version="Season_2_Temp">Inspect Drone Egg Remains</string>
+	<string key="95A_S02_DroneEggDestructible_DisplayName" rel_version="Season_2_Temp">Destroy Drone Egg</string>
+	<string key="95A_S02_RoyalEggDestructible_DisplayName" rel_version="Season_2_Temp">Destroy Royal Egg</string>
+	<string key="95A_S02_SharifEggBasket_DisplayName" rel_version="Season_2_Temp">Place Eggs</string>
+	<string key="95A_S02_Geyser_Puzzle_BoulderPile_DisplayName" rel_version="Season_2_Perm">Carry Rock</string>
+	<string key="95A_S02_Geyser_Puzzle_Boulder_Interact_DisplayName" rel_version="Season_2_Perm">Place Rock</string>
+	<string key="95A_S02_ExamineTracks">Examine Tracks</string>
+	<string key="95A_S02_FollowTracks">Follow Tracks</string>
+	<string key="Season_02_PvE_Event_Trigger_Gatherable_DisplayName">Aid the Mage</string>
+	<string key="OR_Corrupted_Portal_Encounter_Gatherable_DisplayName">Corrupted Portal</string>
+	<string key="Door_Enter_DisplayName" rel_version="Season_2_Perm">Enter</string>
+	<string key="Door_Exit_DisplayName" rel_version="Season_2_Perm">Exit</string>
+	<string key="09A_M4_ExtinguishFlames_DisplayName">Extinguish Flames</string>
 </resources>
 

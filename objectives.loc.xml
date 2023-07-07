@@ -63,7 +63,7 @@
 	<string key="objective_difficulty_2" speaker="UI">Medium</string>
 	<string key="objective_difficulty_3" speaker="UI">Hard</string>
 	<string key="objective_difficulty_label" speaker="UI">Difficulty :</string>
-	<string key="ui_viewinmap" speaker="UI">View In Map</string>
+	<string key="ui_viewinmap" speaker="UI">Map</string>
 	<string key="objective_empty" speaker="UI">No Objective Obtained</string>
 	<string key="objective_equip" speaker="UI">Equip {itemName}</string>
 	<string key="objective_experience" speaker="UI">Exp</string>
@@ -152,6 +152,7 @@
 	<string key="objective_msq_desc" speaker="UI">Main story quests</string>
 	<string key="objective_get_msq_message" speaker="UI">You currently have no active Main Story quests.\nSearch for this icon on the map to determine whether the next Main Story Quest is available.</string>
 	<string key="M_procurer_craft_workorder_items" speaker="UI">Crafting Mission</string>
+	<string key="objective_challenge" speaker="UI">Challenge</string>
 	<string key="objective_name_template" comment="Obsolete - Used to show above rewards on the conversation screen. {title} is the quest title." speaker="UI">Quest: "{title}"</string>
 	<string key="objective_name_and_rewards_template" comment="Shows above rewards on the conversation screen. {title} is the quest title" speaker="UI">"{title}" - Rewards</string>
 	<string key="objective_rewards_completion" comment="Rewards label when completing a quest" speaker="UI">Rewards for Completion</string>
@@ -308,5 +309,7 @@
 	<string key="objective_mission_rescue_npc_generic" rel_version="Quest_MSQ2_Revamp">Rescue Hostages</string>
 	<string key="objective_mission_boatencounter_obj_title" rel_version="Quest_MSQ2_Revamp">Destroy Boat</string>
 	<string key="objective_mission_boatencounter_obj_desc" rel_version="Quest_MSQ2_Revamp">Fire Cannons</string>
+	<string key="objective_available">Available</string>
+	<string key="ui_show_available_objectives">Show Available</string>
 </resources>
 

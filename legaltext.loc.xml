@@ -1,11 +1,11 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="legal_codeofconduct_version" comment="This number is data and should not be translated.">3</string>
 	<string key="legal_codeofconduct_title">Before you play...</string>
-	<string key="legal_codeofconduct_desc">To enter Aeternum, please agree to our Code of Conduct. These guidelines are in place to foster a safe, positive and fun community for everyone.\nFailure to comply can result in  &lt;font color="#b4a88f" face="lyshineui/fonts/nimbus_semibold.font"&gt;suspension&lt;/font&gt; or even &lt;font color="#b4a88f" face="lyshineui/fonts/nimbus_semibold.font"&gt;banishment.&lt;/font&gt;</string>
+	<string key="legal_codeofconduct_desc">To enter Aeternum, please agree to our Code of Conduct. These guidelines are in place to foster a safe, positive and fun community for everyone.\nFailure to comply can result in &lt;font color="#b4a88f" face="lyshineui/fonts/nimbus_semibold.font"&gt;suspension&lt;/font&gt; or even &lt;font color="#b4a88f" face="lyshineui/fonts/nimbus_semibold.font"&gt;banishment&lt;/font&gt;.</string>
 	<string key="legal_codeofconduct_no_abuse">Protect The Community.</string>
 	<string key="legal_codeofconduct_no_abuse_desc">We will not tolerate harassment, bullying, aggression, insults, threats, verbal abuse, or hateful speech, including prejudiced or demeaning comments about race, gender, sexuality, nationality, ethnicity, religion, age, and disability.</string>
 	<string key="legal_codeofconduct_no_cheating">Play Fair.</string>
-	<string key="legal_codeofconduct_no_cheating_desc">Using cheats, hacks, bots, or other software or services that modify the game, exploit glitches or otherwise give you an unfair advantage is not tolerated.\n\nReal money trading for in-game items of any kind is not allowed under any circumstance.</string>
+	<string key="legal_codeofconduct_no_cheating_desc">Using cheats, hacks, bots, or other software or services that modify the game, exploit glitches, or otherwise give you an unfair advantage is not tolerated.\n\nReal money trading for in-game items of any kind is not allowed under any circumstance.</string>
 	<string key="legal_codeofconduct_no_rmt" comment="rmt=real money trading">Real money trading for in-game items of any kind is not allowed under any circumstance.</string>
 	<string key="legal_codeofconduct_no_griefing">Respect Each Other.</string>
 	<string key="legal_codeofconduct_no_griefing_desc">Griefing, defrauding, trolling, win trading, boosting, falsely reporting another player for abuse, or pretending to be someone else diminishes the experience for others.</string>

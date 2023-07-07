@@ -103,5 +103,6 @@
 	<string key="ui_emote_gather">[{keybind}] Perform {tagName} Emote to Gather</string>
 	<string key="ui_emotetag_dance">Dance</string>
 	<string key="ui_use_item">Use</string>
+	<string key="ui_requires_available_inventory_space">Requires available inventory space</string>
 </resources>
 

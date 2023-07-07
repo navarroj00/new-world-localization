@@ -1,5 +1,6 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="inv_DroppedItems">Dropped Items</string>
+	<string key="inv_Dropped">Dropped</string>
 	<string key="inv_Storage">Storage</string>
 	<string key="inv_itemDamaged">{num} item(s) are heavily damaged. You should repair it soon.</string>
 	<string key="inv_itemBroken">{num} item(s) have been broken</string>
@@ -67,7 +68,7 @@
 	<string key="inv_equipLoadOverburdened">Over-Equipped</string>
 	<string key="inv_equipLoadTooltip">The combined weight of your equipped armor and shield determines your equip load. Each equip load offers a unique dodge and other effects.</string>
 	<string key="inv_equipLoadFastTooltip">• Base Damage: +{[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]}%
-	\n• Outgoing Healing: +30%
+	\n• Damage Based Healing: +30%
 	\n• Your dodge is a quick roll. 
 	\n• Dodge Stamina Cost: {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]}
 	\n• For {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.</string>
@@ -78,7 +79,7 @@
 	\n• For {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.</string>
 	<string key="inv_equipLoadSlowTooltip">• Block Stability: +15%
 	\n• Incoming Crowd Control Duration: -20%
-	\n• Outgoing Healing: -30%
+	\n• Damage Based Healing: -30%
 	\n• Your dodge is a directional step. 
 	\n• Dodge Stamina Cost: {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]}
 	\n• For {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]}s after taking a melee hit, you cannot run.</string>
@@ -129,7 +130,7 @@
 	<string key="fc_campingSiteLvl2">Camping Site Lvl II</string>
 	<string key="fc_campingSiteLvl3">Camping Site Lvl III</string>
 	<string key="fc_campingSiteLvl4">Camping Site Lvl IV</string>
-	<string key="fc_breakCampNotification">Hold [{value}] to unbind from camp</string>
+	<string key="fc_breakCampNotification">Hold {$ui.makeCampOn$} to unbind from camp.</string>
 	<string key="fc_makecamp">Make Camp</string>
 	<string key="fc_breakcamp">Break Camp</string>
 	<string key="fc_weaponsectiontitle">Weapons &amp; Tools</string>
@@ -141,8 +142,8 @@
 	<string key="fc_fieldcrafting">Field Crafting</string>
 	<string key="fc_distance">Distance to camp:</string>
 	<string key="fc_craftingErrorMessage">You do not have the resources to craft this item.</string>
-	<string key="fc_campBroken">Unbound From Camp</string>
-	<string key="ui_currency_self">Can't Transfer Currency to Self</string>
+	<string key="fc_campBroken">Unbound from camp.</string>
+	<string key="ui_currency_self">Can't transfer currency to self.</string>
 	<string key="ui_currency_nameinvalid">Player Name Invalid</string>
 	<string key="ui_currency_namevalid">Player Name Valid</string>
 	<string key="ui_currency_offline">Player Offline</string>
@@ -164,10 +165,10 @@
 	<string key="ui_box_opening_open_another_single">Open Next</string>
 	<string key="ui_box_opening_max_items_reached">+ {quantity} more items</string>
 	<string key="ui_dropall">Drop all</string>
-	<string key="ui_dropall_in_trade">Can't drop items while trading</string>
+	<string key="ui_dropall_in_trade">Can't drop items while trading.</string>
 	<string key="ui_transfer_all_filtered">Cannot move all items in this section while items are filtered.</string>
-	<string key="ui_storeall">Move all to storage shed</string>
-	<string key="ui_filterDescription">&lt;font color="#a6a6a6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Filter by&lt;/font&gt;&lt;/font&gt;\n• Item name\n• Minimum Gear Score (ex: 100)\n• Minimum Tier (ex: T1)\n\n&lt;font color="#a6a6a6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Examples&lt;/font&gt;&lt;/font&gt;\n• Sword 200\n• Axe T1\n• Pick -iron</string>
+	<string key="ui_storeall">Move all to storage shed.</string>
+	<string key="ui_filterDescription">&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;HOW TO USE ITEM FILTER&lt;/font&gt;\n\n&lt;font color={subheaderColor} face="lyshineui/fonts/Nimbus_semibold.font"&gt;Filter by&lt;/font&gt;\n• Item Name (ex: Sword -Axe)\n• Perks/Gems (ex: [Ward] -[Luck])\n• Minimum Gear Score (ex: 100)\n• Minimum Tier (ex: T1)\n\n&lt;font color={subheaderColor} face="lyshineui/fonts/Nimbus_semibold.font"&gt;Examples&lt;/font&gt;\n• Sword 200\n• Axe T1\n• Pick -iron\n• Musket [Electrified]</string>
 	<string key="ui_filterText">Search</string>
 	<string key="ui_filterHeader">Filter item</string>
 	<string key="ui_sort">Sort</string>

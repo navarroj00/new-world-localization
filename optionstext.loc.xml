@@ -178,6 +178,12 @@
 	<string key="ui_subtitles_desc">Show subtitles for dialog</string>
 	<string key="ui_metaachievementpopups">Achievement Notifications</string>
 	<string key="ui_metaachievementpopups_desc">Show a HUD notification when an achievement is completed or nearly completed</string>
+	<string key="ui_enable_territory_notifications">Territory Notifications</string>
+	<string key="ui_enable_territory_notifications_desc">Show HUD notifications relating to Territory control</string>
+	<string key="ui_enable_war_notifications">War/Invasion Notifications</string>
+	<string key="ui_enable_war_notifications_desc">Show HUD notifications relating to Influence, and War/Invasion scheduling and management</string>
+	<string key="ui_enable_housing_notifications">Housing Notifications</string>
+	<string key="ui_enable_housing_notifications_desc">Show HUD notifications relating to Housing</string>
 	<string key="ui_colorBlindness">Color Blindness</string>
 	<string key="ui_colorBlindness_desc">Apply color blindness filter</string>
 	<string key="ui_options_ColorBlindness_NoFilter">No Filter</string>
@@ -255,19 +261,25 @@
 	<string key="ui_leaderboardenabled" rel_version="Feature_Leaderboards">Participate in Leaderboards</string>
 	<string key="ui_leaderboardenabled_desc" rel_version="Feature_Leaderboards">Participating will show your name on the leaderboard and allow you to get rewards</string>
 	<string key="ui_enable_camera_lock">Targeted Healing</string>
-	<string key="ui_enable_camera_lock_description">Enables targeted healing system</string>
+	<string key="ui_enable_camera_lock_description">Enables targeted healing system.</string>
 	<string key="ui_enable_camera_lock_friendlies">Camera Lock Friendlies</string>
 	<string key="ui_enable_camera_lock_friendlies_description">Enables targeting system on friendly targets for healing.</string>
 	<string key="ui_enable_camera_lock_target_follow">Freeform Camera</string>
-	<string key="ui_enable_camera_lock_target_follow_description">Enables freeform camera when locked on target. Disable to have camera follow an active target</string>
+	<string key="ui_enable_camera_lock_target_follow_description">Enables freeform camera when locked on target. Disable to have camera follow an active target.</string>
 	<string key="ui_enable_camera_lock_retarget">Camera Aim Retargeting</string>
-	<string key="ui_enable_camera_lock_retarget_description">Enables target lock changing with camera aim. This is only valid if Freeform Camera is disabled</string>
+	<string key="ui_enable_camera_lock_retarget_description">Enables target lock changing with camera aim. This is only valid if Freeform Camera is disabled.</string>
 	<string key="ui_enable_camera_lock_sticky_lock">Sticky Lock</string>
-	<string key="ui_enable_camera_lock_sticky_lock_description">Enables maintaining target after performing heals</string>
+	<string key="ui_enable_camera_lock_sticky_lock_description">Enables maintaining target after performing heals.</string>
 	<string key="ui_enable_camera_lock_manual_toggle">Manual Target Lock</string>
-	<string key="ui_enable_camera_lock_manual_toggle_description">Enables target lock via middle mouse button without a healing spell active</string>
+	<string key="ui_enable_camera_lock_manual_toggle_description">Enables target lock via middle mouse button without a healing spell active.</string>
 	<string key="ui_enable_camera_lock_group_mode">Group Mode</string>
-	<string key="ui_enable_camera_lock_group_mode_description">Enables group mode that cycles through group members only via middle mouse wheel</string>
+	<string key="ui_enable_camera_lock_group_mode_description">Enables group mode that cycles through group members only via middle mouse wheel.  This option has no fuctionality when in a raid with Raid Targeting via Groups and Hotkeys option is enabled.</string>
+	<string key="ui_enable_camera_lock_select_raid_members_by_group_and_hotkey">Raid Targeting via Groups and Hotkeys</string>
+	<string key="ui_enable_camera_lock_select_raid_members_by_group_and_hotkey_description">Enables raid targeting that cycles through raid groups via middle mouse wheel and target members via hotkeys. Target Group Member key bindings will be required to select targets within a group. Automatically enables Group Mode in raids.</string>
+	<string key="ui_enable_show_healing_hotkeys_in_raid_hud">Show Hotkey Hints in Raid</string>
+	<string key="ui_enable_show_healing_hotkeys_in_raid_hud_description">Shows hotkey hints for each member of the currently selected group when Raid Targeting via Groups and Hotkeys is enabled.</string>
+	<string key="ui_raid_member_hotkeys_unbound_error_title">Group member hotkeys not bound</string>
+	<string key="ui_raid_member_hotkeys_unbound_error_message">Goto Key Bindings to bind all of the Life Staff Combat's Target Group Member inputs to use this feature.</string>
 	<string key="ui_gena_escape" rel_version="Feature_GameEntryNarrationAssistance">Escape</string>
 	<string key="ui_gena" rel_version="Feature_GameEntryNarrationAssistance">Game Entry Narration Assistance</string>
 	<string key="ui_gena_title" rel_version="Feature_GameEntryNarrationAssistance">Game Entry Narration Assistance</string>

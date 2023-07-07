@@ -306,7 +306,7 @@
 	<string key="13A_SQ_21_SwampPerfume_Task_Skin_ElkGland" speaker="UI - Task Description" rel_version="Quest_MSQ2_WeaversFen">Gather {itemName} from stags in northern Weaver’s Fen (Skinning Skill 85 Required)</string>
 	<string key="13A_SQ_21_SwampPerfume_Task_Loot_Chests_Laudanum" speaker="UI - Task Description" rel_version="Quest_MSQ2_WeaversFen">Gather {itemName} from chests in Fenton Hamlet</string>
 	<string key="13A_SQ_21_SwampPerfume_Task_InteractAlchemyStation" speaker="UI - Task Description" rel_version="Quest_MSQ2_WeaversFen">Use the Arcane Repository</string>
-	<string key="13A_SQ_21_SwampPerfume_Task_CraftPerfume" speaker="UI - Task Description" rel_version="Quest_MSQ2_WeaversFen">Craft {itemName}  at the Arcane Repository</string>
+	<string key="13A_SQ_21_SwampPerfume_Task_CraftPerfume" speaker="UI - Task Description" rel_version="Quest_MSQ2_WeaversFen">Craft {itemName} at the Arcane Repository</string>
 	<string key="NPC_P1_PerfumeAlchemist_02" speaker="Tullius Volusus" name="TulliusVolusus" gender="Male" location="Weaver's Fen Wilds" VO="NPC_1334_Alchemist_DefaultDialogue_02" VO_Status="Recorded" rel_version="Quest_MSQ2_WeaversFen">You can close your eyes against sight, plug your ears against sound… but you can't escape the smell, no.</string>
 	<string rel_version="Quest_MSQ2_WeaversFen" xsi:nil="true"/>
 	<string key="NPC_Default_Dialogue_1310_00_Barkeep" speaker="Barkeep Flores - Weaver's Fen" name="BarkeepFlores" gender="Male" location="Settlement, Weaver's Fen" VO="1310_00_Barkeep_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_WeaversFen">Some folks are saying that a warm cup of mead is the perfect way to stave off the illness. \n\nI heartily recommend you take precautions.</string>

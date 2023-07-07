@@ -1,6 +1,6 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_leaderboard_category_war" rel_version="Feature_Leaderboards">War</string>
-	<string key="ui_leaderboard_category_outpostrush" rel_version="Feature_Leaderboards">Outpost Rush</string>
+	<string key="ui_leaderboard_category_outpostrush" rel_version="Feature_Leaderboards">Outpost Rush &lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier" scale="1.0" xPadding="2" yOffset="2"&gt;&lt;/img&gt;</string>
 	<string key="ui_leaderboard_category_darkness" rel_version="Feature_Leaderboards">Corruption Breaches</string>
 	<string key="ui_leaderboard_category_openworldpvp" rel_version="Feature_Leaderboards">Open World PVP</string>
 	<string key="ui_leaderboard_category_war_faction" rel_version="Feature_Leaderboards">Faction Wars</string>
@@ -114,7 +114,6 @@
 	<string key="ui_leaderboard_not_tracked_week" rel_version="Feature_Leaderboards">This stat is not tracked weekly</string>
 	<string key="ui_leaderboard_not_tracked_month" rel_version="Feature_Leaderboards">This stat is not tracked monthly</string>
 	<string key="ui_leaderboard_tip_war_score" rel_version="Feature_Leaderboards">Your War Score is the top score you've received in a war.</string>
-	<string key="ui_leaderboard_tip_outpostrush_score" rel_version="Feature_Leaderboards">Your Outpost Rush Score is the top score you've received in a match.</string>
 	<string key="ui_leaderboard_tip_invasion_score" rel_version="Feature_Leaderboards">Your Invasion Score is the top score you've received in an Invasion.</string>
 	<string key="ui_leaderboard_tip_darkness_score" rel_version="Feature_Leaderboards">You earn one point for each point of XP that a Corruption Breach is worth.</string>
 	<string key="ui_leaderboard_tip_pvparena_score" rel_version="Feature_Leaderboards">Your 3v3 Arena Score is cumulative. Earn more by completing more matches.</string>
@@ -151,5 +150,12 @@
 	<string key="ui_leaderboard_player_deleted" rel_version="Feature_Leaderboards">(Player Deleted)</string>
 	<string key="ui_leaderboard_rewards_top" rel_version="Feature_Leaderboards">Top {number}</string>
 	<string key="ui_leaderboard_category_expedition_empyrean" rel_version="Expedition_GreatCleave_01">Empyrean Forge</string>
+	<string key="ui_leaderboard_category_elitetrials" rel_version="Trial_Brimstone_Sandworm">Elite Trials</string>
+	<string key="ui_leaderboard_display_elitetrials_sandworm1" rel_version="Trial_Brimstone_Sandworm">Trial of the Devourer - Clear Time</string>
+	<string key="ui_leaderboard_display_elitetrials_sandworm2" rel_version="Trial_Brimstone_Sandworm">Trial of the Devourer</string>
+	<string key="ui_leaderboard_tip_outpostrush_score" rel_version="Feature_Leaderboards">&lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier" scale="2.0" xPadding="2" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;Regional Leaderboard&lt;/font&gt;&lt;/font&gt;\n\nYour Outpost Rush Score is the top score you've received in a match.</string>
+	<string key="ui_leaderboard_display_regional">Regional</string>
+	<string key="ui_leaderboard_display_world_archived">World (Archived)</string>
+	<string key="ui_leaderboard_tip_regional_only">&lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier" scale="2.0" xPadding="2" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;Regional Leaderboard&lt;/font&gt;&lt;/font&gt;</string>
 </resources>
 
