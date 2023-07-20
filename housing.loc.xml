@@ -118,6 +118,7 @@
 	<string key="ui_housingDecResult_TimeOut" comment="Housing Décor Result">Cannot place, time out</string>
 	<string key="ui_housingDecResult_Unknown" comment="Housing Décor Result">Unknown placement error</string>
 	<string key="ui_housingDecResult_Waiting" comment="Housing Décor Result">Cannot place, waiting</string>
+	<string key="ui_housingDecResult_HousingTaxesUnpaid" comment="Housing Décor Result">Cannot place, taxes unpaid</string>
 	<string key="ui_active_home_point_fail" comment="Housing Errors">Failed to check in</string>
 	<string key="ui_buildmode_disabled" comment="Housing Errors">Decoration mode is under maintenance and is currently disabled</string>
 	<string key="ui_context_menu_hint" comment="Housing Hints">Options</string>

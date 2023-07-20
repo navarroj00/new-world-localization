@@ -1,5 +1,5 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="ui_navmenu_seasons_rewards" rel_version="Feature_Seasons_Rewards">Season 2</string>
+	<string key="ui_seasons_rewards" rel_version="Feature_Seasons_Rewards">Season Rewards</string>
 	<string key="ui_season_xp" rel_version="Feature_Seasons_Rewards">Season XP</string>
 	<string key="data_season_01_name" rel_version="Season_1_Perm">Season 1: Fellowship &amp; Fire</string>
 	<string key="data_season_01_display_name" rel_version="Season_1_Perm">Season 1</string>
@@ -454,7 +454,7 @@
 	<string key="ui_seasons_task_name_KillStubbles" rel_version="Season_2_Perm">Long Live the King</string>
 	<string key="ui_seasons_task_description_KillStubbles" rel_version="Season_2_Perm">Slay the menace Stubbles the Goat-King</string>
 	<string key="ui_seasons_task_name_GatherPrismabloom_15" rel_version="Season_2_Perm">Passion for Prismablooms</string>
-	<string key="ui_seasons_task_description_GatherPrismabloom_15" rel_version="Season_2_Perm">Gather {maxCount} Prismablooms.</string>
+	<string key="ui_seasons_task_description_GatherPrismabloom_15" rel_version="Season_2_Perm">Gather {maxCount} Desert Rose Prismablooms.</string>
 	<string key="ui_seasons_task_name_KillHeka" rel_version="Season_2_Perm">To Heck with Heka</string>
 	<string key="ui_seasons_task_description_KillHeka" rel_version="Season_2_Perm">Slay Heka of the Crossroads</string>
 	<string key="ui_seasons_task_name_KillDunewalkers_2" rel_version="Season_2_Perm">Demise of the Dunewalkers II</string>
@@ -506,5 +506,6 @@
 	<string key="SeasonsActivities_KillNamedDunewalker" rel_version="Season_2_Perm">Kill a Named Dunewalker enemy</string>
 	<string key="SeasonsActivities_CompleteYahhhh" rel_version="Season_2_Perm">Play YAAAHHHHH!</string>
 	<string key="SeasonsActivities_Gather1MaudlinDust" rel_version="Season_2_Perm">Gather Maudlindust</string>
+	<string key="SeasonsActivities_Gather3AeternumSturgeon" rel_version="Season_2_Perm">Gather Aeternum Sturgeon</string>
 </resources>
 

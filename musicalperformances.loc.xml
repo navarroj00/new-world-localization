@@ -132,6 +132,8 @@
 	<string key="ui_musicinstrument" rel_version="Feature_MusicalPerformances">Music Instrument</string>
 	<string key="MusicBuff_Maudlinbug_Waltz_Name" rel_version="Feature_MusicalPerformances">Maudlinbug Haze</string>
 	<string key="MusicBuff_Maudlinbug_Waltz_Desc" rel_version="Feature_MusicalPerformances">A captivating tune with the ability to entrance and capture Maudlinbugs.</string>
+	<string key="MusicBuff_ShredlyFair_Name" rel_version="Event_Summer2023_Perm">Shredly Fair</string>
+	<string key="MusicBuff_ShredlyFair_Desc" rel_version="Event_Summer2023_Perm">Shred out this complex tune at a Medleyfaire Village for a Premium Token, up to 3x a day.</string>
 	<string key="MusicBuff_NoReward_Name" rel_version="Feature_MusicalPerformances">No Effect</string>
 	<string key="MusicBuff_NoReward_Desc" rel_version="Feature_MusicalPerformances">No reward selected.</string>
 	<string key="PerkID_MusicalInstrument_OpeningNotesPerfect_Name" rel_version="Feature_MusicalPerformances">Opening Act</string>
@@ -204,5 +206,18 @@
 	<string key="songtitle_That_Damn_Fish" rel_version="Feature_MusicalPerformancesV2">That Damn Fish</string>
 	<string key="songtitle_Soup_Of_The_Day" rel_version="Feature_MusicalPerformancesV2">Soup Of The Day</string>
 	<string key="songtitle_Canarios" rel_version="Feature_MusicalPerformancesV2">Canarios</string>
+	<string key="songtitle_The_OldWood" rel_version="Feature_MusicalPerformancesV3">The Old Wood</string>
+	<string key="songtitle_Tavern_Blues" rel_version="Feature_MusicalPerformancesV3">Last Call</string>
+	<string key="songtitle_Wayfaring_Stranger" rel_version="Feature_MusicalPerformancesV3">Wayfaring Stranger</string>
+	<string key="songtitle_Second_Coming" rel_version="Feature_MusicalPerformancesV3">Memories Of Brightwood</string>
+	<string key="songtitle_Old_Windsward_Shack" rel_version="Feature_MusicalPerformancesV3">Old Windsward Shack</string>
+	<string key="songtitle_9_Pound_Hammer" rel_version="Feature_MusicalPerformancesV3">9 Pound Hammer</string>
+	<string key="songtitle_Sap_Of_Brightwood" rel_version="Feature_MusicalPerformancesV3">Sap Of Brightwood</string>
+	<string key="songtitle_Freestyle_B" rel_version="Feature_MusicalPerformancesV3">Pirate Flyting</string>
+	<string key="songtitle_My_Beef_Is_With_The_Butcher" rel_version="Feature_MusicalPerformancesV3">Stoke The Forge</string>
+	<string key="songtitle_Gatherers_Rush" rel_version="Feature_MusicalPerformancesV3">Gatherers' Rush</string>
+	<string key="songtitle_Sword_And_Board" rel_version="Feature_MusicalPerformancesV3">Trading Post Hustle</string>
+	<string key="songtitle_Honor_Of_The_Warrior" rel_version="Feature_MusicalPerformancesV3">Honor Of The Warrior</string>
+	<string key="songtitle_YAAAHHHH" rel_version="Event_Summer2023_Perm">YAAAHHHH!</string>
 </resources>
 

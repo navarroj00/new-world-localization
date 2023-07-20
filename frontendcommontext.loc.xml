@@ -175,7 +175,7 @@
 	<string key="mm_rejected_Character_Registry_Failure">Server error: Character registry failure.</string>
 	<string key="mm_rejected_Grid_Too_Busy">Server error: Region is too busy, please try again later.</string>
 	<string key="mm_rejected_No_Ghost_Client">Server error: Failed to start replication.</string>
-	<string key="mm_rejected_Server_Crash">Unexpectedly lost contact with gameplay server, please try again later.</string>
+	<string key="mm_rejected_Server_Crash">Unexpectedly lost contact with gameplay server. Reconnecting...</string>
 	<string key="mm_rejected_Free_Session_Expired_Title">Free Play Time Expired.</string>
 	<string key="mm_rejected_Free_Session_Expired">Your free play time has come to an end. Click Ok to return to the Main Menu.</string>
 	<string key="mm_rejected_Client_Kicked_Login_Ticket_Error">Login ticket is not valid for the world</string>

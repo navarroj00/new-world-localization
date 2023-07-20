@@ -1896,6 +1896,9 @@
 	<string key="Procedural_GauntletVoidT3_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
 	<string key="Procedural_GauntletVoidT4_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
 	<string key="Procedural_GauntletVoidT5_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
+	<string key="FiletToken" rel_version="Event_Summer_Temp">Medleyfaire Token - Filet</string>
+	<string key="ScaleToken" rel_version="Event_Summer_Temp">Medleyfaire Token - Scale</string>
+	<string key="DustToken" rel_version="Event_Summer_Temp">Medleyfaire Token - Maudlindust</string>
 	<string key="ScrapExtractMetalT2">Extract Metal - Iron</string>
 	<string key="ScrapExtractMetalT3">Extract Metal - Steel</string>
 	<string key="ScrapExtractMetalT4">Extract Metal - Starmetal</string>
@@ -1908,7 +1911,7 @@
 	<string key="ScrapExtractClothT3">Extract Cloth - Sateen</string>
 	<string key="ScrapExtractClothT4">Extract Cloth - Silk</string>
 	<string key="ScrapExtractClothT5">Extract Cloth - Infused Silk</string>
-	<string key="ScrapExtractClothT51">Extract Cloth - Pheonixweave</string>
+	<string key="ScrapExtractClothT51">Extract Cloth - Phoenixweave</string>
 	<string key="ScrapExtractLeatherT2">Extract Leather - Coarse</string>
 	<string key="ScrapExtractLeatherT3">Extract Leather - Rugged</string>
 	<string key="ScrapExtractLeatherT4">Extract Leather - Layered</string>

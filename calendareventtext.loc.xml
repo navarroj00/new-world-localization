@@ -19,6 +19,37 @@
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Azoth Salt is a currency that allows you to acquire rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, killing players in the open world, and earning XP while flagged.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">REWARDS</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
+	<string key="ui_event_summer_rank_0" rel_version="Event_Summer_Temp">Minstrel</string>
+	<string key="ui_event_summer_rank_1" rel_version="Event_Summer_Temp">Troubadour</string>
+	<string key="ui_event_summer_rank_2" rel_version="Event_Summer_Temp">Bard</string>
+	<string key="ui_event_summer_rank_3" rel_version="Event_Summer_Temp">Virtuoso</string>
+	<string key="ui_event_summer_rank_4" rel_version="Event_Summer_Temp">Maestro</string>
+	<string key="ui_event_summer_shop_header" rel_version="Event_Summer_Temp">Summer Medleyfaire Shop</string>
+	<string key="ui_event_summer_progress_name" rel_version="Event_Summer_Temp">Event Reputation</string>
+	<string key="ui_event_summer_panel1_title" rel_version="Event_Summer_Temp">SUMMER MEDLEYFAIRE IS HERE</string>
+	<string key="ui_event_summer_panel1_subtitle" rel_version="Event_Summer_Temp">Event starts on {startDate}</string>
+	<string key="ui_event_summer_panel1_bullet1_title" rel_version="Event_Summer_Temp">LIMITED TIME ACTIVITIES</string>
+	<string key="ui_event_summer_panel1_bullet1_text" rel_version="Event_Summer_Temp">Hit the dance floor, perform music, catch Maudlinbug bait and fish up the exceptionally delectable Aeternum Sturgeons to feed the festival; the Medleyfaire abounds with activities for all!\n\nBe certain to visit the Mount-A-Catch station to craft mementos of your proudest catches!</string>
+	<string key="ui_event_summer_panel1_bullet2_title" rel_version="Event_Summer_Temp">MEDLEYFAIRE REWARDS</string>
+	<string key="ui_event_summer_panel1_bullet2_text" rel_version="Event_Summer_Temp">Summer breezes and the Medleyfaire Maestro bring with them new armors, skins, emotes, and a bounty of décor items themed off the colorfully energetic Summer Medleyfaire!\n\n“Dance and shop 'til you drop!” - Medleyfaire Maestro</string>
+	<string key="ui_event_summer_panel1_bullet3_title" rel_version="Event_Summer_Temp">MEDLEYFAIRE VENUES</string>
+	<string key="ui_event_summer_panel1_bullet3_text" rel_version="Event_Summer_Temp">The Medleyfaire Maestro has set up four venues to accommodate the bubbling energy of Summer Medleyfaire! Visit these locations to meet the host, staff, and guests. Carry out their holiday quests and spread joy across Aeternum!\n(Questline unlocks at level 20)</string>
+	<string key="ui_event_summer_panel2_title" rel_version="Event_Summer_Temp">MEDLEYFAIRE STAGE-HANDS</string>
+	<string key="ui_event_summer_panel2_subtitle" rel_version="Event_Summer_Temp">Celebrate Summer Medleyfaire in Aeternum by spreading festival vibes across the settlements! Complete Medleyfaire Town Projects to upgrade each settlement's Medleyfaire Stage centerpiece to enhance its beauty and unlock increasingly valuable daily rewards!</string>
+	<string key="ui_event_summer_panel3_title" rel_version="Event_Summer_Temp">HEAVY METAL THEMED STORE ITEMS</string>
+	<string key="ui_event_summer_panel3_subtitle" rel_version="Event_Summer_Temp">Check the store for exclusive heavy metal themed cosmetics and décor items!</string>
+	<string key="ui_event_summer_lastday_panel1_title" rel_version="Event_Summer_Temp">SUMMER MEDLEYFAIRE FINAL DAY</string>
+	<string key="ui_event_summer_lastday_panel1_subtitle" rel_version="Event_Summer_Temp">This year's Medleyfaire is drawing to a close. Final chance to earn as many Medleyfaire Rewards as possible!\n\n(Medleyfaire Tokens and other event-limited items will be removed upon the events conclusion)</string>
+	<string key="ui_event_summer_lastday_ending_button" rel_version="Event_Summer_Temp">OK!</string>
+	<string key="ui_event_summer_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About Summer Medleyfaire</string>
+	<string key="ui_event_2xfishing_panel1_title" rel_version="Event_Summer_Temp">FISHING AND MUSIC DOUBLE XP WEEKEND!</string>
+	<string key="ui_event_2xfishing_panel1_subtitle" rel_version="Event_Summer_Temp">Enjoy Double XP for Fishing and Musical Instruments trade skills each weekend throughout the Summer Medleyfaire event!</string>
+	<string key="ui_event_2xfishing_ending_button" rel_version="Event_Summer_Temp">Sweet!</string>
+	<string key="ui_event_2xfishing_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About Fishing and Music for Double XP</string>
+	<string key="ui_event_barnacles_panel1_title" rel_version="Event_Summer_Temp">BARNACLES &amp; BLACK POWDER</string>
+	<string key="ui_event_barnacles_panel1_subtitle" rel_version="Event_Summer_Temp">Rumors of a legendary treasure called the Ocean Heart hidden just off the coast have circulated in Cutlass Keys. This treasure has been rumored to carry powers of dominion and control and could threaten the settlement of Cutlass Keys and beyond.</string>
+	<string key="ui_event_barnacles_ending_button" rel_version="Event_Summer_Temp">Yarrr!</string>
+	<string key="ui_event_barnacles_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About Barnacles &amp; Black Powder</string>
 	<string key="ui_event_weapon_xp_tabname">XP Event</string>
 	<string key="ui_event_weapon_xp_title">WEAPON XP BONUS EVENT</string>
 	<string key="ui_event_weapon_xp_desc">Active bonuses:</string>
@@ -201,6 +232,12 @@
 	<string key="ui_event_first_light_fallen_descriptionbullet4" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Housing:&lt;/b&gt; A compensation for the loss of housing has been made. All furniture from your home has been placed in the storage.</string>
 	<string key="ui_event_first_light_fallen_descriptionbullet5" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Governing Company:&lt;/b&gt; A one-time deposit has been paid into your treasury for the loss of the territory.</string>
 	<string key="ui_event_first_light_fallen_about" rel_version="Territory_FirstLightRetraction">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About First Light Has Fallen</string>
+	<string key="ui_event_summer_medleyfaire_2023_title" rel_version="Event_Summer2023_Perm">Reel fun awaits at the Medleyfaire!</string>
+	<string key="ui_event_summer_medleyfaire_2023_description" rel_version="Event_Summer2023_Perm">Aeternum's summer festival returns! Unlock a new jam by completing Event Activities; then strum away to collect Medleyfaire tokens and a new title. Celebrate at the festival grounds in Monarch's Bluff, Everfall, Brightwood, and Weavers Fen.</string>
+	<string key="ui_event_summer_medleyfaire_2023_bullet1" rel_version="Event_Summer2023_Perm">Maestro Hat</string>
+	<string key="ui_event_summer_medleyfaire_2023_bullet2" rel_version="Event_Summer2023_Perm">Weapon Skins</string>
+	<string key="ui_event_summer_medleyfaire_2023_bullet3" rel_version="Event_Summer2023_Perm">Emotes</string>
+	<string key="ui_event_summer_medleyfaire_2023_about" rel_version="Event_Summer2023_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Summer Medleyfaire</string>
 	<string key="ui_event_arena_shah_neshen_title" rel_version="Trial_Brimstone_Sandworm">Arena of Shah Neshen</string>
 	<string key="ui_event_arena_shah_neshen_description" rel_version="Trial_Brimstone_Sandworm">The rekindled fires of Ennead called the primal terror from the deep beneath the sands. Now the Great Devourer stalks the dunes of Brimstone once again. Gather your bravest warriors at the Ambuscade. Can you defeat the spawn of the Titans? \n\n&lt;font color="#edc63e"&gt;Requires 20 person raid group.&lt;/font&gt;</string>
 	<string key="ui_event_arena_shah_neshen_bullet1" rel_version="Trial_Brimstone_Sandworm">Armor Skins</string>
