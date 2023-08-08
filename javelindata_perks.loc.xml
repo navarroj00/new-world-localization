@@ -1162,7 +1162,7 @@
 	<string key="PerkID_Ability_Spear_Javelin_Name">Sundering Javelin</string>
 	<string key="PerkID_Ability_Spear_Javelin_Description">Javelin inflicts Rend to targets above {[GlobalAbilityTable.GlobalPerk_Ability_Spear_Javelin.TargetHealthPercent]}% Health, reducing the target's armor by {[Type_StatusEffectData.Status_Perk_Spear_Javelin_Rend.PhysicalArmor * -100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Spear_Javelin_Rend.BaseDuration]}s.</string>
 	<string key="PerkID_Ability_Spear_Cyclone_Name">Leeching Cyclone</string>
-	<string key="PerkID_Ability_Spear_Cyclone_Description">Cyclone hits heal you for {[GlobalAbilityTable.GlobalPerk_Ability_Spear_Cyclone.DmgPctToHealth * 100 * {perkMultiplier}]}% of weapon damage.</string>
+	<string key="PerkID_Ability_Spear_Cyclone_Description">Cyclone hits heal you for {[GlobalAbilityTable.GlobalPerk_Ability_Spear_Cyclone.DmgPctToHealth * 100 * {perkMultiplier}]}% of weapon damage. (Limit {[GlobalAbilityTable.GlobalPerk_Ability_Spear_Cyclone.NumberOfTrackedHits]} activations per use)</string>
 	<string key="PerkID_Ability_Spear_Perforate_Name">Fortifying Perforate</string>
 	<string key="PerkID_Ability_Spear_Perforate_Description">Perforate hits gain a stack of Fortify, increasing your armor by {[Type_StatusEffectData.Status_Perk_Spear_Perforate_Fortify.PhysicalArmor * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Spear_Perforate_Fortify.BaseDuration]}s.</string>
 	<string key="PerkID_Ability_Spear_Skewer_Name">Enfeebling Skewer</string>

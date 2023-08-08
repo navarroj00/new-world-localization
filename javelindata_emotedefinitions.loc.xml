@@ -341,7 +341,7 @@
 	<string key="emote_TwirlDance" rel_version="Event_Halloween_Perm">{playerName} does a dainty twirl.</string>
 	<string key="ui_emote_Alas_name" rel_version="Emote_Alas">Alas</string>
 	<string key="ui_emote_Alas_description" rel_version="Emote_Alas">Woe is me.</string>
-	<string key="emote_Alas" rel_version="Emote_Alas">{playerName} sighs.</string>
+	<string key="emote_Alas" rel_version="Emote_Alas">{playerName} sighs dramatically.</string>
 	<string key="ui_emote_WarHorn_name" rel_version="Emote_WarHorn">War Horn</string>
 	<string key="ui_emote_WarHorn_description" rel_version="Emote_WarHorn">Sound the call. We go to war!</string>
 	<string key="emote_WarHorn" rel_version="Emote_WarHorn">{playerName} blows a war horn.</string>
@@ -488,5 +488,11 @@
 	<string key="ui_emote_Thanks_name" rel_version="Emote_Thanks">Thanks</string>
 	<string key="ui_emote_Thanks_description" rel_version="Emote_Thanks">Much appreciated!</string>
 	<string key="Emote_Thanks" rel_version="Emote_Thanks">{playerName} makes a gesture of appreciation.</string>
+	<string key="ui_Emote_BlowBubbles_name">Blow Bubbles</string>
+	<string key="ui_Emote_BlowBubbles_description">Fill the air with shimmering bubbles.</string>
+	<string key="Emote_BlowBubbles">{playerName} blows bubbles.</string>
+	<string key="ui_Emote_Walk_Viking_name">Viking Walk</string>
+	<string key="ui_Emote_Walk_Viking_description">No one's sure if all Vikings walk like this, but at least one did.</string>
+	<string key="Emote_Walk_Viking">{playerName} walks assertively, but with style.</string>
 </resources>
 
