@@ -994,6 +994,7 @@
 	<string key="ui_xp_multiplier_arrow" comment="The leading space is intentional">x {bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1.1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_reached_max_daily_pvp_arena_rewards">Daily PvP Arena Salt Limit Reached!</string>
 	<string key="ui_reached_max_fort_takeover_rewards">Daily Fort Takeover Rewards Limit Reached!</string>
+	<string key="ui_reached_max_daily_fotb_rafflebones">Fortunes of the Bold Rafflebones daily limit reached</string>
 	<string key="world_landing_title">The optimal WORLD has been selected for you</string>
 	<string key="world_set">World Set?</string>
 	<string key="world_set_title">*What is a World Set?</string>
@@ -2714,10 +2715,14 @@
 	<string key="ui_transmog_error_skin_not_unlocked">Transmog failed: Skin is not unlocked</string>
 	<string key="ui_transmog_error_no_item_equipped">Transmog failed: Slot is empty</string>
 	<string key="ui_transmog_error_mismatch_item_class">Transmog failed: Cannot equip skin to mismatched types</string>
+	<string key="ui_transmog_error_skin_already_applied">Transmog failed: Appearance already applied on item</string>
+	<string key="ui_transmog_error_apply_skin_pending">Transmog failed: Pending appearance change on item</string>
 	<string key="ui_transmog_error_generic">Transmog Error</string>
 	<string key="ui_transmog_npc_name">Stylemancer</string>
 	<string key="ui_transmog_npc_tooltip">Create skins from items you've collected by using &lt;img src="lyshineui/images/icons/items/currency/transmogtokensmall" xPadding="0" scale="2.2" yOffset="6.0"&gt;&lt;/img&gt; Transmog Tokens.</string>
 	<string key="ui_transmog_dyeing_previews_disabled">Can't Dye Previewed Skins</string>
+	<string key="ui_transmog_services_unavailable_title">Transmog Services Unavailable</string>
+	<string key="ui_transmog_services_unavailable_message">Transmog is currently unavailable, please try again later</string>
 	<string key="ui_unclaimed_seasons_rewards">Unclaimed Season Rewards</string>
 	<string key="generic_list_2">{item1} and {item2}</string>
 	<string key="generic_list_3">{item1}, {item2}, and {item3}</string>
@@ -2727,5 +2732,6 @@
 	<string key="ui_equipment_combat_view_button">View Combat Equipment</string>
 	<string key="ui_equipment_tools_view_button">View Tools, Bags, and Instruments</string>
 	<string key="views_tutorial">Select the tools view to access tools, bags, and instruments.</string>
+	<string key="ui_reached_max_daily_fotb_rafflebones">Fortunes of the Bold Rafflebones daily limit reached</string>
 </resources>
 

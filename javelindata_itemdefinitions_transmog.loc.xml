@@ -1363,7 +1363,7 @@
 	<string key="femininehatt2_head_TransmogName">Pretty Light Headwear</string>
 	<string key="femininechestt2_chest_TransmogName">Pretty Light Chestwear</string>
 	<string key="femininechestt3_gloves_TransmogName">Prim Light Handwear</string>
-	<string key="male_pantst3angel_thighs_TransmogName">Prim Light Legwear</string>
+	<string key="pantst3angel_legs_TransmogName">Prim Light Legwear</string>
 	<string key="femininet3_shoes_feet_TransmogName">Prim Light Footwear</string>
 	<string key="femininechestt3_chest_TransmogName">Prim Light Chestwear</string>
 	<string key="femininehatt3_head_TransmogName">Prim Light Headwear</string>
@@ -1774,7 +1774,7 @@
 	<string key="1hSkinningKnifeT3_TransmogName">Steel Skinning Knife</string>
 	<string key="1hSkinningKnifeT4_TransmogName">Starmetal Skinning Knife</string>
 	<string key="1hSkinningKnifeT5_TransmogName">Orichalcum Skinning Knife</string>
-	<string key="1hHatchetT1_TransmogName">Flint Logging Axe</string>
+	<string key="1hHatchetT1_TransmogName">Flint Hatchet</string>
 	<string key="MandolinT2_TransmogName" rel_version="Feature_MusicalPerformances">Apprentice's Mandolin</string>
 	<string key="MandolinT3_TransmogName" rel_version="Feature_MusicalPerformances">Musician's Mandolin</string>
 	<string key="MandolinT4_TransmogName" rel_version="Feature_MusicalPerformances">Composer's Mandolin</string>
@@ -2134,23 +2134,23 @@
 	<string key="2hStaffLife_NewfoundLongingT5_TransmogName">Newfound Longing Life Staff</string>
 	<string key="2hStaffLife_SalvationT5_TransmogName">Salvation Life Staff</string>
 	<string key="2hStaffLife_UnspokenDesireT5_TransmogName">Unspoken Desire Life Staff</string>
-	<string key="1hRshield_DeterminationT2_TransmogName">Determination Round shield</string>
-	<string key="1hRshield_QuiescenseT2_TransmogName">Quiescence Round shield</string>
-	<string key="1hRshield_IronyT3_TransmogName">Irony Round shield</string>
-	<string key="1hRshield_UmbraT3_TransmogName">Umbra Round shield</string>
-	<string key="1hRshield_DutyboundT4_TransmogName">Dutybound Round shield</string>
-	<string key="1hRshield_GovernessT5_TransmogName">Governess Round shield</string>
-	<string key="1hRshield_WearyTravelerT5_TransmogName">Weary Traveler Round shield</string>
-	<string key="1hKshield_TheWallT3_TransmogName">The Wall Kite Shield</string>
-	<string key="1hKshield_KnightErrantT4_TransmogName">Knight Errant Kite Shield</string>
-	<string key="1hKshield_HawkfallT4_TransmogName">Hawkfall Kite Shield</string>
-	<string key="1hKshield_ServitudeT4_TransmogName">Servitude Kite Shield</string>
-	<string key="1hKshield_BastionT4_TransmogName">Bastion Kite Shield</string>
-	<string key="1hKshield_EternalShadeT5_TransmogName">Eternal Shade Kite Shield</string>
-	<string key="1hKshield_TolerantHoundT5_TransmogName">Tolerant Hound Kite Shield</string>
-	<string key="1hKshield_WithNoOtherT5_TransmogName">With No Other Kite Shield</string>
-	<string key="1hKshield_CompulsionT5_TransmogName">Compulsion Kite Shield</string>
-	<string key="1hKshield_RefugeT5_TransmogName">Refuge Kite Shield</string>
+	<string key="1hRShield_DeterminationT2_TransmogName">Determination Round Shield</string>
+	<string key="1hRShield_QuiescenseT2_TransmogName">Quiescence Round Shield</string>
+	<string key="1hRShield_IronyT3_TransmogName">Irony Round Shield</string>
+	<string key="1hRShield_UmbraT3_TransmogName">Umbra Round Shield</string>
+	<string key="1hRShield_DutyboundT4_TransmogName">Dutybound Round Shield</string>
+	<string key="1hRShield_GovernessT5_TransmogName">Governess Round Shield</string>
+	<string key="1hRShield_WearyTravelerT5_TransmogName">Weary Traveler Round Shield</string>
+	<string key="1hKShield_TheWallT3_TransmogName">The Wall Kite Shield</string>
+	<string key="1hKShield_KnightErrantT4_TransmogName">Knight Errant Kite Shield</string>
+	<string key="1hKShield_HawkfallT4_TransmogName">Hawkfall Kite Shield</string>
+	<string key="1hKShield_ServitudeT4_TransmogName">Servitude Kite Shield</string>
+	<string key="1hKShield_BastionT4_TransmogName">Bastion Kite Shield</string>
+	<string key="1hKShield_EternalShadeT5_TransmogName">Eternal Shade Kite Shield</string>
+	<string key="1hKShield_TolerantHoundT5_TransmogName">Tolerant Hound Kite Shield</string>
+	<string key="1hKShield_WithNoOtherT5_TransmogName">With No Other Kite Shield</string>
+	<string key="1hKShield_CompulsionT5_TransmogName">Compulsion Kite Shield</string>
+	<string key="1hKShield_RefugeT5_TransmogName">Refuge Kite Shield</string>
 	<string key="2hWarhammer_EarthshakerT2_TransmogName">Earthshaker War Hammer</string>
 	<string key="2hWarhammer_ForcefulRebukeT2_TransmogName">Forceful Rebuke War Hammer</string>
 	<string key="2hWarhammer_WarmongerT3_TransmogName">Warmonger War Hammer</string>
@@ -2274,7 +2274,7 @@
 	<string key="2hGreatswordWraithHunterHellfireT5_TransmogName" rel_version="Hellfire_Inject_Weapon">Hellfire Wraith Hunter Greatsword</string>
 	<string key="2hBowGraverobberT5_TransmogName">Mausoleum Guard's Bow</string>
 	<string key="2hGreatAxeGraverobberT5_TransmogName">Mausoleum Guard's Great Axe</string>
-	<string key="1hKiteshieldGraverobberT5_TransmogName">Mausoleum Guard's Kite Shield</string>
+	<string key="1hKiteShieldGraverobberT5_TransmogName">Mausoleum Guard's Kite Shield</string>
 	<string key="1hSwordGraverobberT5_TransmogName">Mausoleum Guard's Longsword</string>
 	<string key="2hMusketGraverobberT5_TransmogName">Mausoleum Guard's Musket</string>
 	<string key="1hRapierGraverobberT5_TransmogName">Mausoleum Guard's Rapier</string>
@@ -2284,14 +2284,14 @@
 	<string key="2hWarhammerGraverobberT5_TransmogName">Mausoleum Guard's War Hammer</string>
 	<string key="1hfirestaffGraverobberT5_TransmogName">Mausoleum Guard's Fire Staff</string>
 	<string key="1hlifestaffGraverobberT5_TransmogName">Mausoleum Guard's Life Staff</string>
-	<string key="1hTowershieldGraverobberT5_TransmogName">Mausoleum Guard's Tower Shield</string>
+	<string key="1hTowerShieldGraverobberT5_TransmogName">Mausoleum Guard's Tower Shield</string>
 	<string key="1hicegauntletGraverobberT5_TransmogName">Mausoleum Guard's Ice Gauntlet</string>
 	<string key="1hvoidgauntletGraverobberT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Mausoleum Guard's Void Gauntlet</string>
 	<string key="2hBlunderbussGraverobberT5_TransmogName" rel_version="Weapon_Blunderbuss">Mausoleum Guard's Blunderbuss</string>
 	<string key="2hGreatswordGraverobberT5_TransmogName" rel_version="Weapon_GreatSword">Mausoleum Guard's Greatsword</string>
 	<string key="2hBowGraverobberT3_TransmogName">Graverobber Bow</string>
 	<string key="2hGreatAxeGraverobberT3_TransmogName">Graverobber Great Axe</string>
-	<string key="1hKiteshieldGraverobberT3_TransmogName">Graverobber Kite Shield</string>
+	<string key="1hKiteShieldGraverobberT3_TransmogName">Graverobber Kite Shield</string>
 	<string key="1hSwordGraverobberT3_TransmogName">Graverobber Longsword</string>
 	<string key="2hMusketGraverobberT3_TransmogName">Graverobber Musket</string>
 	<string key="1hRapierGraverobberT3_TransmogName">Graverobber Rapier</string>
@@ -2301,7 +2301,7 @@
 	<string key="2hWarhammerGraverobberT3_TransmogName">Graverobber War Hammer</string>
 	<string key="1hfirestaffGraverobberT3_TransmogName">Graverobber Fire Staff</string>
 	<string key="1hlifestaffGraverobberT3_TransmogName">Graverobber Life Staff</string>
-	<string key="1hTowershieldGraverobberT3_TransmogName">Graverobber Tower Shield</string>
+	<string key="1hTowerShieldGraverobberT3_TransmogName">Graverobber Tower Shield</string>
 	<string key="1hicegauntletGraverobberT3_TransmogName">Graverobber Ice Gauntlet</string>
 	<string key="1hvoidgauntletGraverobberT3_TransmogName" rel_version="Weapon_Void_Gauntlet">Graverobber Void Gauntlet</string>
 	<string key="2hBlunderbussGraverobberT3_TransmogName" rel_version="Weapon_Blunderbuss">Graverobber Blunderbuss</string>
@@ -2592,7 +2592,6 @@
 	<string key="2hVoidGauntletFanaticT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Fanatic Void Gauntlet</string>
 	<string key="2hBlunderbussFanaticT5_TransmogName" rel_version="Weapon_Blunderbuss">Fanatic Blunderbuss</string>
 	<string key="2hGreatswordFanaticT5_TransmogName" rel_version="Weapon_GreatSword">Fanatic Greatsword</string>
-	<string key="VoidGauntletFanatic_OrthoT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Fanatic Void Gauntlet</string>
 	<string key="2hBowDefiledT5_TransmogName">Defiled Bow</string>
 	<string key="2hGreatAxeDefiledT5_TransmogName">Defiled Great Axe</string>
 	<string key="1hKiteShieldDefiledT5_TransmogName">Defiled Kite Shield</string>
@@ -2714,17 +2713,17 @@
 	<string key="2hGreatswordEvilKnightT4_TransmogName" rel_version="Weapon_GreatSword">Varangian Lieutenant Greatsword</string>
 	<string key="2hbowShatteredObelisk_TransmogName">Ancient Warrior Bow</string>
 	<string key="2hgreataxeShatteredObelisk_TransmogName">Ancient Warrior Great Axe</string>
-	<string key="1hkiteshieldShatteredObelisk_TransmogName">Ancient Warrior Kite Shield</string>
+	<string key="1hkiteShieldShatteredObelisk_TransmogName">Ancient Warrior Kite Shield</string>
 	<string key="1hlongswordShatteredObelisk_TransmogName">Ancient Warrior Longsword</string>
 	<string key="2hmusketShatteredObelisk_TransmogName">Ancient Warrior Musket</string>
 	<string key="1hrapierShatteredObelisk_TransmogName">Ancient Warrior Rapier</string>
-	<string key="1hroundshieldShatteredObelisk_TransmogName">Ancient Warrior Round Shield</string>
+	<string key="1hroundShieldShatteredObelisk_TransmogName">Ancient Warrior Round Shield</string>
 	<string key="2hspearShatteredObelisk_TransmogName">Ancient Warrior Spear</string>
 	<string key="1hthrowingaxeShatteredObelisk_TransmogName">Ancient Warrior Hatchet</string>
 	<string key="2hwarhammerShatteredObelisk_TransmogName">Ancient Warrior War Hammer</string>
 	<string key="2hfirestaffShatteredObelisk_TransmogName">Ancient Warrior Fire Staff</string>
 	<string key="2hlifestaffShatteredObelisk_TransmogName">Ancient Warrior Life Staff</string>
-	<string key="1htowershieldShatteredObelisk_TransmogName">Ancient Warrior Tower Shield</string>
+	<string key="1htowerShieldShatteredObelisk_TransmogName">Ancient Warrior Tower Shield</string>
 	<string key="1hicegauntletShatteredObelisk_TransmogName">Ancient Warrior Ice Gauntlet</string>
 	<string key="1hvoidgauntletShatteredObelisk_TransmogName" rel_version="Weapon_Void_Gauntlet">Ancient Warrior Void Gauntlet</string>
 	<string key="2hBlunderbussShatteredObeliskT5_TransmogName" rel_version="Weapon_Blunderbuss">Ancient Warrior Blunderbuss</string>
@@ -2735,7 +2734,7 @@
 	<string key="1hstraightWaterloggedSirenS_TransmogName">Siren Longsword</string>
 	<string key="2hMusketWaterloggedSirenS_TransmogName">Siren Musket</string>
 	<string key="1hrapierWaterloggedSirenS_TransmogName">Siren Rapier</string>
-	<string key="1hroundshieldWaterloggedSirenS_TransmogName">Siren Round Shield</string>
+	<string key="1hroundShieldWaterloggedSirenS_TransmogName">Siren Round Shield</string>
 	<string key="2hSpearWaterloggedSirenS_TransmogName">Siren Spear</string>
 	<string key="1hHatchetWaterloggedSirenS_TransmogName">Siren Hatchet</string>
 	<string key="2hwarhammerWaterloggedSirenS_TransmogName">Siren War Hammer</string>
@@ -2752,7 +2751,7 @@
 	<string key="1hstraightWaterloggedSiren_TransmogName">Dark Tide Longsword</string>
 	<string key="2hMusketWaterloggedSiren_TransmogName">Dark Tide Musket</string>
 	<string key="1hrapierWaterloggedSiren_TransmogName">Dark Tide Rapier</string>
-	<string key="1hroundshieldWaterlogged_TransmogName">Dark Tide Round Shield</string>
+	<string key="1hroundShieldWaterlogged_TransmogName">Dark Tide Round Shield</string>
 	<string key="2hSpearWaterloggedSiren_TransmogName">Dark Tide Spear</string>
 	<string key="1hHatchetWaterloggedSiren_TransmogName">Dark Tide Hatchet</string>
 	<string key="2hwarhammerWaterloggedSiren_TransmogName">Dark Tide War Hammer</string>
@@ -2814,7 +2813,7 @@
 	<string key="1HswordBT4_TransmogName">Starmetal Rapier</string>
 	<string key="1HswordBT5_TransmogName">Orichalcum Rapier</string>
 	<string key="1hSwordT1_TransmogName">Wood Longsword</string>
-	<string key="1hSwordT2_FTUE_TransmogName">Wood Longsword</string>
+	<string key="1hSwordT2_FTUE_TransmogName">Worn Longsword</string>
 	<string key="1hSwordT2_TransmogName">Iron Longsword</string>
 	<string key="1hSwordT3_TransmogName">Steel Longsword</string>
 	<string key="1hSwordT4_TransmogName">Starmetal Longsword</string>
@@ -3050,640 +3049,640 @@
 	<string key="1hShieldTower_SyndicateT5_TransmogName">Syndicate Alchemist Tower Shield</string>
 	<string key="1hShieldTower_CovenantT4_TransmogName">Covenant Lumen Tower Shield</string>
 	<string key="1hShieldTower_CovenantT5_TransmogName">Covenant Adjudicator Tower Shield</string>
-	<string key="2hicegauntletGlassT3_TransmogName">T3 - Glass Ice Gauntlet</string>
-	<string key="2hMusketGlassT3_TransmogName">T3 - Glass Musket</string>
-	<string key="2hBowGlassT3_TransmogName">T3 - Glass Bow</string>
-	<string key="2hWarhammerGlassT3_TransmogName">T3 - Glass War Hammer</string>
-	<string key="1hThrowingAxeGlassT3_TransmogName">T3 - Glass Hatchet</string>
-	<string key="2hStaffLifeGlassT3_TransmogName">T3 - Glass Life Staff</string>
-	<string key="2hStaffFireGlassT3_TransmogName">T3 - Glass Fire Staff</string>
-	<string key="1hKiteShieldGlassT3_TransmogName">Waveborne Kite Shield</string>
-	<string key="1hRapierGlassT3_TransmogName">T3 - Glass Rapier</string>
-	<string key="2hspearGlassT3_TransmogName">T3 - Glass Spear</string>
-	<string key="2hicegauntletGlassT4_TransmogName">T4 -Glass Ice Gauntlet</string>
-	<string key="2hMusketGlassT4_TransmogName">T4 -Glass Musket</string>
-	<string key="2hBowGlassT4_TransmogName">T4 -Glass Bow</string>
-	<string key="2hWarhammerGlassT4_TransmogName">T4 -Glass War Hammer</string>
-	<string key="2hgreatswordGlassT4_TransmogName" rel_version="Weapon_GreatSword">T4 -Glass Greatsword</string>
-	<string key="2hGreatAxeGlassT4_TransmogName">T4 -Glass Great Axe</string>
-	<string key="1hThrowingAxeGlassT4_TransmogName">T4 -Glass Hatchet</string>
-	<string key="2hStaffLifeGlassT4_TransmogName">T4 -Glass Life Staff</string>
-	<string key="2hStaffFireGlassT4_TransmogName">T4 -Glass Fire Staff</string>
-	<string key="1hKiteShieldGlassT4_TransmogName">T4 -Waveborne Kite Shield</string>
-	<string key="1hShieldCGlassT4_TransmogName">T4 -Glass Tower Shield</string>
-	<string key="2hspearGlassT4_TransmogName">T4 -Glass Spear</string>
-	<string key="2hVoidGauntletGlassT5_TransmogName" rel_version="Weapon_Void_Gauntlet">T5 - Glass Void Gauntlet</string>
-	<string key="2hicegauntletGlassT5_TransmogName">T5 - Glass Ice Gauntlet</string>
-	<string key="2hBlunderbussGlassT5_TransmogName" rel_version="Weapon_Blunderbuss">T5 - Glass Blunderbuss</string>
-	<string key="2hMusketGlassT5_TransmogName">T5 - Glass Musket</string>
-	<string key="2hBowGlassT5_TransmogName">T5 - Glass Bow</string>
-	<string key="2hWarhammerAureateGlassT5_TransmogName">Blown Glass War Hammer</string>
-	<string key="2hWarhammerGlassT5_TransmogName">T5 - Glass War Hammer</string>
-	<string key="2hgreatswordGlassT5_TransmogName" rel_version="Weapon_GreatSword">T5 - Glass Greatsword</string>
-	<string key="1hRoundShieldGlassT5_TransmogName">T5 - Glass Round Shield</string>
-	<string key="2hGreatAxeGlassT5_TransmogName">T5 - Glass Great Axe</string>
-	<string key="1hThrowingAxeGlassT5_TransmogName">T5 - Glass Hatchet</string>
-	<string key="2hStaffLifeGlassT5_TransmogName">T5 - Glass Life Staff</string>
-	<string key="2hStaffFireGlassT5_TransmogName">T5 - Glass Fire Staff</string>
-	<string key="1hKiteShieldGlassT5_TransmogName">T5 - Waveborne Kite Shield</string>
-	<string key="1hShieldCGlassT5_TransmogName">T5 - Glass Tower Shield</string>
-	<string key="1hLongswordGlassT5_TransmogName">T5 - Glass Longsword</string>
-	<string key="1hRapierGlassT5_TransmogName">T5 - Glass Rapier</string>
-	<string key="2hspearGlassT5_TransmogName">T5 - Glass Spear</string>
-	<string key="2hVoidGauntletAngryEarthT2_TransmogName" rel_version="Weapon_Void_Gauntlet">T2 - Angry Earth Void Gauntlet</string>
-	<string key="2hicegauntletAngryEarthT2_TransmogName">T2 - Angry Earth Ice Gauntlet</string>
-	<string key="2hMusketAngryEarthT2_TransmogName">T2 - Angry Earth Musket</string>
-	<string key="2hBowAngryEarthT2_TransmogName">T2 - Angry Earth Bow</string>
-	<string key="2hWarhammerAngryEarthT2_TransmogName">T2 - Angry Earth War Hammer</string>
-	<string key="1hRoundShieldAngryEarthT2_TransmogName">T2 - Angry Earth Round Shield</string>
-	<string key="2hGreatAxeAngryEarthT2_TransmogName">T2 - Angry Earth Great Axe</string>
-	<string key="2hStaffLifeAngryEarthT2_TransmogName">T2 - Angry Earth Life Staff</string>
-	<string key="2hStaffFireAngryEarthT2_TransmogName">T2 - Angry Earth Fire Staff</string>
-	<string key="1hLongSwordAngryEarthT2_TransmogName">T2 - Angry Earth Longsword</string>
-	<string key="1hSwordBAngryEarthT2_TransmogName">T2 - Angry Earth Rapier</string>
-	<string key="2hspearAngryEarthT2_TransmogName">T2 - Angry Earth Spear</string>
-	<string key="2hVoidGauntletAngryEarthT3_TransmogName" rel_version="Weapon_Void_Gauntlet">T3 - Angry Earth Void Gauntlet</string>
-	<string key="2hicegauntletAngryEarthT3_TransmogName">T3 - Angry Earth Ice Gauntlet</string>
-	<string key="2hMusketAngryEarthT3_TransmogName">T3 - Angry Earth Musket</string>
-	<string key="2hBowAngryEarthT3_TransmogName">T3 - Angry Earth Bow</string>
-	<string key="2hWarhammerAngryEarthT3_TransmogName">T3 - Angry Earth War Hammer</string>
-	<string key="1hRoundShieldAngryEarthT3_TransmogName">T3 - Angry Earth Round Shield</string>
-	<string key="2hGreatAxeAngryEarthT3_TransmogName">T3 - Angry Earth Great Axe</string>
-	<string key="1hThrowingAxeAngryEarthT3_TransmogName">T3 - Angry Earth Hatchet</string>
-	<string key="2hStaffLifeAngryEarthT3_TransmogName">T3 - Angry Earth Life Staff</string>
-	<string key="2hStaffFireAngryEarthT3_TransmogName">T3 - Angry Earth Fire Staff</string>
-	<string key="1hKiteShieldAngryEarthT3_TransmogName">T3 - Angry Earth Kite Shield</string>
-	<string key="1hLongSwordAngryEarthT3_TransmogName">T3 - Angry Earth Longsword</string>
-	<string key="1hSwordBAngryEarthT3_TransmogName">T3 - Angry Earth Rapier</string>
-	<string key="2hspearAngryEarthT3_TransmogName">T3 - Angry Earth Spear</string>
-	<string key="2hVoidGauntletAngryEarthT4_TransmogName" rel_version="Weapon_Void_Gauntlet">T4 - Angry Earth Void Gauntlet</string>
-	<string key="2hicegauntletAngryEarthT4_TransmogName">T4 - Angry Earth Ice Gauntlet</string>
-	<string key="2hBlunderbussAngryEarthT4_TransmogName" rel_version="Weapon_Blunderbuss">T4 - Angry Earth Blunderbuss</string>
-	<string key="2hMusketAngryEarthT4_TransmogName">T4 - Angry Earth Musket</string>
-	<string key="2hBowAngryEarthT4_TransmogName">T4 - Angry Earth Bow</string>
-	<string key="2hWarhammerAngryEarthT4_TransmogName">T4 - Angry Earth War Hammer</string>
-	<string key="2hgreatswordAngryEarthT4_TransmogName" rel_version="Weapon_GreatSword">T4 - Angry Earth Greatsword</string>
-	<string key="1hRoundShieldAngryEarthT4_TransmogName">T4 - Angry Earth Round Shield</string>
-	<string key="2hGreatAxeAngryEarthT4_TransmogName">T4 - Angry Earth Great Axe</string>
-	<string key="1hThrowingAxeAngryEarthT4_TransmogName">T4 - Angry Earth Hatchet</string>
-	<string key="2hStaffLifeAngryEarthT4_TransmogName">T4 - Angry Earth Life Staff</string>
-	<string key="2hStaffFireAngryEarthT4_TransmogName">T4 - Angry Earth Fire Staff</string>
-	<string key="1hKiteShieldAngryEarthT4_TransmogName">T4 - Angry Earth Kite Shield</string>
-	<string key="1hShieldCAngryEarthT4_TransmogName">T4 - Angry Earth Tower Shield</string>
-	<string key="1hLongSwordAngryEarthT4_TransmogName">T4 - Angry Earth Longsword</string>
-	<string key="1hSwordBAngryEarthT4_TransmogName">T4 - Angry Earth Rapier</string>
-	<string key="2hspearAngryEarthT4_TransmogName">T4 - Angry Earth Spear</string>
-	<string key="2hVoidGauntletAngryEarthT5_TransmogName" rel_version="Weapon_Void_Gauntlet">T5 - Angry Earth Void Gauntlet</string>
-	<string key="2hicegauntletAngryEarthT5_TransmogName">T5 - Angry Earth Ice Gauntlet</string>
-	<string key="2hBlunderbussAngryEarthT5_TransmogName" rel_version="Weapon_Blunderbuss">T5 - Angry Earth Blunderbuss</string>
-	<string key="2hMusketAngryEarthT5_TransmogName">T5 - Angry Earth Musket</string>
-	<string key="2hBowAngryEarthT5_TransmogName">T5 - Angry Earth Bow</string>
-	<string key="2hWarhammerAngryEarthT5_TransmogName">T5 - Angry Earth War Hammer</string>
-	<string key="2hgreatswordAngryEarthT5_TransmogName" rel_version="Weapon_GreatSword">T5 - Angry Earth Greatsword</string>
-	<string key="1hRoundShieldAngryEarthT5_TransmogName">T5 - Angry Earth Round Shield</string>
-	<string key="2hGreatAxeAngryEarthT5_TransmogName">T5 - Angry Earth Great Axe</string>
-	<string key="1hThrowingAxeAngryEarthT5_TransmogName">T5 - Angry Earth Hatchet</string>
-	<string key="2hStaffLifeAngryEarthT5_TransmogName">T5 - Angry Earth Life Staff</string>
-	<string key="2hStaffFireAngryEarthT5_TransmogName">T5 - Angry Earth Fire Staff</string>
-	<string key="1hKiteShieldAngryEarthT5_TransmogName">T5 - Angry Earth Kite Shield</string>
-	<string key="1hShieldCAngryEarthT5_TransmogName">T5 - Angry Earth Tower Shield</string>
-	<string key="1hLongSwordAngryEarthT5_TransmogName">T5 - Angry Earth Longsword</string>
-	<string key="1hSwordBAngryEarthT5_TransmogName">T5 - Angry Earth Rapier</string>
-	<string key="2hspearAngryEarthT5_TransmogName">T5 - Angry Earth Spear</string>
-	<string key="2hVoidGauntletCorruptedT2_TransmogName" rel_version="Weapon_Void_Gauntlet">T2 - Corrupted Void Gauntlet</string>
-	<string key="2hicegauntletCorruptedT2_TransmogName">T2 - Corrupted Ice Gauntlet</string>
-	<string key="2hMusketCorruptedT2_TransmogName">T2 - Corrupted Musket</string>
-	<string key="2hBowCorruptedT2_TransmogName">T2 - Corrupted Bow</string>
-	<string key="2hWarhammerCorruptedT2_TransmogName">T2 - Corrupted War Hammer</string>
-	<string key="1hRoundShieldCorruptedT2_TransmogName">T2 - Corrupted Round Shield</string>
-	<string key="2hGreatAxeCorruptedT2_TransmogName">T2 - Corrupted Great Axe</string>
-	<string key="1hThrowingAxeCorruptedT2_TransmogName">T2 - Corrupted Hatchet</string>
-	<string key="2hStaffLifeCorruptedT2_TransmogName">T2 - Corrupted Life Staff</string>
-	<string key="2hStaffFireCorruptedT2_TransmogName">T2 - Corrupted Fire Staff</string>
-	<string key="1hLongSwordCorruptedT2_TransmogName">T2 - Corrupted Longsword</string>
-	<string key="1hSwordBCorruptedT2_TransmogName">T2 - Corrupted Rapier</string>
-	<string key="2hspearCorruptedT2_TransmogName">T2 - Corrupted Spear</string>
-	<string key="2hVoidGauntletCorruptedT3_TransmogName" rel_version="Weapon_Void_Gauntlet">T3 - Corrupted Void Gauntlet</string>
-	<string key="2hicegauntletCorruptedT3_TransmogName">T3 - Corrupted Ice Gauntlet</string>
-	<string key="2hMusketCorruptedT3_TransmogName">T3 - Corrupted Musket</string>
-	<string key="2hBowCorruptedT3_TransmogName">T3 - Corrupted Bow</string>
-	<string key="2hWarhammerCorruptedT3_TransmogName">T3 - Corrupted War Hammer</string>
-	<string key="1hRoundShieldCorruptedT3_TransmogName">T3 - Corrupted Round Shield</string>
-	<string key="2hGreatAxeCorruptedT3_TransmogName">T3 - Corrupted Great Axe</string>
-	<string key="1hThrowingAxeCorruptedT3_TransmogName">T3 - Corrupted Hatchet</string>
-	<string key="2hStaffLifeCorruptedT3_TransmogName">T3 - Corrupted Life Staff</string>
-	<string key="2hStaffFireCorruptedT3_TransmogName">T3 - Corrupted Fire Staff</string>
-	<string key="1hKiteShieldCorruptedT3_TransmogName">T3 - Corrupted Kite Shield</string>
-	<string key="1hLongSwordCorruptedT3_TransmogName">T3 - Corrupted Longsword</string>
-	<string key="1hSwordBCorruptedT3_TransmogName">T3 - Corrupted Rapier</string>
-	<string key="2hspearCorruptedT3_TransmogName">T3 - Corrupted Spear</string>
-	<string key="2hVoidGauntletCorruptedT4_TransmogName" rel_version="Weapon_Void_Gauntlet">T4 - Corrupted Void Gauntlet</string>
-	<string key="2hicegauntletCorruptedT4_TransmogName">T4 - Corrupted Ice Gauntlet</string>
-	<string key="2hBlunderbussCorruptedT4_TransmogName" rel_version="Weapon_Blunderbuss">T4 - Corrupted Blunderbuss</string>
-	<string key="2hMusketCorruptedT4_TransmogName">T4 - Corrupted Musket</string>
-	<string key="2hBowCorruptedT4_TransmogName">T4 - Corrupted Bow</string>
-	<string key="2hWarhammerCorruptedT4_TransmogName">T4 - Corrupted War Hammer</string>
-	<string key="2hgreatswordCorruptedT4_TransmogName" rel_version="Weapon_GreatSword">T4 - Corrupted Greatsword</string>
-	<string key="1hRoundShieldCorruptedT4_TransmogName">T4 - Corrupted Round Shield</string>
-	<string key="2hGreatAxeCorruptedT4_TransmogName">T4 - Corrupted Great Axe</string>
-	<string key="1hThrowingAxeCorruptedT4_TransmogName">T4 - Corrupted Hatchet</string>
-	<string key="2hStaffLifeCorruptedT4_TransmogName">T4 - Corrupted Life Staff</string>
-	<string key="2hStaffFireCorruptedT4_TransmogName">T4 - Corrupted Fire Staff</string>
-	<string key="1hKiteShieldCorruptedT4_TransmogName">T4 - Corrupted Kite Shield</string>
-	<string key="1hShieldCCorruptedT4_TransmogName">T4 - Corrupted Tower Shield</string>
-	<string key="1hLongSwordCorruptedT4_TransmogName">T4 - Corrupted Longsword</string>
-	<string key="1hSwordBCorruptedT4_TransmogName">T4 - Corrupted Rapier</string>
-	<string key="2hspearCorruptedT4_TransmogName">T4 - Corrupted Spear</string>
-	<string key="2hVoidGauntletCorruptedT5_TransmogName" rel_version="Weapon_Void_Gauntlet">T5 - Corrupted Void Gauntlet</string>
-	<string key="2hicegauntletCorruptedT5_TransmogName">T5 - Corrupted Ice Gauntlet</string>
-	<string key="2hBlunderbussCorruptedT5_TransmogName" rel_version="Weapon_Blunderbuss">T5 - Corrupted Blunderbuss</string>
-	<string key="2hMusketCorruptedT5_TransmogName">T5 - Corrupted Musket</string>
-	<string key="2hBowCorruptedT5_TransmogName">T5 - Corrupted Bow</string>
-	<string key="2hWarhammerCorruptedT5_TransmogName">T5 - Corrupted War Hammer</string>
-	<string key="2hgreatswordCorruptedT5_TransmogName" rel_version="Weapon_GreatSword">T5 - Corrupted Greatsword</string>
-	<string key="1hRoundShieldCorruptedT5_TransmogName">T5 - Corrupted Round Shield</string>
-	<string key="2hGreatAxeCorruptedT5_TransmogName">T5 - Corrupted Great Axe</string>
-	<string key="1hThrowingAxeCorruptedT5_TransmogName">T5 - Corrupted Hatchet</string>
-	<string key="2hStaffLifeCorruptedT5_TransmogName">T5 - Corrupted Life Staff</string>
-	<string key="2hStaffFireCorruptedT5_TransmogName">T5 - Corrupted Fire Staff</string>
-	<string key="1hKiteShieldCorruptedT5_TransmogName">T5 - Corrupted Kite Shield</string>
-	<string key="1hShieldCCorruptedT5_TransmogName">T5 - Corrupted Tower Shield</string>
-	<string key="1hLongSwordCorruptedT5_TransmogName">T5 - Corrupted Longsword</string>
-	<string key="1hSwordBCorruptedT5_TransmogName">T5 - Corrupted Rapier</string>
-	<string key="2hspearCorruptedT5_TransmogName">T5 - Corrupted Spear</string>
-	<string key="2hVoidGauntletAncientT2_TransmogName" rel_version="Weapon_Void_Gauntlet">T2 - Ancient Void Gauntlet</string>
-	<string key="2hicegauntletAncientT2_TransmogName">T2 - Ancient Ice Gauntlet</string>
-	<string key="2hMusketAncientT2_TransmogName">T2 - Ancient Musket</string>
-	<string key="2hBowAncientT2_TransmogName">T2 - Ancient Bow</string>
-	<string key="2hWarhammerAncientT2_TransmogName">T2 - Ancient War Hammer</string>
-	<string key="1hRoundShieldAncientT2_TransmogName">T2 - Ancient Round Shield</string>
-	<string key="2hGreatAxeAncientT2_TransmogName">T2 - Ancient Great Axe</string>
-	<string key="1hThrowingAxeAncientT2_TransmogName">T2 - Ancient Hatchet</string>
-	<string key="2hStaffLifeAncientT2_TransmogName">T2 - Ancient Life Staff</string>
-	<string key="2hStaffFireAncientT2_TransmogName">T2 - Ancient Fire Staff</string>
-	<string key="1hLongSwordAncientT2_TransmogName">T2 - Ancient Longsword</string>
-	<string key="1hRapierAncientT2_TransmogName">T2 - Ancient Rapier</string>
-	<string key="2hspearAncientT2_TransmogName">T2 - Ancient Spear</string>
-	<string key="2hVoidGauntletAncientT3_TransmogName" rel_version="Weapon_Void_Gauntlet">T3 - Ancient Void Gauntlet</string>
-	<string key="2hicegauntletAncientT3_TransmogName">T3 - Ancient Ice Gauntlet</string>
-	<string key="2hMusketAncientT3_TransmogName">T3 - Ancient Musket</string>
-	<string key="2hBowAncientT3_TransmogName">T3 - Ancient Bow</string>
-	<string key="2hWarhammerAncientT3_TransmogName">T3 - Ancient War Hammer</string>
-	<string key="1hRoundShieldAncientT3_TransmogName">T3 - Ancient Round Shield</string>
-	<string key="2hGreatAxeAncientT3_TransmogName">T3 - Ancient Great Axe</string>
-	<string key="1hThrowingAxeAncientT3_TransmogName">T3 - Ancient Hatchet</string>
-	<string key="2hStaffLifeAncientT3_TransmogName">T3 - Ancient Life Staff</string>
-	<string key="2hStaffFireAncientT3_TransmogName">T3 - Ancient Fire Staff</string>
-	<string key="1hKiteShieldAncientT3_TransmogName">T3 - Ancient Kite Shield</string>
-	<string key="1hLongSwordAncientT3_TransmogName">T3 - Ancient Longsword</string>
-	<string key="1hRapierAncientT3_TransmogName">T3 - Ancient Rapier</string>
-	<string key="2hspearAncientT3_TransmogName">T3 - Ancient Spear</string>
-	<string key="2hVoidGauntletAncientT4_TransmogName" rel_version="Weapon_Void_Gauntlet">T4 - Ancient Void Gauntlet</string>
-	<string key="2hicegauntletAncientT4_TransmogName">T4 - Ancient Ice Gauntlet</string>
-	<string key="2hBlunderbussAncientT4_TransmogName" rel_version="Weapon_Blunderbuss">T4 - Ancient Blunderbuss</string>
-	<string key="2hMusketAncientT4_TransmogName">T4 - Ancient Musket</string>
-	<string key="2hBowAncientT4_TransmogName">T4 - Ancient Bow</string>
-	<string key="2hWarhammerAncientT4_TransmogName">T4 - Ancient War Hammer</string>
-	<string key="2hgreatswordAncientT4_TransmogName" rel_version="Weapon_GreatSword">T4 - Ancient Greatsword</string>
-	<string key="1hRoundShieldAncientT4_TransmogName">T4 - Ancient Round Shield</string>
-	<string key="2hGreatAxeAncientT4_TransmogName">T4 - Ancient Great Axe</string>
-	<string key="1hThrowingAxeAncientT4_TransmogName">T4 - Ancient Hatchet</string>
-	<string key="2hStaffLifeAncientT4_TransmogName">T4 - Ancient Life Staff</string>
-	<string key="2hStaffFireAncientT4_TransmogName">T4 - Ancient Fire Staff</string>
-	<string key="1hKiteShieldAncientT4_TransmogName">T4 - Ancient Kite Shield</string>
-	<string key="1hShieldCAncientT4_TransmogName">T4 - Ancient Tower Shield</string>
-	<string key="1hLongSwordAncientT4_TransmogName">T4 - Ancient Longsword</string>
-	<string key="1hRapierAncientT4_TransmogName">T4 - Ancient Rapier</string>
-	<string key="2hspearAncientT4_TransmogName">T4 - Ancient Spear</string>
-	<string key="2hVoidGauntletAncientT5_TransmogName" rel_version="Weapon_Void_Gauntlet">T5 - Ancient Void Gauntlet</string>
-	<string key="2hicegauntletAncientT5_TransmogName">T5 - Ancient Ice Gauntlet</string>
-	<string key="2hBlunderbussAncientT5_TransmogName" rel_version="Weapon_Blunderbuss">T5 - Ancient Blunderbuss</string>
-	<string key="2hMusketAncientT5_TransmogName">T5 - Ancient Musket</string>
-	<string key="2hBowAncientT5_TransmogName">T5 - Ancient Bow</string>
-	<string key="2hWarhammerAncientT5_TransmogName">T5 - Ancient War Hammer</string>
-	<string key="2hgreatswordAncientT5_TransmogName" rel_version="Weapon_GreatSword">T5 - Ancient Greatsword</string>
-	<string key="1hRoundShieldAncientT5_TransmogName">T5 - Ancient Round Shield</string>
-	<string key="2hGreatAxeAncientT5_TransmogName">T5 - Ancient Great Axe</string>
-	<string key="1hThrowingAxeAncientT5_TransmogName">T5 - Ancient Hatchet</string>
-	<string key="2hStaffLifeAncientT5_TransmogName">T5 - Ancient Life Staff</string>
-	<string key="2hStaffFireAncientT5_TransmogName">T5 - Ancient Fire Staff</string>
-	<string key="1hKiteShieldAncientT5_TransmogName">T5 - Ancient Kite Shield</string>
-	<string key="1hShieldCAncientT5_TransmogName">T5 - Ancient Tower Shield</string>
-	<string key="1hLongSwordAncientT5_TransmogName">T5 - Ancient Longsword</string>
-	<string key="1hRapierAncientT5_TransmogName">T5 - Ancient Rapier</string>
-	<string key="2hspearAncientT5_TransmogName">T5 - Ancient Spear</string>
-	<string key="2hVoidGauntletLostT2_TransmogName" rel_version="Weapon_Void_Gauntlet">T2 - Lost Void Gauntlet</string>
-	<string key="2hicegauntletLostT2_TransmogName">T2 - Lost Ice Gauntlet</string>
-	<string key="2hMusketLostT2_TransmogName">T2 - Lost Musket</string>
-	<string key="2hBowLostT2_TransmogName">T2 - Lost Bow</string>
-	<string key="2hWarhammerLostT2_TransmogName">T2 - Lost War Hammer</string>
-	<string key="1hRoundShieldLostT2_TransmogName">T2 - Lost Round Shield</string>
-	<string key="2hGreatAxeLostT2_TransmogName">T2 - Lost Great Axe</string>
-	<string key="1hThrowingAxeLostT2_TransmogName">T2 - Lost Hatchet</string>
-	<string key="2hStaffLifeLostT2_TransmogName">T2 - Lost Life Staff</string>
-	<string key="2hStaffFireLostT2_TransmogName">T2 - Lost Fire Staff</string>
-	<string key="1hLongSwordLostT2_TransmogName">T2 - Lost Longsword</string>
-	<string key="1hSwordBLostT2_TransmogName">T2 - Lost Rapier</string>
-	<string key="2hspearLostT2_TransmogName">T2 - Lost Spear</string>
-	<string key="2hVoidGauntletLostT3_TransmogName" rel_version="Weapon_Void_Gauntlet">T3 - Lost Void Gauntlet</string>
-	<string key="2hicegauntletLostT3_TransmogName">T3 - Lost Ice Gauntlet</string>
-	<string key="2hMusketLostT3_TransmogName">T3 - Lost Musket</string>
-	<string key="2hBowLostT3_TransmogName">T3 - Lost Bow</string>
-	<string key="2hWarhammerLostT3_TransmogName">T3 - Lost War Hammer</string>
-	<string key="1hRoundShieldLostT3_TransmogName">T3 - Lost Round Shield</string>
-	<string key="2hGreatAxeLostT3_TransmogName">T3 - Lost Great Axe</string>
-	<string key="1hThrowingAxeLostT3_TransmogName">T3 - Lost Hatchet</string>
-	<string key="2hStaffLifeLostT3_TransmogName">T3 - Lost Life Staff</string>
-	<string key="2hStaffFireLostT3_TransmogName">T3 - Lost Fire Staff</string>
-	<string key="1hKiteShieldLostT3_TransmogName">T3 - Lost Kite Shield</string>
-	<string key="1hLongSwordLostT3_TransmogName">T3 - Lost Longsword</string>
-	<string key="1hSwordBLostT3_TransmogName">T3 - Lost Rapier</string>
-	<string key="2hspearLostT3_TransmogName">T3 - Lost Spear</string>
-	<string key="2hVoidGauntletLostT4_TransmogName" rel_version="Weapon_Void_Gauntlet">T4 - Lost Void Gauntlet</string>
-	<string key="2hicegauntletLostT4_TransmogName">T4 - Lost Ice Gauntlet</string>
-	<string key="2hBlunderbussLostT4_TransmogName" rel_version="Weapon_Blunderbuss">T4 - Lost Blunderbuss</string>
-	<string key="2hMusketLostT4_TransmogName">T4 - Lost Musket</string>
-	<string key="2hBowLostT4_TransmogName">T4 - Lost Bow</string>
-	<string key="2hWarhammerLostT4_TransmogName">T4 - Lost War Hammer</string>
-	<string key="2hgreatswordLostT4_TransmogName" rel_version="Weapon_GreatSword">T4 - Lost Greatsword</string>
-	<string key="1hRoundShieldLostT4_TransmogName">T4 - Lost Round Shield</string>
-	<string key="2hGreatAxeLostT4_TransmogName">T4 - Lost Great Axe</string>
-	<string key="1hThrowingAxeLostT4_TransmogName">T4 - Lost Hatchet</string>
-	<string key="2hStaffLifeLostT4_TransmogName">T4 - Lost Life Staff</string>
-	<string key="2hStaffFireLostT4_TransmogName">T4 - Lost Fire Staff</string>
-	<string key="1hKiteShieldLostT4_TransmogName">T4 - Lost Kite Shield</string>
-	<string key="1hShieldCLostT4_TransmogName">T4 - Lost Tower Shield</string>
-	<string key="1hLongSwordLostT4_TransmogName">T4 - Lost Longsword</string>
-	<string key="1hSwordBLostT4_TransmogName">T4 - Lost Rapier</string>
-	<string key="2hspearLostT4_TransmogName">T4 - Lost Spear</string>
-	<string key="2hVoidGauntletLostT5_TransmogName" rel_version="Weapon_Void_Gauntlet">T5 - Lost Void Gauntlet</string>
-	<string key="2hicegauntletLostT5_TransmogName">T5 - Lost Ice Gauntlet</string>
-	<string key="2hBlunderbussLostT5_TransmogName" rel_version="Weapon_Blunderbuss">T5 - Lost Blunderbuss</string>
-	<string key="2hMusketLostT5_TransmogName">T5 - Lost Musket</string>
-	<string key="2hBowLostT5_TransmogName">T5 - Lost Bow</string>
-	<string key="2hWarhammerLostT5_TransmogName">T5 - Lost War Hammer</string>
-	<string key="2hgreatswordLostT5_TransmogName" rel_version="Weapon_GreatSword">T5 - Lost Greatsword</string>
-	<string key="1hRoundShieldLostT5_TransmogName">T5 - Lost Round Shield</string>
-	<string key="2hGreatAxeLostT5_TransmogName">T5 - Lost Great Axe</string>
-	<string key="1hThrowingAxeLostT5_TransmogName">T5 - Lost Hatchet</string>
-	<string key="2hStaffLifeLostT5_TransmogName">T5 - Lost Life Staff</string>
-	<string key="2hStaffFireLostT5_TransmogName">T5 - Lost Fire Staff</string>
-	<string key="1hKiteShieldLostT5_TransmogName">T5 - Lost Kite Shield</string>
-	<string key="1hShieldCLostT5_TransmogName">T5 - Lost Tower Shield</string>
-	<string key="1hLongSwordLostT5_TransmogName">T5 - Lost Longsword</string>
-	<string key="1hSwordBLostT5_TransmogName">T5 - Lost Rapier</string>
-	<string key="2hspearLostT5_TransmogName">T5 - Lost Spear</string>
-	<string key="2hVoidGauntletElegantT3_TransmogName" rel_version="Weapon_Void_Gauntlet">T3 - Elegant Void Gauntlet</string>
-	<string key="2hMusketElegantT3_TransmogName">T3 - Elegant Musket</string>
-	<string key="2hWarhammerElegantT3_TransmogName">T3 - Elegant War Hammer</string>
-	<string key="1hRoundShieldElegantT3_TransmogName">T3 - Elegant Round Shield</string>
-	<string key="2hGreatAxeElegantT3_TransmogName">T3 - Elegant Great Axe</string>
-	<string key="1hThrowingAxeElegantT3_TransmogName">T3 - Elegant Hatchet</string>
-	<string key="2hStaffLifeElegantT3_TransmogName">T3 - Elegant Life Staff</string>
-	<string key="2hStaffFireElegantT3_TransmogName">T3 - Elegant Fire Staff</string>
-	<string key="1hKiteShieldElegantT3_TransmogName">T3 - Glass Kite Shield</string>
-	<string key="1hLongswordElegantT3_TransmogName">T3 - Elegant Longsword</string>
-	<string key="1hRapierElegantT3_TransmogName">T3 - Elegant Rapier</string>
-	<string key="2hspearElegantT3_TransmogName">T3 - Elegant Spear</string>
-	<string key="2hVoidGauntletAbyssalT3_TransmogName" rel_version="Weapon_Void_Gauntlet">T3 - Abyssal Void Gauntlet</string>
-	<string key="2hicegauntletAbyssalT3_TransmogName">T3 - Abyssal Ice Gauntlet</string>
-	<string key="2hMusketAbyssalT3_TransmogName">T3 - Abyssal Musket</string>
-	<string key="2hBowAbyssalT3_TransmogName">T3 - Abyssal Bow</string>
-	<string key="2hWarhammerAbyssalT3_TransmogName">T3 - Abyssal War Hammer</string>
-	<string key="1hRoundShieldAbyssalT3_TransmogName">T3 - Abyssal Round Shield</string>
-	<string key="2hGreatAxeAbyssalT3_TransmogName">T3 - Abyssal Great Axe</string>
-	<string key="1hThrowingAxeAbyssalT3_TransmogName">T3 - Abyssal Hatchet</string>
-	<string key="2hStaffLifeAbyssalT3_TransmogName">T3 - Abyssal Life Staff</string>
-	<string key="2hStaffFireAbyssalT3_TransmogName">T3 - Abyssal Fire Staff</string>
-	<string key="1hKiteShieldAbyssalT3_TransmogName">T3 - Abyssal Kite Shield</string>
-	<string key="1hLongswordAbyssalT3_TransmogName">T3 - Abyssal Longsword</string>
-	<string key="1hRapierAbyssalT3_TransmogName">T3 - Abyssal Rapier</string>
-	<string key="2hspearAbyssalT3_TransmogName">T3 - Abyssal Spear</string>
-	<string key="2hVoidGauntletEtherealT3_TransmogName" rel_version="Weapon_Void_Gauntlet">T3 - Ethereal Void Gauntlet</string>
-	<string key="2hicegauntletEtherealT3_TransmogName">T3 - Ethereal Ice Gauntlet</string>
-	<string key="2hMusketEtherealT3_TransmogName">T3 - Ethereal Musket</string>
-	<string key="2hBowEtherealT3_TransmogName">T3 - Ethereal Bow</string>
-	<string key="2hWarhammerEtherealT3_TransmogName">T3 - Ethereal War Hammer</string>
-	<string key="2hGreatAxeEtherealT3_TransmogName">T3 - Ethereal Great Axe</string>
-	<string key="1hThrowingAxeEtherealT3_TransmogName">T3 - Ethereal Hatchet</string>
-	<string key="2hStaffFireEtherealT3_TransmogName">T3 - Ethereal Fire Staff</string>
-	<string key="1hKiteShieldEtherealT3_TransmogName">T3 - Ethereal Kite Shield</string>
-	<string key="1hLongswordEtherealT3_TransmogName">T3 - Ethereal Longsword</string>
-	<string key="1hRapierEtherealT3_TransmogName">T3 - Ethereal Rapier</string>
-	<string key="2hspearEtherealT3_TransmogName">T3 - Ethereal Spear</string>
-	<string key="2hVoidGauntletFaeT3_TransmogName" rel_version="Weapon_Void_Gauntlet">T3 - Fae Void Gauntlet</string>
-	<string key="2hMusketFaeT3_TransmogName">T3 - Fae Musket</string>
-	<string key="2hBowFaeT3_TransmogName">T3 - Fae Bow</string>
-	<string key="2hWarhammerFaeT3_TransmogName">T3 - Fae War Hammer</string>
-	<string key="2hGreatAxeFaeT3_TransmogName">T3 - Fae Great Axe</string>
-	<string key="1hThrowingAxeFaeT3_TransmogName">T3 - Fae Hatchet</string>
-	<string key="2hStaffLifeFaeT3_TransmogName">T3 - Fae Life Staff</string>
-	<string key="2hStaffFireFaeT3_TransmogName">T3 - Fae Fire Staff</string>
-	<string key="1hKiteShieldFaeT3_TransmogName">T3 - Fae Kite Shield</string>
-	<string key="1hLongswordFaeT3_TransmogName">T3 - Fae Longsword</string>
-	<string key="1hRapierFaeT3_TransmogName">T3 - Fae Rapier</string>
-	<string key="2hspearFaeT3_TransmogName">T3 - Fae Spear</string>
-	<string key="2hVoidGauntletImmolatedT3_TransmogName" rel_version="Weapon_Void_Gauntlet">T3 - Immolated Void Gauntlet</string>
-	<string key="2hMusketImmolatedT3_TransmogName">T3 - Immolated Musket</string>
-	<string key="2hBowImmolatedT3_TransmogName">T3 - Immolated Bow</string>
-	<string key="2hWarhammerImmolatedT3_TransmogName">T3 - Immolated War Hammer</string>
-	<string key="2hGreatAxeImmolatedT3_TransmogName">T3 - Immolated Great Axe</string>
-	<string key="1hThrowingAxeImmolatedT3_TransmogName">T3 - Immolated Hatchet</string>
-	<string key="2hStaffLifeImmolatedT3_TransmogName">T3 - Immolated Life Staff</string>
-	<string key="2hStaffFireImmolatedT3_TransmogName">T3 - Immolated Fire Staff</string>
-	<string key="1hKiteShieldImmolatedT3_TransmogName">T3 - Immolated Kite Shield</string>
-	<string key="1hLongswordImmolatedT3_TransmogName">T3 - Immolated Longsword</string>
-	<string key="1hRapierImmolatedT3_TransmogName">T3 - Immolated Rapier</string>
-	<string key="2hspearImmolatedT3_TransmogName">T3 - Immolated Spear</string>
-	<string key="2hVoidGauntletViciousT3_TransmogName" rel_version="Weapon_Void_Gauntlet">T3 - Vicious Void Gauntlet</string>
-	<string key="2hMusketViciousT3_TransmogName">T3 - Vicious Musket</string>
-	<string key="2hBowViciousT3_TransmogName">T3 - Vicious Bow</string>
-	<string key="2hWarhammerViciousT3_TransmogName">T3 - Vicious War Hammer</string>
-	<string key="2hGreatAxeViciousT3_TransmogName">T3 - Vicious Great Axe</string>
-	<string key="1hThrowingAxeViciousT3_TransmogName">T3 - Vicious Hatchet</string>
-	<string key="2hStaffLifeViciousT3_TransmogName">T3 - Vicious Life Staff</string>
-	<string key="2hStaffFireViciousT3_TransmogName">T3 - Vicious Fire Staff</string>
-	<string key="1hKiteShieldViciousT3_TransmogName">T3 - Elegant Kite Shield</string>
-	<string key="1hLongswordViciousT3_TransmogName">T3 - Vicious Longsword</string>
-	<string key="1hRapierViciousT3_TransmogName">T3 - Vicious Rapier</string>
-	<string key="2hspearViciousT3_TransmogName">T3 - Vicious Spear</string>
-	<string key="2hVoidGauntletVinespunT3_TransmogName" rel_version="Weapon_Void_Gauntlet">T3 - Vinespun Void Gauntlet</string>
-	<string key="2hicegauntletVinespunT3_TransmogName">T3 - Vinespun Ice Gauntlet</string>
-	<string key="2hMusketVinespunT3_TransmogName">T3 - Vinespun Musket</string>
-	<string key="2hBowVinespunT3_TransmogName">T3 - Vinespun Bow</string>
-	<string key="2hWarhammerVinespunT3_TransmogName">T3 - Vinespun War Hammer</string>
-	<string key="1hRoundShieldVinespunT3_TransmogName">T3 - Vinespun Round Shield</string>
-	<string key="2hGreatAxeVinespunT3_TransmogName">T3 - Vinespun Great Axe</string>
-	<string key="1hThrowingAxeVinespunT3_TransmogName">T3 - Vinespun Hatchet</string>
-	<string key="2hStaffLifeVinespunT3_TransmogName">T3 - Vinespun Life Staff</string>
-	<string key="2hStaffFireVinespunT3_TransmogName">T3 - Vinespun Fire Staff</string>
-	<string key="1hKiteShieldVinespunT3_TransmogName">T3 - Vicious Kite Shield</string>
-	<string key="1hLongswordVinespunT3_TransmogName">T3 - Vinespun Longsword</string>
-	<string key="1hRapierVinespunT3_TransmogName">T3 - Vinespun Rapier</string>
-	<string key="2hspearVinespunT3_TransmogName">T3 - Vinespun Spear</string>
-	<string key="2hVoidGauntletVoidbentT3_TransmogName" rel_version="Weapon_Void_Gauntlet">T3 - Voidbent Void Gauntlet</string>
-	<string key="2hVoidicegauntletbentT3_TransmogName">T3 - Voidbent Ice Gauntlet</string>
-	<string key="2hMusketVoidbentT3_TransmogName">T3 - Voidbent Musket</string>
-	<string key="2hBowVoidbentT3_TransmogName">T3 - Voidbent Bow</string>
-	<string key="2hWarhammerVoidbentT3_TransmogName">T3 - Voidbent War Hammer</string>
-	<string key="1hRoundShieldVoidbentT3_TransmogName">T3 - Voidbent Round Shield</string>
-	<string key="2hGreatAxeVoidbentT3_TransmogName">T3 - Voidbent Great Axe</string>
-	<string key="1hThrowingAxeVoidbentT3_TransmogName">T3 - Voidbent Hatchet</string>
-	<string key="2hStaffLifeVoidbentT3_TransmogName">T3 - Voidbent Life Staff</string>
-	<string key="2hStaffFireVoidbentT3_TransmogName">T3 - Voidbent Fire Staff</string>
-	<string key="1hKiteShieldVoidbentT3_TransmogName">T3 - Vinespun Kite Shield</string>
-	<string key="1hLongswordVoidbentT3_TransmogName">T3 - Voidbent Longsword</string>
-	<string key="1hRapierVoidbentT3_TransmogName">T3 - Voidbent Rapier</string>
-	<string key="2hspearVoidbentT3_TransmogName">T3 - Voidbent Spear</string>
-	<string key="2hVoidGauntletWaveborneT3_TransmogName" rel_version="Weapon_Void_Gauntlet">T3 - Waveborne Void Gauntlet</string>
-	<string key="2hicegauntletWaveborneT3_TransmogName">T3 - Waveborne Ice Gauntlet</string>
-	<string key="2hMusketWaveborneT3_TransmogName">T3 - Waveborne Musket</string>
-	<string key="2hBowWaveborneT3_TransmogName">T3 - Waveborne Bow</string>
-	<string key="2hWarhammerWaveborneT3_TransmogName">T3 - Waveborne War Hammer</string>
-	<string key="1hRoundShieldWaveborneT3_TransmogName">T3 - Waveborne Round Shield</string>
-	<string key="2hGreatAxeWaveborneT3_TransmogName">T3 - Waveborne Great Axe</string>
-	<string key="1hThrowingAxeWaveborneT3_TransmogName">T3 - Waveborne Hatchet</string>
-	<string key="2hStaffLifeWaveborneT3_TransmogName">T3 - Waveborne Life Staff</string>
-	<string key="2hStaffFireWaveborneT3_TransmogName">T3 - Waveborne Fire Staff</string>
-	<string key="1hKiteShieldWaveborneT3_TransmogName">T3 - Voidbent Kite Shield</string>
-	<string key="1hLongswordWaveborneT3_TransmogName">T3 - Waveborne Longsword</string>
-	<string key="1hRapierWaveborneT3_TransmogName">T3 - Waveborne Rapier</string>
-	<string key="2hspearWaveborneT3_TransmogName">T3 - Waveborne Spear</string>
-	<string key="2hVoidGauntletElegantT4_TransmogName" rel_version="Weapon_Void_Gauntlet">T4 - Elegant Void Gauntlet</string>
-	<string key="2hMusketElegantT4_TransmogName">T4 - Elegant Musket</string>
-	<string key="2hWarhammerElegantT4_TransmogName">T4 - Elegant War Hammer</string>
-	<string key="1hRoundShieldElegantT4_TransmogName">T4 - Elegant Round Shield</string>
-	<string key="2hGreatAxeElegantT4_TransmogName">T4 - Elegant Great Axe</string>
-	<string key="1hThrowingAxeElegantT4_TransmogName">T4 - Elegant Hatchet</string>
-	<string key="2hStaffLifeElegantT4_TransmogName">T4 - Elegant Life Staff</string>
-	<string key="2hStaffFireElegantT4_TransmogName">T4 - Elegant Fire Staff</string>
-	<string key="1hKiteShieldElegantT4_TransmogName">T4 - Glass Kite Shield</string>
-	<string key="1hLongswordElegantT4_TransmogName">T4 - Elegant Longsword</string>
-	<string key="1hRapierElegantT4_TransmogName">T4 - Elegant Rapier</string>
-	<string key="2hspearElegantT4_TransmogName">T4 - Elegant Spear</string>
-	<string key="2hVoidGauntletAbyssalT4_TransmogName" rel_version="Weapon_Void_Gauntlet">T4 - Abyssal Void Gauntlet</string>
-	<string key="2hicegauntletAbyssalT4_TransmogName">T4 - Abyssal Ice Gauntlet</string>
-	<string key="2hMusketAbyssalT4_TransmogName">T4 - Abyssal Musket</string>
-	<string key="2hBowAbyssalT4_TransmogName">T4 - Abyssal Bow</string>
-	<string key="2hWarhammerAbyssalT4_TransmogName">T4 - Abyssal War Hammer</string>
-	<string key="1hRoundShieldAbyssalT4_TransmogName">T4 - Abyssal Round Shield</string>
-	<string key="2hGreatAxeAbyssalT4_TransmogName">T4 - Abyssal Great Axe</string>
-	<string key="1hThrowingAxeAbyssalT4_TransmogName">T4 - Abyssal Hatchet</string>
-	<string key="2hStaffLifeAbyssalT4_TransmogName">T4 - Abyssal Life Staff</string>
-	<string key="2hStaffFireAbyssalT4_TransmogName">T4 - Abyssal Fire Staff</string>
-	<string key="1hKiteShieldAbyssalT4_TransmogName">T4 - Abyssal Kite Shield</string>
-	<string key="1hLongswordAbyssalT4_TransmogName">T4 - Abyssal Longsword</string>
-	<string key="1hRapierAbyssalT4_TransmogName">T4 - Abyssal Rapier</string>
-	<string key="2hspearAbyssalT4_TransmogName">T4 - Abyssal Spear</string>
-	<string key="2hVoidGauntletEtherealT4_TransmogName" rel_version="Weapon_Void_Gauntlet">T4 - Ethereal Void Gauntlet</string>
-	<string key="2hicegauntletEtherealT4_TransmogName">T4 - Ethereal Ice Gauntlet</string>
-	<string key="2hMusketEtherealT4_TransmogName">T4 - Ethereal Musket</string>
-	<string key="2hBowEtherealT4_TransmogName">T4 - Ethereal Bow</string>
-	<string key="2hWarhammerEtherealT4_TransmogName">T4 - Ethereal War Hammer</string>
-	<string key="2hGreatAxeEtherealT4_TransmogName">T4 - Ethereal Great Axe</string>
-	<string key="1hThrowingAxeEtherealT4_TransmogName">T4 - Ethereal Hatchet</string>
-	<string key="2hStaffFireEtherealT4_TransmogName">T4 - Ethereal Fire Staff</string>
-	<string key="1hKiteShieldEtherealT4_TransmogName">T4 - Ethereal Kite Shield</string>
-	<string key="1hLongswordEtherealT4_TransmogName">T4 - Ethereal Longsword</string>
-	<string key="1hRapierEtherealT4_TransmogName">T4 - Ethereal Rapier</string>
-	<string key="2hspearEtherealT4_TransmogName">T4 - Ethereal Spear</string>
-	<string key="2hVoidGauntletFaeT4_TransmogName" rel_version="Weapon_Void_Gauntlet">T4 - Fae Void Gauntlet</string>
-	<string key="2hMusketFaeT4_TransmogName">T4 - Fae Musket</string>
-	<string key="2hBowFaeT4_TransmogName">T4 - Fae Bow</string>
-	<string key="2hWarhammerFaeT4_TransmogName">T4 - Fae War Hammer</string>
-	<string key="2hGreatAxeFaeT4_TransmogName">T4 - Fae Great Axe</string>
-	<string key="1hThrowingAxeFaeT4_TransmogName">T4 - Fae Hatchet</string>
-	<string key="2hStaffLifeFaeT4_TransmogName">T4 - Fae Life Staff</string>
-	<string key="2hStaffFireFaeT4_TransmogName">T4 - Fae Fire Staff</string>
-	<string key="1hKiteShieldFaeT4_TransmogName">T4 - Fae Kite Shield</string>
-	<string key="1hLongswordFaeT4_TransmogName">T4 - Fae Longsword</string>
-	<string key="1hRapierFaeT4_TransmogName">T4 - Fae Rapier</string>
-	<string key="2hspearFaeT4_TransmogName">T4 - Fae Spear</string>
-	<string key="2hVoidGauntletImmolatedT4_TransmogName" rel_version="Weapon_Void_Gauntlet">T4 - Immolated Void Gauntlet</string>
-	<string key="2hMusketImmolatedT4_TransmogName">T4 - Immolated Musket</string>
-	<string key="2hBowImmolatedT4_TransmogName">T4 - Immolated Bow</string>
-	<string key="2hWarhammerImmolatedT4_TransmogName">T4 - Immolated War Hammer</string>
-	<string key="2hGreatAxeImmolatedT4_TransmogName">T4 - Immolated Great Axe</string>
-	<string key="1hThrowingAxeImmolatedT4_TransmogName">T4 - Immolated Hatchet</string>
-	<string key="2hStaffLifeImmolatedT4_TransmogName">T4 - Immolated Life Staff</string>
-	<string key="2hStaffFireImmolatedT4_TransmogName">T4 - Immolated Fire Staff</string>
-	<string key="1hKiteShieldImmolatedT4_TransmogName">T4 - Immolated Kite Shield</string>
-	<string key="1hLongswordImmolatedT4_TransmogName">T4 - Immolated Longsword</string>
-	<string key="1hRapierImmolatedT4_TransmogName">T4 - Immolated Rapier</string>
-	<string key="2hspearImmolatedT4_TransmogName">T4 - Immolated Spear</string>
-	<string key="2hVoidGauntletViciousT4_TransmogName" rel_version="Weapon_Void_Gauntlet">T4 - Vicious Void Gauntlet</string>
-	<string key="2hMusketViciousT4_TransmogName">T4 - Vicious Musket</string>
-	<string key="2hBowViciousT4_TransmogName">T4 - Vicious Bow</string>
-	<string key="2hWarhammerViciousT4_TransmogName">T4 - Vicious War Hammer</string>
-	<string key="2hGreatAxeViciousT4_TransmogName">T4 - Vicious Great Axe</string>
-	<string key="1hThrowingAxeViciousT4_TransmogName">T4 - Vicious Hatchet</string>
-	<string key="2hStaffLifeViciousT4_TransmogName">T4 - Vicious Life Staff</string>
-	<string key="2hStaffFireViciousT4_TransmogName">T4 - Vicious Fire Staff</string>
-	<string key="1hKiteShieldViciousT4_TransmogName">T4 - Elegant Kite Shield</string>
-	<string key="1hLongswordViciousT4_TransmogName">T4 - Vicious Longsword</string>
-	<string key="1hRapierViciousT4_TransmogName">T4 - Vicious Rapier</string>
-	<string key="2hspearViciousT4_TransmogName">T4 - Vicious Spear</string>
-	<string key="2hVoidGauntletVinespunT4_TransmogName" rel_version="Weapon_Void_Gauntlet">T4 - Vinespun Void Gauntlet</string>
-	<string key="2hicegauntletVinespunT4_TransmogName">T4 - Vinespun Ice Gauntlet</string>
-	<string key="2hMusketVinespunT4_TransmogName">T4 - Vinespun Musket</string>
-	<string key="2hBowVinespunT4_TransmogName">T4 - Vinespun Bow</string>
-	<string key="2hWarhammerVinespunT4_TransmogName">T4 - Vinespun War Hammer</string>
-	<string key="1hRoundShieldVinespunT4_TransmogName">T4 - Vinespun Round Shield</string>
-	<string key="2hGreatAxeVinespunT4_TransmogName">T4 - Vinespun Great Axe</string>
-	<string key="1hThrowingAxeVinespunT4_TransmogName">T4 - Vinespun Hatchet</string>
-	<string key="2hStaffLifeVinespunT4_TransmogName">T4 - Vinespun Life Staff</string>
-	<string key="2hStaffFireVinespunT4_TransmogName">T4 - Vinespun Fire Staff</string>
-	<string key="1hKiteShieldVinespunT4_TransmogName">T4 - Vicious Kite Shield</string>
-	<string key="1hLongswordVinespunT4_TransmogName">T4 - Vinespun Longsword</string>
-	<string key="1hRapierVinespunT4_TransmogName">T4 - Vinespun Rapier</string>
-	<string key="2hspearVinespunT4_TransmogName">T4 - Vinespun Spear</string>
-	<string key="2hVoidGauntletVoidbentT4_TransmogName" rel_version="Weapon_Void_Gauntlet">T4 - Voidbent Void Gauntlet</string>
-	<string key="2hVoidicegauntletbentT4_TransmogName">T4 - Voidbent Ice Gauntlet</string>
-	<string key="2hMusketVoidbentT4_TransmogName">T4 - Voidbent Musket</string>
-	<string key="2hBowVoidbentT4_TransmogName">T4 - Voidbent Bow</string>
-	<string key="2hWarhammerVoidbentT4_TransmogName">T4 - Voidbent War Hammer</string>
-	<string key="1hRoundShieldVoidbentT4_TransmogName">T4 - Voidbent Round Shield</string>
-	<string key="2hGreatAxeVoidbentT4_TransmogName">T4 - Voidbent Great Axe</string>
-	<string key="1hThrowingAxeVoidbentT4_TransmogName">T4 - Voidbent Hatchet</string>
-	<string key="2hStaffLifeVoidbentT4_TransmogName">T4 - Voidbent Life Staff</string>
-	<string key="2hStaffFireVoidbentT4_TransmogName">T4 - Voidbent Fire Staff</string>
-	<string key="1hKiteShieldVoidbentT4_TransmogName">T4 - Vinespun Kite Shield</string>
-	<string key="1hLongswordVoidbentT4_TransmogName">T4 - Voidbent Longsword</string>
-	<string key="1hRapierVoidbentT4_TransmogName">T4 - Voidbent Rapier</string>
-	<string key="2hspearVoidbentT4_TransmogName">T4 - Voidbent Spear</string>
-	<string key="2hVoidGauntletWaveborneT4_TransmogName" rel_version="Weapon_Void_Gauntlet">T4 - Waveborne Void Gauntlet</string>
-	<string key="2hicegauntletWaveborneT4_TransmogName">T4 - Waveborne Ice Gauntlet</string>
-	<string key="2hMusketWaveborneT4_TransmogName">T4 - Waveborne Musket</string>
-	<string key="2hBowWaveborneT4_TransmogName">T4 - Waveborne Bow</string>
-	<string key="2hWarhammerWaveborneT4_TransmogName">T4 - Waveborne War Hammer</string>
-	<string key="1hRoundShieldWaveborneT4_TransmogName">T4 - Waveborne Round Shield</string>
-	<string key="2hGreatAxeWaveborneT4_TransmogName">T4 - Waveborne Great Axe</string>
-	<string key="1hThrowingAxeWaveborneT4_TransmogName">T4 - Waveborne Hatchet</string>
-	<string key="2hStaffLifeWaveborneT4_TransmogName">T4 - Waveborne Life Staff</string>
-	<string key="2hStaffFireWaveborneT4_TransmogName">T4 - Waveborne Fire Staff</string>
-	<string key="1hKiteShieldWaveborneT4_TransmogName">T4 - Voidbent Kite Shield</string>
-	<string key="1hLongswordWaveborneT4_TransmogName">T4 - Waveborne Longsword</string>
-	<string key="1hRapierWaveborneT4_TransmogName">T4 - Waveborne Rapier</string>
-	<string key="2hspearWaveborneT4_TransmogName">T4 - Waveborne Spear</string>
-	<string key="2hVoidGauntletElegantT5_TransmogName" rel_version="Weapon_Void_Gauntlet">T5 - Elegant Void Gauntlet</string>
-	<string key="2hMusketElegantT5_TransmogName">T5 - Elegant Musket</string>
-	<string key="2hWarhammerElegantT5_TransmogName">T5 - Elegant War Hammer</string>
-	<string key="1hRoundShieldElegantT5_TransmogName">T5 - Elegant Round Shield</string>
-	<string key="2hGreatAxeElegantT5_TransmogName">T5 - Elegant Great Axe</string>
-	<string key="1hThrowingAxeElegantT5_TransmogName">T5 - Elegant Hatchet</string>
-	<string key="2hStaffLifeElegantT5_TransmogName">T5 - Elegant Life Staff</string>
-	<string key="2hStaffFireElegantT5_TransmogName">T5 - Elegant Fire Staff</string>
-	<string key="1hKiteShieldElegantT5_TransmogName">T5 - Glass Kite Shield</string>
-	<string key="1hLongswordElegantT5_TransmogName">T5 - Elegant Longsword</string>
-	<string key="1hRapierElegantT5_TransmogName">T5 - Elegant Rapier</string>
-	<string key="2hspearElegantT5_TransmogName">T5 - Elegant Spear</string>
-	<string key="2hVoidGauntletAbyssalT5_TransmogName" rel_version="Weapon_Void_Gauntlet">T5 - Abyssal Void Gauntlet</string>
-	<string key="2hicegauntletAbyssalT5_TransmogName">T5 - Abyssal Ice Gauntlet</string>
-	<string key="2hMusketAbyssalT5_TransmogName">T5 - Abyssal Musket</string>
-	<string key="2hBowAbyssalT5_TransmogName">T5 - Abyssal Bow</string>
-	<string key="2hWarhammerAbyssalT5_TransmogName">T5 - Abyssal War Hammer</string>
-	<string key="1hRoundShieldAbyssalT5_TransmogName">T5 - Abyssal Round Shield</string>
-	<string key="2hGreatAxeAbyssalT5_TransmogName">T5 - Abyssal Great Axe</string>
-	<string key="1hThrowingAxeAbyssalT5_TransmogName">T5 - Abyssal Hatchet</string>
-	<string key="2hStaffLifeAbyssalT5_TransmogName">T5 - Abyssal Life Staff</string>
-	<string key="2hStaffFireAbyssalT5_TransmogName">T5 - Abyssal Fire Staff</string>
-	<string key="1hKiteShieldAbyssalT5_TransmogName">T5 - Abyssal Kite Shield</string>
-	<string key="1hLongswordAbyssalT5_TransmogName">T5 - Abyssal Longsword</string>
-	<string key="1hRapierAbyssalT5_TransmogName">T5 - Abyssal Rapier</string>
-	<string key="2hspearAbyssalT5_TransmogName">T5 - Abyssal Spear</string>
-	<string key="2hVoidGauntletEtherealT5_TransmogName" rel_version="Weapon_Void_Gauntlet">T5 - Ethereal Void Gauntlet</string>
-	<string key="2hicegauntletEtherealT5_TransmogName">T5 - Ethereal Ice Gauntlet</string>
-	<string key="2hMusketEtherealT5_TransmogName">T5 - Ethereal Musket</string>
-	<string key="2hBowEtherealT5_TransmogName">T5 - Ethereal Bow</string>
-	<string key="2hWarhammerEtherealT5_TransmogName">T5 - Ethereal War Hammer</string>
-	<string key="2hGreatAxeEtherealT5_TransmogName">T5 - Ethereal Great Axe</string>
-	<string key="1hThrowingAxeEtherealT5_TransmogName">T5 - Ethereal Hatchet</string>
-	<string key="2hStaffFireEtherealT5_TransmogName">T5 - Ethereal Fire Staff</string>
-	<string key="1hKiteShieldEtherealT5_TransmogName">T5 - Ethereal Kite Shield</string>
-	<string key="1hLongswordEtherealT5_TransmogName">T5 - Ethereal Longsword</string>
-	<string key="1hRapierEtherealT5_TransmogName">T5 - Ethereal Rapier</string>
-	<string key="2hspearEtherealT5_TransmogName">T5 - Ethereal Spear</string>
-	<string key="2hVoidGauntletFaeT5_TransmogName" rel_version="Weapon_Void_Gauntlet">T5 - Fae Void Gauntlet</string>
-	<string key="2hMusketFaeT5_TransmogName">T5 - Fae Musket</string>
-	<string key="2hBowFaeT5_TransmogName">T5 - Fae Bow</string>
-	<string key="2hWarhammerFaeT5_TransmogName">T5 - Fae War Hammer</string>
-	<string key="2hGreatAxeFaeT5_TransmogName">T5 - Fae Great Axe</string>
-	<string key="1hThrowingAxeFaeT5_TransmogName">T5 - Fae Hatchet</string>
-	<string key="2hStaffLifeFaeT5_TransmogName">T5 - Fae Life Staff</string>
-	<string key="2hStaffFireFaeT5_TransmogName">T5 - Fae Fire Staff</string>
-	<string key="1hKiteShieldFaeT5_TransmogName">T5 - Fae Kite Shield</string>
-	<string key="1hLongswordFaeT5_TransmogName">T5 - Fae Longsword</string>
-	<string key="1hRapierFaeT5_TransmogName">T5 - Fae Rapier</string>
-	<string key="2hspearFaeT5_TransmogName">T5 - Fae Spear</string>
-	<string key="2hVoidGauntletImmolatedT5_TransmogName" rel_version="Weapon_Void_Gauntlet">T5 - Immolated Void Gauntlet</string>
-	<string key="2hMusketImmolatedT5_TransmogName">T5 - Immolated Musket</string>
-	<string key="2hBowImmolatedT5_TransmogName">T5 - Immolated Bow</string>
-	<string key="2hWarhammerImmolatedT5_TransmogName">T5 - Immolated War Hammer</string>
-	<string key="2hGreatAxeImmolatedT5_TransmogName">T5 - Immolated Great Axe</string>
-	<string key="1hThrowingAxeImmolatedT5_TransmogName">T5 - Immolated Hatchet</string>
-	<string key="2hStaffLifeImmolatedT5_TransmogName">T5 - Immolated Life Staff</string>
-	<string key="2hStaffFireImmolatedT5_TransmogName">T5 - Immolated Fire Staff</string>
-	<string key="1hKiteShieldImmolatedT5_TransmogName">T5 - Immolated Kite Shield</string>
-	<string key="1hLongswordImmolatedT5_TransmogName">T5 - Immolated Longsword</string>
-	<string key="1hRapierImmolatedT5_TransmogName">T5 - Immolated Rapier</string>
-	<string key="2hspearImmolatedT5_TransmogName">T5 - Immolated Spear</string>
-	<string key="2hVoidGauntletViciousT5_TransmogName" rel_version="Weapon_Void_Gauntlet">T5 - Vicious Void Gauntlet</string>
-	<string key="2hMusketViciousT5_TransmogName">T5 - Vicious Musket</string>
-	<string key="2hBowViciousT5_TransmogName">T5 - Vicious Bow</string>
-	<string key="2hWarhammerViciousT5_TransmogName">T5 - Vicious War Hammer</string>
-	<string key="2hGreatAxeViciousT5_TransmogName">T5 - Vicious Great Axe</string>
-	<string key="1hThrowingAxeViciousT5_TransmogName">T5 - Vicious Hatchet</string>
-	<string key="2hStaffLifeViciousT5_TransmogName">T5 - Vicious Life Staff</string>
-	<string key="2hStaffFireViciousT5_TransmogName">T5 - Vicious Fire Staff</string>
-	<string key="1hKiteShieldViciousT5_TransmogName">T5 - Elegant Kite Shield</string>
-	<string key="1hLongswordViciousT5_TransmogName">T5 - Vicious Longsword</string>
-	<string key="1hRapierViciousT5_TransmogName">T5 - Vicious Rapier</string>
-	<string key="2hspearViciousT5_TransmogName">T5 - Vicious Spear</string>
-	<string key="2hVoidGauntletVinespunT5_TransmogName" rel_version="Weapon_Void_Gauntlet">T5 - Vinespun Void Gauntlet</string>
-	<string key="2hicegauntletVinespunT5_TransmogName">T5 - Vinespun Ice Gauntlet</string>
-	<string key="2hMusketVinespunT5_TransmogName">T5 - Vinespun Musket</string>
-	<string key="2hBowVinespunT5_TransmogName">T5 - Vinespun Bow</string>
-	<string key="2hWarhammerVinespunT5_TransmogName">T5 - Vinespun War Hammer</string>
-	<string key="1hRoundShieldVinespunT5_TransmogName">T5 - Vinespun Round Shield</string>
-	<string key="2hGreatAxeVinespunT5_TransmogName">T5 - Vinespun Great Axe</string>
-	<string key="1hThrowingAxeVinespunT5_TransmogName">T5 - Vinespun Hatchet</string>
-	<string key="2hStaffLifeVinespunT5_TransmogName">T5 - Vinespun Life Staff</string>
-	<string key="2hStaffFireVinespunT5_TransmogName">T5 - Vinespun Fire Staff</string>
-	<string key="1hKiteShieldVinespunT5_TransmogName">T5 - Vicious Kite Shield</string>
-	<string key="1hLongswordVinespunT5_TransmogName">T5 - Vinespun Longsword</string>
-	<string key="1hRapierVinespunT5_TransmogName">T5 - Vinespun Rapier</string>
-	<string key="2hspearVinespunT5_TransmogName">T5 - Vinespun Spear</string>
-	<string key="2hVoidGauntletVoidbentT5_TransmogName" rel_version="Weapon_Void_Gauntlet">T5 - Voidbent Void Gauntlet</string>
-	<string key="2hVoidicegauntletbentT5_TransmogName">T5 - Voidbent Ice Gauntlet</string>
-	<string key="2hMusketVoidbentT5_TransmogName">T5 - Voidbent Musket</string>
-	<string key="2hBowVoidbentT5_TransmogName">T5 - Voidbent Bow</string>
-	<string key="2hWarhammerVoidbentT5_TransmogName">T5 - Voidbent War Hammer</string>
-	<string key="1hRoundShieldVoidbentT5_TransmogName">T5 - Voidbent Round Shield</string>
-	<string key="2hGreatAxeVoidbentT5_TransmogName">T5 - Voidbent Great Axe</string>
-	<string key="1hThrowingAxeVoidbentT5_TransmogName">T5 - Voidbent Hatchet</string>
-	<string key="2hStaffLifeVoidbentT5_TransmogName">T5 - Voidbent Life Staff</string>
-	<string key="2hStaffFireVoidbentT5_TransmogName">T5 - Voidbent Fire Staff</string>
-	<string key="1hKiteShieldVoidbentT5_TransmogName">T5 - Vinespun Kite Shield</string>
-	<string key="1hLongswordVoidbentT5_TransmogName">T5 - Voidbent Longsword</string>
-	<string key="1hRapierVoidbentT5_TransmogName">T5 - Voidbent Rapier</string>
-	<string key="2hspearVoidbentT5_TransmogName">T5 - Voidbent Spear</string>
-	<string key="2hVoidGauntletWaveborneT5_TransmogName" rel_version="Weapon_Void_Gauntlet">T5 - Waveborne Void Gauntlet</string>
-	<string key="2hicegauntletWaveborneT5_TransmogName">T5 - Waveborne Ice Gauntlet</string>
-	<string key="2hMusketWaveborneT5_TransmogName">T5 - Waveborne Musket</string>
-	<string key="2hBowWaveborneT5_TransmogName">T5 - Waveborne Bow</string>
-	<string key="2hWarhammerWaveborneT5_TransmogName">T5 - Waveborne War Hammer</string>
-	<string key="1hRoundShieldWaveborneT5_TransmogName">T5 - Waveborne Round Shield</string>
-	<string key="2hGreatAxeWaveborneT5_TransmogName">T5 - Waveborne Great Axe</string>
-	<string key="1hThrowingAxeWaveborneT5_TransmogName">T5 - Waveborne Hatchet</string>
-	<string key="2hStaffLifeWaveborneT5_TransmogName">T5 - Waveborne Life Staff</string>
-	<string key="2hStaffFireWaveborneT5_TransmogName">T5 - Waveborne Fire Staff</string>
-	<string key="1hKiteShieldWaveborneT5_TransmogName">T5 - Voidbent Kite Shield</string>
-	<string key="1hLongswordWaveborneT5_TransmogName">T5 - Waveborne Longsword</string>
-	<string key="1hRapierWaveborneT5_TransmogName">T5 - Waveborne Rapier</string>
-	<string key="2hspearWaveborneT5_TransmogName">T5 - Waveborne Spear</string>
+	<string key="2hicegauntletGlassT3_TransmogName">Glass Steel Ice Gauntlet</string>
+	<string key="2hMusketGlassT3_TransmogName">Glass Steel Musket</string>
+	<string key="2hBowGlassT3_TransmogName">Glass Steel Bow</string>
+	<string key="2hWarhammerGlassT3_TransmogName">Glass Steel War Hammer</string>
+	<string key="1hThrowingAxeGlassT3_TransmogName">Glass Steel Hatchet</string>
+	<string key="2hStaffLifeGlassT3_TransmogName">Glass Steel Life Staff</string>
+	<string key="2hStaffFireGlassT3_TransmogName">Glass Steel Fire Staff</string>
+	<string key="1hKiteShieldGlassT3_TransmogName">Glass Steel Kite Shield</string>
+	<string key="1hRapierGlassT3_TransmogName">Glass Steel Rapier</string>
+	<string key="2hspearGlassT3_TransmogName">Glass Steel Spear</string>
+	<string key="2hicegauntletGlassT4_TransmogName">Glass Starmetal Ice Gauntlet</string>
+	<string key="2hMusketGlassT4_TransmogName">Glass Starmetal Musket</string>
+	<string key="2hBowGlassT4_TransmogName">Glass Starmetal Bow</string>
+	<string key="2hWarhammerGlassT4_TransmogName">Glass Starmetal War Hammer</string>
+	<string key="2hgreatswordGlassT4_TransmogName" rel_version="Weapon_GreatSword">Glass Starmetal Greatsword</string>
+	<string key="2hGreatAxeGlassT4_TransmogName">Glass Starmetal Great Axe</string>
+	<string key="1hThrowingAxeGlassT4_TransmogName">Glass Starmetal Hatchet</string>
+	<string key="2hStaffLifeGlassT4_TransmogName">Glass Starmetal Life Staff</string>
+	<string key="2hStaffFireGlassT4_TransmogName">Glass Starmetal Fire Staff</string>
+	<string key="1hKiteShieldGlassT4_TransmogName">Glass Starmetal Kite Shield</string>
+	<string key="1hShieldCGlassT4_TransmogName">Glass Starmetal Tower Shield</string>
+	<string key="2hspearGlassT4_TransmogName">Glass Starmetal Spear</string>
+	<string key="2hVoidGauntletGlassT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Glass Orichalcum Void Gauntlet</string>
+	<string key="2hicegauntletGlassT5_TransmogName">Glass Orichalcum Ice Gauntlet</string>
+	<string key="2hBlunderbussGlassT5_TransmogName" rel_version="Weapon_Blunderbuss">Glass Orichalcum Blunderbuss</string>
+	<string key="2hMusketGlassT5_TransmogName">Glass Orichalcum Musket</string>
+	<string key="2hBowGlassT5_TransmogName">Glass Orichalcum Bow</string>
+	<string key="2hWarhammerAureateGlassT5_TransmogName" comment="UNUSED">Blown Glass War Hammer</string>
+	<string key="2hWarhammerGlassT5_TransmogName">Glass Orichalcum War Hammer</string>
+	<string key="2hgreatswordGlassT5_TransmogName" rel_version="Weapon_GreatSword">Glass Orichalcum Greatsword</string>
+	<string key="1hRoundShieldGlassT5_TransmogName">Glass Orichalcum Round Shield</string>
+	<string key="2hGreatAxeGlassT5_TransmogName">Glass Orichalcum Great Axe</string>
+	<string key="1hThrowingAxeGlassT5_TransmogName">Glass Orichalcum Hatchet</string>
+	<string key="2hStaffLifeGlassT5_TransmogName">Glass Orichalcum Life Staff</string>
+	<string key="2hStaffFireGlassT5_TransmogName">Glass Orichalcum Fire Staff</string>
+	<string key="1hKiteShieldGlassT5_TransmogName">Glass Orichalcum Kite Shield</string>
+	<string key="1hShieldCGlassT5_TransmogName">Glass Orichalcum Tower Shield</string>
+	<string key="1hLongswordGlassT5_TransmogName">Glass Orichalcum Longsword</string>
+	<string key="1hRapierGlassT5_TransmogName">Glass Orichalcum Rapier</string>
+	<string key="2hspearGlassT5_TransmogName">Glass Orichalcum Spear</string>
+	<string key="2hVoidGauntletAngryEarthT2_TransmogName" rel_version="Weapon_Void_Gauntlet">Angry Earth Iron Void Gauntlet</string>
+	<string key="2hicegauntletAngryEarthT2_TransmogName">Angry Earth Iron Ice Gauntlet</string>
+	<string key="2hMusketAngryEarthT2_TransmogName">Angry Earth Iron Musket</string>
+	<string key="2hBowAngryEarthT2_TransmogName">Angry Earth Iron Bow</string>
+	<string key="2hWarhammerAngryEarthT2_TransmogName">Angry Earth Iron War Hammer</string>
+	<string key="1hRoundShieldAngryEarthT2_TransmogName">Angry Earth Iron Round Shield</string>
+	<string key="2hGreatAxeAngryEarthT2_TransmogName">Angry Earth Iron Great Axe</string>
+	<string key="2hStaffLifeAngryEarthT2_TransmogName">Angry Earth Iron Life Staff</string>
+	<string key="2hStaffFireAngryEarthT2_TransmogName">Angry Earth Iron Fire Staff</string>
+	<string key="1hLongSwordAngryEarthT2_TransmogName">Angry Earth Iron Longsword</string>
+	<string key="1hSwordBAngryEarthT2_TransmogName">Angry Earth Iron Rapier</string>
+	<string key="2hspearAngryEarthT2_TransmogName">Angry Earth Iron Spear</string>
+	<string key="2hVoidGauntletAngryEarthT3_TransmogName" rel_version="Weapon_Void_Gauntlet">Angry Earth Steel Void Gauntlet</string>
+	<string key="2hicegauntletAngryEarthT3_TransmogName">Angry Earth Steel Ice Gauntlet</string>
+	<string key="2hMusketAngryEarthT3_TransmogName">Angry Earth Steel Musket</string>
+	<string key="2hBowAngryEarthT3_TransmogName">Angry Earth Steel Bow</string>
+	<string key="2hWarhammerAngryEarthT3_TransmogName">Angry Earth Steel War Hammer</string>
+	<string key="1hRoundShieldAngryEarthT3_TransmogName">Angry Earth Steel Round Shield</string>
+	<string key="2hGreatAxeAngryEarthT3_TransmogName">Angry Earth Steel Great Axe</string>
+	<string key="1hThrowingAxeAngryEarthT3_TransmogName">Angry Earth Steel Hatchet</string>
+	<string key="2hStaffLifeAngryEarthT3_TransmogName">Angry Earth Steel Life Staff</string>
+	<string key="2hStaffFireAngryEarthT3_TransmogName">Angry Earth Steel Fire Staff</string>
+	<string key="1hKiteShieldAngryEarthT3_TransmogName">Angry Earth Steel Kite Shield</string>
+	<string key="1hLongSwordAngryEarthT3_TransmogName">Angry Earth Steel Longsword</string>
+	<string key="1hSwordBAngryEarthT3_TransmogName">Angry Earth Steel Rapier</string>
+	<string key="2hspearAngryEarthT3_TransmogName">Angry Earth Steel Spear</string>
+	<string key="2hVoidGauntletAngryEarthT4_TransmogName" rel_version="Weapon_Void_Gauntlet">Angry Earth Starmetal Void Gauntlet</string>
+	<string key="2hicegauntletAngryEarthT4_TransmogName">Angry Earth Starmetal Ice Gauntlet</string>
+	<string key="2hBlunderbussAngryEarthT4_TransmogName" rel_version="Weapon_Blunderbuss">Angry Earth Starmetal Blunderbuss</string>
+	<string key="2hMusketAngryEarthT4_TransmogName">Angry Earth Starmetal Musket</string>
+	<string key="2hBowAngryEarthT4_TransmogName">Angry Earth Starmetal Bow</string>
+	<string key="2hWarhammerAngryEarthT4_TransmogName">Angry Earth Starmetal War Hammer</string>
+	<string key="2hgreatswordAngryEarthT4_TransmogName" rel_version="Weapon_GreatSword">Angry Earth Starmetal Greatsword</string>
+	<string key="1hRoundShieldAngryEarthT4_TransmogName">Angry Earth Starmetal Round Shield</string>
+	<string key="2hGreatAxeAngryEarthT4_TransmogName">Angry Earth Starmetal Great Axe</string>
+	<string key="1hThrowingAxeAngryEarthT4_TransmogName">Angry Earth Starmetal Hatchet</string>
+	<string key="2hStaffLifeAngryEarthT4_TransmogName">Angry Earth Starmetal Life Staff</string>
+	<string key="2hStaffFireAngryEarthT4_TransmogName">Angry Earth Starmetal Fire Staff</string>
+	<string key="1hKiteShieldAngryEarthT4_TransmogName">Angry Earth Starmetal Kite Shield</string>
+	<string key="1hShieldCAngryEarthT4_TransmogName">Angry Earth Starmetal Tower Shield</string>
+	<string key="1hLongSwordAngryEarthT4_TransmogName">Angry Earth Starmetal Longsword</string>
+	<string key="1hSwordBAngryEarthT4_TransmogName">Angry Earth Starmetal Rapier</string>
+	<string key="2hspearAngryEarthT4_TransmogName">Angry Earth Starmetal Spear</string>
+	<string key="2hVoidGauntletAngryEarthT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Angry Earth Orichalcum Void Gauntlet</string>
+	<string key="2hicegauntletAngryEarthT5_TransmogName">Angry Earth Orichalcum Ice Gauntlet</string>
+	<string key="2hBlunderbussAngryEarthT5_TransmogName" rel_version="Weapon_Blunderbuss">Angry Earth Orichalcum Blunderbuss</string>
+	<string key="2hMusketAngryEarthT5_TransmogName">Angry Earth Orichalcum Musket</string>
+	<string key="2hBowAngryEarthT5_TransmogName">Angry Earth Orichalcum Bow</string>
+	<string key="2hWarhammerAngryEarthT5_TransmogName">Angry Earth Orichalcum War Hammer</string>
+	<string key="2hgreatswordAngryEarthT5_TransmogName" rel_version="Weapon_GreatSword">Angry Earth Orichalcum Greatsword</string>
+	<string key="1hRoundShieldAngryEarthT5_TransmogName">Angry Earth Orichalcum Round Shield</string>
+	<string key="2hGreatAxeAngryEarthT5_TransmogName">Angry Earth Orichalcum Great Axe</string>
+	<string key="1hThrowingAxeAngryEarthT5_TransmogName">Angry Earth Orichalcum Hatchet</string>
+	<string key="2hStaffLifeAngryEarthT5_TransmogName">Angry Earth Orichalcum Life Staff</string>
+	<string key="2hStaffFireAngryEarthT5_TransmogName">Angry Earth Orichalcum Fire Staff</string>
+	<string key="1hKiteShieldAngryEarthT5_TransmogName">Angry Earth Orichalcum Kite Shield</string>
+	<string key="1hShieldCAngryEarthT5_TransmogName">Angry Earth Orichalcum Tower Shield</string>
+	<string key="1hLongSwordAngryEarthT5_TransmogName">Angry Earth Orichalcum Longsword</string>
+	<string key="1hSwordBAngryEarthT5_TransmogName">Angry Earth Orichalcum Rapier</string>
+	<string key="2hspearAngryEarthT5_TransmogName">Angry Earth Orichalcum Spear</string>
+	<string key="2hVoidGauntletCorruptedT2_TransmogName" rel_version="Weapon_Void_Gauntlet">Corrupted Iron Void Gauntlet</string>
+	<string key="2hicegauntletCorruptedT2_TransmogName">Corrupted Iron Ice Gauntlet</string>
+	<string key="2hMusketCorruptedT2_TransmogName">Corrupted Iron Musket</string>
+	<string key="2hBowCorruptedT2_TransmogName">Corrupted Iron Bow</string>
+	<string key="2hWarhammerCorruptedT2_TransmogName">Corrupted Iron War Hammer</string>
+	<string key="1hRoundShieldCorruptedT2_TransmogName">Corrupted Iron Round Shield</string>
+	<string key="2hGreatAxeCorruptedT2_TransmogName">Corrupted Iron Great Axe</string>
+	<string key="1hThrowingAxeCorruptedT2_TransmogName">Corrupted Iron Hatchet</string>
+	<string key="2hStaffLifeCorruptedT2_TransmogName">Corrupted Iron Life Staff</string>
+	<string key="2hStaffFireCorruptedT2_TransmogName">Corrupted Iron Fire Staff</string>
+	<string key="1hLongSwordCorruptedT2_TransmogName">Corrupted Iron Longsword</string>
+	<string key="1hSwordBCorruptedT2_TransmogName">Corrupted Iron Rapier</string>
+	<string key="2hspearCorruptedT2_TransmogName">Corrupted Iron Spear</string>
+	<string key="2hVoidGauntletCorruptedT3_TransmogName" rel_version="Weapon_Void_Gauntlet">Corrupted Steel Void Gauntlet</string>
+	<string key="2hicegauntletCorruptedT3_TransmogName">Corrupted Steel Ice Gauntlet</string>
+	<string key="2hMusketCorruptedT3_TransmogName">Corrupted Steel Musket</string>
+	<string key="2hBowCorruptedT3_TransmogName">Corrupted Steel Bow</string>
+	<string key="2hWarhammerCorruptedT3_TransmogName">Corrupted Steel War Hammer</string>
+	<string key="1hRoundShieldCorruptedT3_TransmogName">Corrupted Steel Round Shield</string>
+	<string key="2hGreatAxeCorruptedT3_TransmogName">Corrupted Steel Great Axe</string>
+	<string key="1hThrowingAxeCorruptedT3_TransmogName">Corrupted Steel Hatchet</string>
+	<string key="2hStaffLifeCorruptedT3_TransmogName">Corrupted Steel Life Staff</string>
+	<string key="2hStaffFireCorruptedT3_TransmogName">Corrupted Steel Fire Staff</string>
+	<string key="1hKiteShieldCorruptedT3_TransmogName">Corrupted Steel Kite Shield</string>
+	<string key="1hLongSwordCorruptedT3_TransmogName">Corrupted Steel Longsword</string>
+	<string key="1hSwordBCorruptedT3_TransmogName">Corrupted Steel Rapier</string>
+	<string key="2hspearCorruptedT3_TransmogName">Corrupted Steel Spear</string>
+	<string key="2hVoidGauntletCorruptedT4_TransmogName" rel_version="Weapon_Void_Gauntlet">Corrupted Starmetal Void Gauntlet</string>
+	<string key="2hicegauntletCorruptedT4_TransmogName">Corrupted Starmetal Ice Gauntlet</string>
+	<string key="2hBlunderbussCorruptedT4_TransmogName" rel_version="Weapon_Blunderbuss">Corrupted Starmetal Blunderbuss</string>
+	<string key="2hMusketCorruptedT4_TransmogName">Corrupted Starmetal Musket</string>
+	<string key="2hBowCorruptedT4_TransmogName">Corrupted Starmetal Bow</string>
+	<string key="2hWarhammerCorruptedT4_TransmogName">Corrupted Starmetal War Hammer</string>
+	<string key="2hgreatswordCorruptedT4_TransmogName" rel_version="Weapon_GreatSword">Corrupted Starmetal Greatsword</string>
+	<string key="1hRoundShieldCorruptedT4_TransmogName">Corrupted Starmetal Round Shield</string>
+	<string key="2hGreatAxeCorruptedT4_TransmogName">Corrupted Starmetal Great Axe</string>
+	<string key="1hThrowingAxeCorruptedT4_TransmogName">Corrupted Starmetal Hatchet</string>
+	<string key="2hStaffLifeCorruptedT4_TransmogName">Corrupted Starmetal Life Staff</string>
+	<string key="2hStaffFireCorruptedT4_TransmogName">Corrupted Starmetal Fire Staff</string>
+	<string key="1hKiteShieldCorruptedT4_TransmogName">Corrupted Starmetal Kite Shield</string>
+	<string key="1hShieldCCorruptedT4_TransmogName">Corrupted Starmetal Tower Shield</string>
+	<string key="1hLongSwordCorruptedT4_TransmogName">Corrupted Starmetal Longsword</string>
+	<string key="1hSwordBCorruptedT4_TransmogName">Corrupted Starmetal Rapier</string>
+	<string key="2hspearCorruptedT4_TransmogName">Corrupted Starmetal Spear</string>
+	<string key="2hVoidGauntletCorruptedT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Corrupted Orichalcum Void Gauntlet</string>
+	<string key="2hicegauntletCorruptedT5_TransmogName">Corrupted Orichalcum Ice Gauntlet</string>
+	<string key="2hBlunderbussCorruptedT5_TransmogName" rel_version="Weapon_Blunderbuss">Corrupted Orichalcum Blunderbuss</string>
+	<string key="2hMusketCorruptedT5_TransmogName">Corrupted Orichalcum Musket</string>
+	<string key="2hBowCorruptedT5_TransmogName">Corrupted Orichalcum Bow</string>
+	<string key="2hWarhammerCorruptedT5_TransmogName">Corrupted Orichalcum War Hammer</string>
+	<string key="2hgreatswordCorruptedT5_TransmogName" rel_version="Weapon_GreatSword">Corrupted Orichalcum Greatsword</string>
+	<string key="1hRoundShieldCorruptedT5_TransmogName">Corrupted Orichalcum Round Shield</string>
+	<string key="2hGreatAxeCorruptedT5_TransmogName">Corrupted Orichalcum Great Axe</string>
+	<string key="1hThrowingAxeCorruptedT5_TransmogName">Corrupted Orichalcum Hatchet</string>
+	<string key="2hStaffLifeCorruptedT5_TransmogName">Corrupted Orichalcum Life Staff</string>
+	<string key="2hStaffFireCorruptedT5_TransmogName">Corrupted Orichalcum Fire Staff</string>
+	<string key="1hKiteShieldCorruptedT5_TransmogName">Corrupted Orichalcum Kite Shield</string>
+	<string key="1hShieldCCorruptedT5_TransmogName">Corrupted Orichalcum Tower Shield</string>
+	<string key="1hLongSwordCorruptedT5_TransmogName">Corrupted Orichalcum Longsword</string>
+	<string key="1hSwordBCorruptedT5_TransmogName">Corrupted Orichalcum Rapier</string>
+	<string key="2hspearCorruptedT5_TransmogName">Corrupted Orichalcum Spear</string>
+	<string key="2hVoidGauntletAncientT2_TransmogName" rel_version="Weapon_Void_Gauntlet">Ancient Iron Void Gauntlet</string>
+	<string key="2hicegauntletAncientT2_TransmogName">Ancient Iron Ice Gauntlet</string>
+	<string key="2hMusketAncientT2_TransmogName">Ancient Iron Musket</string>
+	<string key="2hBowAncientT2_TransmogName">Ancient Iron Bow</string>
+	<string key="2hWarhammerAncientT2_TransmogName">Ancient Iron War Hammer</string>
+	<string key="1hRoundShieldAncientT2_TransmogName">Ancient Iron Round Shield</string>
+	<string key="2hGreatAxeAncientT2_TransmogName">Ancient Iron Great Axe</string>
+	<string key="1hThrowingAxeAncientT2_TransmogName">Ancient Iron Hatchet</string>
+	<string key="2hStaffLifeAncientT2_TransmogName">Ancient Iron Life Staff</string>
+	<string key="2hStaffFireAncientT2_TransmogName">Ancient Iron Fire Staff</string>
+	<string key="1hLongSwordAncientT2_TransmogName">Ancient Iron Longsword</string>
+	<string key="1hRapierAncientT2_TransmogName">Ancient Iron Rapier</string>
+	<string key="2hspearAncientT2_TransmogName">Ancient Iron Spear</string>
+	<string key="2hVoidGauntletAncientT3_TransmogName" rel_version="Weapon_Void_Gauntlet">Ancient Steel Void Gauntlet</string>
+	<string key="2hicegauntletAncientT3_TransmogName">Ancient Steel Ice Gauntlet</string>
+	<string key="2hMusketAncientT3_TransmogName">Ancient Steel Musket</string>
+	<string key="2hBowAncientT3_TransmogName">Ancient Steel Bow</string>
+	<string key="2hWarhammerAncientT3_TransmogName">Ancient Steel War Hammer</string>
+	<string key="1hRoundShieldAncientT3_TransmogName">Ancient Steel Round Shield</string>
+	<string key="2hGreatAxeAncientT3_TransmogName">Ancient Steel Great Axe</string>
+	<string key="1hThrowingAxeAncientT3_TransmogName">Ancient Steel Hatchet</string>
+	<string key="2hStaffLifeAncientT3_TransmogName">Ancient Steel Life Staff</string>
+	<string key="2hStaffFireAncientT3_TransmogName">Ancient Steel Fire Staff</string>
+	<string key="1hKiteShieldAncientT3_TransmogName">Ancient Steel Kite Shield</string>
+	<string key="1hLongSwordAncientT3_TransmogName">Ancient Steel Longsword</string>
+	<string key="1hRapierAncientT3_TransmogName">Ancient Steel Rapier</string>
+	<string key="2hspearAncientT3_TransmogName">Ancient Steel Spear</string>
+	<string key="2hVoidGauntletAncientT4_TransmogName" rel_version="Weapon_Void_Gauntlet">Ancient Starmetal Void Gauntlet</string>
+	<string key="2hicegauntletAncientT4_TransmogName">Ancient Starmetal Ice Gauntlet</string>
+	<string key="2hBlunderbussAncientT4_TransmogName" rel_version="Weapon_Blunderbuss">Ancient Starmetal Blunderbuss</string>
+	<string key="2hMusketAncientT4_TransmogName">Ancient Starmetal Musket</string>
+	<string key="2hBowAncientT4_TransmogName">Ancient Starmetal Bow</string>
+	<string key="2hWarhammerAncientT4_TransmogName">Ancient Starmetal War Hammer</string>
+	<string key="2hgreatswordAncientT4_TransmogName" rel_version="Weapon_GreatSword">Ancient Starmetal Greatsword</string>
+	<string key="1hRoundShieldAncientT4_TransmogName">Ancient Starmetal Round Shield</string>
+	<string key="2hGreatAxeAncientT4_TransmogName">Ancient Starmetal Great Axe</string>
+	<string key="1hThrowingAxeAncientT4_TransmogName">Ancient Starmetal Hatchet</string>
+	<string key="2hStaffLifeAncientT4_TransmogName">Ancient Starmetal Life Staff</string>
+	<string key="2hStaffFireAncientT4_TransmogName">Ancient Starmetal Fire Staff</string>
+	<string key="1hKiteShieldAncientT4_TransmogName">Ancient Starmetal Kite Shield</string>
+	<string key="1hShieldCAncientT4_TransmogName">Ancient Starmetal Tower Shield</string>
+	<string key="1hLongSwordAncientT4_TransmogName">Ancient Starmetal Longsword</string>
+	<string key="1hRapierAncientT4_TransmogName">Ancient Starmetal Rapier</string>
+	<string key="2hspearAncientT4_TransmogName">Ancient Starmetal Spear</string>
+	<string key="2hVoidGauntletAncientT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Ancient Orichalcum Void Gauntlet</string>
+	<string key="2hicegauntletAncientT5_TransmogName">Ancient Orichalcum Ice Gauntlet</string>
+	<string key="2hBlunderbussAncientT5_TransmogName" rel_version="Weapon_Blunderbuss">Ancient Orichalcum Blunderbuss</string>
+	<string key="2hMusketAncientT5_TransmogName">Ancient Orichalcum Musket</string>
+	<string key="2hBowAncientT5_TransmogName">Ancient Orichalcum Bow</string>
+	<string key="2hWarhammerAncientT5_TransmogName">Ancient Orichalcum War Hammer</string>
+	<string key="2hgreatswordAncientT5_TransmogName" rel_version="Weapon_GreatSword">Ancient Orichalcum Greatsword</string>
+	<string key="1hRoundShieldAncientT5_TransmogName">Ancient Orichalcum Round Shield</string>
+	<string key="2hGreatAxeAncientT5_TransmogName">Ancient Orichalcum Great Axe</string>
+	<string key="1hThrowingAxeAncientT5_TransmogName">Ancient Orichalcum Hatchet</string>
+	<string key="2hStaffLifeAncientT5_TransmogName">Ancient Orichalcum Life Staff</string>
+	<string key="2hStaffFireAncientT5_TransmogName">Ancient Orichalcum Fire Staff</string>
+	<string key="1hKiteShieldAncientT5_TransmogName">Ancient Orichalcum Kite Shield</string>
+	<string key="1hShieldCAncientT5_TransmogName">Ancient Orichalcum Tower Shield</string>
+	<string key="1hLongSwordAncientT5_TransmogName">Ancient Orichalcum Longsword</string>
+	<string key="1hRapierAncientT5_TransmogName">Ancient Orichalcum Rapier</string>
+	<string key="2hspearAncientT5_TransmogName">Ancient Orichalcum Spear</string>
+	<string key="2hVoidGauntletLostT2_TransmogName" rel_version="Weapon_Void_Gauntlet">Lost Iron Void Gauntlet</string>
+	<string key="2hicegauntletLostT2_TransmogName">Lost Iron Ice Gauntlet</string>
+	<string key="2hMusketLostT2_TransmogName">Lost Iron Musket</string>
+	<string key="2hBowLostT2_TransmogName">Lost Iron Bow</string>
+	<string key="2hWarhammerLostT2_TransmogName">Lost Iron War Hammer</string>
+	<string key="1hRoundShieldLostT2_TransmogName">Lost Iron Round Shield</string>
+	<string key="2hGreatAxeLostT2_TransmogName">Lost Iron Great Axe</string>
+	<string key="1hThrowingAxeLostT2_TransmogName">Lost Iron Hatchet</string>
+	<string key="2hStaffLifeLostT2_TransmogName">Lost Iron Life Staff</string>
+	<string key="2hStaffFireLostT2_TransmogName">Lost Iron Fire Staff</string>
+	<string key="1hLongSwordLostT2_TransmogName">Lost Iron Longsword</string>
+	<string key="1hSwordBLostT2_TransmogName">Lost Iron Rapier</string>
+	<string key="2hspearLostT2_TransmogName">Lost Iron Spear</string>
+	<string key="2hVoidGauntletLostT3_TransmogName" rel_version="Weapon_Void_Gauntlet">Lost Steel Void Gauntlet</string>
+	<string key="2hicegauntletLostT3_TransmogName">Lost Steel Ice Gauntlet</string>
+	<string key="2hMusketLostT3_TransmogName">Lost Steel Musket</string>
+	<string key="2hBowLostT3_TransmogName">Lost Steel Bow</string>
+	<string key="2hWarhammerLostT3_TransmogName">Lost Steel War Hammer</string>
+	<string key="1hRoundShieldLostT3_TransmogName">Lost Steel Round Shield</string>
+	<string key="2hGreatAxeLostT3_TransmogName">Lost Steel Great Axe</string>
+	<string key="1hThrowingAxeLostT3_TransmogName">Lost Steel Hatchet</string>
+	<string key="2hStaffLifeLostT3_TransmogName">Lost Steel Life Staff</string>
+	<string key="2hStaffFireLostT3_TransmogName">Lost Steel Fire Staff</string>
+	<string key="1hKiteShieldLostT3_TransmogName">Lost Steel Kite Shield</string>
+	<string key="1hLongSwordLostT3_TransmogName">Lost Steel Longsword</string>
+	<string key="1hSwordBLostT3_TransmogName">Lost Steel Rapier</string>
+	<string key="2hspearLostT3_TransmogName">Lost Steel Spear</string>
+	<string key="2hVoidGauntletLostT4_TransmogName" rel_version="Weapon_Void_Gauntlet">Lost Starmetal Void Gauntlet</string>
+	<string key="2hicegauntletLostT4_TransmogName">Lost Starmetal Ice Gauntlet</string>
+	<string key="2hBlunderbussLostT4_TransmogName" rel_version="Weapon_Blunderbuss">Lost Starmetal Blunderbuss</string>
+	<string key="2hMusketLostT4_TransmogName">Lost Starmetal Musket</string>
+	<string key="2hBowLostT4_TransmogName">Lost Starmetal Bow</string>
+	<string key="2hWarhammerLostT4_TransmogName">Lost Starmetal War Hammer</string>
+	<string key="2hgreatswordLostT4_TransmogName" rel_version="Weapon_GreatSword">Lost Starmetal Greatsword</string>
+	<string key="1hRoundShieldLostT4_TransmogName">Lost Starmetal Round Shield</string>
+	<string key="2hGreatAxeLostT4_TransmogName">Lost Starmetal Great Axe</string>
+	<string key="1hThrowingAxeLostT4_TransmogName">Lost Starmetal Hatchet</string>
+	<string key="2hStaffLifeLostT4_TransmogName">Lost Starmetal Life Staff</string>
+	<string key="2hStaffFireLostT4_TransmogName">Lost Starmetal Fire Staff</string>
+	<string key="1hKiteShieldLostT4_TransmogName">Lost Starmetal Kite Shield</string>
+	<string key="1hShieldCLostT4_TransmogName">Lost Starmetal Tower Shield</string>
+	<string key="1hLongSwordLostT4_TransmogName">Lost Starmetal Longsword</string>
+	<string key="1hSwordBLostT4_TransmogName">Lost Starmetal Rapier</string>
+	<string key="2hspearLostT4_TransmogName">Lost Starmetal Spear</string>
+	<string key="2hVoidGauntletLostT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Lost Orichalcum Void Gauntlet</string>
+	<string key="2hicegauntletLostT5_TransmogName">Lost Orichalcum Ice Gauntlet</string>
+	<string key="2hBlunderbussLostT5_TransmogName" rel_version="Weapon_Blunderbuss">Lost Orichalcum Blunderbuss</string>
+	<string key="2hMusketLostT5_TransmogName">Lost Orichalcum Musket</string>
+	<string key="2hBowLostT5_TransmogName">Lost Orichalcum Bow</string>
+	<string key="2hWarhammerLostT5_TransmogName">Lost Orichalcum War Hammer</string>
+	<string key="2hgreatswordLostT5_TransmogName" rel_version="Weapon_GreatSword">Lost Orichalcum Greatsword</string>
+	<string key="1hRoundShieldLostT5_TransmogName">Lost Orichalcum Round Shield</string>
+	<string key="2hGreatAxeLostT5_TransmogName">Lost Orichalcum Great Axe</string>
+	<string key="1hThrowingAxeLostT5_TransmogName">Lost Orichalcum Hatchet</string>
+	<string key="2hStaffLifeLostT5_TransmogName">Lost Orichalcum Life Staff</string>
+	<string key="2hStaffFireLostT5_TransmogName">Lost Orichalcum Fire Staff</string>
+	<string key="1hKiteShieldLostT5_TransmogName">Lost Orichalcum Kite Shield</string>
+	<string key="1hShieldCLostT5_TransmogName">Lost Orichalcum Tower Shield</string>
+	<string key="1hLongSwordLostT5_TransmogName">Lost Orichalcum Longsword</string>
+	<string key="1hSwordBLostT5_TransmogName">Lost Orichalcum Rapier</string>
+	<string key="2hspearLostT5_TransmogName">Lost Orichalcum Spear</string>
+	<string key="2hVoidGauntletElegantT3_TransmogName" rel_version="Weapon_Void_Gauntlet">Elegant Steel Void Gauntlet</string>
+	<string key="2hMusketElegantT3_TransmogName">Elegant Steel Musket</string>
+	<string key="2hWarhammerElegantT3_TransmogName">Elegant Steel War Hammer</string>
+	<string key="1hRoundShieldElegantT3_TransmogName">Elegant Steel Round Shield</string>
+	<string key="2hGreatAxeElegantT3_TransmogName">Elegant Steel Great Axe</string>
+	<string key="1hThrowingAxeElegantT3_TransmogName">Elegant Steel Hatchet</string>
+	<string key="2hStaffLifeElegantT3_TransmogName">Elegant Steel Life Staff</string>
+	<string key="2hStaffFireElegantT3_TransmogName">Elegant Steel Fire Staff</string>
+	<string key="1hKiteShieldElegantT3_TransmogName">Elegant Steel Kite Shield</string>
+	<string key="1hLongswordElegantT3_TransmogName">Elegant Steel Longsword</string>
+	<string key="1hRapierElegantT3_TransmogName">Elegant Steel Rapier</string>
+	<string key="2hspearElegantT3_TransmogName">Elegant Steel Spear</string>
+	<string key="2hVoidGauntletAbyssalT3_TransmogName" rel_version="Weapon_Void_Gauntlet">Abyssal Steel Void Gauntlet</string>
+	<string key="2hicegauntletAbyssalT3_TransmogName">Abyssal Steel Ice Gauntlet</string>
+	<string key="2hMusketAbyssalT3_TransmogName">Abyssal Steel Musket</string>
+	<string key="2hBowAbyssalT3_TransmogName">Abyssal Steel Bow</string>
+	<string key="2hWarhammerAbyssalT3_TransmogName">Abyssal Steel War Hammer</string>
+	<string key="1hRoundShieldAbyssalT3_TransmogName">Abyssal Steel Round Shield</string>
+	<string key="2hGreatAxeAbyssalT3_TransmogName">Abyssal Steel Great Axe</string>
+	<string key="1hThrowingAxeAbyssalT3_TransmogName">Abyssal Steel Hatchet</string>
+	<string key="2hStaffLifeAbyssalT3_TransmogName">Abyssal Steel Life Staff</string>
+	<string key="2hStaffFireAbyssalT3_TransmogName">Abyssal Steel Fire Staff</string>
+	<string key="1hKiteShieldAbyssalT3_TransmogName">Abyssal Steel Kite Shield</string>
+	<string key="1hLongswordAbyssalT3_TransmogName">Abyssal Steel Longsword</string>
+	<string key="1hRapierAbyssalT3_TransmogName">Abyssal Steel Rapier</string>
+	<string key="2hspearAbyssalT3_TransmogName">Abyssal Steel Spear</string>
+	<string key="2hVoidGauntletEtherealT3_TransmogName" rel_version="Weapon_Void_Gauntlet">Ethereal Steel Void Gauntlet</string>
+	<string key="2hicegauntletEtherealT3_TransmogName">Ethereal Steel Ice Gauntlet</string>
+	<string key="2hMusketEtherealT3_TransmogName">Ethereal Steel Musket</string>
+	<string key="2hBowEtherealT3_TransmogName">Ethereal Steel Bow</string>
+	<string key="2hWarhammerEtherealT3_TransmogName">Ethereal Steel War Hammer</string>
+	<string key="2hGreatAxeEtherealT3_TransmogName">Ethereal Steel Great Axe</string>
+	<string key="1hThrowingAxeEtherealT3_TransmogName">Ethereal Steel Hatchet</string>
+	<string key="2hStaffFireEtherealT3_TransmogName">Ethereal Steel Fire Staff</string>
+	<string key="1hKiteShieldEtherealT3_TransmogName">Ethereal Steel Kite Shield</string>
+	<string key="1hLongswordEtherealT3_TransmogName">Ethereal Steel Longsword</string>
+	<string key="1hRapierEtherealT3_TransmogName">Ethereal Steel Rapier</string>
+	<string key="2hspearEtherealT3_TransmogName">Ethereal Steel Spear</string>
+	<string key="2hVoidGauntletFaeT3_TransmogName" rel_version="Weapon_Void_Gauntlet">Fae Steel Void Gauntlet</string>
+	<string key="2hMusketFaeT3_TransmogName">Fae Steel Musket</string>
+	<string key="2hBowFaeT3_TransmogName">Fae Steel Bow</string>
+	<string key="2hWarhammerFaeT3_TransmogName">Fae Steel War Hammer</string>
+	<string key="2hGreatAxeFaeT3_TransmogName">Fae Steel Great Axe</string>
+	<string key="1hThrowingAxeFaeT3_TransmogName">Fae Steel Hatchet</string>
+	<string key="2hStaffLifeFaeT3_TransmogName">Fae Steel Life Staff</string>
+	<string key="2hStaffFireFaeT3_TransmogName">Fae Steel Fire Staff</string>
+	<string key="1hKiteShieldFaeT3_TransmogName">Fae Steel Kite Shield</string>
+	<string key="1hLongswordFaeT3_TransmogName">Fae Steel Longsword</string>
+	<string key="1hRapierFaeT3_TransmogName">Fae Steel Rapier</string>
+	<string key="2hspearFaeT3_TransmogName">Fae Steel Spear</string>
+	<string key="2hVoidGauntletImmolatedT3_TransmogName" rel_version="Weapon_Void_Gauntlet">Immolated Steel Void Gauntlet</string>
+	<string key="2hMusketImmolatedT3_TransmogName">Immolated Steel Musket</string>
+	<string key="2hBowImmolatedT3_TransmogName">Immolated Steel Bow</string>
+	<string key="2hWarhammerImmolatedT3_TransmogName">Immolated Steel War Hammer</string>
+	<string key="2hGreatAxeImmolatedT3_TransmogName">Immolated Steel Great Axe</string>
+	<string key="1hThrowingAxeImmolatedT3_TransmogName">Immolated Steel Hatchet</string>
+	<string key="2hStaffLifeImmolatedT3_TransmogName">Immolated Steel Life Staff</string>
+	<string key="2hStaffFireImmolatedT3_TransmogName">Immolated Steel Fire Staff</string>
+	<string key="1hKiteShieldImmolatedT3_TransmogName">Immolated Steel Kite Shield</string>
+	<string key="1hLongswordImmolatedT3_TransmogName">Immolated Steel Longsword</string>
+	<string key="1hRapierImmolatedT3_TransmogName">Immolated Steel Rapier</string>
+	<string key="2hspearImmolatedT3_TransmogName">Immolated Steel Spear</string>
+	<string key="2hVoidGauntletViciousT3_TransmogName" rel_version="Weapon_Void_Gauntlet">Vicious Steel Void Gauntlet</string>
+	<string key="2hMusketViciousT3_TransmogName">Vicious Steel Musket</string>
+	<string key="2hBowViciousT3_TransmogName">Vicious Steel Bow</string>
+	<string key="2hWarhammerViciousT3_TransmogName">Vicious Steel War Hammer</string>
+	<string key="2hGreatAxeViciousT3_TransmogName">Vicious Steel Great Axe</string>
+	<string key="1hThrowingAxeViciousT3_TransmogName">Vicious Steel Hatchet</string>
+	<string key="2hStaffLifeViciousT3_TransmogName">Vicious Steel Life Staff</string>
+	<string key="2hStaffFireViciousT3_TransmogName">Vicious Steel Fire Staff</string>
+	<string key="1hKiteShieldViciousT3_TransmogName">Vicious Steel Kite Shield</string>
+	<string key="1hLongswordViciousT3_TransmogName">Vicious Steel Longsword</string>
+	<string key="1hRapierViciousT3_TransmogName">Vicious Steel Rapier</string>
+	<string key="2hspearViciousT3_TransmogName">Vicious Steel Spear</string>
+	<string key="2hVoidGauntletVinespunT3_TransmogName" rel_version="Weapon_Void_Gauntlet">Vinespun Steel Void Gauntlet</string>
+	<string key="2hicegauntletVinespunT3_TransmogName">Vinespun Steel Ice Gauntlet</string>
+	<string key="2hMusketVinespunT3_TransmogName">Vinespun Steel Musket</string>
+	<string key="2hBowVinespunT3_TransmogName">Vinespun Steel Bow</string>
+	<string key="2hWarhammerVinespunT3_TransmogName">Vinespun Steel War Hammer</string>
+	<string key="1hRoundShieldVinespunT3_TransmogName">Vinespun Steel Round Shield</string>
+	<string key="2hGreatAxeVinespunT3_TransmogName">Vinespun Steel Great Axe</string>
+	<string key="1hThrowingAxeVinespunT3_TransmogName">Vinespun Steel Hatchet</string>
+	<string key="2hStaffLifeVinespunT3_TransmogName">Vinespun Steel Life Staff</string>
+	<string key="2hStaffFireVinespunT3_TransmogName">Vinespun Steel Fire Staff</string>
+	<string key="1hKiteShieldVinespunT3_TransmogName">Vicious Steel Kite Shield</string>
+	<string key="1hLongswordVinespunT3_TransmogName">Vinespun Steel Longsword</string>
+	<string key="1hRapierVinespunT3_TransmogName">Vinespun Steel Rapier</string>
+	<string key="2hspearVinespunT3_TransmogName">Vinespun Steel Spear</string>
+	<string key="2hVoidGauntletVoidbentT3_TransmogName" rel_version="Weapon_Void_Gauntlet">Voidbent Steel Void Gauntlet</string>
+	<string key="2hVoidicegauntletbentT3_TransmogName">Voidbent Steel Ice Gauntlet</string>
+	<string key="2hMusketVoidbentT3_TransmogName">Voidbent Steel Musket</string>
+	<string key="2hBowVoidbentT3_TransmogName">Voidbent Steel Bow</string>
+	<string key="2hWarhammerVoidbentT3_TransmogName">Voidbent Steel War Hammer</string>
+	<string key="1hRoundShieldVoidbentT3_TransmogName">Voidbent Steel Round Shield</string>
+	<string key="2hGreatAxeVoidbentT3_TransmogName">Voidbent Steel Great Axe</string>
+	<string key="1hThrowingAxeVoidbentT3_TransmogName">Voidbent Steel Hatchet</string>
+	<string key="2hStaffLifeVoidbentT3_TransmogName">Voidbent Steel Life Staff</string>
+	<string key="2hStaffFireVoidbentT3_TransmogName">Voidbent Steel Fire Staff</string>
+	<string key="1hKiteShieldVoidbentT3_TransmogName">Vinespun Steel Kite Shield</string>
+	<string key="1hLongswordVoidbentT3_TransmogName">Voidbent Steel Longsword</string>
+	<string key="1hRapierVoidbentT3_TransmogName">Voidbent Steel Rapier</string>
+	<string key="2hspearVoidbentT3_TransmogName">Voidbent Steel Spear</string>
+	<string key="2hVoidGauntletWaveborneT3_TransmogName" rel_version="Weapon_Void_Gauntlet">Waveborne Steel Void Gauntlet</string>
+	<string key="2hicegauntletWaveborneT3_TransmogName">Waveborne Steel Ice Gauntlet</string>
+	<string key="2hMusketWaveborneT3_TransmogName">Waveborne Steel Musket</string>
+	<string key="2hBowWaveborneT3_TransmogName">Waveborne Steel Bow</string>
+	<string key="2hWarhammerWaveborneT3_TransmogName">Waveborne Steel War Hammer</string>
+	<string key="1hRoundShieldWaveborneT3_TransmogName">Waveborne Steel Round Shield</string>
+	<string key="2hGreatAxeWaveborneT3_TransmogName">Waveborne Steel Great Axe</string>
+	<string key="1hThrowingAxeWaveborneT3_TransmogName">Waveborne Steel Hatchet</string>
+	<string key="2hStaffLifeWaveborneT3_TransmogName">Waveborne Steel Life Staff</string>
+	<string key="2hStaffFireWaveborneT3_TransmogName">Waveborne Steel Fire Staff</string>
+	<string key="1hKiteShieldWaveborneT3_TransmogName">Voidbent Steel Kite Shield</string>
+	<string key="1hLongswordWaveborneT3_TransmogName">Waveborne Steel Longsword</string>
+	<string key="1hRapierWaveborneT3_TransmogName">Waveborne Steel Rapier</string>
+	<string key="2hspearWaveborneT3_TransmogName">Waveborne Steel Spear</string>
+	<string key="2hVoidGauntletElegantT4_TransmogName" rel_version="Weapon_Void_Gauntlet">Elegant Starmetal Void Gauntlet</string>
+	<string key="2hMusketElegantT4_TransmogName">Elegant Starmetal Musket</string>
+	<string key="2hWarhammerElegantT4_TransmogName">Elegant Starmetal War Hammer</string>
+	<string key="1hRoundShieldElegantT4_TransmogName">Elegant Starmetal Round Shield</string>
+	<string key="2hGreatAxeElegantT4_TransmogName">Elegant Starmetal Great Axe</string>
+	<string key="1hThrowingAxeElegantT4_TransmogName">Elegant Starmetal Hatchet</string>
+	<string key="2hStaffLifeElegantT4_TransmogName">Elegant Starmetal Life Staff</string>
+	<string key="2hStaffFireElegantT4_TransmogName">Elegant Starmetal Fire Staff</string>
+	<string key="1hKiteShieldElegantT4_TransmogName">Elegant Starmetal Kite Shield</string>
+	<string key="1hLongswordElegantT4_TransmogName">Elegant Starmetal Longsword</string>
+	<string key="1hRapierElegantT4_TransmogName">Elegant Starmetal Rapier</string>
+	<string key="2hspearElegantT4_TransmogName">Elegant Starmetal Spear</string>
+	<string key="2hVoidGauntletAbyssalT4_TransmogName" rel_version="Weapon_Void_Gauntlet">Abyssal Starmetal Void Gauntlet</string>
+	<string key="2hicegauntletAbyssalT4_TransmogName">Abyssal Starmetal Ice Gauntlet</string>
+	<string key="2hMusketAbyssalT4_TransmogName">Abyssal Starmetal Musket</string>
+	<string key="2hBowAbyssalT4_TransmogName">Abyssal Starmetal Bow</string>
+	<string key="2hWarhammerAbyssalT4_TransmogName">Abyssal Starmetal War Hammer</string>
+	<string key="1hRoundShieldAbyssalT4_TransmogName">Abyssal Starmetal Round Shield</string>
+	<string key="2hGreatAxeAbyssalT4_TransmogName">Abyssal Starmetal Great Axe</string>
+	<string key="1hThrowingAxeAbyssalT4_TransmogName">Abyssal Starmetal Hatchet</string>
+	<string key="2hStaffLifeAbyssalT4_TransmogName">Abyssal Starmetal Life Staff</string>
+	<string key="2hStaffFireAbyssalT4_TransmogName">Abyssal Starmetal Fire Staff</string>
+	<string key="1hKiteShieldAbyssalT4_TransmogName">Abyssal Starmetal Kite Shield</string>
+	<string key="1hLongswordAbyssalT4_TransmogName">Abyssal Starmetal Longsword</string>
+	<string key="1hRapierAbyssalT4_TransmogName">Abyssal Starmetal Rapier</string>
+	<string key="2hspearAbyssalT4_TransmogName">Abyssal Starmetal Spear</string>
+	<string key="2hVoidGauntletEtherealT4_TransmogName" rel_version="Weapon_Void_Gauntlet">Ethereal Starmetal Void Gauntlet</string>
+	<string key="2hicegauntletEtherealT4_TransmogName">Ethereal Starmetal Ice Gauntlet</string>
+	<string key="2hMusketEtherealT4_TransmogName">Ethereal Starmetal Musket</string>
+	<string key="2hBowEtherealT4_TransmogName">Ethereal Starmetal Bow</string>
+	<string key="2hWarhammerEtherealT4_TransmogName">Ethereal Starmetal War Hammer</string>
+	<string key="2hGreatAxeEtherealT4_TransmogName">Ethereal Starmetal Great Axe</string>
+	<string key="1hThrowingAxeEtherealT4_TransmogName">Ethereal Starmetal Hatchet</string>
+	<string key="2hStaffFireEtherealT4_TransmogName">Ethereal Starmetal Fire Staff</string>
+	<string key="1hKiteShieldEtherealT4_TransmogName">Ethereal Starmetal Kite Shield</string>
+	<string key="1hLongswordEtherealT4_TransmogName">Ethereal Starmetal Longsword</string>
+	<string key="1hRapierEtherealT4_TransmogName">Ethereal Starmetal Rapier</string>
+	<string key="2hspearEtherealT4_TransmogName">Ethereal Starmetal Spear</string>
+	<string key="2hVoidGauntletFaeT4_TransmogName" rel_version="Weapon_Void_Gauntlet">Fae Starmetal Void Gauntlet</string>
+	<string key="2hMusketFaeT4_TransmogName">Fae Starmetal Musket</string>
+	<string key="2hBowFaeT4_TransmogName">Fae Starmetal Bow</string>
+	<string key="2hWarhammerFaeT4_TransmogName">Fae Starmetal War Hammer</string>
+	<string key="2hGreatAxeFaeT4_TransmogName">Fae Starmetal Great Axe</string>
+	<string key="1hThrowingAxeFaeT4_TransmogName">Fae Starmetal Hatchet</string>
+	<string key="2hStaffLifeFaeT4_TransmogName">Fae Starmetal Life Staff</string>
+	<string key="2hStaffFireFaeT4_TransmogName">Fae Starmetal Fire Staff</string>
+	<string key="1hKiteShieldFaeT4_TransmogName">Fae Starmetal Kite Shield</string>
+	<string key="1hLongswordFaeT4_TransmogName">Fae Starmetal Longsword</string>
+	<string key="1hRapierFaeT4_TransmogName">Fae Starmetal Rapier</string>
+	<string key="2hspearFaeT4_TransmogName">Fae Starmetal Spear</string>
+	<string key="2hVoidGauntletImmolatedT4_TransmogName" rel_version="Weapon_Void_Gauntlet">Immolated Starmetal Void Gauntlet</string>
+	<string key="2hMusketImmolatedT4_TransmogName">Immolated Starmetal Musket</string>
+	<string key="2hBowImmolatedT4_TransmogName">Immolated Starmetal Bow</string>
+	<string key="2hWarhammerImmolatedT4_TransmogName">Immolated Starmetal War Hammer</string>
+	<string key="2hGreatAxeImmolatedT4_TransmogName">Immolated Starmetal Great Axe</string>
+	<string key="1hThrowingAxeImmolatedT4_TransmogName">Immolated Starmetal Hatchet</string>
+	<string key="2hStaffLifeImmolatedT4_TransmogName">Immolated Starmetal Life Staff</string>
+	<string key="2hStaffFireImmolatedT4_TransmogName">Immolated Starmetal Fire Staff</string>
+	<string key="1hKiteShieldImmolatedT4_TransmogName">Immolated Starmetal Kite Shield</string>
+	<string key="1hLongswordImmolatedT4_TransmogName">Immolated Starmetal Longsword</string>
+	<string key="1hRapierImmolatedT4_TransmogName">Immolated Starmetal Rapier</string>
+	<string key="2hspearImmolatedT4_TransmogName">Immolated Starmetal Spear</string>
+	<string key="2hVoidGauntletViciousT4_TransmogName" rel_version="Weapon_Void_Gauntlet">Vicious Starmetal Void Gauntlet</string>
+	<string key="2hMusketViciousT4_TransmogName">Vicious Starmetal Musket</string>
+	<string key="2hBowViciousT4_TransmogName">Vicious Starmetal Bow</string>
+	<string key="2hWarhammerViciousT4_TransmogName">Vicious Starmetal War Hammer</string>
+	<string key="2hGreatAxeViciousT4_TransmogName">Vicious Starmetal Great Axe</string>
+	<string key="1hThrowingAxeViciousT4_TransmogName">Vicious Starmetal Hatchet</string>
+	<string key="2hStaffLifeViciousT4_TransmogName">Vicious Starmetal Life Staff</string>
+	<string key="2hStaffFireViciousT4_TransmogName">Vicious Starmetal Fire Staff</string>
+	<string key="1hKiteShieldViciousT4_TransmogName">Elegant Starmetal Kite Shield</string>
+	<string key="1hLongswordViciousT4_TransmogName">Vicious Starmetal Longsword</string>
+	<string key="1hRapierViciousT4_TransmogName">Vicious Starmetal Rapier</string>
+	<string key="2hspearViciousT4_TransmogName">Vicious Starmetal Spear</string>
+	<string key="2hVoidGauntletVinespunT4_TransmogName" rel_version="Weapon_Void_Gauntlet">Vinespun Starmetal Void Gauntlet</string>
+	<string key="2hicegauntletVinespunT4_TransmogName">Vinespun Starmetal Ice Gauntlet</string>
+	<string key="2hMusketVinespunT4_TransmogName">Vinespun Starmetal Musket</string>
+	<string key="2hBowVinespunT4_TransmogName">Vinespun Starmetal Bow</string>
+	<string key="2hWarhammerVinespunT4_TransmogName">Vinespun Starmetal War Hammer</string>
+	<string key="1hRoundShieldVinespunT4_TransmogName">Vinespun Starmetal Round Shield</string>
+	<string key="2hGreatAxeVinespunT4_TransmogName">Vinespun Starmetal Great Axe</string>
+	<string key="1hThrowingAxeVinespunT4_TransmogName">Vinespun Starmetal Hatchet</string>
+	<string key="2hStaffLifeVinespunT4_TransmogName">Vinespun Starmetal Life Staff</string>
+	<string key="2hStaffFireVinespunT4_TransmogName">Vinespun Starmetal Fire Staff</string>
+	<string key="1hKiteShieldVinespunT4_TransmogName">Vicious Starmetal Kite Shield</string>
+	<string key="1hLongswordVinespunT4_TransmogName">Vinespun Starmetal Longsword</string>
+	<string key="1hRapierVinespunT4_TransmogName">Vinespun Starmetal Rapier</string>
+	<string key="2hspearVinespunT4_TransmogName">Vinespun Starmetal Spear</string>
+	<string key="2hVoidGauntletVoidbentT4_TransmogName" rel_version="Weapon_Void_Gauntlet">Voidbent Starmetal Void Gauntlet</string>
+	<string key="2hVoidicegauntletbentT4_TransmogName">Voidbent Starmetal Ice Gauntlet</string>
+	<string key="2hMusketVoidbentT4_TransmogName">Voidbent Starmetal Musket</string>
+	<string key="2hBowVoidbentT4_TransmogName">Voidbent Starmetal Bow</string>
+	<string key="2hWarhammerVoidbentT4_TransmogName">Voidbent Starmetal War Hammer</string>
+	<string key="1hRoundShieldVoidbentT4_TransmogName">Voidbent Starmetal Round Shield</string>
+	<string key="2hGreatAxeVoidbentT4_TransmogName">Voidbent Starmetal Great Axe</string>
+	<string key="1hThrowingAxeVoidbentT4_TransmogName">Voidbent Starmetal Hatchet</string>
+	<string key="2hStaffLifeVoidbentT4_TransmogName">Voidbent Starmetal Life Staff</string>
+	<string key="2hStaffFireVoidbentT4_TransmogName">Voidbent Starmetal Fire Staff</string>
+	<string key="1hKiteShieldVoidbentT4_TransmogName">Vinespun Starmetal Kite Shield</string>
+	<string key="1hLongswordVoidbentT4_TransmogName">Voidbent Starmetal Longsword</string>
+	<string key="1hRapierVoidbentT4_TransmogName">Voidbent Starmetal Rapier</string>
+	<string key="2hspearVoidbentT4_TransmogName">Voidbent Starmetal Spear</string>
+	<string key="2hVoidGauntletWaveborneT4_TransmogName" rel_version="Weapon_Void_Gauntlet">Waveborne Starmetal Void Gauntlet</string>
+	<string key="2hicegauntletWaveborneT4_TransmogName">Waveborne Starmetal Ice Gauntlet</string>
+	<string key="2hMusketWaveborneT4_TransmogName">Waveborne Starmetal Musket</string>
+	<string key="2hBowWaveborneT4_TransmogName">Waveborne Starmetal Bow</string>
+	<string key="2hWarhammerWaveborneT4_TransmogName">Waveborne Starmetal War Hammer</string>
+	<string key="1hRoundShieldWaveborneT4_TransmogName">Waveborne Starmetal Round Shield</string>
+	<string key="2hGreatAxeWaveborneT4_TransmogName">Waveborne Starmetal Great Axe</string>
+	<string key="1hThrowingAxeWaveborneT4_TransmogName">Waveborne Starmetal Hatchet</string>
+	<string key="2hStaffLifeWaveborneT4_TransmogName">Waveborne Starmetal Life Staff</string>
+	<string key="2hStaffFireWaveborneT4_TransmogName">Waveborne Starmetal Fire Staff</string>
+	<string key="1hKiteShieldWaveborneT4_TransmogName">Voidbent Starmetal Kite Shield</string>
+	<string key="1hLongswordWaveborneT4_TransmogName">Waveborne Starmetal Longsword</string>
+	<string key="1hRapierWaveborneT4_TransmogName">Waveborne Starmetal Rapier</string>
+	<string key="2hspearWaveborneT4_TransmogName">Waveborne Starmetal Spear</string>
+	<string key="2hVoidGauntletElegantT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Elegant Orichalcum Void Gauntlet</string>
+	<string key="2hMusketElegantT5_TransmogName">Elegant Orichalcum Musket</string>
+	<string key="2hWarhammerElegantT5_TransmogName">Elegant Orichalcum War Hammer</string>
+	<string key="1hRoundShieldElegantT5_TransmogName">Elegant Orichalcum Round Shield</string>
+	<string key="2hGreatAxeElegantT5_TransmogName">Elegant Orichalcum Great Axe</string>
+	<string key="1hThrowingAxeElegantT5_TransmogName">Elegant Orichalcum Hatchet</string>
+	<string key="2hStaffLifeElegantT5_TransmogName">Elegant Orichalcum Life Staff</string>
+	<string key="2hStaffFireElegantT5_TransmogName">Elegant Orichalcum Fire Staff</string>
+	<string key="1hKiteShieldElegantT5_TransmogName">Elegant Orichalcum Kite Shield</string>
+	<string key="1hLongswordElegantT5_TransmogName">Elegant Orichalcum Longsword</string>
+	<string key="1hRapierElegantT5_TransmogName">Elegant Orichalcum Rapier</string>
+	<string key="2hspearElegantT5_TransmogName">Elegant Orichalcum Spear</string>
+	<string key="2hVoidGauntletAbyssalT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Abyssal Orichalcum Void Gauntlet</string>
+	<string key="2hicegauntletAbyssalT5_TransmogName">Abyssal Orichalcum Ice Gauntlet</string>
+	<string key="2hMusketAbyssalT5_TransmogName">Abyssal Orichalcum Musket</string>
+	<string key="2hBowAbyssalT5_TransmogName">Abyssal Orichalcum Bow</string>
+	<string key="2hWarhammerAbyssalT5_TransmogName">Abyssal Orichalcum War Hammer</string>
+	<string key="1hRoundShieldAbyssalT5_TransmogName">Abyssal Orichalcum Round Shield</string>
+	<string key="2hGreatAxeAbyssalT5_TransmogName">Abyssal Orichalcum Great Axe</string>
+	<string key="1hThrowingAxeAbyssalT5_TransmogName">Abyssal Orichalcum Hatchet</string>
+	<string key="2hStaffLifeAbyssalT5_TransmogName">Abyssal Orichalcum Life Staff</string>
+	<string key="2hStaffFireAbyssalT5_TransmogName">Abyssal Orichalcum Fire Staff</string>
+	<string key="1hKiteShieldAbyssalT5_TransmogName">Abyssal Orichalcum Kite Shield</string>
+	<string key="1hLongswordAbyssalT5_TransmogName">Abyssal Orichalcum Longsword</string>
+	<string key="1hRapierAbyssalT5_TransmogName">Abyssal Orichalcum Rapier</string>
+	<string key="2hspearAbyssalT5_TransmogName">Abyssal Orichalcum Spear</string>
+	<string key="2hVoidGauntletEtherealT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Ethereal Orichalcum Void Gauntlet</string>
+	<string key="2hicegauntletEtherealT5_TransmogName">Ethereal Orichalcum Ice Gauntlet</string>
+	<string key="2hMusketEtherealT5_TransmogName">Ethereal Orichalcum Musket</string>
+	<string key="2hBowEtherealT5_TransmogName">Ethereal Orichalcum Bow</string>
+	<string key="2hWarhammerEtherealT5_TransmogName">Ethereal Orichalcum War Hammer</string>
+	<string key="2hGreatAxeEtherealT5_TransmogName">Ethereal Orichalcum Great Axe</string>
+	<string key="1hThrowingAxeEtherealT5_TransmogName">Ethereal Orichalcum Hatchet</string>
+	<string key="2hStaffFireEtherealT5_TransmogName">Ethereal Orichalcum Fire Staff</string>
+	<string key="1hKiteShieldEtherealT5_TransmogName">Ethereal Orichalcum Kite Shield</string>
+	<string key="1hLongswordEtherealT5_TransmogName">Ethereal Orichalcum Longsword</string>
+	<string key="1hRapierEtherealT5_TransmogName">Ethereal Orichalcum Rapier</string>
+	<string key="2hspearEtherealT5_TransmogName">Ethereal Orichalcum Spear</string>
+	<string key="2hVoidGauntletFaeT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Fae Orichalcum Void Gauntlet</string>
+	<string key="2hMusketFaeT5_TransmogName">Fae Orichalcum Musket</string>
+	<string key="2hBowFaeT5_TransmogName">Fae Orichalcum Bow</string>
+	<string key="2hWarhammerFaeT5_TransmogName">Fae Orichalcum War Hammer</string>
+	<string key="2hGreatAxeFaeT5_TransmogName">Fae Orichalcum Great Axe</string>
+	<string key="1hThrowingAxeFaeT5_TransmogName">Fae Orichalcum Hatchet</string>
+	<string key="2hStaffLifeFaeT5_TransmogName">Fae Orichalcum Life Staff</string>
+	<string key="2hStaffFireFaeT5_TransmogName">Fae Orichalcum Fire Staff</string>
+	<string key="1hKiteShieldFaeT5_TransmogName">Fae Orichalcum Kite Shield</string>
+	<string key="1hLongswordFaeT5_TransmogName">Fae Orichalcum Longsword</string>
+	<string key="1hRapierFaeT5_TransmogName">Fae Orichalcum Rapier</string>
+	<string key="2hspearFaeT5_TransmogName">Fae Orichalcum Spear</string>
+	<string key="2hVoidGauntletImmolatedT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Immolated Orichalcum Void Gauntlet</string>
+	<string key="2hMusketImmolatedT5_TransmogName">Immolated Orichalcum Musket</string>
+	<string key="2hBowImmolatedT5_TransmogName">Immolated Orichalcum Bow</string>
+	<string key="2hWarhammerImmolatedT5_TransmogName">Immolated Orichalcum War Hammer</string>
+	<string key="2hGreatAxeImmolatedT5_TransmogName">Immolated Orichalcum Great Axe</string>
+	<string key="1hThrowingAxeImmolatedT5_TransmogName">Immolated Orichalcum Hatchet</string>
+	<string key="2hStaffLifeImmolatedT5_TransmogName">Immolated Orichalcum Life Staff</string>
+	<string key="2hStaffFireImmolatedT5_TransmogName">Immolated Orichalcum Fire Staff</string>
+	<string key="1hKiteShieldImmolatedT5_TransmogName">Immolated Orichalcum Kite Shield</string>
+	<string key="1hLongswordImmolatedT5_TransmogName">Immolated Orichalcum Longsword</string>
+	<string key="1hRapierImmolatedT5_TransmogName">Immolated Orichalcum Rapier</string>
+	<string key="2hspearImmolatedT5_TransmogName">Immolated Orichalcum Spear</string>
+	<string key="2hVoidGauntletViciousT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Vicious Orichalcum Void Gauntlet</string>
+	<string key="2hMusketViciousT5_TransmogName">Vicious Orichalcum Musket</string>
+	<string key="2hBowViciousT5_TransmogName">Vicious Orichalcum Bow</string>
+	<string key="2hWarhammerViciousT5_TransmogName">Vicious Orichalcum War Hammer</string>
+	<string key="2hGreatAxeViciousT5_TransmogName">Vicious Orichalcum Great Axe</string>
+	<string key="1hThrowingAxeViciousT5_TransmogName">Vicious Orichalcum Hatchet</string>
+	<string key="2hStaffLifeViciousT5_TransmogName">Vicious Orichalcum Life Staff</string>
+	<string key="2hStaffFireViciousT5_TransmogName">Vicious Orichalcum Fire Staff</string>
+	<string key="1hKiteShieldViciousT5_TransmogName">Elegant Orichalcum Kite Shield</string>
+	<string key="1hLongswordViciousT5_TransmogName">Vicious Orichalcum Longsword</string>
+	<string key="1hRapierViciousT5_TransmogName">Vicious Orichalcum Rapier</string>
+	<string key="2hspearViciousT5_TransmogName">Vicious Orichalcum Spear</string>
+	<string key="2hVoidGauntletVinespunT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Vinespun Orichalcum Void Gauntlet</string>
+	<string key="2hicegauntletVinespunT5_TransmogName">Vinespun Orichalcum Ice Gauntlet</string>
+	<string key="2hMusketVinespunT5_TransmogName">Vinespun Orichalcum Musket</string>
+	<string key="2hBowVinespunT5_TransmogName">Vinespun Orichalcum Bow</string>
+	<string key="2hWarhammerVinespunT5_TransmogName">Vinespun Orichalcum War Hammer</string>
+	<string key="1hRoundShieldVinespunT5_TransmogName">Vinespun Orichalcum Round Shield</string>
+	<string key="2hGreatAxeVinespunT5_TransmogName">Vinespun Orichalcum Great Axe</string>
+	<string key="1hThrowingAxeVinespunT5_TransmogName">Vinespun Orichalcum Hatchet</string>
+	<string key="2hStaffLifeVinespunT5_TransmogName">Vinespun Orichalcum Life Staff</string>
+	<string key="2hStaffFireVinespunT5_TransmogName">Vinespun Orichalcum Fire Staff</string>
+	<string key="1hKiteShieldVinespunT5_TransmogName">Vicious Orichalcum Kite Shield</string>
+	<string key="1hLongswordVinespunT5_TransmogName">Vinespun Orichalcum Longsword</string>
+	<string key="1hRapierVinespunT5_TransmogName">Vinespun Orichalcum Rapier</string>
+	<string key="2hspearVinespunT5_TransmogName">Vinespun Orichalcum Spear</string>
+	<string key="2hVoidGauntletVoidbentT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Voidbent Orichalcum Void Gauntlet</string>
+	<string key="2hVoidicegauntletbentT5_TransmogName">Voidbent Orichalcum Ice Gauntlet</string>
+	<string key="2hMusketVoidbentT5_TransmogName">Voidbent Orichalcum Musket</string>
+	<string key="2hBowVoidbentT5_TransmogName">Voidbent Orichalcum Bow</string>
+	<string key="2hWarhammerVoidbentT5_TransmogName">Voidbent Orichalcum War Hammer</string>
+	<string key="1hRoundShieldVoidbentT5_TransmogName">Voidbent Orichalcum Round Shield</string>
+	<string key="2hGreatAxeVoidbentT5_TransmogName">Voidbent Orichalcum Great Axe</string>
+	<string key="1hThrowingAxeVoidbentT5_TransmogName">Voidbent Orichalcum Hatchet</string>
+	<string key="2hStaffLifeVoidbentT5_TransmogName">Voidbent Orichalcum Life Staff</string>
+	<string key="2hStaffFireVoidbentT5_TransmogName">Voidbent Orichalcum Fire Staff</string>
+	<string key="1hKiteShieldVoidbentT5_TransmogName">Vinespun Orichalcum Kite Shield</string>
+	<string key="1hLongswordVoidbentT5_TransmogName">Voidbent Orichalcum Longsword</string>
+	<string key="1hRapierVoidbentT5_TransmogName">Voidbent Orichalcum Rapier</string>
+	<string key="2hspearVoidbentT5_TransmogName">Voidbent Orichalcum Spear</string>
+	<string key="2hVoidGauntletWaveborneT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Waveborne Orichalcum Void Gauntlet</string>
+	<string key="2hicegauntletWaveborneT5_TransmogName">Waveborne Orichalcum Ice Gauntlet</string>
+	<string key="2hMusketWaveborneT5_TransmogName">Waveborne Orichalcum Musket</string>
+	<string key="2hBowWaveborneT5_TransmogName">Waveborne Orichalcum Bow</string>
+	<string key="2hWarhammerWaveborneT5_TransmogName">Waveborne Orichalcum War Hammer</string>
+	<string key="1hRoundShieldWaveborneT5_TransmogName">Waveborne Orichalcum Round Shield</string>
+	<string key="2hGreatAxeWaveborneT5_TransmogName">Waveborne Orichalcum Great Axe</string>
+	<string key="1hThrowingAxeWaveborneT5_TransmogName">Waveborne Orichalcum Hatchet</string>
+	<string key="2hStaffLifeWaveborneT5_TransmogName">Waveborne Orichalcum Life Staff</string>
+	<string key="2hStaffFireWaveborneT5_TransmogName">Waveborne Orichalcum Fire Staff</string>
+	<string key="1hKiteShieldWaveborneT5_TransmogName">Voidbent Orichalcum Kite Shield</string>
+	<string key="1hLongswordWaveborneT5_TransmogName">Waveborne Orichalcum Longsword</string>
+	<string key="1hRapierWaveborneT5_TransmogName">Waveborne Orichalcum Rapier</string>
+	<string key="2hspearWaveborneT5_TransmogName">Waveborne Orichalcum Spear</string>
 	<string key="2hMusket_ClamorousVoxT5_TransmogName">Clamorous Vox Musket</string>
 	<string key="2hgreatsword_CorruptedHeavyt5_TransmogName" rel_version="Weapon_GreatSword">Corrupted Cratermaker Greatsword</string>
-	<string key="1hRshield_BoundlessWardT5_TransmogName">Boundless Ward Round Shield</string>
+	<string key="1hRShield_BoundlessWardT5_TransmogName">Boundless Ward Round Shield</string>
 	<string key="2hGreataxe_ReformationT5_TransmogName">Reformation Great Axe</string>
 	<string key="1hThrowingAxe_AzureRavagerT5_TransmogName">Azure Ravager Hatchet</string>
 	<string key="2hBow_TorrentT5_TransmogName">Rainstorm Bow</string>
@@ -3707,8 +3706,8 @@
 	<string key="Leaderboardbrimstonescore_chest_TransmogName">Mantle of the Champion - Hero of The Ennead</string>
 	<string key="Leaderboarddarknessbreach_chest_TransmogName">Mantle of the Champion - Hero of Breaches</string>
 	<string key="Leaderboardeternalpools_chest_TransmogName">Mantle of the Champion - Hero of the Eternal Pool</string>
-	<string key="LeaderboardEmpyreanForgeClearTime_chest_TransmogName">Mantle of the Champion - Warrior of The Depths</string>
-	<string key="LeaderboardEmpyreanForgeScore_chest_TransmogName">Mantle of the Champion - Hero of The Depths</string>
+	<string key="LeaderboardEmpyreanForgeClearTime_chest_TransmogName">Mantle of the Champion - Warrior of The Empyrean Forge</string>
+	<string key="LeaderboardEmpyreanForgeScore_chest_TransmogName">Mantle of the Champion - Hero of The The Empyrean Forge</string>
 	<string key="Leaderboardgardengenesiscleartime_chest_TransmogName">Mantle of the Champion - Warrior of The Garden of Genesis</string>
 	<string key="Leaderboardgardengenesisscore_chest_TransmogName">Mantle of the Champion - Hero of The Garden of Genesis</string>
 	<string key="Leaderboardinvasion_chest_TransmogName">Mantle of the Champion - Hero of Invasions</string>
@@ -3733,8 +3732,8 @@
 	<string key="LeaderboardRank1brimstonescore_chest_TransmogName">Gilded Mantle of the Champion - Conqueror of The Ennead</string>
 	<string key="LeaderboardRank1darknessbreach_chest_TransmogName">Gilded Mantle of the Champion - Conqueror of Breaches</string>
 	<string key="LeaderboardRank1eternalpools_chest_TransmogName">Gilded Mantle of the Champion - Conqueror of The Eternal Pool</string>
-	<string key="LeaderboardRank1EmpyreanForgeClearTime_chest_TransmogName">Gilded Mantle of the Champion - Champion of The Depths</string>
-	<string key="LeaderboardRank1EmpyreanForgeScore_chest_TransmogName">Gilded Mantle of the Champion - Conqueror of The Depths</string>
+	<string key="LeaderboardRank1EmpyreanForgeClearTime_chest_TransmogName">Gilded Mantle of the Champion - Champion of The Empyrean Forge</string>
+	<string key="LeaderboardRank1EmpyreanForgeScore_chest_TransmogName">Gilded Mantle of the Champion - Conqueror of The Empyrean Forge</string>
 	<string key="LeaderboardRank1gardengenesiscleartime_chest_TransmogName">Gilded Mantle of the Champion - Champion of The Garden of Genesis</string>
 	<string key="LeaderboardRank1gardengenesisscore_chest_TransmogName">Gilded Mantle of the Champion - Conqueror of The Garden of Genesis</string>
 	<string key="LeaderboardRank1invasion_chest_TransmogName">Gilded Mantle of the Champion - Conqeuror of Invasions</string>
@@ -3809,11 +3808,11 @@
 	<string key="Sharif_legs_TransmogName" rel_version="Season_2_Perm">Sharif's Light Legwear</string>
 	<string key="Sharif_feet_TransmogName" rel_version="Season_2_Perm">Sharif's Light Footwear</string>
 	<string key="Sharif_gloves_TransmogName" rel_version="Season_2_Perm">Sharif's Light Handwear</string>
-	<string key="GruntmasterAIC_chest_TransmogName" rel_version="Season_2_Perm">TEMP Medium Chestwear</string>
-	<string key="GruntmasterAIC_head_TransmogName" rel_version="Season_2_Perm">TEMP Medium Headwear</string>
-	<string key="GruntmasterAIC_legs_TransmogName" rel_version="Season_2_Perm">TEMP Medium Legwear</string>
-	<string key="GruntmasterAIC_feet_TransmogName" rel_version="Season_2_Perm">TEMP Medium Footwear</string>
-	<string key="GruntmasterAIC_gloves_TransmogName" rel_version="Season_2_Perm">TEMP Medium Handwear</string>
+	<string key="GruntmasterAIC_chest_TransmogName" rel_version="Season_2_Perm">Gruntmaster Medium Chestwear</string>
+	<string key="GruntmasterAIC_head_TransmogName" rel_version="Season_2_Perm">Gruntmaster Medium Headwear</string>
+	<string key="GruntmasterAIC_legs_TransmogName" rel_version="Season_2_Perm">Gruntmaster Medium Legwear</string>
+	<string key="GruntmasterAIC_feet_TransmogName" rel_version="Season_2_Perm">Gruntmaster Medium Footwear</string>
+	<string key="GruntmasterAIC_gloves_TransmogName" rel_version="Season_2_Perm">Gruntmaster Medium Handwear</string>
 	<string key="2hSummerFishingPoleT4_TransmogName" comment="Summer 2022 In-game">Summer Medlyfaire - Fish's Bane - Fishing Pole</string>
 	<string key="2hSummerFishingPoleT2_TransmogName" comment="Summer 2022 In-game">Summer Medlyfaire - Fish's Friend - Fishing Pole</string>
 	<string key="2hSummerFishingPoleT3_TransmogName" comment="Summer 2022 In-game">Summer Medlyfaire - Fish's Fiend - Fishing Pole</string>
@@ -3869,12 +3868,14 @@
 	<string key="2hVoidGauntletNightveilT5_TransmogName" comment="Nightveil 2022 In-Game">Nightveil Void Gauntlet</string>
 	<string key="2hBlunderbussNightveilT5_TransmogName" comment="Nightveil 2022 In-Game">Nightveil Blunderbuss</string>
 	<string key="2hGreatswordNightveilT5_TransmogName" comment="Nightveil 2022 In-Game">Nightveil Greatsword</string>
+	<string key="2hGreatAxeViking_TransmogName">Norse Great Axe</string>
+	<string key="1hRoundShieldVikingT3_TransmogName">Norse Round Shield</string>
 	<string key="robinHood_head_TransmogName">Robin Hood Helm - Light Headwear</string>
 	<string key="robinHood_chest_TransmogName">Robin Hood Coat - Light Chestwear</string>
 	<string key="robinHood_hands_TransmogName">Robin Hood Gloves - Light Handwear</string>
 	<string key="robinHood_legs_TransmogName">Robin Hood Pants - Light Legwear</string>
 	<string key="robinHood_feet_TransmogName">Robin Hood Shoes - Light Footwear</string>
-	<string key="2hBowRobinHood_TransmogName" rel_version="Weapon_BowRobinHood">Robin Hood Bow - Bow</string>
+	<string key="2hBowRobinHood_TransmogName" rel_version="Weapon_BowRobinHood">Robin Hood Bow</string>
 	<string key="EpicStoryRedScarf_chest_TransmogName">The Wheel of Time - Red Ajah Cloak - Light Chestwear</string>
 	<string key="EpicStoryBrownCloak_chest_TransmogName">The Wheel of Time - Egwene's Cloak - Light Chestwear</string>
 	<string key="EpicStoryGreenRobe_chest_TransmogName">The Wheel of Time - Nynaeve's Cloak - Light Chestwear</string>
@@ -3931,7 +3932,7 @@
 	<string key="MonarchsMight_TransmogName">Monarchs Might - War Hammer</string>
 	<string key="Crestoftheallsight_TransmogName">Crest of the Allsight - Kite Shield</string>
 	<string key="2hGreatAxeRoyalcourtT5_TransmogName" comment="DO NOT TRANSLATE">UNUSED</string>
-	<string key="1hKiteshieldRoyalcourtT5_TransmogName" comment="DO NOT TRANSLATE">UNUSED</string>
+	<string key="1hKiteShieldRoyalcourtT5_TransmogName" comment="DO NOT TRANSLATE">UNUSED</string>
 	<string key="1hSwordRoyalcourtT5_TransmogName" comment="DO NOT TRANSLATE">UNUSED</string>
 	<string key="2hMusketRoyalcourtT5_TransmogName" comment="DO NOT TRANSLATE">UNUSED</string>
 	<string key="1hRapierRoyalcourtT5_TransmogName" comment="DO NOT TRANSLATE">UNUSED</string>
@@ -3941,7 +3942,7 @@
 	<string key="2hWarhammerRoyalcourtT5_TransmogName" comment="DO NOT TRANSLATE">UNUSED</string>
 	<string key="2hFireStaffRoyalcourtT5_TransmogName" comment="DO NOT TRANSLATE">UNUSED</string>
 	<string key="1hlifestaffRoyalcourtT5_TransmogName" comment="DO NOT TRANSLATE">UNUSED</string>
-	<string key="1hTowershieldRoyalcourtT5_TransmogName" comment="DO NOT TRANSLATE">UNUSED</string>
+	<string key="1hTowerShieldRoyalcourtT5_TransmogName" comment="DO NOT TRANSLATE">UNUSED</string>
 	<string key="2hVoidGauntletRoyalcourtT5_TransmogName" comment="DO NOT TRANSLATE">UNUSED</string>
 	<string key="2hGreatswordRoyalCourtT5_TransmogName" comment="DO NOT TRANSLATE">UNUSED</string>
 	<string key="fanaticSaintPrimeLT5_Chest_TransmogName">Holy Vanguard Chest - Light Chestwear</string>
@@ -4033,7 +4034,7 @@
 	<string key="2hbowClassicMonster_TransmogName">Kraken's Eye - Bow</string>
 	<string key="1hKiteShieldClassicMonsterT5_TransmogName">Cockroach Shell - Kite Shield</string>
 	<string key="1hSwordClassicMonsterT5_TransmogName">Toothed Carver - Longsword</string>
-	<string key="1hroundshieldClassicMonster_TransmogName">Werewolf's Third Eye - Round Shield</string>
+	<string key="1hroundShieldClassicMonster_TransmogName">Werewolf's Third Eye - Round Shield</string>
 	<string key="2hSpearClassicMonsterT5_TransmogName">The Devil's Poker - Spear</string>
 	<string key="1hHatchetClassicMonsterT5_TransmogName">Cadaver's Cleaver - Hatchet</string>
 	<string key="2hFireStaffClassicMonster_TransmogName">Thoughtful Incineration - Fire Staff</string>
@@ -4538,29 +4539,6 @@
 	<string key="FrontWasteTwitch_legs_TransmogName">Wasteland Wanderer's Finger-Gloves - Light Legwear</string>
 	<string key="FrontWasteTwitch_feet_TransmogName">Wasteland Wanderer's Layered Chaps - Light Footwear</string>
 	<string key="FrontWasteTwitch_gloves_TransmogName">Wasteland Wanderer's Guarded Buskins - Light Handwear</string>
-	<string key="2hFishingPoleFrontierWastelanderT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP - Fishing Pole</string>
-	<string key="2hAzothScepterFrontierWastelanderT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP - Azoth Staff</string>
-	<string key="2hLoggingAxeFrontierWastelanderT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP - Logging Axe</string>
-	<string key="1hPickaxeFrontierWastelanderT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP - Pickaxe</string>
-	<string key="1hSickleFrontierWastelanderT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP - Sickle</string>
-	<string key="1hSkinningKnifeFrontierWastelanderT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP - Skinning Knife</string>
-	<string key="2hGreatswordFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
-	<string key="2hBowFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
-	<string key="2hGreatAxeFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
-	<string key="1hKiteShieldFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
-	<string key="1hSwordFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
-	<string key="2hMusketFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
-	<string key="1hRapierFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
-	<string key="1hRoundShieldFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
-	<string key="2hSpearFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
-	<string key="1hHatchetFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
-	<string key="2hWarhammerFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
-	<string key="2hFireStaffFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
-	<string key="2hLifeStaffFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
-	<string key="1hTowerShieldFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
-	<string key="2hIceGauntletFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
-	<string key="2hVoidGauntletFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
-	<string key="2hBlunderbussFrontierWastelandT5_TransmogName" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier - TEMP</string>
 	<string key="2hBowBFNW2T5_TransmogName" rel_version="BFNW_Archos_Weapon_Skins">Bow of Mars</string>
 	<string key="2hGreatAxeBFNW2T5_TransmogName" rel_version="BFNW_Archos_Weapon_Skins">Great Axe of Mars</string>
 	<string key="1hKiteShieldBFNW2T5_TransmogName" rel_version="BFNW_Archos_Weapon_Skins">Kite Shield of Mars</string>
@@ -4844,7 +4822,7 @@
 	<string key="2hSpearVikingT5_TransmogName">Ormr’s Spear</string>
 	<string key="2hBowGraverobberBrimstoneT5_TransmogName">Crypt Ghoul Bow</string>
 	<string key="2hGreatAxeGraverobberBrimstoneT5_TransmogName">Crypt Ghoul Great Axe</string>
-	<string key="1hKiteshieldGraverobberBrimstoneT5_TransmogName">Crypt Ghoul Kite Shield</string>
+	<string key="1hKiteShieldGraverobberBrimstoneT5_TransmogName">Crypt Ghoul Kite Shield</string>
 	<string key="1hSwordGraverobberBrimstoneT5_TransmogName">Crypt Ghoul Longsword</string>
 	<string key="2hMusketGraverobberBrimstoneT5_TransmogName">Crypt Ghoul Musket</string>
 	<string key="1hRapierGraverobberBrimstoneT5_TransmogName">Crypt Ghoul Rapier</string>
@@ -4854,7 +4832,7 @@
 	<string key="2hWarhammerGraverobberBrimstoneT5_TransmogName">Crypt Ghoul War Hammer</string>
 	<string key="1hfirestaffGraverobberBrimstoneT5_TransmogName">Crypt Ghoul Fire Staff</string>
 	<string key="1hlifestaffGraverobberBrimstoneT5_TransmogName">Crypt Ghoul Life Staff</string>
-	<string key="1hTowershieldGraverobberBrimstoneT5_TransmogName">Crypt Ghoul Tower Shield</string>
+	<string key="1hTowerShieldGraverobberBrimstoneT5_TransmogName">Crypt Ghoul Tower Shield</string>
 	<string key="1hicegauntletGraverobberBrimstoneT5_TransmogName">Crypt Ghoul Ice Gauntlet</string>
 	<string key="1hvoidgauntletGraverobberBrimstoneT5_TransmogName">Crypt Ghoul Void Gauntlet</string>
 	<string key="2hBlunderbussGraverobberBrimstoneT5_TransmogName">Crypt Ghoul Blunderbuss</string>
@@ -4874,23 +4852,117 @@
 	<string key="ancestrallight_t4_hands_TransmogName">Ancestral Forager Light Handwear</string>
 	<string key="ancestrallight_t4_legs_TransmogName">Ancestral Forager Light Legwear</string>
 	<string key="ancestrallight_t4_feet_TransmogName">Ancestral Forager Light Footwear</string>
-	<string key="1hthrowingAxeGuardian_TransmogName">Guardian Hatchet</string>
-	<string key="2hWarhammer_GreatpickT4_TransmogName">Greatpick</string>
-	<string key="2hgreatswordCorruptedT3_TransmogName">T3 - Corrupt Greatsword</string>
-	<string key="2hBlunderbussCorruptedT3_TransmogName">T3 - Corrupt Blunderbuss</string>
-	<string key="VoidGauntletGraverobberT3_TransmogName">Graverobber Void Gauntlet</string>
-	<string key="VoidGauntletNaga_AncientGuardianT5_TransmogName">Ritual Serpent Void Gauntlet</string>
-	<string key="VoidGauntletNaga_CorruptedT4_TransmogName">Corrupted Serpent Void Gauntlet</string>
-	<string key="VoidGauntletPrimevalT5_TransmogName">Primeval Void Gauntlet</string>
-	<string key="LeaderboardEmpyreanForgeClearTime_chest_TransmogName">Mantle of the Champion - Warrior of The Empyrean Forge</string>
-	<string key="LeaderboardEmpyreanForgeScore_chest_TransmogName">Mantle of the Champion - Hero of The The Empyrean Forge</string>
-	<string key="LeaderboardRank1EmpyreanForgeClearTime_chest_TransmogName">Gilded Mantle of the Champion - Champion of The Empyrean Forge</string>
-	<string key="LeaderboardRank1EmpyreanForgeScore_chest_TransmogName">Gilded Mantle of the Champion - Conqueror of The Empyrean Forge</string>
 	<string key="LeaderboardDepthscleartime_chest_TransmogName">Mantle of the Champion - Warrior of The Depths</string>
 	<string key="LeaderboardDepthsscore_chest_TransmogName">Mantle of the Champion - Hero of The Depths</string>
 	<string key="LeaderboardShipyardcleartime_chest_TransmogName">Mantle of the Champion - Warrior of The Dynasty Shipyard</string>
 	<string key="LeaderboardRank1Depthscleartime_chest_TransmogName">Gilded Mantle of the Champion - Champion of The Depths</string>
 	<string key="LeaderboardRank1Depthsscore_chest_TransmogName">Gilded Mantle of the Champion - Conqueror of The Depths</string>
 	<string key="LeaderboardRank1Shipyardcleartime_chest_TransmogName">Gilded Mantle of the Champion - Champion of The Dynasty Shipyard</string>
+	<string key="1hthrowingAxeGuardian_TransmogName">Guardian Hatchet</string>
+	<string key="2hWarhammer_GreatpickT4_TransmogName">Greatpick</string>
+	<string key="2hgreatswordCorruptedT3_TransmogName">Corrupted Steel Greatsword</string>
+	<string key="2hBlunderbussCorruptedT3_TransmogName">Corrupted Steel Blunderbuss</string>
+	<string key="LeaderboardRank2_chest_TransmogName">Regal Mantle of the Champion</string>
+	<string key="LeaderboardRank2AmrineStarStonecleartime_chest_TransmogName">Regal Mantle of the Champion - Champion of The Starstone Barrows</string>
+	<string key="LeaderboardRank2AmrineStarStonescore_chest_TransmogName">Regal Mantle of the Champion - Conqueror of The Starstone Barrows</string>
+	<string key="LeaderboardRank2barnaclescleartime_chest_TransmogName">Regal Mantle of the Champion - Champion of Barnacles &amp; Blackpowder</string>
+	<string key="LeaderboardRank2barnaclesscore_chest_TransmogName">Regal Mantle of the Champion - Conqueror of Barnacles &amp; Blackpowder</string>
+	<string key="LeaderboardRank2brimstonecleartime_chest_TransmogName">Regal Mantle of the Champion - Champion of The Ennead</string>
+	<string key="LeaderboardRank2brimstonescore_chest_TransmogName">Regal Mantle of the Champion - Conqueror of The Ennead</string>
+	<string key="LeaderboardRank2darknessbreach_chest_TransmogName">Regal Mantle of the Champion - Conqueror of Breaches</string>
+	<string key="LeaderboardRank2eternalpools_chest_TransmogName">Regal Mantle of the Champion - Conqueror of The Eternal Pool</string>
+	<string key="LeaderboardRank2EmpyreanForgeClearTime_chest_TransmogName">Regal Mantle of the Champion - Champion of The Empyrean Forge</string>
+	<string key="LeaderboardRank2EmpyreanForgeScore_chest_TransmogName">Regal Mantle of the Champion - Conqueror of The Empyrean Forge</string>
+	<string key="LeaderboardRank2fishing_chest_TransmogName">Regal Mantle of the Champion - Conqueror of Lakes</string>
+	<string key="LeaderboardRank2gardengenesiscleartime_chest_TransmogName">Regal Mantle of the Champion - Champion of The Garden of Genesis</string>
+	<string key="LeaderboardRank2gardengenesisscore_chest_TransmogName">Regal Mantle of the Champion - Conqueror of The Garden of Genesis</string>
+	<string key="LeaderboardRank2invasion_chest_TransmogName">Regal Mantle of the Champion - Conqeuror of Invasions</string>
+	<string key="LeaderboardRank2lazarusinstrumentalitycleartime_chest_TransmogName">Regal Mantle of the Champion - Champion of The Lazarus Instrumentality</string>
+	<string key="LeaderboardRank2lazarusinstrumentalityscore_chest_TransmogName">Regal Mantle of the Champion - Conqueror of The Lazarus Instrumentality</string>
+	<string key="LeaderboardRank2monoeciouscleft_chest_TransmogName">Regal Mantle of the Champion - Conqueror of the Monoecious Cleft</string>
+	<string key="LeaderboardRank2openworld_chest_TransmogName">Regal Mantle of the Champion - Conqueror of Forests</string>
+	<string key="LeaderboardRank2outpostrush_chest_TransmogName">Regal Mantle of the Champion - Conqeuror of Outpost Rush</string>
+	<string key="LeaderboardRank2Sandworm_chest_TransmogName">Regal Mantle of the Champion - Conqeuror of the Sandworm</string>
+	<string key="LeaderboardRank2shipyardscore_chest_TransmogName">Regal Mantle of the Champion - Conqueror of The Dynasty Shipyard</string>
+	<string key="LeaderboardRank2sirenqueen_chest_TransmogName">Regal Mantle of the Champion - Conqeuror of the Spire of Melpomene</string>
+	<string key="LeaderboardRank2tempestheartcleartime_chest_TransmogName">Regal Mantle of the Champion - Champion of The Tempest's Soul</string>
+	<string key="LeaderboardRank2tempestheartscore_chest_TransmogName">Regal Mantle of the Champion - Conqueror of The Tempest's Soul</string>
+	<string key="LeaderboardRank2territorycontrol_chest_TransmogName">Regal Mantle of the Champion - Conqueror of Territories</string>
+	<string key="LeaderboardRank2War_chest_TransmogName">Regal Mantle of the Champion - Conqeuror of War</string>
+	<string key="1hRoundShieldFaeT4_TransmogName">Fae Starmetal Round Shield</string>
+	<string key="1hRoundShieldFaeT5_TransmogName">Fae Orichalcum Round Shield</string>
+	<string key="1hRoundShieldImmolatedT5_TransmogName">Immolated Orichalcum Round Shield</string>
+	<string key="1hRoundShieldViciousT4_TransmogName">Vicious Starmetal Round Shield</string>
+	<string key="1hRoundShieldViciousT5_TransmogName">Vicious Orichalcum Round Shield</string>
+	<string key="2hStaffLifeEtherealT4_TransmogName">Ethereal Starmetal Life Staff</string>
+	<string key="2hStaffLifeEtherealT5_TransmogName">Ethereal Orichalcum Life Staff</string>
+	<string key="2hicegauntletFaeT4_TransmogName">Fae Starmetal Ice Gauntlet</string>
+	<string key="2hicegauntletFaeT5_TransmogName">Fae Orichalcum Ice Gauntlet</string>
+	<string key="2hicegauntletImmolatedT4_TransmogName">Immolated Starmetal Ice Gauntlet</string>
+	<string key="2hicegauntletImmolatedT5_TransmogName">Immolated Orichalcum Ice Gauntlet</string>
+	<string key="2hicegauntletViciousT4_TransmogName">Vicious Starmetal Ice Gauntlet</string>
+	<string key="2hicegauntletViciousT5_TransmogName">Vicious Orichalcum Ice Gauntlet</string>
+	<string key="1hThrowingAxeAngryEarthT2_TransmogName">Angry Earth Iron Hatchet</string>
+	<string key="2hgreatswordElegantT4_TransmogName">Elegant Starmetal Greatsword</string>
+	<string key="2hgreatswordElegantT5_TransmogName">Elegant Orichalcum Greatsword</string>
+	<string key="2hgreatswordEtherealT4_TransmogName">Ethereal Starmetal Greatsword</string>
+	<string key="2hgreatswordEtherealT5_TransmogName">Ethereal Orichalcum Greatsword</string>
+	<string key="2hgreatswordFaeT5_TransmogName">Fae Orichalcum Greatsword</string>
+	<string key="2hgreatswordiciousT4_TransmogName">Vicious Starmetal Greatsword</string>
+	<string key="2hgreatswordiciousT5_TransmogName">Vicious Orichalcum Greatsword</string>
+	<string key="2hgreatswordImmolatedT4_TransmogName">Immolated Starmetal Greatsword</string>
+	<string key="2hgreatswordImmolatedT5_TransmogName">Immolated Orichalcum Greatsword</string>
+	<string key="2hgreatswordinespunT4_TransmogName">Vinespun Starmetal Greatsword</string>
+	<string key="2hgreatswordinespunT5_TransmogName">Vinespun Orichalcum Greatsword</string>
+	<string key="2hgreatswordoidbentT4_TransmogName">Voidbent Starmetal Greatsword</string>
+	<string key="2hgreatswordoidbentT5_TransmogName">Voidbent Orichalcum Greatsword</string>
+	<string key="2hGreatswordSylvanT5_TransmogName">Sylvan Greatsword</string>
+	<string key="2hgreatswordWaveborneT4_TransmogName">Waveborne Starmetal Greatsword</string>
+	<string key="2hgreatswordWaveborneT5_TransmogName">Waveborne Orichalcum Greatsword</string>
+	<string key="2hBowElegantT4_TransmogName">Elegant Starmetal Bow</string>
+	<string key="2hBowElegantT5_TransmogName">Elegant Orichalcum Bow</string>
+	<string key="2hBlunderbussElegantT4_TransmogName">Elegant Starmetal Blunderbuss</string>
+	<string key="2hBlunderbussElegantT5_TransmogName">Elegant Orichalcum Blunderbuss</string>
+	<string key="2hBlunderbussEtherealT4_TransmogName">Ethereal Starmetal Blunderbuss</string>
+	<string key="2hBlunderbussEtherealT5_TransmogName">Ethereal Orichalcum Blunderbuss</string>
+	<string key="2hBlunderbussFaeT4_TransmogName">Fae Starmetal Blunderbuss</string>
+	<string key="2hBlunderbussFaeT5_TransmogName">Fae Orichalcum Blunderbuss</string>
+	<string key="2hBlunderbussImmolatedT4_TransmogName">Immolated Starmetal Blunderbuss</string>
+	<string key="2hBlunderbussImmolatedT5_TransmogName">Immolated Orichalcum Blunderbuss</string>
+	<string key="2hBlunderbussViciousT4_TransmogName">Vicious Starmetal Blunderbuss</string>
+	<string key="2hBlunderbussViciousT5_TransmogName">Vicious Orichalcum Blunderbuss</string>
+	<string key="2hBlunderbussVinespunT4_TransmogName">Vinespun Starmetal Blunderbuss</string>
+	<string key="2hBlunderbussVinespunT5_TransmogName">Vinespun Orichalcum Blunderbuss</string>
+	<string key="2hBlunderbussVoidbentT4_TransmogName">Voidbent Starmetal Blunderbuss</string>
+	<string key="2hBlunderbussVoidbentT5_TransmogName">Voidbent Orichalcum Blunderbuss</string>
+	<string key="2hBlunderbussWaveborneT4_TransmogName">Waveborne Starmetal Blunderbuss</string>
+	<string key="2hBlunderbussWaveborneT5_TransmogName">Waveborne Orichalcum Blunderbuss</string>
+	<string key="TownGuard_Boots_TransmogName">Town Guardsman Heavy Footwear</string>
+	<string key="2hBowEvilKnightT3_TransmogName">Varangian Soldier Bow</string>
+	<string key="2hGreatAxeEvilKnightT3_TransmogName">Varangian Soldier Great Axe</string>
+	<string key="1hKiteShieldEvilKnightT3_TransmogName">Varangian Soldier Kite Shield</string>
+	<string key="1hSwordEvilKnightT3_TransmogName">Varangian Soldier Longsword</string>
+	<string key="2hMusketEvilKnightT3_TransmogName">Varangian Soldier Musket</string>
+	<string key="1hRapierEvilKnightT3_TransmogName">Varangian Soldier Rapier</string>
+	<string key="1hRoundShieldEvilKnightT3_TransmogName">Varangian Soldier Round Shield</string>
+	<string key="2hSpearEvilKnightT3_TransmogName">Varangian Soldier Spear</string>
+	<string key="1hHatchetEvilKnightT3_TransmogName">Varangian Soldier Hatchet</string>
+	<string key="2hWarhammerEvilKnightT3_TransmogName">Varangian Soldier War Hammer</string>
+	<string key="2hFireStaffEvilKnightT3_TransmogName">Varangian Soldier Fire Staff</string>
+	<string key="2hLifeStaffEvilKnightT3_TransmogName">Varangian Soldier Life Staff</string>
+	<string key="1hTowerShieldEvilKnightT3_TransmogName">Varangian Soldier Tower Shield</string>
+	<string key="2hIceGauntletEvilKnightT3_TransmogName">Varangian Soldier Ice Gauntlet</string>
+	<string key="2hVoidGauntletEvilKnightT3_TransmogName">Varangian Soldier Void Gauntlet</string>
+	<string key="2hBlunderbussEvilKnightT3_TransmogName">Varangian Soldier Blunderbuss</string>
+	<string key="2hGreatswordEvilKnightT3_TransmogName">Varangian Soldier Greatsword</string>
+	<string key="2hGreatswordAbyssalT4_TransmogName">Abyssal Starmetal Greatsword</string>
+	<string key="2hBlunderbussAbyssalT4_TransmogName">Abyssal Starmetal Blunderbuss</string>
+	<string key="2hBlunderbussAbyssalT5_TransmogName">Abyssal Orichalcum Blunderbuss</string>
+	<string key="1hShieldCWaveborneT5_TransmogName">Waveborne Orichalcum Tower Shield</string>
+	<string key="1hShieldCWaveborneT4_TransmogName">Waveborne Starmetal Tower Shield</string>
+	<string key="2hGreatswordAbyssalT5_TransmogName">Abyssal Orichalcum Greatsword</string>
+	<string key="2hicegauntletElegantT4_TransmogName">Elegant Starmetal Ice Gauntlet</string>
+	<string key="2hicegauntletElegantT5_TransmogName">Elegant Orichalcum Ice Gauntlet</string>
+	<string key="1hShieldCVinespunT5_Transmogname">Vinespun Orichalcum Tower Shield</string>
 </resources>
 

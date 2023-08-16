@@ -634,7 +634,7 @@
 	<string key="1123_0101_FQ10_proposal_next" speaker="Master Fisher Abebe - Mourningdale" name="MasterFisherAbebe" VO="Fisher_1123_0101_FQ10_CompleteNext" VO_Status="Recorded" dialogue-prompt="@1123_0101_FQ10_proposal_prompt">Coins, jewels, and all kinds of precious artifacts.\n\nTake your findings to Master Fisher Klaus in Great Cleave to remind him there's more to life than helping the Soulwardens.</string>
 	<string key="1123_0101_FQ10_incomplete" speaker="Master Fisher Abebe - Mourningdale">The coin is appreciated, but it is the transformative properties of azoth here that I believe make the fish of Aeternum more intelligent.</string>
 	<string key="1123_0101_FQ10_complete_available_response" speaker="Master Fisher Klaus- Great Cleave" name="MasterFisherKlaus" VO="Fisher_1123_0101_FQ10_AvailResponse" VO_Status="Recorded">Hello there. Master Fisher Klaus at your service. You've got to be strong to take on the fish in these parts.\n\nThey learn to fight in these cold mountain waters, and you have to be ready for them.</string>
-	<string key="1123_0101_d_01_TaskFishingCatchFish" speaker="UI">Catch a {itemName}</string>
+	<string key="1123_0101_d_01_TaskFishingCatchFish" speaker="UI">Catch a Treasure Chest</string>
 	<string key="1424_0101_FQ11_objective_title" speaker="UI">Soulwarden Rations</string>
 	<string key="1424_0101_FQ11_objective_desc" speaker="UI">Catch five fish heavier than 30 pounds for Master Fisher Klaus and deliver them to Master Fisher Davies in Edengrove</string>
 	<string key="1424_0101_FQ11_prompt" speaker="UI - Player Prompt">"He's doing well."</string>
