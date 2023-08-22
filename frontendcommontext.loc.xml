@@ -487,6 +487,11 @@
 	<string key="ui_kiln_desc">Refine and craft Gypsum here.</string>
 	<string key="ui_furnishing">Furnishing</string>
 	<string key="ui_source_craftable">Craftable</string>
+	<string key="ui_source_transmoggable" rel_version="Feature_Transmog">Transmoggable</string>
+	<string key="ui_transmog_skin_not_owned" rel_version="Feature_Transmog">You haven't unlocked this skin.</string>
+	<string key="ui_transmog_must_have_owned" rel_version="Feature_Transmog">You must collect this item in order to Transmog.</string>
+	<string key="ui_transmog_not_currently_available" rel_version="Feature_Transmog">This skin is not currently available.</string>
+	<string key="ui_transmogstation" rel_version="Feature_Transmog">Stylemancer</string>
 	<string key="ui_wildernesssurvival" comment="wilderness survival is not a trainable skill and is always equal to the character's level, so just tell users it's their character level for simplicity">Character</string>
 	<string key="ui_weaponsmithing_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Weaponsmithing Post Cap</string>
 	<string key="ui_armoring_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Armoring Post Cap</string>

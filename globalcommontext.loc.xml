@@ -2676,6 +2676,9 @@
 	<string key="ui_pvp_modes_guide_2_body">Outpost Rush is a 20 vs. 20 match that takes place on a large island with three Outposts.\n\nTeams score points by capturing and holding outposts.\n\nThe first team to 1,000 points wins the match.\n\nThe island features special resources and creatures that can be harnessed by the teams to swing the battle in their favor.</string>
 	<string key="ui_pvp_modes_guide_3_header">3v3 Arena</string>
 	<string key="ui_pvp_modes_guide_3_body">In 3v3 Arenas, two teams battle to eliminate each other. The match takes place in a best of five format.\n\nEliminate the entire opposing team to win a round.\n\nWin three rounds to win the match.\n\nConsumables are not allowed. The longer a round continues, the weaker healing abilities become. And If the round lasts too long, a ring of fire will begin to close until one side has won.</string>
+	<string key="ui_transmog_guide_title1" rel_version="Feature_Transmog">How It Works</string>
+	<string key="ui_transmog_guide_body1" rel_version="Feature_Transmog">When an item is added to your inventory, it's automatically added to your Transmog Collection and is available to Transmog into a skin.\n\nYou do not need to possess the item after it's been added to your Transmog Collection to Transmog it into a skin.</string>
+	<string key="ui_transmog_guide_body2" rel_version="Feature_Transmog">Go to the Transmog Station &lt;img src="lyshineui/images/map/icon/pois/transmog" xPadding="-10" scale="3.5" yOffset="14"&gt;&lt;/img&gt;, find the item, and use Transmog Tokens &lt;img src="lyshineui/images/icons/items/currency/transmogtokensmall" xPadding="0" scale="2.2" yOffset="6.0"&gt;&lt;/img&gt; to create a skin.\n\nTransmog skins are account-wide (able to use on any of your characters).</string>
 	<string key="ui_event_token_disappears">&lt;font face="lyshineui/fonts/Nimbus_Medium.font" color="#cca000"&gt;Tokens will disappear at the end of the event.&lt;/font&gt;</string>
 	<string key="ui_event_item_disappears">&lt;font face="lyshineui/fonts/Nimbus_Medium.font" color="#cca000"&gt;This item will disappear at the end of the event.&lt;/font&gt;</string>
 	<string key="ui_event_time_left">&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Event ends in: &lt;font color="#cca000"&gt;{timeLeft} &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;&lt;/font&gt;&lt;/font&gt;</string>
@@ -2707,6 +2710,34 @@
 	<string key="attribution_SpringtideBloom_2023" rel_version="Event_SpringtideBloom_Perm">Springtide Bloom 2023</string>
 	<string key="ui_event_reputation_title">Event Reputation</string>
 	<string key="ui_event_reputation_description">Event Reputation unlocks new items for purchase at the Event Shop.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; Completing Event Missions&lt;/font&gt;</string>
+	<string key="ui_transmog_filter_name" rel_version="Feature_Transmog">Name</string>
+	<string key="ui_transmog_filter_transmog_factor" rel_version="Feature_Transmog">Transmog Factor</string>
+	<string key="ui_transmog_filter_source_in_game" rel_version="Feature_Transmog">Source - In Game</string>
+	<string key="ui_transmog_filter_source_craftable" rel_version="Feature_Transmog">Source - Craftable</string>
+	<string key="ui_transmog_filter_source_store" rel_version="Feature_Transmog">Source - Store</string>
+	<string key="ui_transmog_filter_source_twitch_drop" rel_version="Feature_Transmog">Source - Twitch Drop</string>
+	<string key="ui_transmog_filter_source_prime_gaming" rel_version="Feature_Transmog">Source - Prime Gaming</string>
+	<string key="ui_transmog_filter_owned" rel_version="Feature_Transmog">Unlocked</string>
+	<string key="ui_transmog_filter_captured" rel_version="Feature_Transmog">Collected</string>
+	<string key="ui_transmog_filter_fullsets" rel_version="Feature_Transmog">Full Sets</string>
+	<string key="ui_transmog_appearance_captured" rel_version="Feature_Transmog">Added to Transmog Collection</string>
+	<string key="ui_transmog_open_menu" rel_version="Feature_Transmog">Transmogrify My Outfit</string>
+	<string key="ui_transmog_unequip_skin" rel_version="Feature_Transmog">Unequip Skin</string>
+	<string key="ui_transmog_stop_preview" rel_version="Feature_Transmog">Stop Preview</string>
+	<string key="ui_apply_set" rel_version="Feature_Transmog">Apply Set</string>
+	<string key="ui_preview_set" rel_version="Feature_Transmog">Preview Set</string>
+	<string key="ui_transmog" rel_version="Feature_Transmog">Transmog</string>
+	<string key="ui_transmog_tokens" rel_version="Feature_Transmog">Transmog Tokens</string>
+	<string key="ui_transmog_purchase_tokens" rel_version="Feature_Transmog">Purchase Transmog Tokens</string>
+	<string key="ui_transmog_add_more_tokens" rel_version="Feature_Transmog">Add More &lt;img src="lyshineui/images/icons/items/currency/transmogtokensmall" scale="2.3" yOffset="10"&gt;&lt;/img&gt;</string>
+	<string key="ui_transmog_more_tokens" rel_version="Feature_Transmog">You need more Transmog Tokens</string>
+	<string key="ui_transmog_token_desc" rel_version="Feature_Transmog">Transmog Tokens can be used at the Stylemancer to create skins from items you have acquired.\n\nYou do not need to possess the item to create a skin once acquired.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; Rewards, Events, Store&lt;/font&gt;</string>
+	<string key="ui_transmog_clear_preview" rel_version="Feature_Transmog">Clear Preview</string>
+	<string key="ui_transmog_dye_title" rel_version="Feature_Transmog">Dye armor and skins</string>
+	<string key="ui_transmog_dye_instructions" rel_version="Feature_Transmog">Check the box in the &lt;img src="lyshineui/images/icons/crafting/icon_skin_mask_tan" xPadding="0" scale="1.0" yOffset="1.0"&gt;&lt;/img&gt; column to dye the skin for an armor piece.</string>
+	<string key="ui_transmog_select_skin" rel_version="Feature_Transmog">Select Skin</string>
+	<string key="ui_transmog_unlock_for" rel_version="Feature_Transmog">Unlock for &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font &gt;&lt;img src="lyshineui/images/icons/items/currency/transmogtokensmall" scale="1.8" xPadding="5" yOffset="5"&gt;&lt;/img&gt;</string>
+	<string key="ui_transmog_not_available" rel_version="Feature_Transmog">Not Available</string>
 	<string key="attribution_RabbitSeason_2023" rel_version="Feature_RabbitSeasonPerm">Rabbit's Revenge 2023</string>
 	<string key="ui_transmog_error_inventory_not_ready">Transmog failed: Inventory Service not ready.</string>
 	<string key="ui_transmog_error_service_server_error">Transmog failed: Service Error.</string>
@@ -2720,6 +2751,7 @@
 	<string key="ui_transmog_error_generic">Transmog Error</string>
 	<string key="ui_transmog_npc_name">Stylemancer</string>
 	<string key="ui_transmog_npc_tooltip">Create skins from items you've collected by using &lt;img src="lyshineui/images/icons/items/currency/transmogtokensmall" xPadding="0" scale="2.2" yOffset="6.0"&gt;&lt;/img&gt; Transmog Tokens.</string>
+	<string key="ui_transmog_dyeing_error">Error applying dye. Please try again</string>
 	<string key="ui_transmog_dyeing_previews_disabled">Can't Dye Previewed Skins</string>
 	<string key="ui_transmog_services_unavailable_title">Transmog Services Unavailable</string>
 	<string key="ui_transmog_services_unavailable_message">Transmog is currently unavailable, please try again later</string>
