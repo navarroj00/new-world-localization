@@ -3200,6 +3200,11 @@
 	<string key="Season_02_Malek_BloodOfTheSands_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Temp">Mirage of Malek</string>
 	<string key="Season_02_LtHerikai_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Lieutenant Herikai</string>
 	<string key="VC_Season_02_LtHerikai" speaker="Vitals Category" rel_version="Season_1_Perm">Lieutenant Herikai</string>
+	<string key="Season_02_EggDefend_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Event">Dormant Royal Egg</string>
+	<string key="Season_02_EventBoss_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Event">Remnant of the Unmaker</string>
+	<string key="Season_02_Sulfur_Elemental_Soldier_EventBoss_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Event">Sword of Sulfur</string>
+	<string key="Season_02_Sulfur_Elemental_Shaman_EventBoss_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Event">Rage of Sulfur</string>
+	<string key="Season_02_Sulfur_Elemental_Heavy_EventBoss_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Event">Hammer of Sulfur</string>
 	<string key="Evil_Knight_LifeStaff_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Varangian Mender</string>
 	<string key="Evil_Knight_LifeStaff_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Forged Varangian Mender</string>
 	<string key="Evil_Knight_LifeStaff_DG_GreatCleave01_00_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Hospitaller Cleric</string>
@@ -13273,6 +13278,9 @@
 	<string key="VC_Evil_Knight_Warhammer_03GC08" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Forge Raider Crusher</string>
 	<string key="VC_Evil_Knight_Caster_03GC08" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Forge Raider Mage</string>
 	<string key="VC_Evil_Knight_Hound_03GC08" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Forge Raider Hound</string>
+	<string key="VC_Season_02_Event_Sulfur_Elemental_Soldier" rel_version="Season_2_Event">Sulfur Warden</string>
+	<string key="VC_Season_02_Event_Sulfur_Elemental_Shaman" rel_version="Season_2_Event">Sulfur Shaman</string>
+	<string key="VC_Season_02_Event_Sulfur_Elemental_Heavy" rel_version="Season_2_Event">Sulfur Menace</string>
 	<string key="Dunewalker_Wanderer_Longsword_Trial_SoloPlus_vitalsname" speaker="Vitals Sheet" rel_version="Season_2_Temp">Hatchery Guardian Scout</string>
 	<string key="Dunewalker_Wanderer_Longsword_Trial_Group_vitalsname" speaker="Vitals Sheet" rel_version="Season_2_Temp">Hatchery Guardian Scout</string>
 	<string key="Dunewalker_Wanderer_Longsword_Trial_Quest_vitalsname" speaker="Vitals Sheet" rel_version="Season_2_Temp">Hatchery Guardian Scout</string>

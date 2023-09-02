@@ -231,5 +231,13 @@
 	<string key="ui_event_pvp_arena_map_2_title" rel_version="Feature_PVP_Arena02">New 3v3 Arena Map!</string>
 	<string key="ui_event_pvp_arena_map_2_description" rel_version="Feature_PVP_Arena02">The fight promoter, Maximus Marcellus, is spreading word of a ruined gladiatorial pit in Brimstone Sands.\n\nGather your team and your wits to master this new arena of varying heights!</string>
 	<string key="ui_event_pvp_arena_map_2_about" rel_version="Feature_PVP_Arena02">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About New 3v3 Arena Map</string>
+	<string key="ui_event_aug_mtx_title" rel_version="Entitlements_Balance">Balance</string>
+	<string key="ui_event_aug_mtx_description" rel_version="Entitlements_Balance">There is a constant swirl in the balance between light and shadow, the real and the void. Do you take sides in this eternal conflict? Or do you remain committed to neutrality? Take a stand and look for new apparel skins, weapon skins, and emote bundles in the store throughout the month!</string>
+	<string key="ui_event_aug_mtx_about" rel_version="Entitlements_Balance">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Balance</string>
+	<string key="ui_event_siege_of_sulfur_title" rel_version="Season_2_Event">Siege of Sulfur</string>
+	<string key="ui_event_siege_of_sulfur_description" rel_version="Season_2_Event">Sharif's Blood of the Sands mages are under attack! While transporting valuable Sandwurm Eggs to secure locations around Aeternum, these mages have been assaulted by the forces of Adiana. Enraged Sulfur Elementals are attempting to destroy the eggs and eradicate the wurms from Aeternum. Defend the eggs and earn valuable rewards including powerful gear, the Sandwurm Egg housing item, and the Mini Devourer Sandwurm Hat.</string>
+	<string key="ui_event_siege_of_sulfur_bullet1" rel_version="Season_2_Event">Sandwurm Hat</string>
+	<string key="ui_event_siege_of_sulfur_bullet2" rel_version="Season_2_Event">Egg</string>
+	<string key="ui_event_siege_of_sulfur_about" rel_version="Season_2_Event">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Siege of Sulfur</string>
 </resources>
 

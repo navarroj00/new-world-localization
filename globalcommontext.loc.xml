@@ -2239,7 +2239,7 @@
 	<string key="ui_clusterwarning_description1">If you want to play in another {worldSetName} World, you will need to delete this character in {worldName}</string>
 	<string key="ui_clusterwarning_description2">If you have friends playing in other {worldSetName} Worlds, you will not be able to play with them.</string>
 	<string key="ui_clusterwarning_freshstart" rel_version="Feature_FreshStart">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Only new characters can be created in {worldName}.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer to this Fresh Start World.</string>
-	<string key="ui_clusterwarning_bfnw" rel_version="Feature_BFNW">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Only Return to Aeternum participants can create characters in {worldName}.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer to and from this world.</string>
+	<string key="ui_clusterwarning_bfnw" rel_version="Feature_BFNW">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Only Call of the Wilds participants can create characters in {worldName}.</string>
 	<string key="ui_clusterwarning_non_freshstart">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters may transfer to and from this world.</string>
 	<string key="ui_clusterwarning_transferoutonly">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer to this world.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters may transfer from this world.</string>
 	<string key="ui_clusterwarning_transferinonly">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters may transfer to this world.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer from this world.</string>
@@ -2744,9 +2744,9 @@
 	<string key="ui_transmog_error_service_throttled">Transmog failed: Server busy try again later.</string>
 	<string key="ui_transmog_error_service_invalid_request">Transmog failed: Invalid Request</string>
 	<string key="ui_transmog_error_skin_not_unlocked">Transmog failed: Skin is not unlocked</string>
-	<string key="ui_transmog_error_no_item_equipped">Transmog failed: Slot is empty</string>
+	<string key="ui_transmog_error_no_item_equipped">Could not apply {skinName}. Slot is empty</string>
 	<string key="ui_transmog_error_mismatch_item_class">Transmog failed: Cannot equip skin to mismatched types</string>
-	<string key="ui_transmog_error_skin_already_applied">Transmog failed: Appearance already applied on item</string>
+	<string key="ui_transmog_error_skin_already_applied">Did not apply {skinName}: Appearance already applied on item</string>
 	<string key="ui_transmog_error_apply_skin_pending">Transmog failed: Pending appearance change on item</string>
 	<string key="ui_transmog_error_generic">Transmog Error</string>
 	<string key="ui_transmog_npc_name">Stylemancer</string>

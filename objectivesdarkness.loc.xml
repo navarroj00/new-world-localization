@@ -160,6 +160,22 @@
 	<string key="ui_turkeyterror_worldboss_Turkulon_description">Turkulon has returned to avenge their fallen brethren</string>
 	<string key="ui_worldboss_defeated" rel_version="Event_February_Perm">{objective} Defeated</string>
 	<string key="ui_worldboss_daily_reset" rel_version="Event_February_Perm">Daily Reward Resets At {time}</string>
+	<string key="ui_worldboss_season_02_event" rel_version="Season_2_Event">Siege of Sulfur</string>
+	<string key="ui_worldboss_season_02_event_description" rel_version="Season_2_Event">Help an injured Dunewalker defend Royal Eggs from attacking Sulfur Elementals.\n\nContains &lt;font color="#ffe940"&gt;3&lt;/font&gt; Daily Rewards. Resets at {time}</string>
+	<string key="objective_worldboss_task_season_02_event_wave0_title" rel_version="Season_2_Event">Lend your aid to the Dunewalker</string>
+	<string key="objective_worldboss_task_season_02_event_wave0_desc" rel_version="Season_2_Event">Relieve the mage to defend the Royal Eggs</string>
+	<string key="objective_worldboss_task_season_02_event_wave1_title" rel_version="Season_2_Event">Wave 1/6</string>
+	<string key="objective_worldboss_task_season_02_event_wave1_desc" rel_version="Season_2_Event">Defeat the attacking Sulfur Elementals</string>
+	<string key="objective_worldboss_task_season_02_event_wave1a_desc" rel_version="Season_2_Event">Sulfur Elementals Remaining: {remainingCount}</string>
+	<string key="objective_worldboss_task_season_02_event_wave2_desc" rel_version="Season_2_Event">Wave 2/6</string>
+	<string key="objective_worldboss_task_season_02_event_wave3_desc" rel_version="Season_2_Event">Wave 3/6</string>
+	<string key="objective_worldboss_task_season_02_event_wave4_desc" rel_version="Season_2_Event">Wave 4/6</string>
+	<string key="objective_worldboss_task_season_02_event_wave5_desc" rel_version="Season_2_Event">Wave 5/6</string>
+	<string key="objective_worldboss_task_season_02_event_wave6_desc" rel_version="Season_2_Event">Wave 6/6</string>
+	<string key="objective_worldboss_task_season_02_event_wave_miniboss_title" rel_version="Season_2_Event">Defeat the Sulfur Giants</string>
+	<string key="objective_worldboss_task_season_02_event_wave_miniboss_desc" rel_version="Season_2_Event">Sulfur Giants Remaining: {remainingCount}</string>
+	<string key="objective_worldboss_task_season_02_event_wave_boss_title" rel_version="Season_2_Event">Defend the Royal Eggs</string>
+	<string key="objective_worldboss_task_season_02_event_wave_boss_desc" rel_version="Season_2_Event">Slay the Remnant of the Unmaker</string>
 	<string key="objective_Season_02_PoolsOfOrcus_title_wave1" rel_version="Quest_MSQ_Update_4">Pools of Orcus</string>
 	<string key="objective_Season_02_PoolsOfOrcus_encounter1" rel_version="Quest_MSQ_Update_4">Stop the Geysers: {remainingCount}/3</string>
 	<string key="objective_Season_02_DancingPillars_title_wave1" rel_version="Quest_MSQ_Update_4">Dancing Pillars: Stage 1/5</string>

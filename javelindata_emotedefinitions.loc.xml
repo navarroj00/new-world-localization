@@ -376,6 +376,11 @@
 	<string key="emote_DoffCap" rel_version="Emote_DoffCap">{playerName} doffs his cap.</string>
 	<string key="emote_DoffCap_SHE" rel_version="Emote_DoffCap">{playerName} doffs her cap.</string>
 	<string key="emote_DoffCap_THEY" rel_version="Emote_DoffCap">{playerName} doffs their cap.</string>
+	<string key="ui_emote_HeelClick_name" rel_version="Emote_HeelClick">Heel Click</string>
+	<string key="ui_emote_HeelClick_description" rel_version="Emote_HeelClick">Click them heels and see if you can escape this cursed island.</string>
+	<string key="emote_HeelClick" rel_version="Emote_HeelClick">{playerName} clicks his heels.</string>
+	<string key="emote_HeelClick_SHE" rel_version="Emote_HeelClick">{playerName} clicks her heels.</string>
+	<string key="emote_HeelClick_THEY" rel_version="Emote_HeelClick">{playerName} clicks their heels.</string>
 	<string key="ui_emote_SnowPileThrow_name" rel_version="Emote_SnowPileThrow">Throw Snow</string>
 	<string key="ui_emote_SnowPileThrow_description" rel_version="Emote_SnowPileThrow">Toss white fluffy snow into the chill air.</string>
 	<string key="emote_SnowPileThrow" rel_version="Emote_SnowPileThrow">{playerName} throws snow.</string>
@@ -494,5 +499,11 @@
 	<string key="ui_Emote_Walk_Viking_name">Viking Walk</string>
 	<string key="ui_Emote_Walk_Viking_description">No one's sure if all Vikings walk like this, but at least one did.</string>
 	<string key="Emote_Walk_Viking">{playerName} walks assertively, but with style.</string>
+	<string key="ui_Emote_MashedPotatoDance_name" rel_version="Entitlements_Balance">Mashed Potato Dance</string>
+	<string key="ui_Emote_MashedPotatoDance_description" rel_version="Entitlements_Balance">This has to be one of the strangest ways of mashing potatoes that I've seen.</string>
+	<string key="Emote_MashedPotatoDance" rel_version="Entitlements_Balance">{playerName} does the mashed potato.</string>
+	<string key="ui_Emote_SpyGlass_name" rel_version="Entitlements_Balance">Spyglass</string>
+	<string key="ui_Emote_SpyGlass_description" rel_version="Entitlements_Balance">I spy, with my little eye...</string>
+	<string key="Emote_SpyGlass" rel_version="Entitlements_Balance">{playerName} spies something in the distance.</string>
 </resources>
 

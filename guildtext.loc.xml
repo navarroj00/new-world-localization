@@ -185,6 +185,9 @@
 	<string key="ui_guildcannotpromote_nofaction" rel_version="Feature_Unfactioned_Company_Members">Unable to promote to Governor. Not in a Faction.</string>
 	<string key="ui_guild_blocked_on_this_world" rel_version="Feature_Cross_World_Social">Cannot perform this action on this World.</string>
 	<string key="ui_guild_cannot_invite_player_from_other_world" rel_version="Feature_Cross_World_Social">Cannot invite a player from another World.</string>
+	<string key="ui_guild_at_max_invite_limit">Cannot invite player. Your guild has reached its maximum invite limit.</string>
+	<string key="guild_invite_failed_too_many_invites">Unable To Send Invite</string>
+	<string key="guild_invite_failed_remove_oldest_invite">Your guild has reached the max number of allowed guild invites. Would you like to remove the oldest invite to make room for this invite?</string>
 	<string key="ui_guildranksettler" comment="Pronoun for Target Player">Settler</string>
 	<string key="ui_guildranksettler_SHE">Settler</string>
 	<string key="ui_guildranksettler_THEY">Settler</string>

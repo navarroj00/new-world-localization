@@ -496,7 +496,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_pvp_flag_mismatch">Your PvP flag does not match the Lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_pvp_faction_mismatch">You must be in the same faction for a PvP Lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_requirements_not_met">Lobby requirements have changed and you do not meet them.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_cleanspeakerror">Chat filter error. Please update your text and try again.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_cleanspeakerror">Your Lobby Description contained profanity or prohibited words, please try again.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_atmaxapplications">You cannot send any more requests.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_groupfull">Lobby Full</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_convert_to_group_declined">{playerName} declined the ready check.</string>
@@ -639,6 +639,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_level_desc">Your level: {level}\nMinimum level cannot exceed your level.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_gear_score_desc">Your Gear Score: {gearscore}\nMinimum gear score cannot exceed your gear score.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_comment_format">&quot;{text}&quot;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_comment_invalid_characters">Character not allowed in the Lobby Description</string>
 	<string rel_version="Feature_Group_Finder" key="ui_chat_name_group_finder_group">Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_lobbies_header">Lobbies</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_time_ago">{time} ago</string>
