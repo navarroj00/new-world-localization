@@ -1,2 +1,15 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="99E_Sun" gender="M" rel_version="Quest_MSQ2_Edengrove">Sun Fuchun</string>
+	<string key="99E_Sun_title" rel_version="Quest_MSQ2_Edengrove">Scholar of Ebonscale</string>
+	<string key="99E_Morgaine" gender="M" rel_version="Quest_MSQ2_Edengrove">Morgaine</string>
+	<string key="99E_Morgaine_title" rel_version="Quest_MSQ2_Edengrove">Sorceress</string>
+	<string key="99E_Galahad" gender="M" rel_version="Quest_MSQ2_Edengrove">Ser Galahad</string>
+	<string key="99E_Galahad_title" rel_version="Quest_MSQ2_Edengrove">Knight</string>
+	<string key="99E_Adiana" gender="M" rel_version="Quest_MSQ2_Edengrove">Adiana Theron</string>
+	<string key="99E_Adiana_title" rel_version="Quest_MSQ2_Edengrove">Speaker for the Green</string>
+	<string key="99E_Yash" gender="M" rel_version="Quest_MSQ2_Edengrove">Yash Zafar</string>
+	<string key="99E_Yash_title" rel_version="Quest_MSQ2_Edengrove">Soulwarden Recruit</string>
+	<string key="99E_Myrddin" gender="M" rel_version="Quest_MSQ2_Edengrove">Myrddin</string>
+	<string key="99E_Myrddin_title" rel_version="Quest_MSQ2_Edengrove">Imprisoned Sorcerer</string>
+</resources>
 

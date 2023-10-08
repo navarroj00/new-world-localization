@@ -138,6 +138,7 @@
 	<string key="mm_invalidname_corrupt">This name contains invalid characters.</string>
 	<string key="mm_invalidname_badwords">This name cannot be used.</string>
 	<string key="mm_invalidname_multiplespaces">This name contains multiple consecutive spaces.</string>
+	<string key="mm_rename_throttled">Naming throttled, try again later.</string>
 	<string key="mm_invalidname_unknown">This name cannot be used.</string>
 	<string key="mm_csdkerr_early_message">Connection registration did not arrive in time</string>
 	<string key="mm_csdkerr_multiple_registration">Server connection is ambiguous.</string>
@@ -207,6 +208,7 @@
 	<string key="mm_rejected_Client_Kicked_BannedCommerce">Payment Issue</string>
 	<string key="mm_rejected_Client_Kicked_Embargoed_Country">We are unable to provide you with access from your current location.</string>
 	<string key="mm_rejected_Client_Kicked_Unknown">You have been kicked from the game.</string>
+	<string key="mm_rejected_Client_Expansion2023_Ownership">Your character is currently locked. &lt;font color="#0000ff"&gt;&lt;a action="OpenRegionalUrl" data="@url_expansion2023_purchase"&gt;Purchase Expansion.&lt;/a&gt;&lt;/font&gt;</string>
 	<string key="mm_authresult_Authorized">Success</string>
 	<string key="mm_characterCreateDisabled">Character creation is temporarily disabled because this world is full. Please try a different world.</string>
 	<string key="mm_characterTransferDisabled">Character transfers are temporarily disabled because this world is full. Please try a different world.</string>
@@ -307,6 +309,7 @@
 	<string key="ui_bio">Bio</string>
 	<string key="ui_attributes">Attributes</string>
 	<string key="ui_trade_skills">Trade Skills</string>
+	<string key="ui_trade_skill">Trade Skill</string>
 	<string key="ui_how_it_works">How It Works</string>
 	<string key="ui_pvp_track_skills_tab" rel_version="PvP_Rewards_Track">PvP</string>
 	<string key="ui_pvp_track" rel_version="PvP_Rewards_Track">PvP Track</string>
@@ -346,8 +349,8 @@
 	<string key="ui_pvp_track_bannerrewards_1" rel_version="PvPRewardsTrack_Update">Reward Pool: \n+Named Equipment</string>
 	<string key="ui_pvp_track_bannerrewards_2" rel_version="PvPRewardsTrack_Update">Reward Pool: \n+Prestige Equipment</string>
 	<string key="ui_pvp_track_bannerrewards_3" rel_version="PvPRewardsTrack_Update">Reward Pool: \n+Grand Armor\n+Predator Weapons</string>
-	<string key="ui_pvp_track_bannerrewards_4" rel_version="PvPRewardsTrack_Update">Reward Pool: \n+More Umbral Shards\n+More Coin\n+More Tokens\n+More Potions</string>
-	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvPRewardsTrack_Update">Reward Pool: \n+More Umbral Shards</string>
+	<string key="ui_pvp_track_bannerrewards_4" rel_version="PvPRewardsTrack_Update">Reward Pool: \n+More Dark Matter\n+More Coin\n+More Tokens\n+More Potions</string>
+	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvPRewardsTrack_Update">Reward Pool: \n+More Dark Matter</string>
 	<string key="ui_pvp_track_bannerrewards_6" rel_version="PvPRewardsTrack_Update">Reward Pool: \n+More Everything</string>
 	<string key="ui_pvp_track_next_milestone" rel_version="PvP_Rewards_Track">{milestone} Track Milestone At:</string>
 	<string key="ui_pvp_track_milestone" rel_version="PvP_Rewards_Track">{milestone} Track Milestone</string>
@@ -462,11 +465,20 @@
 	<string key="ui_fishing_equip_action">Fishing Mode</string>
 	<string key="ui_fishing_action">Cast / Hook / Reel</string>
 	<string key="ui_fishing_reset_action">Reset Cast / Exit</string>
+	<string key="ui_riding" rel_version="Feature_Mounts">Riding</string>
 	<string key="ui_performances" rel_version="Feature_MusicalPerformances">Music</string>
 	<string key="ui_performances_toggle" rel_version="Feature_MusicalPerformances">Performance Mode</string>
 	<string key="ui_performances_start" rel_version="Feature_MusicalPerformances">Play</string>
 	<string key="ui_performances_equip" rel_version="Feature_MusicalPerformances">Song Selection</string>
 	<string key="ui_performances_invite" rel_version="Feature_MusicalPerformances">Invite</string>
+	<string key="ui_performances_notes" rel_version="Feature_MusicalPerformances">Music Track Notes</string>
+	<string key="ui_performances_note_up" rel_version="Feature_MusicalPerformances">Note Up</string>
+	<string key="ui_performances_note_down" rel_version="Feature_MusicalPerformances">Note Down</string>
+	<string key="ui_performances_note_left" rel_version="Feature_MusicalPerformances">Note Left</string>
+	<string key="ui_performances_note_right" rel_version="Feature_MusicalPerformances">Note Right</string>
+	<string key="ui_performances_note_bottom" rel_version="Feature_MusicalPerformances">Note Bottom</string>
+	<string key="ui_performances_chord_1" rel_version="Feature_MusicalPerformances">1st Chord Note</string>
+	<string key="ui_performances_chord_2" rel_version="Feature_MusicalPerformances">2nd Chord Note</string>
 	<string key="ui_camping">Camping</string>
 	<string key="ui_tracking">Coming Soon</string>
 	<string key="ui_exploring">Coming Soon</string>
@@ -511,6 +523,7 @@
 	<string key="ui_logging_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Logging Post Cap</string>
 	<string key="ui_harvesting_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Harvesting Post Cap</string>
 	<string key="ui_musician_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Musician Post Cap</string>
+	<string key="ui_riding_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_Mounts">Riding Post Cap</string>
 	<string key="ui_seasonpass" rel_version="Feature_Seasons_Rewards">Season Pass</string>
 	<string key="ui_decline">Decline</string>
 	<string key="ui_name_your_avatar">Character Name</string>
@@ -619,5 +632,7 @@
 	<string key="ui_season_track_reward" rel_version="Feature_Seasons_Rewards">Unclaimed Rewards</string>
 	<string key="error_cross_world_maintenance_title">Server Maintenance</string>
 	<string key="error_cross_world_maintenance_message">You have been moved to the open world due to server maintenance.</string>
+	<string key="tradeskill_skillcap_info">Trade Skill Level Cap: {maxRank}</string>
+	<string key="tradeskill_skillcap_tooltip">Purchase {expansionName} to raise your Trade Skill level cap to {maxRank}.</string>
 </resources>
 

@@ -1,2 +1,35 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="9401_Horse" gender="Male" rel_version="Feature_Mounts">Jochi Khan</string>
+	<string key="9401_Horse_Title" rel_version="Feature_Mounts">Horse Whisperer</string>
+	<string key="9402_Conman" gender="Male" rel_version="Feature_Mounts">François de La Rama</string>
+	<string key="9402_Conman_Title" rel_version="Feature_Mounts">Reformed Conman</string>
+	<string key="9403_Wolf" gender="Female" rel_version="Feature_Mounts">Valencia Iznov</string>
+	<string key="9403_Wolf_Title" rel_version="Feature_Mounts">Varangian Defector</string>
+	<string key="9404_Record" gender="Female" rel_version="Feature_Mounts">Satiah Ramotep</string>
+	<string key="9404_Record_Title" rel_version="Feature_Mounts">Record Keeper</string>
+	<string key="9405_Lion" gender="Female" rel_version="Feature_Mounts">Zinnumun</string>
+	<string key="9405_Lion_Title" rel_version="Feature_Mounts">Lion Matriach</string>
+	<string key="9401_TourBoard" rel_version="Feature_Mounts">Tour Board</string>
+	<string key="9401_RallyBoard" rel_version="Feature_Mounts">Rally Board</string>
+	<string key="9401_SteeplerunBoard" rel_version="Feature_Mounts">Steeplerun Board</string>
+	<string key="9402_TourBoard" rel_version="Feature_Mounts">Tour Board</string>
+	<string key="9402_RallyBoard" rel_version="Feature_Mounts">Rally Board</string>
+	<string key="9402_SteeplerunBoard" rel_version="Feature_Mounts">Steeplerun Board</string>
+	<string key="9403_TourBoard" rel_version="Feature_Mounts">Tour Board</string>
+	<string key="9403_RallyBoard" rel_version="Feature_Mounts">Rally Board</string>
+	<string key="9403_SteeplerunBoard" rel_version="Feature_Mounts">Steeplerun Board</string>
+	<string key="9404_TourBoard" rel_version="Feature_Mounts">Tour Board</string>
+	<string key="9404_RallyBoard" rel_version="Feature_Mounts">Rally Board</string>
+	<string key="9404_SteeplerunBoard" rel_version="Feature_Mounts">Steeplerun Board</string>
+	<string key="9405_TourBoard" rel_version="Feature_Mounts">Tour Board</string>
+	<string key="9405_RallyBoard" rel_version="Feature_Mounts">Rally Board</string>
+	<string key="9405_SteeplerunBoard" rel_version="Feature_Mounts">Steeplerun Board</string>
+	<string key="9401_FirstHorse" rel_version="Feature_Mounts">Wild Horse</string>
+	<string key="9401_FirstHorse_Title" rel_version="Feature_Mounts">Friendly Horse</string>
+	<string key="9403_FirstWolf" rel_version="Feature_Mounts">Dire Wolf</string>
+	<string key="9403_FirstWolf_Title" rel_version="Feature_Mounts">Captured Wolf</string>
+	<string key="9405_FirstLion" rel_version="Feature_Mounts">Kaluru</string>
+	<string key="9405_FirstLion_Title" rel_version="Feature_Mounts">Lion Patriarch</string>
+	<string key="9401_VectorNote" rel_version="Feature_Mounts">Mud-Stained Note</string>
+</resources>
 

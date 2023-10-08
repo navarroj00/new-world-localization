@@ -213,13 +213,20 @@
 	<string key="ui_sendguildinvite">Send Company Invite</string>
 	<string key="ui_social_menu_crossworld_warning" rel_version="Feature_Cross_World_Social">Online/offline information is not available in a Cross World instance.</string>
 	<string key="ui_friends_cross_world" rel_version="Feature_Cross_World_Social">You can not send/respond to friend invites while in a Cross World instance.</string>
-	<string key="ui_action_disabled_crossworld" rel_version="Feature_Cross_World_Social">You cannot perform this action while on this World.</string>
+	<string key="ui_action_disabled_crossworld" rel_version="Feature_Cross_World_Social">You cannot perform this action while Cross World.</string>
 	<string key="ui_action_disabled_differentworld" rel_version="Feature_Cross_World_Social">You cannot perform this action with a player from a different Home World.</string>
 	<string key="ui_button_disabled_differentworld" rel_version="Feature_Cross_World_Social">This functionality is currently unavailable in Cross World instances.</string>
 	<string key="ui_bio_buffs_crossworld_warning" rel_version="Feature_Cross_World_Social">Your buffs are active but are not visible in Cross World instances.</string>
 	<string key="ui_guild">Company</string>
 	<string key="ui_war_declared_chat_notification">{guild1} has declared war on {guild2} for control of {territoryName}!</string>
 	<string key="ui_war_extended_chat_notification">The war between {guild1} and {guild2} has been extended!</string>
+	<string key="ui_influence_race_contribution_threshold_crossed">Your company has earned enough Influence to declare War in {territoryName} if your faction wins the Influence Race.</string>
+	<string key="ui_influence_race_scheduled">An Influence Race has been scheduled in {territoryName}.</string>
+	<string key="ui_influence_race_started">An Influence Race has started in {territoryName}.</string>
+	<string key="ui_influence_race_ended_faction1">The Syndicate have won the Influence Race in {territoryName}.</string>
+	<string key="ui_influence_race_ended_faction2">The Marauders have won the Influence Race in {territoryName}.</string>
+	<string key="ui_influence_race_ended_faction3">The Covenant have won the Influence Race in {territoryName}.</string>
+	<string key="ui_influence_race_ended_nowinner">The Influence Race in {territoryName} has ended.</string>
 	<string key="ui_active_conquest">Active Conquest</string>
 	<string key="ui_conquest_in">Conquest starting in</string>
 	<string key="ui_online_num">{Num} Online</string>
@@ -344,7 +351,7 @@
 	<string key="ui_waypoint_set_to_ping">Waypoint set to ping</string>
 	<string key="ui_chat_name_raid">Raid</string>
 	<string key="ui_chat_name_raid_upper">RAID</string>
-	<string key="ui_error_raidchat" comment="An error when you try to talk in raid chat">You are not in an army.</string>
+	<string key="ui_error_raidchat" comment="An error when you try to talk in raid chat">You are not in a raid.</string>
 	<string key="ui_error_guildchat" comment="An error when you try to talk in guild chat">You are not in a company.</string>
 	<string key="ui_notification_pvp_enabled">PvP flag enabled.</string>
 	<string key="ui_notification_pvp_flagged">Flagged for PvP.</string>
@@ -438,6 +445,9 @@
 	<string key="ui_subarmy_decline_tooltip">You are declined to join the streamer's Subscriber Army.</string>
 	<string key="ui_subarmy_waiting">Waiting for the streamer's approval..</string>
 	<string key="ui_subarmy_pending">Pending...</string>
+	<string key="group_member_cannot_join_expedition">{playerName} is not eligible to enter this Expedition</string>
+	<string key="self_cannot_join_expedition">Cannot Join Expedition</string>
+	<string key="required_level_warning">Requires Level {level}</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_findtabtitle">Find Group</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_managetabtitle">My Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_creategroup">Create Lobby</string>
@@ -501,7 +511,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_groupfull">Lobby Full</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_convert_to_group_declined">{playerName} declined the ready check.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_convert_to_group_timeout">Ready Check Timed Out</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_playeroffline">Can't invite {playerName}, they are offline.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_playeroffline">Can't invite {playerName}, they are offline or Cross World.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_expedition_lobby">Expedition Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_group_title">Create New Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_edit_group_title">Edit Lobby</string>
@@ -577,6 +587,8 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_pvpflagmismatched">Invite declined. Player has mismatched PVP flagging.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_atdungeonlimit">Invite declined. Player at Expedition Limit.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_mismatchedfaction">Invite declined. Player in different Faction.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_mutationlevel">Invite declined. Player too low level.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_mutationlevel">You are too low a level to create a lobby for this mutatated expedition.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite">Invite to Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite_tooltip_not_creator">Only the Lobby creator can invite.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite_tooltip_already_in_group">{player} is already in your Lobby.</string>

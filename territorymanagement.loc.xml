@@ -179,6 +179,8 @@
 	<string key="ui_encounter_ongoingwar">ONGOING WAR</string>
 	<string key="ui_encounter_upcominginvasion">UPCOMING INVASION</string>
 	<string key="ui_encounter_ongoinginvasion">ONGOING INVASION</string>
+	<string key="ui_encounter_upcomingrace" rel_version="Feature_Influence_V2">UPCOMING RACE</string>
+	<string key="ui_encounter_ongoingrace" rel_version="Feature_Influence_V2">ONGOING RACE</string>
 	<string key="ui_encounter_yourstatus">YOUR STATUS</string>
 	<string key="ui_encounter_statusstandby">Your status : &lt;font color='#fab445'&gt;Standby&lt;/font&gt;</string>
 	<string key="ui_encounter_statusselected">Your status : &lt;font color='#30e5ab'&gt;Selected&lt;/font&gt;</string>
@@ -223,6 +225,7 @@
 	<string key="ui_settlementinfo_notclaimed">Settlement is unclaimed.</string>
 	<string key="ui_territoryinfo_unenterable">Unavailable</string>
 	<string key="ui_territoryinfo_unenterabledescription">No one can enter this territory.</string>
+	<string key="ui_territoryinfo_earnings">Earns up to &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffffff"&gt;{maxPercent}%&lt;/font&gt; of tax revenue</string>
 	<string key="ui_fortressinfo_upcomingbattlelabel">Upcoming Battle Event</string>
 	<string key="ui_fortressinfo_ongoingbattlelabel">Ongoing Battle Event</string>
 	<string key="ui_fortressinfo_noupcomingbattle">No upcoming battle event.</string>
@@ -232,7 +235,7 @@
 	<string key="ui_fortressinfo_invasion">Invasion Starts In:</string>
 	<string key="ui_fortressinfo_ongoinginvasion">Invasion Active</string>
 	<string key="ui_fortressinfo_resolvinginvasion">Invasion Resolving</string>
-	<string key="ui_fortressinfo_invasiondescription">This territory is under attack from the Corrupted. War cannot be declared until the Invasion has ended.</string>
+	<string key="ui_fortressinfo_invasiondescription">War cannot be declared until the next Influence Race.</string>
 	<string key="ui_fortressinfo_button_declarewar">Declare War!</string>
 	<string key="ui_fortressinfo_button_manage">Manage Army</string>
 	<string key="ui_fortressinfo_button_signup_at_board">Sign up at a War Board</string>
@@ -244,16 +247,16 @@
 	<string key="ui_fortressinfo_invasionattackername">The Corrupted</string>
 	<string key="ui_fortressinfo_timetodeclare">Time to Declare War:</string>
 	<string key="ui_fortressinfo_timetodeclare_paused_invasion">Paused (Invasion)</string>
-	<string key="ui_fortressinfo_conflictdescription">You will &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;no longer earn Influence&lt;/font&gt; in this territory until War has been resolved (All other Faction Mission rewards like XP and Coin are still available).\n\nIf multiple Companies that contributed influence declare war, a random one will be selected.</string>
+	<string key="ui_fortressinfo_conflictdescription">You will &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;no longer earn Influence&lt;/font&gt; in this territory until the next Influence Race.\n\nIf multiple Companies that contributed influence declare war, a random one will be selected.</string>
 	<string key="ui_fortressinfo_noconflict">Territory Not In Conflict</string>
 	<string key="ui_fortressinfo_contributionnotrequired">No company has contributed enough influence yet, so any company would be eligible to declare war.</string>
 	<string key="ui_fortressinfo_hascontribution">Your company HAS contributed enough influence to be eligible to declare war.</string>
-	<string key="ui_fortressinfo_insufficientcontribution">Your company HAS NOT contributed enough influence to be eligible to declare war.</string>
-	<string key="ui_fortressinfo_noconflictdescription">For an attacker to be able to declare war on this territory, they must have at least 25 members in their Company and their Faction must first build up enough Territory Influence.</string>
+	<string key="ui_fortressinfo_insufficientcontribution">Your company HAS NOT contributed enough influence to be eligible to declare war. Note: Your influence contribution may take a couple of minutes to process.</string>
+	<string key="ui_fortressinfo_noconflictdescription">For an attacker to be able to declare war on this territory, they must have at least 25 members in their Company and their Faction must first build up enough Territory Influence during an Influence Race.</string>
 	<string key="ui_fortressinfo_upcomingwarlabel">War Starts In:</string>
 	<string key="ui_fortressinfo_ongoingwarlabel">War Active</string>
 	<string key="ui_fortressinfo_resolveingwarlabel">War Resolving</string>
-	<string key="ui_fortressinfo_atwardescription">You will &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;no longer earn Influence&lt;/font&gt; in this territory until War has been resolved (All other Faction Mission rewards like XP and Gold are still available).</string>
+	<string key="ui_fortressinfo_atwardescription">You will &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;no longer earn Influence&lt;/font&gt; in this territory until the next Influence Race.</string>
 	<string key="ui_township">Settlement</string>
 	<string key="ui_fortress">Fort</string>
 	<string key="ui_complete">Complete</string>
@@ -534,7 +537,8 @@
 	<string key="ui_territoryupkeep_overdue_desc">Territory upkeep is &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;overdue&lt;/font&gt;.\nThis territory will downgrade every 24 hours until the upkeep is paid.</string>
 	<string key="ui_territoryupkeep_overdue_noupgrade_desc">Territory upkeep is &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;overdue&lt;/font&gt;.&lt;/font&gt;\nThe governing company cannot start a town project.</string>
 	<string key="ui_companypaycheck">Payrolls</string>
-	<string key="ui_companypaycheck_desc">The governing company receives income from taxes and fees.</string>
+	<string key="ui_companypaycheck_desc">The governing company receives income from taxes and fees.\n\n{territoryName} earns &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffffff"&gt;{currentPercent}%&lt;/font&gt; (maximum &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffffff"&gt;{maxPercent}%&lt;/font&gt;) of tax revenue.</string>
+	<string key="ui_companypaycheck_tooltip">The revenue earned by governing companies is a percentage of the total taxes paid in a world and reliant on how upgraded the territory is. As a company upgrades a territory, it will receive a higher percentage of tax revenue up to the listed maximum percentage.</string>
 	<string key="ui_taxandfee">Taxes and Fees</string>
 	<string key="ui_taxandfee_desc">The governing company can adjust rates of Taxes and Fees.</string>
 	<string key="ui_governingCompanyOnly">Governing Company Only</string>
@@ -578,6 +582,7 @@
 	<string key="ui_territory_downgrade">Territory Downgrade</string>
 	<string key="ui_payment_not_required">Payment is not required at this time</string>
 	<string key="ui_upkeep_not_required">NO UPKEEP REQUIRED</string>
+	<string key="ui_upkeep_disabled">Upkeep Payment Disabled</string>
 	<string key="ui_no_territory_upgrade">A Territory with 0 upgrade doesn't require any territory upkeep.</string>
 	<string key="ui_overdue">Overdue</string>
 	<string key="ui_no_upgrade_desc">A Territory with &lt;font color="#ffffff"&gt;0 upgrade&lt;/font&gt; doesn’t require any Territory upkeep.</string>
@@ -622,10 +627,10 @@
 	<string key="ui_darkness_threshold_1">Low</string>
 	<string key="ui_darkness_threshold_2">Medium</string>
 	<string key="ui_darkness_threshold_3">High</string>
-	<string key="ui_darkness_threshold_desc_0">No Corruption Breaches present.</string>
-	<string key="ui_darkness_threshold_desc_1">Minor: Corruption Breaches may appear.</string>
-	<string key="ui_darkness_threshold_desc_2">Minor and Major: Corruption Breaches may appear.</string>
-	<string key="ui_darkness_threshold_desc_3">Maximum amount of Corruption Breaches present.</string>
+	<string key="ui_darkness_threshold_desc_0">No Corruption Breaches present</string>
+	<string key="ui_darkness_threshold_desc_1">Minor: Corruption Breaches may appear</string>
+	<string key="ui_darkness_threshold_desc_2">Minor and Major: Corruption Breaches may appear</string>
+	<string key="ui_darkness_threshold_desc_3">Maximum amount of Corruption Breaches present</string>
 	<string key="ui_plan_territory">Plan Territory</string>
 	<string key="ui_upgrade_town">Upgrade Town</string>
 	<string key="ui_upgrade_fort">Upgrade Fort</string>
@@ -696,5 +701,62 @@
 	<string key="ui_your_standing">Your Standing</string>
 	<string key="ui_station_tier">Tier &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{tier}&lt;/font&gt;</string>
 	<string key="ui_benefits">Benefits</string>
+	<string key="influence_race_results" rel_version="Feature_Influence_V2">INFLUENCE RACE RESULTS</string>
+	<string key="influence_race_disclaimer" rel_version="Feature_Influence_V2">*Towers Captured, Influence Earned/Saved, and Company Leaderboard may take up to 3 minutes to fully update</string>
+	<string key="influence_top_companies" rel_version="Feature_Influence_V2">TOP COMPANIES BY INFLUENCE</string>
+	<string key="influence_top_companies_error" rel_version="Feature_Influence_V2">Error Loading Top Company Data</string>
+	<string key="influence_top_players" rel_version="Feature_Influence_V2">TOP INDIVIDUALS BY INFLUENCE</string>
+	<string key="influence_top_players_error" rel_version="Feature_Influence_V2">Error Loading Top Player Data</string>
+	<string key="influence_saved_amount" rel_version="Feature_Influence_V2">INFLUENCE SAVED</string>
+	<string key="influence_war_eligible" rel_version="Feature_Influence_V2">WAR BID WINNER</string>
+	<string key="influence_offensive_victory" rel_version="Feature_Influence_V2">OFFENSIVE VICTORY</string>
+	<string key="influence_defensive_victory" rel_version="Feature_Influence_V2">DEFENSIVE VICTORY</string>
+	<string key="influence_earned_amount" rel_version="Feature_Influence_V2">INFLUENCE EARNED</string>
+	<string key="influence_towers_captured" rel_version="Feature_Influence_V2">TOWERS CAPTURED</string>
+	<string key="influence_pushed_amount" rel_version="Feature_Influence_V2">INFLUENCE PUSHED</string>
+	<string key="influence_defended_amount" rel_version="Feature_Influence_V2">INFLUENCE DEFENDED</string>
+	<string key="influence_total_kills" rel_version="Feature_Influence_V2">OPEN WORLD KILLS</string>
+	<string key="Cutlass_Keys_Tower_01" rel_version="Feature_Influence_V2">South Cutlass Keys Watch</string>
+	<string key="Cutlass_Keys_Tower_02" rel_version="Feature_Influence_V2">North Cutlass Keys Watch</string>
+	<string key="Cutlass_Keys_Tower_03" rel_version="Feature_Influence_V2">East Cutlass Keys Watch</string>
+	<string key="Windsward_Tower_01" rel_version="Feature_Influence_V2">South Windsward Watch</string>
+	<string key="Windsward_Tower_02" rel_version="Feature_Influence_V2">North Windsward Watch</string>
+	<string key="Windsward_Tower_03" rel_version="Feature_Influence_V2">Central Windsward Watch</string>
+	<string key="Monarchs_Bluff_Tower_01" rel_version="Feature_Influence_V2">West Monarch's Bluffs Watch</string>
+	<string key="Monarchs_Bluff_Tower_02" rel_version="Feature_Influence_V2">South Monarch's Bluffs Watch</string>
+	<string key="Monarchs_Bluff_Tower_03" rel_version="Feature_Influence_V2">East Monarch's Bluffs Watch</string>
+	<string key="Everfall_Tower_01" rel_version="Feature_Influence_V2">North Everfall Watch</string>
+	<string key="Everfall_Tower_02" rel_version="Feature_Influence_V2">East Everfall Watch</string>
+	<string key="Everfall_Tower_03" rel_version="Feature_Influence_V2">West Everfall Watch</string>
+	<string key="Ebonscale_Reach_Tower_01" rel_version="Feature_Influence_V2">Central Ebonscale Reach Watch</string>
+	<string key="Ebonscale_Reach_Tower_02" rel_version="Feature_Influence_V2">North Ebonscale Reach Watch</string>
+	<string key="Ebonscale_Reach_Tower_03" rel_version="Feature_Influence_V2">South Ebonscale Reach Watch</string>
+	<string key="Weavers_Fen_Tower_01" rel_version="Feature_Influence_V2">East Weaver's Fen Watch</string>
+	<string key="Weavers_Fen_Tower_02" rel_version="Feature_Influence_V2">South Weaver's Fen Watch</string>
+	<string key="Weavers_Fen_Tower_03" rel_version="Feature_Influence_V2">West Weaver's Fen Watch</string>
+	<string key="Reekwater_Tower_01" rel_version="Feature_Influence_V2">South Reekwater Watch</string>
+	<string key="Reekwater_Tower_02" rel_version="Feature_Influence_V2">Central Reekwater Watch</string>
+	<string key="Reekwater_Tower_03" rel_version="Feature_Influence_V2">North Reekwater Watch</string>
+	<string key="Restless_Shore_Tower_01" rel_version="Feature_Influence_V2">Central Restless Shore Watch</string>
+	<string key="Restless_Shore_Tower_02" rel_version="Feature_Influence_V2">South Restless Shore Watch</string>
+	<string key="Restless_Shore_Tower_03" rel_version="Feature_Influence_V2">North Restless Shore Watch</string>
+	<string key="Brightwood_Tower_01" rel_version="Feature_Influence_V2">East Brightwood Watch</string>
+	<string key="Brightwood_Tower_02" rel_version="Feature_Influence_V2">South Brightwood Watch</string>
+	<string key="Brightwood_Tower_03" rel_version="Feature_Influence_V2">West Brightwood Watch</string>
+	<string key="Mourningdale_Tower_01" rel_version="Feature_Influence_V2">North Mourningdale Watch</string>
+	<string key="Mourningdale_Tower_02" rel_version="Feature_Influence_V2">West Mourningdale Watch</string>
+	<string key="Mourningdale_Tower_03" rel_version="Feature_Influence_V2">East Mourningdale Watch</string>
+	<string key="Brimstone_Sands_Tower_01" rel_version="Feature_Influence_V2">North Brimstone Sands Watch</string>
+	<string key="Brimstone_Sands_Tower_02" rel_version="Feature_Influence_V2">Central Brimstone Sands Watch</string>
+	<string key="Brimstone_Sands_Tower_03" rel_version="Feature_Influence_V2">South Brimstone Sands Watch</string>
+	<string key="Edengrove_Tower_01" rel_version="Feature_Influence_V2">East Edengrove Watch</string>
+	<string key="Edengrove_Tower_02" rel_version="Feature_Influence_V2">South Edengrove Watch</string>
+	<string key="Edengrove_Tower_03" rel_version="Feature_Influence_V2">North Edengrove Watch</string>
+	<string key="generic_influence_tower_description" rel_version="Feature_Influence_V2">This Control Point is capturable during an Influence Race.\n\n&lt;img src="lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease" xPadding="0" scale="2" yOffset="4"&gt;&lt;/img&gt;&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;+10&lt;/font&gt;&lt;/font&gt; Influence every 5 seconds \n&lt;img src="lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease" xPadding="0" scale="2" yOffset="4"&gt;&lt;/img&gt;&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;+10%&lt;/font&gt;&lt;/font&gt; Influence earned</string>
+	<string key="influence_myfaction_1" rel_version="Feature_Influence_V2">MY FACTION: &lt;img src="lyshineui/images/crests/foregrounds/icon_faction_fg_1_colored_small" xPadding="0" scale="2" yOffset="15"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/CaslonAnt.font" color="#8c37d9"&gt;Syndicate&lt;/font&gt;</string>
+	<string key="influence_myfaction_2" rel_version="Feature_Influence_V2">MY FACTION: &lt;img src="lyshineui/images/crests/foregrounds/icon_faction_fg_2_colored_small" xPadding="0" scale="2" yOffset="15"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/CaslonAnt.font" color="#149834"&gt;Marauders&lt;/font&gt;</string>
+	<string key="influence_myfaction_3" rel_version="Feature_Influence_V2">MY FACTION: &lt;img src="lyshineui/images/crests/foregrounds/icon_faction_fg_3_colored_small" xPadding="0" scale="2" yOffset="15"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/CaslonAnt.font" color="#ff9900"&gt;Covenant&lt;/font&gt;</string>
+	<string key="influence_tower_ownership_title" rel_version="Feature_Influence_V2">TOWER OWNERSHIP</string>
+	<string key="influence_view_previous_influence_race" rel_version="Feature_Influence_V2">View Race Results</string>
 </resources>
 

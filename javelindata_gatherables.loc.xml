@@ -25,6 +25,9 @@
 	<string key="TreeHardwoodTiny_DisplayName">Young Tree</string>
 	<string key="TreeHardwoodSmall_DisplayName">Young Tree</string>
 	<string key="TreeHardwoodMedium_DisplayName">Young Tree</string>
+	<string key="BananaTreeTiny_DisplayName">Banana Tree</string>
+	<string key="BananaTreeSmall_DisplayName">Banana Tree</string>
+	<string key="BananaTreeMedium_DisplayName">Banana Tree</string>
 	<string key="TreeHardwoodLarge_DisplayName">Mature Tree</string>
 	<string key="TreeHardwoodHuge_DisplayName">Mature Tree</string>
 	<string key="TreeSoftwoodTinyDowned_DisplayName">Dead Tree</string>
@@ -47,6 +50,11 @@
 	<string key="TreeWyrdwoodMedium_DisplayName">Wyrdwood Tree</string>
 	<string key="TreeWyrdwoodLarge_DisplayName">Wyrdwood Tree</string>
 	<string key="TreeWyrdwoodHuge_DisplayName">Wyrdwood Tree</string>
+	<string key="TreeRunewoodTiny_DisplayName" rel_version="Territory_FirstLight">Runewood Tree</string>
+	<string key="TreeRunewoodSmall_DisplayName" rel_version="Territory_FirstLight">Runewood Tree</string>
+	<string key="TreeRunewoodMedium_DisplayName" rel_version="Territory_FirstLight">Runewood Tree</string>
+	<string key="TreeRunewoodLarge_DisplayName" rel_version="Territory_FirstLight">Runewood Tree</string>
+	<string key="TreeRunewoodHuge_DisplayName" rel_version="Territory_FirstLight">Runewood Tree</string>
 	<string key="WinterTreeLarge_DisplayName">Mature Tree</string>
 	<string key="WinterTreeMedium_DisplayName">Young Tree</string>
 	<string key="WinterTree_DisplayName">Young Tree</string>
@@ -134,6 +142,9 @@
 	<string key="HempSmallT5_DisplayName">Wirefiber</string>
 	<string key="HempMediumT5_DisplayName">Wirefiber</string>
 	<string key="HempLargeT5_DisplayName">Wirefiber</string>
+	<string key="HempSmallT52_DisplayName" rel_version="Territory_FirstLight">Spinfiber</string>
+	<string key="HempMediumT52_DisplayName" rel_version="Territory_FirstLight">Spinfiber</string>
+	<string key="HempLargeT52_DisplayName" rel_version="Territory_FirstLight">Spinfiber</string>
 	<string key="FarmAzalea_DisplayName">Cultivated Flame Azalea</string>
 	<string key="FarmBeech_DisplayName">Cultivated Beech</string>
 	<string key="FarmBroccoli_DisplayName">Cultivated Broccoli</string>
@@ -248,6 +259,9 @@
 	<string key="OrichalcumSmall_DisplayName">Orichalcum Vein</string>
 	<string key="OrichalcumMedium_DisplayName">Orichalcum Vein</string>
 	<string key="OrichalcumLarge_DisplayName">Orichalcum Vein</string>
+	<string key="MythrilSmall_DisplayName" rel_version="Territory_FirstLight">Mythril Vein</string>
+	<string key="MythrilMedium_DisplayName" rel_version="Territory_FirstLight">Mythril Vein</string>
+	<string key="MythrilLarge_DisplayName" rel_version="Territory_FirstLight">Mythril Vein</string>
 	<string key="OrichalcumDestroy_DisplayName">Strange Orichalcum Vein</string>
 	<string key="DarknessOrichalcumSpire_DisplayName">Corrupted Orichalcum Spire</string>
 	<string key="GypsumOreLarge_DisplayName" rel_version="Territory_Brimstone_Sands">Gypsum Vein</string>
@@ -344,6 +358,7 @@
 	<string key="LootContainer_DisplayName_Large">Chest</string>
 	<string key="LootContainer_Ancient_DisplayName">Ancient Chest</string>
 	<string key="LootContainer_Elite_Ancient_DisplayName">Elite Ancient Chest</string>
+	<string key="LootContainer_Elite_Beast_DisplayName">Elite Beast Hoard</string>
 	<string key="LootContainer_Elite_Supplies_DisplayName">Elite Supply Chest</string>
 	<string key="LootContainer_Abandoned_DisplayName">Abandoned Supplies</string>
 	<string key="LootContainer_Farmland_DisplayName">Farming Supplies</string>
@@ -542,6 +557,29 @@
 	<string key="1401_BlightTinctureBomb_DisplayName">Place Bomb</string>
 	<string key="1402_CorruptedOre_DisplayName">Destroy Corrupted Ore</string>
 	<string key="1403_WyrdwoodGrowth_DisplayName">Harvest Wyrdwood Growth</string>
+	<string key="1426_0101_SurveyNotes_DisplayName" rel_version="Quest_Supplement_Edengrove">Survey Notes</string>
+	<string key="1426_0101_BurnForge_DisplayName" rel_version="Quest_Supplement_Edengrove">Burn</string>
+	<string key="1426_0101_MineCartTracks_DisplayName" rel_version="Quest_Supplement_Edengrove">Destroy</string>
+	<string key="1426_0101_BurnTents_DisplayName" rel_version="Quest_Supplement_Edengrove">Burn</string>
+	<string key="1426_0101_BurnSawmill_DisplayName" rel_version="Quest_Supplement_Edengrove">Burn</string>
+	<string key="1426_0102_WeakenWall_DisplayName" rel_version="Quest_Supplement_Edengrove">Scaffolding</string>
+	<string key="1426_0102_CollapseRubble_DisplayName" rel_version="Quest_Supplement_Edengrove">Unstable Structure</string>
+	<string key="1427_0101_AnointingSpot_DisplayName" rel_version="Quest_Supplement_Edengrove">Anoint Seed</string>
+	<string key="1427_0103_PlantingSpot_DisplayName" rel_version="Quest_Supplement_Edengrove">Soft Loam</string>
+	<string key="1427_0106_HighFlower_DisplayName" rel_version="Quest_Supplement_Edengrove">Umbral Orb</string>
+	<string key="1427_0108_Flower_DisplayName" rel_version="Quest_Supplement_Edengrove">Vivid Bloom</string>
+	<string key="1427_0109_Belongings_DisplayName" rel_version="Quest_Supplement_Edengrove">Abandoned Belongings</string>
+	<string key="1431_0101_DanglingMushroom_DisplayName" rel_version="Quest_Supplement_Edengrove">Dangling Fungus</string>
+	<string key="1431_0104_MyceliumPatch_DisplayName" rel_version="Quest_Supplement_Edengrove">Mycelius Soil</string>
+	<string key="1432_0101_MedicinalHerbs_DisplayName" rel_version="Quest_Supplement_Edengrove">Medicinal Herbs</string>
+	<string key="1432_0102_BelongingsTrail_DisplayName" rel_version="Quest_Supplement_Edengrove">Strewn Camping Gear</string>
+	<string key="1432_0103_DogPrintTrail_DisplayName" rel_version="Quest_Supplement_Edengrove">Canine Pawprints</string>
+	<string key="1435_0101_HerbSpot_DisplayName" rel_version="Quest_Supplement_Edengrove">Disturbed Soil</string>
+	<string key="1435_0102_PoppableBlossom_DisplayName" rel_version="Quest_Supplement_Edengrove">Bulging Plant Pod</string>
+	<string key="1435_0103_HighFlower_DisplayName" rel_version="Quest_Supplement_Edengrove">Plantable Perch</string>
+	<string key="1434_0104_DestructibleBlossom_DisplayName" rel_version="Quest_Supplement_Edengrove">Sultry Scented Bloom</string>
+	<string key="1434_0103_EncStart_Pyre_DisplayName" rel_version="Quest_Supplement_Edengrove">Bonfire</string>
+	<string key="1434_0104_EncStart_BlightRanger_DisplayName" rel_version="Quest_Supplement_Edengrove">Offer Blight</string>
 	<string key="1525_1519_Quiver_DisplayName">Myrtilus's Quiver</string>
 	<string key="1526_1521_LynxEvidence1_DisplayName">Lynx Cage</string>
 	<string key="1526_1521_LynxEvidence2_DisplayName">Lynx Bait</string>
@@ -560,6 +598,8 @@
 	<string key="MSQ_SalvagePile_C_DisplayName">Salvage Pile</string>
 	<string key="AzothWater_Displayname">Azoth Spring</string>
 	<string key="AzothSeal_DisplayName">Ancient Azoth Seal</string>
+	<string key="AzothSealYonas_DisplayName">Destroy the Heartgem</string>
+	<string key="ActivateShieldYonas_DisplayName">Activate Shield</string>
 	<string key="FireSeal_DisplayName">Ancient Fire Seal</string>
 	<string key="HeartforgeEncounterBattery_DisplayName">Ignite Heartforge Flame</string>
 	<string key="Anubian_Horus_Power_Source_DisplayName">Disable Ennead Obelisk</string>
@@ -737,6 +777,16 @@
 	<string key="Cactus_Bush_PricklyPear_Medium_DisplayName" rel_version="Territory_Brimstone_Sands">Young Prickly Pear</string>
 	<string key="Cactus_Bush_PricklyPear_Large_DisplayName" rel_version="Territory_Brimstone_Sands">Mature Prickly Pear</string>
 	<string key="Cactus_Bush_PricklyPear_Huge_DisplayName" rel_version="Territory_Brimstone_Sands">Mature Prickly Pear</string>
+	<string key="Mycodendra_Tree_Tiny_DisplayName" rel_version="Territory_FirstLight">Young Mycodendrite</string>
+	<string key="Mycodendra_Tree_Small_DisplayName" rel_version="Territory_FirstLight">Young Mycodendrite</string>
+	<string key="Mycodendra_Tree_Medium_DisplayName" rel_version="Territory_FirstLight">Young Mycodendrite</string>
+	<string key="Mycodendra_Tree_Large_DisplayName" rel_version="Territory_FirstLight">Mature Mycodendrite</string>
+	<string key="Mycodendra_Tree_Huge_DisplayName" rel_version="Territory_FirstLight">Mature Mycodendrite</string>
+	<string key="Mycodendra_Bush_Tiny_DisplayName" rel_version="Territory_FirstLight">Young Myocyte</string>
+	<string key="Mycodendra_Bush_Small_DisplayName" rel_version="Territory_FirstLight">Young Myocyte</string>
+	<string key="Mycodendra_Bush_Medium_DisplayName" rel_version="Territory_FirstLight">Young Myocyte</string>
+	<string key="Mycodendra_Bush_Large_DisplayName" rel_version="Territory_FirstLight">Mature Myocyte</string>
+	<string key="Mycodendra_Bush_Huge_DisplayName" rel_version="Territory_FirstLight">Mature Myocyte</string>
 	<string key="Scorpion_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Scorpion</string>
 	<string key="Scorpion_Medium_DisplayName" rel_version="Territory_Brimstone_Sands">Scorpion</string>
 	<string key="Scorpion_Small_DisplayName" rel_version="Territory_Brimstone_Sands">Scorpling</string>
@@ -755,6 +805,13 @@
 	<string key="1130_CursedAxe_DisplayName">Begin the Ritual</string>
 	<string key="0726_Gravestone_interact" rel_version="DEPRECATED_January_2022">Inspect Crewman's Grave</string>
 	<string key="EvilKnights_Camp_StoneDoor" rel_version="AI_Evil_Knights_P2">Activate Gate</string>
+	<string key="0330_0102_Sketching_DisplayName" rel_version="Quest_Supplement_GreatCleave">Sketch Map of Corruption</string>
+	<string key="0330_0103_MardeaShield_DisplayName" rel_version="Quest_Supplement_GreatCleave">Take Mardea's Shield</string>
+	<string key="0330_0103_HanuSpear_DisplayName" rel_version="Quest_Supplement_GreatCleave">Take Hanu's Spear</string>
+	<string key="0330_0103_TopalianHelm_DisplayName" rel_version="Quest_Supplement_GreatCleave">Take Topalian's Helm</string>
+	<string key="0330_0103_KaipoAxe_DisplayName" rel_version="Quest_Supplement_GreatCleave">Take Kaipo's Axe</string>
+	<string key="0331_0101_BeastClues_DisplayName" rel_version="Quest_Supplement_GreatCleave">Follow Clues from the Balemaw Beast</string>
+	<string key="0333_0104_WishingTree_DisplayName" rel_version="Quest_Supplement_GreatCleave">Place Poppet near the Wishing Tree</string>
 	<string key="Dynasty_Gong_DisplayName">Dynasty Gong</string>
 	<string key="ExploreVista_EastCleave01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
 	<string key="ExploreVista_EastCutlass01" rel_version="Feature_RewardingExploration">Long Forgotten Easel</string>
@@ -889,6 +946,18 @@
 	<string key="99A_MSQ_13_LargeCorruption_DisplayName" rel_version="Quest_MSQ2_Revamp">Colossal Corruption</string>
 	<string key="99A_MSQ_14b_YetiCave_DisplayName" rel_version="Quest_MSQ2_Revamp">Icy Encasement</string>
 	<string key="99A_MSQ_14b_HeartgemCraftSpot_DisplayName" rel_version="Quest_MSQ2_Revamp">Azoth Font</string>
+	<string key="13_Summer_AzFluteT1_DisplayName" rel_version="Event_Summer_Perm">Collect Flute</string>
+	<string key="13_Summer_DrumT1_DisplayName" rel_version="Event_Summer_Perm">Collect Drum</string>
+	<string key="13_Summer_GuitarT1_DisplayName" rel_version="Event_Summer_Perm">Collect Guitar</string>
+	<string key="13_Summer_MandolinT1_DisplayName" rel_version="Event_Summer_Perm">Collect Mandolin</string>
+	<string key="13_Summer_URBassT1_DisplayName" rel_version="Event_Summer_Perm">Collect Upright Bass</string>
+	<string key="13_Summer_Carpenter1_DisplayName" rel_version="Event_Summer_Perm">Repair Table</string>
+	<string key="13_Summer_Carpenter2_DisplayName" rel_version="Event_Summer_Perm">Attach Vices</string>
+	<string key="13_Summer_Apiary_DisplayName" rel_version="Event_Summer_Perm">Ignite Smoker Jug</string>
+	<string key="13_Summer_Oven_DisplayName" rel_version="Event_Summer_Perm">Scrub Oven</string>
+	<string key="13_Summer_FlowerBoxA_DisplayName" rel_version="Event_Summer_Perm">Water Sunflowers</string>
+	<string key="13_Summer_FlowerBoxB_DisplayName" rel_version="Event_Summer_Perm">Water Hibiscus</string>
+	<string key="13_Summer_FlowerBoxC_DisplayName" rel_version="Event_Summer_Perm">Water Daisies</string>
 	<string key="MB_MSQ2_Banner_Gawain_DisplayName" rel_version="Quest_MSQ2_Revamp">Banner of Gawain</string>
 	<string key="MB_MSQ2_Robes_Chest_DisplayName" rel_version="Quest_MSQ2_Revamp">Chest of Robes</string>
 	<string key="MB_MSQ2_Mining_Supplies_DisplayName" rel_version="Quest_MSQ2_Revamp">Mining Supplies</string>
@@ -982,6 +1051,7 @@
 	<string key="Dungeon_BrimstoneSands00_TranslateGlyph" rel_version="Territory_Brimstone_Sands">Activate Glyph Console</string>
 	<string key="Armadillo_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Armadillo</string>
 	<string key="Rat_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Rat</string>
+	<string key="HercyneRat_Base_DisplayName" rel_version="Territory_FirstLight">Hercyne Rat</string>
 	<string key="FireNaga_Miniboss_FlameVent_DisplayName" rel_version="Expedition_GreatCleave_01">Flame Vent</string>
 	<string key="95_s01_01_CorruptedCampSupplies" rel_version="Season_1_Perm">Collect the Supplies</string>
 	<string key="95_s01_01_CorruptedTent" rel_version="Season_1_Perm">Burn Corrupted Tent</string>
@@ -995,6 +1065,8 @@
 	<string key="Sandworm_Powerup_DisplayName" rel_version="Trial_Brimstone_Sandworm">Become Empowered</string>
 	<string key="SandwormDrumLocked" rel_version="Trial_Brimstone_Sandworm">Locked Drum of Shah Neshen</string>
 	<string key="SandwormTrial_WormPellet" rel_version="Trial_Brimstone_Sandworm">Destroy Explosive</string>
+	<string key="Rage_Miasma_Interact_DisplayName" rel_version="Territory_FirstLight">Destroy Rage Flower</string>
+	<string key="Rage_Miasma_Spore_Description" rel_version="Territory_FirstLight">Enrages all nearby Beasts. Destroy this plant to end the effect!</string>
 	<string key="99C_MSQ2_WitchyGlyph_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Destructive Glyph</string>
 	<string key="99C_MSQ2_RitualObject_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Arcane Anchor</string>
 	<string key="99C_MSQ2_GlowingMushroom_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Study Unusual Plants</string>
@@ -1048,17 +1120,33 @@
 	<string key="FlameCore_Forge_DisplayName" rel_version="Season_1_Perm">Flame Core Forge</string>
 	<string key="SporePod_DisplayName">Spore Pod</string>
 	<string key="BeastLordStatue_Type1_DisplayName">Type 1 Beast Lord Statue</string>
+	<string key="Petrified_Wolf_Statue_SOTS_DisplayName" rel_version="Territory_FirstLight_Spores">Wolf Statue</string>
+	<string key="Petrified_Bear_Statue_SOTS_DisplayName" rel_version="Territory_FirstLight_Spores">Bear Statue</string>
+	<string key="Petrified_Humanoid_Statue_SOTS_DisplayName" rel_version="Territory_FirstLight_Spores">Humanoid Statue</string>
 	<string key="99D_MSQ_01_BrokenCart_DisplayName">Fix Cart</string>
+	<string key="99D_MSQ_01_LootedCart_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Place Supplies</string>
+	<string key="99D_MSQ_01_SupplyCrateFood_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Recover Stolen Food</string>
 	<string key="99D_MSQ_01_SupplyCrateArmor_DisplayName">Recover Stolen Armor</string>
 	<string key="99D_MSQ_01_SupplyCrateWeapons_DisplayName">Recover Stolen Weapons</string>
 	<string key="99D_MSQ_02_Fountain_DisplayName">Recover Ancient Knowledge</string>
-	<string key="Cyclic_99D_MSQ_BallistaRotate_DisplayName">Rotate Artillery</string>
-	<string key="99D_MSQ_FireBallista_DisplayName">Fire Artillery</string>
+	<string key="99D_MSQ_04_MineCarts_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Destroy Mine Carts</string>
+	<string key="99D_MSQ_06_UnfinishedPortals_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Destroy Unfinished Portal</string>
+	<string key="99D_MSQ_09_MedicineCrates_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Search for Medicine</string>
+	<string key="99D_MSQ_Barricades_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Chop Barricades</string>
+	<string key="99D_MSQ_Ballista_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Destroy Cannon</string>
+	<string key="Cyclic_99D_MSQ_BallistaRotate_DisplayName">Rotate Cannon</string>
+	<string key="99D_MSQ_FireBallista_DisplayName">Fire Cannon</string>
+	<string key="99D_MSQ_ShrineTeleport_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Enter Portal to Svikin's Stand</string>
+	<string key="99D_MSQ_CorruptedPortal_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Enter Portal</string>
+	<string key="99D_MSQ_Thorpe_CinematicStart_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Read about Thorpe's Past</string>
 	<string key="99D_MSQ_10_LogPile_DisplayName">Chop Wood</string>
 	<string key="99D_MSQ_10_StonePile_DisplayName">Mine Stones</string>
 	<string key="99D_MSQ_10_BuildBarricade_DisplayName">Build Barricade</string>
 	<string key="95A_S02_EggChamber_Enter_DisplayName" rel_version="Season_2_Perm">Enter</string>
 	<string key="95A_S02_EggChamber_Exit_DisplayName" rel_version="Season_2_Perm">Exit</string>
+	<string key="95A_S02_Temple_Door_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Enter Portal</string>
+	<string key="95A_S02_MapRoom_Door_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Enter Portal</string>
+	<string key="95A_S02_RimasChestRoom_Door_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Enter Room</string>
 	<string key="LootContainer_Elite_Trial_DisplayName" rel_version="Season_2_Perm">Soul Trial Chest</string>
 	<string key="95A_S02_Mural1_DisplayName" rel_version="Season_2_Temp">Collect Mural Rubbing</string>
 	<string key="95A_S02_MarketStone_DisplayName" rel_version="Season_2_Temp">Take Market Tablet</string>
@@ -1085,13 +1173,189 @@
 	<string key="95A_S02_SharifEggBasket_DisplayName" rel_version="Season_2_Temp">Place Eggs</string>
 	<string key="95A_S02_Geyser_Puzzle_BoulderPile_DisplayName" rel_version="Season_2_Perm">Carry Rock</string>
 	<string key="95A_S02_Geyser_Puzzle_Boulder_Interact_DisplayName" rel_version="Season_2_Perm">Place Rock</string>
-	<string key="95A_S02_ExamineTracks">Examine Tracks</string>
-	<string key="95A_S02_FollowTracks">Follow Tracks</string>
+	<string key="95A_S02_ExamineTracks" rel_version="Season_2_Perm">Examine Tracks</string>
+	<string key="95A_S02_FollowTracks" rel_version="Season_2_Perm">Follow Tracks</string>
 	<string key="Season_02_PvE_Event_Trigger_Gatherable_DisplayName">Aid the Mage</string>
+	<string key="09A_S6_MigrationEvidence_DisplayName" rel_version="Territory_FirstLight">Track Migration Evidence</string>
 	<string key="OR_Corrupted_Portal_Encounter_Gatherable_DisplayName">Corrupted Portal</string>
 	<string key="Door_Enter_DisplayName" rel_version="Season_2_Perm">Enter</string>
 	<string key="Door_Exit_DisplayName" rel_version="Season_2_Perm">Exit</string>
-	<string key="09A_M4_ExtinguishFlames_DisplayName">Extinguish Flames</string>
+	<string key="09A_M1_AzureBlossom_DisplayName" rel_version="Territory_FirstLight">Collect Azure Blossom</string>
+	<string key="09A_M1_Sick_DruidA_DisplayName" rel_version="Territory_FirstLight">Treat Oren Eriksson</string>
+	<string key="09A_M1_Sick_DruidB_DisplayName" rel_version="Territory_FirstLight">Treat Ferula Novik</string>
+	<string key="09A_M1_Sick_DruidC_DisplayName" rel_version="Territory_FirstLight">Treat Zayden Bonaro</string>
+	<string key="09A_M1_WhisperPlant_DisplayName" rel_version="Territory_FirstLight">Examine Murmuring Root</string>
+	<string key="09A_M2_Cine_OakesMemory_DisplayName" rel_version="Territory_FirstLight">Witness Morgaine's Power</string>
+	<string key="09A_M2_InvestigateBarrier_DisplayName" rel_version="Territory_FirstLight">Investigate Activity</string>
+	<string key="09A_M3_FoulPlant_DisplayName" rel_version="Territory_FirstLight">Plant Reekpod</string>
+	<string key="09A_M3_SignalWagon_DisplayName" rel_version="Territory_FirstLight">Create Signal Fire</string>
+	<string key="09A_M3_DazedRanger_DisplayName" rel_version="Territory_FirstLight">Give Inoculate</string>
+	<string key="09A_M4_SuspiciousBlood_DisplayName" rel_version="Territory_FirstLight">Study the Clues</string>
+	<string key="09A_M4_PeculiarFootprints_DisplayName" rel_version="Territory_FirstLight">Study the Nearby Flora</string>
+	<string key="09A_M4_ExtinguishFlames_DisplayName" rel_version="Territory_FirstLight">Extinguish Flames</string>
+	<string key="09A_M4_CutWick_DisplayName" rel_version="Territory_FirstLight">Cut the Wick</string>
+	<string key="09A_M4_InterestingWreckage_DisplayName" rel_version="Territory_FirstLight">Interesting Wreckage</string>
+	<string key="09A_M5_FallenLog_DisplayName" rel_version="Territory_FirstLight">Collect Thick Sap</string>
+	<string key="09A_M5_Charcoal_DisplayName" rel_version="Territory_FirstLight">Collect Burnt Charcoal</string>
+	<string key="09A_M5_ShrineFragment_DisplayName" rel_version="Territory_FirstLight">Collect Shrine Fragment</string>
+	<string key="09A_M5_RepairShrine_DisplayName" rel_version="Territory_FirstLight">Place Shrine Fragment</string>
+	<string key="09A_M5_TavernDefenseStart_DisplayName" rel_version="Territory_FirstLight">Defend the Tavern</string>
+	<string key="09A_M5_WindowBoardA_DisplayName" rel_version="Territory_FirstLight">Nail the First Plank</string>
+	<string key="09A_M5_WindowBoardB_DisplayName" rel_version="Territory_FirstLight">Nail the Second Plank</string>
+	<string key="09A_M5_WindowBoardC_DisplayName" rel_version="Territory_FirstLight">Nail the Final Plank</string>
+	<string key="09A_M6_DroppedSupplies">Collect Ramla's Dropped Supplies</string>
+	<string key="09A_M6_BreakBars" rel_version="Territory_FirstLight">Open Cell</string>
+	<string key="09A_M7_SabotageMachinery" rel_version="Territory_FirstLight">Sabotage Ancient Machinery</string>
+	<string key="09A_M8_Drum_DisplayName" rel_version="Territory_FirstLight">Bang the Ceremonial Drum</string>
+	<string key="09A_M12_TaurusStatue_DisplayName" rel_version="Territory_FirstLight">Free Taurus with the Tincture</string>
+	<string key="09A_M13_ArcaneRitual_0_DisplayName" rel_version="Territory_FirstLight">Place Your Azoth Staff</string>
+	<string key="09A_M13_ArcaneRitual_1_DisplayName" rel_version="Territory_FirstLight">Take the Charged Azoth Staff</string>
+	<string key="09A_M13_ArcaneRitual_2_DisplayName" rel_version="Territory_FirstLight">The Energy Here Seems Drained</string>
+	<string key="09A_M14_NatureRitual_0_DisplayName" rel_version="Territory_FirstLight">Place Your Azoth Staff</string>
+	<string key="09A_M14_NatureRitual_1_DisplayName" rel_version="Territory_FirstLight">Take the Infused Azoth Staff</string>
+	<string key="09A_M14_NatureRitual_2_DisplayName" rel_version="Territory_FirstLight">The Energy Here Seems Drained</string>
+	<string key="09A_M14_SeedBulb_DisplayName" rel_version="Territory_FirstLight">Harvest the Infused Seed</string>
+	<string key="09A_M15_Cine_ArtemisDefeat_DisplayName" rel_version="Territory_FirstLight">Listen to Artemis</string>
+	<string key="09A_M15_ImprisonSpell_DisplayName" rel_version="Territory_FirstLight">Unleash the Spell</string>
+	<string key="09A_M15_TearOfGaia_DisplayName" rel_version="Territory_FirstLight">Collect Tear of Gaea</string>
+	<string key="09A_S0_SporePod_DisplayName" rel_version="Territory_FirstLight">Spore Pod</string>
+	<string key="09A_S1_Boar_Trapped_DisplayName" rel_version="Territory_FirstLight">Free the Trapped Boar</string>
+	<string key="09A_S1_Deer_Trapped_DisplayName" rel_version="Territory_FirstLight">Free the Trapped Deer</string>
+	<string key="09A_S1_FloraTrap_DisplayName" rel_version="Territory_FirstLight">Destroy Flora Trap</string>
+	<string key="09A_S2_Ranger_Trapped_DisplayName" rel_version="Territory_FirstLight">Burst the Vile Pod</string>
+	<string key="09A_S2_LostPod_DisplayName" rel_version="Territory_FirstLight">Burst the Vile Pod</string>
+	<string key="09A_S3_GorillaBloodTrail_DisplayName" rel_version="Territory_FirstLight">Tracks</string>
+	<string key="09A_S3_FreshKill_DisplayName" rel_version="Territory_FirstLight">Inspect Stag Remains</string>
+	<string key="09A_S4_ExplosiveBarrelC_DisplayName" rel_version="Territory_FirstLight">Collect Explosive Barrel</string>
+	<string key="09A_S4_ExplosiveBarrelC2_DisplayName" rel_version="Territory_FirstLight">Collect Explosive Barrel</string>
+	<string key="09A_S4_ExplosiveBarrelC3_DisplayName" rel_version="Territory_FirstLight">Collect Explosive Barrel</string>
+	<string key="09A_S4_ExplosiveBarrelP_DisplayName" rel_version="Territory_FirstLight">Place Explosive Barrel</string>
+	<string key="09A_S4_ExplosiveBarrelP2_DisplayName" rel_version="Territory_FirstLight">Place Explosive Barrel</string>
+	<string key="09A_S4_ExplosiveBarrelP3_DisplayName" rel_version="Territory_FirstLight">Place Explosive Barrel</string>
+	<string key="09A_S4_LureIngre_DisplayName" rel_version="Territory_FirstLight">Collect Pheromone Lure Ingredient</string>
+	<string key="09A_S4_LureIngre2_DisplayName" rel_version="Territory_FirstLight">Collect Pheromone Lure Ingredient</string>
+	<string key="09A_S4_LureIngre3_DisplayName" rel_version="Territory_FirstLight">Collect Pheromone Lure Ingredient</string>
+	<string key="09A_S4_Lure_DisplayName" rel_version="Territory_FirstLight">Create Pheromone Lure</string>
+	<string key="09A_S4_LureSwarm_DisplayName" rel_version="Territory_FirstLight">Wait for Angry Earth to Swarm the Lure</string>
+	<string key="09A_S4_LureSwarmPin_DisplayName" rel_version="Territory_FirstLight">Wait for Angry Earth to Swarm the Lure</string>
+	<string key="09A_S4_Detonator_DisplayName" rel_version="Territory_FirstLight">Use Detonator</string>
+	<string key="09A_S5_AbandonedList_DisplayName" rel_version="Territory_FirstLight">Inspect Abandoned List</string>
+	<string key="09A_S5_DepletedMedicalSupplies_DisplayName" rel_version="Territory_FirstLight">Collect Depleted Medical Supplies</string>
+	<string key="09A_S5_BrokenArms_DisplayName" rel_version="Territory_FirstLight">Collect Broken Arms</string>
+	<string key="09A_S5_CaveFightProx_DisplayName" rel_version="Territory_FirstLight">Prepare for the Fight</string>
+	<string key="09A_S6_MEInteractable_DisplayName" rel_version="Territory_FirstLight">Collect Migration Evidence</string>
+	<string key="09A_S5_CaveFight_DisplayName" rel_version="Territory_FirstLight">Collect Rotten Reserves</string>
+	<string key="09A_S7_Journal_DisplayName" rel_version="Territory_FirstLight">Examine Journal</string>
+	<string key="09A_S7_Sarcophagus_DisplayName" rel_version="Territory_FirstLight">Inspect Sarcophagus</string>
+	<string key="Cyclic_09A_S7_CL1_DisplayName" rel_version="Territory_FirstLight">Rotate Stone</string>
+	<string key="Cyclic_09A_S7_CL2_DisplayName" rel_version="Territory_FirstLight">Rotate Stone</string>
+	<string key="Cyclic_09A_S7_CL3_DisplayName" rel_version="Territory_FirstLight">Rotate Stone</string>
+	<string key="09A_S8_AncientScroll_DisplayName" rel_version="Territory_FirstLight">Study Ancient Writing</string>
+	<string key="09A_S8_Pylon1_DisplayName" rel_version="Territory_FirstLight">Repair Ancient Pylon</string>
+	<string key="09A_S8_Pylon2_DisplayName" rel_version="Territory_FirstLight">Repair Ancient Pylon</string>
+	<string key="09A_S8_Interface_DisplayName" rel_version="Territory_FirstLight">Activate Ancient Interface</string>
+	<string key="09A_S9_Breaker_DisplayName" rel_version="Territory_FirstLight">Activate Breaker</string>
+	<string key="09A_S9_Tool1_DisplayName" rel_version="Territory_FirstLight">Collect Tool</string>
+	<string key="09A_S9_Tool2_DisplayName" rel_version="Territory_FirstLight">Collect Tool</string>
+	<string key="09A_S9_Tool3_DisplayName" rel_version="Territory_FirstLight">Collect Tool</string>
+	<string key="09A_S9_Drink_DisplayName" rel_version="Territory_FirstLight">Pour Water</string>
+	<string key="09A_S9_BrokenCable_DisplayName" rel_version="Territory_FirstLight">Repair Pylon</string>
+	<string key="09A_S9_DefendHacker_DisplayName" rel_version="Territory_FirstLight">Initiate Hack</string>
+	<string key="09A_S10_MinotaurRelicA_DisplayName" rel_version="Territory_FirstLight">Take Intricately Carved Horn</string>
+	<string key="09A_S10_MinotaurRelicB_DisplayName" rel_version="Territory_FirstLight">Take Bloodstained Shackles</string>
+	<string key="09A_S10_MinotaurRelicC_DisplayName" rel_version="Territory_FirstLight">Take Shattered Rings</string>
+	<string key="09A_S11_BrazierA_DisplayName" rel_version="Territory_FirstLight">Light the Brazier of Agility</string>
+	<string key="09A_S11_BrazierB_DisplayName" rel_version="Territory_FirstLight">Light the Brazier of Strength</string>
+	<string key="09A_S11_BrazierC_DisplayName" rel_version="Territory_FirstLight">Light the Brazier of Cunning</string>
+	<string key="09A_S11_BrazierD_DisplayName" rel_version="Territory_FirstLight">Light the Brazier of Endurance</string>
+	<string key="09A_S12_GorillaMemorial_DisplayName" rel_version="Territory_FirstLight">Pay Tribute</string>
+	<string key="09A_S12_MammothMemorial_DisplayName" rel_version="Territory_FirstLight">Pay Tribute</string>
+	<string key="09A_S12_HumanMemorial_DisplayName" rel_version="Territory_FirstLight">Pay Tribute</string>
+	<string key="09A_S13_SummonGazsala_DisplayName" rel_version="Territory_FirstLight">Challenge Gazsala Thiss</string>
+	<string key="09A_S16_ReroutePylon_DisplayName" rel_version="Territory_FirstLight">Divert Pylon</string>
+	<string key="09A_S16_ThrowSwitch_DisplayName" rel_version="Territory_FirstLight">Throw the Switch</string>
+	<string key="09A_S17_ProtectRanger_DisplayName" rel_version="Territory_FirstLight">Repair Supply Wagon</string>
+	<string key="09A_S17_WagonSupplies_DisplayName" rel_version="Territory_FirstLight">Take Supplies</string>
+	<string key="09A_S17_RangerSupplies_DisplayName" rel_version="Territory_FirstLight">Restock Ammunition</string>
+	<string key="09A_S17_Barricade_DisplayName" rel_version="Territory_FirstLight">Repair Barricade</string>
+	<string key="09A_S17_Cannon_DisplayName" rel_version="Territory_FirstLight">Fire Cannon</string>
+	<string key="09A_S18_SiphonPlace_DisplayName" rel_version="Territory_FirstLight">Place Siphon Device</string>
+	<string key="09A_S18_SiphonCollect_DisplayName" rel_version="Territory_FirstLight">Collect Siphon Device</string>
+	<string key="09A_S19_Plant_DisplayName" rel_version="Territory_FirstLight">Plant Trahern's Sapling</string>
+	<string key="09A_S21_IntriguingArtifacts_DisplayName" rel_version="Territory_FirstLight">Collect Gorgoneion Relics</string>
+	<string key="09A_WhisperPlant_Nyhart_DisplayName" rel_version="Territory_FirstLight">Examine Murmuring Root</string>
+	<string key="09A_WhisperPlant_Dayspring_DisplayName" rel_version="Territory_FirstLight">Examine Murmuring Root</string>
+	<string key="09A_WhisperPlant_Settlement_DisplayName" rel_version="Territory_FirstLight">Examine Murmuring Root</string>
+	<string key="09A_WhisperPlant_Tanglesnap_DisplayName" rel_version="Territory_FirstLight">Examine Murmuring Root</string>
+	<string key="09A_WhisperPlant_Mammoths_DisplayName" rel_version="Territory_FirstLight">Examine Murmuring Root</string>
+	<string key="09A_WhisperPlant_Mahantaram_DisplayName" rel_version="Territory_FirstLight">Examine Murmuring Root</string>
+	<string key="09A_WhisperPlant_Medusa_DisplayName" rel_version="Territory_FirstLight">Examine Murmuring Root</string>
+	<string key="09A_WhisperPlant_ScalefangEnclave_DisplayName" rel_version="Territory_FirstLight">Examine Murmuring Root</string>
+	<string key="09A_WhisperPlant_LightsCrown_DisplayName" rel_version="Territory_FirstLight">Examine Murmuring Root</string>
+	<string key="09A_WhisperPlant_ElafryPyrgo_DisplayName" rel_version="Territory_FirstLight">Examine Murmuring Root</string>
+	<string key="99E_MSQ_01_ExamineMural_DisplayName" rel_version="Quest_MSQ2_Edengrove">Examine Mural</string>
+	<string key="99E_MSQ_01_RotateTumbler_DisplayName" rel_version="Quest_MSQ2_Edengrove">Rotate Tumbler</string>
+	<string key="99E_MSQ_01_MuralVines_DisplayName" rel_version="Quest_MSQ2_Edengrove">Cut the Overgrowth</string>
+	<string key="99E_MSQ_02_CreagCrystals_DisplayName" rel_version="Quest_MSQ2_Edengrove">Gather Creag Crystals</string>
+	<string key="99E_MSQ_02_ExamineEtchings_DisplayName" rel_version="Quest_MSQ2_Edengrove">Examine Glyphs</string>
+	<string key="99E_MSQ_02_ExamineMaterials_DisplayName" rel_version="Quest_MSQ2_Edengrove">Inspect the Pendant</string>
+	<string key="99E_MSQ_02_ExamineEquipment_DisplayName" rel_version="Quest_MSQ2_Edengrove">Examine the Discarded Book</string>
+	<string key="99E_MSQ_02_MyrddinSphere_DisplayName" rel_version="Quest_MSQ2_Edengrove">Touch the Sphere</string>
+	<string key="99E_MSQ_03_AEPool_DisplayName" rel_version="Quest_MSQ2_Edengrove">Commune with the Pool</string>
+	<string key="99E_MSQ_04_AzothCompass_DisplayName" rel_version="Quest_MSQ2_Edengrove">Place Azoth Staff</string>
+	<string key="99E_MSQ_05_ArtoriusShield_DisplayName" rel_version="Quest_MSQ2_Edengrove">Take Discarded Shield</string>
+	<string key="99E_MSQ_05_ShieldMount_DisplayName" rel_version="Quest_MSQ2_Edengrove">Mount Shield</string>
+	<string key="99E_MSQ_05_GalahadCrystal_DisplayName" rel_version="Quest_MSQ2_Edengrove">Take Crystal</string>
+	<string key="99E_MSQ_05_MyrddinDeviceA_DisplayName" rel_version="Quest_MSQ2_Edengrove">Insert Morgaine's Crystal</string>
+	<string key="99E_MSQ_05_MyrddinDeviceB_DisplayName" rel_version="Quest_MSQ2_Edengrove">Insert Galahad's Crystal</string>
+	<string key="99E_MSQ_05_MyrddinDeviceB_Sides_DisplayName" rel_version="Quest_MSQ2_Edengrove">Use Galahad's Crystal</string>
+	<string key="99E_MSQ_05_EnterPortal_DisplayName" rel_version="Quest_MSQ2_Edengrove">Enter Portal</string>
+	<string key="99E_MSQ_07_ExamineWalls_DisplayName" rel_version="Quest_MSQ2_Edengrove">Examine Mine Wall</string>
+	<string key="99E_MSQ_07_ExamineTools_DisplayName" rel_version="Quest_MSQ2_Edengrove">Examine Discarded Tools</string>
+	<string key="99E_MSQ_07_ExamineEntrance_DisplayName" rel_version="Quest_MSQ2_Edengrove">Examine Entrance</string>
+	<string key="99E_MSQ_07_RetrieveStaff_DisplayName" rel_version="Quest_MSQ2_Edengrove">Retrieve Myrddin's Staff</string>
+	<string key="99E_MSQ_08_ExamineArea_DisplayName" rel_version="Quest_MSQ2_Edengrove">Search Area</string>
+	<string key="99E_MSQ_09_PlaceCorrStaff_DisplayName" rel_version="Quest_MSQ2_Edengrove">Place Corrupted Headpiece</string>
+	<string key="99E_MSQ_09_TakePureStaff_DisplayName" rel_version="Quest_MSQ2_Edengrove">Take Purified Staff</string>
+	<string key="99E_MSQ_09_BrokenPole_DisplayName" rel_version="Quest_MSQ2_Edengrove">Touch Broken Pole</string>
+	<string key="99E_MSQ_10_ActivateShield_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Activate Shield</string>
+	<string key="Dungeon_FirstLight01_Interact_OrbGateKey_Get" rel_version="Territory_FirstLight">Ancient Orb</string>
+	<string key="Dungeon_FirstLight01_Interact_OrbGateKey_Deposit" rel_version="Territory_FirstLight">Requires Ancient Orb</string>
+	<string key="14_SQ_05_Plant_01_DisplayName" rel_version="Quest_Supplement_Edengrove">Hear Plant</string>
+	<string key="14_SQ_05_Plant_02_DisplayName" rel_version="Quest_Supplement_Edengrove">Hear Plant</string>
+	<string key="14_SQ_05_Plant_03_DisplayName" rel_version="Quest_Supplement_Edengrove">Hear Plant</string>
+	<string key="03_SQ_05_Glyph_01_DisplayName" rel_version="Quest_Supplement_GreatCleave">Activate Glyph</string>
+	<string key="Spore_SOTS_DisplayName" rel_version="Territory_FirstLight">Spore Plant</string>
+	<string key="Petrified_Statue_SOTS_DisplayName" rel_version="Territory_FirstLight">Petrified Statue</string>
+	<string key="gimmick_cave_in_fl_DisplayName" rel_version="Territory_FirstLight">Remove Rubble</string>
+	<string key="94_BeastMural_DisplayName" rel_version="Feature_Mounts">Commune</string>
+	<string key="94_AzothOats_DisplayName" rel_version="Feature_Mounts">Harvest Azoth Infused Oats</string>
+	<string key="94_Cage_DisplayName" rel_version="Feature_Mounts">Unlock Cage</string>
+	<string key="Corrupted_Leviathan_Tentacle_Altar_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Charge Ancient Altar</string>
+	<string key="gimmick_poisonpolyp_DisplayName" rel_version="Feature_Mounts">Poison Polyp</string>
+	<string key="9401_Vines_DisplayName">Overgrown Vines</string>
+	<string key="09FL_BeastGlyphLock_DisplayName" rel_version="Territory_FirstLight">Place Hand</string>
+	<string key="09FL_BeastGlyphLearn_DisplayName" rel_version="Territory_FirstLight">Commune</string>
+	<string key="09FL_BeastGlyphNearby_DisplayName" rel_version="Territory_FirstLight">A signet of a Beast Lord is nearby.</string>
+	<string key="09FL_Jungle_CorpseFlower_DisplayName" rel_version="Territory_FirstLight">Elysian Ambrosia</string>
 	<string key="Rafflebones_Portal_FOTB_DisplayName">Summon Rafflebones</string>
+	<string key="Halloween_Basket_Candy_DisplayName">Collect Treats</string>
+	<string key="98_S_Q5_RelicPileIO_DisplayName">Ancient Relics</string>
+	<string key="98_M_Q5_GoldStashIO_DisplayName">Labyrinth Chest</string>
+	<string key="99E_Motherwell_MSQ_PlaceStaff_DisplayName" rel_version="Quest_MSQ2_Edengrove">Place Corrupted Headpiece</string>
+	<string key="99E_Motherwell_MSQ_PurifyStaff_DisplayName" rel_version="Quest_MSQ2_Edengrove">Draw out the Corruption</string>
+	<string key="99E_Motherwell_MSQ_FinalStaff_DisplayName" rel_version="Quest_MSQ2_Edengrove">Expel the Corruption</string>
+	<string key="Turkey_ChameleonNest_DisplayName" rel_version="Territory_FirstLight">Chameleon Nest</string>
+	<string key="Turkey_LizardEgg_DisplayName" rel_version="Territory_FirstLight">Giant Lizard Egg</string>
+	<string key="14_SQ_02_BadStatue" rel_version="Quest_Supplement_Edengrove">Destroy sculpture</string>
+	<string key="Gorilla_Boss_Rift_Fire_DisplayName" rel_version="Territory_FirstLight">Fire Glyph</string>
+	<string key="Gorilla_Boss_Rift_Ice_DisplayName" rel_version="Territory_FirstLight">Ice Glyph</string>
+	<string key="Gorilla_Boss_Rift_Nature_DisplayName" rel_version="Territory_FirstLight">Nature Glyph</string>
+	<string key="Gorilla_Boss_Rift_Lightning_DisplayName" rel_version="Territory_FirstLight">Lightning Glyph</string>
+	<string key="14AC_Motherwell_FastTravel_DisplayName" rel_version="Quest_MSQ2_Edengrove">Travel through the Blighted Passage</string>
+	<string key="03_SQ_03_GraveDigger" rel_version="Quest_MSQ2_GreatCleave">Dig up Hotspur's Map</string>
+	<string key="09FL_HornholdExit" rel_version="Territory_FirstLight">Return to Outpost</string>
+	<string key="09FL_BypassHornhold" rel_version="Territory_FirstLight">Return to Taurus</string>
+	<string key="09FL_HornOfVictory" rel_version="Territory_FirstLight">Horn of Victory</string>
 </resources>
 

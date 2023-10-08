@@ -110,6 +110,9 @@
 	<string key="owg_factionwarinfo_title_5_desc_4_bullet_1" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
 	<string key="owg_failure_warning">Failing or abandoning this mission will result in a loss of {amount} {guildName} Tokens.</string>
 	<string key="owg_guildreputation_name">{guildName} Reputation</string>
+	<string key="owg_guildreputation_next">to next tier</string>
+	<string key="owg_guildreputation_next_tooltip">Complete faction advancement quest to unlock next tier.</string>
+	<string key="owg_guildreputation_next_tooltip_61">Complete faction advancement quest at Level 61 to unlock next tier.</string>
 	<string key="owg_guildcurrency_name">{guildName} Tokens</string>
 	<string key="owg_guildcurrency">Tokens</string>
 	<string key="owg_guildreputation">Reputation</string>
@@ -144,17 +147,20 @@
 	<string key="owg_rank_explorer_3">Excubitor</string>
 	<string key="owg_rank_explorer_4">Lumen</string>
 	<string key="owg_rank_explorer_5">Adjudicator</string>
+	<string key="owg_rank_explorer_6" rel_version="FactionShop_V3">Paladin</string>
 	<string key="owg_rank_merchant_1">Adept</string>
 	<string key="owg_rank_merchant_2">Scrivener</string>
 	<string key="owg_rank_merchant_3">Chronicler</string>
 	<string key="owg_rank_merchant_4">Cabalist</string>
 	<string key="owg_rank_merchant_5">Alchemist</string>
+	<string key="owg_rank_merchant_6" rel_version="FactionShop_V3">Magus</string>
 	<string key="owg_rank_number">Rank  &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{rank}&lt;/font&gt; .</string>
 	<string key="owg_rank_procurer_1">Soldier</string>
 	<string key="owg_rank_procurer_2">Gladiator</string>
 	<string key="owg_rank_procurer_3">Ravager</string>
 	<string key="owg_rank_procurer_4">Destroyer</string>
 	<string key="owg_rank_procurer_5">Commander</string>
+	<string key="owg_rank_procurer_6" rel_version="FactionShop_V3">Marshall</string>
 	<string key="owg_rank_unaffiliated">Unaffiliated</string>
 	<string key="owg_rank_unlock_tooltip">You need to meet all requirements in order to unlock the next rank.</string>
 	<string key="owg_rank_unlocked">Rank {rankName} Unlocked!</string>
@@ -178,7 +184,7 @@
 	<string key="owg_rewardtype_warinfluence_low">+</string>
 	<string key="owg_rewardtype_warinfluence_med">++</string>
 	<string key="owg_rewardtype_warinfluence_high">+++</string>
-	<string key="owg_rewardtype_warinfluence_label">Influence</string>
+	<string key="owg_rewardtype_warinfluence_label">Influence (During Races)</string>
 	<string key="owg_activebonus_type_dailybonus">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;Daily Bonus&lt;/font&gt;</string>
 	<string key="owg_activebonus_type_fortcontrolbonus">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;{territory} Fort Control Bonus&lt;/font&gt;</string>
 	<string key="owg_activebonus_type_territorybonus">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;{territory} Territory Bonuses&lt;/font&gt;</string>
@@ -245,7 +251,7 @@
 	<string key="owg_pvp_cannotacceptmission_nosanctuary">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; until you are in a sanctuary.</string>
 	<string key="owg_pvp_cannotacceptmission_typeblocked">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; of this type at this time.</string>
 	<string key="owg_pvp_cannotacceptmission_ingroupfindergroup" rel_version="Feature_Group_Finder">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are in a PvE Lobby which will not allow you to turn on your PvP flag.</string>
-	<string key="owg_pvp_cannotacceptmission_pvpinactive_canswitch" rel_version="Feature_Alt_Character_Protection">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are PvP inactive. Would you like to become PvP active?\n\n Doing so will remove your current PvP active character from any wars they are signed up for and fail any active PvP missions.</string>
+	<string key="owg_pvp_cannotacceptmission_pvpinactive_canswitch" rel_version="Feature_Alt_Character_Protection">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are PvP inactive. \n\n If you would like to make this character PvP active, flag for PvP in a Sanctuary and accept the PvP Active state.</string>
 	<string key="owg_pvp_cannotacceptmission_pvpinactive" rel_version="Feature_Alt_Character_Protection">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you are PvP inactive. You can switch to PvP active in: {timeRemaining}.\nIf you have recently deleted your PvP Active character, please wait 15 minutes and relog to made PvP active.</string>
 	<string key="owg_pvp_cannotacceptmission_pendinggroupfinderapplications" rel_version="Feature_Group_Finder">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; while you have Lobby invites which will not allow you to turn on your PvP flag.</string>
 	<string key="owg_pvp_cannotacceptmission_unknown">You cannot accept a &lt;font color="#eaeaea"&gt;PvP mission&lt;/font&gt; at this time.</string>
@@ -436,6 +442,9 @@
 	<string key="FactionMission_S_ASSASSINATE_ELITE_desc">The Syndicate has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be a target for elimination.\n\nProve your cunning by tracking them down in {POITags} and destroying them.\n&lt;font color="#eaeaea"&gt;(Elite)&lt;/font&gt;</string>
 	<string key="FactionMission_C_ASSASSINATE_ELITE_title">Smite: {POITags} (Elite)</string>
 	<string key="FactionMission_C_ASSASSINATE_ELITE_desc">The Covenant has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be eliminated.\n\nProve your devotion by tracking them down in {POITags} and destroying them.\n &lt;font color="#eaeaea"&gt;(Elite)&lt;/font&gt;</string>
+	<string key="FactionMission_C_ASSASSINATE_ELITE_desc2">The Covenant has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be eliminated.\n\nProve your devotion by tracking them down in {POITags} and destroying them. (Hint: targets appear as part of an event)\n &lt;font color="#eaeaea"&gt;(Elite)&lt;/font&gt;</string>
+	<string key="FactionMission_ASSASSINATE_ELITE_desc2">The Marauders need &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; removed from the theater.\n\nProve your valor by tracking them down in {POITags} and destroying them. (Hint: targets appear as part of an event)\n&lt;font color="#eaeaea"&gt;(Elite)&lt;/font&gt;</string>
+	<string key="FactionMission_S_ASSASSINATE_ELITE_desc2">The Syndicate has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be a target for elimination.\n\nProve your cunning by tracking them down in {POITags} and destroying them. (Hint: targets appear as part of an event)\n&lt;font color="#eaeaea"&gt;(Elite)&lt;/font&gt;</string>
 	<string key="FactionMission_RAID_ELITE_title">Raid: {POITags} (Elite)</string>
 	<string key="FactionMission_RAID_ELITE_desc">We've identified a threat to Marauder interests in this region.\n\nGo to {POITags} and defeat every &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; necessary - with extreme prejudice.\n &lt;font color="#eaeaea"&gt;(Elite)&lt;/font&gt;</string>
 	<string key="FactionMission_LOOT_ELITE_title">Plunder: {POITags} (Elite)</string>
@@ -475,15 +484,15 @@
 	<string key="FactionMission_WARCAMP_LOOT_title">Enemy Intelligence (PvP)</string>
 	<string key="FactionMission_WARCAMP_LOOT_desc">Infiltrate the &lt;font color="#eaeaea"&gt;War Camp&lt;/font&gt; next to &lt;font color="#eaeaea"&gt;Fort {territoryID}&lt;/font&gt; and search for valuable intelligence.</string>
 	<string key="FactionMission_CONTROL_POINT_title">Conquer (PvP)</string>
-	<string key="FactionMission_CONTROL_POINT_desc">Take up arms to help the Marauders take control of the &lt;font color="#eaeaea"&gt;Fort&lt;/font&gt; at &lt;font color="#eaeaea"&gt;{territoryID}&lt;/font&gt;.\n\n(This mission may not be completable at all times)</string>
+	<string key="FactionMission_CONTROL_POINT_desc">Take up arms to help the Marauders take control of the &lt;font color="#eaeaea"&gt;Fort&lt;/font&gt; at &lt;font color="#eaeaea"&gt;{territoryID}&lt;/font&gt; or any of the three watchtowers.\n\n(This mission may not be completable at all times)</string>
 	<string key="FactionMission_S_WARCAMP_LOOT_title">Enemy Reconnaissance (PvP)</string>
 	<string key="FactionMission_S_WARCAMP_LOOT_desc">Infiltrate the &lt;font color="#eaeaea"&gt;War Camp&lt;/font&gt; next to &lt;font color="#eaeaea"&gt;Fort {territoryID}&lt;/font&gt; and search for valuable intelligence.</string>
 	<string key="FactionMission_S_CONTROL_POINT_title">Seize (PvP)</string>
-	<string key="FactionMission_S_CONTROL_POINT_desc">Take up arms to help the Syndicate take control of the &lt;font color="#eaeaea"&gt;Fort&lt;/font&gt; at &lt;font color="#eaeaea"&gt;{territoryID}&lt;/font&gt;.\n\n(This mission may not be completable at all times)</string>
+	<string key="FactionMission_S_CONTROL_POINT_desc">Take up arms to help the Syndicate take control of the &lt;font color="#eaeaea"&gt;Fort&lt;/font&gt; at &lt;font color="#eaeaea"&gt;{territoryID}&lt;/font&gt;or any of the three watchtowers.\n\n(This mission may not be completable at all times)</string>
 	<string key="FactionMission_C_WARCAMP_LOOT_title">Enemy Intelligence (PvP)</string>
 	<string key="FactionMission_C_WARCAMP_LOOT_desc">Infiltrate the &lt;font color="#eaeaea"&gt;War Camp&lt;/font&gt; next to &lt;font color="#eaeaea"&gt;Fort {territoryID}&lt;/font&gt; and search for valuable intelligence.</string>
 	<string key="FactionMission_C_CONTROL_POINT_title">Triumph (PvP)</string>
-	<string key="FactionMission_C_CONTROL_POINT_desc">Take up arms to help the Covenant take control of the &lt;font color="#eaeaea"&gt;Fort&lt;/font&gt; at &lt;font color="#eaeaea"&gt;{territoryID}&lt;/font&gt;.\n\n(This mission may not be completable at all times)</string>
+	<string key="FactionMission_C_CONTROL_POINT_desc">Take up arms to help the Covenant take control of the &lt;font color="#eaeaea"&gt;Fort&lt;/font&gt; at &lt;font color="#eaeaea"&gt;{territoryID}&lt;/font&gt;or any of the three watchtowers.\n\n(This mission may not be completable at all times)</string>
 	<string key="FactionMission_WARCAMP_SPECIAL_desc">Infiltrate the stronghold at &lt;font color="#eaeaea"&gt;{POITags}&lt;/font&gt; and search for valuable intelligence.</string>
 	<string key="FactionMission_S_WARCAMP_SPECIAL_desc">Infiltrate the stronghold at &lt;font color="#eaeaea"&gt;{POITags}&lt;/font&gt; and search for valuable intelligence.</string>
 	<string key="FactionMission_C_WARCAMP_SPECIAL_desc">Infiltrate the stronghold at &lt;font color="#eaeaea"&gt;{POITags}&lt;/font&gt; and search for valuable intelligence.</string>
@@ -551,5 +560,20 @@
 	<string key="ui_cant_switch_faction_incompany" rel_version="Feature_Unfactioned_Company_Members">You are currently in a company associated with a different faction. If you continue, you will be removed from that company.\n\nYou may only join a company aligned with your faction. If flagged for PvP, you will only be able to group up with players from the same faction. Before joining, check the faction choices of your friends.\n\nYour choice isn't permanent -- you can change your faction from the Bio screen once. After that, you can change it again every &lt;font color="#FFD45F"&gt;60 days&lt;/font&gt;.</string>
 	<string key="ui_join">Join</string>
 	<string key="ui_faction_join_restrictions">You can change factions once every 60 days, and can only join a company aligned with your faction.</string>
+	<string key="no_upcoming_conflicts_all" rel_version="Feature_Influence_V2">There are no upcoming conflicts scheduled.</string>
+	<string key="pvp_mission_disabled_no_conflict" rel_version="Feature_Influence_V2">PvP missions will become available once a scheduled war, invasion, or race begins.</string>
+	<string key="influence_race_scheduled_title" rel_version="Feature_Influence_V2">INFLUENCE RACE SCHEDULED</string>
+	<string key="influence_race_schedule_info" rel_version="Feature_Influence_V2">{territoryName} is scheduled to have an Influence Race on\n{date}, {startTime}-{endTime}</string>
+	<string key="influence_race_scheduled_multiple" rel_version="Feature_Influence_V2">Influence Races have been scheduled in the following territories:\n{territoryNameList}</string>
+	<string key="influence_race_upcoming_title" rel_version="Feature_Influence_V2">INFLUENCE RACE STARTING SOON</string>
+	<string key="influence_race_upcoming_info" rel_version="Feature_Influence_V2">{territoryName} Influence Race will run from {startTime}-{endTime}</string>
+	<string key="influence_race_upcoming_multiple" rel_version="Feature_Influence_V2">Influence Races will begin soon in the following territories:\n{territoryNameList}</string>
+	<string key="influence_race_starting_title" rel_version="Feature_Influence_V2">INFLUENCE RACE</string>
+	<string key="influence_race_starting_info" rel_version="Feature_Influence_V2">{territoryName} Influence Race starts now!</string>
+	<string key="influence_race_starting_multiple" rel_version="Feature_Influence_V2">Influence Races have started in the following territories:\n{territoryNameList}</string>
+	<string key="influence_race_ended_title" rel_version="Feature_Influence_V2">INFLUENCE RACE ENDED</string>
+	<string key="influence_race_ended_info" rel_version="Feature_Influence_V2">View results for {territoryName}.</string>
+	<string key="influence_race_countdown_title" rel_version="Feature_Influence_V2">Influence Race Countdown:</string>
+	<string key="influence_race_countdown_body" rel_version="Feature_Influence_V2">PvP missions cannot be accepted or completed until the Influence Race begins.</string>
 </resources>
 

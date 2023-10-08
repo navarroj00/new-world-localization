@@ -1,79 +1,74 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="9901_MSQ_Yonas" comment="male" gender="M">Yonas Alazar</string>
-	<string key="NPC_9902_msq_Yonas" comment="male" gender="M">Yonas Alazar</string>
-	<string key="9902_MSQ_Adiana" comment="female" gender="F">Adiana Theron</string>
-	<string key="9902b_MSQ_Adiana" comment="female" gender="F">Adiana Theron</string>
-	<string key="9903_MSQ_Emile" comment="male" gender="M">Emile d'Aquitane</string>
-	<string key="9903b_MSQ_Emile" comment="male" gender="M">Emile d'Aquitane</string>
-	<string key="9903c_MSQ_Emile" comment="male" gender="M">Emile d'Aquitane</string>
-	<string key="9903d_MSQ_Emile" comment="male" gender="M">Emile d'Aquitane</string>
-	<string key="9903e_MSQ_Emile" comment="male" gender="M">Emile d'Aquitane</string>
-	<string key="9904b_MSQ_Theophrastus" comment="male" gender="M">Dr. Theophrastus</string>
-	<string key="9904c_MSQ_Theophrastus" comment="male" gender="M">Dr. Theophrastus</string>
-	<string key="9904d_MSQ_Theophrastus" comment="male" gender="M">Dr. Theophrastus</string>
-	<string key="9904e_MSQ_Theophrastus" comment="male" gender="M">Dr. Theophrastus</string>
-	<string key="9905_MSQ_Rima" comment="female" gender="F">Rima Bahar</string>
-	<string key="9905b_MSQ_Rima" comment="female" gender="F">Rima Bahar</string>
-	<string key="9905c_MSQ_Rima" comment="female" gender="F">Rima Bahar</string>
-	<string key="9905d_MSQ_Rima" comment="female" gender="F">Rima Bahar</string>
-	<string key="9906_MSQ_Shamaness" comment="female" gender="F">Ixia</string>
-	<string key="9907_MSQ_AEVillager1" comment="female" gender="F">Juice</string>
-	<string key="9908_MSQ_AEVillager2" comment="male" gender="M">Snap</string>
-	<string key="9909_MSQ_AEVillager3" comment="male" gender="M">Range</string>
-	<string key="9910_MSQ_AEScout" comment="male" gender="M">Gristle</string>
-	<string key="9911_MSQ_Thorpe" comment="male" gender="M">Captain Thorpe</string>
-	<string key="9912_MSQ_Isabella" comment="female" gender="F">Captain Isabella</string>
-	<string key="9913_MSQ_Russo" comment="male" gender="M">The Heretic</string>
-	<string key="9919_MSQ_WardenScout" comment="male" gender="M">Warden Scout Titus</string>
-	<string key="9920_MSQ_WardenYseult" comment="female" gender="F">Warden Yseult</string>
-	<string key="9921_MSQ_WardenWalker" comment="male" gender="M">Walker</string>
-	<string key="9922_MSQ_WardenWayne" comment="male" gender="M">Wayne Ballou</string>
-	<string key="9923_MSQ_WardenConstance" comment="female" gender="F">Constance Zarigueya</string>
-	<string key="9924_MSQ_WardenEliza" comment="female" gender="F">Eliza Turnbuckle</string>
-	<string key="9925_MSQ_WardenSamir" comment="male" gender="M">Samir Katari</string>
-	<string key="9901_MSQ_Yonas_title" comment="male" gender="M">Hermit Fisherman</string>
-	<string key="NPC_9902_msq_Yonas_title" comment="male" gender="M">Soulwarden Commander</string>
-	<string key="9902_MSQ_Adiana_title" comment="female" gender="F">Mistress of the Wild</string>
-	<string key="9902b_MSQ_Adiana_title" comment="female" gender="F">Mistress of the Wild</string>
-	<string key="9903_MSQ_Emile_title" comment="male" gender="M">Covenant Lieutenant</string>
-	<string key="9903b_MSQ_Emile_title" comment="male" gender="M">Covenant General</string>
-	<string key="9903c_MSQ_Emile_title" comment="male" gender="M">Covenant General</string>
-	<string key="9903d_MSQ_Emile_title" comment="male" gender="M">Veteran of Fort Alazar</string>
-	<string key="9903e_MSQ_Emile_title" comment="male" gender="M">Soulwarden Elite</string>
-	<string key="9904b_MSQ_Theophrastus_title" comment="male" gender="M">Syndicate Representative</string>
-	<string key="9904c_MSQ_Theophrastus_title" comment="male" gender="M">Research Alchemist</string>
-	<string key="9904d_MSQ_Theophrastus_title" comment="male" gender="M">Research Alchemist</string>
-	<string key="9904e_MSQ_Theophrastus_title" comment="male" gender="M">Master Researcher</string>
-	<string key="9905_MSQ_Rima_title" comment="female" gender="F">Marauder Roughneck</string>
-	<string key="9905b_MSQ_Rima_title" comment="female" gender="F">Marauder Representative</string>
-	<string key="9905c_MSQ_Rima_title" comment="female" gender="F">Veteran of Fort Alazar</string>
-	<string key="9905d_MSQ_Rima_title" comment="female" gender="F">Soulwarden Vanguard</string>
-	<string key="9905e_MSQ_Rima_title" comment="female" gender="F">Soulwarden Vanguard</string>
-	<string key="9906_MSQ_Shamaness_title" comment="female" gender="F">Protector of the Grove</string>
-	<string key="9907_MSQ_AEVillager1_title" comment="female" gender="F">A Bear</string>
-	<string key="9908_MSQ_AEVillager2_title" comment="male" gender="M">A Wolf</string>
-	<string key="9909_MSQ_AEVillager3_title" comment="male" gender="M">Angry Earth Scout</string>
-	<string key="9910_MSQ_AEScout_title" comment="male" gender="M">Angry Earth Scout</string>
-	<string key="9919_MSQ_WardenScout_title" comment="male" gender="M">Warden Scout</string>
-	<string key="9921_MSQ_WardenWalker_title" comment="male" gender="M">Soulwarden Scout</string>
-	<string key="9922_MSQ_WardenWayne_title" comment="male" gender="M">Soulwarden Armsman</string>
-	<string key="9923_MSQ_WardenConstance_title" comment="female" gender="F">Soulwarden Researcher</string>
-	<string key="9924_MSQ_WardenEliza_title" comment="female" gender="F">Soulwarden Sentry</string>
-	<string key="9925_MSQ_WardenSamir_title" comment="male" gender="M">Soulwarden Sentry</string>
-	<string key="9926_VK_AbigailRose_title" comment="female" gender="F">Homesteader</string>
-	<string key="9926_VK_AbigailRoseEp2_title" comment="female" gender="F">Scout Leader</string>
-	<string key="9926_VK_AbigailRose" comment="female" gender="F">Abigail Rose</string>
-	<string key="9927_VK_ScoutsNote_title" comment="female" gender="F">Desdemona's Report</string>
-	<string key="9927_VK_ScoutsNote" comment="female" gender="F">Bloodstained Note</string>
+	<string key="9901_MSQ_Yonas" comment="male">Yonas Alazar</string>
+	<string key="NPC_9902_msq_Yonas" comment="male">Yonas Alazar</string>
+	<string key="9902_MSQ_Adiana" comment="female">Adiana Theron</string>
+	<string key="9902b_MSQ_Adiana" comment="female">Adiana Theron</string>
+	<string key="9903_MSQ_Emile" comment="male">Emile d'Aquitane</string>
+	<string key="9903b_MSQ_Emile" comment="male">Emile d'Aquitane</string>
+	<string key="9903c_MSQ_Emile" comment="male">Emile d'Aquitane</string>
+	<string key="9903d_MSQ_Emile" comment="male">Emile d'Aquitane</string>
+	<string key="9903e_MSQ_Emile" comment="male">Emile d'Aquitane</string>
+	<string key="9904b_MSQ_Theophrastus" comment="male">Dr. Theophrastus</string>
+	<string key="9904c_MSQ_Theophrastus" comment="male">Dr. Theophrastus</string>
+	<string key="9904d_MSQ_Theophrastus" comment="male">Dr. Theophrastus</string>
+	<string key="9904e_MSQ_Theophrastus" comment="male">Dr. Theophrastus</string>
+	<string key="9905_MSQ_Rima" comment="female">Rima Bahar</string>
+	<string key="9905b_MSQ_Rima" comment="female">Rima Bahar</string>
+	<string key="9905c_MSQ_Rima" comment="female">Rima Bahar</string>
+	<string key="9905d_MSQ_Rima" comment="female">Rima Bahar</string>
+	<string key="9906_MSQ_Shamaness" comment="female">Ixia</string>
+	<string key="9907_MSQ_AEVillager1" comment="female">Juice</string>
+	<string key="9908_MSQ_AEVillager2" comment="male">Snap</string>
+	<string key="9909_MSQ_AEVillager3" comment="male">Range</string>
+	<string key="9910_MSQ_AEScout" comment="male">Gristle</string>
+	<string key="9911_MSQ_Thorpe" comment="male">Captain Thorpe</string>
+	<string key="9912_MSQ_Isabella" comment="female">Captain Isabella</string>
+	<string key="9913_MSQ_Russo" comment="male">The Heretic</string>
+	<string key="9919_MSQ_WardenScout" comment="male">Warden Scout Titus</string>
+	<string key="9920_MSQ_WardenYseult" comment="female">Warden Yseult</string>
+	<string key="9901_MSQ_Yonas_title" comment="male">Hermit Fisherman</string>
+	<string key="NPC_9902_msq_Yonas_title" comment="male">Soulwarden Commander</string>
+	<string key="9902_MSQ_Adiana_title" comment="female">Mistress of the Wild</string>
+	<string key="9902b_MSQ_Adiana_title" comment="female">Mistress of the Wild</string>
+	<string key="9903_MSQ_Emile_title" comment="male">Covenant Lieutenant</string>
+	<string key="9903b_MSQ_Emile_title" comment="male">Covenant General</string>
+	<string key="9903c_MSQ_Emile_title" comment="male">Covenant General</string>
+	<string key="9903d_MSQ_Emile_title" comment="male">Veteran of Caer Dun</string>
+	<string key="9903e_MSQ_Emile_title" comment="male">Soulwarden Elite</string>
+	<string key="9904b_MSQ_Theophrastus_title" comment="male">Syndicate Representative</string>
+	<string key="9904c_MSQ_Theophrastus_title" comment="male">Research Alchemist</string>
+	<string key="9904d_MSQ_Theophrastus_title" comment="male">Research Alchemist</string>
+	<string key="9904e_MSQ_Theophrastus_title" comment="male">Master Researcher</string>
+	<string key="9905_MSQ_Rima_title" comment="female">Marauder Roughneck</string>
+	<string key="9905b_MSQ_Rima_title" comment="female">Marauder Representative</string>
+	<string key="9905c_MSQ_Rima_title" comment="female">Veteran of Caer Dun</string>
+	<string key="9905d_MSQ_Rima_title" comment="female">Soulwarden Vanguard</string>
+	<string key="9905e_MSQ_Rima_title" comment="female">Soulwarden Vanguard</string>
+	<string key="9906_MSQ_Shamaness_title" comment="female">Protector of the Grove</string>
+	<string key="9907_MSQ_AEVillager1_title" comment="female">A Bear</string>
+	<string key="9908_MSQ_AEVillager2_title" comment="male">A Wolf</string>
+	<string key="9909_MSQ_AEVillager3_title" comment="male">Angry Earth Scout</string>
+	<string key="9910_MSQ_AEScout_title" comment="male">Angry Earth Scout</string>
+	<string key="9919_MSQ_WardenScout_title" comment="male">Warden Scout</string>
+	<string key="9921_MSQ_WardenWalker_title" comment="male">Soulwarden Scout</string>
+	<string key="9922_MSQ_WardenWayne_title" comment="male">Soulwarden Armsman</string>
+	<string key="9923_MSQ_WardenConstance_title" comment="female">Soulwarden Researcher</string>
+	<string key="9924_MSQ_WardenEliza_title" comment="female">Soulwarden Sentry</string>
+	<string key="9925_MSQ_WardenSamir_title" comment="male">Soulwarden Sentry</string>
+	<string key="9926_VK_AbigailRose_title" comment="female">Homesteader</string>
+	<string key="9926_VK_AbigailRoseEp2_title" comment="female">Scout Leader</string>
+	<string key="9926_VK_AbigailRose" comment="female">Abigail Rose</string>
+	<string key="9927_VK_ScoutsNote_title" comment="female">Desdemona's Report</string>
+	<string key="9927_VK_ScoutsNote" comment="female">Bloodstained Note</string>
 	<string key="9928_MSQ_YonasMemorial_title" comment="male">A Soulwarden Memorial</string>
-	<string key="9928_MSQ_YonasMemorial" comment="male" gender="M">Yonas Memorial</string>
-	<string key="9928_MSQ_YonasMemorial_Examine" comment="male" gender="M">Reflect</string>
-	<string key="9929_MSQ_RecliningThorpe" comment="male" gender="M">Commander Thorpe</string>
-	<string key="9930_VK_RomacBarbo" comment="male" gender="M">Romac Barbo</string>
-	<string key="9930_VK_RomacBarbo_title" comment="male" gender="M">Scout, Scarecrow</string>
-	<string key="9931_VK_Caoimhe" comment="female" gender="F">Caoimhe Alsandair</string>
-	<string key="9931_VK_Caoimhe_title" comment="female" gender="F">Researcher of Magic</string>
-	<string key="9932_VK_RomacNote" comment="male" gender="M">Help!</string>
-	<string key="9932_VK_RomacNote_title" comment="male" gender="M">Request for Assistance</string>
+	<string key="9928_MSQ_YonasMemorial" comment="male">Yonas Memorial</string>
+	<string key="9928_MSQ_YonasMemorial_Examine" comment="male">Reflect</string>
+	<string key="9929_MSQ_RecliningThorpe" comment="male">Commander Thorpe</string>
+	<string key="9930_VK_RomacBarbo" comment="male">Romac Barbo</string>
+	<string key="9930_VK_RomacBarbo_title" comment="male">Scout, Scarecrow</string>
+	<string key="9931_VK_Caoimhe" comment="female">Caoimhe Alsandair</string>
+	<string key="9931_VK_Caoimhe_title" comment="female">Researcher of Magic</string>
+	<string key="9932_VK_RomacNote" comment="male">Help!</string>
+	<string key="9932_VK_RomacNote_title" comment="male">Request for Assistance</string>
 </resources>
 

@@ -1,4 +1,5 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="dialogue_continue" speaker="UI">Continue</string>
 	<string key="CaptainThorpe_Greet_01" speaker="Captain Thorpe" name="CaptainThorpe" gender="M" VO="CaptainThorpe_Greet_01" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">You, come closer... your captain needs you. One of those blasted things jabbed me... in a bad way. \n\nThat demon storm... a voice in my head... these foul creatures... \n\nI don't know what the hell's going on here!</string>
 	<string key="01_SoleSurvivor_title" speaker="UI" rel_version="Quest_MSQ2_Revamp">Sole Survivor</string>
 	<string key="01_SoleSurvivor_desc" speaker="UI" rel_version="Quest_MSQ2_Revamp">Captain Thorpe lost the mysterious box at sea and now appears to have perished... but his corpse disintegrated. Find out what happened to him.</string>

@@ -36,6 +36,8 @@
 	<string key="GrandPotionStalwart_DisplayName">Prime Blocking Absorption</string>
 	<string key="GrandPotionEncumbrance_DisplayName">Prime Encumbrance Alleviation</string>
 	<string key="GrandPotionEncumbrance_Tooltip">Increases encumbrance limit by 100.0</string>
+	<string key="SerumRegen_DisplayName">Regeneration Serum</string>
+	<string key="SerumRegen_Tooltip">Regenerates health, mana and stamina.</string>
 	<string key="PotionBoostFireAbsT3_DisplayName">Fire Absorption I</string>
 	<string key="PotionBoostFireAbsT4_DisplayName">Fire Absorption II</string>
 	<string key="PotionBoostFireAbsT5_DisplayName">Fire Absorption III</string>
@@ -556,7 +558,7 @@
 	<string key="Mut_Nat_Curse3_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Shrivelled Nature</string>
 	<string key="Mut_Voi_Curse3_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Shrivelled Void</string>
 	<string key="Mut_Curse3_Weaken_DisplayName" rel_version="Feature_Dungeon_Mutators">Shrivelled</string>
-	<string key="Mut_Curse3_Weaken_Tooltip" rel_version="Feature_Dungeon_Mutators">All damage dealt reduced by {[Type_StatusEffectData.Mut_Curse3_Weaken.DMGStandard * -100]}% and all damage based healing is reduced by {[Type_StatusEffectData.Mut_Curse3_Weaken.HealScalingValueMultiplier * -100]}%.</string>
+	<string key="Mut_Curse3_Weaken_Tooltip" rel_version="Feature_Dungeon_Mutators">All damage dealt reduced by {[Type_StatusEffectData.Mut_Curse3_Weaken.DMGStandard * -100]}% and all outgoing healing is reduced by {[Type_StatusEffectData.Mut_Curse3_Weaken.HealScalingValueMultiplier * -100]}%.</string>
 	<string key="Mut_Curse4_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Truncated</string>
 	<string key="Mut_Fir_Curse4_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Blowback Fire</string>
 	<string key="Mut_Ice_Curse4_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Blowback Ice</string>
@@ -671,6 +673,8 @@
 	<string key="AI_Fleeting_Buff_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Fleeting</string>
 	<string key="AI_HalloweenBoss_PutridAura_DisplayName">Baalphazu's Curse</string>
 	<string key="AI_HalloweenBoss_PutridAura_Tooltip">Take {[Type_StatusEffectData.HalloweenBoss_Putrid_Aura_DoT_Damage.HealthModifierDamageBased * -100]}% base health Nature damage every {[Type_StatusEffectData.HalloweenBoss_Putrid_Aura_DoT_Damage.TickRate * 6]} seconds.</string>
+	<string key="AI_HercyneRat_Disease_DisplayName" rel_version="Territory_FirstLight">Disease</string>
+	<string key="AI_HercyneRat_Disease_Tooltip" rel_version="Territory_FirstLight">Reduces healing taken by {[Type_StatusEffectData.AI_PlagueRat_Disease.HealMod * -100]}%, stacking {[Type_StatusEffectData.AI_HercyneRat_Disease.StackMax]} times.</string>
 	<string key="AI_SpiderBite_Tooltip">Poisoned for {[Type_StatusEffectData.AI_SpiderBite.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.AI_SpiderBite.TickRate]} seconds for {[Type_StatusEffectData.AI_SpiderBite.BaseDuration]} seconds.</string>
 	<string key="AI_SpiderVenom_Tooltip">Armor is {[Type_StatusEffectData.AI_SpiderVenom.ABSStandard * -100]}% less effective.</string>
 	<string key="AI_PoisonOnHit_Buff_DisplayName">Venomous</string>
@@ -689,10 +693,24 @@
 	<string key="AI_Torso_Boss_Stun_Player_Tooltip">You are overloaded with arcane energy, stunning you for 10s."</string>
 	<string key="AI_Torso_Boss_ArcaneOrb_DisplayName">Arcane Attunement</string>
 	<string key="AI_Torso_Boss_ArcaneOrb_Tooltip">"You are carrying an arcane orb, attuning you to the magical frequencies of the arcane conduits."</string>
+	<string key="AI_Hercyne_Bleed_DisplayName" rel_version="Territory_FirstLight">Bleed</string>
+	<string key="AI_Hercyne_Bleed_Tooltip" rel_version="Territory_FirstLight">Bleeding for {[Type_StatusEffectData.AI_Hercyne_Bleed.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Hercyne_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_Hercyne_Bleed.TickRate]} seconds for {[Type_StatusEffectData.AI_Hercyne_Bleed.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.AI_Hercyne_Bleed.StackMax]} times.</string>
+	<string key="AI_HercyneBoar_Thorn_Ally_DisplayName" rel_version="Territory_FirstLight">Thorny Hide</string>
+	<string key="AI_HercyneBoar_AlphaThorns_DisplayName" rel_version="Territory_FirstLight">Thorny Hide</string>
+	<string key="AI_HercyneBoar_ReturnDmg_DisplayName" rel_version="Territory_FirstLight">Return Damage</string>
+	<string key="AI_HercyneBoar_ReturnDmg_Tooltip" rel_version="Territory_FirstLight">You are taking Return Damage from the Thorn Hide</string>
+	<string key="AI_HercyneCorvid_AlphaEmpower_DisplayName" rel_version="Territory_FirstLight">Alpha Empower</string>
+	<string key="AI_HercyneReindeer_Briar_Root_DisplayName" rel_version="Territory_FirstLight">Tangled</string>
+	<string key="AI_HercyneReindeer_Briar_Root_Tooltip" rel_version="Territory_FirstLight">You are tangled. Destroy the roots to break free.</string>
 	<string key="AI_BrotherUmberto_HealthDebuff_DisplayName" rel_version="Quest_MSQ2_Brightwood">Soul Steal</string>
 	<string key="AI_BrotherUmberto_HealthDebuff_Tooltip" rel_version="Quest_MSQ2_Brightwood">Your life essence is being drained, feeding and strengthening your enemy.</string>
 	<string key="AI_BrotherUmberto_HealthBuff_DisplayName" rel_version="Quest_MSQ2_Brightwood">Soul Drain</string>
 	<string key="AI_BrotherUmberto_Split_DisplayName" rel_version="Quest_MSQ2_Brightwood">Fragmented Soul</string>
+	<string key="AI_Yonas_Phase1_Berserk_DisplayName" rel_version="Quest_MSQ2_Edengrove">Corrupted Berserk</string>
+	<string key="AI_Yonas_Root_DisplayName" rel_version="Quest_MSQ2_Edengrove">Rooted</string>
+	<string key="AI_Yonas_Root_Tooltip" rel_version="Quest_MSQ2_Edengrove">Rooted</string>
+	<string key="AI_Yonas_Stun_4sec_DisplayName" rel_version="Quest_MSQ2_Edengrove">Stunned</string>
+	<string key="AI_Yonas_Stun_4sec_Tooltip" rel_version="Quest_MSQ2_Edengrove">Stunned</string>
 	<string key="AI_Bleed_9_DisplayName">Bleeding</string>
 	<string key="AI_Bleed_9_Tooltip">Bleeding for {[Type_StatusEffectData.AI_Bleed_9.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Bleed_9.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_Bleed_9.TickRate]} seconds for {[Type_StatusEffectData.AI_Bleed_9.BaseDuration]} seconds.</string>
 	<string key="AI_Burn_9_DisplayName">Burning</string>
@@ -810,6 +828,14 @@
 	<string key="AI_FireNaga_Flamethrower_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.HealthModifierPercent * -100]}% max health of Fire damage every {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.TickRate]} seconds for {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.BaseDuration]} seconds.</string>
 	<string key="AI_FireNaga_LavaPool_DoT_DisplayName" rel_version="Expedition_GreatCleave_01">Burning Lava</string>
 	<string key="AI_FireNaga_LavaPool_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[Type_StatusEffectData.AI_FireNaga_LavaPool_DoT.HealthModifierPercent * -100]}% max health of Fire damage every {[Type_StatusEffectData.AI_FireNaga_LavaPool_DoT.TickRate]} second.</string>
+	<string key="AI_MotherwellElk_SE_Slow_DisplayName" rel_version="Quest_MSQ2_Edengrove">Slow</string>
+	<string key="AI_MotherwellElk_SE_Slow_Tooltip" rel_version="Quest_MSQ2_Edengrove">Movement speed reduced by {[Type_StatusEffectData.AI_MotherwellElk_SE_Slow.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_MotherwellElk_SE_Slow.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_MotherwellElk_SE_Slow.StackMax]} times.</string>
+	<string key="AI_MotherwellElk_SE_Bleed_DisplayName" rel_version="Quest_MSQ2_Edengrove">Bleeding</string>
+	<string key="AI_MotherwellElk_SE_Bleed_Tooltip" rel_version="Quest_MSQ2_Edengrove">Bleeding for {[Type_StatusEffectData.AI_MotherwellElk_SE_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_MotherwellElk_SE_Bleed.TickRate]} seconds for {[Type_StatusEffectData.AI_MotherwellElk_SE_Bleed.BaseDuration]} seconds.</string>
+	<string key="AI_MotherwellElk_SE_Rend_DisplayName" rel_version="Quest_MSQ2_Edengrove">Rend</string>
+	<string key="AI_MotherwellElk_SE_Rend_Tooltip" rel_version="Quest_MSQ2_Edengrove">Incoming damage is increased by {[Type_StatusEffectData.AI_MotherwellElk_SE_Rend.ABSStandard * -100]}% for {[Type_StatusEffectData.AI_MotherwellElk_SE_Rend.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_MotherwellElk_SE_Rend.StackMax]} times.</string>
+	<string key="AI_MotherwellElk_SE_Exhaust_DisplayName" rel_version="Quest_MSQ2_Edengrove">Exhausted</string>
+	<string key="AI_MotherwellElk_SE_Exhaust_ToolTip" rel_version="Quest_MSQ2_Edengrove">Stamina regeneration reduced by {[Type_StatusEffectData.AI_MotherwellElk_SE_Exhaust.StaminaRate * -100]}% for {[Type_StatusEffectData.AI_MotherwellElk_SE_Exhaust.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_MotherwellElk_SE_Exhaust.StackMax]} times..</string>
 	<string key="Sandworm_ArenaEncounter_PressurePlate_Ranged_Buff_DisplayName" rel_version="Trial_Brimstone_Sandworm">Shield Breaker</string>
 	<string key="Sandworm_ArenaEncounter_PressurePlate_Ranged_Buff_Tooltip" rel_version="Trial_Brimstone_Sandworm">Become overcharged dealing bonus Shield stamina damage.</string>
 	<string key="Sandworm_Acid_Resistance_DisplayName" rel_version="Trial_Brimstone_Sandworm">Storm Chaser</string>
@@ -828,6 +854,34 @@
 	<string key="Sandworm_Acid_Storm_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[Type_StatusEffectData.Sandworm_Acid_Storm.HealthModifierPercent * -100]}% max health in Acid damage and suffer Acid Affliction every {[Type_StatusEffectData.Sandworm_Acid_Storm.TickRate]} seconds.</string>
 	<string key="Sandworm_Acid_Spew_DisplayName" rel_version="Trial_Brimstone_Sandworm">Acid Spew</string>
 	<string key="Sandworm_Acid_Spew_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[Type_StatusEffectData.Sandworm_Acid_Spew.HealthModifierPercent * -100]}% max health in Acid damage and suffer Acid Affliction every {[Type_StatusEffectData.Sandworm_Acid_Spew.TickRate]} seconds.</string>
+	<string key="AI_ArmoredDragon_Bleed_DisplayName" rel_version="Territory_FirstLight">Metal Breath Shards</string>
+	<string key="AI_ArmoredDragon_Bleed_Tooltip" rel_version="Territory_FirstLight">Bleeding for {[Type_StatusEffectData.AI_ArmoredDragon_Bleed.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_ArmoredDragon_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_ArmoredDragon_Bleed.TickRate]} seconds for {[Type_StatusEffectData.AI_ArmoredDragon_Bleed.BaseDuration]} seconds.</string>
+	<string key="Mammoth_Lightning_Shock_DisplayName" rel_version="Territory_FirstLight">Shock Blast</string>
+	<string key="Mammoth_Lightning_Shock_Tooltip" rel_version="Territory_FirstLight">Drains {[Type_StatusEffectData.Mammoth_Lightning_Shock.Stamina * -1]} stamina every {[Type_StatusEffectData.Mammoth_Lightning_Shock.TickRate]} seconds and reduces stamina regeneration by {[Type_StatusEffectData.Mammoth_Lightning_Shock.StaminaRate * -100]}% for {[Type_StatusEffectData.Mammoth_Lightning_Shock.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.Mammoth_Lightning_Shock.StackMax]} times.</string>
+	<string key="AI_Gorilla_Boss_Attune_Fire_DisplayName" rel_version="Territory_FirstLight">Fire Node Attunement</string>
+	<string key="AI_Gorilla_Boss_Attune_Fire_Description" rel_version="Territory_FirstLight">Immune to Fire Damage and can detonate Fire Node Elementals</string>
+	<string key="AI_Gorilla_Boss_Attune_Ice_DisplayName" rel_version="Territory_FirstLight">Ice Node Attunement</string>
+	<string key="AI_Gorilla_Boss_Attune_Ice_Description" rel_version="Territory_FirstLight">Immune to Ice Damage and can detonate Ice Node Elementals</string>
+	<string key="AI_Gorilla_Boss_Attune_Nature_DisplayName" rel_version="Territory_FirstLight">Nature Node Attunement</string>
+	<string key="AI_Gorilla_Boss_Attune_Nature_Description" rel_version="Territory_FirstLight">Immune to Nature Damage and can detonate Nature Node Elementals</string>
+	<string key="AI_Gorilla_Boss_Attune_Lightning_DisplayName" rel_version="Territory_FirstLight">Lightning Node Attunement</string>
+	<string key="AI_Gorilla_Boss_Attune_Lightning_Description" rel_version="Territory_FirstLight">Immune to Lightning Damage and can detonate Lightning Node Elementals</string>
+	<string key="AI_Gorilla_Boss_Dmg_Fire_DisplayName" rel_version="Territory_FirstLight">Fire Node Empowerment</string>
+	<string key="AI_Gorilla_Boss_Dmg_Fire_Description" rel_version="Territory_FirstLight">Kurok deals {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Fire.DMGFire * 100]}% additional Fire Damage, stacking up to {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Fire.StackMax]} times. At max stacks, Kurok detonates all accumulated Fire energy.</string>
+	<string key="AI_Gorilla_Boss_Dmg_Ice_DisplayName" rel_version="Territory_FirstLight">Ice Node Empowerment</string>
+	<string key="AI_Gorilla_Boss_Dmg_Ice_Description" rel_version="Territory_FirstLight">Kurok deals {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Ice.DMGIce * 100]}% additional Ice Damage, stacking up to {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Ice.StackMax]} times. At max stacks, Kurok detonates all accumulated Ice energy.</string>
+	<string key="AI_Gorilla_Boss_Dmg_Nature_DisplayName" rel_version="Territory_FirstLight">Nature Node Empowerment</string>
+	<string key="AI_Gorilla_Boss_Dmg_Nature_Description" rel_version="Territory_FirstLight">Kurok deals {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Nature.DMGNature * 100]}% additional Nature Damage, stacking up to {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Nature.StackMax]} times. At max stacks, Kurok detonates all accumulated Nature energy.</string>
+	<string key="AI_Gorilla_Boss_Dmg_Lightning_DisplayName" rel_version="Territory_FirstLight">Lightning Node Empowerment</string>
+	<string key="AI_Gorilla_Boss_Dmg_Lightning_Description" rel_version="Territory_FirstLight">Kurok deals {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Lightning.DMGLightning * 100]}% additional Lightning Damage, stacking up to {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Lightning.StackMax]} times. At max stacks, Kurok detonates all accumulated Lightning energy.</string>
+	<string key="AI_Gorilla_Boss_Dmg_Void_DisplayName" rel_version="Territory_FirstLight">Elemental Entropy</string>
+	<string key="AI_Gorilla_Boss_Dmg_Void_Description" rel_version="Territory_FirstLight">Kurok deals {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Void.DMGCorruption * 100]}% additional Void Damage, stacking up to {[Type_StatusEffectData.AI_Gorilla_Boss_Dmg_Void.StackMax]} times.</string>
+	<string key="AI_Gorilla_Boss_DamageVuln_DisplayName" rel_version="Territory_FirstLight">Elemental Node Backlash</string>
+	<string key="AI_Gorilla_Boss_DamageVuln_Description" rel_version="Territory_FirstLight">Kurok is disoriented and takes {[Type_StatusEffectData.AI_Gorilla_Boss_DamageVuln.ABSStrike * -100]} additional Damage. Duration is determined by stacks of Node Empowerment when backlash is triggered.</string>
+	<string key="AI_Gorilla_Boss_Burn_DisplayName" rel_version="Territory_FirstLight">Flames of Kurok</string>
+	<string key="AI_Gorilla_Boss_Burn_Description" rel_version="Territory_FirstLight">Burning for {[Type_StatusEffectData.AI_Gorilla_Boss_Burn.HealthModifierDamageBased * -100]}% of Kurok's damage as Fire Damage for {[Type_StatusEffectData.AI_Gorilla_Boss_Burn.BaseDuration]} seconds. Stacks up to {[Type_StatusEffectData.AI_Gorilla_Boss_Burn.StackMax]} times.</string>
+	<string key="AI_Gorilla_Boss_Chill_DisplayName" rel_version="Territory_FirstLight">Frost of Kurok</string>
+	<string key="AI_Gorilla_Boss_Chill_Description" rel_version="Territory_FirstLight">Slowed by {[Type_StatusEffectData.AI_Gorilla_Boss_Chill.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_Gorilla_Boss_Chill.BaseDuration * 100]} seconds. Stacks up to {[Type_StatusEffectData.AI_Gorilla_Boss_Chill.StackMax]} times.</string>
 	<string key="godModeThirst_DisplayName">God Mode</string>
 	<string key="godModeHealth_DisplayName">God Mode</string>
 	<string key="godModeAll_DisplayName">God Mode</string>
@@ -1312,6 +1366,34 @@
 	<string key="Rapier_Evasion_Effect_Mod2_Description">Evasion2</string>
 	<string key="Rapier_Evasion_Effect_Mod3_DisplayName">Evasion3</string>
 	<string key="Rapier_Evasion_Effect_Mod3_Description">Evasion3</string>
+	<string key="Status_Flail_Impairment_HexDoT" rel_version="Weapon_Flail">Impairment</string>
+	<string key="Status_Flail_Impairment_HexDoT_Description" rel_version="Weapon_Flail">You suffer {[Type_StatusEffectData.Status_Flail_HexDoT.HealthModifierDamageBased * -100]}% Arcane damage per second and your attack damage is reduced by {[Type_StatusEffectData.Status_Flail_HexDoT.DMGStandard * -100]}%.</string>
+	<string key="Status_Flail_AllySupport_WeakenBuff" rel_version="Weapon_Flail">Deflecting Frailty</string>
+	<string key="Status_Flail_AllySupport_WeakenBuff_Description" rel_version="Weapon_Flail">You have an active buff that weakens targets that hit you.</string>
+	<string key="Status_Flail_Uninterruptible" rel_version="Weapon_Flail">Flailing Stability</string>
+	<string key="Status_Flail_Uninterruptible_Description" rel_version="Weapon_Flail">Crowd control status effects can not be applied to you while this is active.</string>
+	<string key="Status_Flail_HealingBonus_DisplayName" rel_version="Weapon_Flail">Healing Bonus</string>
+	<string key="Status_Flail_HealingBonus_Description" rel_version="Weapon_Flail">All outgoing and incoming healing is increased.</string>
+	<string key="Status_Flail_EnemyDebuff_AllyDoTDurRed" rel_version="Weapon_Flail">Flailing Duration</string>
+	<string key="Status_Flail_EnemyDebuff_AllyDoTDurRed_Description" rel_version="Weapon_Flail">While this effect is active, all targets that hit you have tehir DoTs durations reduced.</string>
+	<string key="Status_Flail_Reinforced_DisplayName" rel_version="Weapon_Flail">Reinforced</string>
+	<string key="Status_Flail_Reinforced_description" rel_version="Weapon_Flail">Gain damage reduction for {[Type_StatusEffectData.Status_Flail_DefensiveStrike_Reinforced.StopOnHitCount]} hits while this is active.</string>
+	<string key="Status_Flail_DefensiveStrike_AllyBuff" rel_version="Weapon_Flail">Best Friends</string>
+	<string key="Status_Flail_DefensiveStrike_AllyBuff_description" rel_version="Weapon_Flail">Gain empower and damage absorption while nearby a flail user with this upgrade.</string>
+	<string key="Status_Flail_NearAlly_HealPower_DisplayName" rel_version="Weapon_Flail">Better Together</string>
+	<string key="Status_Flail_NearAlly_HealPower_Description" rel_version="Weapon_Flail">While near an ally, your outgoing healing efficiency is increased.</string>
+	<string key="Status_Flail_NearAlly_Anointed_DisplayName" rel_version="Weapon_Flail">Better Together</string>
+	<string key="Status_Flail_NearAlly_Anointed_Description" rel_version="Weapon_Flail">While near an ally, your incoming healing efficiency is increased.</string>
+	<string key="Status_Flail_Passive_CleanseEmpower_DisplayName" rel_version="Weapon_Flail">Empower Cleanse</string>
+	<string key="Status_Flail_Passive_CleanseEmpower_Description" rel_version="Weapon_Flail">Hitting a target while this effect is active will cleanse them of 1 empower status effect.</string>
+	<string key="Status_Flail_OnHitTaken_Lifesteal_DisplayName" rel_version="Weapon_Flail">Lifesteal</string>
+	<string key="Status_Flail_OnHitTaken_Lifesteal_Description" rel_version="Weapon_Flail">Hits gain lifesteal while this effect is active.</string>
+	<string key="Status_Flail_AllyDamageSplit_Ally_DisplayName" rel_version="Weapon_Flail">Human Shielded</string>
+	<string key="Status_Flail_AllyDamageSplit_Ally_Description" rel_version="Weapon_Flail">While this effect is active, a portion of the damage you take is transferred to a nearby flail wielder.</string>
+	<string key="Status_Flail_AllyDamageSplit_Self_DisplayName" rel_version="Weapon_Flail">Human Shield</string>
+	<string key="Status_Flail_AllyDamageSplit_Self_Description" rel_version="Weapon_Flail">While this effect is active, a portion of the damage a nearby ally takes is transferred to a you.</string>
+	<string key="Status_Flail_Ultimate_Healing_DisplayName">Better Together</string>
+	<string key="Status_Flail_Ultimate_Healing_Description">You heal for {[Type_StatusEffectData.Status_Flail_Ultimate_HealOverTime.HealthModifierDamageBased * 100]}% of the flail wielder's weapon damage.</string>
 	<string key="BlockBreakerDebuffPerk_DisplayName">Exhaust</string>
 	<string key="BlockSpeedPerk1_Description">Your movement speed is increased by {[Type_StatusEffectData.BlockSpeedPerk1.MoveSpeedMod * 100]}</string>
 	<string key="BlockSpeedPerk2_Description">Your movement speed is increased by {[Type_StatusEffectData.BlockSpeedPerk2.MoveSpeedMod * 100]}</string>
@@ -1323,6 +1405,7 @@
 	<string key="OR_FortSpawn_Invulnerable_Description">Invulnerable for the duration of this effect after spawning in your Outpost Rush fort.</string>
 	<string key="Status_Empower">Empower</string>
 	<string key="Status_Fortify">Fortify</string>
+	<string key="Status_Invulnerability">Invulnerability</string>
 	<string key="Status_Haste">Haste</string>
 	<string key="Status_Slow">Slow</string>
 	<string key="Status_Exhaust">Exhaust</string>
@@ -1343,6 +1426,7 @@
 	<string key="Status_Disease">Disease</string>
 	<string key="Status_Recovery">Recovery</string>
 	<string key="Status_Reinforced">Reinforced</string>
+	<string key="Status_Blessed">Blessed</string>
 	<string key="Status_Empower_Description">You have an active damage increase buff.</string>
 	<string key="Status_Fortify_Description">You have an active buff to armor.</string>
 	<string key="Status_Haste_Description">Your move speed is currently increased</string>
@@ -1360,7 +1444,9 @@
 	<string key="Status_HealOverTimeNonCombat_Description">Gain health every second.</string>
 	<string key="Status_Heal_Description">Your healing effects will heal for more.</string>
 	<string key="Status_LifeSteal_Description">Damage dealt while this effect is active will heal you.</string>
+	<string key="Status_Blessed_Description">Outgoing healing is increased while this effect is active.</string>
 	<string key="Status_GemPerk_Retaliate_Description">Damage bonus from the Retaliate Gem Perk.</string>
+	<string key="Status_PoisonDiseaseCombo_Description">You currently have a Poison damage over time effect and disease effect on you, as well as decreased outgoing healing.</string>
 	<string key="Status_Upgrade_Bow_EvasiveShot_Haste_description">Your movement speed is increased by {[Type_StatusEffectData.Status_Upgrade_Bow_EvasiveShot_Haste.SprintSpeedMod * 100]}%.</string>
 	<string key="Status_Passive_Bow_Skirmish_HasteOnSwap_description">Your movement speed is increased by {[Type_StatusEffectData.Status_Passive_Bow_Skirmish_HasteOnSwap.SprintSpeedMod * 100]}%.</string>
 	<string key="Status_Passive_Bow_Skirmish_DodgeHaste_description">Your movement speed is increased by {[Type_StatusEffectData.Status_Passive_Bow_Skirmish_DodgeHaste.SprintSpeedMod * 100]}%.</string>
@@ -1501,11 +1587,11 @@
 	<string key="Status_Ultimate_Sword_Defender_Timer_description">When this ends you can use Defensive Formation again.</string>
 	<string key="Status_Ability_Lifestaff_OrbofProtection_description">Your armor is increased by {[Type_StatusEffectData.Status_Ability_Lifestaff_OrbofProtection.PhysicalArmor * 100]}%.</string>
 	<string key="Status_Upgrade_Lifestaff_OrbofProtection_Dmg_description">Your damage is increased by {[Type_StatusEffectData.Status_Upgrade_Lifestaff_OrbofProtection_Dmg.DMGStandard * 100]}%.</string>
-	<string key="Status_Passive_Lifestaff_Protection_HealingOnDodge_description">Your damage based healing is increased by {[Type_StatusEffectData.Status_Passive_Lifestaff_Protection_HealingOnDodge.HealScalingValueMultiplier * 100]}%.</string>
+	<string key="Status_Passive_Lifestaff_Protection_HealingOnDodge_description">Your outgoing healing is increased by {[Type_StatusEffectData.Status_Passive_Lifestaff_Protection_HealingOnDodge.HealScalingValueMultiplier * 100]}%.</string>
 	<string key="Status_Passive_Lifestaff_Protection_HasteWhenLow_description">Your movement speed reduced by {[Type_StatusEffectData.Status_Passive_Lifestaff_Protection_HasteWhenLow.SprintSpeedMod * 100]}%.</string>
 	<string key="Status_Passive_Lifestaff_Protection_HasteWhenLow_Timer_description">When this ends you can trigger Balance again.</string>
 	<string key="Status_Passive_Lifestaff_Healing_HealingBuffonBasic_name">Intensify</string>
-	<string key="Status_Passive_Lifestaff_Healing_HealingBuffonBasic_description">Your damage based healing is increased by {[Type_StatusEffectData.Status_Passive_Lifestaff_Healing_HealingBuffonBasic.HealScalingValueMultiplier * 100]}%.</string>
+	<string key="Status_Passive_Lifestaff_Healing_HealingBuffonBasic_description">Your outgoing healing is increased by {[Type_StatusEffectData.Status_Passive_Lifestaff_Healing_HealingBuffonBasic.HealScalingValueMultiplier * 100]}%.</string>
 	<string key="Status_Passive_Lifestaff_Healing_AoeHealWhenHit_description">Healing aura active for you and nearby friends in a 4m radius healing for {[Type_StatusEffectData.Status_Passive_Lifestaff_Healing_AoeHealWhenHit.HealthModifierDamageBased * 100]}% weapon damage each second.</string>
 	<string key="Status_Ability_Lifestaff_SacredGround">Sacred Ground</string>
 	<string key="Status_Ability_Lifestaff_SacredGround_description">You heal for {[Type_StatusEffectData.Status_Ability_Lifestaff_SacredGround.HealthModifierDamageBased * 100]}% casters weapon damage.</string>
@@ -1531,7 +1617,7 @@
 	<string key="Status_Perk_Weapon_OnKillEmpower_Timer_Description">When this ends your On Kill gain Empower perk can trigger again.</string>
 	<string key="Status_Perk_Weapon_OnKillCDR_Timer_Description">When this ends your On Kill gain Cooldown Reduction perk can trigger again.</string>
 	<string key="DodgeLowerThreatPerk_DisplayName">Evasive</string>
-	<string key="DodgeLowerThreatPerk_Description">Threat generation currently reduced by {[GlobalAbilityTable.Global_Earring_ThreatSubOnDodge.ThreatDamage * -100 * {perkMultiplier}]}%.</string>
+	<string key="DodgeLowerThreatPerk_Description">Threat generation currently reduced by {[PerksAbilityTable.Global_Earring_ThreatSubOnDodge.ThreatDamage * -100 * {perkMultiplier}]}%.</string>
 	<string key="Dungeon_ArcaneBarrierProtection">Arcane Protection</string>
 	<string key="Dungeon_ArcaneBarrierProtection_Description">A veil of protection around you that protects against arcane damage.</string>
 	<string key="Dungeon_AzothWaterCleanse">Cleansed</string>
@@ -1565,6 +1651,8 @@
 	<string key="Block_Broken_Description">You cannot block, dodge or sprint.</string>
 	<string key="Musket_DodgeReload_DisplayName">Tactical Reload Timer</string>
 	<string key="Musket_DodgeReload_Description">When this timer ends you can use Tactical Reload again.</string>
+	<string key="Musket_Deadeye_DisplayName">Deadeye</string>
+	<string key="Musket_Deadeye_Description">Shots apply bleed while this effect is active.</string>
 	<string key="MeteorShowerDamage_DisplayName">Meteor Shower</string>
 	<string key="MeteorShowerDamage_Description">You are taking periodic damage from a Meteor Shower.</string>
 	<string key="Doomfist_Exhaust_T5_Description" rel_version="Territory_Brimstone_Sands">Stamina regeneration reduced by {[Type_StatusEffectData.CorruptedLegion_Cyclops_ExhaustT5_Doomfist.StaminaRate * -100]}% for {[Type_StatusEffectData.CorruptedLegion_Cyclops_ExhaustT5_Doomfist.BaseDuration]} seconds.</string>
@@ -1586,9 +1674,15 @@
 	<string key="Status_NatureConditioning_Description" rel_version="Feature_Dungeon_Mutators">Nature damage taken is reduced while this effect is active.</string>
 	<string key="Status_VoidConditioning" rel_version="Feature_Dungeon_Mutators">Abyssal Conditioning.</string>
 	<string key="Status_VoidConditioning_Description" rel_version="Feature_Dungeon_Mutators">Void damage taken is reduced while this effect is active.</string>
+	<string key="Status_SlashConditioning">Slash Conditioning.</string>
+	<string key="Status_SlashConditioning_Description">Slash damage taken is reduced while this effect is active.</string>
+	<string key="Status_ThrustConditioning">Thrust Conditioning.</string>
+	<string key="Status_ThrustConditioning_Description">Thrust damage taken is reduced while this effect is active.</string>
+	<string key="Status_StrikeConditioning">Strike Conditioning.</string>
+	<string key="Status_StrikeConditioning_Description">Strike damage taken is reduced while this effect is active.</string>
 	<string key="AI_EvilKnight_Rally_DisplayName" rel_version="AI_Evil_Knights_P1">Varangian War Cry</string>
-	<string key="AI_Evil_Knight_Flamekeeper_Living_Bomb_Root_DisplayName" rel_version="Season_1_Perm">Explosive Flame Core</string>
-	<string key="AI_Evil_Knight_Flamekeeper_Living_Bomb_Root_Tooltip" rel_version="Season_1_Perm">You are imprisoned by an Explosive Flame Core and will die if your allies do not destroy it.</string>
+	<string key="AI_Evil_Knight_Flamekeeper_Living_Bomb_Root_DisplayName" rel_version="Season_1_Perm">Explosive Sulfur Core</string>
+	<string key="AI_Evil_Knight_Flamekeeper_Living_Bomb_Root_Tooltip" rel_version="Season_1_Perm">You are imprisoned by an Explosive Sulfur Core and will die if your allies do not destroy it.</string>
 	<string key="AI_Evil_Knight_Flamekeeper_Stop_Drop_And_Roll_DisplayName" rel_version="Season_1_Perm">Stop, Drop, and Roll</string>
 	<string key="AI_Evil_Knight_Flamekeeper_Stop_Drop_And_Roll_Tooltip" rel_version="Season_1_Perm">You lose 10% of your health and 10% of your stamina per second. This effect ends when your stamina reaches 0.</string>
 	<string key="AI_Evil_Knight_Flamekeeper_Combustion_DisplayName" rel_version="Season_1_Perm">Combustion</string>
@@ -1610,7 +1704,7 @@
 	<string key="Wispy_Wasp_Swarm_Tick_DisplayName">Bleeding</string>
 	<string key="Wispy_Wasp_Swarm_Tick_Tooltip">Bleeding for {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.TickRate]} seconds for {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.BaseDuration]} seconds.</string>
 	<string key="Blunderbuss_ChargeCooldown_Name" rel_version="Weapon_Blunderbuss">Double Down</string>
-	<string key="Blunderbuss_ChargeCooldown_Desc" rel_version="Weapon_Blunderbuss">Your next blunderbuss skill recharges quicker.</string>
+	<string key="Blunderbuss_ChargeCooldown_Desc" rel_version="Weapon_Blunderbuss">Your next blunderbuss skill has a shorter cooldown.</string>
 	<string key="Blunderbuss_ChargeCooldownOnCooldown_Desc" rel_version="Weapon_Blunderbuss">When this expires you can use your Double Down passive again.</string>
 	<string key="Blunderbuss_AbilityRamp_Name" rel_version="Weapon_Blunderbuss">On a Roll</string>
 	<string key="Blunderbuss_AbilityRamp_Desc" rel_version="Weapon_Blunderbuss">Your armor is increased by {[Type_StatusEffectData.Blunderbuss_AbilityRamp.PhysicalArmor * 100]}%. Stacks up to {[Type_StatusEffectData.Blunderbuss_AbilityRamp.StackMax]} times.</string>
@@ -1705,6 +1799,14 @@
 	<string key="MusicBuff_TerritoryStanding_Okay_Description" rel_version="Feature_MusicalPerformances">Territory Standing Gain increased by {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T2_Okay.TerritoryStandingMod * 100]}% for {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T2_Okay.BaseDuration / 60]} minutes.</string>
 	<string key="MusicBuff_TerritoryStanding_Bad_DisplayName" rel_version="Feature_MusicalPerformances">Territorial Triumph I</string>
 	<string key="MusicBuff_TerritoryStanding_Bad_Description" rel_version="Feature_MusicalPerformances">Territory Standing Gain increased by {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T1_Bad.TerritoryStandingMod * 100]}% for {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T1_Bad.BaseDuration / 60]} minutes.</string>
+	<string key="MusicBuff_GatheringXP_Amazing_DisplayName" rel_version="Feature_MusicalPerformances">Never Stop Learning IV</string>
+	<string key="MusicBuff_GatheringXP_Amazing_Description" rel_version="Feature_MusicalPerformances">Mining, Logging, Skinning and Harvesting XP Gain increased by {[Type_StatusEffectData.MusicBuff_GatheringXP_T4_Amazing.XPIncreasesTooltip * 100]}% for {[Type_StatusEffectData.MusicBuff_GatheringXP_T4_Amazing.BaseDuration / 60]} minutes.</string>
+	<string key="MusicBuff_GatheringXP_Great_DisplayName" rel_version="Feature_MusicalPerformances">Never Stop Learning III</string>
+	<string key="MusicBuff_GatheringXP_Great_Description" rel_version="Feature_MusicalPerformances">Mining, Logging, Skinning and Harvesting XP Gain increased by {[Type_StatusEffectData.MusicBuff_GatheringXP_T3_Good.XPIncreasesTooltip * 100]}% for {[Type_StatusEffectData.MusicBuff_GatheringXP_T3_Good.BaseDuration / 60]} minutes.</string>
+	<string key="MusicBuff_GatheringXP_Okay_DisplayName" rel_version="Feature_MusicalPerformances">Never Stop Learning II</string>
+	<string key="MusicBuff_GatheringXP_Okay_Description" rel_version="Feature_MusicalPerformances">Mining, Logging, Skinning and Harvesting XP Gain increased by {[Type_StatusEffectData.MusicBuff_GatheringXP_T2_Okay.XPIncreasesTooltip * 100]}% for {[Type_StatusEffectData.MusicBuff_GatheringXP_T2_Okay.BaseDuration / 60]} minutes.</string>
+	<string key="MusicBuff_GatheringXP_Bad_DisplayName" rel_version="Feature_MusicalPerformances">Never Stop Learning I</string>
+	<string key="MusicBuff_GatheringXP_Bad_Description" rel_version="Feature_MusicalPerformances">Mining, Logging, Skinning and Harvesting XP Gain increased by {[Type_StatusEffectData.MusicBuff_GatheringXP_T1_Bad.XPIncreasesTooltip * 100]}% for {[Type_StatusEffectData.MusicBuff_GatheringXP_T1_Bad.BaseDuration / 60]} minutes.</string>
 	<string key="PvPArena_GrandPotionRegen_DisplayName">Prime Health Regeneration</string>
 	<string key="PvPArena_GrandPotionRegen_Tooltip">Provides a significant amount of health and mana over time</string>
 	<string key="PvPArena_GrandPotionFocus_DisplayName">Prime Mana Regeneration</string>
@@ -1766,6 +1868,11 @@
 	<string key="Status_Sandworm_SelfWeaken_Desc" rel_version="Feature_Heartgems_Sandworm">Outgoing damage reduced by {[Type_StatusEffectData.Status_Rune_Sandworm_SelfWeaken.DMGStandard * -100]}% while active.</string>
 	<string key="Status_Sandworm_Uninterruptible_Name" rel_version="Feature_Heartgems_Sandworm">Uninterruptible</string>
 	<string key="Status_Sandworm_Uninterruptible_Desc" rel_version="Feature_Heartgems_Sandworm">Uninterruptible to staggers and knockdowns while active.</string>
+	<string key="Status_Rune_BeastMode_Greater_Buff_Desc" rel_version="Feature_Heartgems_BeastMode">Uninterruptible to staggers and knockdowns while active.</string>
+	<string key="Status_Rune_BeastMode_Survivor_Buff_Desc" rel_version="Feature_Heartgems_BeastMode">Armor increased by {[Type_StatusEffectData.Status_Rune_BeastMode_Survivor_Buff.PhysicalArmor * 100]}%.</string>
+	<string key="Status_Rune_BeastMode_Survivor_Debuff_Desc" rel_version="Feature_Heartgems_BeastMode">Outgoing damage reduced by {[Type_StatusEffectData.Status_Rune_BeastMode_Survivor_Debuff.DMGStandard * -100]}%.</string>
+	<string key="Status_Rune_BeastMode_Dominator_Buff_Desc" rel_version="Feature_Heartgems_BeastMode">Outgoing damage increased by {[Type_StatusEffectData.Status_Rune_BeastMode_Dominator_Buff.DMGStandard * 100]}%.</string>
+	<string key="Status_Rune_BeastMode_Dominator_Debuff_Desc" rel_version="Feature_Heartgems_BeastMode">Armor reduced by {[Type_StatusEffectData.Status_Rune_BeastMode_Dominator_Debuff.PhysicalArmor * -100]}%.</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Tracking_DisplayName">Judgement of the Gods</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Tracking_Tooltip">The gods of the Ennead are judging your heart.</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Damage_DisplayName">Verdict of the Gods</string>
@@ -1781,10 +1888,105 @@
 	<string key="WeaponCoatingEffect_T3_Aeternian_Description" rel_version="Season_1_Perm">PVE only: While this weapon is active deal more {[ConsumableItemDefinitions.CoatingAeternianT3.DMGVitalsCategory * 100]}% damage to Humans.</string>
 	<string key="WeaponCoatingEffect_T2_Aeternian_DisplayName" rel_version="Season_1_Perm">Common Human Weapon Coating</string>
 	<string key="WeaponCoatingEffect_T2_Aeternian_Description" rel_version="Season_1_Perm">PVE only: While this weapon is active deal more {[ConsumableItemDefinitions.CoatingAeternianT2.DMGVitalsCategory * 100]}% damage to Humans.</string>
+	<string key="AI_ExplosiveSprout_FireExplosion_DisplayName" rel_version="Territory_FirstLight">Burn</string>
+	<string key="AI_ExplosiveSprout_FireExplosion_Tooltip" rel_version="Territory_FirstLight">Deals {[Type_StatusEffectData.AI_ExplosiveSprout_FireExplosion.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_ExplosiveSprout_FireExplosion.TickRate]} seconds.</string>
+	<string key="AI_ExplosiveSprout_PoisonExplosion_DisplayName" rel_version="Territory_FirstLight">Poisoned</string>
+	<string key="AI_ExplosiveSprout_PoisonExplosion_Tooltip" rel_version="Territory_FirstLight">Deals {[Type_StatusEffectData.AI_ExplosiveSprout_PoisonExplosion.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.AI_ExplosiveSprout_PoisonExplosion.TickRate]} seconds.</string>
 	<string key="SpringtideBloom_SpringtideDram_MasterName">Springtide Dram</string>
 	<string key="SpringtideBloom_SpringtideCrumble_MasterName">Springtide Crumble</string>
 	<string key="SpringtideBloom_SpringtideWafer_MasterName">Springtide Wafer</string>
-	<string key="AI_MummifiedCorpse_Bleed_Tooltip">Bleeding for {[Type_StatusEffectData.AI_MummifiedCorpse_Bleed.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_MummifiedCorpse_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_MummifiedCorpse_Bleed.TickRate]} seconds for {[Type_StatusEffectData.AI_MummifiedCorpse_Bleed.BaseDuration]} seconds.</string>
-	<string key="AI_GhastlyHatchet_ReflexCheck_Bleed_Tooltip">A small X-shaped wound. Bleeding for {[Type_StatusEffectData.AI_GhastlyHatchet_ReflexCheck_Bleed.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_GhastlyHatchet_ReflexCheck_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_GhastlyHatchet_ReflexCheck_Bleed.TickRate]} seconds for {[Type_StatusEffectData.AI_GhastlyHatchet_ReflexCheck_Bleed.BaseDuration]} seconds.</string>
+	<string key="AI_Medusa_Gaze_DisplayName" rel_version="Territory_FirstLight">Gorgons Gaze</string>
+	<string key="AI_Medusa_Gaze_Tooltip" rel_version="Territory_FirstLight">Slows {[Type_StatusEffectData.AI_Medusa_Gaze.MoveSpeedMod * -100]}% move speed for {[Type_StatusEffectData.AI_Medusa_Gaze.BaseDuration]} seconds.</string>
+	<string key="AI_Medusa_Petrification_DisplayName" rel_version="Territory_FirstLight">Petrifying</string>
+	<string key="AI_Medusa_Petrification_Tooltip" rel_version="Territory_FirstLight">Damages {[Type_StatusEffectData.AI_Medusa_Petrification.HealthModifierPercent * -100]}% health and slows {[Type_StatusEffectData.AI_Medusa_Petrification.MoveSpeedMod * -100]}% move speed for {[Type_StatusEffectData.AI_Medusa_Petrification.BaseDuration]} seconds.</string>
+	<string key="AI_Medusa_Poison_DisplayName" rel_version="Territory_FirstLight">Envenomed</string>
+	<string key="AI_Medusa_Poison_Tooltip" rel_version="Territory_FirstLight">Damages {[Type_StatusEffectData.AI_Medusa_Poison.HealthModifierPercent * -100]}% health.</string>
+	<string key="AI_Medusa_Poison_Pool_DisplayName" rel_version="Territory_FirstLight">Medusa's Poison</string>
+	<string key="AI_Medusa_Poison_Pool_Tooltip" rel_version="Territory_FirstLight">Damages {[Type_StatusEffectData.AI_Medusa_Poison_Pool.HealthModifierPercent * -100]}% health.</string>
+	<string key="SporeSickness_Description" rel_version="Territory_FirstLight_Spores">You are Spore Drenched! You feel a strange, tingly effect from inhaling the spores. Maybe there's a potion you should drink for this.</string>
+	<string key="SporeSickness_MasterName" rel_version="Territory_FirstLight_Spores">Spore Drenched</string>
+	<string key="SE_ArtemisBoonPotionD1_T1_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_ArtemisBoonPotionD1_T1.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," deal 12% more damage and gain increased loot from creatures in the Elysian Wilds for {[Type_StatusEffectData.SE_ArtemisBoonSecondaryD1_T1.BaseDuration]} seconds.</string>
+	<string key="SE_ArtemisBoonPotionD1_T1_MasterName" rel_version="Territory_FirstLight_Spores">Weak Boon of Artemis Passive Effect</string>
+	<string key="SE_ArtemisBoonPotionD1_T2_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_ArtemisBoonPotionD1_T2.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," deal 15% more damage and gain increased loot from creatures in the Elysian Wilds for {[Type_StatusEffectData.SE_ArtemisBoonSecondaryD1_T2.BaseDuration]} seconds.</string>
+	<string key="SE_ArtemisBoonPotionD1_T2_MasterName" rel_version="Territory_FirstLight_Spores">Common Boon of Artemis Passive Effect</string>
+	<string key="SE_ArtemisBoonPotionD2_T2_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_ArtemisBoonPotionD2_T2.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," deal 15% more damage and gain increased loot from creatures in the Elysian Wilds for {[Type_StatusEffectData.SE_ArtemisBoonSecondaryD2_T2.BaseDuration]} seconds.</string>
+	<string key="SE_ArtemisBoonPotionD2_T2_MasterName" rel_version="Territory_FirstLight_Spores">Common Boon of Artemis Passive Effect</string>
+	<string key="SE_ArtemisBoonPotionD2_T3_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_ArtemisBoonPotionD2_T3.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," deal 18% more damage and gain increased loot from creatures in the Elysian Wilds for {[Type_StatusEffectData.SE_ArtemisBoonSecondaryD2_T3.BaseDuration]} seconds.</string>
+	<string key="SE_ArtemisBoonPotionD2_T3_MasterName" rel_version="Territory_FirstLight_Spores">Strong Boon of Artemis Passive Effect</string>
+	<string key="SE_ArtemisBoonPotionD3_T3_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_ArtemisBoonPotionD3_T3.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," deal 18% more damage and gain increased loot from creatures in the Elysian Wilds for {[Type_StatusEffectData.SE_ArtemisBoonSecondaryD3_T3.BaseDuration]} seconds.</string>
+	<string key="SE_ArtemisBoonPotionD3_T3_MasterName" rel_version="Territory_FirstLight_Spores">Strong Boon of Artemis Passive Effect</string>
+	<string key="SE_ArtemisBoonPotionD3_T4_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_ArtemisBoonPotionD3_T4.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," deal 22% more damage and gain increased loot from creatures in the Elysian Wilds for {[Type_StatusEffectData.SE_ArtemisBoonSecondaryD3_T4.BaseDuration]} seconds.</string>
+	<string key="SE_ArtemisBoonPotionD3_T4_MasterName" rel_version="Territory_FirstLight_Spores">Powerful Boon of Artemis Passive Effect</string>
+	<string key="SE_ArtemisBoonPotionD4_T4_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_ArtemisBoonPotionD4_T4.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," deal 22% more damage and gain increased loot from creatures in the Elysian Wilds for {[Type_StatusEffectData.SE_ArtemisBoonSecondaryD4_T4.BaseDuration]} seconds.</string>
+	<string key="SE_ArtemisBoonPotionD4_T4_MasterName" rel_version="Territory_FirstLight_Spores">Powerful Boon of Artemis Passive Effect</string>
+	<string key="SE_ArtemisBoonPotionD5_T5_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_ArtemisBoonPotionD5_T5.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," deal 27% more damage and gain increased loot from creatures in the Elysian Wilds for {[Type_StatusEffectData.SE_ArtemisBoonSecondaryD5_T5.BaseDuration]} seconds.</string>
+	<string key="SE_ArtemisBoonPotionD5_T5_MasterName" rel_version="Territory_FirstLight_Spores">Infused Boon of Artemis Passive Effect</string>
+	<string key="SE_DemeterBoonPotionD1_T1_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_DemeterBoonPotionD1_T1.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," take 12% less damage and gain increased resources when Harvesting Sporeplants for {[Type_StatusEffectData.SE_DemeterBoonSecondaryD1_T1.BaseDuration]} seconds.</string>
+	<string key="SE_DemeterBoonPotionD1_T1_MasterName" rel_version="Territory_FirstLight_Spores">Weak Boon of Demeter Passive Effect</string>
+	<string key="SE_DemeterBoonPotionD1_T2_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_DemeterBoonPotionD1_T2.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," take 15% less damage and gain increased resources when Harvesting Sporeplants for {[Type_StatusEffectData.SE_DemeterBoonSecondaryD1_T2.BaseDuration]} seconds.</string>
+	<string key="SE_DemeterBoonPotionD1_T2_MasterName" rel_version="Territory_FirstLight_Spores">Common Boon of Demeter Passive Effect</string>
+	<string key="SE_DemeterBoonPotionD2_T2_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_DemeterBoonPotionD2_T2.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," take 15% less damage and gain increased resources when Harvesting Sporeplants for {[Type_StatusEffectData.SE_DemeterBoonSecondaryD2_T2.BaseDuration]} seconds.</string>
+	<string key="SE_DemeterBoonPotionD2_T2_MasterName" rel_version="Territory_FirstLight_Spores">Common Boon of Demeter Passive Effect</string>
+	<string key="SE_DemeterBoonPotionD2_T3_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_DemeterBoonPotionD2_T3.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," take 18% less damage and gain increased resources when Harvesting Sporeplants for {[Type_StatusEffectData.SE_DemeterBoonSecondaryD2_T3.BaseDuration]} seconds.</string>
+	<string key="SE_DemeterBoonPotionD2_T3_MasterName" rel_version="Territory_FirstLight_Spores">Strong Boon of Demeter Passive Effect</string>
+	<string key="SE_DemeterBoonPotionD3_T3_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_DemeterBoonPotionD3_T3.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," take 18% less damage and gain increased resources when Harvesting Sporeplants for {[Type_StatusEffectData.SE_DemeterBoonSecondaryD3_T3.BaseDuration]} seconds.</string>
+	<string key="SE_DemeterBoonPotionD3_T3_MasterName" rel_version="Territory_FirstLight_Spores">Strong Boon of Demeter Passive Effect</string>
+	<string key="SE_DemeterBoonPotionD3_T4_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_DemeterBoonPotionD3_T4.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," take 22% less damage and gain increased resources when Harvesting Sporeplants for {[Type_StatusEffectData.SE_DemeterBoonSecondaryD3_T4.BaseDuration]} seconds.</string>
+	<string key="SE_DemeterBoonPotionD3_T4_MasterName" rel_version="Territory_FirstLight_Spores">Powerful Boon of Demeter Passive Effect</string>
+	<string key="SE_DemeterBoonPotionD4_T4_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_DemeterBoonPotionD4_T4.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," take 22% less damage and gain increased resources when Harvesting Sporeplants for {[Type_StatusEffectData.SE_DemeterBoonSecondaryD4_T4.BaseDuration]} seconds.</string>
+	<string key="SE_DemeterBoonPotionD4_T4_MasterName" rel_version="Territory_FirstLight_Spores">Powerful Boon of Demeter Passive Effect</string>
+	<string key="SE_DemeterBoonPotionD5_T5_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_DemeterBoonPotionD5_T5.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," take 27% less damage and gain increased resources when Harvesting Sporeplants for {[Type_StatusEffectData.SE_DemeterBoonSecondaryD5_T5.BaseDuration]} seconds.</string>
+	<string key="SE_DemeterBoonPotionD5_T5_MasterName" rel_version="Territory_FirstLight_Spores">Infused Boon of Demeter Passive Effect</string>
+	<string key="SE_ArtemisBoonSecondaryD1_T1_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Deal more damage and receive unique loot from creatures in the Elysian Wilds.</string>
+	<string key="SE_ArtemisBoonSecondaryD1_T1_MasterName" rel_version="Territory_FirstLight_Spores">Weak Boon of Artemis Effect.</string>
+	<string key="SE_ArtemisBoonSecondaryD1_T2_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Deal more damage and receive unique loot from creatures in the Elysian Wilds.</string>
+	<string key="SE_ArtemisBoonSecondaryD1_T2_MasterName" rel_version="Territory_FirstLight_Spores">Common Boon of Artemis Effect.</string>
+	<string key="SE_ArtemisBoonSecondaryD2_T2_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Deal more damage and receive unique loot from creatures in the Elysian Wilds.</string>
+	<string key="SE_ArtemisBoonSecondaryD2_T2_MasterName" rel_version="Territory_FirstLight_Spores">Common Boon of Artemis Effect.</string>
+	<string key="SE_ArtemisBoonSecondaryD2_T3_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Deal more damage and receive unique loot from creatures in the Elysian Wilds.</string>
+	<string key="SE_ArtemisBoonSecondaryD2_T3_MasterName" rel_version="Territory_FirstLight_Spores">Strong Boon of Artemis Effect.</string>
+	<string key="SE_ArtemisBoonSecondaryD3_T3_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Deal more damage and receive unique loot from creatures in the Elysian Wilds.</string>
+	<string key="SE_ArtemisBoonSecondaryD3_T3_MasterName" rel_version="Territory_FirstLight_Spores">Strong Boon of Artemis Effect.</string>
+	<string key="SE_ArtemisBoonSecondaryD3_T4_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Deal more damage and receive unique loot from creatures in the Elysian Wilds.</string>
+	<string key="SE_ArtemisBoonSecondaryD3_T4_MasterName" rel_version="Territory_FirstLight_Spores">Powerful Boon of Artemis Effect.</string>
+	<string key="SE_ArtemisBoonSecondaryD4_T4_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Deal more damage and receive unique loot from creatures in the Elysian Wilds.</string>
+	<string key="SE_ArtemisBoonSecondaryD4_T4_MasterName" rel_version="Territory_FirstLight_Spores">Powerful Boon of Artemis Effect.</string>
+	<string key="SE_ArtemisBoonSecondaryD5_T5_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Deal more damage and receive unique loot from creatures in the Elysian Wilds.</string>
+	<string key="SE_ArtemisBoonSecondaryD5_T5_MasterName" rel_version="Territory_FirstLight_Spores">Infused Boon of Artemis Effect.</string>
+	<string key="SE_DemeterBoonSecondaryD1_T1_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Take less damage from all sources and receive increased resources from Sporeplants.</string>
+	<string key="SE_DemeterBoonSecondaryD1_T1_MasterName" rel_version="Territory_FirstLight_Spores">Weak Boon of Demeter Effect.</string>
+	<string key="SE_DemeterBoonSecondaryD1_T2_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Take less damage from all sources and receive increased resources from Sporeplants.</string>
+	<string key="SE_DemeterBoonSecondaryD1_T2_MasterName" rel_version="Territory_FirstLight_Spores">Common Boon of Demeter Effect.</string>
+	<string key="SE_DemeterBoonSecondaryD2_T2_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Take less damage from all sources and receive increased resources from Sporeplants.</string>
+	<string key="SE_DemeterBoonSecondaryD2_T2_MasterName" rel_version="Territory_FirstLight_Spores">Common Boon of Demeter Effect.</string>
+	<string key="SE_DemeterBoonSecondaryD2_T3_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Take less damage from all sources and receive increased resources from Sporeplants.</string>
+	<string key="SE_DemeterBoonSecondaryD2_T3_MasterName" rel_version="Territory_FirstLight_Spores">Strong Boon of Demeter Effect.</string>
+	<string key="SE_DemeterBoonSecondaryD3_T3_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Take less damage from all sources and receive increased resources from Sporeplants.</string>
+	<string key="SE_DemeterBoonSecondaryD3_T3_MasterName" rel_version="Territory_FirstLight_Spores">Strong Boon of Demeter Effect.</string>
+	<string key="SE_DemeterBoonSecondaryD3_T4_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Take less damage from all sources and receive increased resources from Sporeplants.</string>
+	<string key="SE_DemeterBoonSecondaryD3_T4_MasterName" rel_version="Territory_FirstLight_Spores">Powerful Boon of Demeter Effect.</string>
+	<string key="SE_DemeterBoonSecondaryD4_T4_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Take less damage from all sources and receive increased resources from Sporeplants.</string>
+	<string key="SE_DemeterBoonSecondaryD4_T4_MasterName" rel_version="Territory_FirstLight_Spores">Powerful Boon of Demeter Effect.</string>
+	<string key="SE_DemeterBoonSecondaryD5_T5_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Take less damage from all sources and receive increased resources from Sporeplants.</string>
+	<string key="SE_DemeterBoonSecondaryD5_T5_MasterName" rel_version="Territory_FirstLight_Spores">Infused Boon of Demeter Effect.</string>
+	<string key="FirstLightLock_DoT_EffectName_For_DeathRecap" rel_version="Territory_FirstLight">Toxic Spores</string>
+	<string key="AI_CorruptedLeviathan_IchorBurn_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Ichor Burn</string>
+	<string key="AI_CorruptedLeviathan_IchorBurn_Tooltip" rel_version="Quest_MSQ2_GreatCleave">Take {[Type_StatusEffectData.AI_CorruptedLeviathan_IchorBurn.Afflictions]} points of corruption every second for {[Type_StatusEffectData.AI_CorruptedLeviathan_IchorBurn.BaseDuration]} seconds.</string>
+	<string key="AI_CorruptedLeviathan_IchorCoating_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Ichor Coating</string>
+	<string key="AI_CorruptedLeviathan_IchorCoating_Tooltip" rel_version="Quest_MSQ2_GreatCleave">Take {[Type_StatusEffectData.AI_CorruptedLeviathan_IchorCoating.WKNCorruption * 100]}% more corruption damage for {[Type_StatusEffectData.AI_CorruptedLeviathan_IchorCoating.BaseDuration]} seconds.</string>
+	<string key="PotionTurkeyLuckT5Status_MasterName" rel_version="Event_TurkeyTerror2023_Perm">Turkey Luck</string>
+	<string key="PotionTurkeyLuckT5Status_Description" rel_version="Event_TurkeyTerror2023_Perm">The blessing of the Turkey is upon you. You have better odds for rewards when slaying Turkulon.</string>
+	<string key="Mammoth_Chain_Lightning_DisplayName" rel_version="Territory_FirstLight">Electrocuted</string>
+	<string key="Mammoth_Chain_Lightning_Tooltip" rel_version="Territory_FirstLight">Shocks 1 ally within range every second for {[Type_StatusEffectData.Mammoth_Lightning_Empowered_Debuff_Tick.BaseDuration]} seconds.</string>
+	<string key="SE_MeshChange_Adiana_Description" rel_version="Event_Halloween2023_Perm">Visit Treat Baskets while wearing this costume for candy.</string>
+	<string key="SE_MeshChange_Adiana_MasterName" rel_version="Event_Halloween2023_Perm">Adiana Costume</string>
+	<string key="SE_MeshChange_Thorpe_Description" rel_version="Event_Halloween2023_Perm">Visit Treat Baskets while wearing this costume for candy.</string>
+	<string key="SE_MeshChange_Thorpe_MasterName" rel_version="Event_Halloween2023_Perm">Thorpe Costume</string>
+	<string key="SE_MeshChange_Anubian_Horus_Description" rel_version="Event_Halloween2023_Perm">Visit Treat Baskets while wearing this costume for candy.</string>
+	<string key="SE_MeshChange_Anubian_Horus_MasterName" rel_version="Event_Halloween2023_Perm">Anubian Horus Costume</string>
+	<string key="SE_MeshChange_Lost_Monarch_Description" rel_version="Event_Halloween2023_Perm">Visit Treat Baskets while wearing this costume for candy.</string>
+	<string key="SE_MeshChange_Lost_Monarch_MasterName" rel_version="Event_Halloween2023_Perm">Lost Monarch Costume</string>
+	<string key="Mammoth_Boss_IceStorm_Slow_Tooltip" rel_version="Territory_FirstLight">Movement speed reduced by {[Type_StatusEffectData.Mammoth_Boss_IceStorm_Slow.SprintSpeedMod * -100]}% per stack.</string>
+	<string key="Mammoth_Boss_IceStorm_Slow_DisplayName" rel_version="Territory_FirstLight">Slowed</string>
 </resources>
 

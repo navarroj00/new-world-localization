@@ -54,7 +54,7 @@
 	<string key="tip_overworld_combat_duels02-title">Duels</string>
 	<string key="tip_overworld_combat_duels02-content">Ammo is not consumed during Duels.</string>
 	<string key="tip_overworld_combat_pvpFlagging01-title">PvP Flagging</string>
-	<string key="tip_overworld_combat_pvpFlagging01-content">You can turn your PvP flag on and off inside of Settlements, Outposts, Watchtowers, and at Spirit Shrines.</string>
+	<string key="tip_overworld_combat_pvpFlagging01-content">You can turn your PvP flag on and off at Sanctuaries including Settlements, Outposts, Watchtowers, and at Spirit Shrines.</string>
 	<string key="tip_overworld_combat_pvpFlagging02-title">PvP Flagging</string>
 	<string key="tip_overworld_combat_pvpFlagging02-content">Before leaving a Territory, be sure to double-check if you're Flagged for PVP!</string>
 	<string key="tip_overworld_combat_npcNameplates01-title">Enemy Nameplates</string>
@@ -244,7 +244,7 @@
 	<string key="tip_overworld_gameModes_arenaKeys01-title">Trials</string>
 	<string key="tip_overworld_gameModes_arenaKeys01-content">Have you found one yet? A Trial is a rare event where you and your friends fight a deadly, legendary creature.</string>
 	<string key="tip_overworld_gameModes_outpostRush01-title">Outpost Rush</string>
-	<string key="tip_overworld_gameModes_outpostRush01-content">Seek out Scott Newman in Cleave's Point Outpost or talk to your faction representative to compete in this 20 vs 20 match.</string>
+	<string key="tip_overworld_gameModes_outpostRush01-content">You can queue for Outpost Rush at your Faction Representative or in the Modes menu.</string>
 	<string key="tip_overworld_gameModes_war01-title">War</string>
 	<string key="tip_overworld_gameModes_war01-content">[Placeholder]</string>
 	<string key="tip_overworld_gameModes_invasion01-title">Invasion</string>
@@ -332,7 +332,7 @@
 	<string key="tip_overworld_quests_quests06-title">Faction Mission Bonuses</string>
 	<string key="tip_overworld_quests_quests06-content">Every day you will receive Bonus Rewards for the first 3 Faction Missions you complete!</string>
 	<string key="tip_overworld_quests_quests07-title">Faction Renown</string>
-	<string key="tip_overworld_quests_quests07-content">Each Faction has 5 Ranks to climb. Earn Renown from Faction Missions and complete the trial assigned to you to earn glory for your Faction!</string>
+	<string key="tip_overworld_quests_quests07-content">Each Faction has 6 Ranks to climb. Earn Renown from Faction Missions and complete the trial assigned to you to earn glory for your Faction!</string>
 	<string key="tip_overworld_quests_quests08-title">Camp Levels</string>
 	<string key="tip_overworld_quests_quests08-content">Camp Levels can be increased by completing specific Quests. These can be found in the Leveling Rewards page.</string>
 	<string key="tip_overworld_social_p2pTrading01-title">Trading</string>

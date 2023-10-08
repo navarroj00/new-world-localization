@@ -1,2 +1,17 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="9401_Hint_Prompt" speaker="UI - player prompt" rel_version="Feature_Mounts">"Can you explain riding?"</string>
+	<string key="9401_Hint_Response" speaker="JochiKhan" name="Jochi Khan" gender="Male" VO_Status="Do Not Record" rel_version="Feature_Mounts">You can summon your mount with {$player.mount_summon$}. Walk with {$movement.walk$}, sprint with {$player.mount_dash$}, and jump with {$movement.jump$}. Sprinting and jumping cost mount stamina. Falling from great heights and being hit by enemies reduces its stamina. You can replenish stamina by feeding your mount. If its stamina gets too low you will be dismounted.</string>
+	<string key="9402_Hint_Prompt" speaker="UI - player prompt" rel_version="Feature_Mounts">"Why did you build this stable?"</string>
+	<string key="9402_Hint_Response" speaker="FrancoisDeLaRama" name="Francois De La Rama" gender="Male" VO_Status="Needs Recording" rel_version="Feature_Mounts">My former paramour and I used our knowledge of the Ancient light bridges to move goods for very private clientele.\n\nBut it was too much looking over my shoulder. I organize horse races now. At least when I’m riding I know who’s chasing me.</string>
+	<string key="9403_Hint_Prompt" speaker="UI - player prompt" rel_version="Feature_Mounts">"What is it like to train Dire Wolves "</string>
+	<string key="9403_Hint_Response" speaker="ValenciaIznov" name="Valencia Iznov" gender="Female" VO_Status="Needs Recording" rel_version="Feature_Mounts">Wolves are easier than humans. They do not feel greed or pride or envy. Simply show courage, show yourself to be the natural leader of the pack, and they follow.</string>
+	<string key="9404_Hint_Prompt" speaker="UI - player prompt" rel_version="Feature_Mounts">"Do you know the best route?"</string>
+	<string key="9404_Hint_Response" speaker="SatiahRamotep" name="Satiah Ramotep" gender="Female" VO_Status="Needs Recording" rel_version="Feature_Mounts">Oh, I can't take sides, hero. That wouldn't be sporting. But you seem capable enough. But the fastest riders have knowledge of hidden glyphs and the Ancient bridges.</string>
+	<string key="9405_Hint_Prompt" speaker="UI - player prompt" rel_version="Feature_Mounts">"Do you trust humans?"</string>
+	<string key="9405_Hint_Response" speaker="BeastLordZinumun" name="Zinnumun" gender="Female" VO_Status="Needs Recording" rel_version="Feature_Mounts">Your kind are not like us. Mother Earth has not given you a natural instinct to follow. Some, like yourself, are as constant as the tides. Others are capricious, like a leaf on the wind. I trust who I can and am wary of others.</string>
+	<string key="9405_Kaluru_00_Dialogue" speaker="Kaluru" name="Kaluru" gender="Male" VO_Status="Needs Recording" rel_version="Feature_Mounts">All this time, I believed humans understood only dominance. But now I owe every free breath I take to you. Your heart beats with a lion's pride. I will let all my kind know, you are friend to the wilds.</string>
+	<string key="9405_FirstLion_Prompt" speaker="UI - player prompt" rel_version="Feature_Mounts">"What was the island like before mankind arrived?"</string>
+	<string key="9405_Kaluru_01_Dialogue" speaker="Kaluru" name="Kaluru" gender="Male" VO_Status="Needs Recording" rel_version="Feature_Mounts">Before your kind arrived in this land, we lions were known as the king of beasts. All creatures, great and small, bowed to our majesty.</string>
+	<string key="9405_Kaluru_02_Dialogue" rel_version="Feature_Mounts">This lion looks severely malnnurished. You can hear him whimpering.</string>
+</resources>
 

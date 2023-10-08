@@ -1,2 +1,25 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="99D_Yonas" gender="M" rel_version="Quest_MSQ2_GreatCleave">Yonas Alazar</string>
+	<string key="99D_Yonas_title" rel_version="Quest_MSQ2_GreatCleave">Soulwarden</string>
+	<string key="99D_Galahad" gender="M" rel_version="Quest_MSQ2_GreatCleave">Ser Galahad</string>
+	<string key="99D_Galahad_title" rel_version="Quest_MSQ2_GreatCleave">Knight</string>
+	<string key="99D_Yash" gender="M" rel_version="Quest_MSQ2_GreatCleave">Yash Zafar</string>
+	<string key="99D_Yash_title" rel_version="Quest_MSQ2_GreatCleave">Soulwarden Recruit</string>
+	<string key="99D_Grace" gender="F" rel_version="Quest_MSQ2_GreatCleave">Grace O'Malley</string>
+	<string key="99D_Grace_title" rel_version="Quest_MSQ2_GreatCleave">Pirate</string>
+	<string key="99D_JuditheOwens" gender="F" rel_version="Quest_MSQ2_GreatCleave">Judithe Owens</string>
+	<string key="99D_JuditheOwens_title" rel_version="Quest_MSQ2_GreatCleave">Soulwarden</string>
+	<string key="99D_PhanDacKien" gender="M" rel_version="Quest_MSQ2_GreatCleave">Phan Dac-Kien</string>
+	<string key="99D_PhanDacKien_title" rel_version="Quest_MSQ2_GreatCleave">Soulwarden</string>
+	<string key="99D_ChangZhen" gender="F" rel_version="Quest_MSQ2_GreatCleave">Chang Zhen</string>
+	<string key="99D_ChangZhen_title" rel_version="Quest_MSQ2_GreatCleave">Soulwarden</string>
+	<string key="99D_JamesSexton" gender="M" rel_version="Quest_MSQ2_GreatCleave">James Sexton</string>
+	<string key="99D_JamesSexton_title" rel_version="Quest_MSQ2_GreatCleave">Soulwarden</string>
+	<string key="99D_PedroCarrillo" gender="M" rel_version="Quest_MSQ2_GreatCleave">Pedro Carrillo</string>
+	<string key="99D_PedroCarrillo_title" rel_version="Quest_MSQ2_GreatCleave">Soulwarden</string>
+	<string key="99D_OfusaMatsui" gender="F" rel_version="Quest_MSQ2_GreatCleave">O-fusa Matsui</string>
+	<string key="99D_OfusaMatsui_title" rel_version="Quest_MSQ2_GreatCleave">Soulwarden</string>
+	<string key="99D_JacquetDavy" gender="F" rel_version="Quest_MSQ2_GreatCleave">Jacquet Davy</string>
+	<string key="99D_JacquetDavy_title" rel_version="Quest_MSQ2_GreatCleave">Soulwarden</string>
+</resources>
 

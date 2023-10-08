@@ -125,6 +125,18 @@
 	<string key="objective_ordealscorpio_attack_wave_01_desc" rel_version="Territory_Brimstone_Sands">Scorpio Supernal</string>
 	<string key="objective_ordealscorpio_attack_wave_02_title" rel_version="Territory_Brimstone_Sands">Explore the Cavern</string>
 	<string key="objective_ordealscorpio_attack_wave_02_desc" rel_version="Territory_Brimstone_Sands">Time Remaining:</string>
+	<string key="ui_ordealisland_attack" rel_version="Territory_FirstLight">Isle of Zurvān</string>
+	<string key="ui_ordealisland_attack_description" rel_version="Territory_FirstLight">Elite Overlords</string>
+	<string key="objective_ordealisland_attack_wave_00_title" rel_version="Territory_FirstLight">Ascend the Mountain:</string>
+	<string key="objective_ordealisland_attack_wave_00_desc" rel_version="Territory_FirstLight">Cross the First Gate</string>
+	<string key="objective_ordealisland_attack_wave_01_title" rel_version="Territory_FirstLight">Ascend the Mountain:</string>
+	<string key="objective_ordealisland_attack_wave_01_desc" rel_version="Territory_FirstLight">Cross the Second Gate</string>
+	<string key="objective_ordealisland_attack_wave_02_title" rel_version="Territory_FirstLight">Awaken the Overlords:</string>
+	<string key="objective_ordealisland_attack_wave_02_desc" rel_version="Territory_FirstLight">Cross the Final Gate</string>
+	<string key="objective_ordealisland_attack_wave_03_title" rel_version="Territory_FirstLight">Defeat the Overlords:</string>
+	<string key="objective_ordealisland_attack_wave_03_desc" rel_version="Territory_FirstLight">The Zurvān Twins: {remainingCount}/2</string>
+	<string key="objective_ordealisland_attack_wave_04_title" rel_version="Territory_FirstLight">Explore the island. The Lion Lords shall return.</string>
+	<string key="objective_ordealisland_attack_wave_04_desc" rel_version="Territory_FirstLight">Time Remaining:</string>
 	<string key="objective_msq_beach_chaplain">Eye of the Storm</string>
 	<string key="objective_msq_beach_chaplain_description">Challenge and defeat the Tempest Priest in the corrupted cavern to dispel the storm.</string>
 	<string key="objective_msq_beach_chaplain_task_defeat_title">Dispel the Corruption Storm</string>
@@ -160,22 +172,6 @@
 	<string key="ui_turkeyterror_worldboss_Turkulon_description">Turkulon has returned to avenge their fallen brethren</string>
 	<string key="ui_worldboss_defeated" rel_version="Event_February_Perm">{objective} Defeated</string>
 	<string key="ui_worldboss_daily_reset" rel_version="Event_February_Perm">Daily Reward Resets At {time}</string>
-	<string key="ui_worldboss_season_02_event" rel_version="Season_2_Event">Siege of Sulfur</string>
-	<string key="ui_worldboss_season_02_event_description" rel_version="Season_2_Event">Help an injured Dunewalker defend Royal Eggs from attacking Sulfur Elementals.\n\nContains &lt;font color="#ffe940"&gt;3&lt;/font&gt; Daily Rewards. Resets at {time}</string>
-	<string key="objective_worldboss_task_season_02_event_wave0_title" rel_version="Season_2_Event">Lend your aid to the Dunewalker</string>
-	<string key="objective_worldboss_task_season_02_event_wave0_desc" rel_version="Season_2_Event">Relieve the mage to defend the Royal Eggs</string>
-	<string key="objective_worldboss_task_season_02_event_wave1_title" rel_version="Season_2_Event">Wave 1/6</string>
-	<string key="objective_worldboss_task_season_02_event_wave1_desc" rel_version="Season_2_Event">Defeat the attacking Sulfur Elementals</string>
-	<string key="objective_worldboss_task_season_02_event_wave1a_desc" rel_version="Season_2_Event">Sulfur Elementals Remaining: {remainingCount}</string>
-	<string key="objective_worldboss_task_season_02_event_wave2_desc" rel_version="Season_2_Event">Wave 2/6</string>
-	<string key="objective_worldboss_task_season_02_event_wave3_desc" rel_version="Season_2_Event">Wave 3/6</string>
-	<string key="objective_worldboss_task_season_02_event_wave4_desc" rel_version="Season_2_Event">Wave 4/6</string>
-	<string key="objective_worldboss_task_season_02_event_wave5_desc" rel_version="Season_2_Event">Wave 5/6</string>
-	<string key="objective_worldboss_task_season_02_event_wave6_desc" rel_version="Season_2_Event">Wave 6/6</string>
-	<string key="objective_worldboss_task_season_02_event_wave_miniboss_title" rel_version="Season_2_Event">Defeat the Sulfur Giants</string>
-	<string key="objective_worldboss_task_season_02_event_wave_miniboss_desc" rel_version="Season_2_Event">Sulfur Giants Remaining: {remainingCount}</string>
-	<string key="objective_worldboss_task_season_02_event_wave_boss_title" rel_version="Season_2_Event">Defend the Royal Eggs</string>
-	<string key="objective_worldboss_task_season_02_event_wave_boss_desc" rel_version="Season_2_Event">Slay the Remnant of the Unmaker</string>
 	<string key="objective_Season_02_PoolsOfOrcus_title_wave1" rel_version="Quest_MSQ_Update_4">Pools of Orcus</string>
 	<string key="objective_Season_02_PoolsOfOrcus_encounter1" rel_version="Quest_MSQ_Update_4">Stop the Geysers: {remainingCount}/3</string>
 	<string key="objective_Season_02_DancingPillars_title_wave1" rel_version="Quest_MSQ_Update_4">Dancing Pillars: Stage 1/5</string>
@@ -185,5 +181,32 @@
 	<string key="objective_Season_02_DancingPillars_title_wave5" rel_version="Quest_MSQ_Update_4">Dancing Pillars: Stage 5/5</string>
 	<string key="objective_Season_02_DancingPillars_encounter1" rel_version="Quest_MSQ_Update_4">Reach the Marker</string>
 	<string key="ui_poi_spiritshrine_20430" rel_version="Season_2_Perm">Shrine of Pillars</string>
+	<string key="ui_motherwell_attack" rel_version="Quest_MSQ2_Edengrove">The Motherwell</string>
+	<string key="ui_motherwell_attack_description" rel_version="Quest_MSQ2_Edengrove">Soul Trial</string>
+	<string key="objective_motherwell_attack_wave_01_title" rel_version="Quest_MSQ2_Edengrove">Defeat Actaeon:</string>
+	<string key="objective_motherwell_attack_wave_01_desc" rel_version="Quest_MSQ2_Edengrove">{remainingCount}/1</string>
+	<string key="objective_motherwell_attack_wave_02_title" rel_version="Quest_MSQ2_Edengrove">Defend the Barrier:</string>
+	<string key="objective_motherwell_attack_wave_02_desc" rel_version="Quest_MSQ2_Edengrove">Time Remaining:</string>
+	<string key="ui_fl_worldboss_beast_01_Obj_Enc_Title" rel_version="Territory_FirstLight">Kol Ciron</string>
+	<string key="ui_fl_worldboss_beast_02_Obj_Enc_Title" rel_version="Territory_FirstLight">Bulrok the Burning</string>
+	<string key="ui_fl_worldboss_beast_03_Obj_Enc_Title" rel_version="Territory_FirstLight">Kondak the Frigid</string>
+	<string key="ui_fl_worldboss_beast_04_Obj_Enc_Title" rel_version="Territory_FirstLight">Mawthor, the Thundering</string>
+	<string key="ui_fl_worldboss_beast_05_Obj_Enc_Title" rel_version="Territory_FirstLight">Mosantar, the Earth Eater</string>
+	<string key="ui_fl_worldboss_beast_06_Obj_Enc_Title" rel_version="Territory_FirstLight">Zirash</string>
+	<string key="ui_fl_worldboss_beast_07_Obj_Enc_Title" rel_version="Territory_FirstLight">Kudzu</string>
+	<string key="ui_fl_worldboss_beast_01_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
+	<string key="ui_fl_worldboss_beast_02_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
+	<string key="ui_fl_worldboss_beast_03_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
+	<string key="ui_fl_worldboss_beast_04_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
+	<string key="ui_fl_worldboss_beast_05_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
+	<string key="ui_fl_worldboss_beast_06_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
+	<string key="ui_fl_worldboss_beast_07_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
+	<string key="objective_enc_darkness_Hunt_armored_dragon_wave_01_title" rel_version="Territory_FirstLight">Defeat Kol Ciron</string>
+	<string key="objective_enc_darkness_Hunt_Fire_Gorilla_wave_01_title" rel_version="Territory_FirstLight">Defeat Bulrok the Burning</string>
+	<string key="objective_enc_darkness_Hunt_Ice_Gorilla_wave_01_title" rel_version="Territory_FirstLight">Defeat Kondak the Frigid</string>
+	<string key="objective_enc_darkness_Hunt_Mammoth_Lightning_wave_01_title" rel_version="Territory_FirstLight">Defeat Mawthor, the Thundering</string>
+	<string key="objective_enc_darkness_Hunt_Mammoth_Nature_wave_01_title" rel_version="Territory_FirstLight">Defeat Mosantar, the Earth Eater</string>
+	<string key="objective_enc_darkness_Hunt_Primal_Lions_wave_01_title" rel_version="Territory_FirstLight">Defeat Zirash</string>
+	<string key="objective_enc_darkness_Hunt_Razro_Lotus_wave_01_title" rel_version="Territory_FirstLight">Defeat Kudzu</string>
 </resources>
 

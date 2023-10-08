@@ -34,7 +34,7 @@
 	<string key="ui_fast_travel_error_noDestination_outpost" comment="Fast Travel">You have to visit this Outpost first in order to fast travel.</string>
 	<string key="ui_fast_travel_error_noDestination_shrine" comment="Fast Travel">You have to visit this Spirit Shrine first in order to fast travel.</string>
 	<string key="ui_fast_travel_failed" comment="Fast Travel">Fast Travel Failed</string>
-	<string key="ui_fast_travel_mission_abandon_confirm" comment="Fast Travel">WARNING: Fast traveling will abandon all PvP faction missions.\n{count} mission will be abandoned.\n\nContinue?</string>
+	<string key="ui_fast_travel_mission_abandon_confirm" comment="Fast Travel">WARNING: Fast traveling will reset the active timed race and abandon all PvP faction missions.\n{timedRaceCount} timed race will be reset and {missionCount} mission will be abandoned.\n\nContinue?</string>
 	<string key="ui_fast_travel_popup_confirm" comment="Fast Travel">Would you like to fast travel to this location?</string>
 	<string key="ui_fast_travel_reset_popup" comment="Fast Travel">Reset cooldown?</string>
 	<string key="ui_fast_travel_reset_popup_confirm" comment="Fast Travel">Would you like to reset cooldown?</string>

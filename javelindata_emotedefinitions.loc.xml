@@ -278,7 +278,7 @@
 	<string key="emote_SparklerDance" rel_version="Emote_SparklerDance">{playerName} dances with sparklers.</string>
 	<string key="emote_TugOfWar" rel_version="Emote_TugOfWar">{playerName} pantomimes a lasso and tug-of-war.</string>
 	<string key="ui_emote_FingerGun_name" rel_version="Emote_FingerGuns">Finger Guns</string>
-	<string key="ui_emote_FingerGun_description" rel_version="Emote_FingerGuns">"Hit them with your best shot." \nFinisher: This emote does a small amount of damage.</string>
+	<string key="ui_emote_FingerGun_description" rel_version="Emote_FingerGuns">"Hit them with your best shot."\n\nThis emote does a small amount of damage.</string>
 	<string key="emote_FingerGun" rel_version="Emote_FingerGuns">{playerName} shoots their fingers like guns.</string>
 	<string key="ui_emote_AirGuitar_name" rel_version="Emote_AirGuitar">Guitar Shred</string>
 	<string key="ui_emote_AirViolin_name" rel_version="Emote_AirViolin">Sad Violin</string>
@@ -316,7 +316,7 @@
 	<string key="ui_emote_SeeNoEvil_description" rel_version="Emote_SeeNoEvil">"I refuse to see this evil."</string>
 	<string key="ui_emote_SpeakNoEvil_description" rel_version="Emote_SpeakNoEvil">"I refuse to speak any evil."</string>
 	<string key="ui_emote_DigGrave_description" rel_version="Emote_DigGrave">"When setting out for revenge, dig one grave. It's all you'll need."</string>
-	<string key="ui_emote_TableFlip_description" rel_version="Emote_TableFlip">"When your rage boils over, the table pays the price." \nFinisher: This emote does a small amount of damage.</string>
+	<string key="ui_emote_TableFlip_description" rel_version="Emote_TableFlip">"When your rage boils over, the table pays the price."\n\nThis emote does a small amount of damage.</string>
 	<string key="ui_emote_Vanity_description" rel_version="Emote_Vanity">"View to verify you are indeed the most beautiful of all."</string>
 	<string key="ui_emote_KnightThee_description" rel_version="Emote_KnightThee">"Bestow the honor and obligation of knighthood."</string>
 	<string key="ui_emote_CrazyTapDance_description" rel_version="Emote_CrazyTapDance">"Tap tap tap tap tap tap tap."</string>
@@ -373,9 +373,9 @@
 	<string key="emote_ShruggyDance" rel_version="Emote_ShruggyDance">{playerName} dances a shruggy dance.</string>
 	<string key="ui_emote_DoffCap_name" rel_version="Emote_DoffCap">Doff Cap</string>
 	<string key="ui_emote_DoffCap_description" rel_version="Emote_DoffCap">Courtesy counts for a lot in this world. Not as much as skill with a great axe and a band of murderous friends, but still a lot.</string>
-	<string key="emote_DoffCap" rel_version="Emote_DoffCap">{playerName} doffs his cap.</string>
-	<string key="emote_DoffCap_SHE" rel_version="Emote_DoffCap">{playerName} doffs her cap.</string>
-	<string key="emote_DoffCap_THEY" rel_version="Emote_DoffCap">{playerName} doffs their cap.</string>
+	<string key="emote_DoffCap" rel_version="Emote_DoffCap">{playerName} dips his head in respect.</string>
+	<string key="emote_DoffCap_SHE" rel_version="Emote_DoffCap">{playerName} dips her head in respect.</string>
+	<string key="emote_DoffCap_THEY" rel_version="Emote_DoffCap">{playerName} dips their head in respect.</string>
 	<string key="ui_emote_HeelClick_name" rel_version="Emote_HeelClick">Heel Click</string>
 	<string key="ui_emote_HeelClick_description" rel_version="Emote_HeelClick">Click them heels and see if you can escape this cursed island.</string>
 	<string key="emote_HeelClick" rel_version="Emote_HeelClick">{playerName} clicks his heels.</string>
@@ -499,11 +499,41 @@
 	<string key="ui_Emote_Walk_Viking_name">Viking Walk</string>
 	<string key="ui_Emote_Walk_Viking_description">No one's sure if all Vikings walk like this, but at least one did.</string>
 	<string key="Emote_Walk_Viking">{playerName} walks assertively, but with style.</string>
-	<string key="ui_Emote_MashedPotatoDance_name" rel_version="Entitlements_Balance">Mashed Potato Dance</string>
-	<string key="ui_Emote_MashedPotatoDance_description" rel_version="Entitlements_Balance">This has to be one of the strangest ways of mashing potatoes that I've seen.</string>
-	<string key="Emote_MashedPotatoDance" rel_version="Entitlements_Balance">{playerName} does the mashed potato.</string>
-	<string key="ui_Emote_SpyGlass_name" rel_version="Entitlements_Balance">Spyglass</string>
-	<string key="ui_Emote_SpyGlass_description" rel_version="Entitlements_Balance">I spy, with my little eye...</string>
-	<string key="Emote_SpyGlass" rel_version="Entitlements_Balance">{playerName} spies something in the distance.</string>
+	<string key="ui_Emote_MashedPotatoDance_name">Mashed Potato Dance</string>
+	<string key="ui_Emote_MashedPotatoDance_description">This has to be one of the strangest ways of mashing potatoes that I've seen.</string>
+	<string key="Emote_MashedPotatoDance">{playerName} does the mashed potato.</string>
+	<string key="ui_Emote_SpyGlass_name">Spyglass</string>
+	<string key="ui_Emote_SpyGlass_description">I spy, with my little eye...</string>
+	<string key="Emote_SpyGlass">{playerName} spies something in the distance.</string>
+	<string key="ui_Emote_FireSpinDance_name">Fire Spin Dance</string>
+	<string key="ui_Emote_FireSpinDance_description">Fire batons? That's hot.</string>
+	<string key="Emote_FireSpinDance">{playerName} gives the hottest performance of the season.</string>
+	<string key="ui_Emote_SuperHyped_name">Super Hyped</string>
+	<string key="ui_Emote_SuperHyped_description">For those times when you ARE the hype.</string>
+	<string key="Emote_SuperHyped">{playerName} is hyped up!</string>
+	<string key="ui_Emote_Tremble_name" rel_version="Event_Halloween2023_Perm">Tremble in Fear</string>
+	<string key="ui_Emote_Tremble_description" rel_version="Event_Halloween2023_Perm">Everyone's afraid of something.</string>
+	<string key="Emote_Tremble" rel_version="Event_Halloween2023_Perm">{playerName} quakes in their boots.</string>
+	<string key="ui_Emote_Walk_Possessed_name" rel_version="Event_Halloween2023_Perm">Possessed Walk</string>
+	<string key="ui_Emote_Walk_Possessed_description" rel_version="Event_Halloween2023_Perm">Nope. Nope. NOPE. Trip Zach first to ensure you have time to escape.</string>
+	<string key="Emote_Walk_Possessed" rel_version="Event_Halloween2023_Perm">{playerName} creeps along the ground like a person possessed.</string>
+	<string key="ui_Emote_GravePeaceSign_name" rel_version="Emotes_Seance">Gravestone Peace Sign</string>
+	<string key="ui_Emote_GravePeaceSign_description" rel_version="Emotes_Seance">For when you "Accidentally" kill your dueling partner.</string>
+	<string key="Emote_GravePeaceSign" rel_version="Emotes_Seance">They died so that {PlayerName} could live.</string>
+	<string key="ui_Emote_Walk_Trex_name" rel_version="Emotes_Seance">T-rex Walk</string>
+	<string key="ui_Emote_Walk_Trex_description" rel_version="Emotes_Seance">Everybody do the dinosaur.</string>
+	<string key="Emote_Walk_Trex" rel_version="Emotes_Seance">{playerName} unleashes their inner T-rex.</string>
+	<string key="ui_Emote_WitchBroom_name" rel_version="Emotes_Seance">Witch's Broom</string>
+	<string key="ui_Emote_WitchBroom_description" rel_version="Emotes_Seance">"Fly, my pretty!"</string>
+	<string key="Emote_WitchBroom" rel_version="Emotes_Seance">{playerName} hovers ominously.</string>
+	<string key="ui_Emote_WitchBroom">Witch's Broom</string>
+	<string key="ui_Emote_YouMeNow_name" rel_version="Season_3_Perm">You, Me, NOW!</string>
+	<string key="ui_Emote_YouMeNow_description" rel_version="Season_3_Perm">We are going to handle this right now!</string>
+	<string key="Emote_YouMeNow" rel_version="Season_3_Perm">{playerName} beckons to come handle business!</string>
+	<string key="ui_Emote_YouMeNow">You, Me, NOW!</string>
+	<string key="ui_Emote_CraneKick_description">Kick it with your buddies. Or just kick your buddies. Either works.</string>
+	<string key="Emote_CraneKick">{playerName} performs a flawless crane kick!</string>
+	<string key="ui_Emote_CraneKick">Crane Kick</string>
+	<string key="ui_Emote_BendtheKnee_description">Swearing fealty never looked so good. </string>
 </resources>
 

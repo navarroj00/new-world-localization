@@ -203,5 +203,23 @@
 	<string key="ui_icon_trial_season_02_q13_boss_description" rel_version="Season_2_Temp">LEVEL 66 BOSS\nRELIGIOUS ZEALOT</string>
 	<string key="ui_area_trial_season_02_Q12_arena" rel_version="Season_2_Temp">ANCIENT HATCHERY</string>
 	<string key="ui_area_trial_season_02_Q13_arena" rel_version="Season_2_Temp">SANCTUM OF THE SANDS</string>
+	<string key="ui_area_firstlight01_entrance" rel_version="Territory_FirstLight">Forbidden Entry</string>
+	<string key="ui_area_firstlight01_FinalBoss" rel_version="Territory_FirstLight">Den of Mahantaram</string>
+	<string key="ui_area_firstlight01_FirstBoss" rel_version="Territory_FirstLight">Den of Kurok</string>
+	<string key="ui_area_firstlight01_Hub01" rel_version="Territory_FirstLight">Vast Chasm</string>
+	<string key="ui_area_firstlight01_Hub01a" rel_version="Territory_FirstLight">Rockfall</string>
+	<string key="ui_area_firstlight01_Hub01b" rel_version="Territory_FirstLight">Sunken Shrine</string>
+	<string key="ui_area_firstlight01_Hub02" rel_version="Territory_FirstLight">Fractured Hollow</string>
+	<string key="ui_area_firstlight01_Hub02a" rel_version="Territory_FirstLight">Lost Temple</string>
+	<string key="ui_area_firstlight01_Hub02b" rel_version="Territory_FirstLight">Silent Grotto</string>
+	<string key="ui_area_firstlight01_Intersection" rel_version="Territory_FirstLight">Ancient Crossing</string>
+	<string key="ui_icon_firstlight01_OrbKey" rel_version="Territory_FirstLight">Ancient Orb</string>
+	<string key="ui_icon_firstlight01_OrbKeyDeposit" rel_version="Territory_FirstLight">Ancient Vessel</string>
+	<string key="ui_icon_firstlight01_SealedGate" rel_version="Territory_FirstLight">Ancient Azoth Seal</string>
+	<string key="ui_icon_firstlight01_Pylon" rel_version="Territory_FirstLight">Azoth Scripts</string>
+	<string key="ui_icon_firstlight01_title_gorilla" rel_version="Territory_FirstLight">KUROK</string>
+	<string key="ui_icon_firstlight01_description_gorilla" rel_version="Territory_FirstLight">LEVEL 68 BOSS\nBEAST LORD</string>
+	<string key="ui_icon_firstlight01_title_mammoth" rel_version="Territory_FirstLight">MAHANTARAM</string>
+	<string key="ui_icon_firstlight01_description_mammoth" rel_version="Territory_FirstLight">LEVEL 68 BOSS\nBEAST LORD</string>
 </resources>
 

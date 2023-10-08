@@ -478,6 +478,12 @@
 	<string key="ui_playertitle_weaponmaster_greatsword3" rel_version="Territory_Brimstone_Sands">Blade of the Titan</string>
 	<string key="ui_playertitle_weaponmaster_greatsword3_SHE" rel_version="Territory_Brimstone_Sands">Blade of the Titan</string>
 	<string key="ui_playertitle_weaponmaster_greatsword3_THEY" rel_version="Territory_Brimstone_Sands">Blade of the Titan</string>
+	<string key="ui_playertitle_weaponmaster_flail2" rel_version="Weapon_Flail">Flail Expert</string>
+	<string key="ui_playertitle_weaponmaster_flail2_SHE" rel_version="Weapon_Flail">Flail Expert</string>
+	<string key="ui_playertitle_weaponmaster_flail2_THEY" rel_version="Weapon_Flail">Flail Expert</string>
+	<string key="ui_playertitle_weaponmaster_flail3" rel_version="Weapon_Flail">Star of Mourning</string>
+	<string key="ui_playertitle_weaponmaster_flail3_SHE" rel_version="Weapon_Flail">Star of Mourning</string>
+	<string key="ui_playertitle_weaponmaster_flail3_THEY" rel_version="Weapon_Flail">Star of Mourning</string>
 	<string key="ui_playertitle_factionmissions_completed3" rel_version="P2_MetaAchievements">Faction Notorious</string>
 	<string key="ui_playertitle_factionmissions_completed3_SHE" rel_version="P2_MetaAchievements">Faction Notorious</string>
 	<string key="ui_playertitle_factionmissions_completed3_THEY" rel_version="P2_MetaAchievements">Faction Notorious</string>
@@ -685,6 +691,9 @@
 	<string key="ui_playertitle_dungeonboss_ennead" rel_version="Territory_Brimstone_Sands">Magister Militum</string>
 	<string key="ui_playertitle_dungeonboss_ennead_SHE" rel_version="Territory_Brimstone_Sands">Magister Militum</string>
 	<string key="ui_playertitle_dungeonboss_ennead_THEY" rel_version="Territory_Brimstone_Sands">Magister Militum</string>
+	<string key="ui_playertitle_dungeonboss_crystalclaw" rel_version="Expedition_FirstLight_01">Savage Beast</string>
+	<string key="ui_playertitle_dungeonboss_crystalclaw_SHE" rel_version="Expedition_FirstLight_01">Savage Beast</string>
+	<string key="ui_playertitle_dungeonboss_crystalclaw_THEY" rel_version="Expedition_FirstLight_01">Savage Beast</string>
 	<string key="ui_playertitle_special_askforhelp" rel_version="Feature_Titles">Need Some Help!</string>
 	<string key="ui_playertitle_special_askforhelp_SHE" rel_version="Feature_Titles">Need Some Help!</string>
 	<string key="ui_playertitle_special_askforhelp_THEY" rel_version="Feature_Titles">Need Some Help!</string>
@@ -839,147 +848,155 @@
 	<string key="ui_playertitle_dynastyshipyard_score_top1" rel_version="Feature_Leaderboards">Dynasty Victor</string>
 	<string key="ui_playertitle_dynastyshipyard_score_top1_SHE" rel_version="Feature_Leaderboards">Dynasty Victor</string>
 	<string key="ui_playertitle_dynastyshipyard_score_top1_THEY" rel_version="Feature_Leaderboards">Dynasty Victor</string>
-	<string key="ui_playertitle_dynastyshipyard_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the Dynasty Shipyard Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the highest difficulty of the Dynasty Shipyard Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_dynastyshipyard_score_top10" rel_version="Feature_Leaderboards">Dynasty Medalist</string>
 	<string key="ui_playertitle_dynastyshipyard_score_top10_SHE" rel_version="Feature_Leaderboards">Dynasty Medalist</string>
 	<string key="ui_playertitle_dynastyshipyard_score_top10_THEY" rel_version="Feature_Leaderboards">Dynasty Medalist</string>
-	<string key="ui_playertitle_dynastyshipyard_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the Dynasty Shipyard Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the highest difficulty of the Dynasty Shipyard Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_gardenofgenesis_score_top1" rel_version="Feature_Leaderboards">Genesis Victor</string>
 	<string key="ui_playertitle_gardenofgenesis_score_top1_SHE" rel_version="Feature_Leaderboards">Genesis Victor</string>
 	<string key="ui_playertitle_gardenofgenesis_score_top1_THEY" rel_version="Feature_Leaderboards">Genesis Victor</string>
-	<string key="ui_playertitle_gardenofgenesis_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the Garden of Genesis Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the highest difficulty of the Garden of Genesis Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_gardenofgenesis_score_top10" rel_version="Feature_Leaderboards">Genesis Medalist</string>
 	<string key="ui_playertitle_gardenofgenesis_score_top10_SHE" rel_version="Feature_Leaderboards">Genesis Medalist</string>
 	<string key="ui_playertitle_gardenofgenesis_score_top10_THEY" rel_version="Feature_Leaderboards">Genesis Medalist</string>
-	<string key="ui_playertitle_gardenofgenesis_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the Garden of Genesis Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the highest difficulty of the Garden of Genesis Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_lazarusinstrumentality_score_top1" rel_version="Feature_Leaderboards">Lazarus Victor</string>
 	<string key="ui_playertitle_lazarusinstrumentality_score_top1_SHE" rel_version="Feature_Leaderboards">Lazarus Victor</string>
 	<string key="ui_playertitle_lazarusinstrumentality_score_top1_THEY" rel_version="Feature_Leaderboards">Lazarus Victor</string>
-	<string key="ui_playertitle_lazarusinstrumentality_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the Lazarus Instrumentality Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the highest difficulty of the Lazarus Instrumentality Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_lazarusinstrumentality_score_top10" rel_version="Feature_Leaderboards">Lazarus Medalist</string>
 	<string key="ui_playertitle_lazarusinstrumentality_score_top10_SHE" rel_version="Feature_Leaderboards">Lazarus Medalist</string>
 	<string key="ui_playertitle_lazarusinstrumentality_score_top10_THEY" rel_version="Feature_Leaderboards">Lazarus Medalist</string>
-	<string key="ui_playertitle_lazarusinstrumentality_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the Lazarus Instrumentality Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the highest difficulty of the Lazarus Instrumentality Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_tempestheart_score_top1" rel_version="Feature_Leaderboards">Tempest Victor</string>
 	<string key="ui_playertitle_tempestheart_score_top1_SHE" rel_version="Feature_Leaderboards">Tempest Victor</string>
 	<string key="ui_playertitle_tempestheart_score_top1_THEY" rel_version="Feature_Leaderboards">Tempest Victor</string>
-	<string key="ui_playertitle_tempestheart_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the Tempest Heart Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_tempestheart_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the highest difficulty of the Tempest Heart Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_tempestheart_score_top10" rel_version="Feature_Leaderboards">Tempest Medalist</string>
 	<string key="ui_playertitle_tempestheart_score_top10_SHE" rel_version="Feature_Leaderboards">Tempest Medalist</string>
 	<string key="ui_playertitle_tempestheart_score_top10_THEY" rel_version="Feature_Leaderboards">Tempest Medalist</string>
-	<string key="ui_playertitle_tempestheart_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the Tempest Heart Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_tempestheart_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the highest difficulty of the Tempest Heart Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_barnacles_score_top1" rel_version="Feature_Leaderboards">Barnacles Victor</string>
 	<string key="ui_playertitle_barnacles_score_top1_SHE" rel_version="Feature_Leaderboards">Barnacles Victor</string>
 	<string key="ui_playertitle_barnacles_score_top1_THEY" rel_version="Feature_Leaderboards">Barnacles Victor</string>
-	<string key="ui_playertitle_barnacles_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the Barnacles and Black Powder Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_barnacles_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the highest difficulty of the Barnacles and Black Powder Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_barnacles_score_top10" rel_version="Feature_Leaderboards">Barnacles Medalist</string>
 	<string key="ui_playertitle_barnacles_score_top10_SHE" rel_version="Feature_Leaderboards">Barnacles Medalist</string>
 	<string key="ui_playertitle_barnacles_score_top10_THEY" rel_version="Feature_Leaderboards">Barnacles Medalist</string>
-	<string key="ui_playertitle_barnacles_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the Barnacles and Black Powder Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_barnacles_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the highest difficulty of the Barnacles and Black Powder Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_brimstone_score_top1" rel_version="Feature_Leaderboards">Ennead Victor</string>
 	<string key="ui_playertitle_brimstone_score_top1_SHE" rel_version="Feature_Leaderboards">Ennead Victor</string>
 	<string key="ui_playertitle_brimstone_score_top1_THEY" rel_version="Feature_Leaderboards">Ennead Victor</string>
-	<string key="ui_playertitle_brimstone_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on The Ennead Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_brimstone_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the highest difficulty of The Ennead Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_brimstone_score_top10" rel_version="Feature_Leaderboards">Ennead Medalist</string>
 	<string key="ui_playertitle_brimstone_score_top10_SHE" rel_version="Feature_Leaderboards">Ennead Medalist</string>
 	<string key="ui_playertitle_brimstone_score_top10_THEY" rel_version="Feature_Leaderboards">Ennead Medalist</string>
-	<string key="ui_playertitle_brimstone_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on The Ennead Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_brimstone_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the highest difficulty of The Ennead Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_depths_score_top1" rel_version="Feature_Leaderboards">Depths Victor</string>
 	<string key="ui_playertitle_depths_score_top1_SHE" rel_version="Feature_Leaderboards">Depths Victor</string>
 	<string key="ui_playertitle_depths_score_top1_THEY" rel_version="Feature_Leaderboards">Depths Victor</string>
-	<string key="ui_playertitle_depths_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on The Depths Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_depths_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the highest difficulty of The Depths Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_depths_score_top10" rel_version="Feature_Leaderboards">Depths Medalist</string>
 	<string key="ui_playertitle_depths_score_top10_SHE" rel_version="Feature_Leaderboards">Depths Medalist</string>
 	<string key="ui_playertitle_depths_score_top10_THEY" rel_version="Feature_Leaderboards">Depths Medalist</string>
-	<string key="ui_playertitle_depths_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on The Depths Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_depths_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the highest difficulty of The Depths Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_forge_score_top5" rel_version="Expedition_GreatCleave_01">Forge Victor</string>
 	<string key="ui_playertitle_forge_score_top5_SHE" rel_version="Expedition_GreatCleave_01">Forge Victor</string>
 	<string key="ui_playertitle_forge_score_top5_THEY" rel_version="Expedition_GreatCleave_01">Forge Victor</string>
-	<string key="ui_playertitle_forge_score_top5_description" rel_version="Expedition_GreatCleave_01">Earned by placing Top 5 on The Empyrean Forge Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_forge_score_top5_description" rel_version="Expedition_GreatCleave_01">Earned by placing Top 5 on the highest difficulty of The Empyrean Forge Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_forge_score_top25" rel_version="Expedition_GreatCleave_01">Forge Medalist</string>
 	<string key="ui_playertitle_forge_score_top25_SHE" rel_version="Expedition_GreatCleave_01">Forge Medalist</string>
 	<string key="ui_playertitle_forge_score_top25_THEY" rel_version="Expedition_GreatCleave_01">Forge Medalist</string>
-	<string key="ui_playertitle_forge_score_top25_description" rel_version="Expedition_GreatCleave_01">Earned by placing Top 25 on The Empyrean Forge Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_forge_score_top25_description" rel_version="Expedition_GreatCleave_01">Earned by placing Top 25 on the highest difficulty of The Empyrean Forge Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_divide_score_top5" rel_version="Expedition_FirstLight_01">Divide Victor</string>
+	<string key="ui_playertitle_divide_score_top5_description" rel_version="Expedition_FirstLight_01">Earned by placing Top 5 on the highest difficulty of the Savage Divide Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_divide_score_top25" rel_version="Expedition_FirstLight_01">Divide Medalist</string>
+	<string key="ui_playertitle_divide_score_top25_description" rel_version="Expedition_FirstLight_01">Earned by placing Top 25 on the highest difficulty of the Savage Divide Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_starstone_score_top1" rel_version="Feature_Leaderboards">Starstone Victor</string>
 	<string key="ui_playertitle_starstone_score_top1_SHE" rel_version="Feature_Leaderboards">Starstone Victor</string>
 	<string key="ui_playertitle_starstone_score_top1_THEY" rel_version="Feature_Leaderboards">Starstone Victor</string>
-	<string key="ui_playertitle_starstone_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the Starstone Barrows Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_starstone_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the highest difficulty of the Starstone Barrows Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_starstone_score_top10" rel_version="Feature_Leaderboards">Starstone Medalist</string>
 	<string key="ui_playertitle_starstone_score_top10_SHE" rel_version="Feature_Leaderboards">Starstone Medalist</string>
 	<string key="ui_playertitle_starstone_score_top10_THEY" rel_version="Feature_Leaderboards">Starstone Medalist</string>
-	<string key="ui_playertitle_starstone_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the Starstone Barrows Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_playertitle_starstone_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the highest difficulty of the Starstone Barrows Score Weekly Leaderboard.</string>
 	<string key="ui_playertitle_dynastyshipyard_time_top1" rel_version="Feature_Leaderboards">Dynasty Speed Victor</string>
 	<string key="ui_playertitle_dynastyshipyard_time_top1_SHE" rel_version="Feature_Leaderboards">Dynasty Speed Victor</string>
 	<string key="ui_playertitle_dynastyshipyard_time_top1_THEY" rel_version="Feature_Leaderboards">Dynasty Speed Victor</string>
-	<string key="ui_playertitle_dynastyshipyard_time_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the Dynasty Shipyard Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the highest difficulty of the Dynasty Shipyard Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_dynastyshipyard_time_top10" rel_version="Feature_Leaderboards">Dynasty Speed Medalist</string>
 	<string key="ui_playertitle_dynastyshipyard_time_top10_SHE" rel_version="Feature_Leaderboards">Dynasty Speed Medalist</string>
 	<string key="ui_playertitle_dynastyshipyard_time_top10_THEY" rel_version="Feature_Leaderboards">Dynasty Speed Medalist</string>
-	<string key="ui_playertitle_dynastyshipyard_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the Dynasty Shipyard Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the highest difficulty of the Dynasty Shipyard Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_gardenofgenesis_time_top1" rel_version="Feature_Leaderboards">Genesis Speed Victor</string>
 	<string key="ui_playertitle_gardenofgenesis_time_top1_SHE" rel_version="Feature_Leaderboards">Genesis Speed Victor</string>
 	<string key="ui_playertitle_gardenofgenesis_time_top1_THEY" rel_version="Feature_Leaderboards">Genesis Speed Victor</string>
-	<string key="ui_playertitle_gardenofgenesis_time_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the Garden of Genesis Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the highest difficulty of the Garden of Genesis Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_gardenofgenesis_time_top10" rel_version="Feature_Leaderboards">Genesis Speed Medalist</string>
 	<string key="ui_playertitle_gardenofgenesis_time_top10_SHE" rel_version="Feature_Leaderboards">Genesis Speed Medalist</string>
 	<string key="ui_playertitle_gardenofgenesis_time_top10_THEY" rel_version="Feature_Leaderboards">Genesis Speed Medalist</string>
-	<string key="ui_playertitle_gardenofgenesis_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the Garden of Genesis Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the highest difficulty of the Garden of Genesis Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_lazarusinstrumentality_time_top1" rel_version="Feature_Leaderboards">Lazarus Speed Victor</string>
 	<string key="ui_playertitle_lazarusinstrumentality_time_top1_SHE" rel_version="Feature_Leaderboards">Lazarus Speed Victor</string>
 	<string key="ui_playertitle_lazarusinstrumentality_time_top1_THEY" rel_version="Feature_Leaderboards">Lazarus Speed Victor</string>
-	<string key="ui_playertitle_lazarusinstrumentality_time_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the Lazarus Instrumentality Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the highest difficulty of the Lazarus Instrumentality Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_lazarusinstrumentality_time_top10" rel_version="Feature_Leaderboards">Lazarus Speed Medalist</string>
 	<string key="ui_playertitle_lazarusinstrumentality_time_top10_SHE" rel_version="Feature_Leaderboards">Lazarus Speed Medalist</string>
 	<string key="ui_playertitle_lazarusinstrumentality_time_top10_THEY" rel_version="Feature_Leaderboards">Lazarus Speed Medalist</string>
-	<string key="ui_playertitle_lazarusinstrumentality_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the Lazarus Instrumentality Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the highest difficulty of the Lazarus Instrumentality Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_tempestheart_time_top1" rel_version="Feature_Leaderboards">Tempest Speed Victor</string>
 	<string key="ui_playertitle_tempestheart_time_top1_SHE" rel_version="Feature_Leaderboards">Tempest Speed Victor</string>
 	<string key="ui_playertitle_tempestheart_time_top1_THEY" rel_version="Feature_Leaderboards">Tempest Speed Victor</string>
-	<string key="ui_playertitle_tempestheart_time_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the Tempest Heart Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_tempestheart_time_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the highest difficulty of the Tempest Heart Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_tempestheart_time_top10" rel_version="Feature_Leaderboards">Tempest Speed Medalist</string>
 	<string key="ui_playertitle_tempestheart_time_top10_SHE" rel_version="Feature_Leaderboards">Tempest Speed Medalist</string>
 	<string key="ui_playertitle_tempestheart_time_top10_THEY" rel_version="Feature_Leaderboards">Tempest Speed Medalist</string>
-	<string key="ui_playertitle_tempestheart_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the Tempest Heart Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_tempestheart_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the highest difficulty of the Tempest Heart Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_barnacles_time_top1" rel_version="Feature_Leaderboards">Barnacles Speed Victor</string>
 	<string key="ui_playertitle_barnacles_time_top1_SHE" rel_version="Feature_Leaderboards">Barnacles Speed Victor</string>
 	<string key="ui_playertitle_barnacles_time_top1_THEY" rel_version="Feature_Leaderboards">Barnacles Speed Victor</string>
-	<string key="ui_playertitle_barnacles_time_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the Barnacles and Black Powder Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_barnacles_time_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the highest difficulty of the Barnacles and Black Powder Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_barnacles_time_top10" rel_version="Feature_Leaderboards">Barnacles Speed Medalist</string>
 	<string key="ui_playertitle_barnacles_time_top10_SHE" rel_version="Feature_Leaderboards">Barnacles Speed Medalist</string>
 	<string key="ui_playertitle_barnacles_time_top10_THEY" rel_version="Feature_Leaderboards">Barnacles Speed Medalist</string>
-	<string key="ui_playertitle_barnacles_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the Barnacles and Black Powder Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_barnacles_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the highest difficulty of the Barnacles and Black Powder Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_brimstone_time_top1" rel_version="Feature_Leaderboards">Ennead Speed Victor</string>
 	<string key="ui_playertitle_brimstone_time_top1_SHE" rel_version="Feature_Leaderboards">Ennead Speed Victor</string>
 	<string key="ui_playertitle_brimstone_time_top1_THEY" rel_version="Feature_Leaderboards">Ennead Speed Victor</string>
-	<string key="ui_playertitle_brimstone_time_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on The Ennead Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_brimstone_time_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the highest difficulty of The Ennead Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_brimstone_time_top10" rel_version="Feature_Leaderboards">Ennead Speed Medalist</string>
 	<string key="ui_playertitle_brimstone_time_top10_SHE" rel_version="Feature_Leaderboards">Ennead Speed Medalist</string>
 	<string key="ui_playertitle_brimstone_time_top10_THEY" rel_version="Feature_Leaderboards">Ennead Speed Medalist</string>
-	<string key="ui_playertitle_brimstone_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on The Ennead Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_brimstone_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the highest difficulty of The Ennead Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_depths_time_top1" rel_version="Feature_Leaderboards">Depths Speed Victor</string>
 	<string key="ui_playertitle_depths_time_top1_SHE" rel_version="Feature_Leaderboards">Depths Speed Victor</string>
 	<string key="ui_playertitle_depths_time_top1_THEY" rel_version="Feature_Leaderboards">Depths Speed Victor</string>
-	<string key="ui_playertitle_depths_time_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on The Depths Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_depths_time_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the highest difficulty of The Depths Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_depths_time_top10" rel_version="Feature_Leaderboards">Depths Speed Medalist</string>
 	<string key="ui_playertitle_depths_time_top10_SHE" rel_version="Feature_Leaderboards">Depths Speed Medalist</string>
 	<string key="ui_playertitle_depths_time_top10_THEY" rel_version="Feature_Leaderboards">Depths Speed Medalist</string>
-	<string key="ui_playertitle_depths_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on The Depths Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_depths_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the highest difficulty of The Depths Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_starstone_time_top1" rel_version="Feature_Leaderboards">Starstone Speed Victor</string>
 	<string key="ui_playertitle_starstone_time_top1_SHE" rel_version="Feature_Leaderboards">Starstone Speed Victor</string>
 	<string key="ui_playertitle_starstone_time_top1_THEY" rel_version="Feature_Leaderboards">Starstone Speed Victor</string>
-	<string key="ui_playertitle_starstone_time_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the Starstone Barrows Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_starstone_time_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 5 on the highest difficulty of the Starstone Barrows Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_starstone_time_top10" rel_version="Feature_Leaderboards">Starstone Speed Medalist</string>
 	<string key="ui_playertitle_starstone_time_top10_SHE" rel_version="Feature_Leaderboards">Starstone Speed Medalist</string>
 	<string key="ui_playertitle_starstone_time_top10_THEY" rel_version="Feature_Leaderboards">Starstone Speed Medalist</string>
-	<string key="ui_playertitle_starstone_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the Starstone Barrows Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_starstone_time_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 25 on the highest difficulty of the Starstone Barrows Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_forge_time_top5" rel_version="Expedition_GreatCleave_01">Forge Speed Victor</string>
 	<string key="ui_playertitle_forge_time_top5_SHE" rel_version="Expedition_GreatCleave_01">Forge Speed Victor</string>
 	<string key="ui_playertitle_forge_time_top5_THEY" rel_version="Expedition_GreatCleave_01">Forge Speed Victor</string>
-	<string key="ui_playertitle_forge_time_top5_description" rel_version="Expedition_GreatCleave_01">Earned by placing Top 5 on the Empyrean Forge Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_forge_time_top5_description" rel_version="Expedition_GreatCleave_01">Earned by placing Top 5 on the highest difficulty of the Empyrean Forge Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_forge_time_top25" rel_version="Expedition_GreatCleave_01">Forge Speed Medalist</string>
 	<string key="ui_playertitle_forge_time_top25_SHE" rel_version="Expedition_GreatCleave_01">Forge Speed Medalist</string>
 	<string key="ui_playertitle_forge_time_top25_THEY" rel_version="Expedition_GreatCleave_01">Forge Speed Medalist</string>
-	<string key="ui_playertitle_forge_time_top25_description" rel_version="Expedition_GreatCleave_01">Earned by placing Top 25 on the Empyrean Forge Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_forge_time_top25_description" rel_version="Expedition_GreatCleave_01">Earned by placing Top 25 on the highest difficulty of the Empyrean Forge Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_divide_time_top5" rel_version="Expedition_FirstLight_01">Divide Speed Victor</string>
+	<string key="ui_playertitle_divide_time_top5_description" rel_version="Expedition_FirstLight_01">Earned by placing Top 5 on the Highest Difficulty of the Savage Divide Clear Time Weekly Leaderboard.</string>
+	<string key="ui_playertitle_divide_time_top25" rel_version="Expedition_FirstLight_01">Divide Speed Medalist</string>
+	<string key="ui_playertitle_divide_time_top25_description" rel_version="Expedition_FirstLight_01">Earned by placing Top 25 on the Highest Difficulty of the Savage Divide Clear Time Weekly Leaderboard.</string>
 	<string key="ui_playertitle_sirenqueen_completion_top1" rel_version="Feature_Leaderboards">Siren Queen Victor</string>
 	<string key="ui_playertitle_sirenqueen_completion_top1_SHE" rel_version="Feature_Leaderboards">Siren Queen Victor</string>
 	<string key="ui_playertitle_sirenqueen_completion_top1_THEY" rel_version="Feature_Leaderboards">Siren Queen Victor</string>
@@ -1056,18 +1073,10 @@
 	<string key="ui_playertitle_firstlight_company_score_top1_SHE" rel_version="Feature_Leaderboards">First Light Victor</string>
 	<string key="ui_playertitle_firstlight_company_score_top1_THEY" rel_version="Feature_Leaderboards">First Light Victor</string>
 	<string key="ui_playertitle_firstlight_company_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 3 on the First Light Days Governed Leaderboard.</string>
-	<string key="ui_playertitle_firstlight_company_score_top1_RETRACT" rel_version="Territory_FirstLightRetraction">Victor of Old First Light</string>
-	<string key="ui_playertitle_firstlight_company_score_top1_RETRACT_SHE" rel_version="Territory_FirstLightRetraction">Victor of Old First Light</string>
-	<string key="ui_playertitle_firstlight_company_score_top1_RETRACT_THEY" rel_version="Territory_FirstLightRetraction">Victor of Old First Light</string>
-	<string key="ui_playertitle_firstlight_company_score_top1_RETRACT_description" rel_version="Territory_FirstLightRetraction">Once earned by placing Top 3 on the First Light Days Governed Leaderboard, back in the day.</string>
 	<string key="ui_playertitle_firstlight_company_score_top10" rel_version="Feature_Leaderboards">First Light Medalist</string>
 	<string key="ui_playertitle_firstlight_company_score_top10_SHE" rel_version="Feature_Leaderboards">First Light Medalist</string>
 	<string key="ui_playertitle_firstlight_company_score_top10_THEY" rel_version="Feature_Leaderboards">First Light Medalist</string>
 	<string key="ui_playertitle_firstlight_company_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 6 on the First Light Days Governed Leaderboard.</string>
-	<string key="ui_playertitle_firstlight_company_score_top10_RETRACT" rel_version="Territory_FirstLightRetraction">Medalist of Old First Light</string>
-	<string key="ui_playertitle_firstlight_company_score_top10_RETRACT_SHE" rel_version="Territory_FirstLightRetraction">Medalist of Old First Light</string>
-	<string key="ui_playertitle_firstlight_company_score_top10_RETRACT_THEY" rel_version="Territory_FirstLightRetraction">Medalist of Old First Light</string>
-	<string key="ui_playertitle_firstlight_company_score_top10_RETRACT_description" rel_version="Territory_FirstLightRetraction">Once earned by placing Top 6 on the First Light Days Governed Leaderboard, back in the day.</string>
 	<string key="ui_playertitle_windsward_company_score_top1" rel_version="Feature_Leaderboards">Windsward Victor</string>
 	<string key="ui_playertitle_windsward_company_score_top1_SHE" rel_version="Feature_Leaderboards">Windsward Victor</string>
 	<string key="ui_playertitle_windsward_company_score_top1_THEY" rel_version="Feature_Leaderboards">Windsward Victor</string>
@@ -1148,6 +1157,10 @@
 	<string key="ui_playertitle_brimstonesands_company_score_top10_SHE" rel_version="Feature_Leaderboards">Brimstone Medalist</string>
 	<string key="ui_playertitle_brimstonesands_company_score_top10_THEY" rel_version="Feature_Leaderboards">Brimstone Medalist</string>
 	<string key="ui_playertitle_brimstonesands_company_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 6 on the Brimstone Sands Days Governed Leaderboard.</string>
+	<string key="ui_playertitle_edengrove_company_score_top1">Edengrove Victor</string>
+	<string key="ui_playertitle_edengrove_company_score_top1_description">Earned by placing Top 3 on the Edengrove Days Governed Leaderboard.</string>
+	<string key="ui_playertitle_edengrove_company_score_top10">Edengrove Medalist</string>
+	<string key="ui_playertitle_edengrove_company_score_top10_description">Earned by placing Top 6 on the Edengrove Days Governed Leaderboard.</string>
 	<string key="ui_playertitle_allterritories_company_score_top1" rel_version="Feature_Leaderboards">Territory Control Victor</string>
 	<string key="ui_playertitle_allterritories_company_score_top1_SHE" rel_version="Feature_Leaderboards">Territory Control Victor</string>
 	<string key="ui_playertitle_allterritories_company_score_top1_THEY" rel_version="Feature_Leaderboards">Territory Control Victor</string>
@@ -1277,5 +1290,61 @@
 	<string key="ui_playertitle_season2_deluxebattlepass_SHE" rel_version="Season_2_Perm">Scourge of the Sands</string>
 	<string key="ui_playertitle_season2_deluxebattlepass_THEY" rel_version="Season_2_Perm">Scourge of the Sands</string>
 	<string key="ui_playertitle_season2_deluxebattlepass_description" rel_version="Season_2_Perm">Earned by completing the paid track of the Season 2 Season Pass.</string>
+	<string key="ui_PlayerTitle_PVP_PreExpansion100" rel_version="Feature_Expansion_1">Battle Hardened Veteran</string>
+	<string key="ui_PlayerTitle_PVP_PreExpansion100_SHE" rel_version="Feature_Expansion_1">Battle Hardened Veteran</string>
+	<string key="ui_PlayerTitle_PVP_PreExpansion100_THEY" rel_version="Feature_Expansion_1">Battle Hardened Veteran</string>
+	<string key="ui_PlayerTitle_PVP_PreExpansion100_description" rel_version="Feature_Expansion_1">Achieved Rank 100 in the PvP Reward Track prior to the invasion of the Elysian Wilds.</string>
+	<string key="ui_PlayerTitle_PVP_PreExpansion200" rel_version="Feature_Expansion_1">Highly Decorated Veteran</string>
+	<string key="ui_PlayerTitle_PVP_PreExpansion200_SHE" rel_version="Feature_Expansion_1">Highly Decorated Veteran</string>
+	<string key="ui_PlayerTitle_PVP_PreExpansion200_THEY" rel_version="Feature_Expansion_1">Highly Decorated Veteran</string>
+	<string key="ui_PlayerTitle_PVP_PreExpansion200_description" rel_version="Feature_Expansion_1">Achieved Rank 200 in the PvP Reward Track prior to the invasion of the Elysian Wilds.</string>
+	<string key="ui_playertitle_season3" rel_version="Season_1_Perm">Primeval Gardener</string>
+	<string key="ui_playertitle_season3_SHE" rel_version="Season_1_Perm">Primeval Gardener</string>
+	<string key="ui_playertitle_season3_THEY" rel_version="Season_1_Perm">Primeval Gardener</string>
+	<string key="ui_playertitle_season3_description" rel_version="Season_1_Perm">Earned in the free track for the Season 3 Season Pass.</string>
+	<string key="ui_playertitle_season3journey" rel_version="Season_1_Perm">Elysian Trailblazer</string>
+	<string key="ui_playertitle_season3journey_SHE" rel_version="Season_1_Perm">Elysian Trailblazer</string>
+	<string key="ui_playertitle_season3journey_THEY" rel_version="Season_1_Perm">Elysian Trailblazer</string>
+	<string key="ui_playertitle_season3journey_description" rel_version="Season_1_Perm">Earned for completing Chapter 4 of the Season 3 Season Journey.</string>
+	<string key="ui_playertitle_season3_journeychallenge1" rel_version="Season_3_Perm">Mythic Artisan</string>
+	<string key="ui_playertitle_season3_journeychallenge1_SHE" rel_version="Season_3_Perm">Mythic Artisan</string>
+	<string key="ui_playertitle_season3_journeychallenge1_THEY" rel_version="Season_3_Perm">Mythic Artisan</string>
+	<string key="ui_playertitle_season3_journeychallenge1_description" rel_version="Season_3_Perm">Earned by completing the Season 3 Challenge: Mythic Artisan</string>
+	<string key="ui_playertitle_season3_journeychallenge2" rel_version="Season_3_Perm">Frequent Flailer</string>
+	<string key="ui_playertitle_season3_journeychallenge2_SHE" rel_version="Season_3_Perm">Frequent Flailer</string>
+	<string key="ui_playertitle_season3_journeychallenge2_THEY" rel_version="Season_3_Perm">Frequent Flailer</string>
+	<string key="ui_playertitle_season3_journeychallenge2_description" rel_version="Season_3_Perm">Earned by completing the Season 3 Challenge: Frequent Flailer</string>
+	<string key="ui_playertitle_season3_journeychallenge3" rel_version="Season_3_Perm">Rough Rider</string>
+	<string key="ui_playertitle_season3_journeychallenge3_SHE" rel_version="Season_3_Perm">Rough Rider</string>
+	<string key="ui_playertitle_season3_journeychallenge3_THEY" rel_version="Season_3_Perm">Rough Rider</string>
+	<string key="ui_playertitle_season3_journeychallenge3_description" rel_version="Season_3_Perm">Earned by completing the Season 3 Challenge: Rough Rider</string>
+	<string key="ui_playertitle_season3_journeychallenge4" rel_version="Season_3_Perm">Fading Light</string>
+	<string key="ui_playertitle_season3_journeychallenge4_SHE" rel_version="Season_3_Perm">Fading Light</string>
+	<string key="ui_playertitle_season3_journeychallenge4_THEY" rel_version="Season_3_Perm">Fading Light</string>
+	<string key="ui_playertitle_season3_journeychallenge4_description" rel_version="Season_3_Perm">Earned by completing the Season 3 Challenge: Fading Light</string>
+	<string key="ui_playertitle_season3_journeychallenge5" rel_version="Season_3_Perm">Completely Savage</string>
+	<string key="ui_playertitle_season3_journeychallenge5_SHE" rel_version="Season_3_Perm">Completely Savage</string>
+	<string key="ui_playertitle_season3_journeychallenge5_THEY" rel_version="Season_3_Perm">Completely Savage</string>
+	<string key="ui_playertitle_season3_journeychallenge5_description" rel_version="Season_3_Perm">Earned by completing the Season 3 Challenge: Completely Savage</string>
+	<string key="ui_playertitle_season3_journeychallenge6" rel_version="Season_3_Perm">Undaunted Explorer</string>
+	<string key="ui_playertitle_season3_journeychallenge6_SHE" rel_version="Season_3_Perm">Undaunted Explorer</string>
+	<string key="ui_playertitle_season3_journeychallenge6_THEY" rel_version="Season_3_Perm">Undaunted Explorer</string>
+	<string key="ui_playertitle_season3_journeychallenge6_description" rel_version="Season_3_Perm">Earned by completing the Season 3 Challenge: Undaunted Explorer</string>
+	<string key="ui_playertitle_season3_journeychallenge7" rel_version="Season_3_Perm">Aeternum Influencer</string>
+	<string key="ui_playertitle_season3_journeychallenge7_SHE" rel_version="Season_3_Perm">Aeternum Influencer</string>
+	<string key="ui_playertitle_season3_journeychallenge7_THEY" rel_version="Season_3_Perm">Aeternum Influencer</string>
+	<string key="ui_playertitle_season3_journeychallenge7_description" rel_version="Season_3_Perm">Earned by completing the Season 3 Challenge: Aeternum Influencer</string>
+	<string key="ui_playertitle_season3_journeychallenge8" rel_version="Season_3_Perm">Mushroom Muncher</string>
+	<string key="ui_playertitle_season3_journeychallenge8_SHE" rel_version="Season_3_Perm">Mushroom Muncher</string>
+	<string key="ui_playertitle_season3_journeychallenge8_THEY" rel_version="Season_3_Perm">Mushroom Muncher</string>
+	<string key="ui_playertitle_season3_journeychallenge8_description" rel_version="Season_3_Perm">Earned by completing the Season 3 Challenge: Mushroom Muncher</string>
+	<string key="ui_playertitle_season3_journeychallenge9" rel_version="Season_3_Perm">Elysian Wilds Freedom Fighter</string>
+	<string key="ui_playertitle_season3_journeychallenge9_SHE" rel_version="Season_3_Perm">Elysian Wilds Freedom Fighter</string>
+	<string key="ui_playertitle_season3_journeychallenge9_THEY" rel_version="Season_3_Perm">Elysian Wilds Freedom Fighter</string>
+	<string key="ui_playertitle_season3_journeychallenge9_description" rel_version="Season_3_Perm">Earned by completing the Season 3 Challenge: Elysian Wilds Freedom Fighter</string>
+	<string key="ui_playertitle_season3_journeychallenge10" rel_version="Season_3_Perm">Beastly Treasure Hunter</string>
+	<string key="ui_playertitle_season3_journeychallenge10_SHE" rel_version="Season_3_Perm">Beastly Treasure Hunter</string>
+	<string key="ui_playertitle_season3_journeychallenge10_THEY" rel_version="Season_3_Perm">Beastly Treasure Hunter</string>
+	<string key="ui_playertitle_season3_journeychallenge10_description" rel_version="Season_3_Perm">Earned by completing the Season 3 Challenge: Beastly Treasure Hunter</string>
 </resources>
 

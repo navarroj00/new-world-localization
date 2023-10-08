@@ -13,7 +13,7 @@
 	<string key="ui_musical_performances_selected_performance" rel_version="Feature_MusicalPerformances">Selected Performance</string>
 	<string key="ui_musical_performances_selected_reward" rel_version="Feature_MusicalPerformances">Selected Reward</string>
 	<string key="ui_musical_performances_group_instructions" rel_version="Feature_MusicalPerformances">Select a music sheet to join and wait for the leader to start the performance.</string>
-	<string key="ui_musical_performances_incooldown" rel_version="Feature_MusicalPerformances">You cannot begin another performance {time}.</string>
+	<string key="ui_musical_performances_incooldown" rel_version="Feature_MusicalPerformances">You cannot begin another performance for {time}.</string>
 	<string key="ui_musical_performances_recently_selected_sheet" rel_version="Feature_MusicalPerformances">You must wait for 2 seconds before attempting to select a new instrument.</string>
 	<string key="ui_musical_performances_restrictedarea" rel_version="Feature_MusicalPerformances">You are too close to another performance.</string>
 	<string key="ui_musical_performances_instrument_required_to_create" rel_version="Feature_MusicalPerformances">You need an instrument equipped to perform.</string>
@@ -120,12 +120,14 @@
 	<string key="MusicBuff_FortunesFavor_Name" rel_version="Feature_MusicalPerformances">Fortune's Favor</string>
 	<string key="MusicBuff_LucksLabor_Name" rel_version="Feature_MusicalPerformances">Luck's Labor</string>
 	<string key="MusicBuff_DecidedlyDexterous_Name" rel_version="Feature_MusicalPerformances">Decidedly Dexterous</string>
+	<string key="MusicBuff_NeverStopLearning_Name" rel_version="Feature_MusicalPerformances">Never Stop Learning</string>
 	<string key="MusicBuff_SongInYourStep_Desc" rel_version="Feature_MusicalPerformances">Reduces player encumberance.</string>
 	<string key="MusicBuff_TerritorialTriumph_Desc" rel_version="Feature_MusicalPerformances">Increases territory standing bonus.</string>
 	<string key="MusicBuff_AllTogetherNow_Desc" rel_version="Feature_MusicalPerformances">Increases group XP sharing bonus.</string>
 	<string key="MusicBuff_FortunesFavor_Desc" rel_version="Feature_MusicalPerformances">Increases yield when gathering.</string>
 	<string key="MusicBuff_LucksLabor_Desc" rel_version="Feature_MusicalPerformances">Increases luck when gathering.</string>
 	<string key="MusicBuff_DecidedlyDexterous_Desc" rel_version="Feature_MusicalPerformances">Increases gathering speed.</string>
+	<string key="MusicBuff_NeverStopLearning_Desc" rel_version="Feature_MusicalPerformances">Increases XP gain for Mining, Logging, Skinning and Harvesting.</string>
 	<string key="ui_casual" rel_version="Feature_MusicalPerformances">Casual</string>
 	<string key="ui_music" rel_version="Feature_MusicalPerformances">Music</string>
 	<string key="ui_unlocked_at" rel_version="Feature_MusicalPerformances">Unlocked at</string>

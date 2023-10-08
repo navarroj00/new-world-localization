@@ -178,7 +178,7 @@
 	<string key="HousingTrdG_Curtains_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Housing Curtains</string>
 	<string key="HousingTrdG_Curtains_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Curtains</string>
 	<string key="HousingTrdG_DecorOther_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Other Decorations</string>
-	<string key="HousingTrdG_DecorOther_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Others</string>
+	<string key="HousingTrdG_DecorOther_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Other (Small)</string>
 	<string key="HousingTrdG_Dishes_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Housing Dishware</string>
 	<string key="HousingTrdG_Dishes_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Dishware</string>
 	<string key="HousingTrdG_Food_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Housing Food</string>
@@ -186,7 +186,7 @@
 	<string key="HousingTrdG_Lighting_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Housing Lighting</string>
 	<string key="HousingTrdG_Lighting_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Lighting</string>
 	<string key="HousingTrdG_MiscOther_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Other Miscellaneous</string>
-	<string key="HousingTrdG_MiscOther_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Other</string>
+	<string key="HousingTrdG_MiscOther_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Other (Large)</string>
 	<string key="HousingTrdG_Paintings_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Housing Paintings</string>
 	<string key="HousingTrdG_Paintings_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Paintings</string>
 	<string key="HousingTrdG_Rugs_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Housing Rugs</string>
@@ -203,8 +203,10 @@
 	<string key="HousingTrdG_Cabinets_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Cabinets</string>
 	<string key="HousingTrdG_Cabinets_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Housing Cabinets</string>
 	<string key="HousingTrdG_Veg_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Vegetation</string>
+	<string key="1hFlail_GroupName" rel_version="Weapon_Flail">Flail</string>
+	<string key="1hFlail_GroupDesc" rel_version="Weapon_Flail">The flail is a dynamic weapon that can utilize a long chain to extend the reach of its attacks and will collapse into its hilt when idle. \n\nThe flail is at its strongest when used to support allies. But it does so in an aggressive manner where the effects are applied to allies while up close and personal with the fight. \n\nThe flail uses a variety of strike and arcane magic attacks, which may be lower in damage, but their oppressive, supportive, and defensive nature will allow the wielder to stand out as a force to be reckoned with while in a fight. \n\n•Light Attacks: Deal {[DamageTable.1H_Flail_LightAttack1.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Heavy Attacks: Deal {[DamageTable.1H_Flail_HeavyAttackChain_1.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.</string>
 	<string key="1hHatchet_GroupName">Crafted Hatchets</string>
-	<string key="1hHatchet_GroupDesc">A diverse weapon that allows for ranged throwing attacks or rapid close quarters attacks. Ideal for aggressive, fully committed close quarters melee combat or tactical medium range combat.\n\n•Light Attack: Deals {[DamageTable.Hatchet_Damage_PrimaryAttack.DmgCoef * 100]}% Slash damage.\n•Light Ender: Deals {[DamageTable.Hatchet_Damage_PrimaryAttack_Ender.DmgCoef * 100]}% Slash damage.\n•Heavy Attack: Deals {[DamageTable.Hatchet_Damage_HeavyAttack.DmgCoef * 100]}% Slash damage.\n•Charged Heavy: Deals {[DamageTable.Hatchet_Damage_HeavyAttack_Charged.DmgCoef * 100]}% Slash damage.</string>
+	<string key="1hHatchet_GroupDesc">A diverse weapon that allows for ranged throwing attacks or rapid close quarters attacks. Ideal for aggressive, fully committed close quarters melee combat or tactical medium range combat.\n\n•Light Attack: Deals {[DamageTable.Hatchet_Damage_PrimaryAttack.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Light Ender: Deals {[DamageTable.Hatchet_Damage_PrimaryAttack_Ender.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Heavy Attack: Deals {[DamageTable.Hatchet_Damage_HeavyAttack.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Charged Heavy: Deals {[DamageTable.Hatchet_Damage_HeavyAttack_Charged.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.</string>
 	<string key="1hHatchetAngryEarth_GroupName">Primeval Hatchets</string>
 	<string key="1hHatchetB_GroupName">Cold Iron Hatchets</string>
 	<string key="1hHatchetBeast_GroupName">Ancient Hatchets</string>
@@ -547,7 +549,7 @@
 	<string key="BoostVoidAbs_GroupName">Void Defense Potions</string>
 	<string key="bounty_GroupName">Talisman</string>
 	<string key="bountymagic_GroupName">Vacant Animus</string>
-	<string key="BowA_GroupDesc">A versatile ranged weapon that can rapidly fire arrows or be fully drawn to achieve maximum damage. Great for maintaining distance while utilizing a variety of attacks to hinder and damage enemies.\n\n•Hip-Fire: Deals {[DamageTable.BowAttack_Hipshot.DmgCoef * 100]}% Thrust damage.\n•Short Draw: Deals {[DamageTable.BowAttack1.DmgCoef * 100]}% Thrust damage.\n•Long Draw: Deals {[DamageTable.BowAttack2.DmgCoef * 100]}% Thrust damage.</string>
+	<string key="BowA_GroupDesc">A versatile ranged weapon that can rapidly fire arrows or be fully drawn to achieve maximum damage. Great for maintaining distance while utilizing a variety of attacks to hinder and damage enemies.\n\n•Hip-Fire: Deals {[DamageTable.BowAttack_Hipshot.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Short Draw: Deals {[DamageTable.BowAttack1.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Long Draw: Deals {[DamageTable.BowAttack2.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.</string>
 	<string key="BowA_GroupName">Bows</string>
 	<string key="BowA2_GroupName">Bows</string>
 	<string key="BowB_GroupDesc">2-Handed. A ranged weapon that uses arrows. Arrows must be fully drawn before loosing to achieve maximum damage.</string>
@@ -693,6 +695,7 @@
 	<string key="CategoryData_Shields">Shields</string>
 	<string key="CategoryData_ShieldsKite">Kite Shields</string>
 	<string key="CategoryData_ShieldsRound">Round Shields</string>
+	<string key="CategoryData_MountAttachments" rel_version="Feature_Mounts">Mount Attachments</string>
 	<string key="CategoryData_shots">Cartridges</string>
 	<string key="CategoryData_SiegeTools">Siege Tools</string>
 	<string key="CategoryData_SlotChest">Chestwear</string>
@@ -863,7 +866,7 @@
 	<string key="DungeonReps8_GroupName">Ennead Replicas</string>
 	<string key="DungeonReps9_GroupName">Tempest Heart Replicas</string>
 	<string key="DungeonShields_GroupName">Expedition Shields</string>
-	<string key="DungeonReps12_GroupName">Unique Expedition Rewards</string>
+	<string key="DungeonReps12_GroupName" rel_version="Expedition_FirstLight_01">Savage Divide Replicas</string>
 	<string key="Dye1_GroupDesc">Craft one of a variety of shades of Red Dye.</string>
 	<string key="Dye1_GroupName">Red Dye</string>
 	<string key="Dye10_GroupDesc">Umber Dye for your armor.</string>
@@ -1093,11 +1096,11 @@
 	<string key="GarnetCut_GroupDesc">Cut and polished Garnet Gemstones</string>
 	<string key="GarnetCut_GroupName">Cut Garnet</string>
 	<string key="GatheringFood_GroupName">Gathering Foods</string>
-	<string key="GauntletIce_GroupDesc">Gauntlet that consumes Mana to summon the freezing powers of Ice spells. Great for dealing persistent damage by calling upon elemental storms, summoning ice, and utilizing freezing attacks that hinder and damage enemies.\n\n•Light Attack: Deals {[DamageTable.IceMagic_Primary.DmgCoef * 100]}% Ice damage.\n•Heavy Attack: Deals {[DamageTable.IceMagic_Heavy.DmgCoef * 100]}% Ice damage.</string>
+	<string key="GauntletIce_GroupDesc">Gauntlet that consumes Mana to summon the freezing powers of Ice spells. Great for dealing persistent damage by calling upon elemental storms, summoning ice, and utilizing freezing attacks that hinder and damage enemies.\n\n•Light Attack: Deals {[DamageTable.IceMagic_Primary.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_ice_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Heavy Attack: Deals {[DamageTable.IceMagic_Heavy.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_ice_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.</string>
 	<string key="GauntletIce_GroupName">Ice Gauntlets</string>
-	<string key="GauntletVoid_GroupDesc" rel_version="Weapon_Void_Gauntlet">Gauntlet that consumes Mana to debilitate foes and strengthen allies. Specializing in close - range buffs and dealing damage - over - time or mid - range debuffs and healing, the Void Gauntlet is particularly dangerous when used in a group.\n\n•Light Attack: Deals {[DamageTable.VoidGauntlet_Primary.DmgCoef * 100]}% Void damage.\n•Heavy Attack: Deals {[DamageTable.VoidGauntlet_Heavy.DmgCoef * 100]}% Void damage and heals self for {[VoidGauntletAbilityTable.Passive_VoidGauntlet_HealOnHeavy.DmgPctToHealth * 100]}% of the damage done.\n•Harvest Essence (Hold "Block"): Converts your health into mana over time. Rate scales with weapon damage.</string>
+	<string key="GauntletVoid_GroupDesc" rel_version="Weapon_Void_Gauntlet">Gauntlet that consumes Mana to debilitate foes and strengthen allies. Specializing in close - range buffs and dealing damage - over - time or mid - range debuffs and healing, the Void Gauntlet is particularly dangerous when used in a group.\n\n•Light Attack: Deals {[DamageTable.VoidGauntlet_Primary.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_void_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Heavy Attack: Deals {[DamageTable.VoidGauntlet_Heavy.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_void_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage and heals self for {[VoidGauntletAbilityTable.Passive_VoidGauntlet_HealOnHeavy.DmgPctToHealth * 100]}% of the damage done.\n•Harvest Essence (Hold "Block"): Converts your health into mana over time. Rate scales with weapon damage.</string>
 	<string key="GauntletVoid_GroupName" rel_version="Weapon_Void_Gauntlet">Void Gauntlets</string>
-	<string key="GreatSword_GroupDesc" rel_version="Weapon_GreatSword">A versitile melee weapon that utilizes stances to adapt to different combat situations. It embodies relentless offense paired with aggressive defense to cut through any challenge.\n\n•Light Attack 1 and 2: Deals {[DamageTable.GreatSword_PrimaryAttack1.DmgCoef * 100]}% Slash damage.\n•Light Attack 3: Deals {[DamageTable.GreatSword_PrimaryAttack3.DmgCoef * 100]}% Slash damage.\n•Charged Heavy Attack 1 and 2: Deals {[DamageTable.GreatSword_HeavyAttack1.DmgCoef * 100]}% Slash damage.\n•Charged Heavy Attack 3: Deals {[DamageTable.GreatSword_HeavyAttack3.DmgCoef * 100]}% Slash damage.</string>
+	<string key="GreatSword_GroupDesc" rel_version="Weapon_GreatSword">A versitile melee weapon that utilizes stances to adapt to different combat situations. It embodies relentless offense paired with aggressive defense to cut through any challenge.\n\n•Light Attack 1 and 2: Deals {[DamageTable.GreatSword_PrimaryAttack1.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Light Attack 3: Deals {[DamageTable.GreatSword_PrimaryAttack3.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Charged Heavy Attack 1 and 2: Deals {[DamageTable.GreatSword_HeavyAttack1.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Charged Heavy Attack 3: Deals {[DamageTable.GreatSword_HeavyAttack3.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.</string>
 	<string key="GreatSword_GroupName" rel_version="Weapon_GreatSword">Greatswords</string>
 	<string key="GemAmbe_CategoryName">Amber Gemstones</string>
 	<string key="GemAmet_CategoryName">Amethyst Gemstones</string>
@@ -1133,7 +1136,7 @@
 	<string key="GrainT3_GroupName">Tier 3 Grains</string>
 	<string key="GrainT4_GroupName">Tier 4 Grains</string>
 	<string key="GrainT5_GroupName">Tier 5 Grains</string>
-	<string key="Greataxe_GroupDesc">A large melee weapon with wide arcing swings and powerful chopping attacks. Ideal for engaging multiple enemies with AoE damage or dealing extreme damage to single targets.\n\n•Light Attack: Deals {[DamageTable.GreatAxe_PrimaryAttack.DmgCoef * 100]}% Slash damage.\n•Heavy Attack: Deals {[DamageTable.GreatAxe_HeavyAttack.DmgCoef * 100]}% Slash damage.\n•Charged Heavy: Deals {[DamageTable.GreatAxe_HeavyAttack_Charged.DmgCoef * 100]}% Slash damage.</string>
+	<string key="Greataxe_GroupDesc">A large melee weapon with wide arcing swings and powerful chopping attacks. Ideal for engaging multiple enemies with AoE damage or dealing extreme damage to single targets.\n\n•Light Attack: Deals {[DamageTable.GreatAxe_PrimaryAttack.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Heavy Attack: Deals {[DamageTable.GreatAxe_HeavyAttack.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Charged Heavy: Deals {[DamageTable.GreatAxe_HeavyAttack_Charged.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.</string>
 	<string key="GreatAxe_GroupName">Great Axe</string>
 	<string key="GreatAxes_GroupName">Great Axes</string>
 	<string key="GunPowder_GroupDesc">Used in the crafting of Firearm ammunition.</string>
@@ -1407,8 +1410,8 @@
 	<string key="ModsUncommon_GroupName">Uncommon Mods</string>
 	<string key="MoonstoneCut_GroupDesc">Cut and polished Moonstone Gemstones. Can be crafted into jewelry to increase Strength and Focus, or socketed into equipment to provide the Exhilarate and Slash Ward perks.</string>
 	<string key="MoonstoneCut_GroupName">Cut Moonstone</string>
-	<string key="MusketA_GroupDesc">A ranged weapon that fires high-damage cartridges. Ideal for keeping targets at a distance and long-ranged combat with a high payoff for precise aim.\n\n•Standard Attack: Deals {[DamageTable.MusketAttack1.DmgCoef * 100]}% Thrust damage.</string>
-	<string key="Blunderbuss_GroupDesc" rel_version="Weapon_Blunderbuss">A close quarters ranged weapon that fires 6 pellets in a single blast. Ideal for keeping pressure on melee targets and getting up close and personal with ranged targets.\n\n•Standard Attack: Deals {[DamageTable.Blunderbuss_Primary_Attack.DmgCoef * 100]}% Thrust damage per pellet. ({[DamageTable.Blunderbuss_Primary_Attack_TooltipValue.DmgCoef * 100]}% total of all 6 pellets)</string>
+	<string key="MusketA_GroupDesc">A ranged weapon that fires high-damage cartridges. Ideal for keeping targets at a distance with a high payoff for precision.\n\n•Standard Attack: Deals {[DamageTable.MusketAttack1.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.</string>
+	<string key="Blunderbuss_GroupDesc" rel_version="Weapon_Blunderbuss">A close quarters ranged weapon that fires 6 pellets in a single blast. Ideal for keeping pressure on melee targets and getting up close and personal with ranged targets.\n\n•Standard Attack: Deals {[DamageTable.Blunderbuss_Primary_Attack.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage per pellet. ({[DamageTable.Blunderbuss_Primary_Attack_TooltipValue.DmgCoef * 100]}% total of all 6 pellets)</string>
 	<string key="MusketA_GroupName">Musket</string>
 	<string key="Muskets_GroupName">Muskets</string>
 	<string key="nut_GroupName">Nut</string>
@@ -1696,15 +1699,15 @@
 	<string key="SkinningKnives_GroupName">Skinning Knives</string>
 	<string key="SmallVines_GroupName">Small Vines</string>
 	<string key="Solvent_GroupName">Solvent</string>
-	<string key="SpearA_GroupDesc">A melee weapon that utilizes its long reach for aggressive thrusting attacks. Perfect for keeping targets at a distance, strategic positioning, and applying persistent pressure to targets.\n\n•Light Attack: Deals {[DamageTable.2H_Spear_PrimaryAttack.DmgCoef * 100]}% Thrust damage.\n•Heavy Attack: Deals {[DamageTable.2H_Spear_HeavyAttack.DmgCoef * 100]}% Thrust damage.\n•Charged Heavy: Deals {[DamageTable.2H_Spear_HeavyAttack_Charged.DmgCoef * 100]}% Thrust damage.</string>
+	<string key="SpearA_GroupDesc">A melee weapon that utilizes its long reach for aggressive thrusting attacks. Perfect for keeping targets at a distance, strategic positioning, and applying persistent pressure to targets.\n\n•Light Attack: Deals {[DamageTable.2H_Spear_PrimaryAttack.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Heavy Attack: Deals {[DamageTable.2H_Spear_HeavyAttack.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Charged Heavy: Deals {[DamageTable.2H_Spear_HeavyAttack_Charged.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.</string>
 	<string key="SpearA_GroupName">Spear</string>
 	<string key="SpearB_GroupDesc">2-Handed. A melee weapon with significant reach that specializes in thrust damage.</string>
 	<string key="SpearB_GroupName">Spear</string>
 	<string key="Spears_GroupName">Spears</string>
 	<string key="SprigganKey_GroupName">Arena Keys</string>
-	<string key="StaffFire_GroupDesc">A magical staff that consumes Mana to ignite the blazing power of Fire spells. Excels at area denial, dealing fire damage over large swaths, and burning targets.\n\n•Light Attack: Deals {[DamageTable.Firestaff_PrimaryAttackC1.DmgCoef * 100]}% Fire damage.\n•Heavy Attack: Deals {[DamageTable.Firestaff_PrimaryAttackC2.DmgCoef * 100]}% Fire damage.</string>
+	<string key="StaffFire_GroupDesc">A magical staff that consumes Mana to ignite the blazing power of Fire spells. Excels at area denial, dealing fire damage over large swaths, and burning targets.\n\n•Light Attack: Deals {[DamageTable.Firestaff_PrimaryAttackC1.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Heavy Attack: Deals {[DamageTable.Firestaff_PrimaryAttackC2.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_fire_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.</string>
 	<string key="StaffFire_GroupName">Fire Staves</string>
-	<string key="StaffLife_GroupDesc">A magical staff that consumes Mana to apply the restorative power of Nature spells. Ideal for supporting allies in combat with powerful healing and buffing abilities.\n\n•Light Attack: Deals {[DamageTable.LifeStaff_PrimaryAttackC1.DmgCoef * 100]}% Nature damage.\n•Heavy Attack: Deals {[DamageTable.LifeStaff_PrimaryAttackC2.DmgCoef * 100]}% Nature damage.</string>
+	<string key="StaffLife_GroupDesc">A magical staff that consumes Mana to apply the restorative power of Nature spells. Ideal for supporting allies in combat with powerful healing and buffing abilities.\n\n•Light Attack: Deals {[DamageTable.LifeStaff_PrimaryAttackC1.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_nature_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Heavy Attack: Deals {[DamageTable.LifeStaff_PrimaryAttackC2.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_nature_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.</string>
 	<string key="StaffLife_GroupName">Life Staves</string>
 	<string key="StavesFire_GroupName">Fire Staves</string>
 	<string key="StavesLife_GroupName">Life Staves</string>
@@ -1737,9 +1740,9 @@
 	<string key="STRTrinkets_GroupDesc">Accessories that increase the Strength Attribute.</string>
 	<string key="STRTrinkets_GroupName">Strength Accessories</string>
 	<string key="SurvivalTools_GroupName">Survival Tools</string>
-	<string key="SwordA_GroupDesc">A pairing of melee-focused weapons that, when combined, offer solid offensive and defensive capabilities. Utilizes a combination of arcing swings and lunges for the offensive attacks and a shield to maximize defenses.\n\n•Light Attack: Deals {[DamageTable.1H_Sword_Attack1.DmgCoef * 100]}% Slash damage.\n•Light Ender: Deals {[DamageTable.1H_Sword_Attack1_Ender.DmgCoef * 100]}% Slash damage.\n•Heavy Attack: Deals {[DamageTable.1H_Sword_Attack2.DmgCoef * 100]}% Thrust damage.\n•Charged Heavy: Deals {[DamageTable.1H_Sword_Attack2_Charged.DmgCoef * 100]}% Thrust damage.</string>
+	<string key="SwordA_GroupDesc">A pairing of melee-focused weapons that, when combined, offer solid offensive and defensive capabilities. Utilizes a combination of arcing swings and lunges for the offensive attacks and a shield to maximize defenses.\n\n•Light Attack: Deals {[DamageTable.1H_Sword_Attack1.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Light Ender: Deals {[DamageTable.1H_Sword_Attack1_Ender.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Heavy Attack: Deals {[DamageTable.1H_Sword_Attack2.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Charged Heavy: Deals {[DamageTable.1H_Sword_Attack2_Charged.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.</string>
 	<string key="SwordA_GroupName">Straight Sword</string>
-	<string key="SwordB_GroupDesc">A speed oriented melee weapon with a variety of quick lunge attacks. Excels at precise timing and outmaneuvering opponents while applying bleeds that gradually drain the target’s health.\n\n•Light Attack: Deals {[DamageTable.1H_Rapier_PrimaryAttack.DmgCoef * 100]}% Thrust damage.\n•Light Middle Swipes: Deals {[DamageTable.1H_Rapier_PrimaryTwoThirdsAttack.DmgCoef * 100]}% Thrust damage.\n•Heavy Attack: Deals {[DamageTable.1H_Rapier_HeavyAttack.DmgCoef * 100]}% Thrust damage.</string>
+	<string key="SwordB_GroupDesc">A speed oriented melee weapon with a variety of quick lunge attacks. Excels at precise timing and outmaneuvering opponents while applying bleeds that gradually drain the target’s health.\n\n•Light Attack: Deals {[DamageTable.1H_Rapier_PrimaryAttack.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Light Middle Swipes: Deals {[DamageTable.1H_Rapier_PrimaryTwoThirdsAttack.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Heavy Attack: Deals {[DamageTable.1H_Rapier_HeavyAttack.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.</string>
 	<string key="SwordB_GroupName">Rapier</string>
 	<string key="SwordC_GroupDesc">1-Handed.</string>
 	<string key="SwordC_GroupName">Saber</string>
@@ -1816,7 +1819,7 @@
 	<string key="VegetableT5_GroupName">Tier 5 Vegetables</string>
 	<string key="vessel_GroupName">Vessel</string>
 	<string key="vialPouch_GroupName">Vial Pouches</string>
-	<string key="Warhammer_GroupDesc">A mighty combat hammer that can cause the earth to quake with its crushing strikes. Ideal for impeding enemies with ground tremors or dealing crippling blows directly to a target.\n\n•Light Attack: Deals {[DamageTable.Warhammer_PrimaryAttack.DmgCoef * 100]}% Strike damage.\n•Heavy Attack: Deals {[DamageTable.Warhammer_HeavyAttack.DmgCoef * 100]}% Strike damage.\n•Charged Heavy: Deals {[DamageTable.Warhammer_HeavyAttack_Charged.DmgCoef * 100]}% Strike damage.</string>
+	<string key="Warhammer_GroupDesc">A mighty combat hammer that can cause the earth to quake with its crushing strikes. Ideal for impeding enemies with ground tremors or dealing crippling blows directly to a target.\n\n•Light Attack: Deals {[DamageTable.Warhammer_PrimaryAttack.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Heavy Attack: Deals {[DamageTable.Warhammer_HeavyAttack.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Charged Heavy: Deals {[DamageTable.Warhammer_HeavyAttack_Charged.DmgCoef * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_strike_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.</string>
 	<string key="Warhammer_GroupName">War Hammers</string>
 	<string key="WarHammers_GroupName">War Hammers</string>
 	<string key="water_GroupName">Water</string>
@@ -1926,6 +1929,7 @@
 	<string key="UniqueDungeonReps8_GroupName">Unique Ennead Replicas</string>
 	<string key="UniqueDungeonReps9_GroupName">Unique Tempest Heart Replicas</string>
 	<string key="UniqueDungeonReps11_GroupName">Unique Barnacles and Black Powder Replicas</string>
+	<string key="UniqueDungeonReps12_GroupName" rel_version="Expedition_FirstLight_01">Unique Crystalclaw Caverns Replicas</string>
 	<string key="HideT5_GroupName">Hide Tier 5</string>
 	<string key="CategoryData_ArmorHeavy">Heavy Armor</string>
 	<string key="CategoryData_ArmorMedium">Medium Armor</string>
@@ -1940,8 +1944,8 @@
 	<string key="ScarabEarrings_GroupName">Earrings - Golden Scarab</string>
 	<string key="ScarabMeleeWeapons_GroupName">Melee Weapons - Golden Scarab</string>
 	<string key="ScarabMagicStaves_GroupName">Magic Staves - Golden Scarab</string>
-	<string key="ScarabStaffFire_GroupName">Fire Staffs - Golden Scarab</string>
-	<string key="ScarabStaffLife_GroupName">Ice Staffs - Golden Scarab</string>
+	<string key="ScarabStaffFire_GroupName">Fire Staves - Golden Scarab</string>
+	<string key="ScarabStaffLife_GroupName">Life Staves - Golden Scarab</string>
 	<string key="ScarabGauntletIce_GroupName">Ice Gauntlets - Golden Scarab</string>
 	<string key="ScarabGauntletVoid_GroupName">Void Gauntlets - Golden Scarab</string>
 	<string key="ScarabRangedWeapons_GroupName">Ranged Weapons - Golden Scarab</string>
@@ -1973,5 +1977,39 @@
 	<string key="PatternArmorLight_GroupName" rel_version="Season_2_Perm">Light Armor Patterns</string>
 	<string key="TrialNamedReplicas_GroupName" rel_version="Season_2_Perm">Elite Trial Replicas</string>
 	<string key="UniqueEliteTrialReplicas1_GroupName" rel_version="Season_2_Perm">Unique Sandworm Trial Replicas</string>
+	<string key="Spores_GroupName" rel_version="Territory_FirstLight_Spores">Spores</string>
+	<string key="GatherSpores_GroupName" rel_version="Territory_FirstLight_Spores">Gathering-Attuned Spores</string>
+	<string key="LootSpores_GroupName" rel_version="Territory_FirstLight_Spores">Loot-Attuned Spores</string>
+	<string key="WardSpores_GroupName" rel_version="Territory_FirstLight_Spores">Warding-Attuned Spores</string>
+	<string key="BaneSpores_GroupName" rel_version="Territory_FirstLight_Spores">Bane-Attuned Spores</string>
+	<string key="SOTS_GroupName" rel_version="Territory_FirstLight_Spores">Secrets of the Spores</string>
+	<string key="DimensionalArtifacts_GroupName">Dimensional Artifacts</string>
+	<string key="DimensionalTether_GroupName">Dimensional Tether</string>
+	<string key="Flail_GroupName" rel_version="Weapon_Flail">Flail</string>
+	<string key="ScarabFlail_GroupName" rel_version="Weapon_Flail">Flail - Golden Scarab</string>
+	<string key="Artifacts_GroupName" rel_version="Territory_FirstLight">Artifacts</string>
+	<string key="Named_GroupName" rel_version="Territory_FirstLight">Named</string>
+	<string key="PrismaticMeleeWeapons_GroupName" rel_version="Territory_FirstLight">Melee Weapons - Prismatic Scarab</string>
+	<string key="PrismaticRangedWeapons_GroupName" rel_version="Territory_FirstLight">Ranged  Weapons - Prismatic Scarab</string>
+	<string key="PrismaticStaffFire_GroupName" rel_version="Territory_FirstLight">Fire Staff - Prismatic Scarab</string>
+	<string key="PrismaticStaffLife_GroupName" rel_version="Territory_FirstLight">Life Staff - Prismatic Scarab</string>
+	<string key="PrismaticGauntletIce_GroupName" rel_version="Territory_FirstLight">Ice Gauntlet - Prismatic Scarab</string>
+	<string key="PrismaticGauntletVoid_GroupName" rel_version="Territory_FirstLight">Void Gauntlet - Prismatic Scarab</string>
+	<string key="PrismaticFlail_GroupName" rel_version="Territory_FirstLight">Flail - Prismatic Scarab</string>
+	<string key="PrismaticArmorPlate_GroupName" rel_version="Territory_FirstLight">Heavy Armor - Prismatic Scarab</string>
+	<string key="PrismaticArmorFur_GroupName" rel_version="Territory_FirstLight">Medium Armor - Prismatic Scarab</string>
+	<string key="PrismaticArmorCloth_GroupName" rel_version="Territory_FirstLight">Light Armor - Prismatic Scarab</string>
+	<string key="PrismaticJewelry_GroupName" rel_version="Territory_FirstLight">Jewelry - Prismatic Scarab</string>
+	<string key="LeatherT52_GroupName">Tier 5 Leather (Rare)</string>
+	<string key="LeatherT53_GroupName">Prismatic Leather</string>
+	<string key="MetalT52_GroupName">Tier 5 Ingot (Rare)</string>
+	<string key="MetalT53_GroupName">Prismatic Ingot</string>
+	<string key="ClothT52_GroupName">Tier 5 Cloth (Rare)</string>
+	<string key="ClothT53_GroupName">Prismatic Cloth</string>
+	<string key="TimberT52_GroupName">Tier 5 Plank (Rare)</string>
+	<string key="TimberT53_GroupName">Prismatic Plank</string>
+	<string key="DungeonNamedReplicas_FLXpac_GroupName" rel_version="Territory_FirstLight">Rise of the Angry Earth Named Replicas</string>
+	<string key="UniqueMutatorReps_GroupName" rel_version="Territory_FirstLight">Mutator Named Replicas</string>
+	<string key="FLXPac_MateriaConverts_GroupName" rel_version="Territory_FirstLight">Rise of the Angry Earth Materia</string>
 </resources>
 

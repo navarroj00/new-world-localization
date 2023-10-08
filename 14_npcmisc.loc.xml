@@ -25,11 +25,83 @@
 	<string key="1421_Ranger">Helena Chapman</string>
 	<string key="1421_Ranger_Title">Edengrove Ranger</string>
 	<string key="1422_innkeep">Basira Yatim</string>
-	<string key="1422_innkeep_Title">Innkeeper of the Rambling Rose</string>
+	<string key="1422_innkeep_Title">Innkeeper of the Hearthhome</string>
 	<string key="1423_innkeep">Archie Golding</string>
 	<string key="1423_innkeep_Title">Innkeeper of the Dusty Coin</string>
 	<string key="1424_Fisher">Rory Davies</string>
 	<string key="1424_Fisher_Title">Master Fisher</string>
 	<string key="1425_Prospector">Prospector Delgado</string>
+	<string key="1426_Foreman" rel_version="Quest_Supplement_Edengrove">Auberon Gowering</string>
+	<string key="1426_Foreman_Title" rel_version="Quest_Supplement_Edengrove">Head Foreman of the Slag Mines</string>
+	<string key="1427_CultMother" rel_version="Quest_Supplement_Edengrove">Han Fang</string>
+	<string key="1427_CultMother_Title" rel_version="Quest_Supplement_Edengrove">Imperial Seamstress</string>
+	<string key="1428_CultDaughter" rel_version="Quest_Supplement_Edengrove">Han Liu</string>
+	<string key="1428_CultDaughter_Title_Initiate" rel_version="Quest_Supplement_Edengrove">Initiate of the Cult of Renewal</string>
+	<string key="1428_CultDaughter_Title_Member" rel_version="Quest_Supplement_Edengrove">Follower of the Cult of Renewal</string>
+	<string key="1429_CultOfficer" rel_version="Quest_Supplement_Edengrove">Agnes Cubert</string>
+	<string key="1429_CultOfficer_Title" rel_version="Quest_Supplement_Edengrove">High Seer of the Cult of Renewal</string>
+	<string key="1430_CultLeader" rel_version="Quest_Supplement_Edengrove">The High Sage</string>
+	<string key="1430_CultLeader_Title" rel_version="Quest_Supplement_Edengrove">Eminence of the Cult of Renewal</string>
+	<string key="1431_Mycophile" rel_version="Quest_Supplement_Edengrove">Lilian d'Ogremont</string>
+	<string key="1431_Mycophile_Title" rel_version="Quest_Supplement_Edengrove">Mycophile</string>
+	<string key="1431_Mycophile_Note" rel_version="Quest_Supplement_Edengrove">Lilian's Belongings</string>
+	<string key="1431_Mycophile_Note_Interact" rel_version="Quest_Supplement_Edengrove">Examine</string>
+	<string key="1432_Homesteader" rel_version="Quest_Supplement_Edengrove">Sai Khanam</string>
+	<string key="1432_Homesteader_Title" rel_version="Quest_Supplement_Edengrove">Homesteader</string>
+	<string key="1433_AEDog_JustDog" rel_version="Quest_Supplement_Edengrove">"Dog"</string>
+	<string key="1433_AEDog_Scout" rel_version="Quest_Supplement_Edengrove">Scout</string>
+	<string key="1433_AEDog_Title" rel_version="Quest_Supplement_Edengrove">Sai's Companion</string>
+	<string key="1433_AEDog_Interact" rel_version="Quest_Supplement_Edengrove">Talk?</string>
+	<string key="1434_SirenRanger" rel_version="Quest_Supplement_Edengrove">Sahal Yasin</string>
+	<string key="1434_SirenRanger_Title" rel_version="Quest_Supplement_Edengrove">Ranger of Edengrove</string>
+	<string key="1435_SirenDryad" rel_version="Quest_Supplement_Edengrove">Hedera</string>
+	<string key="1435_SirenDryad_Title" rel_version="Quest_Supplement_Edengrove">Angry Earth Grove Tender</string>
+	<string key="1439_Oath_Object" rel_version="Quest_Supplement_Edengrove">Scroll of Renewal</string>
+	<string key="1439_Oath_Object_Interact" rel_version="Quest_Supplement_Edengrove">Read the Oath</string>
+	<string key="1436_Cultist_Generic_01" rel_version="Quest_Supplement_Edengrove">Cultist Akech</string>
+	<string key="1437_Cultist_Generic_02" rel_version="Quest_Supplement_Edengrove">Cultist Ylva</string>
+	<string key="1438_Cultist_Generic_03" rel_version="Quest_Supplement_Edengrove">Cultist Jalair</string>
+	<string key="1436_Cultist_Generic_Title" rel_version="Quest_Supplement_Edengrove">Follower of the Cult of Renewal</string>
+	<string key="1436_Cultist_Exalted_Title" rel_version="Quest_Supplement_Edengrove">Exalted of the Cult of Renewal</string>
+	<string key="14_Antara" comment="female" gender="F" rel_version="Quest_Supplement_Edengrove">Antara Kant</string>
+	<string key="14_Antara_t" rel_version="Quest_Supplement_Edengrove">Grieving Philosopher</string>
+	<string key="14_Wolcott" comment="male" gender="M" rel_version="Quest_Supplement_Edengrove">Painter Wolcott</string>
+	<string key="14_Wolcott_t" rel_version="Quest_Supplement_Edengrove">Artist-at-Large</string>
+	<string key="14_Milosh" comment="male" gender="M" rel_version="Quest_Supplement_Edengrove">Milosh Kasha</string>
+	<string key="14_Milosh_t" rel_version="Quest_Supplement_Edengrove">Poet's Apprentice</string>
+	<string key="14_Andeolus" comment="male" gender="M" rel_version="Quest_Supplement_Edengrove">Andeolus Flavius</string>
+	<string key="14_Andeolus_t" rel_version="Quest_Supplement_Edengrove">Poet</string>
+	<string key="14_Joan" comment="female" gender="F" rel_version="Quest_Supplement_Edengrove">Joan Turner</string>
+	<string key="14_Joan_t" rel_version="Quest_Supplement_Edengrove">Member of the Cult of Renewal</string>
+	<string key="14_Tello" comment="male" gender="M" rel_version="Quest_Supplement_Edengrove">Tello Cortes</string>
+	<string key="14_Tello_t" rel_version="Quest_Supplement_Edengrove">Miner</string>
+	<string key="14_Babak" comment="male" gender="M" rel_version="Quest_Supplement_Edengrove">Babak Rahbar</string>
+	<string key="14_Babak_t" rel_version="Quest_Supplement_Edengrove">Shoemaker</string>
+	<string key="14_Zhao" comment="female" gender="F" rel_version="Quest_Supplement_Edengrove">Zhao Na</string>
+	<string key="14_Zhao_t" rel_version="Quest_Supplement_Edengrove">Wigmaker</string>
+	<string key="14_Yadira" comment="female" gender="F" rel_version="Quest_Supplement_Edengrove">Yadira Ahmad</string>
+	<string key="14_Yadira_t" rel_version="Quest_Supplement_Edengrove">Jeweler</string>
+	<string key="14_Zorzi" comment="male" gender="M" rel_version="Quest_Supplement_Edengrove">Zorzi Ezzo</string>
+	<string key="14_Zorzi_t" rel_version="Quest_Supplement_Edengrove">Minstrel</string>
+	<string key="14_Faramarz" comment="male" gender="M" rel_version="Quest_Supplement_Edengrove">Faramarz Hakimi</string>
+	<string key="14_Faramarz_t" rel_version="Quest_Supplement_Edengrove">Guard</string>
+	<string key="14_Yazdan" comment="male" gender="M" rel_version="Quest_Supplement_Edengrove">Yazdan Hakimi</string>
+	<string key="14_Yazdan_t" rel_version="Quest_Supplement_Edengrove">Guard</string>
+	<string key="14_Eva" comment="female" gender="F" rel_version="Quest_Supplement_Edengrove">Eva Gowering</string>
+	<string key="14_Eva_t" rel_version="Quest_Supplement_Edengrove">Guard</string>
+	<string key="14_Gwen" comment="female" gender="F" rel_version="Quest_Supplement_Edengrove">Gwen Craddock</string>
+	<string key="14_Gwen_t" rel_version="Quest_Supplement_Edengrove">Guard</string>
+	<string key="14_Roger" comment="male" gender="M" rel_version="Quest_Supplement_Edengrove">Roger Wright</string>
+	<string key="14_Roger_t" rel_version="Quest_Supplement_Edengrove">Guard</string>
+	<string key="14_Walter" comment="male" gender="M" rel_version="Quest_Supplement_Edengrove">Walter Fletcher</string>
+	<string key="14_Walter_t" rel_version="Quest_Supplement_Edengrove">Guard</string>
+	<string key="14_Abiathar" comment="male" gender="M" rel_version="Quest_Supplement_Edengrove">Abiathar Stull</string>
+	<string key="14_Abiathar_t" rel_version="Quest_Supplement_Edengrove">Grieving Farmer</string>
+	<string key="14_Nerezza" comment="female" gender="F" rel_version="Quest_Supplement_Edengrove">Nerezza D'Angelo</string>
+	<string key="14_Nerezza_t" rel_version="Quest_Supplement_Edengrove">Transcended Sculptress</string>
+	<string key="14_Aife" comment="female" gender="F" rel_version="Quest_Supplement_Edengrove">Aife Dubh</string>
+	<string key="14_Aife_t" rel_version="Quest_Supplement_Edengrove">Druidic Potioneer</string>
+	<string key="14_WolcottPainting" rel_version="Quest_Supplement_Edengrove">Wolcott's Easel</string>
+	<string key="14_WolcottPainting_t" rel_version="Quest_Supplement_Edengrove">Suspiciously Empty</string>
 </resources>
 

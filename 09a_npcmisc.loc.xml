@@ -1,2 +1,111 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="09A_NPCMisc_Dummy" rel_version="Territory_FirstLight">DO NOT TRANSLATE</string>
+	<string key="09a_RangerCourier" gender="Male" rel_version="Territory_FirstLight">Ranger Courier</string>
+	<string key="09a_RangerCourier_Title" rel_version="Territory_FirstLight">Camp Messenger</string>
+	<string key="09a_Hargest" gender="Female" rel_version="Territory_FirstLight">Aria Hargest</string>
+	<string key="09a_Hargest_Title" rel_version="Territory_FirstLight">Ranger Captain</string>
+	<string key="09a_Yoon" gender="Female" rel_version="Territory_FirstLight">Hye-Jin Yoon</string>
+	<string key="09a_Yoon_Title" rel_version="Territory_FirstLight">Ranger Scout</string>
+	<string key="09a_Trahern" gender="Male" rel_version="Territory_FirstLight">Glendyn Trahern</string>
+	<string key="09a_Trahern_Title" rel_version="Territory_FirstLight">Archdruid</string>
+	<string key="09a_Eldred" gender="Male" rel_version="Territory_FirstLight">Theodore Eadred</string>
+	<string key="09a_Eldred_Title" rel_version="Territory_FirstLight">Master Alchemist</string>
+	<string key="09a_Artemis" gender="Male" rel_version="Territory_FirstLight">Artemis</string>
+	<string key="09a_Artemis_Title" rel_version="Territory_FirstLight">Ancient Huntress</string>
+	<string key="09a_Vachon" gender="Male" rel_version="Territory_FirstLight">Sebastien Vachon</string>
+	<string key="09a_Vachon_Title" rel_version="Territory_FirstLight">Druid Adept</string>
+	<string key="09a_Murrow" gender="Female" rel_version="Territory_FirstLight">Keira Murrow</string>
+	<string key="09a_Murrow_Title" rel_version="Territory_FirstLight">Druid Ovate</string>
+	<string key="09a_Gauss" gender="Male" rel_version="Territory_FirstLight">Heinrich Gauss</string>
+	<string key="09a_Gauss_Title" rel_version="Territory_FirstLight">Syndicate Engineer</string>
+	<string key="09a_MysteriousAxe" rel_version="Territory_FirstLight">Mysterious Axe</string>
+	<string key="09a_MysteriousAxe_Title" rel_version="Territory_FirstLight" xsi:nil="true"/>
+	<string key="09a_MysteriousAxe_Int" rel_version="Territory_FirstLight">Examine</string>
+	<string key="09a_Oakes" gender="Female" rel_version="Territory_FirstLight">Sylvia Oakes</string>
+	<string key="09a_Oakes_Title" rel_version="Territory_FirstLight">Former First Light Constable</string>
+	<string key="09a_Morgaine" gender="Female" rel_version="Territory_FirstLight">Morgaine</string>
+	<string key="09a_Morgaine_Title" rel_version="Territory_FirstLight">Sorceress</string>
+	<string key="09a_Treadwell" gender="Male" rel_version="Territory_FirstLight">Damien Treadwell</string>
+	<string key="09a_Treadwell_Title" rel_version="Territory_FirstLight">Ranger</string>
+	<string key="09a_Rousseau" gender="Female" rel_version="Territory_FirstLight">Marie Rousseau</string>
+	<string key="09a_Rousseau_Title" rel_version="Territory_FirstLight">Diviner</string>
+	<string key="09a_Shawforth" gender="Male" rel_version="Territory_FirstLight">Alistair Shawforth</string>
+	<string key="09a_Shawforth_Title" rel_version="Territory_FirstLight">Commander</string>
+	<string key="09a_Ellis" gender="Female" rel_version="Territory_FirstLight">Nia Ellis</string>
+	<string key="09a_Ellis_Title" rel_version="Territory_FirstLight">Stew Connoisseur</string>
+	<string key="09a_Owusu" gender="Female" rel_version="Territory_FirstLight">Nomusa Owusu</string>
+	<string key="09a_Owusu_Title" rel_version="Territory_FirstLight">Mender</string>
+	<string key="09a_Morozov" gender="Male" rel_version="Territory_FirstLight">Viktor Morozov</string>
+	<string key="09a_Morozov_Title" rel_version="Territory_FirstLight">Supply Officer</string>
+	<string key="09a_Nakamura" gender="Male" rel_version="Territory_FirstLight">Kentaro Nakamura</string>
+	<string key="09a_Nakamura_Title" rel_version="Territory_FirstLight">Meat Artisan</string>
+	<string key="09a_Crespo" gender="Female" rel_version="Territory_FirstLight">Felicita Crespo</string>
+	<string key="09a_Crespo_Title" rel_version="Territory_FirstLight">Botanist</string>
+	<string key="09a_RangerGuard" gender="Both" rel_version="Territory_FirstLight">Ranger Sentry</string>
+	<string key="09a_RangerGuard_Title" rel_version="Territory_FirstLight">Camp Guard</string>
+	<string key="09a_SoldierGuard" gender="Both" rel_version="Territory_FirstLight">Settlement Soldier</string>
+	<string key="09a_SoldierGuard_Title" rel_version="Territory_FirstLight">Camp Guard</string>
+	<string key="09a_DeliriousRanger" gender="Both" rel_version="Territory_FirstLight">Delirious Ranger</string>
+	<string key="09a_DeliriousRanger_Title" rel_version="Territory_FirstLight" xsi:nil="true"/>
+	<string key="09a_Fionn" gender="Female" rel_version="Territory_FirstLight">Fionn Valora</string>
+	<string key="09a_Fionn_Title" rel_version="Territory_FirstLight">Covenant Excubitor</string>
+	<string key="09a_Shirzad" gender="Male" rel_version="Territory_FirstLight">Shirzad</string>
+	<string key="09a_Shirzad_Title" rel_version="Territory_FirstLight">Lion Lord</string>
+	<string key="09a_Kurok" gender="Male" rel_version="Territory_FirstLight">Kurok</string>
+	<string key="09a_Kurok_Title" rel_version="Territory_FirstLight">Gorilla Lord</string>
+	<string key="09a_Manmosu" gender="Female" rel_version="Territory_FirstLight">Manmosu</string>
+	<string key="09a_Manmosu_Title" rel_version="Territory_FirstLight">"The Vine Snapper"</string>
+	<string key="09a_Barug" gender="Male" rel_version="Territory_FirstLight">Barug</string>
+	<string key="09a_Barug_Title" rel_version="Territory_FirstLight">Tribe Alpha</string>
+	<string key="09a_Taurus" gender="Male" rel_version="Territory_FirstLight">Taurus</string>
+	<string key="09a_Taurus_Title" rel_version="Territory_FirstLight">The Minotaur</string>
+	<string key="09a_Marwa" gender="Female" rel_version="Territory_FirstLight">Marwa Shaheen</string>
+	<string key="09a_Marwa_Title" rel_version="Territory_FirstLight">Handmaiden Guard</string>
+	<string key="09a_James" gender="Male" rel_version="Territory_FirstLight">James Oxen</string>
+	<string key="09a_James_Title" rel_version="Territory_FirstLight">Professional Privateer</string>
+	<string key="09a_Kim" gender="Male" rel_version="Territory_FirstLight">Jihoon Kim</string>
+	<string key="09a_Kim_Title" rel_version="Territory_FirstLight">Artificer of First Light</string>
+	<string key="09a_Riches" gender="Male" rel_version="Territory_FirstLight">Albert Riches</string>
+	<string key="09a_Riches_Title" rel_version="Territory_FirstLight">First Light Survivalist</string>
+	<string key="09a_Ramla" gender="Female" rel_version="Territory_FirstLight">Ramla Ahmad</string>
+	<string key="09a_Ramla_Title" rel_version="Territory_FirstLight">Covenant Templar</string>
+	<string key="09a_Josephine" gender="Female" rel_version="Territory_FirstLight">Josephine Smith</string>
+	<string key="09a_Josephine_Title" rel_version="Territory_FirstLight">Syndicate Agent</string>
+	<string key="09a_Kievan" gender="Male" rel_version="Territory_FirstLight">Kievan Sidorov</string>
+	<string key="09a_Kievan_Title" rel_version="Territory_FirstLight">Marauder Ravager</string>
+	<string key="09a_Johannes" gender="Male" rel_version="Territory_FirstLight">Johannes Metzger</string>
+	<string key="09a_Johannes_Title" rel_version="Territory_FirstLight">Mysterious Investigator</string>
+	<string key="09a_Agent_Covenant" gender="Both" rel_version="Territory_FirstLight">Covenant Lumen</string>
+	<string key="09a_Agent_Covenant_Title" rel_version="Territory_FirstLight">Investigator</string>
+	<string key="09a_Agent_Syndicate" gender="Both" rel_version="Territory_FirstLight">Syndicate Cabalist</string>
+	<string key="09a_Agent_Syndicate_Title" rel_version="Territory_FirstLight">Engineer</string>
+	<string key="09a_Agent_Marauder" gender="Both" rel_version="Territory_FirstLight">Marauder Destroyer</string>
+	<string key="09a_Agent_Marauder_Title" rel_version="Territory_FirstLight">Vanguard</string>
+	<string key="09a_Commander" gender="Female" rel_version="Territory_FirstLight">Li Xiang</string>
+	<string key="09a_Commander_title" rel_version="Territory_FirstLight">Marauder Commander</string>
+	<string key="09a_Alchemist" gender="Male" rel_version="Territory_FirstLight">Augusto Tarwater</string>
+	<string key="09a_Alchemist_title" rel_version="Territory_FirstLight">Syndicate Alchemist</string>
+	<string key="09a_Adjudicator" gender="Female" rel_version="Territory_FirstLight">Enisa Outten</string>
+	<string key="09a_Adjudicator_title" rel_version="Territory_FirstLight">Covenant Adjudicator</string>
+	<string key="09a_AbandonedList" rel_version="Territory_FirstLight">Abandoned List</string>
+	<string key="09a_AbandonedList_Title" rel_version="Territory_FirstLight">Note From James Oxen</string>
+	<string key="09a_AbandonedList_Inc" rel_version="Territory_FirstLight">Examine</string>
+	<string key="09a_Riches_Note" rel_version="Territory_FirstLight">Note From Riches</string>
+	<string key="09a_Riches_Note_Title" rel_version="Territory_FirstLight">Survivalist's Stunted Plans</string>
+	<string key="09a_Riches_Note_Inc" rel_version="Territory_FirstLight">Examine</string>
+	<string key="09a_Ranger_EP" gender="Male" rel_version="Territory_FirstLight">Light's Crown Defender</string>
+	<string key="09a_Ranger_EP_Title" rel_version="Territory_FirstLight">Ranger</string>
+	<string key="09a_Engineer" gender="Male" rel_version="Territory_FirstLight">Artillery Repairman</string>
+	<string key="09a_Engineer_Title" rel_version="Territory_FirstLight">Engineer</string>
+	<string key="09a_Sick_DruidA" gender="Male" rel_version="Territory_FirstLight">Oren</string>
+	<string key="09a_Sick_DruidA_Title" rel_version="Territory_FirstLight">Druid</string>
+	<string key="09a_Sick_DruidB" gender="Male" rel_version="Territory_FirstLight">Ferula</string>
+	<string key="09a_Sick_DruidB_Title" rel_version="Territory_FirstLight">Druid</string>
+	<string key="09a_Sick_DruidC" gender="Male" rel_version="Territory_FirstLight">Zayden Bonaro</string>
+	<string key="09a_Sick_DruidC_Title" rel_version="Territory_FirstLight">Druid</string>
+	<string key="09a_EdithShackleton" gender="Female" rel_version="Territory_FirstLight">Dame Edith Henrietta Shackleton</string>
+	<string key="09a_EdithShackleton_Title" gender="Female" rel_version="Territory_FirstLight">Explorer Extraordinaire</string>
+	<string key="09a_Innkeep" gender="Male" rel_version="Territory_FirstLight">Antonio Boleto</string>
+	<string key="09a_Innkeep_Title" rel_version="Territory_FirstLight">Innkeep of The Withered Wallflower</string>
+</resources>
 

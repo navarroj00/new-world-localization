@@ -1,6 +1,7 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_leaderboard_inactive" rel_version="Feature_Leaderboards">Inactive Leaderboards</string>
 	<string key="ui_leaderboard_category_war" rel_version="Feature_Leaderboards">War</string>
-	<string key="ui_leaderboard_category_outpostrush" rel_version="Feature_Leaderboards">Outpost Rush &lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier" scale="1.0" xPadding="2" yOffset="2"&gt;&lt;/img&gt;</string>
+	<string key="ui_leaderboard_category_outpostrush" rel_version="Feature_Leaderboards">Outpost Rush &lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier_tan" scale="1.0" xPadding="2" yOffset="2"&gt;&lt;/img&gt;</string>
 	<string key="ui_leaderboard_category_darkness" rel_version="Feature_Leaderboards">Corruption Breaches</string>
 	<string key="ui_leaderboard_category_openworldpvp" rel_version="Feature_Leaderboards">Open World PVP</string>
 	<string key="ui_leaderboard_category_war_faction" rel_version="Feature_Leaderboards">Faction Wars</string>
@@ -21,6 +22,7 @@
 	<string key="ui_leaderboard_category_expedition_barnacles" rel_version="Feature_Leaderboards">Barnacles and Black Powder</string>
 	<string key="ui_leaderboard_category_expedition_depths" rel_version="Feature_Leaderboards">The Depths</string>
 	<string key="ui_leaderboard_category_expedition_starstone" rel_version="Feature_Leaderboards">Starstone Barrows</string>
+	<string key="ui_leaderboard_category_expedition_divide" rel_version="Feature_Leaderboards">Savage Divide</string>
 	<string key="ui_leaderboard_category_trial_sirenqueen" rel_version="Feature_Leaderboards">Siren Queen</string>
 	<string key="ui_leaderboard_category_trial_spriggan" rel_version="Feature_Leaderboards">Monoecious Cleft</string>
 	<string key="ui_leaderboard_category_trial_swampbeast" rel_version="Feature_Leaderboards">Eternal Pools</string>
@@ -120,9 +122,9 @@
 	<string key="ui_leaderboard_tip_inv_war_wins" rel_version="Feature_Leaderboards">You must score at least 500 points to earn progress towards Wins.</string>
 	<string key="ui_leaderboard_expedition_title" rel_version="Feature_Leaderboards">{expedition}, &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{difficulty}&lt;/font&gt;</string>
 	<string key="ui_leaderboard_expedition_difficulty" rel_version="Feature_Leaderboards">Difficulty</string>
-	<string key="ui_leaderboard_expedition_difficulty_1" rel_version="Feature_Leaderboards">1</string>
-	<string key="ui_leaderboard_expedition_difficulty_2" rel_version="Feature_Leaderboards">2</string>
-	<string key="ui_leaderboard_expedition_difficulty_3" rel_version="Feature_Leaderboards">3</string>
+	<string key="ui_leaderboard_expedition_difficulty_1" rel_version="Feature_Leaderboards">Intermediate</string>
+	<string key="ui_leaderboard_expedition_difficulty_2" rel_version="Feature_Leaderboards">Hard</string>
+	<string key="ui_leaderboard_expedition_difficulty_3" rel_version="Feature_Leaderboards">Elite</string>
 	<string key="ui_leaderboard_expedition_difficulty_4" rel_version="Feature_Leaderboards">4</string>
 	<string key="ui_leaderboard_expedition_difficulty_5" rel_version="Feature_Leaderboards">5</string>
 	<string key="ui_leaderboard_expedition_difficulty_6" rel_version="Feature_Leaderboards">6</string>
@@ -142,6 +144,7 @@
 	<string key="ui_leaderboard_territory_weaversfen" rel_version="Feature_Leaderboards">Weaver's Fen</string>
 	<string key="ui_leaderboard_territory_restlessshore" rel_version="Feature_Leaderboards">Restless Shore</string>
 	<string key="ui_leaderboard_territory_brimstone" rel_version="Feature_Leaderboards">Brimstone Sands</string>
+	<string key="ui_leaderboard_territory_edengrove">Edengrove</string>
 	<string key="ui_leaderboard_display_legendaries" rel_version="Feature_Leaderboards">Legendaries</string>
 	<string key="ui_leaderboard_territory_all" rel_version="Feature_Leaderboards">All Territories</string>
 	<string key="ui_leaderboard_row_rank_morethan" rel_version="Feature_Leaderboards">>{number}</string>
@@ -153,9 +156,13 @@
 	<string key="ui_leaderboard_category_elitetrials" rel_version="Trial_Brimstone_Sandworm">Elite Trials</string>
 	<string key="ui_leaderboard_display_elitetrials_sandworm1" rel_version="Trial_Brimstone_Sandworm">Trial of the Devourer - Clear Time</string>
 	<string key="ui_leaderboard_display_elitetrials_sandworm2" rel_version="Trial_Brimstone_Sandworm">Trial of the Devourer</string>
-	<string key="ui_leaderboard_tip_outpostrush_score" rel_version="Feature_Leaderboards">&lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier" scale="2.0" xPadding="2" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;Regional Leaderboard&lt;/font&gt;&lt;/font&gt;\n\nYour Outpost Rush Score is the top score you've received in a match.</string>
+	<string key="ui_leaderboard_tip_outpostrush_score" rel_version="Feature_Leaderboards">&lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier_tan" scale="2.0" xPadding="2" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;Regional Leaderboard&lt;/font&gt;&lt;/font&gt;\n\nYour Outpost Rush Score is the top score you've received in a match.</string>
 	<string key="ui_leaderboard_display_regional">Regional</string>
 	<string key="ui_leaderboard_display_world_archived">World (Archived)</string>
-	<string key="ui_leaderboard_tip_regional_only">&lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier" scale="2.0" xPadding="2" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;Regional Leaderboard&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_leaderboard_tip_regional_only">&lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier_tan" scale="2.0" xPadding="2" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;Regional Leaderboard&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_leaderboard_display_influence_race_wins" rel_version="Feature_Influence_V2">Influence Race Wins</string>
+	<string key="ui_leaderboard_display_influence_race_wins_all" rel_version="Feature_Influence_V2">All</string>
+	<string key="ui_leaderboard_display_influence_race_wins_attackers" rel_version="Feature_Influence_V2">Attackers</string>
+	<string key="ui_leaderboard_display_influence_race_wins_defenders" rel_version="Feature_Influence_V2">Defenders</string>
 </resources>
 

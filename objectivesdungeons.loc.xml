@@ -296,6 +296,33 @@
 	<string key="quest_CaerDun_task_purify" rel_version="Quest_MSQ2_Brightwood">Use your Azoth Staff to dispel the Curse of Caer Dun</string>
 	<string key="quest_CaerDun_task_leave" rel_version="Quest_MSQ2_Brightwood">Explore the Undercroft and Exit the Soul Trial</string>
 	<string key="Quest_CaerDun_required_equipment" rel_version="Quest_MSQ2_Brightwood">1 Azoth Staff, 1 Mining Pickaxe</string>
+	<string key="dungeon_firstlight01_title" rel_version="Expedition_FirstLight_01">Savage Divide</string>
+	<string key="dungeon_firstlight01_description" rel_version="Expedition_FirstLight_01">Hunt down the two beast lords, Kurok and Mahantaram.</string>
+	<string key="dungeon_firstlight01_required_equipment" rel_version="Expedition_FirstLight_01">1 Azoth Staff</string>
+	<string key="dungeon_firstlight01_task_explore" rel_version="Expedition_FirstLight_01">Explore the caverns</string>
+	<string key="dungeon_firstlight01_task_trainpressureplates" rel_version="Expedition_FirstLight_01">Find a way to unlock the ancient gate</string>
+	<string key="dungeon_firstlight01_task_trainorb" rel_version="Expedition_FirstLight_01">Transfer the orb to the vessel by the ancient gate</string>
+	<string key="dungeon_firstlight01_task_gotohub1" rel_version="Expedition_FirstLight_01">Continue to explore the caverns</string>
+	<string key="dungeon_firstlight01_task_2a_unlock" rel_version="Expedition_FirstLight_01">Use the Azoth staff to unlock the gate to Rockfall</string>
+	<string key="dungeon_firstlight01_task_2a_progress" rel_version="Expedition_FirstLight_01">Continue to explore the area</string>
+	<string key="dungeon_firstlight01_task_2a_gate" rel_version="Expedition_FirstLight_01">Defeat the beasts guarding the path forward</string>
+	<string key="dungeon_firstlight01_task_2a_findorb" rel_version="Expedition_FirstLight_01">Locate another ancient orb and carry it to its vessel by the Ancient Gate</string>
+	<string key="dungeon_firstlight01_task_hub1orb1" rel_version="Expedition_FirstLight_01">Carry the orb to its vessel by the Ancient Gate</string>
+	<string key="dungeon_firstlight01_task_2b_unlock" rel_version="Expedition_FirstLight_01">Use the Azoth staff to unlock the gate to Sunken Shrine</string>
+	<string key="dungeon_firstlight01_task_2b_progress" rel_version="Expedition_FirstLight_01">Continue to explore the area</string>
+	<string key="dungeon_firstlight01_task_2b_gate" rel_version="Expedition_FirstLight_01">Defeat the beasts guarding the pressure plates</string>
+	<string key="dungeon_firstlight01_task_2b_pressureplates" rel_version="Expedition_FirstLight_01">Activate the pressure plates to open the exit from Sunken Shrine</string>
+	<string key="dungeon_firstlight01_task_2b_findorb" rel_version="Expedition_FirstLight_01">Locate the ancient orb and carry it to its vessel by the Ancient Gate</string>
+	<string key="dungeon_firstlight01_task_hub1orb2" rel_version="Expedition_FirstLight_01">Carry the orb to its vessel by the Ancient Gate</string>
+	<string key="dungeon_firstlight01_task_explorefirstcaptain" rel_version="Expedition_FirstLight_01">Push forward toward the den of the beast lord</string>
+	<string key="dungeon_firstlight01_task_firstcaptain" rel_version="Expedition_FirstLight_01">Defeat Kurok</string>
+	<string key="dungeon_firstlight01_task_explorenextcaptain" rel_version="Expedition_FirstLight_01">Search for the other beast lord</string>
+	<string key="dungeon_firstlight01_task_hub2orb1" rel_version="Expedition_FirstLight_01">Search the area and move the two orbs to the vessels by the ancient gate: 0/2</string>
+	<string key="dungeon_firstlight01_task_azothbridge" rel_version="Expedition_FirstLight_01">Use the Azoth Staff to activate the bridge</string>
+	<string key="dungeon_firstlight01_task_hub2orb2" rel_version="Expedition_FirstLight_01">Move the two orbs to the vessels by the ancient gate: 1/2</string>
+	<string key="dungeon_firstlight01_task_uphill" rel_version="Expedition_FirstLight_01">Push up the hill to the den of the beast lord</string>
+	<string key="dungeon_firstlight01_task_secondcaptain" rel_version="Expedition_FirstLight_01">Defeat Mahantaram</string>
+	<string key="dungeon_firstlight01_task_exit" rel_version="Expedition_FirstLight_01">Exit the Savage Divide</string>
 	<string key="trial_season_02_q12_title" rel_version="Season_2_Temp">Break Some Eggs</string>
 	<string key="trial_season_02_q12_description" rel_version="Season_2_Temp">Stop Malek's plans to hatch the eggs of the Devourers.</string>
 	<string key="trial_season_02_q12_task_approach" rel_version="Season_2_Temp">Approach the center of the arena</string>
@@ -337,11 +364,56 @@
 	<string key="Trial_Season_01_title" rel_version="Season_2_Temp">The Hatchery</string>
 	<string key="Trial_Season_01_description" rel_version="Season_2_Temp">Gather your allies and stop Hadish Azar and the plan to hatch the eggs of the Devourers.</string>
 	<string key="Trial_Season_01_required_equipment" rel_version="Season_2_Temp">1 Ranged Weapon</string>
+	<string key="Quest_Motherwell_title" rel_version="Quest_MSQ2_Edengrove">Trespassing in the Motherwell</string>
+	<string key="Quest_Motherwell_description" rel_version="Quest_MSQ2_Edengrove">Gaea's most cherished grove, tilled by sacred vessels and tended by blessed divinity, yet through aeon's wake remains unprofane and sacrosanct. Adiana will not be pleased.</string>
+	<string key="quest_Motherwell_task_approach" rel_version="Quest_MSQ2_Edengrove">Follow the mysterious path</string>
+	<string key="quest_Motherwell_task_place" rel_version="Quest_MSQ2_Edengrove">Find the sacred pool</string>
+	<string key="quest_Motherwell_task_smash" rel_version="Quest_MSQ2_Edengrove">Prepare to face the wrath of Adiana</string>
+	<string key="quest_Motherwell_task_destroy_boss" rel_version="Quest_MSQ2_Edengrove">Complete the Purification Ritual</string>
+	<string key="quest_Motherwell_task_purify" rel_version="Quest_MSQ2_Edengrove">Complete the Purification Ritual</string>
+	<string key="quest_Motherwell_task_leave" rel_version="Quest_MSQ2_Edengrove">Return to the surface and Exit the Soul Trial</string>
+	<string key="Quest_Motherwell_required_equipment" rel_version="Quest_MSQ2_Edengrove">1 Azoth Staff, 1 Corrupted Headpiece</string>
 	<string key="Trial_Season_01_Objective_1" rel_version="Season_2_Temp">Defeat Hadish Hazar and his minions</string>
 	<string key="Trial_Season_01_Objective_2" rel_version="Season_2_Temp">Withstand the heat of The Hatchery</string>
 	<string key="Trial_Season_01_Objective_3" rel_version="Season_2_Temp">Claim the riches of the desert in victory</string>
 	<string key="Trial_Season_02_Objective_1" rel_version="Trial_Brimstone_Sandworm">Defeat Shah Neshen in the desert arena</string>
 	<string key="Trial_Season_02_Objective_2" rel_version="Trial_Brimstone_Sandworm">Withstand the brutal and acidic hazards</string>
 	<string key="Trial_Season_02_Objective_3" rel_version="Trial_Brimstone_Sandworm">Claim the riches of victory over the wurm</string>
+	<string key="Quest_mammoth_title" rel_version="Territory_FirstLight">Mahantaram's Court</string>
+	<string key="Trial_mammoth_description" rel_version="Territory_FirstLight">Enter and show humility, mortal, you who dares entreat with the Lord of all Mammoths, Eldest of the Tribunal.</string>
+	<string key="Quest_mammoth_required_equipment" rel_version="Territory_FirstLight">1 Azoth Staff</string>
+	<string key="trial_mammoth_approach" rel_version="Territory_FirstLight">Speak with Mahantaram</string>
+	<string key="trial_mammoth_defeat_boss" rel_version="Territory_FirstLight">Win the contest of strength</string>
+	<string key="trial_mammoth_defeat_boss_banner_title" rel_version="Territory_FirstLight">Negotations have failed</string>
+	<string key="trial_mammoth_defeat_boss_banner_description" rel_version="Territory_FirstLight">Win the contest of strength</string>
+	<string key="trial_mammoth_leave" rel_version="Territory_FirstLight">Finish your tasks, and collect remaining loot. When you are ready, you may exit the Soul Trial through the Portal</string>
+	<string key="trial_mammoth_title" rel_version="Territory_FirstLight">Mahantaram's Court</string>
+	<string key="Quest_adiana_title" rel_version="Territory_FirstLight">The End of New Eden</string>
+	<string key="Quest_adiana_description" rel_version="Territory_FirstLight">Hear us, Artemis, celebrated queen, eternal and Ancient, of a noble mien: In arrows rejoicing and on all to shine, bow-bearing Goddess, Diana divine; O'er Motherwell presided, Wild Creator and more, glorying in this Elysian war.</string>
+	<string key="Quest_adiana_required_equipment" rel_version="Territory_FirstLight">1 Azoth Staff</string>
+	<string key="trial_adiana_approach" rel_version="Territory_FirstLight">Approach the Goddess</string>
+	<string key="trial_adiana_defeat_boss" rel_version="Territory_FirstLight">Defeat Artemis</string>
+	<string key="trial_adiana_defeat_boss_banner_title" rel_version="Territory_FirstLight">Defeat the Goddess</string>
+	<string key="trial_adiana_defeat_boss_banner_description" rel_version="Territory_FirstLight">Defeat Artemis</string>
+	<string key="trial_adiana_leave" rel_version="Territory_FirstLight">Finish your tasks, and collect remaining loot. When you are ready, you may exit the Soul Trial through the Portal</string>
+	<string key="trial_adiana_title" rel_version="Territory_FirstLight">Defeat the Goddess</string>
+	<string key="Quest_medusa_title" rel_version="Territory_FirstLight">The Petrified Throne</string>
+	<string key="Quest_medusa_description" rel_version="Territory_FirstLight">The Pontifex of New Corsica has been transformed by the powers of the Pyramid that destroyed her realm centuries ago. Born anew, now the living embodiment of the Curse of Medusa. What began in Brimstone Sands must now end here.</string>
+	<string key="Quest_medusa_required_equipment" rel_version="Territory_FirstLight">1 Azoth Staff</string>
+	<string key="trial_medusa_approach" rel_version="Territory_FirstLight">Approach the Throne</string>
+	<string key="trial_medusa_defeat_boss" rel_version="Territory_FirstLight">Defeat Medusa</string>
+	<string key="trial_medusa_defeat_boss_banner_title" rel_version="Territory_FirstLight">Defeat the Gorgon</string>
+	<string key="trial_medusa_defeat_boss_banner_description" rel_version="Territory_FirstLight">Defeat Medusa</string>
+	<string key="trial_medusa_leave" rel_version="Territory_FirstLight">Finish your tasks, and collect remaining loot. When you are ready, you may exit the Soul Trial</string>
+	<string key="Quest_Yonas_title" rel_version="Quest_MSQ2_GreatCleave">The Last Soulwarden</string>
+	<string key="Quest_Yonas_description" rel_version="Quest_MSQ2_GreatCleave">Whispers entwined with corruption have found this faithful heart.</string>
+	<string key="Quest_Yonas_required_equipment" rel_version="Quest_MSQ2_GreatCleave">1 Azoth Staff</string>
+	<string key="quest_Yonas_task_leadup" rel_version="Quest_MSQ2_GreatCleave">Deal with corrupted interceptors</string>
+	<string key="quest_Yonas_task_approach" rel_version="Quest_MSQ2_GreatCleave">Approach Isabella</string>
+	<string key="quest_Yonas_task_destroy_boss" rel_version="Quest_MSQ2_GreatCleave">Defeat Yonas</string>
+	<string key="quest_Yonas_task_leave" rel_version="Quest_MSQ2_GreatCleave">Leave the cave</string>
+	<string key="Quest_Nihilo_title" rel_version="Quest_MSQ2_GreatCleave">Beyond the Gates</string>
+	<string key="Quest_Nihilo_description" rel_version="Quest_MSQ2_GreatCleave">It is a place of horror and beauty intertwined, where the eye betrays the mind. A realm that we cannot comprehend. Leap, and know what is truly unknowable beyond the gates.</string>
+	<string key="Quest_Nihilo_required_equipment" rel_version="Quest_MSQ2_GreatCleave">1 Azoth Staff</string>
 </resources>
 

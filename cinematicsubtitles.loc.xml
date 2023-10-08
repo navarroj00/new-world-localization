@@ -57,7 +57,7 @@
 	<string key="WildHuntress04" start="29" end="35" dialogue-next="WildHuntress05">We approached them in forms that were familiar and showered them with blessings.</string>
 	<string key="WildHuntress05" start="35" end="40" dialogue-next="WildHuntress06">But they lacked the purity shared by other creatures of these lands.</string>
 	<string key="WildHuntress06" start="40" end="50" dialogue-next="WildHuntress07">I warned my brethren, these beings were not worthy of eternal life. But the gift was bestowed nonetheless.</string>
-	<string key="WildHuntress07" start="50" end="69" dialogue-next="WildHuntress08">And what thanks did we receive? The fools turned against us. I knew then, annihilation of the species was our only option. But greater threat emerged, requiring our attention.</string>
+	<string key="WildHuntress07" start="50" end="69" dialogue-next="WildHuntress08">And what thanks did we receive? The fools turned against us. I knew then, annihilation of the species was our only option. But greater threats emerged, requiring our attention.</string>
 	<string key="WildHuntress08" start="69" end="76" dialogue-next="WildHuntress09">Years passed, we tried to live here in peace and harmony. </string>
 	<string key="WildHuntress09" start="76" end="83" dialogue-next="WildHuntress10">But the twisted ambitions of humanity have reinvited disaster time and again.</string>
 	<string key="WildHuntress10" start="85" end="94" dialogue-next="WildHuntress11">Now, however, the power of the Ennead flows through the veins of Aeternum, fuel for my grim task.</string>
@@ -67,42 +67,57 @@
 	<string key="CorpseCrone02" start="18" end="22" dialogue-next="CorpseCrone03">The deadly hex spread like a sickening plague.</string>
 	<string key="CorpseCrone03" start="22" end="31" dialogue-next="CorpseCrone04">The island's immortality was twisted, made obscene. The Curse of the Lost would haunt our lands.</string>
 	<string key="CorpseCrone04" start="31" end="40" dialogue-next="CorpseCrone05">The people sought salvation from this plague. Desperate, we believed conviction our only course.</string>
-	<string key="CorpseCrone05" start="42" end="51" dialogue-next="CorpseCrone06">We discovered the soulless could hide amongst us. Committing them to the cold earth was the only answer.</string>
-	<string key="CorpseCrone06" start="51" end="63" dialogue-next="CorpseCrone07">Eventually, the crone's purpose became clear. Her hex would bind the restless Lost to her will.</string>
-	<string key="CorpseCrone07" start="63" end="76">To this day, her foul curse lingers. Until her evil can be forever extinguished.</string>
-	<string key="GalahadRegret01" start="1" end="12" dialogue-next="GalahadRegret02">It was the dream of Avalon that led King Artorius to these shores. And of course, the wise counsel of the enchanter, Myrddin.</string>
-	<string key="GalahadRegret02" start="12" end="22" dialogue-next="GalahadRegret03">But the enchanter became obsessed with the island's mysteries. An insidious evil claimed his soul.</string>
-	<string key="GalahadRegret03" start="22" end="32" dialogue-next="GalahadRegret04">The Wars of Crimson Madness raged for a century. So many banners… All fallen to the Corruption.</string>
-	<string key="GalahadRegret04" start="32" end="44" dialogue-next="GalahadRegret05">I know not what transpired to end the conflict. We found no answers as to Myrrdin's fate, no trace of the High King.</string>
-	<string key="GalahadRegret05" start="44" end="55" dialogue-next="GalahadRegret06">I sought new peace and purpose here in the Brightwood. But it would not last. A plague of soulless Lost emerged.</string>
-	<string key="GalahadRegret06" start="55" end="68" dialogue-next="GalahadRegret07">Brother Umberto and I formed the Bright Vigil to fight the darkness. But he stood alone when I left in search of my lord king.</string>
-	<string key="GalahadRegret07" start="68" end="82">I returned empty handed, to witness the results of my failure. The Vigil, fallen to despair, and the Brightwood, bright no more.</string>
+	<string key="CorpseCrone05" start="42" end="47" dialogue-next="CorpseCrone06">We discovered the soulless could hide amongst us.</string>
+	<string key="CorpseCrone06" start="47" end="51" dialogue-next="CorpseCrone07">Committing them to the cold earth was the only answer.</string>
+	<string key="CorpseCrone07" start="51" end="63" dialogue-next="CorpseCrone08">Eventually, the crone's purpose became clear. Her hex would bind the restless Lost to her will.</string>
+	<string key="CorpseCrone08" start="63" end="76">To this day, her foul curse lingers. Until her evil can be forever extinguished.</string>
+	<string key="GalahadRegret01" start="1" end="8" dialogue-next="GalahadRegret02">It was the dream of Avalon that led King Artorius to these shores.</string>
+	<string key="GalahadRegret02" start="8" end="12" dialogue-next="GalahadRegret03">And of course, the wise counsel of the enchanter, Myrddin.</string>
+	<string key="GalahadRegret03" start="12" end="22" dialogue-next="GalahadRegret04">But the enchanter became obsessed with the island's mysteries. An insidious evil claimed his soul.</string>
+	<string key="GalahadRegret04" start="22" end="32" dialogue-next="GalahadRegret05">The Wars of Crimson Madness raged for a century. So many banners… All fallen to the Corruption.</string>
+	<string key="GalahadRegret05" start="32" end="38" dialogue-next="GalahadRegret06">I know not what transpired to end the conflict.</string>
+	<string key="GalahadRegret06" start="38" end="44" dialogue-next="GalahadRegret07">We found no answers as to Myrrdin's fate, no trace of the High King.</string>
+	<string key="GalahadRegret07" start="44" end="51" dialogue-next="GalahadRegret08">I sought new peace and purpose here in the Brightwood.</string>
+	<string key="GalahadRegret08" start="51" end="55" dialogue-next="GalahadRegret09">But it would not last. A plague of soulless Lost emerged.</string>
+	<string key="GalahadRegret09" start="55" end="63" dialogue-next="GalahadRegret10">Brother Umberto and I formed the Bright Vigil to fight the darkness.</string>
+	<string key="GalahadRegret10" start="63" end="68" dialogue-next="GalahadRegret11">But he stood alone when I left in search of my lord king.</string>
+	<string key="GalahadRegret11" start="68" end="75" dialogue-next="GalahadRegret12">I returned empty handed, to witness the results of my failure.</string>
+	<string key="GalahadRegret12" start="75" end="82">The Vigil, fallen to despair, and the Brightwood, bright no more.</string>
 	<string key="MorgaineTruth01" start="1" end="8" dialogue-next="MorgaineTruth02">Aeternum's secrets called to us in dreams. Promising vast, ancient knowledge.</string>
-	<string key="MorgaineTruth02" start="8" end="18" dialogue-next="MorgaineTruth03">What we discovered was an entity longing for release. Myrddin believed his spell-craft would ensure protection.</string>
-	<string key="MorgaineTruth03" start="18" end="30" dialogue-next="MorgaineTruth04">But this fell power claimed him for its own. As the Crimson Sorcerer, he became the Herald of Madness.</string>
-	<string key="MorgaineTruth04" start="30" end="42" dialogue-next="MorgaineTruth05">When all else failed, I confronted my brother. Our magics clashed... and then silence. I was forever changed.</string>
-	<string key="MorgaineTruth05" start="43" end="53" dialogue-next="MorgaineTruth06">I knew the Corruption would return. But the power I needed came at a terrible cost.</string>
-	<string key="MorgaineTruth06" start="55" end="62" dialogue-next="MorgaineTruth07">The secrets I sought continued to elude me. But I refused to relent.</string>
-	<string key="MorgaineTruth07" start="62" end="73" dialogue-next="MorgaineTruth08">I became the Corpse Crone, the Curse of Weaver's Fen. The target of foolish Shadow-Hunters.</string>
-	<string key="MorgaineTruth08" start="73" end="84">I spent the centuries since alone, preparing. When the Crimson Madness returns, I shall be ready.</string>
+	<string key="MorgaineTruth02" start="8" end="15" dialogue-next="MorgaineTruth03">What we discovered was an entity longing for release.</string>
+	<string key="MorgaineTruth03" start="15" end="18" dialogue-next="MorgaineTruth04">Myrddin believed his spell-craft would ensure protection.</string>
+	<string key="MorgaineTruth04" start="18" end="24" dialogue-next="MorgaineTruth05">But this fell power claimed him for its own.</string>
+	<string key="MorgaineTruth05" start="24" end="30" dialogue-next="MorgaineTruth06">As the Crimson Sorcerer, he became the Herald of Madness.</string>
+	<string key="MorgaineTruth06" start="30" end="37" dialogue-next="MorgaineTruth07">When all else failed, I confronted my brother. Our magics clashed...</string>
+	<string key="MorgaineTruth07" start="37" end="42" dialogue-next="MorgaineTruth08">And then silence. I was forever changed.</string>
+	<string key="MorgaineTruth08" start="43" end="53" dialogue-next="MorgaineTruth09">I knew the Corruption would return. But the power I needed came at a terrible cost.</string>
+	<string key="MorgaineTruth09" start="55" end="62" dialogue-next="MorgaineTruth10">The secrets I sought continued to elude me. But I refused to relent.</string>
+	<string key="MorgaineTruth10" start="62" end="73" dialogue-next="MorgaineTruth11">I became the Corpse Crone, the Curse of Weaver's Fen. The target of foolish Shadow-Hunters.</string>
+	<string key="MorgaineTruth11" start="73" end="84">I spent the centuries since alone, preparing. When the Crimson Madness returns, I shall be ready.</string>
 	<string key="SkyeLetter01" start="2" end="5" dialogue-next="SkyeLetter02">My father called me weak.</string>
 	<string key="SkyeLetter02" start="5" end="9" dialogue-next="SkyeLetter03">I was ten when I proved him wrong.</string>
 	<string key="SkyeLetter03" start="14" end="24" dialogue-next="SkyeLetter04">I chose the path of the warrior. And in two years, my brothers could not match me in battle.</string>
-	<string key="SkyeLetter04" start="25" end="34" dialogue-next="SkyeLetter05">But among spear-daughters, I forged an unbreakable bond. On Aeternum, we fought an endless onslaught of darkness.</string>
-	<string key="SkyeLetter05" start="39" end="47" dialogue-next="SkyeLetter06">Until that day, a faceless warlock cursed us. He stole our warrior's fire. </string>
-	<string key="SkyeLetter06" start="50" end="60" dialogue-next="SkyeLetter07">We tried everything to break free, even death. But nothing worked... and without our strength, what were we?</string>
-	<string key="SkyeLetter07" start="60" end="68" dialogue-next="SkyeLetter08">Now, our enemies pursue an even darker power in Great Cleave. They must be stopped.</string>
-	<string key="SkyeLetter08" start="68" end="76">Hero of Aeternum, help me reclaim our fire, and strike our enemy asunder. </string>
-	<string key="TempestRisingMB01" start="1" end="13" dialogue-next="TempestRisingMB02">This island has always guarded the promise of paradise. Humanity cast out, deemed unworthy of such blessings.</string>
-	<string key="TempestRisingMB02" start="13" end="25" dialogue-next="TempestRisingMB03">But I did not come here seeking paradise. I came for answers. Redemption after a life of weakness and suffering.</string>
-	<string key="TempestRisingMB03" start="25" end="32" dialogue-next="TempestRisingMB04">And I found a truth that disproved everything I had been taught.</string>
-	<string key="TempestRisingMB04" start="32" end="43" dialogue-next="TempestRisingMB05">I tasted the knowledge forbidden to us at creation. And I saw the vision of humanity's true potential.</string>
-	<string key="TempestRisingMB05" start="43" end="53" dialogue-next="TempestRisingMB06">I knew then, I must correct this ancient injustice, and restore the power which is rightfully ours.</string>
-	<string key="TempestRisingMB06" start="55" end="61" dialogue-next="TempestRisingMB07">The heart of the mountain now beats strong with this purpose.</string>
-	<string key="TempestRisingMB07" start="61" end="72" dialogue-next="TempestRisingMB08">After a century of preparation, our campaign has begun. The islands townships already fall before the might of our armies.</string>
-	<string key="TempestRisingMB08" start="72" end="77" dialogue-next="TempestRisingMB09">The only thing I had not foreseen is you.</string>
-	<string key="TempestRisingMB09" start="77" end="85" dialogue-next="TempestRisingMB10">You who have stolen the gift meant for me. And now your soul will pay the price.</string>
-	<string key="TempestRisingMB10" start="85" end="100">For I will not stop until I have seized back the destiny stolen from us. And brought true freedom to the world both old and new.</string>
+	<string key="SkyeLetter04" start="25" end="31" dialogue-next="SkyeLetter05">But among spear-daughters, I forged an unbreakable bond.</string>
+	<string key="SkyeLetter05" start="31" end="34" dialogue-next="SkyeLetter06">On Aeternum, we fought an endless onslaught of darkness.</string>
+	<string key="SkyeLetter06" start="39" end="47" dialogue-next="SkyeLetter07">Until that day, a faceless warlock cursed us. He stole our warrior's fire. </string>
+	<string key="SkyeLetter07" start="50" end="56" dialogue-next="SkyeLetter08">We tried everything to break free, even death.</string>
+	<string key="SkyeLetter08" start="56" end="60" dialogue-next="SkyeLetter09">But nothing worked... and without our strength, what were we?</string>
+	<string key="SkyeLetter09" start="60" end="68" dialogue-next="SkyeLetter10">Now, our enemies pursue an even darker power in Great Cleave. They must be stopped.</string>
+	<string key="SkyeLetter10" start="68" end="76">Hero of Aeternum, help me reclaim our fire, and strike our enemy asunder. </string>
+	<string key="TempestRisingMB01" start="1" end="7" dialogue-next="TempestRisingMB02">This island has always guarded the promise of paradise.</string>
+	<string key="TempestRisingMB02" start="7" end="13" dialogue-next="TempestRisingMB03">Humanity cast out, deemed unworthy of such blessings.</string>
+	<string key="TempestRisingMB03" start="13" end="21" dialogue-next="TempestRisingMB04">But I did not come here seeking paradise. I came for answers.</string>
+	<string key="TempestRisingMB04" start="21" end="25" dialogue-next="TempestRisingMB05">Redemption after a life of weakness and suffering.</string>
+	<string key="TempestRisingMB05" start="25" end="32" dialogue-next="TempestRisingMB06">And I found a truth that disproved everything I had been taught.</string>
+	<string key="TempestRisingMB06" start="32" end="43" dialogue-next="TempestRisingMB07">I tasted the knowledge forbidden to us at creation. And I saw the vision of humanity's true potential.</string>
+	<string key="TempestRisingMB07" start="43" end="53" dialogue-next="TempestRisingMB08">I knew then, I must correct this ancient injustice, and restore the power which is rightfully ours.</string>
+	<string key="TempestRisingMB08" start="55" end="61" dialogue-next="TempestRisingMB09">The heart of the mountain now beats strong with this purpose.</string>
+	<string key="TempestRisingMB09" start="61" end="67" dialogue-next="TempestRisingMB10">After a century of preparation, our campaign has begun.</string>
+	<string key="TempestRisingMB10" start="67" end="72" dialogue-next="TempestRisingMB11">The islands townships already fall before the might of our armies.</string>
+	<string key="TempestRisingMB11" start="72" end="77" dialogue-next="TempestRisingMB12">The only thing I had not foreseen is you.</string>
+	<string key="TempestRisingMB12" start="77" end="85" dialogue-next="TempestRisingMB13">You who have stolen the gift meant for me. And now your soul will pay the price.</string>
+	<string key="TempestRisingMB13" start="85" end="94" dialogue-next="TempestRisingMB14">For I will not stop until I have seized back the destiny stolen from us.</string>
+	<string key="TempestRisingMB14" start="94" end="100">And brought true freedom to the world both old and new.</string>
 	<string key="DevourerLegacy01" start="1" end="6" dialogue-next="DevourerLegacy02">The Babylonians called them, "Akilu."</string>
 	<string key="DevourerLegacy02" start="7" end="10" dialogue-next="DevourerLegacy03">The Egyptians, "Shah Neshen."</string>
 	<string key="DevourerLegacy03" start="11" end="14" dialogue-next="DevourerLegacy04">Its meaning? "The Devourer."</string>
@@ -119,6 +134,86 @@
 	<string key="DevourerLegacy14" start="83" end="87" dialogue-next="DevourerLegacy15">But the eggs are still alive.</string>
 	<string key="DevourerLegacy15" start="88" end="93" dialogue-next="DevourerLegacy16">And should they awaken without the Blood of the Sands to tend them...</string>
 	<string key="DevourerLegacy16" start="94" end="100">The world will know the true meaning of "Devourer."</string>
+	<string key="BonesEarth01" start="1" end="6" dialogue-next="BonesEarth02">The glyphs tell a tale of a civil war between the Ancient Immortals.</string>
+	<string key="BonesEarth02" start="6" end="13" dialogue-next="BonesEarth03">Those who sought to harness the power of Corruption battling against those who refused.</string>
+	<string key="BonesEarth03" start="13" end="18" dialogue-next="BonesEarth04">As the Corrupted neared victory, there was a final, desperate act of sacrifice...</string>
+	<string key="BonesEarth04" start="18" end="26" dialogue-next="BonesEarth05">These noble Ancients surrendering themselves, their azoth, to cleanse the scourge.</string>
+	<string key="BonesEarth05" start="26" end="31" dialogue-next="BonesEarth06">From their discarded earthly shells, new life arose.</string>
+	<string key="BonesEarth06" start="31" end="36" dialogue-next="BonesEarth07">Nature twisted in power and thirsting for vengeance.</string>
+	<string key="BonesEarth07" start="36" end="42" dialogue-next="BonesEarth08">Years passed, the boon of the Ancients' sacrifice blessing these lands.</string>
+	<string key="BonesEarth08" start="42" end="50" dialogue-next="BonesEarth09">The Angry Earth flourished and Edengrove along with it, but this surge was not to last.</string>
+	<string key="BonesEarth09" start="50" end="57" dialogue-next="BonesEarth10">The age-old evil arose again and the Wars of Crimson Madness began.</string>
+	<string key="BonesEarth10" start="58" end="66" dialogue-next="BonesEarth11">It seems the spawn of the sacrificed Ancients developed new defenses... the Blight, as we now know it.</string>
+	<string key="BonesEarth11" start="66" end="70" dialogue-next="BonesEarth12">The Angry Earth again overcame, becoming a threat to not just Corruption...</string>
+	<string key="BonesEarth12" start="70" end="75" dialogue-next="BonesEarth13">But this time, to the towns and settlements of humanity as well.</string>
+	<string key="BonesEarth13" start="75" end="81" dialogue-next="BonesEarth14">Even now, when we once again share in facing a greater threat...</string>
+	<string key="BonesEarth14" start="81" end="92">We mustn't forget - this is their home and they will defend it. We must trespass lightly here.</string>
+	<string key="FallCaerDun01" start="1" end="6" dialogue-next="FallCaerDun02">I've never seen anyone fight so bravely as Yonas did in Great Cleave.</string>
+	<string key="FallCaerDun02" start="6" end="11" dialogue-next="FallCaerDun03">Battered and bloody, he held the line.</string>
+	<string key="FallCaerDun03" start="11" end="18" dialogue-next="FallCaerDun04">Victorious, we returned here to heal and enjoy a moment of peace.</string>
+	<string key="FallCaerDun04" start="19" end="24" dialogue-next="FallCaerDun05">But in the quiet of the night, that peace was shattered.</string>
+	<string key="FallCaerDun05" start="24" end="32" dialogue-next="FallCaerDun06">The Corrupted washed over the fort in a wave – cutting and clawing, rending and tearing...</string>
+	<string key="FallCaerDun06" start="32" end="36" dialogue-next="FallCaerDun07">Our newest recruits were butchered.</string>
+	<string key="FallCaerDun07" start="38" end="46" dialogue-next="FallCaerDun08">I tried to help... Then that demon appeared, cutting down one after another. She would have finished me... </string>
+	<string key="FallCaerDun08" start="46" end="50" dialogue-next="FallCaerDun09">She should have... But Yonas was there...</string>
+	<string key="FallCaerDun09" start="51" end="57" dialogue-next="FallCaerDun10">Every ounce of his power, every swing and thrust, was to save us all.</string>
+	<string key="FallCaerDun10" start="57" end="60" dialogue-next="FallCaerDun11">But she was too strong.</string>
+	<string key="FallCaerDun11" start="60" end="65" dialogue-next="FallCaerDun12">She broke our fearless leader and dragged him away.</string>
+	<string key="FallCaerDun12" start="66" end="72" dialogue-next="FallCaerDun13">Our fortress in ruins... the Soulwardens, crushed.</string>
+	<string key="FallCaerDun13" start="72" end="80">We were too weak to stop them. There is nothing left.</string>
+	<string key="BeastLords01" start="1" end="7" dialogue-next="BeastLords02">At the dawn of time, the Beast Lords were among the Titans who roamed the Earth.</string>
+	<string key="BeastLords02" start="8" end="14" dialogue-next="BeastLords03">They existed in harmony, masters of the world in its natural state.</string>
+	<string key="BeastLords03" start="14" end="20" dialogue-next="BeastLords04">When the Ancients arrived, they sought dominion over all,</string>
+	<string key="BeastLords04" start="20" end="27" dialogue-next="BeastLords05">But the newcomers soon discovered Earth's primal children could not be tamed.</string>
+	<string key="BeastLords05" start="27" end="35" dialogue-next="BeastLords06">I walked among humans at that time and received the Ancients' immortal gifts.</string>
+	<string key="BeastLords06" start="35" end="40" dialogue-next="BeastLords07">I became their emissary to the primal world.</string>
+	<string key="BeastLords07" start="40" end="47" dialogue-next="BeastLords08">During the Ancients' Civil War, I fought alongside Artemis against the Corruption.</string>
+	<string key="BeastLords08" start="47" end="54" dialogue-next="BeastLords09">But the Beast Lords stayed out of the fray, withdrawing to their underworld realm.</string>
+	<string key="BeastLords09" start="54" end="58" dialogue-next="BeastLords10">Taking with them the Tear of Gaea,</string>
+	<string key="BeastLords10" start="58" end="63" dialogue-next="BeastLords11">Safekeeping its potential to transform the Earth.</string>
+	<string key="BeastLords11" start="64" end="70" dialogue-next="BeastLords12">Millennia later, the Huntress called on me to fight at her side once again...</string>
+	<string key="BeastLords12" start="70" end="77" dialogue-next="BeastLords13">Promising to restore the natural order and the Beast Lords to their place.</string>
+	<string key="BeastLords13" start="78" end="84" dialogue-next="BeastLords14">But her powers seem to have inspired a strange fury...</string>
+	<string key="BeastLords14" start="84" end="92">One I fear could become a destructive rage that threatens all Aeternum.</string>
+	<string key="NewEden01" start="0" end="6" dialogue-next="NewEden02">It began when the Ennead awakened, its power moving through the earth.</string>
+	<string key="NewEden02" start="6" end="13" dialogue-next="NewEden03">Its light erupting from the tower here in terrible glory.</string>
+	<string key="NewEden03" start="14" end="20" dialogue-next="NewEden04">Daring to investigate, they witnessed a hideous transformation...</string>
+	<string key="NewEden04" start="20" end="27" dialogue-next="NewEden05">Artemis created an ally, one whose gaze turned flesh to stone.</string>
+	<string key="NewEden05" start="28" end="33" dialogue-next="NewEden06">As the Ancient's terror spread, the people of the settlement staged a final stand...</string>
+	<string key="NewEden06" start="33" end="39" dialogue-next="NewEden07">But the flora of First Light twisted... and turned against them.</string>
+	<string key="NewEden07" start="39" end="44" dialogue-next="NewEden08">The defeated were told they had a greater purpose to serve...</string>
+	<string key="NewEden08" start="44" end="51" dialogue-next="NewEden09">Their fates and spirits would be bound... to the birthing of a new world.</string>
+	<string key="NewEden09" start="51" end="56" dialogue-next="NewEden10">It appears Artemis then called forth a beastly horde.</string>
+	<string key="NewEden10" start="56" end="61" dialogue-next="NewEden11">Primal creatures summoned from some abyssal realm.</string>
+	<string key="NewEden11" start="62" end="70" dialogue-next="NewEden12">What followed is madness... obscene acts to make amalgamations of people, beasts, and plants...</string>
+	<string key="NewEden12" start="71" end="77" dialogue-next="NewEden13">Our witness, in soulstruck horror, took flight in body... and in mind.</string>
+	<string key="NewEden13" start="77" end="83" dialogue-next="NewEden14">Her sanity is now shattered by this mad Ancient's vision for the future.</string>
+	<string key="NewEden14" start="83" end="89">A savage Eden where humanity has no place.</string>
+	<string key="ShadowAwakens01" start="1" end="7" dialogue-next="ShadowAwakens02">Since the beginning, I have sacrificed to protect the Earth.</string>
+	<string key="ShadowAwakens02" start="7" end="16" dialogue-next="ShadowAwakens03">Watching my brothers and sisters yield their very essence to stem the first tide of evil.</string>
+	<string key="ShadowAwakens03" start="17" end="28" dialogue-next="ShadowAwakens04">Upon its return, I sought to restore the garden, and to redeem humanity as Corruption's accomplice.</string>
+	<string key="ShadowAwakens04" start="29" end="37" dialogue-next="ShadowAwakens05">But you prevented that... and invited perils far greater than you can imagine.</string>
+	<string key="ShadowAwakens05" start="37" end="44" dialogue-next="ShadowAwakens06">Your allies go forth, bearing a power never meant for human hands.</string>
+	<string key="ShadowAwakens06" start="44" end="49" dialogue-next="ShadowAwakens07">Oblivious to the horrors it summons from the shadows.</string>
+	<string key="ShadowAwakens07" start="49" end="54" dialogue-next="ShadowAwakens08">The Beast Lords are but the vanguard for savage legions...</string>
+	<string key="ShadowAwakens08" start="54" end="59" dialogue-next="ShadowAwakens09">And they will hunt you down to reclaim their prize.</string>
+	<string key="ShadowAwakens09" start="60" end="69" dialogue-next="ShadowAwakens10">A darkness unseen for centuries awakens with an insatiable thirst...</string>
+	<string key="ShadowAwakens10" start="70" end="79" dialogue-next="ShadowAwakens11">And above all, the specter of time looms, seeking to claim its toll on Aeternum.</string>
+	<string key="ShadowAwakens11" start="79" end="87">At long-last, judgement comes for the island of immortals.</string>
+	<string key="DarkCommand01" start="1" end="7" dialogue-next="DarkCommand02">Neither duty nor divine purpose called me from the Old World...</string>
+	<string key="DarkCommand02" start="7" end="16" dialogue-next="DarkCommand03">I sailed into oblivion as master of my own destiny... fearless in my command.</string>
+	<string key="DarkCommand03" start="16" end="23" dialogue-next="DarkCommand04">And I found here that which I sought, the truth of power...</string>
+	<string key="DarkCommand04" start="23" end="29" dialogue-next="DarkCommand05">To which I proudly swore my eternal allegiance.</string>
+	<string key="DarkCommand05" start="30" end="35" dialogue-next="DarkCommand06">I began anew, authority and identity stripped away,</string>
+	<string key="DarkCommand06" start="35" end="43" dialogue-next="DarkCommand07">Embracing inhuman toil and suffering as the path to my return.</string>
+	<string key="DarkCommand07" start="43" end="49" dialogue-next="DarkCommand08">Time came when I could again prove my prowess in battle.</string>
+	<string key="DarkCommand08" start="49" end="56" dialogue-next="DarkCommand09">No man nor demon could withstand my newfound might.</string>
+	<string key="DarkCommand09" start="56" end="61" dialogue-next="DarkCommand10">My dominion established, a new destiny earned...</string>
+	<string key="DarkCommand10" start="62" end="69" dialogue-next="DarkCommand11">The voice of truth pronounced ME as champion of our righteous cause.</string>
+	<string key="DarkCommand11" start="69" end="75" dialogue-next="DarkCommand12">And I led our armies to victory again and again...</string>
+	<string key="DarkCommand12" start="75" end="81" dialogue-next="DarkCommand13">The remnants of ragged humanity crushed along the way...</string>
+	<string key="DarkCommand13" start="82" end="88" dialogue-next="DarkCommand14">To bring me here, to the precipice of my ultimate achievement.</string>
+	<string key="DarkCommand14" start="88" end="97">The forces of this world and those beyond... now under my command.</string>
 	<string key="FinalCinePlaceholderSub01" start="1" end="15">Placeholder video for the final version.</string>
 </resources>
 

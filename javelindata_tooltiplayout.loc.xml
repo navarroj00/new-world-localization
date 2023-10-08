@@ -250,7 +250,10 @@
 	<string key="FishT4_DerivedFrom">Electric Eel, Swordfish</string>
 	<string key="WheatT1_DerivedFrom">Wheat Plants</string>
 	<string key="RiceT1_DerivedFrom">Provision Containers</string>
-	<string key="EggT1_DerivedFrom">Turkey, Turkey Nest</string>
+	<string key="EggT1_DerivedFrom">Animal Nests</string>
+	<string key="EggT5_DerivedFrom" rel_version="Territory_FirstLight">Giant Lizard Nest, Elysian Wilds</string>
+	<string key="BananaT1_DerivedFrom" rel_version="Territory_FirstLight">Banana Trees, Elysian Wilds, </string>
+	<string key="MycodendraFleshT1_DerivedFrom" rel_version="Territory_FirstLight">Mycodendra, Mycocytes, Elysian Wilds</string>
 	<string key="PoultryT1_DerivedFrom">Turkey</string>
 	<string key="StrawberryT1_DerivedFrom">Strawberry Plants</string>
 	<string key="CranberryT1_DerivedFrom">Cranberry Plants</string>
@@ -3323,5 +3326,19 @@
 	<string key="PotionFamilyWardAeternianT3_CraftedAt" rel_version="Season_1_Perm">Arcane Repository Tier 3</string>
 	<string key="PotionFamilyWardAeternianT4_CraftedAt" rel_version="Season_1_Perm">Arcane Repository Tier 4</string>
 	<string key="PotionFamilyWardAeternianT5_CraftedAt" rel_version="Season_1_Perm">Arcane Repository Tier 5</string>
+	<string key="BlockT52_RefinedAt">Stonecutter Tier 5</string>
+	<string key="LeatherT52_RefinedAt">Tannery Tier 5</string>
+	<string key="RawhideT52_DerivedFrom">Skinnable Creatures</string>
+	<string key="OreT52_DerivedFrom">Mythril Veins</string>
+	<string key="IngotT52_RefinedAt">Smelter Tier 5</string>
+	<string key="WoodT52_DerivedFrom">Runewood Trees</string>
+	<string key="TimberT52_RefinedAt">Woodworking Tier 5</string>
+	<string key="FiberT52_DerivedFrom">Spinfiber Plants</string>
+	<string key="ClothT52_RefinedAt">Loom Tier 5</string>
+	<string key="BlockT53_RefinedAt">Stonecutter Tier 5</string>
+	<string key="LeatherT53_RefinedAt">Tannery Tier 5</string>
+	<string key="IngotT53_RefinedAt">Smelter Tier 5</string>
+	<string key="TimberT53_RefinedAt">Woodworking Tier 5</string>
+	<string key="ClothT53_RefinedAt">Loom Tier 5</string>
 </resources>
 

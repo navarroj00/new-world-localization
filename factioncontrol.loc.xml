@@ -3,9 +3,9 @@
 	<string key="ui_factioncontrol_claimed">Claimed</string>
 	<string key="ui_factioncontrol_contested">Contested</string>
 	<string key="ui_factioncontrol_unclaimed">Unclaimed</string>
-	<string key="ui_factioncontrol_reminder">Use\nReminder: You must be set to PvP and belong to a faction to enter at this time.</string>
-	<string key="ui_factioncontrol_reminder_map">Active: You must be set to PVP and belong to a faction to enter at this time. This Control Point will remain active until War is declared or Invasion is active.</string>
-	<string key="ui_factioncontrol_reminder_map_inactive">Event Ended: Control Point locked until one hour after the War or Invasion resolved.</string>
+	<string key="ui_factioncontrol_reminder">Use\nReminder: You must be flagged for PvP to enter at this time.</string>
+	<string key="ui_factioncontrol_reminder_map">Active: You must be flagged for PVP to enter. Outside of an Influence Race, this Control Point will lock for one hour after it is captured.</string>
+	<string key="ui_factioncontrol_reminder_map_inactive">Locked: Control Point locked for one hour once captured. During an Influence Race, the fort will not lock.</string>
 	<string key="ui_factioncontrol_reminder_map_inactive_specific">{siegeType} In Progress: Control Point locked until one hour after the {siegeType2} resolves.</string>
 	<string key="ui_factioncontrol_reminder_type_war">War</string>
 	<string key="ui_factioncontrol_reminder_type_invasion">Invasion</string>
@@ -14,11 +14,19 @@
 	<string key="ui_factioncontrol_status_label">Status</string>
 	<string key="ui_factioncontrol_benefits_label">Control Benefits</string>
 	<string key="ui_factioncontrol_territory_bonuses_label">Territory Bonuses</string>
+	<string key="ui_bonus_flyout_influencesection">Influence Section</string>
+	<string key="ui_bonus_flyout_towermodifier">Tower(s) Modifier:</string>
+	<string key="ui_bonus_flyout_fortmodifier">Fort Modifier:</string>
+	<string key="ui_bonus_flyout_underdogmodifier">Underdog Modifier:</string>
 	<string key="ui_factioncontrol_faction_bonuses_label">Faction Bonuses</string>
 	<string key="ui_factioncontrol_controlledby_inline">Controlled by {factionName}</string>
 	<string key="ui_factioncontrol_controlledby_label">Controlled by:</string>
 	<string key="ui_factioncontrol_defend_controlpoint">Defend the Control Point</string>
 	<string key="ui_factioncontrol_claim_controlpoint">Claim the Control Point</string>
+	<string key="ui_influencetower_bonus">+{multiplier}%</string>
+	<string key="ui_factioncontrol_defend_influencetower" rel_version="Feature_Influence_V2">Defend {towerName}</string>
+	<string key="ui_factioncontrol_claim_influencetower" rel_version="Feature_Influence_V2">Claim {towerName}</string>
+	<string key="ui_factioncontrol_reminder_influencetower" rel_version="Feature_Influence_V2">Flag for PvP in a Sanctuary to capture Influence Towers.</string>
 	<string key="ui_factioncontrol_fortcontested_announce">{fortName} is under attack!</string>
 	<string key="ui_factioncontrol_ownerchange_announce">{fortName} has been claimed by {factionName}!</string>
 	<string key="ui_factioncontrol_controlpointactive_announce">{fortName} can now be claimed. Take it for your faction!</string>
@@ -48,7 +56,7 @@
 	<string key="@ui_faction_store_discount_modifier_name">Global Faction Store Discount</string>
 	<string key="@ui_free_camping_name">Resourceless Camping</string>
 	<string key="@ui_chance_consumable_not_used_name">Global Consumable Bonus</string>
-	<string key="@ui_influencepoints_modifier_desc">Influence Points increased by {value}</string>
+	<string key="@ui_influencepoints_modifier_desc">Influence Points increased by {value} during an Influence Race</string>
 	<string key="@ui_experiencepoints_modifier_desc">Experience Points increased by {value}</string>
 	<string key="@ui_azoth_fasttravel_generalcost_reduction_desc">Fast Travel Azoth cost reduced by {value}</string>
 	<string key="@ui_azoth_fasttravel_weight_reduction_desc">Fast Travel Weight cost reduced to {value} per {scaleFactor} weight</string>
@@ -73,8 +81,8 @@
 	<string key="@ui_faction_store_discount_modifier_desc">Decreases the cost of items in the faction store by {value}.</string>
 	<string key="@ui_free_camping_desc">Camping no longer costs resources.</string>
 	<string key="@ui_chance_consumable_not_used_desc">Increases the chance that a consumable isn't consumed on use by {value}.</string>
-	<string key="@ui_fcp_crowdcontrol_qualified_warning">There are too many players from your faction in the fort area. Teleporting in {TeleportSeconds} seconds.</string>
-	<string key="@ui_fcp_crowdcontrol_unqualified_warning">There are too many players in the fort area. Teleporting in {TeleportSeconds} seconds.</string>
+	<string key="@ui_fcp_crowdcontrol_qualified_warning">There are too many players flagged or from your faction in the faction control point area. Teleporting in {TeleportSeconds} seconds.</string>
+	<string key="@ui_fcp_crowdcontrol_unqualified_warning">There are too many players in the faction control point area. Teleporting in {TeleportSeconds} seconds.</string>
 	<string key="@ui_fcp_fast_travel_discounts_title">Faction Control Discounts</string>
 	<string key="@ui_fcp_faction_mission_bonus_label">(+{value} from FCP)</string>
 </resources>

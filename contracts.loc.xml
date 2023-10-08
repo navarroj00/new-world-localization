@@ -27,6 +27,7 @@
 	<string key="ui_hideunequippable">Hide unequippable</string>
 	<string key="ui_canafford">Can Afford</string>
 	<string key="ui_canSell">Can Sell</string>
+	<string key="ui_canuse">Can Use</string>
 	<string key="ui_gem_selection_button_none">Gem: None selected</string>
 	<string key="ui_gem_selection_button_specific">Gem: {name}</string>
 	<string key="ui_perk_selection_button_none">Perks: None selected</string>
@@ -148,7 +149,7 @@
 	<string key="ui_contract_previous_freeweekend_encourage">You must have 3 hours of play time to buy or sell at the trading post.</string>
 	<string key="ui_contract_failure_server_error">Server error.</string>
 	<string key="ui_contract_failure_creator_cannot_complete">You cannot complete an order you created.</string>
-	<string key="ui_contract_failure_cross_world">You cannot use the trading post while in a cross world instance.</string>
+	<string key="ui_contract_failure_cross_world">You cannot use the trading post while in a Cross World instance.</string>
 	<string key="ui_contract_failure_invalid_request">Order request was invalid.</string>
 	<string key="ui_contract_failure_inventory_full">Inventory full.</string>
 	<string key="ui_contract_failure_throttled">Request throttled. Please wait and try again.</string>

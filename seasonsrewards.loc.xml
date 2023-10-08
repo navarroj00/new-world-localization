@@ -7,6 +7,9 @@
 	<string key="data_season_02_name" rel_version="Season_2_Perm">Season 2: Blood of the Sands</string>
 	<string key="data_season_02_display_name" rel_version="Season_2_Perm">Season 2</string>
 	<string key="data_season_02_desc" rel_version="Season_2_Perm">Mysteries will be uncovered and blood will be spilled, in the second Season for New World!</string>
+	<string key="data_season_03_name" rel_version="Season_3_Perm">Season 3: Rise of the Angry Earth</string>
+	<string key="data_season_03_display_name" rel_version="Season_3_Perm">Season 3</string>
+	<string key="data_season_03_desc" rel_version="Season_3_Perm">Return to First Light and face the newly rising threat, in the third Season for New World!</string>
 	<string key="seasons_rewards_categorical_progression_id" rel_version="Feature_Seasons_Rewards">Season Pass</string>
 	<string key="seasons_rewards_tab_battlepass" rel_version="Feature_Seasons_Rewards">Battle Pass</string>
 	<string key="seasons_rewards_tab_journey" rel_version="Feature_Seasons_Rewards">Journey</string>
@@ -70,6 +73,7 @@
 	<string key="ui_hiw_sect1_pt1" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Select a highlighted square to stamp the card and earn Season XP.</string>
 	<string key="ui_hiw_sect1_pt2" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Stamp lines on the card to earn additional Season XP.</string>
 	<string key="ui_hiw_sect1_pt3" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Complete enough stamps to finish a card and earn a new one.</string>
+	<string key="ui_hiw_sect1_pt4" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Obtain one wild stamp daily or by completing lines of four stamps on the activity card.</string>
 	<string key="ui_hiw_sect2_header" rel_version="Feature_Seasons_Rewards">Reroll</string>
 	<string key="ui_hiw_sect2_desc" rel_version="Feature_Seasons_Rewards">In exchange for Azoth, you may reroll the Activities list to get new ones. Any progress toward unstamped Activites will be lost.</string>
 	<string key="ui_hiw_sect2_pt1" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Each new card comes with 1 free reroll.</string>
@@ -263,6 +267,8 @@
 	<string key="SeasonsActivities_Catch1TreasureChest" rel_version="Feature_Seasons_Rewards">Fish Up Treasure Chests</string>
 	<string key="SeasonsActivities_Catch5RareFish" rel_version="Feature_Seasons_Rewards">Catch Rare Fish</string>
 	<string key="SeasonsActivities_Craft5T5WeaponOrApparel" rel_version="Feature_Seasons_Rewards">Craft Tier 5 Weapon or Apparel Items</string>
+	<string key="SeasonsActivities_Craft5T5Weapon" rel_version="Feature_Seasons_Rewards">Craft Tier 5 Weapon Items</string>
+	<string key="SeasonsActivities_Craft5T5Apparel" rel_version="Feature_Seasons_Rewards">Craft Tier 5 Apparel Items</string>
 	<string key="SeasonsActivities_Craft10T5Consumables" rel_version="Feature_Seasons_Rewards">Craft Tier 5 Consumables</string>
 	<string key="SeasonsActivities_KillingBlowOPR" rel_version="Feature_Seasons_Rewards">Get Killing Blows on Enemies in Outpost Rush</string>
 	<string key="SeasonsActivities_ParticipateIn1OPR" rel_version="Feature_Seasons_Rewards">Participate in Outpost Rush</string>
@@ -408,6 +414,8 @@
 	<string key="ui_seasons_task_name_CaptureFactionControlPoints_4" rel_version="Season_2_Perm">Control Point Conquest IV</string>
 	<string key="ui_seasons_task_description_CaptureFactionControlPointsSingle" rel_version="Season_2_Perm">Capture a Faction Control Point</string>
 	<string key="ui_seasons_task_description_CaptureFactionControlPoints" rel_version="Season_2_Perm">Capture {maxCount} Faction Control Points</string>
+	<string key="ui_seasons_task_name_CaptureInfluenceTowers_1" rel_version="Season_3_Perm">Tower's Call</string>
+	<string key="ui_seasons_task_description_CaptureInfluenceTowers" rel_version="Season_3_Perm">Capture {maxCount} Influence Towers</string>
 	<string key="ui_seasons_task_name_KillPlayerOpenWorld_1" rel_version="Season_2_Perm">Open World Menace</string>
 	<string key="ui_seasons_task_description_KillPlayerOpenWorld" rel_version="Season_2_Perm">Kill {maxCount} Players for Azoth Salt in the Open World</string>
 	<string key="ui_seasons_task_name_CompleteTrialHatchery" rel_version="Season_2_Perm">The Hatchery</string>
@@ -489,14 +497,143 @@
 	<string key="ui_seasons_task_description_Challenge_FishingAptitudeLevels" rel_version="Season_2_Perm">Earn {maxCount} Fishing Aptitude Levels</string>
 	<string key="ui_seasons_task_name_Challenge_CraftItemsGoldenScarabs" rel_version="Season_2_Perm">Golden Artisan</string>
 	<string key="SeasonsActivities_Complete2Songs" rel_version="Season_2_Perm">Play Songs</string>
-	<string key="ui_CWI_reroll_disabled_tooltip" rel_version="Season_2_Perm">Rerolling Activities is disabled while in Cross World Instances. Rerolls are available in your Home World.</string>
+	<string key="ui_seasons_task_name_ReachLevel65" rel_version="Season_3_Perm">Exceptionally Experienced</string>
+	<string key="ui_seasons_task_description_ReachLevel" rel_version="Season_3_Perm">Reach level {maxCount}</string>
+	<string key="ui_seasons_task_description_ReachLevel65" rel_version="Season_3_Perm">Reach level 65</string>
+	<string key="ui_seasons_task_name_FlailMastery_1" rel_version="Season_3_Perm">Fellowship of the Flail I</string>
+	<string key="ui_seasons_task_name_FlailMastery_2" rel_version="Season_3_Perm">Fellowship of the Flail II</string>
+	<string key="ui_seasons_task_name_FlailMastery_3" rel_version="Season_3_Perm">Fellowship of the Flail III</string>
+	<string key="ui_seasons_task_description_FlailMastery" rel_version="Season_3_Perm">Reach Mastery {maxCount} with the Flail</string>
+	<string key="ui_seasons_task_name_EdengroveSettlement" rel_version="Season_3_Perm">Edengrove Settler</string>
+	<string key="ui_seasons_task_description_EdengroveSettlement" rel_version="Season_3_Perm">Discover Edengrove Settlement</string>
+	<string key="ui_seasons_task_name_AcquireMount" rel_version="Season_3_Perm">My First Mount</string>
+	<string key="ui_seasons_task_description_AcquireMount" rel_version="Season_3_Perm">Acquire a mount</string>
+	<string key="ui_seasons_task_name_CraftMushroomFlask_1" rel_version="Season_3_Perm">Mushroom Maker I</string>
+	<string key="ui_seasons_task_name_CraftMushroomFlask_2" rel_version="Season_3_Perm">Mushroom Maker II</string>
+	<string key="ui_seasons_task_name_CraftMushroomFlask_3" rel_version="Season_3_Perm">Mushroom Maker III</string>
+	<string key="ui_seasons_task_name_CraftMushroomFlask_4" rel_version="Season_3_Perm">Mushroom Maker IV</string>
+	<string key="ui_seasons_task_description_CraftMushroomFlaskSingle" rel_version="Season_3_Perm">Craft a Spore Jelly Vial</string>
+	<string key="ui_seasons_task_description_CraftMushroomFlaskPotion" rel_version="Season_3_Perm">Craft {maxCount} Spore potions</string>
+	<string key="ui_seasons_task_description_UpgradeMushroomFlaskT3" rel_version="Season_3_Perm">Upgrade your Spore Jelly Container to a Bottle</string>
+	<string key="ui_seasons_task_description_UpgradeMushroomFlaskT5" rel_version="Season_3_Perm">Upgrade your Spore Jelly Container to a Jug</string>
+	<string key="ui_seasons_task_name_InfluenceRace_1" rel_version="Season_3_Perm">Influential I</string>
+	<string key="ui_seasons_task_name_InfluenceRace_2" rel_version="Season_3_Perm">Influential II</string>
+	<string key="ui_seasons_task_description_ParticipateInfluenceRaceSingle" rel_version="Season_3_Perm">Participate in an Influence Race</string>
+	<string key="ui_seasons_task_description_WinInfluenceRace" rel_version="Season_3_Perm">Win {maxCount} Influence Races</string>
+	<string key="ui_seasons_task_name_GatherSpore" rel_version="Season_3_Perm">Speaker for the Spores</string>
+	<string key="ui_seasons_task_description_GatherSpore" rel_version="Season_3_Perm">Harvest {maxCount} Spore Pods</string>
+	<string key="ui_seasons_task_name_Quest_InvasionOfArtemis" rel_version="Season_3_Perm">Defy the Divine</string>
+	<string key="ui_seasons_task_description_Quest_InvasionOfArtemis" rel_version="Season_3_Perm">Complete Quest: The Invasion of Artemis</string>
+	<string key="ui_seasons_task_name_GearScore700" rel_version="Season_3_Perm">Gallantly Geared</string>
+	<string key="ui_seasons_task_description_GearScore700Single" rel_version="Season_3_Perm">Equip a piece of GS 700 gear</string>
+	<string key="ui_seasons_task_name_CaptureInfluenceTower_1" rel_version="Season_3_Perm">Tower of Power I</string>
+	<string key="ui_seasons_task_description_CaptureInfluenceTower" rel_version="Season_3_Perm">Capture {maxCount} Influence Towers</string>
+	<string key="ui_seasons_task_name_Quest_IntoTheDarkness" rel_version="Season_3_Perm">Delve Into Darkness</string>
+	<string key="ui_seasons_task_description_Quest_IntoTheDarkness" rel_version="Season_3_Perm">Complete Quest: Into the Darkness</string>
+	<string key="ui_seasons_task_name_RidingTradeskill" rel_version="Season_3_Perm">Riding Rookie</string>
+	<string key="ui_seasons_task_name_RidingTradeskill_2" rel_version="Season_3_Perm">Rising Rider</string>
+	<string key="ui_seasons_task_description_RidingTradeskill" rel_version="Season_3_Perm">Reach level {maxCount} in the Riding Tradeskill</string>
+	<string key="ui_seasons_task_name_Forellac" rel_version="Season_3_Perm">Forellac Frolicker</string>
+	<string key="ui_seasons_task_description_Forellac" rel_version="Season_3_Perm">Discover Forellac</string>
+	<string key="ui_seasons_task_name_Quest_ToDivideAndConquer" rel_version="Season_3_Perm">Escape Artist</string>
+	<string key="ui_seasons_task_description_Quest_ToDivideAndConquer" rel_version="Season_3_Perm">Complete Quest: Escaping the Ruins</string>
+	<string key="ui_seasons_task_name_WarFirstLight" rel_version="Season_3_Perm">Battle for First Light</string>
+	<string key="ui_seasons_task_description_WarFirstLight" rel_version="Season_3_Perm">Participate in a War in First Light</string>
+	<string key="ui_seasons_task_name_LevelTradeskill250" rel_version="Season_3_Perm">Master of Your Craft</string>
+	<string key="ui_seasons_task_description_LevelTradeskill" rel_version="Season_3_Perm">Level a Tradeskill to {maxCount}</string>
+	<string key="ui_seasons_task_name_CraftGS700" rel_version="Season_3_Perm">Crafter of Greatness</string>
+	<string key="ui_seasons_task_description_CraftGS700" rel_version="Season_3_Perm">Craft {maxCount} GS 700 items</string>
+	<string key="ui_seasons_task_name_MountGear" rel_version="Season_3_Perm">Attachment Accumulator</string>
+	<string key="ui_seasons_task_description_MountGear" rel_version="Season_3_Perm">Equip {maxCount} Epic Mount Attachments at once</string>
+	<string key="ui_seasons_task_name_FlailDamageOrHeal" rel_version="Season_3_Perm">Flail Friend or Flail Foe</string>
+	<string key="ui_seasons_task_description_FlailDamageOrHeal" rel_version="Season_3_Perm">Damage or Heal {maxCount} health with the Flail</string>
+	<string key="ui_seasons_task_name_FlailNamed" rel_version="Season_3_Perm">Flail Fiend</string>
+	<string key="ui_seasons_task_description_FlailNamed" rel_version="Season_3_Perm">Kill {maxCount} level 65+ Named Enemies with the Flail</string>
+	<string key="ui_seasons_task_name_ScalefangEnclave" rel_version="Season_3_Perm">Scalefang Scout</string>
+	<string key="ui_seasons_task_description_ScalefangEnclave" rel_version="Season_3_Perm">Discover Scalefang Enclave</string>
+	<string key="ui_seasons_task_name_Quest_GardenOfTheGorgon" rel_version="Season_3_Perm">Gorgantuan Garden</string>
+	<string key="ui_seasons_task_description_Quest_GardenOfTheGorgon" rel_version="Season_3_Perm">Complete Quest: Garden of the Gorgon</string>
+	<string key="ui_seasons_task_name_AcquireMountTypes" rel_version="Season_3_Perm">Mount Maniac</string>
+	<string key="ui_seasons_task_description_AcquireMountTypes" rel_version="Season_3_Perm">Acquire all Mount types</string>
+	<string key="ui_seasons_task_name_CraftArtifact" rel_version="Season_3_Perm">Magnum Opus</string>
+	<string key="ui_seasons_task_description_CraftArtifactSingle" rel_version="Season_3_Perm">Craft an Artifact</string>
+	<string key="ui_seasons_task_name_KillPlayersFirstLight" rel_version="Season_3_Perm">Elysian Wild Fighter</string>
+	<string key="ui_seasons_task_description_KillPlayersFirstLight" rel_version="Season_3_Perm">Kill {maxCount} players in Elysian Wilds</string>
+	<string key="ui_seasons_task_name_AcquireArtifact" rel_version="Season_3_Perm">Chosen One</string>
+	<string key="ui_seasons_task_description_AcquireArtifactSingle" rel_version="Season_3_Perm">Equip an Artifact</string>
+	<string key="ui_seasons_task_name_KillPlayersFlail" rel_version="Season_3_Perm">Furiously Flailing</string>
+	<string key="ui_seasons_task_description_KillPlayersFlail" rel_version="Season_3_Perm">Kill {maxCount} players with the Flail</string>
+	<string key="ui_seasons_task_name_Quest_EndOfNewEden" rel_version="Season_3_Perm">Eden's End</string>
+	<string key="ui_seasons_task_description_Quest_EndOfNewEden" rel_version="Season_3_Perm">Complete Quest: The End of New Eden</string>
+	<string key="ui_seasons_task_name_Crystalclaw_1" rel_version="Season_3_Perm">Savage Divide Spelunker I</string>
+	<string key="ui_seasons_task_name_Crystalclaw_2" rel_version="Season_3_Perm">Savage Divide Spelunker II</string>
+	<string key="ui_seasons_task_name_Crystalclaw_3" rel_version="Season_3_Perm">Savage Divide Spelunker III</string>
+	<string key="ui_seasons_task_name_Crystalclaw_4" rel_version="Season_3_Perm">Savage Divide Spelunker IV</string>
+	<string key="ui_seasons_task_description_Crystalclaw" rel_version="Season_3_Perm">Complete Savage Divide</string>
+	<string key="ui_seasons_task_description_CrystalclawM1" rel_version="Season_3_Perm">Complete M1 Savage Divide</string>
+	<string key="ui_seasons_task_description_CrystalclawM2" rel_version="Season_3_Perm">Complete M2 Savage Divide</string>
+	<string key="ui_seasons_task_description_CrystalclawM3" rel_version="Season_3_Perm">Complete M3 Savage Divide</string>
+	<string key="ui_seasons_task_name_MountBuffs" rel_version="Season_3_Perm">Beastly Buffs</string>
+	<string key="ui_seasons_task_description_MountBuffs" rel_version="Season_3_Perm">Use {maxCount} Mount Consumables</string>
+	<string key="ui_seasons_task_name_MountRace_PathOfTheOldWarrior" rel_version="Season_3_Perm">Checkered Flag</string>
+	<string key="ui_seasons_task_description_MountRace_PathOfTheOldWarrior" rel_version="Season_3_Perm">Complete the Hermit's Rally race</string>
+	<string key="ui_seasons_task_name_FactionStory" rel_version="Season_3_Perm">Faction Famil</string>
+	<string key="ui_seasons_task_description_FactionStory" rel_version="Season_3_Perm">Complete your Faction's Story</string>
+	<string key="ui_seasons_task_name_FactionControlPointFirstLight" rel_version="Season_3_Perm">First Light Conquerer</string>
+	<string key="ui_seasons_task_description_FactionControlPointFirstLight" rel_version="Season_3_Perm">Capture {maxCount} Faction Control Points in First Light</string>
+	<string key="ui_seasons_task_name_BeastMode_1" rel_version="Season_3_Perm">Unleash the Beast I</string>
+	<string key="ui_seasons_task_name_BeastMode_2" rel_version="Season_3_Perm">Unleash the Beast II</string>
+	<string key="ui_seasons_task_description_BeastModeT2" rel_version="Season_3_Perm">Upgrade the Beast Mode Heartrune to T2</string>
+	<string key="ui_seasons_task_description_BeastModeT3" rel_version="Season_3_Perm">Upgrade the Beast Mode Heartrune to T3</string>
+	<string key="ui_seasons_task_name_ElafryPyrgo" rel_version="Season_3_Perm">Elafry Explorer</string>
+	<string key="ui_seasons_task_description_ElafryPyrgo" rel_version="Season_3_Perm">Discover Elafry Pyrgo</string>
+	<string key="ui_seasons_task_name_KongIsland" rel_version="Season_3_Perm">Zurvān's Elite</string>
+	<string key="ui_seasons_task_description_KongIsland" rel_version="Season_3_Perm">Kill 3 Elite Named monsters on the Isle of Zurvān</string>
+	<string key="ui_seasons_task_name_Challenge_CraftGS700" rel_version="Season_3_Perm">Mythic Artisan</string>
+	<string key="ui_seasons_task_description_Challenge_CraftGS700" rel_version="Season_3_Perm">Craft {maxCount} GS 700 items</string>
+	<string key="ui_seasons_task_name_Challenge_KillFlail" rel_version="Season_3_Perm">Frequent Flailer</string>
+	<string key="ui_seasons_task_description_Challenge_KillFlail" rel_version="Season_3_Perm">Kill {maxCount} Lvl65+ enemies with the Flail</string>
+	<string key="ui_seasons_task_name_Challenge_RidingTradeskill" rel_version="Season_3_Perm">Rough Rider</string>
+	<string key="ui_seasons_task_description_Challenge_RidingTradeskill" rel_version="Season_3_Perm">Reach level 250 in the Riding Tradeskill</string>
+	<string key="ui_seasons_task_name_Challenge_KillFirstLight" rel_version="Season_3_Perm">Fading Light</string>
+	<string key="ui_seasons_task_description_Challenge_KillFirstLight" rel_version="Season_3_Perm">Defeat {maxCount} Enemies in Elysian Wilds</string>
+	<string key="ui_seasons_task_name_Challenge_CrystalclawFlawless" rel_version="Season_3_Perm">Completely Savage</string>
+	<string key="ui_seasons_task_description_Challenge_CrystalclawFlawless" rel_version="Season_3_Perm">Complete M3 Savage Divide Flawlessly</string>
+	<string key="ui_seasons_task_name_Challenge_FirstLightPOI" rel_version="Season_3_Perm">Undaunted Explorer</string>
+	<string key="ui_seasons_task_description_Challenge_FirstLightPOI" rel_version="Season_3_Perm">Discover every Elysian Wilds POI</string>
+	<string key="ui_seasons_task_name_Challenge_InfluenceRace" rel_version="Season_3_Perm">Aeternum Influencer</string>
+	<string key="ui_seasons_task_description_Challenge_InfluenceRace" rel_version="Season_3_Perm">Win {maxCount} Influence Races</string>
+	<string key="ui_seasons_task_name_Challenge_MaxTradeskills" rel_version="Season_3_Perm">Multi-Talented</string>
+	<string key="ui_seasons_task_description_Challenge_MaxTradeskills" rel_version="Season_3_Perm">Level 5 Tradeskills to 250</string>
+	<string key="ui_seasons_task_name_Challenge_NamedFirstLight" rel_version="Season_3_Perm">Elysian Wilds Freedom Fighter</string>
+	<string key="ui_seasons_task_description_Challenge_NamedFirstLight" rel_version="Season_3_Perm">Kill {maxCount} Named enemies in Elysian Wilds</string>
+	<string key="ui_seasons_task_name_Challenge_EquipArtifacts" rel_version="Season_3_Perm">Legendary Adventurer</string>
+	<string key="ui_seasons_task_description_Challenge_EquipArtifacts" rel_version="Season_3_Perm">Equip a Weapon Artifact, Armor Artifact and Trinket Artifact at once</string>
+	<string key="ui_seasons_task_name_WinOutpostRush" rel_version="Season_3_Perm">Rush of Victory</string>
+	<string key="ui_seasons_task_description_WinOutpostRushSingle" rel_version="Season_3_Perm">Win an Outpost Rush</string>
+	<string key="ui_seasons_task_name_KillHercyne" rel_version="Season_3_Perm">Hercyne Hunter</string>
+	<string key="ui_seasons_task_description_KillHercyne" rel_version="Season_3_Perm">Kill {maxCount} Hercyne Creatures</string>
+	<string key="ui_seasons_task_name_KillPlants" rel_version="Season_3_Perm">Huge Horticulture</string>
+	<string key="ui_seasons_task_description_KillPlants" rel_version="Season_3_Perm">Kill {maxCount} Mega Flora</string>
+	<string key="ui_seasons_task_name_Challenge_MushroomFlask" rel_version="Season_3_Perm">Mushroom Muncher</string>
+	<string key="ui_seasons_task_description_Challenge_MushroomFlask" rel_version="Season_3_Perm">Consume a Spore Jelly potion {maxCount} times</string>
+	<string key="ui_seasons_task_name_Challenge_LootBeastChest" rel_version="Season_3_Perm">Beastly Treasure Hunter</string>
+	<string key="ui_seasons_task_description_Challenge_LootBeastChest" rel_version="Season_3_Perm">Loot {maxCount} Elite Beast Hoards.</string>
+	<string key="ui_seasons_wild_stamp_count" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/Wild-Stamp-Icon-Small" scale="2" yOffset="7"&gt;&lt;/img&gt; Wild Stamps: {count}</string>
+	<string key="ui_seasons_wild_stamp_count_and_max" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/Wild-Stamp-Icon-Small" scale="2" yOffset="7"&gt;&lt;/img&gt; Wild Stamps: {count}/{max}</string>
+	<string key="ui_seasons_wild_stamp_awarded_header" rel_version="Feature_Seasons_Rewards">Wild Stamp Bonus</string>
+	<string key="ui_seasons_wild_stamp_awarded" rel_version="Feature_Seasons_Rewards">You have earned a free stamp!\n\nYou may have up to {max} Wild Stamps at any time.</string>
+	<string key="ui_seasons_wild_stamp_awarded_nolimit" rel_version="Feature_Seasons_Rewards">You have earned a free stamp!\n\nThere is no limit to the number of Wild Stamps you may collect.</string>
+	<string key="ui_seasons_wild_stamp_award_pending" rel_version="Feature_Seasons_Rewards">You have reached your Wild Stamp Limit!\n\nUse one and re-log in to claim today's free Wild Stamp!</string>
+	<string key="ui_seasons_wild_stamp_tooltip" rel_version="Feature_Seasons_Rewards">Select any &lt;font color="#ffea00"&gt;OPEN SQUARE&lt;/font&gt; to &lt;font color="#ffea00"&gt;STAMP&lt;/font&gt; the Card.</string>
+	<string key="ui_CWI_reroll_disabled_tooltip" rel_version="Season_2_Perm">Rerolling is disabled while in Cross World Instances.</string>
 	<string key="ui_CWI_claiming_disabled_title" rel_version="Season_2_Perm">Claiming Disabled</string>
-	<string key="ui_CWI_claiming_items_disabled_desc" rel_version="Season_2_Perm">Claiming items is disabled in Cross World Instances. Claim Items when you're back in your Home World.</string>
-	<string key="ui_CWI_claiming_tasks_disabled_desc" rel_version="Season_2_Perm">Claiming tasks are disabled inside Cross World Instances. Claim Journey Tasks when you're back in your Home World.</string>
-	<string key="ui_CWI_basic_pass_desc" rel_version="Season_2_Perm">Upgrade your Season Pass to Premium. If you want the Head Start Pass, see the Head Start Tooltip for instructions.</string>
-	<string key="ui_CWI_headstart_pass_tooltip" rel_version="Season_2_Perm">"Purchasing Levels" is disabled while inside Cross World Instances. If you want the Head Start Pass, complete this purchase in your Home World.</string>
-	<string key="ui_CWI_purchase_levels_tooltip" rel_version="Season_2_Perm">Purchasing Levels is disabled in Cross World Instances.</string>
-	<string key="ui_CWI_purchase_premium_tooltip" rel_version="Season_2_Perm">Purchasing Premium is disabled in Cross World Instances.</string>
+	<string key="ui_CWI_claiming_items_disabled_desc" rel_version="Season_2_Perm">Item claiming is disabled in Cross World Instances and only available from your Home World.</string>
+	<string key="ui_CWI_claiming_tasks_disabled_desc" rel_version="Season_2_Perm">Task claiming is disabled inside Cross World Instances and only available from your Home World.</string>
+	<string key="ui_CWI_basic_pass_desc" rel_version="Season_2_Perm">Upgrade your Season Pass to Premium. If you want the Head Start Season Pass, see the Head Start Tooltip for instructions.</string>
+	<string key="ui_CWI_headstart_pass_tooltip" rel_version="Season_2_Perm">Level purchasing is disabled while inside Cross World Instances. The Head Start Season Pass is available from your Home World.</string>
+	<string key="ui_CWI_purchase_levels_tooltip" rel_version="Season_2_Perm">Level purchasing is disabled in Cross World Instances.</string>
+	<string key="ui_CWI_purchase_premium_tooltip" rel_version="Season_2_Perm">Purchasing the Premium Season Pass is disabled in Cross World Instances.</string>
 	<string key="SeasonsActivities_KillPOIMyrkgard" rel_version="Feature_Seasons_Rewards">Kill Enemies in Myrkgard</string>
 	<string key="SeasonsActivities_KillPOIImperialPalace" rel_version="Feature_Seasons_Rewards">Kill Enemies in the Imperial Palace</string>
 	<string key="SeasonsActivities_KillPOIMalevolence" rel_version="Feature_Seasons_Rewards">Kill Enemies in Malevolence</string>
@@ -508,5 +645,8 @@
 	<string key="SeasonsActivities_CompleteYahhhh" rel_version="Season_2_Perm">Play YAAAHHHHH!</string>
 	<string key="SeasonsActivities_Gather1MaudlinDust" rel_version="Season_2_Perm">Gather Maudlindust</string>
 	<string key="SeasonsActivities_Gather3AeternumSturgeon" rel_version="Season_2_Perm">Gather Aeternum Sturgeon</string>
+	<string key="SeasonsActivities_CompleteSavageDivide" rel_version="Feature_Seasons_Rewards">Complete a run of Savage Divide</string>
+	<string key="SeasonsActivities_GatherSporePlant" rel_version="Feature_Seasons_Rewards">Gather from a Spore Pod</string>
+	<string key="SeasonsActivities_CompleteAnyRace" rel_version="Feature_Seasons_Rewards">Complete a Mount Race</string>
 </resources>
 

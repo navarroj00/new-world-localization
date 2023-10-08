@@ -19,7 +19,7 @@
 	<string key="ui_war_healing_done_to_self" comment="Total amount of healing done to self">Self Healing</string>
 	<string key="ui_war_rank" comment="Heading for rank">Rank</string>
 	<string key="ui_war_score" comment="Heading for score">Score</string>
-	<string key="ui_war_total_damage_dealt" comment="Heading for total damage dealt with all weapons">Total Damage</string>
+	<string key="ui_war_total_damage_dealt" comment="Heading for total damage dealt with all weapons">Damage</string>
 	<string key="ui_war_kills" comment="Total kills by the player with all weapons">Kills</string>
 	<string key="ui_war_healing" comment="Total amount of healing done by player">Healing</string>
 	<string key="ui_war_damage_taken" comment="Total amount of damage taken by the player">Damage Taken</string>
@@ -72,9 +72,12 @@
 	<string key="ui_war_eom_performance_repairs">Repairs</string>
 	<string key="ui_war_eom_performance_reloads">Reloads</string>
 	<string key="ui_war_eom_performance_deaths">Deaths</string>
-	<string key="ui_war_eom_event_score">EVENT SCORE</string>
+	<string key="ui_war_eom_event_score">TOTAL SCORE</string>
 	<string key="ui_war_eom_war_results">WAR RESULTS</string>
 	<string key="ui_war_eom_war_standout_players">Standout Players</string>
+	<string key="ui_war_eom_war_standout_players_1">Syndicate Top Players</string>
+	<string key="ui_war_eom_war_standout_players_2">Marauder Top Players</string>
+	<string key="ui_war_eom_war_standout_players_3">Covenant Top Players</string>
 	<string key="ui_war_hint_press">Press</string>
 	<string key="ui_war_hint_for_warboard">Scoreboard</string>
 	<string key="ui_war_allies">Allies</string>

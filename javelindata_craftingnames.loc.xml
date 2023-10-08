@@ -1953,6 +1953,7 @@
 	<string key="GypsumOrbOrange">Gypsum Orb - Citrine</string>
 	<string key="GypsumOrbPurple">Gypsum Orb - Amethyst</string>
 	<string key="GypsumOrbWhite">Gypsum Orb - Diamond</string>
+	<string key="GypsumOrbSpores" rel_version="Territory_FirstLight_Spores">Gypsum Orb - Sporecraft</string>
 	<string key="Procedural_2hGreatSwordT2">Iron Greatsword</string>
 	<string key="Procedural_2hGreatSwordT3">Steel Greatsword</string>
 	<string key="Procedural_2hGreatSwordT4">Starmetal Greatsword</string>
@@ -1981,5 +1982,39 @@
 	<string key="Procedural_CoatingAeternianT3" rel_version="Season_1_Perm">Strong Human Coating</string>
 	<string key="Procedural_CoatingAeternianT4" rel_version="Season_1_Perm">Powerful Human Coating</string>
 	<string key="Procedural_CoatingAeternianT5" rel_version="Season_1_Perm">Infused Human Coating</string>
+	<string key="Procedural_1hFlailT2" rel_version="Weapon_Flail">Iron Flail</string>
+	<string key="Procedural_1hFlailT3" rel_version="Weapon_Flail">Steel Flail</string>
+	<string key="Procedural_1hFlailT4" rel_version="Weapon_Flail">Starmetal Flail</string>
+	<string key="Procedural_1hFlailT5" rel_version="Weapon_Flail">Orichalcum Flail</string>
+	<string key="Procedural_1hFlailT52" rel_version="Weapon_Flail">Mythril Flail</string>
+	<string key="CraftArtifact_Set1_HeavyHead_Name">Unyielding Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_HeavyChest_Name">Void Darkplate Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_HeavyHands_Name">Magnetic Gauntlets Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_HeavyLegs_Name">Freedom Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_MediumHead_Name">Djinn Headwrap Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_MediumChest_Name">Nimble Coat Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_MediumHands_Name">Ghoul Gloves Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_MediumLegs_Name">Attuned Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_LightHead_Name">Grey Wizard's Hat Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_LightChest_Name">Featherweight Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_LightFeet_Name">Tumbler Feetwraps Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_1hLongsword_Name">The Butcher Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_1hThrowingAxe_Name">Freya's Francisa Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_2hWarhammer_Name">Spark of Mjölnir Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_2hGreatAxe_Name">The Abyss Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_2hMusket_Name">The Mechanic Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_1hKiteShield_Name">Michael Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_1hTowerShield_Name">The Wall Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_2hStaffFire_Name">Inferno Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_2hSpear_Name">Scorpion's Sting Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_1hRapier_Name">Domingo's Blade Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_1hGauntletVoid_Name">Lifetaker Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_2hBlunderbuss_Name">Pestilence Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_2hGreatSword_Name">Serenity Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_1hFlail_Name">Odo Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_Earring1_Name">Endless Thirst Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_Ring1_Name">Blood Drinker Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_Amulet1_Name">Lost Stopwatch Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_Amulet2_Name">Ankh Upgrade at the Gypsum Kiln</string>
 </resources>
 

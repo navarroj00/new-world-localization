@@ -450,7 +450,7 @@
 	<string key="ui_permission_withdraw_from_structure">{allowed} remove items from storage structures</string>
 	<string key="ui_permissioncategory_members">Management</string>
 	<string key="ui_permissioncategory_communications">Communications</string>
-	<string key="ui_permissioncategory_structures">Structures</string>
+	<string key="ui_permissioncategory_structures">Territory</string>
 	<string key="ui_permissioncategory_treasury">Treasury</string>
 	<string key="ui_trade_failure">Trade Failed</string>
 	<string key="ui_trade_failure_invalid_transaction">Invalid transaction</string>
@@ -624,14 +624,17 @@
 	<string key="ui_war_time_dec_remaining">Time remaining to Declare War: {time}</string>
 	<string key="ui_in_conflict">In Conflict</string>
 	<string key="ui_war_refund_tooltip">The coins spent to declare war will be refunded if your Company is not selected.</string>
-	<string key="ui_not_in_conflict">Territory needs to be in conflict.</string>
+	<string key="ui_not_in_conflict">Territory needs to be in conflict following an Influence Race.</string>
 	<string key="ui_declare_war_hint">Other companies can declare war as well, the warring company will be randomly selected.</string>
 	<string key="ui_no_company" comment="text to show when a company name would be present but the player isn't in one">No Company</string>
 	<string key="ui_no_faction" comment="text to show when a faction name would be present but the player isn't in one">No Faction</string>
 	<string key="ui_wartime">War time</string>
+	<string key="ui_racetime" rel_version="Feature_Influence_V2">Race time</string>
+	<string key="ui_vs_other_factions" rel_version="Feature_Influence_V2">ENEMY FACTIONS</string>
 	<string key="ui_location">Location</string>
 	<string key="ui_how_does_war_work">How War Works</string>
 	<string key="ui_how_does_invasion_work">How does Invasion work?</string>
+	<string key="ui_how_does_influencerace_work" rel_version="Feature_Influence_V2">How do Influence Races work?</string>
 	<string key="ui_signup_restriction_tooltip">You cannot sign up for your faction's opponent.</string>
 	<string key="ui_signup_nofaction_tooltip">You must have a faction to sign up for a war.</string>
 	<string key="ui_signup_warinprogress_tooltip">You cannot sign up for a war or invasion that is already in progress.</string>

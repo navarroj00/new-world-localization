@@ -40,7 +40,9 @@
 	<string key="ui_red_button_coin_transferal_disabled">Coin Transferal Disabled</string>
 	<string key="ui_red_button_coin_generation_limited">Coin Generation Limited</string>
 	<string key="ui_red_button_crafting_disabled">Crafting Disabled</string>
-	<string key="ui_red_button_salvaging_disabled">Salvaging Disabled</string>
+	<string key="ui_red_button_all_salvaging_disabled">All Salvaging Disabled</string>
+	<string key="ui_red_button_item_salvaging_disabled">Item Salvaging Disabled</string>
+	<string key="ui_red_button_recipe_salvaging_disabled">Recipe Salvaging Disabled</string>
 	<string key="ui_red_button_open_loot_disabled">Reward Opening Disabled</string>
 	<string key="ui_notification_building_upgrade_impending_teleport_description">This structure is about to be modified. You will be teleported away from it in {secondsTillTeleport} seconds.</string>
 	<string key="ui_teleport_pending">Teleport Pending</string>

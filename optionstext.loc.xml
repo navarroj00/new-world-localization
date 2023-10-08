@@ -176,8 +176,41 @@
 	<string key="ui_profanity_filter_desc">Filter bad words from the chat</string>
 	<string key="ui_subtitles">Subtitles</string>
 	<string key="ui_subtitles_desc">Show subtitles for dialog</string>
+	<string key="ui_subtitles_textsize">Text Size</string>
+	<string key="ui_subtitles_textsize_desc">Adjust the size of subtitle text</string>
+	<string key="ui_subtitles_textsize_small">Small</string>
+	<string key="ui_subtitles_textsize_medium">Medium</string>
+	<string key="ui_subtitles_textsize_large">Large</string>
+	<string key="ui_subtitles_textsize_xl">Extra Large</string>
+	<string key="ui_subtitles_textcolor">Text Color</string>
+	<string key="ui_subtitles_textcolor_desc">Adjust the color of subtitle text</string>
+	<string key="ui_subtitles_textcolor_00">Warm White</string>
+	<string key="ui_subtitles_textcolor_01">Tan</string>
+	<string key="ui_subtitles_textcolor_02">White</string>
+	<string key="ui_subtitles_textcolor_03">Yellow</string>
+	<string key="ui_subtitles_textcolor_04">Green</string>
+	<string key="ui_subtitles_textcolor_05">Blue</string>
+	<string key="ui_subtitles_textcolor_06">Red</string>
+	<string key="ui_subtitles_textcolor_07">Magenta</string>
+	<string key="ui_subtitles_textcolor_08">Cyan</string>
+	<string key="ui_subtitles_textcolor_09">Black</string>
+	<string key="ui_subtitles_textborder">Text Border Effect</string>
+	<string key="ui_subtitles_textborder_desc">Show a black outline or drop shadow around subtitle text</string>
+	<string key="ui_subtitles_textborder_00">None</string>
+	<string key="ui_subtitles_textborder_01">Outline Hard</string>
+	<string key="ui_subtitles_textborder_02">Outline Soft</string>
+	<string key="ui_subtitles_textborder_03">Outline Black</string>
+	<string key="ui_subtitles_textborder_04">Drop Shadow</string>
+	<string key="ui_subtitles_speakername">Speaker Name</string>
+	<string key="ui_subtitles_speakername_desc">Show the speaker's name in subtitles</string>
+	<string key="ui_subtitles_speakername_color">Speaker Name Color</string>
+	<string key="ui_subtitles_speakername_color_desc">Adjust the color of speaker's name</string>
+	<string key="ui_subtitles_backing_opacity">Backing Opacity</string>
+	<string key="ui_subtitles_backing_opacity_desc">Adjust the opacity of subtitle backing (zero is off)</string>
+	<string key="ui_subtitles_sample_speaker">Speaker</string>
+	<string key="ui_subtitles_sample" speaker="@ui_subtitles_sample_speaker">This is a sample subtitle.</string>
 	<string key="ui_metaachievementpopups">Achievement Notifications</string>
-	<string key="ui_metaachievementpopups_desc">Show a HUD notification when an achievement is completed or nearly completed</string>
+	<string key="ui_metaachievementpopups_desc">Show a HUD notification when an achievement is completed</string>
 	<string key="ui_enable_territory_notifications">Territory Notifications</string>
 	<string key="ui_enable_territory_notifications_desc">Show HUD notifications relating to Territory control</string>
 	<string key="ui_enable_war_notifications">War/Invasion Notifications</string>
@@ -221,6 +254,12 @@
 	<string key="ui_strafeCamera_desc">Character always faces camera direction</string>
 	<string key="ui_alwaysShowReticle">Always Show Reticle</string>
 	<string key="ui_alwaysShowReticle_desc">Reticle is visible even when your weapon is sheathed</string>
+	<string key="ui_toggleblockads">Toggle Aim and Block</string>
+	<string key="ui_toggleblockads_desc">Toggle Aim or Block on and off with button press</string>
+	<string key="ui_reticleDefaultColor">Default Reticle Color</string>
+	<string key="ui_reticleDefaultColor_desc">Default color of the reticle</string>
+	<string key="ui_reticleLockColor">Reticle Lock color</string>
+	<string key="ui_reticleLockColor_desc">Reticle color when locked on a target</string>
 	<string key="ui_show_pvp_xp">Show PvP XP On Screen</string>
 	<string key="ui_show_pvp_xp_desc">Disable this to hide PvP XP gains.</string>
 	<string key="ui_showInspectHint">Social Actions Hotkey Hint</string>
@@ -278,8 +317,8 @@
 	<string key="ui_enable_camera_lock_select_raid_members_by_group_and_hotkey_description">Enables raid targeting that cycles through raid groups via middle mouse wheel and target members via hotkeys. Target Group Member key bindings will be required to select targets within a group. Automatically enables Group Mode in raids.</string>
 	<string key="ui_enable_show_healing_hotkeys_in_raid_hud">Show Hotkey Hints in Raid</string>
 	<string key="ui_enable_show_healing_hotkeys_in_raid_hud_description">Shows hotkey hints for each member of the currently selected group when Raid Targeting via Groups and Hotkeys is enabled.</string>
-	<string key="ui_raid_member_hotkeys_unbound_error_title">Group member hotkeys not bound</string>
-	<string key="ui_raid_member_hotkeys_unbound_error_message">Goto Key Bindings to bind all of the Life Staff Combat's Target Group Member inputs to use this feature.</string>
+	<string key="ui_raid_member_hotkeys_unbound_error_title">Hotkeys not bound</string>
+	<string key="ui_raid_member_hotkeys_unbound_error_message">Go to Key Bindings and bind all of the Life Staff Combat's Target Group Member inputs to turn on this feature.</string>
 	<string key="ui_gena_escape" rel_version="Feature_GameEntryNarrationAssistance">Escape</string>
 	<string key="ui_gena" rel_version="Feature_GameEntryNarrationAssistance">Game Entry Narration Assistance</string>
 	<string key="ui_gena_title" rel_version="Feature_GameEntryNarrationAssistance">Game Entry Narration Assistance</string>
@@ -327,5 +366,12 @@
 	<string key="ui_equip_loadout8" rel_version="Feature_Gear_Set_Storage">Equip Gear Set 8</string>
 	<string key="ui_equip_loadout9" rel_version="Feature_Gear_Set_Storage">Equip Gear Set 9</string>
 	<string key="ui_equip_loadout10" rel_version="Feature_Gear_Set_Storage">Equip Gear Set 10</string>
+	<string key="ui_reticle_color_white">White</string>
+	<string key="ui_reticle_color_red">Red</string>
+	<string key="ui_reticle_color_orange">Orange</string>
+	<string key="ui_reticle_color_yellow">Yellow</string>
+	<string key="ui_reticle_color_green">Green</string>
+	<string key="ui_reticle_color_blue">Blue</string>
+	<string key="ui_reticle_color_magenta">Magenta</string>
 </resources>
 

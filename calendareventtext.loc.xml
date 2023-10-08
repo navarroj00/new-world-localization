@@ -19,6 +19,7 @@
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Azoth Salt is a currency that allows you to acquire rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, killing players in the open world, and earning XP while flagged.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">REWARDS</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
+	<string key="ui_event_summer_progress_name" rel_version="Event_Summer_Perm">Event Reputation</string>
 	<string key="ui_event_weapon_xp_tabname">XP Event</string>
 	<string key="ui_event_weapon_xp_title">WEAPON XP BONUS EVENT</string>
 	<string key="ui_event_weapon_xp_desc">Active bonuses:</string>
@@ -134,11 +135,20 @@
 	<string key="ui_news_features_tabname">Features</string>
 	<string key="ui_news_pvp_tabname" rel_version="Feature_PVP_Arena02">PvP</string>
 	<string key="ui_news_transmog_tabname" rel_version="Season_2_Perm">Transmog</string>
+	<string key="ui_news_expansion_tabname" rel_version="Feature_Expansion_1">Expansion</string>
+	<string key="ui_news_expansions_tabname" rel_version="Feature_Expansion_1">Expansions</string>
+	<string key="ui_news_mount_tabname" rel_version="Feature_Mounts">Mount</string>
+	<string key="ui_news_mounts_tabname" rel_version="Feature_Mounts">Mounts</string>
+	<string key="ui_news_twitch_tabname" rel_version="Season_3_Perm">Twitch</string>
 	<string key="ui_news_bullet_armor_skins">Armor Skins</string>
 	<string key="ui_news_bullet_weapon_skins">Weapon Skins</string>
 	<string key="ui_news_bullet_weapons">Weapons</string>
+	<string key="ui_news_bullet_armor">Armor</string>
 	<string key="ui_news_bullet_emote">Emote</string>
 	<string key="ui_news_bullet_emotes">Emotes</string>
+	<string key="ui_news_bullet_housing">Housing</string>
+	<string key="ui_news_bullet_mounts" rel_version="Feature_Mounts">Mounts</string>
+	<string key="ui_news_bullet_mount_skins" rel_version="Feature_Mounts">Mount Skins</string>
 	<string key="ui_event_jan_mtx_title" rel_version="Entitlements_WinterDragon">Winter Dragon</string>
 	<string key="ui_event_jan_mtx_description" rel_version="Entitlements_WinterDragon">Is the shape of winter the shadow of a dragon? Visit the store for new cosmetics kissed by the frosty breath of the serpent! Don't get caught unprepared when less lethal combat breaks out! Pick up the Slap Fight emote or opt for the Tiptoe Walk in order to sneak past any violent squabbles instead!</string>
 	<string key="ui_event_jan_mtx_button_about" rel_version="Entitlements_WinterDragon">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Dragon</string>
@@ -236,10 +246,58 @@
 	<string key="ui_event_aug_mtx_title" rel_version="Entitlements_Balance">Balance</string>
 	<string key="ui_event_aug_mtx_description" rel_version="Entitlements_Balance">There is a constant swirl in the balance between light and shadow, the real and the void. Do you take sides in this eternal conflict? Or do you remain committed to neutrality? Take a stand and look for new apparel skins, weapon skins, and emote bundles in the store throughout the month!</string>
 	<string key="ui_event_aug_mtx_about" rel_version="Entitlements_Balance">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Balance</string>
-	<string key="ui_event_siege_of_sulfur_title" rel_version="Season_2_Event">Siege of Sulfur</string>
-	<string key="ui_event_siege_of_sulfur_description" rel_version="Season_2_Event">Sharif's Blood of the Sands mages are under attack! While transporting valuable Sandwurm Eggs to secure locations around Aeternum, these mages have been assaulted by the forces of Adiana. Enraged Sulfur Elementals are attempting to destroy the eggs and eradicate the wurms from Aeternum. Defend the eggs and earn valuable rewards including powerful gear, the Sandwurm Egg housing item, and the Mini Devourer Sandwurm Hat.</string>
-	<string key="ui_event_siege_of_sulfur_bullet1" rel_version="Season_2_Event">Sandwurm Hat</string>
-	<string key="ui_event_siege_of_sulfur_bullet2" rel_version="Season_2_Event">Egg</string>
-	<string key="ui_event_siege_of_sulfur_about" rel_version="Season_2_Event">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Siege of Sulfur</string>
+	<string key="ui_event_siege_of_sulfur_title" rel_version="Season_2_Perm">Siege of Sulfur</string>
+	<string key="ui_event_siege_of_sulfur_description" rel_version="Season_2_Perm">Sharif's Blood of the Sands mages are under attack! While transporting valuable Sandwurm Eggs to secure locations around Aeternum, these mages have been assaulted by the forces of Adiana. Enraged Sulfur Elementals are attempting to destroy the eggs and eradicate the wurms from Aeternum. Defend the eggs and earn valuable rewards including powerful gear, the Sandwurm Egg housing item, and the Mini Devourer Sandwurm Hat.</string>
+	<string key="ui_event_siege_of_sulfur_bullet1" rel_version="Season_2_Perm">Sandwurm Hat</string>
+	<string key="ui_event_siege_of_sulfur_bullet2" rel_version="Season_2_Perm">Egg</string>
+	<string key="ui_event_siege_of_sulfur_about" rel_version="Season_2_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Siege of Sulfur</string>
+	<string key="ui_event_call_of_the_wilds_title" rel_version="Season_3_Perm">Call of the Wilds</string>
+	<string key="ui_event_call_of_the_wilds_description" rel_version="Season_3_Perm">Ride mounts through the lush greenery of Elysian Wilds or follow your favorite streamers in the Call of the Wilds event on Twitch. Watch as they experience new Influence Races, encounter primordial Beast Lords, and explore powerful new combat options until 10/09/2023.\n\nAnswer the Call!</string>
+	<string key="ui_event_call_of_the_wilds_about" rel_version="Season_3_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Call of the Wilds</string>
+	<string key="ui_event_rise_of_the_angry_earth_title" rel_version="Feature_Expansion_1">Rise of the Angry Earth</string>
+	<string key="ui_event_rise_of_the_angry_earth_description" rel_version="Feature_Expansion_1">A new threat arises in the dark jungles of the Elysian Wilds, and only you can rise to face it.\n\nRumors are spreading of the terrors that await unwary travelers beyond the borders of the forest. Delve into the unknown to brave the Wilds and put a stop to Artemis' ancient and powerful magics — before her primal army wipes out all humanity from the face of Aeternum.\n\n&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Purchase the Rise of the Angry Earth DLC&lt;/font&gt;&lt;/font&gt; to unlock the Elysian Wilds, as well as exclusive content such as the brand-new Flail, powerful Artifacts, exclusive craftables, and Mounts!</string>
+	<string key="ui_event_rise_of_the_angry_earth_about" rel_version="Feature_Expansion_1">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Rise of the Angry Earth</string>
+	<string key="ui_event_season_three_title" rel_version="Season_3_Perm">Season 3</string>
+	<string key="ui_event_season_three_description" rel_version="Season_3_Perm">The scourge of the Angry Earth has risen! Complete Season 3 Activities and Journey Challenges to claim new, exclusive prizes — from all-new gear unearthed in the savage depths of the Elysian Wilds to mysterious Artifacts more powerful than anything seen before. </string>
+	<string key="ui_event_season_three_bullet1" rel_version="Season_3_Perm">Mount Attachments</string>
+	<string key="ui_event_season_three_bullet2" rel_version="Season_3_Perm">Artifacts</string>
+	<string key="ui_event_season_three_bullet3" rel_version="Season_3_Perm">Transmog Tokens</string>
+	<string key="ui_event_season_three_about" rel_version="Season_3_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Season Three</string>
+	<string key="ui_event_savage_divide_title" rel_version="Expedition_FirstLight_01">Savage Divide</string>
+	<string key="ui_event_savage_divide_description" rel_version="Expedition_FirstLight_01">Two wild Beast Lords have retreated to the ancient caverns beneath the Elysian Wilds. There, they lie in wait, amassing their strength as elemental rage twists them and their tribes into savage creatures. Rally together with your fellow fighters and delve into the dark miasma of the Savage Divide to face the ferocious Beast Lords and stem the onslaught of Medusa’s foul magics!\n\n&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Requires Rise of the Angry Earth.&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_event_savage_divide_about" rel_version="Expedition_FirstLight_01">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Savage Divide</string>
+	<string key="ui_event_mounts_title" rel_version="Feature_Mounts">Mounts</string>
+	<string key="ui_event_mounts_description" rel_version="Feature_Mounts">In Northern Everfall, the son of a legendary warlord has long been searching for a way to put his prowess as a horse trainer to use, and he wants you to assist him! Find Jochi in Everfall to begin your journey as a trainer, befriend three species of Mounts, and level up your loyal four-legged friends by feeding them and taking part in timed races and rallies!\n\n&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Requires Rise of the Angry Earth.&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_event_mounts_bullet1" rel_version="Feature_Mounts">Mount Skins</string>
+	<string key="ui_event_mounts_bullet2" rel_version="Feature_Mounts">Races</string>
+	<string key="ui_event_mounts_bullet3" rel_version="Feature_Mounts">Attachments</string>
+	<string key="ui_event_mounts_about" rel_version="Feature_Mounts">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Mounts</string>
+	<string key="ui_event_first_light_mtx_title" rel_version="Entitlements_FirstLightMTX">Opulent Verdure</string>
+	<string key="ui_event_first_light_mtx_description" rel_version="Entitlements_FirstLightMTX">What do you see in the early dawn at first light? The elegant beauty and raw power of nature? Or the flash of ancient steel, the flex of a finely crafted bow? New elegant and deadly implements are in the Store now!</string>
+	<string key="ui_event_first_light_mtx_bullet1" rel_version="Entitlements_FirstLightMTX">Armor Skins</string>
+	<string key="ui_event_first_light_mtx_bullet2" rel_version="Entitlements_FirstLightMTX">Weapon Skins</string>
+	<string key="ui_event_first_light_mtx_bullet3" rel_version="Entitlements_FirstLightMTX">Emotes</string>
+	<string key="ui_event_first_light_mtx_about" rel_version="Entitlements_FirstLightMTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Opulent Verdure</string>
+	<string key="ui_event_flail_tabname" rel_version="Weapon_Flail">Weapon</string>
+	<string key="ui_event_flail_title" rel_version="Weapon_Flail">Flail</string>
+	<string key="ui_event_flail_description" rel_version="Weapon_Flail">Take up arms against the Angry Earth scourge with the all-new Flail! Craft your own or slay your enemies in search of one, then swing your way to victory using both magic and might!\n\n&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Requires Rise of the Angry Earth.&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_event_flail_about" rel_version="Weapon_Flail">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About the Flail</string>
+	<string key="ui_event_artifacts_tabname" rel_version="Feature_Artifacts">Artifacts</string>
+	<string key="ui_event_artifacts_title" rel_version="Feature_Artifacts">Artifacts</string>
+	<string key="ui_event_artifacts_description" rel_version="Feature_Artifacts">Mysterious Artifacts have been unearthed across Aeternum, each bearing unique and powerful abilities waiting to be harnessed! Begin the search for yours today, then embark on unique quests to strengthen and attune your artifact until it — and you — are more powerful than ever!\n\n&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Requires Rise of the Angry Earth.&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_event_artifacts_about" rel_version="Feature_Artifacts">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Artifacts</string>
+	<string key="ui_event_influence_2_tabname" rel_version="Feature_Influence_V2">Influence</string>
+	<string key="ui_event_influence_2_title" rel_version="Feature_Influence_V2">Influence</string>
+	<string key="ui_event_influence_2_description" rel_version="Feature_Influence_V2">Join forces with friends to conquer Watch Towers and spread your faction’s influence across the lands of Aeternum! Battle for the right to lay siege to enemy territories by taking part in daily influence races — or hold your own against invading forces to prove your mettle to those who would try to usurp your lands.</string>
+	<string key="ui_event_influence_2_about" rel_version="Feature_Influence_V2">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Influence</string>
+	<string key="ui_event_nightveil_hallow_title" rel_version="Event_Halloween2023_Perm">Nightveil Hallow</string>
+	<string key="ui_event_nightveil_hallow_description" rel_version="Event_Halloween2023_Perm">Nightveil Hallow returns as Baalphazu, Marquis of Terror rises once again! Banish the shadowy demon back to the darkness, then celebrate your victory by donning unique costumes and trick-or-treating for brand new candy rewards in houses across Aeternum!</string>
+	<string key="ui_event_nightveil_hallow_about" rel_version="Event_Halloween2023_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Nightveil Hallow</string>
+	<string key="ui_event_oct_mtx_title" rel_version="Entitlements_DeepSea">Umbral Rites</string>
+	<string key="ui_event_oct_mtx_description" rel_version="Entitlements_DeepSea">The barrier between the spirit world and the physical world is thin on Aeternum. Be careful what spirits you summon! They just may stay longer than you planned. Visit the Shop today for nightmarish new visions!</string>
+	<string key="ui_event_oct_mtx_about" rel_version="Entitlements_DeepSea">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Umbral Rites</string>
+	<string key="ui_event_turkulon_title" rel_version="Event_Halloween2023_Perm">Turkulon</string>
+	<string key="ui_event_turkulon_description" comment="DO NOT TRANSLATE" rel_version="Event_Halloween2023_Perm">Turkulon Description Placeholder</string>
+	<string key="ui_event_turkulon_about" rel_version="Event_Halloween2023_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Turkulon</string>
 </resources>
 

@@ -1,0 +1,37 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_buy_on_steam">Buy on Steam</string>
+	<string key="prepurchase2023_page1_title" rel_version="Feature_Expansion_1">Overview</string>
+	<string key="prepurchase2023_page1_bullet1" rel_version="Feature_Expansion_1">A new Main Story Questline!</string>
+	<string key="prepurchase2023_page1_bullet2" rel_version="Feature_Expansion_1">Newly Revamped Zone: the Elysian Wilds!</string>
+	<string key="prepurchase2023_page1_bullet3" rel_version="Feature_Expansion_1">A new weapon to choose: the Flail!</string>
+	<string key="prepurchase2023_page1_bullet4" rel_version="Feature_Expansion_1">Level Cap increase to 65!</string>
+	<string key="prepurchase2023_page1_bullet5" rel_version="Feature_Expansion_1">New Feature: Mounts!</string>
+	<string key="prepurchase2023_page2_title" rel_version="Feature_Expansion_1">Mounts</string>
+	<string key="prepurchase2023_page2_bullet1" rel_version="Feature_Expansion_1">Play through a new quest series!</string>
+	<string key="prepurchase2023_page2_bullet2" rel_version="Feature_Expansion_1">Two race types: Rallies and Tours!</string>
+	<string key="prepurchase2023_page2_bullet3" rel_version="Feature_Expansion_1">Custom skins to personalize your Mount!</string>
+	<string key="prepurchase2023_page2_bullet4" rel_version="Feature_Expansion_1">Ride swift Horses, cunning Dire Wolves, or mighty Lions!</string>
+	<string key="prepurchase2023_page3_title" rel_version="Feature_Expansion_1">Flail</string>
+	<string key="prepurchase2023_page3_bullet1" rel_version="Feature_Expansion_1">Melee Support and Utility-style weapon</string>
+	<string key="prepurchase2023_page3_bullet2" rel_version="Feature_Expansion_1">New possible weapon pairings!</string>
+	<string key="prepurchase2023_page3_bullet3" rel_version="Feature_Expansion_1">Outlast your foes and support your allies!</string>
+	<string key="prepurchase2023_page3_bullet4" rel_version="Feature_Expansion_1">Search for new gear and items for your builds!</string>
+	<string key="prepurchase2023_page4_title" rel_version="Feature_Expansion_1">Elysian Wilds</string>
+	<string key="prepurchase2023_page4_bullet1" rel_version="Feature_Expansion_1">Discover the fate of First Light with Morgaine</string>
+	<string key="prepurchase2023_page4_bullet2" rel_version="Feature_Expansion_1">Reimagined zone provides new enemies and challenges!</string>
+	<string key="prepurchase2023_page4_bullet3" rel_version="Feature_Expansion_1">New Expedition: the Savage Divide!</string>
+	<string key="prepurchase2023_page5_title" rel_version="Feature_Expansion_1">Level Cap Increase</string>
+	<string key="prepurchase2023_page5_bullet1" rel_version="Feature_Expansion_1">Increased Gear Score!</string>
+	<string key="prepurchase2023_page5_bullet2" rel_version="Feature_Expansion_1">New Housing and expanded Storage!</string>
+	<string key="prepurchase2023_page5_bullet3" rel_version="Feature_Expansion_1">New challenges in PvE and PvP!</string>
+	<string key="postpurchase2023_text1" rel_version="Feature_Expansion_1">Congratulations on purchasing the new expansion, Rise of the Angry Earth!</string>
+	<string key="postpurchase2023_bullet1" rel_version="Feature_Expansion_1">Your level cap has been increased to 65, and your skill cap has increased to 250.</string>
+	<string key="postpurchase2023_bullet2" rel_version="Feature_Expansion_1">Morgaine is investigating the Angry Earth presence in First Light and needs your help!</string>
+	<string key="postpurchase2023_territoryObjective_eligible" rel_version="Feature_Expansion_1">The objective "&lt;font color={objectiveColor}&gt;The Invasion of Artemis&lt;/font&gt;" is now available.</string>
+	<string key="postpurchase2023_territoryObjective_ineligible" rel_version="Feature_Expansion_1">The objective "&lt;font color={objectiveColor}&gt;The Invasion of Artemis&lt;/font&gt;" will be available at level 60.</string>
+	<string key="postpurchase2023_bullet3" rel_version="Feature_Expansion_1">Mounts have arrived in Aeternum! Seek out Jochi Khan in Everfall to begin your training!</string>
+	<string key="postpurchase2023_mountObjective_eligible" rel_version="Feature_Expansion_1">The objective "&lt;font color={objectiveColor}&gt;My Kingdom For a Horse&lt;/font&gt;" is now available.</string>
+	<string key="postpurchase2023_mountObjective_ineligible" rel_version="Feature_Expansion_1">The objective "&lt;font color={objectiveColor}&gt;My Kingdom For a Horse&lt;/font&gt;" will be available at level 25.</string>
+	<string key="postpurchase2023_bullet4" rel_version="Feature_Expansion_1">You can now use the Flail, a one-handed support and utility weapon that allows the use of a shield. Find or craft one to get started!</string>
+</resources>
+

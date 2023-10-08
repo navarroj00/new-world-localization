@@ -93,7 +93,7 @@
 	<string key="ui_outpost_rush_invite_status">Accept to join the battle!</string>
 	<string key="ui_outpost_rush_signup_title">OUTPOST RUSH</string>
 	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;Outpost Rush&lt;/font&gt; is a 20v20 match that takes place on a large island with three Outposts that teams compete to capture and hold.</string>
-	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 600 to 600.</string>
+	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 675 to 675.</string>
 	<string key="ui_outpost_rush_signup_desc_cross_world">Outpost Rush is a 20x20 &lt;font color="#ffe940"&gt;Cross World game mode.&lt;/font&gt;</string>
 	<string key="ui_outpost_rush_signup_desc_cross_world_tooltip">&lt;font color="#ffe940"&gt;Cross World&lt;/font&gt; means that you will be playing together with players from all worlds within your region. This can help shorten wait times to find a match.\n\nThings to note:\n\n-When you see a player with &lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier" xPadding="-1" scale="1.8" yOffset="2"&gt;&lt;/img&gt; next to their name, this means they are from another world.\n\n-While in the Cross World match, several social functions will be disabled, including trading, invites, and more.\n\n-The OPR Wins Leaderboard is now a Regional Leaderboard.</string>
 	<string key="ui_outpost_rush_signup_goal1">Capture and hold Outposts to score</string>
@@ -192,6 +192,12 @@
 	<string key="ui_or_outpost_b">OUTPOST SOL</string>
 	<string key="ui_or_outpost_c">OUTPOST ASTRA</string>
 	<string key="ui_or_kills">KILLS</string>
+	<string key="ui_or_total_score_case">Total Score</string>
+	<string key="ui_or_points_from_case">Points From</string>
+	<string key="ui_or_outpost_a_case">Outpost Luna</string>
+	<string key="ui_or_outpost_b_case">Outpost Sol</string>
+	<string key="ui_or_outpost_c_case">Outpost Astra</string>
+	<string key="ui_or_kills_case">Kills</string>
 	<string key="ui_outpost_rush_storage_message">Only Outpost Rush items can be stored here.</string>
 	<string key="ui_outpost_rush_summoning_circle">Summoning Circle</string>
 	<string key="ui_outpost_rush_summoning_circle_desc">Use a Summoning Stone at this obelisk to add a monstrous ally to your team for a limited time.</string>
@@ -277,5 +283,25 @@
 	<string key="ui_matchmaking_ready_text">Your queued &lt;font color={color}&gt;match is ready to play&lt;/font&gt;. Teleport in now?</string>
 	<string key="dungeon_how_to_raid">How to Form a Raid</string>
 	<string key="dungeon_entry_requirements">Entry Requirements</string>
+	<string key="ui_influence_tutorial_how_it_works" rel_version="Feature_Influence_V2">How Influence Races Work</string>
+	<string key="ui_influence_tutorial_title1" rel_version="Feature_Influence_V2">Push Influence</string>
+	<string key="ui_influence_tutorial_title2" rel_version="Feature_Influence_V2">Faction Control Points</string>
+	<string key="ui_influence_tutorial_title3" rel_version="Feature_Influence_V2">Declare War</string>
+	<string key="ui_influence_tutorial_title4" rel_version="Feature_Influence_V2">Earn Rewards</string>
+	<string key="ui_influence_tutorial_desc1" rel_version="Feature_Influence_V2">Complete PvP missions and capture towers to push influence and put the territory into conflict.</string>
+	<string key="ui_influence_tutorial_desc2" rel_version="Feature_Influence_V2">Modifies the amount of Influence earned and provide a continuous flow of influence for the controlling faction.</string>
+	<string key="ui_influence_tutorial_desc3" rel_version="Feature_Influence_V2">Qualifying companies will be able to declare war at the end of every Influence Race.</string>
+	<string key="ui_influence_tutorial_desc4" rel_version="Feature_Influence_V2">Participating players will earn rewards. Bonus war cache for defenders winning the war. </string>
+	<string key="ui_pvp_balance_tooltip" rel_version="Feature_PvP_PvE_Split">PvP balancing is in effect.</string>
+	<string key="ui_pvp_balance_header" rel_version="Feature_PvP_PvE_Split">PvP balance modifiers in effect:</string>
+	<string key="ui_pvp_balance_global_disabled_weapon" rel_version="Feature_PvP_PvE_Split">PvP balancing is currently disabled for this weapon.</string>
+	<string key="ui_pvp_balance_global_disabled_mode" rel_version="Feature_PvP_PvE_Split">PvP balancing is currently disabled for this game mode.</string>
+	<string key="ui_pvp_balance_open_world_disabled" rel_version="Feature_PvP_PvE_Split">PvP balancing is currently disabled for Open World.</string>
+	<string key="ui_pvp_balance_damage_header" rel_version="Feature_PvP_PvE_Split">PvP Base Damage Modifiers:\n  • (Magic/Ranged values increased globally, but are tuned for balance in PvP)</string>
+	<string key="ui_pvp_balance_global_base_damage" rel_version="Feature_PvP_PvE_Split">Global:</string>
+	<string key="ui_pvp_balance_affix_stats" rel_version="Feature_PvP_PvE_Split">Affix Stat Damage Modifier:</string>
+	<string key="ui_pvp_balance_ability_damage_bonuses" rel_version="Feature_PvP_PvE_Split">Ability Damage Bonus Modifier:</string>
+	<string key="ui_pvp_balance_healing_category" rel_version="Feature_PvP_PvE_Split">Healing Modifiers:</string>
+	<string key="ui_pvp_balance_status_effect_potencies" rel_version="Feature_PvP_PvE_Split">Status Effect Potency:</string>
 </resources>
 

@@ -36,25 +36,25 @@
 	<string key="Expertise_Tooltip">Unlocks Expertise. Expertise is a measure of the potential power of your item drops. Drops from creatures and areas that are level 60+ have a chance to increase this value. The more powerful the creature or area, the more likely you will see an increase.</string>
 	<string key="Expertise_Upgrade_Unlock">Upgrade {category} items with Umbral Shards</string>
 	<string key="AzothStaffT1_Name">Azoth Staff</string>
-	<string key="AzothStaffT1_Tooltip">Unlocks "Forge the Staff" quest, which grants an Azoth Staff Tier 1 (upon completion). An Azoth staff is used to close Level 25 Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
+	<string key="AzothStaffT1_Tooltip">Unlocks "Reignition" quest, which grants an Azoth Staff Tier 1 (upon completion). An Azoth staff is used to close Level 25 Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
 	<string key="AzothStaffT2_Name">Azoth Staff Upgrade</string>
-	<string key="AzothStaffT2_Tooltip">Unlocks "Heart and Souls" quest, which grants an Azoth Staff Tier 2 (upon completion). An Azoth staff is used to close Level 35 Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
+	<string key="AzothStaffT2_Tooltip">Unlocks "The Curse of Caer Dun" quest, which grants an Azoth Staff Tier 2 (upon completion). An Azoth staff is used to close Level 35 Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
 	<string key="AzothStaffT3_Name">Azoth Staff Upgrade</string>
-	<string key="AzothStaffT3_Tooltip">Unlocks "The Alliance" quest, which grants an Azoth Staff Tier 3 (upon completion). An Azoth staff is used to close Level 45 Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
+	<string key="AzothStaffT3_Tooltip">Unlocks "Corruption Spreads its Hooks" quest, which grants an Azoth Staff Tier 3 (upon completion). An Azoth staff is used to close Level 45 Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
 	<string key="AzothStaffT4_Name">Azoth Staff Upgrade</string>
 	<string key="AzothStaffT4_Tooltip">Unlocks "Race for the Box" quest, which grants an Azoth Staff Tier 4 (upon completion). An Azoth staff is used to close Level 55 Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
 	<string key="AzothStaffT5_Name">Azoth Staff Upgrade</string>
-	<string key="AzothStaffT5_Tooltip">Unlocks "The Tempest's Heart" quest, which grants an Azoth Staff Tier 5 (upon completion). An Azoth staff is used to close Level 60 and 65+ Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
+	<string key="AzothStaffT5_Tooltip">Unlocks "Fortress at the Threshold" quest, which grants an Azoth Staff Tier 5 (upon completion). An Azoth staff is used to close Level 60 and 65+ Corruption Breaches.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
 	<string key="CampingT1_Name">Camping</string>
-	<string key="CampingT1_Tooltip">Complete the Quest "Friend or Foe" in Monarch's Bluffs or "Tracking the Tribute" in Windsward to unlock the ability to create a Campsite for respawning and crafting.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
+	<string key="CampingT1_Tooltip">Unlocks Tier 1 Camping.</string>
 	<string key="CampingT2_Name">Camping Upgrade</string>
-	<string key="CampingT2_Tooltip">Compete the Main Story Quest "Wilderness Wiseman" in Monarch's Bluffs or "Seed of Hope" in Windsward to upgrade the perks for your Campsites.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
+	<string key="CampingT2_Tooltip">Unlocks Tier 2 Camping.</string>
 	<string key="CampingT3_Name">Camping Upgrade</string>
-	<string key="CampingT3_Tooltip">Compete the Main Story Quest "Losing the Faith" in Brightwood to upgrade the perks for your Campsites.\n\nNote: You must complete the preceding Main Story quests before undertaking this quest.</string>
+	<string key="CampingT3_Tooltip">Unlocks Tier 3 Camping.</string>
 	<string key="CampingT4_Name">Camping Upgrade</string>
-	<string key="CampingT4_Tooltip">Unlocks "Survivalist: Lupine Observations" quest, which upgrades the camps you can build by one tier (upon completion).</string>
+	<string key="CampingT4_Tooltip">Unlocks Tier 4 Camping.</string>
 	<string key="CampingT5_Name">Camping Upgrade</string>
-	<string key="CampingT5_Tooltip">Unlocks "Survivalist: Fading Lights" quest, which upgrades the camps you can build by one tier (upon completion).</string>
+	<string key="CampingT5_Tooltip">Unlocks Tier 5 Camping.</string>
 	<string key="TerritoryRecommendation_1">Monarch's Bluffs, Windsward</string>
 	<string key="TerritoryRecommendation_1a">Everfall</string>
 	<string key="TerritoryRecommendation_2">Brightwood, Cutlass Keys</string>
@@ -62,7 +62,7 @@
 	<string key="TerritoryRecommendation_4">Restless Shore, Great Cleave</string>
 	<string key="TerritoryRecommendation_5">Mourningdale</string>
 	<string key="TerritoryRecommendation_6">Edengrove, Ebonscale</string>
-	<string key="TerritoryRecommendation_7">Reekwater, Shattered Mountain, Brimstone Sands</string>
+	<string key="TerritoryRecommendation_7">Reekwater, Shattered Mountain, Brimstone Sands, Elysian Wilds</string>
 	<string key="ui_new_recommended_territory">New recommended territory</string>
 	<string key="LoadoutSlots_Name" rel_version="Feature_Gear_Set_Storage">2x Gear Sets</string>
 	<string key="LoadoutSlots_Tooltip" rel_version="Feature_Gear_Set_Storage">Unlocks two gear sets.</string>
@@ -70,5 +70,9 @@
 	<string key="SeasonsRewards_Tooltip" rel_version="Feature_Seasons_Rewards">Unlocks the reward track in the season pass.</string>
 	<string key="SeasonsJourney_Name" rel_version="Feature_Seasons_Rewards">Season Journey</string>
 	<string key="SeasonsJourney_Tooltip" rel_version="Feature_Seasons_Rewards">Unlocks the journey in the season pass.</string>
+	<string key="Mount_Horse_Unlock" rel_version="Feature_Mounts">Mount Unlock Quest</string>
+	<string key="Mount_Horse_Tooltip" rel_version="Feature_Mounts">Unlocks "My Kingdom for a Horse" quest, which grants the ability to summon a Horse mount.\n\nRequires Rise of the Angry Earth</string>
+	<string key="Artifacts1_Name">Artifacts</string>
+	<string key="Artifacts1_Tooltip">Unlocks the ability to equip Artifacts.</string>
 </resources>
 

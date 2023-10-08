@@ -41,12 +41,12 @@
 	<string key="Skin_Musket_Jan2023_Description" rel_version="Weapon_WinterDragon_Musket">On a particularly cold day, the trail of its shot may linger as a cloud, like a single thread through the silken sky.</string>
 	<string key="Skin_GreatAxe_Jan2023_MasterName" rel_version="Weapon_WinterDragon_Greataxe">Wall of Frost</string>
 	<string key="Skin_GreatAxe_Jan2023_Description" rel_version="Weapon_WinterDragon_Greataxe">"And as the enemy breached, the brothers' blasted such a flurry of snow that it formed a towering wall over the kingdom and guarded it forevermore."</string>
-	<string key="house_housingitem_entitlement_winterdragon2022_dragonpillar01_mastername" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" gender="Needs Text Pass" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Draconic Pillar</string>
-	<string key="house_housingitem_entitlement_winterdragon2022_dragonpillar01_description" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" gender="Needs Text Pass" rel_version="Housing_NewYearDragon_MTX_Pack_2023">A monument to wintry leviathans, this pillar reaches towards the heavens to beckon their return.</string>
-	<string key="house_housingitem_entitlement_winterdragon2023_dragonfirescreen01_mastername" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" gender="Needs Text Pass" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Winter Fire Screen</string>
-	<string key="house_housingitem_entitlement_winterdragon2023_dragonfirescreen01_description" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" gender="Needs Text Pass" rel_version="Housing_NewYearDragon_MTX_Pack_2023">When behind this screen, even the greatest inferno feels as a crisp January breeze.</string>
-	<string key="House_HousingItem_Entitlement_WinterDragon2023_Gong01_MasterName" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" gender="Needs Text Pass" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Gong for Aid</string>
-	<string key="House_HousingItem_Entitlement_WinterDragon2023_Gong01_Description" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" gender="Needs Text Pass" rel_version="Housing_NewYearDragon_MTX_Pack_2023">It is said that the call of this gong once summoned dragons to fight at your side. No one knows why it stopped working.</string>
+	<string key="house_housingitem_entitlement_winterdragon2022_dragonpillar01_mastername" speaker="Text Updated:" comment="MTX-Pack-16-NewYears-2023" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Draconic Pillar</string>
+	<string key="house_housingitem_entitlement_winterdragon2022_dragonpillar01_description" speaker="Text Updated:" comment="MTX-Pack-16-NewYears-2023" rel_version="Housing_NewYearDragon_MTX_Pack_2023">A monument to wintry leviathans, this pillar reaches towards the heavens to beckon their return.</string>
+	<string key="house_housingitem_entitlement_winterdragon2023_dragonfirescreen01_mastername" speaker="Text Updated:" comment="MTX-Pack-16-NewYears-2023" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Winter Fire Screen</string>
+	<string key="house_housingitem_entitlement_winterdragon2023_dragonfirescreen01_description" speaker="Text Updated:" comment="MTX-Pack-16-NewYears-2023" rel_version="Housing_NewYearDragon_MTX_Pack_2023">When behind this screen, even the greatest inferno feels as a crisp January breeze.</string>
+	<string key="House_HousingItem_Entitlement_WinterDragon2023_Gong01_MasterName" speaker="Text Updated:" comment="MTX-Pack-16-NewYears-2023" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Gong for Aid</string>
+	<string key="House_HousingItem_Entitlement_WinterDragon2023_Gong01_Description" speaker="Text Updated:" comment="MTX-Pack-16-NewYears-2023" rel_version="Housing_NewYearDragon_MTX_Pack_2023">It is said that the call of this gong once summoned dragons to fight at your side. No one knows why it stopped working.</string>
 	<string key="Feb2023_Container_MasterName" rel_version="Entitlements_OmensOfWinter">Winter's Farewell Package</string>
 	<string key="Feb2023_Container_Description" rel_version="Entitlements_OmensOfWinter">A bundle of gifts to welcome you to spring.</string>
 	<string key="Skin_Chest_Feb2023_OmensWinterOwl_MasterName" rel_version="Apparel_OmensWinter_1">Cailleach Owl's Plume</string>
@@ -364,17 +364,13 @@
 	<string key="Skin_LoggingAxe_FrontierWastelander_MasterName">Nameless Vagabond's Logging Axe</string>
 	<string key="Skin_LoggingAxe_FrontierWastelander_Description">Better used for trees, but sharp enough for other uses.</string>
 	<string key="Skin_Pickaxe_FrontierWastelander_MasterName">Nameless Vagabond's Pickaxe</string>
-	<string key="Skin_Pickaxe_FrontierWastelander_Description">Unearth Aeternum's undiscovered treasures. Or at least some Ore.</string>
+	<string key="Skin_Pickaxe_FrontierWastelander_Description">Unearth Aeternum's undiscovered treasures. Or at least some precious minerals.</string>
 	<string key="Skin_Sickle_FrontierWastelander_MasterName">Nameless Vagabond's Sickle</string>
-	<string key="Skin_Sickle_FrontierWastelander_Description">For reaping of the sort found off the field of battle.</string>
+	<string key="Skin_Sickle_FrontierWastelander_Description">For a different sort of reaping away from the field of battle.</string>
 	<string key="Skin_SkinningKnife_FrontierWastelander_MasterName">Nameless Vagabond's Skinning Knife</string>
-	<string key="Skin_SkinningKnife_FrontierWastelander_Description">Waste not - all parts of your quarry are useful in their way.</string>
+	<string key="Skin_SkinningKnife_FrontierWastelander_Description">Waste not - all parts of your quarry are useful in their own way.</string>
 	<string key="Jun2023_Container_MasterName">Frontier Supply Crate</string>
 	<string key="Jun2023_Container_Description">Everything you need for venturing into the vast unknown.</string>
-	<string key="PrimeDay2023_Container_MasterName">Prime Bounty</string>
-	<string key="PrimeDay2023_Container_Description">A cache of fine items that had been stashed away for a special day.</string>
-	<string key="CampSkin_FrontierWaste01_A_MasterName">Rugged Respite</string>
-	<string key="CampSkin_FrontierWaste01_A_Description">Take shelter from the storms of dust and blood alike.</string>
 	<string key="Jul2023_Container_MasterName">Corroded Deep-Sea Chest</string>
 	<string key="Jul2023_Container_Description">The salt crust of prolonged submersion further protected its long-lost contents.</string>
 	<string key="Skin_Chest_Jul2023_DSGothConch_MasterName">Corrosive Oxidiver's Netting</string>
@@ -429,6 +425,149 @@
 	<string key="Skin_DeepSeaGothic_Hatchet_Description">The sea stops for no one, and neither shall you.</string>
 	<string key="Skin_DeepSeaGothic_VoidGauntlet_MasterName">Spiny Fathombinder of the Deep</string>
 	<string key="Skin_DeepSeaGothic_VoidGauntlet_Description">The sea's depths crush all, and so too shall you.</string>
+	<string key="Skin_Head_Aug2023_BalanceLight_MasterName">Equilibrium Armet</string>
+	<string key="Skin_Chest_Aug2023_BalanceLight_MasterName">Equilibrium Gambeson</string>
+	<string key="Skin_Hands_Aug2023_BalanceLight_MasterName">Equilibrium Gloves</string>
+	<string key="Skin_Legs_Aug2023_BalanceLight_MasterName">Equilibrium Trousers</string>
+	<string key="Skin_Feet_Aug2023_BalanceLight_MasterName">Equilibrium Riding Boots</string>
+	<string key="Skin_Head_Aug2023_BalanceLight_Description">Expertly maintaining the balance between darkness and light.</string>
+	<string key="Skin_Chest_Aug2023_BalanceLight_Description">Expertly maintaining the balance between darkness and light.</string>
+	<string key="Skin_Hands_Aug2023_BalanceLight_Description">Expertly maintaining the balance between darkness and light.</string>
+	<string key="Skin_Legs_Aug2023_BalanceLight_Description">Expertly maintaining the balance between darkness and light.</string>
+	<string key="Skin_Feet_Aug2023_BalanceLight_Description">Expertly maintaining the balance between darkness and light.</string>
+	<string key="Skin_Head_Aug2023_BalanceMedium_MasterName">Barbute of Order</string>
+	<string key="Skin_Chest_Aug2023_BalanceMedium_MasterName">Surcoat of Order</string>
+	<string key="Skin_Hands_Aug2023_BalanceMedium_MasterName">Gauntlets of Order</string>
+	<string key="Skin_Legs_Aug2023_BalanceMedium_MasterName">Slacks of Order</string>
+	<string key="Skin_Feet_Aug2023_BalanceMedium_MasterName">Cavalry Boots of Order</string>
+	<string key="Skin_Head_Aug2023_BalanceMedium_Description">Chaos and order, day and night, all has its place in the order of the world.</string>
+	<string key="Skin_Chest_Aug2023_BalanceMedium_Description">Chaos and order, day and night, all has its place in the order of the world.</string>
+	<string key="Skin_Hands_Aug2023_BalanceMedium_Description">Chaos and order, day and night, all has its place in the order of the world.</string>
+	<string key="Skin_Legs_Aug2023_BalanceMedium_Description">Chaos and order, day and night, all has its place in the order of the world.</string>
+	<string key="Skin_Feet_Aug2023_BalanceMedium_Description">Chaos and order, day and night, all has its place in the order of the world.</string>
+	<string key="Skin_Head_Aug2023_BalanceHeavy_MasterName">Great Helm of Harmony</string>
+	<string key="Skin_Chest_Aug2023_BalanceHeavy_MasterName">Cuirass of Harmony</string>
+	<string key="Skin_Hands_Aug2023_BalanceHeavy_MasterName">Vambraces of Harmony</string>
+	<string key="Skin_Legs_Aug2023_BalanceHeavy_MasterName">Greaves of Harmony</string>
+	<string key="Skin_Feet_Aug2023_BalanceHeavy_MasterName">Sabatons of Harmony</string>
+	<string key="Skin_Head_Aug2023_BalanceHeavy_Description">Symmetry and balance in all things - this is our oath.</string>
+	<string key="Skin_Chest_Aug2023_BalanceHeavy_Description">Symmetry and balance in all things - this is our oath.</string>
+	<string key="Skin_Hands_Aug2023_BalanceHeavy_Description">Symmetry and balance in all things - this is our oath.</string>
+	<string key="Skin_Legs_Aug2023_BalanceHeavy_Description">Symmetry and balance in all things - this is our oath.</string>
+	<string key="Skin_Feet_Aug2023_BalanceHeavy_Description">Symmetry and balance in all things - this is our oath.</string>
+	<string key="Skin_Aug2023_Balance_ShieldK_MasterName">Lucent Shadow</string>
+	<string key="Skin_Aug2023_Balance_Longsword_MasterName">Discord's Edge</string>
+	<string key="Skin_Aug2023_Balance_FireStaff_MasterName">Flame of the Scales</string>
+	<string key="Skin_Aug2023_Balance_Warhammer_MasterName">Weight of Symmetry</string>
+	<string key="Skin_Aug2023_Balance_ShieldK_Description">Raise high your unwavering shield in defense of the Balance.</string>
+	<string key="Skin_Aug2023_Balance_Longsword_Description">Raise high your keen edge in defense of the Balance.</string>
+	<string key="Skin_Aug2023_Balance_FireStaff_Description">Raise high your searing staff in defense of the Balance.</string>
+	<string key="Skin_Aug2023_Balance_Warhammer_Description">Raise high your mighty hammer in defense of the Balance.</string>
+	<string key="PrimeDay2023_Container_MasterName">Prime Bounty</string>
+	<string key="PrimeDay2023_Container_Description">A cache of fine items that had been stashed away for a special day.</string>
+	<string key="Aug2023_Container_MasterName">Equilibrium's Boon</string>
+	<string key="Aug2023_Container_Description">Balance is it's own reward... but these certainly won't hurt either.</string>
+	<string key="Skin_Head_Oct2023_SeanceMask01_MasterName" rel_version="Entitlements_Seance">Grinning Raven</string>
+	<string key="Skin_Head_Oct2023_SeanceMask02_MasterName" rel_version="Entitlements_Seance">Fiendish Imp</string>
+	<string key="Skin_Head_Oct2023_SeanceMask03_MasterName" rel_version="Entitlements_Seance">Blind Bull</string>
+	<string key="Skin_Head_Oct2023_SeanceMask04_MasterName" rel_version="Entitlements_Seance">Mind Melter</string>
+	<string key="Skin_Head_Oct2023_SeanceMask05_MasterName" rel_version="Entitlements_Seance">Rattle Bones</string>
+	<string key="Skin_Head_Oct2023_SeanceMask06_MasterName" rel_version="Entitlements_Seance">Sneering Crow</string>
+	<string key="Skin_Head_Oct2023_SeanceMask07_MasterName" rel_version="Entitlements_Seance">Waxen Witch</string>
+	<string key="Skin_Head_Oct2023_SeanceMask08_MasterName" rel_version="Entitlements_Seance">Bodysnatcher</string>
+	<string key="Skin_Head_Oct2023_SeanceMask01_Description" rel_version="Entitlements_Seance">Be wary of the entity that threatens one's identity.</string>
+	<string key="Skin_Head_Oct2023_SeanceLight_MasterName" rel_version="Entitlements_Seance">The Effigy's Blinds</string>
+	<string key="Skin_Chest_Oct2023_SeanceLight_MasterName" rel_version="Entitlements_Seance">The Effigy's Plume</string>
+	<string key="Skin_Hands_Oct2023_SeanceLight_MasterName" rel_version="Entitlements_Seance">The Effigy's Clutches</string>
+	<string key="Skin_Legs_Oct2023_SeanceLight_MasterName" rel_version="Entitlements_Seance">The Effigy's Kecks</string>
+	<string key="Skin_Feet_Oct2023_SeanceLight_MasterName" rel_version="Entitlements_Seance">The Effigy's Steps</string>
+	<string key="Skin_Head_Oct2023_SeanceLight_Description" rel_version="Entitlements_Seance">A soulless puppet. A blind servant. The perfect companion. The peril of her maker.</string>
+	<string key="Skin_Chest_Oct2023_SeanceLight_Description" rel_version="Entitlements_Seance">A soulless puppet. A blind servant. The perfect companion. The peril of her maker.</string>
+	<string key="Skin_Hands_Oct2023_SeanceLight_Description" rel_version="Entitlements_Seance">A soulless puppet. A blind servant. The perfect companion. The peril of her maker.</string>
+	<string key="Skin_Legs_Oct2023_SeanceLight_Description" rel_version="Entitlements_Seance">A soulless puppet. A blind servant. The perfect companion. The peril of her maker.</string>
+	<string key="Skin_Feet_Oct2023_SeanceLight_Description" rel_version="Entitlements_Seance">A soulless puppet. A blind servant. The perfect companion. The peril of her maker.</string>
+	<string key="Skin_Head_Oct2023_SeanceMedium_MasterName" rel_version="Entitlements_Seance">The Hay Man's Dry Crown</string>
+	<string key="Skin_Chest_Oct2023_SeanceMedium_MasterName" rel_version="Entitlements_Seance">The Hay Man's Hollow Heart</string>
+	<string key="Skin_Hands_Oct2023_SeanceMedium_MasterName" rel_version="Entitlements_Seance">The Hay Man's Nettle Mitts</string>
+	<string key="Skin_Legs_Oct2023_SeanceMedium_MasterName" rel_version="Entitlements_Seance">The Hay Man's Stuffed Legs</string>
+	<string key="Skin_Feet_Oct2023_SeanceMedium_MasterName" rel_version="Entitlements_Seance">The Hay Man's Straw Plinth</string>
+	<string key="Skin_Head_Oct2023_SeanceMedium_Description" rel_version="Entitlements_Seance">No crow fears what is only known in whispers as the Hay Man, for it is equally enmeshed in death as they are.</string>
+	<string key="Skin_Chest_Oct2023_SeanceMedium_Description" rel_version="Entitlements_Seance">No crow fears what is only known in whispers as the Hay Man, for it is equally enmeshed in death as they are.</string>
+	<string key="Skin_Hands_Oct2023_SeanceMedium_Description" rel_version="Entitlements_Seance">No crow fears what is only known in whispers as the Hay Man, for it is equally enmeshed in death as they are.</string>
+	<string key="Skin_Legs_Oct2023_SeanceMedium_Description" rel_version="Entitlements_Seance">No crow fears what is only known in whispers as the Hay Man, for it is equally enmeshed in death as they are.</string>
+	<string key="Skin_Feet_Oct2023_SeanceMedium_Description" rel_version="Entitlements_Seance">No crow fears what is only known in whispers as the Hay Man, for it is equally enmeshed in death as they are.</string>
+	<string key="Skin_Head_Oct2023_SeanceHeavy_MasterName" rel_version="Entitlements_Seance">Ethereal Hood of the Ferryman</string>
+	<string key="Skin_Chest_Oct2023_SeanceHeavy_MasterName" rel_version="Entitlements_Seance">Heartrune Lamp of the Ferryman</string>
+	<string key="Skin_Hands_Oct2023_SeanceHeavy_MasterName" rel_version="Entitlements_Seance">Cracked Gages of the Ferryman</string>
+	<string key="Skin_Legs_Oct2023_SeanceHeavy_MasterName" rel_version="Entitlements_Seance">Oily Netting of the Ferryman</string>
+	<string key="Skin_Feet_Oct2023_SeanceHeavy_MasterName" rel_version="Entitlements_Seance">Shackled Waders of the Ferryman</string>
+	<string key="Skin_Head_Oct2023_SeanceHeavy_Description" rel_version="Entitlements_Seance">One can only hope to never see a floating vessel in Aeternum, for it would surely be Charon's and this would surely be the Underworld.</string>
+	<string key="Skin_Chest_Oct2023_SeanceHeavy_Description" rel_version="Entitlements_Seance">One can only hope to never see a floating vessel in Aeternum, for it would surely be Charon's and this would surely be the Underworld.</string>
+	<string key="Skin_Hands_Oct2023_SeanceHeavy_Description" rel_version="Entitlements_Seance">One can only hope to never see a floating vessel in Aeternum, for it would surely be Charon's and this would surely be the Underworld.</string>
+	<string key="Skin_Legs_Oct2023_SeanceHeavy_Description" rel_version="Entitlements_Seance">One can only hope to never see a floating vessel in Aeternum, for it would surely be Charon's and this would surely be the Underworld.</string>
+	<string key="Skin_Feet_Oct2023_SeanceHeavy_Description" rel_version="Entitlements_Seance">One can only hope to never see a floating vessel in Aeternum, for it would surely be Charon's and this would surely be the Underworld.</string>
+	<string key="Skin_Head_Oct2023_SeanceDeluxe_MasterName" rel_version="Entitlements_Seance">The Prophet's Sightless Eyes</string>
+	<string key="Skin_Chest_Oct2023_SeanceDeluxe_MasterName" rel_version="Entitlements_Seance">The Prophet's Featherless Wings</string>
+	<string key="Skin_Hands_Oct2023_SeanceDeluxe_MasterName" rel_version="Entitlements_Seance">The Prophet's Warmthless Touch</string>
+	<string key="Skin_Legs_Oct2023_SeanceDeluxe_MasterName" rel_version="Entitlements_Seance">The Prophet's Hollow Shadow</string>
+	<string key="Skin_Feet_Oct2023_SeanceDeluxe_MasterName" rel_version="Entitlements_Seance">The Prophet's Silent Stide</string>
+	<string key="Skin_Head_Oct2023_SeanceDeluxe_Description" rel_version="Entitlements_Seance">I am All and I am Nothing. I am Everywhere and yet Nowhere. I am the One and now I am You.</string>
+	<string key="Skin_Chest_Oct2023_SeanceDeluxe_Description" rel_version="Entitlements_Seance">I am All and I am Nothing. I am Everywhere and yet Nowhere. I am the One and now I am You.</string>
+	<string key="Skin_Hands_Oct2023_SeanceDeluxe_Description" rel_version="Entitlements_Seance">I am All and I am Nothing. I am Everywhere and yet Nowhere. I am the One and now I am You.</string>
+	<string key="Skin_Legs_Oct2023_SeanceDeluxe_Description" rel_version="Entitlements_Seance">I am All and I am Nothing. I am Everywhere and yet Nowhere. I am the One and now I am You.</string>
+	<string key="Skin_Feet_Oct2023_SeanceDeluxe_Description" rel_version="Entitlements_Seance">I am All and I am Nothing. I am Everywhere and yet Nowhere. I am the One and now I am You.</string>
+	<string key="Skin_Oct2023_Seance_Bow_MasterName" rel_version="Entitlements_Seance">Marksman's Ossuary</string>
+	<string key="Skin_Oct2023_Seance_Greataxe_MasterName" rel_version="Entitlements_Seance">Barbarian's Ossuary</string>
+	<string key="Skin_Oct2023_Seance_FireStaff_MasterName" rel_version="Entitlements_Seance">Pyromancer's Ossuary</string>
+	<string key="Skin_Oct2023_Seance_ShieldT_MasterName" rel_version="Entitlements_Seance">Guardian's Ossuary</string>
+	<string key="Skin_Oct2023_Seance_Blunderbuss_MasterName" rel_version="Entitlements_Seance">Demolitionist's Ossuary</string>
+	<string key="Skin_Oct2023_Seance_Greatsword_MasterName" rel_version="Entitlements_Seance">Warrior’s Ossuary</string>
+	<string key="Skin_Oct2023_Bow_Description" rel_version="Entitlements_Seance">Only truer than their aim was their love. May they rest in peace.</string>
+	<string key="Skin_Oct2023_Greataxe_Description" rel_version="Entitlements_Seance">Unyielding to even death. May they rest in peace.</string>
+	<string key="Skin_Oct2023_FireStaff_Description" rel_version="Entitlements_Seance">Their flame burns eternal and ever bright. May they rest in peace.</string>
+	<string key="Skin_Oct2023_ShieldT_Description" rel_version="Entitlements_Seance">Once and always a defender from evil. May they rest in peace.</string>
+	<string key="Skin_Oct2023_Blunderbuss_Description" rel_version="Entitlements_Seance">Always wanted to go out with a 'bang'. May they rest in peace.</string>
+	<string key="Skin_Oct2023_Greatsword_Description" rel_version="Entitlements_Seance">Titans in life and beyond. May they rest in peace.</string>
+	<string key="CampSkin_Seance01_A_MasterName" rel_version="Entitlements_Seance">Ritual Hut</string>
+	<string key="CampSkin_Seance01_A_Description" rel_version="Entitlements_Seance">Many enter with visions of fortune. Few leave, transformed into little more than bone and dust.</string>
+	<string key="Sep2023_Container_PrimaryName">Gilded Verdure Cache</string>
+	<string key="Sep2023_Container_PrimaryDesc">All that glitters is not gold, but can be equally precious.</string>
+	<string key="Skin_FirstLightElven_ShieldR_PrimaryName">Ironwood Rondel</string>
+	<string key="Skin_FirstLightElven_ShieldR_PrimaryDesc">Unfailing protection in a surprisingly light package.</string>
+	<string key="Skin_FirstLightElven_Longsword_PrimaryName">Nettlecleaver</string>
+	<string key="Skin_FirstLightElven_Longsword_PrimaryDesc">Whatever you do, make sure you're not the one it stings.</string>
+	<string key="Skin_FirstLightElven_LifeStaff_PrimaryName">Silvervine Cane</string>
+	<string key="Skin_FirstLightElven_LifeStaff_PrimaryDesc">Let vine and branch inspire and heal.</string>
+	<string key="Skin_FirstLightElven_Bow_PrimaryName">Luminous Scatterspore</string>
+	<string key="Skin_FirstLightElven_Bow_PrimaryDesc">Don't let the elegant design fool you - it packs quite a punch.</string>
+	<string key="Skin_FirstLightElven_Spear_PrimaryName">Goldvein Spire</string>
+	<string key="Skin_FirstLightElven_Spear_PrimaryDesc">Graceful lines and precious gold form the fanciest pointy stick this side of Oxboro.</string>
+	<string key="Skin_FirstLightElven_Flail_PrimaryName">Chained Inflorescence</string>
+	<string key="Skin_FirstLightElven_Flail_PrimaryDesc">Lethal beauty in the palm of your hand, and the flanks of your foes.</string>
+	<string key="Skin_FirstLightElven_FishingPole_PrimaryName">Gilded Verdure Fishing Pole</string>
+	<string key="Skin_FirstLightElven_AzothStaff_PrimaryName">Gilded Verdure Azoth Scepter</string>
+	<string key="Skin_FirstLightElven_LoggingAxe_PrimaryName">Gilded Verdure Logging Axe</string>
+	<string key="Skin_FirstLightElven_Pickaxe_PrimaryName">Gilded Verdure Pickaxe</string>
+	<string key="Skin_FirstLightElven_Sickle_PrimaryName">Gilded Verdure Sickle</string>
+	<string key="Skin_FirstLightElven_SkinningKnife_PrimaryName">Gilded Verdure Skinning Knife</string>
+	<string key="Skin_FirstLightElven_FishingPole_Description">Surely the fish won't be able to resist this impressive work of artisanry.</string>
+	<string key="Skin_FirstLightElven_AzothStaff_Description">An elegant tool adorned in gilded branch and vine motif.</string>
+	<string key="Skin_FirstLightElven_LoggingAxe_Description">For only the fanciest timbers.</string>
+	<string key="Skin_FirstLightElven_Pickaxe_Description">Deceptively delicate in appearance, but absolutely up to the task.</string>
+	<string key="Skin_FirstLightElven_Sickle_Description">The leaflike blade is reminiscent of the very items it is meant to harvest.</string>
+	<string key="Skin_FirstLightElven_SkinningKnife_Description">Some skinners favor shorter blades such as this for their most precise work.</string>
+	<string key="2hBowFirstLightT5_TransmogName">Luminous Scatterspore</string>
+	<string key="1hSwordFirstLightT5_TransmogName">Nettlecleaver</string>
+	<string key="1hRoundShieldFirstLightT5_TransmogName">Ironwood Rondel</string>
+	<string key="2hSpearFirstLightT5_TransmogName">Goldvein Spire</string>
+	<string key="2hLifeStaffFirstLightT5_TransmogName">Silvervine Cane</string>
+	<string key="1hFlailFirstLightT5_TransmogName">Chained Inflorescence</string>
+	<string key="2hFishingPoleFirstLightElvenT5_TransmogName">Gilded Verdure Fishing Pole</string>
+	<string key="2hAzothScepterFirstLightElvenT5_TransmogName">Gilded Verdure Azoth Scepter</string>
+	<string key="2hLoggingAxeFirstLightElvenT5_TransmogName">Gilded Verdure Logging Axe</string>
+	<string key="1hPickaxeFirstLightElvenT5_TransmogName">Gilded Verdure Pickaxe</string>
+	<string key="1hSickleFirstLightElvenT5_TransmogName">Gilded Verdure Sickle</string>
+	<string key="1hSkinningKnifeFirstLightElvenT5_TransmogName">Gilded Verdure Skinning Knife</string>
 	<string key="Skin_Jul2023_DSGothConch_MasterName">Corrosive Oxidiver</string>
 	<string key="Skin_Jul2023_DSGothSkeleton_MasterName">Fathomless Depths</string>
 	<string key="Skin_Jul2023_DSGothCrab_MasterName">Pelagic Hunter</string>
@@ -436,45 +575,147 @@
 	<string key="Bundle_PR_DeepSeaGothic_Weapon_name">Deep Sea Denizen Weapons</string>
 	<string key="Bundle_PR_DeepSeaCreatures_Apparel_description">Drink deep of the wine-dark sea, and embrace the power held within.</string>
 	<string key="Bundle_PR_DeepSeaGothic_Weapon_description">Long have you known fathoms below contain unspeakable wonders - and now, they rest in your palms.</string>
-	<string key="Skin_Head_Aug2023_BalanceLight_MasterName" rel_version="Entitlements_Balance">Equilibrium Armet</string>
-	<string key="Skin_Chest_Aug2023_BalanceLight_MasterName" rel_version="Entitlements_Balance">Equilibrium Gambeson</string>
-	<string key="Skin_Hands_Aug2023_BalanceLight_MasterName" rel_version="Entitlements_Balance">Equilibrium Gloves</string>
-	<string key="Skin_Legs_Aug2023_BalanceLight_MasterName" rel_version="Entitlements_Balance">Equilibrium Trousers</string>
-	<string key="Skin_Feet_Aug2023_BalanceLight_MasterName" rel_version="Entitlements_Balance">Equilibrium Riding Boots</string>
-	<string key="Skin_Head_Aug2023_BalanceLight_Description" rel_version="Entitlements_Balance">Expertly maintaining the balance between darkness and light.</string>
-	<string key="Skin_Chest_Aug2023_BalanceLight_Description" rel_version="Entitlements_Balance">Expertly maintaining the balance between darkness and light.</string>
-	<string key="Skin_Hands_Aug2023_BalanceLight_Description" rel_version="Entitlements_Balance">Expertly maintaining the balance between darkness and light.</string>
-	<string key="Skin_Legs_Aug2023_BalanceLight_Description" rel_version="Entitlements_Balance">Expertly maintaining the balance between darkness and light.</string>
-	<string key="Skin_Feet_Aug2023_BalanceLight_Description" rel_version="Entitlements_Balance">Expertly maintaining the balance between darkness and light.</string>
-	<string key="Skin_Head_Aug2023_BalanceMedium_MasterName" rel_version="Entitlements_Balance">Barbute of Order</string>
-	<string key="Skin_Chest_Aug2023_BalanceMedium_MasterName" rel_version="Entitlements_Balance">Surcoat of Order</string>
-	<string key="Skin_Hands_Aug2023_BalanceMedium_MasterName" rel_version="Entitlements_Balance">Gauntlets of Order</string>
-	<string key="Skin_Legs_Aug2023_BalanceMedium_MasterName" rel_version="Entitlements_Balance">Slacks of Order</string>
-	<string key="Skin_Feet_Aug2023_BalanceMedium_MasterName" rel_version="Entitlements_Balance">Cavalry Boots of Order</string>
-	<string key="Skin_Head_Aug2023_BalanceMedium_Description" rel_version="Entitlements_Balance">Chaos and order, day and night, all has its place in the order of the world.</string>
-	<string key="Skin_Chest_Aug2023_BalanceMedium_Description" rel_version="Entitlements_Balance">Chaos and order, day and night, all has its place in the order of the world.</string>
-	<string key="Skin_Hands_Aug2023_BalanceMedium_Description" rel_version="Entitlements_Balance">Chaos and order, day and night, all has its place in the order of the world.</string>
-	<string key="Skin_Legs_Aug2023_BalanceMedium_Description" rel_version="Entitlements_Balance">Chaos and order, day and night, all has its place in the order of the world.</string>
-	<string key="Skin_Feet_Aug2023_BalanceMedium_Description" rel_version="Entitlements_Balance">Chaos and order, day and night, all has its place in the order of the world.</string>
-	<string key="Skin_Head_Aug2023_BalanceHeavy_MasterName" rel_version="Entitlements_Balance">Great Helm of Harmony</string>
-	<string key="Skin_Chest_Aug2023_BalanceHeavy_MasterName" rel_version="Entitlements_Balance">Cuirass of Harmony</string>
-	<string key="Skin_Hands_Aug2023_BalanceHeavy_MasterName" rel_version="Entitlements_Balance">Vambraces of Harmony</string>
-	<string key="Skin_Legs_Aug2023_BalanceHeavy_MasterName" rel_version="Entitlements_Balance">Greaves of Harmony</string>
-	<string key="Skin_Feet_Aug2023_BalanceHeavy_MasterName" rel_version="Entitlements_Balance">Sabatons of Harmony</string>
-	<string key="Skin_Head_Aug2023_BalanceHeavy_Description" rel_version="Entitlements_Balance">Symmetry and balance in all things - this is our oath.</string>
-	<string key="Skin_Chest_Aug2023_BalanceHeavy_Description" rel_version="Entitlements_Balance">Symmetry and balance in all things - this is our oath.</string>
-	<string key="Skin_Hands_Aug2023_BalanceHeavy_Description" rel_version="Entitlements_Balance">Symmetry and balance in all things - this is our oath.</string>
-	<string key="Skin_Legs_Aug2023_BalanceHeavy_Description" rel_version="Entitlements_Balance">Symmetry and balance in all things - this is our oath.</string>
-	<string key="Skin_Feet_Aug2023_BalanceHeavy_Description" rel_version="Entitlements_Balance">Symmetry and balance in all things - this is our oath.</string>
-	<string key="Skin_Aug2023_Balance_ShieldK_MasterName" rel_version="Entitlements_Balance">Lucent Shadow</string>
-	<string key="Skin_Aug2023_Balance_Longsword_MasterName" rel_version="Entitlements_Balance">Discord's Edge</string>
-	<string key="Skin_Aug2023_Balance_FireStaff_MasterName" rel_version="Entitlements_Balance">Flame of the Scales</string>
-	<string key="Skin_Aug2023_Balance_Warhammer_MasterName" rel_version="Entitlements_Balance">Weight of Symmetry</string>
-	<string key="Skin_Aug2023_Balance_ShieldK_Description" rel_version="Entitlements_Balance">Raise high your unwavering shield in defense of the Balance.</string>
-	<string key="Skin_Aug2023_Balance_Longsword_Description" rel_version="Entitlements_Balance">Raise high your keen edge in defense of the Balance.</string>
-	<string key="Skin_Aug2023_Balance_FireStaff_Description" rel_version="Entitlements_Balance">Raise high your searing staff in defense of the Balance.</string>
-	<string key="Skin_Aug2023_Balance_Warhammer_Description" rel_version="Entitlements_Balance">Raise high your mighty hammer in defense of the Balance.</string>
-	<string key="Aug2023_Container_MasterName" rel_version="Entitlements_Balance">Equilibrium's Boon</string>
-	<string key="Aug2023_Container_Description" rel_version="Entitlements_Balance">Balance is it's own reward... but these certainly won't hurt either.</string>
+	<string key="CampSkin_FrontierWaste01_A_MasterName">Rugged Respite</string>
+	<string key="CampSkin_FrontierWaste01_A_Description">Take shelter from the storms of dust and blood alike.</string>
+	<string key="Skin_Head_FirstLightElvenFlowingSilver_PrimaryName">Timbersworn Helm</string>
+	<string key="Skin_Chest_FirstLightElvenFlowingSilver_PrimaryName">Timbersworn Spaulder</string>
+	<string key="Skin_Hands_FirstLightElvenFlowingSilver_PrimaryName">Timbersworn Mitts</string>
+	<string key="Skin_Legs_FirstLightElvenFlowingSilver_PrimaryName">Timbersworn Trousers</string>
+	<string key="Skin_Feet_FirstLightElvenFlowingSilver_PrimaryName">Timbersworn Halfboots</string>
+	<string key="Skin_Head_FirstLightElvenFlowingSilver_PrimaryDesc">Stalk the wilds like a wraith, passing like a whisper through arbor and vine.</string>
+	<string key="Skin_Chest_FirstLightElvenFlowingSilver_PrimaryDesc">Stalk the wilds like a wraith, passing like a whisper through arbor and vine.</string>
+	<string key="Skin_Hands_FirstLightElvenFlowingSilver_PrimaryDesc">Stalk the wilds like a wraith, passing like a whisper through arbor and vine.</string>
+	<string key="Skin_Legs_FirstLightElvenFlowingSilver_PrimaryDesc">Stalk the wilds like a wraith, passing like a whisper through arbor and vine.</string>
+	<string key="Skin_Feet_FirstLightElvenFlowingSilver_PrimaryDesc">Stalk the wilds like a wraith, passing like a whisper through arbor and vine.</string>
+	<string key="Skin_Head_FirstLightElven_2_PrimaryName">Silverswept Burgonet</string>
+	<string key="Skin_Chest_FirstLightElven_2_PrimaryName">Silverswept Breastplate</string>
+	<string key="Skin_Hands_FirstLightElven_2_PrimaryName">Silverswept Vambraces</string>
+	<string key="Skin_Legs_FirstLightElven_2_PrimaryName">Silverswept Cuisses</string>
+	<string key="Skin_Feet_FirstLightElven_2_PrimaryName">Silverswept Sabaton</string>
+	<string key="Skin_Head_FirstLightElven_2_PrimaryDesc">Stand tall, stalwart guardian of the wilds, and hold high your silvery visage.</string>
+	<string key="Skin_Chest_FirstLightElven_2_PrimaryDesc">Stand tall, stalwart guardian of the wilds, and hold high your silvery visage.</string>
+	<string key="Skin_Hands_FirstLightElven_2_PrimaryDesc">Stand tall, stalwart guardian of the wilds, and hold high your silvery visage.</string>
+	<string key="Skin_Legs_FirstLightElven_2_PrimaryDesc">Stand tall, stalwart guardian of the wilds, and hold high your silvery visage.</string>
+	<string key="Skin_Feet_FirstLightElven_2_PrimaryDesc">Stand tall, stalwart guardian of the wilds, and hold high your silvery visage.</string>
+	<string key="Skin_Head_FirstLightElvenDeluxe1_PrimaryName">Verdant Dawn Barbute</string>
+	<string key="Skin_Chest_FirstLightElvenDeluxe1_PrimaryName">Verdant Dawn Plastron</string>
+	<string key="Skin_Hands_FirstLightElvenDeluxe1_PrimaryName">Verdant Dawn Gauntlets</string>
+	<string key="Skin_Legs_FirstLightElvenDeluxe1_PrimaryName">Verdant Dawn Tassets</string>
+	<string key="Skin_Feet_FirstLightElvenDeluxe1_PrimaryName">Verdant Dawn Sollerets</string>
+	<string key="Skin_Head_FirstLightElvenDeluxe1_PrimaryDesc">Keen eyes peer from behind a mask adorned in golden vines: ever watching, never ceasing.</string>
+	<string key="Skin_Chest_FirstLightElvenDeluxe1_PrimaryDesc">Keen eyes peer from behind a mask adorned in golden vines: ever watching, never ceasing.</string>
+	<string key="Skin_Hands_FirstLightElvenDeluxe1_PrimaryDesc">Keen eyes peer from behind a mask adorned in golden vines: ever watching, never ceasing.</string>
+	<string key="Skin_Legs_FirstLightElvenDeluxe1_PrimaryDesc">Keen eyes peer from behind a mask adorned in golden vines: ever watching, never ceasing.</string>
+	<string key="Skin_Feet_FirstLightElvenDeluxe1_PrimaryDesc">Keen eyes peer from behind a mask adorned in golden vines: ever watching, never ceasing.</string>
+	<string key="Skin_Head_FirstLightElvenDeluxe2_PrimaryName">Argent Arbor Barbute</string>
+	<string key="Skin_Chest_FirstLightElvenDeluxe2_PrimaryName">Argent Arbor Breastplate</string>
+	<string key="Skin_Hands_FirstLightElvenDeluxe2_PrimaryName">Argent Arbor Gauntlets</string>
+	<string key="Skin_Legs_FirstLightElvenDeluxe2_PrimaryName">Argent Arbor Greaves</string>
+	<string key="Skin_Feet_FirstLightElvenDeluxe2_PrimaryName">Argent Arbor Sollerets</string>
+	<string key="Skin_Head_FirstLightElvenDeluxe2_PrimaryDesc">Some armor is meant to blend with one's surroundings. This is not one such set.</string>
+	<string key="Skin_Chest_FirstLightElvenDeluxe2_PrimaryDesc">Some armor is meant to blend with one's surroundings. This is not one such set.</string>
+	<string key="Skin_Hands_FirstLightElvenDeluxe2_PrimaryDesc">Some armor is meant to blend with one's surroundings. This is not one such set.</string>
+	<string key="Skin_Legs_FirstLightElvenDeluxe2_PrimaryDesc">Some armor is meant to blend with one's surroundings. This is not one such set.</string>
+	<string key="Skin_Feet_FirstLightElvenDeluxe2_PrimaryDesc">Some armor is meant to blend with one's surroundings. This is not one such set.</string>
+	<string key="Skin_Head_FirstLightElvenTwitch_PrimaryName">Arborbound Illyrian</string>
+	<string key="Skin_Chest_FirstLightElvenTwitch_PrimaryName">Arborbound Pauldrons</string>
+	<string key="Skin_Hands_FirstLightElvenTwitch_PrimaryName">Arborbound Gloves</string>
+	<string key="Skin_Legs_FirstLightElvenTwitch_PrimaryName">Arborbound Slacks</string>
+	<string key="Skin_Feet_FirstLightElvenTwitch_PrimaryName">Arborbound Riding Boots</string>
+	<string key="Skin_Head_FirstLightElvenTwitch_PrimaryDesc">Bound by oath, in armor of gleaming steel and boiled leather.</string>
+	<string key="Skin_Chest_FirstLightElvenTwitch_PrimaryDesc">Bound by oath, in armor of gleaming steel and boiled leather.</string>
+	<string key="Skin_Hands_FirstLightElvenTwitch_PrimaryDesc">Bound by oath, in armor of gleaming steel and boiled leather.</string>
+	<string key="Skin_Legs_FirstLightElvenTwitch_PrimaryDesc">Bound by oath, in armor of gleaming steel and boiled leather.</string>
+	<string key="Skin_Feet_FirstLightElvenTwitch_PrimaryDesc">Bound by oath, in armor of gleaming steel and boiled leather.</string>
+	<string key="NightveilMaskBatWing_Head_TransmogName" rel_version="Event_Halloween2023_Perm">Chiroptera’s Cowl</string>
+	<string key="NightveilMaskBranches_Head_TransmogName" rel_version="Event_Halloween2023_Perm">Druids Headdress</string>
+	<string key="NightveilMaskJaws_Head_TransmogName" rel_version="Event_Halloween2023_Perm">Necromancers Crown</string>
+	<string key="NightveilMaskSnakes_Head_TransmogName" rel_version="Event_Halloween2023_Perm">Crone Visage</string>
+	<string key="Skin_Head_mossborneheavyroots_PrimaryName">Bloodwood Coronet</string>
+	<string key="Skin_Chest_mossborneheavyroots_PrimaryName">Bloodwood Thornvest</string>
+	<string key="Skin_Hands_mossborneheavyroots_PrimaryName">Bloodwood Vambraces</string>
+	<string key="Skin_Legs_mossborneheavyroots_PrimaryName">Bloodwood Cuisses</string>
+	<string key="Skin_Feet_mossborneheavyroots_PrimaryName">Bloodwood Boots</string>
+	<string key="Skin_Head_mossborneheavyroots_PrimaryDesc">Walking the fine line between symbiote and suit of armor with style.</string>
+	<string key="Skin_Chest_mossborneheavyroots_PrimaryDesc">Walking the fine line between symbiote and suit of armor with style.</string>
+	<string key="Skin_Hands_mossborneheavyroots_PrimaryDesc">Walking the fine line between symbiote and suit of armor with style.</string>
+	<string key="Skin_Legs_mossborneheavyroots_PrimaryDesc">Walking the fine line between symbiote and suit of armor with style.</string>
+	<string key="Skin_Feet_mossborneheavyroots_PrimaryDesc">Walking the fine line between symbiote and suit of armor with style.</string>
+	<string key="Oct2023_Container_PrimaryName">Ritualist's Cache</string>
+	<string key="Oct2023_Container_PrimaryDesc">What ritual you choose to enact is, of course, your own perogative.</string>
+	<string key="Bundle_PR_Elven_Apparel_name">Gilded Verdure Armor Bundle</string>
+	<string key="Bundle_PR_Elven_Weapon_name">Gilded Verdure Weapon Bundle</string>
+	<string key="Weapon_Elven_Shield_name">Ironwood Rondel</string>
+	<string key="Weapon_Elven_Lifestaff_name">Silvervine Cane</string>
+	<string key="Weapon_Elven_Bow_name">Luminous Scatterspore</string>
+	<string key="Weapon_Elven_Spear_name">Goldvein Spire</string>
+	<string key="Weapon_Elven_Flail_name">Chained Inflorescence</string>
+	<string key="Weapon_Elven_Longsword_name">Nettlecleaver</string>
+	<string key="Apparel_FirstLightElven_TimberswornEnforcer_name">Timbersworn Enforcer</string>
+	<string key="Apparel_FirstLightElven_SilversweptGuardian_name">Silverswept Guardian</string>
+	<string key="Apparel_FirstLightElven_VerdantDawnSentinel_name">Verdant Dawn's Sentinel</string>
+	<string key="Bundle_Tool_Elven_name">Gilded Verdure Tool Set</string>
+	<string key="CampSkin_FirstLightElven_1_name">Stonework Arbor</string>
+	<string key="Emote_FireSpin_name">Fire Spin Dance</string>
+	<string key="Emote_SuperHyped_name">Super Hyped</string>
+	<string key="Bundle_PR_Elven_Apparel_description">Cloaked in Nature's fury, set forth to explore the untamed wild.</string>
+	<string key="Bundle_PR_Elven_Weapon_description">The elegant beauty and raw power of nature, all in the palm of your hand.</string>
+	<string key="Weapon_Elven_Shield_description">Unfailing protection in a surprisingly elegant package.</string>
+	<string key="Weapon_Elven_Lifestaff_description">Let vine and branch inspire and heal.</string>
+	<string key="Weapon_Elven_Bow_description">Don't let the elegant design fool you - it packs quite a punch.</string>
+	<string key="Weapon_Elven_Spear_description">Graceful lines and precious gold form the fanciest pointy stick this side of Oxboro.</string>
+	<string key="Weapon_Elven_Flail_description">Lethal beauty in the palm of your hand, and the flanks of your foes.</string>
+	<string key="Weapon_Elven_Longsword_description">Whatever you do, make sure you're not the one it stings.</string>
+	<string key="Apparel_FirstLightElven_TimberswornEnforcer_description">Stalk the wilds like a wraith, passing like a whisper through arbor and vine.</string>
+	<string key="Apparel_FirstLightElven_SilversweptGuardian_description">Stand tall, stalwart guardian of the wilds, and hold high your silvery visage.</string>
+	<string key="Apparel_FirstLightElven_VerdantDawnSentinel_description">Keen eyes peer from behind a mask adorned in golden vines: ever watching, never ceasing.</string>
+	<string key="Bundle_Tool_Elven_description">Nature gives, and nature takes… but these tools may help you balance the scales.</string>
+	<string key="CampSkin_FirstLightElven_1_description">Rest amongst the elements and safely revel in the splendor of the world around you.</string>
+	<string key="Emote_FireSpin_description">Fire batons? That's hot.</string>
+	<string key="Emote_SuperHyped_description">For those times when you ARE the hype.</string>
+	<string key="Apparel_Seance_TheProphet_name">The Prophet</string>
+	<string key="Apparel_Seance_TheHayMan_name">The Hay Man</string>
+	<string key="Apparel_Seance_TheFerryman_name">The Ferryman</string>
+	<string key="Weapon_Seance_Greataxe_name">Barbarian's Ossuary</string>
+	<string key="Weapon_Seance_Greatsword_name">Warrior’s Ossuary</string>
+	<string key="Weapon_Seance_Bow_name">Marksman's Ossuary</string>
+	<string key="Weapon_Seance_Blunderbuss_name">Demolitionist's Ossuary</string>
+	<string key="Weapon_Seance_FireStaff_name">Pyromancer's Ossuary</string>
+	<string key="Weapon_Seance_Shield_name">Guardian's Ossuary</string>
+	<string key="CampSkin_Seance_1_name">Ritual Hut</string>
+	<string key="Bundle_PR_Seance_Apparel_name">Midnight Portents Armor Bundle</string>
+	<string key="Bundle_PR_Seance_Weapon_name">Fatebound Ossuary Weapon Bundle</string>
+	<string key="Apparel_Seance_TheProphet_description">I am All and I am Nothing. I am Everywhere and yet Nowhere. I am the One and now I am You.</string>
+	<string key="Apparel_Seance_TheHayMan_description">No crow fears what is only known in whispers as the Hay Man, for it is equally enmeshed in death as they are.</string>
+	<string key="Apparel_Seance_TheFerryman_description">One can only hope to never see a floating vessel in Aeternum, for it would surely be the Charon's and this would surely be the Underworld.</string>
+	<string key="Weapon_Seance_Greataxe_description">Unyielding to even death. May they rest in peace.</string>
+	<string key="Weapon_Seance_Greatsword_description">Titans in life and beyond. May they rest in peace.</string>
+	<string key="Weapon_Seance_Bow_description">Only truer than their aim was their love. May they rest in peace.</string>
+	<string key="Weapon_Seance_Blunderbuss_description">Always wanted to go out with a 'bang'. May they rest in peace.</string>
+	<string key="Weapon_Seance_FireStaff_description">Their flame burns eternal and ever bright. May they rest in peace.</string>
+	<string key="Weapon_Seance_Shield_description">Once and always a defender from evil. May they rest in peace.</string>
+	<string key="CampSkin_Seance_1_description">Many enter with visions of fortune. Few leave, transformed into little more than bone and dust.</string>
+	<string key="Bundle_PR_Seance_Apparel_description">When the moon looms above and the veil wears thin, they prowl and creak among the shadows.</string>
+	<string key="Bundle_PR_Seance_Weapon_description">Legends long past lend power in death, as they did in life.</string>
+	<string key="Token_PremiumEmote_WitchBroom_name">Witch's Broom</string>
+	<string key="ui_Emote_GravePeaceSign_name">Gravestone Peace Sign</string>
+	<string key="ui_Emote_Walk_Trex_name">T-rex Walk</string>
+	<string key="Token_PremiumEmote_WitchBroom_description">Fly, my pretty!</string>
+	<string key="ui_Emote_GravePeaceSign_description">For when you "Accidentally" kill your dueling partner.</string>
+	<string key="ui_Emote_Walk_Trex_description">Everybody do the dinosaur.</string>
+	<string key="Skin_MossborneTwitch_Flail_PrimaryName" rel_version="Entitlements_FirstLightMTX">Call of the Wilds Flail</string>
+	<string key="Skin_MossborneTwitch_Flail_PrimaryDesc" rel_version="Entitlements_FirstLightMTX">Heed the call and strike forth to explore the reborn wilds.</string>
+	<string key="Skin_Head_sprigganheavygrowth_PrimaryName">Mossclad Helm</string>
+	<string key="Skin_Chest_sprigganheavygrowth_PrimaryName">Mossclad Thornvest</string>
+	<string key="Skin_Hands_sprigganheavygrowth_PrimaryName">Mossclad Vambraces</string>
+	<string key="Skin_Legs_sprigganheavygrowth_PrimaryName">Mossclad Cuisses</string>
+	<string key="Skin_Feet_sprigganheavygrowth_PrimaryName">Mossclad Boots</string>
+	<string key="Skin_Head_sprigganheavygrowth_PrimaryDesc">By root and by branch, by bramble and thorn, to defense of these lands you now have been sworn.</string>
+	<string key="Skin_Chest_sprigganheavygrowth_PrimaryDesc">By root and by branch, by bramble and thorn, to defense of these lands you now have been sworn.</string>
+	<string key="Skin_Hands_sprigganheavygrowth_PrimaryDesc">By root and by branch, by bramble and thorn, to defense of these lands you now have been sworn.</string>
+	<string key="Skin_Legs_sprigganheavygrowth_PrimaryDesc">By root and by branch, by bramble and thorn, to defense of these lands you now have been sworn.</string>
+	<string key="Skin_Feet_sprigganheavygrowth_PrimaryDesc">By root and by branch, by bramble and thorn, to defense of these lands you now have been sworn.</string>
+	<string key="xpac_riseoftheangryearth_name">Rise of the Angry Earth Expansion</string>
+	<string key="xpac_riseoftheangryearth_desc">The first expansion for New World.</string>
 </resources>
 

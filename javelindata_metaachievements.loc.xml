@@ -314,6 +314,9 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_forge_title" rel_version="Expedition_GreatCleave_01">That was Hot</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_forge_title_SHE" rel_version="Expedition_GreatCleave_01">That Was Hot</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_forge_title_THEY" rel_version="Expedition_GreatCleave_01">That Was Hot</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_crystalclaw_title" rel_version="Expedition_FirstLight_01">Stampede</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_crystalclaw_title_SHE" rel_version="Expedition_FirstLight_01">Stampede</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_crystalclaw_title_THEY" rel_version="Expedition_FirstLight_01">Stampede</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1" rel_version="Feature_Dungeon_Mutators">Excavation Excitement</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1_SHE" rel_version="Feature_Dungeon_Mutators">Excavation Excitement</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1_THEY" rel_version="Feature_Dungeon_Mutators">Excavation Excitement</string>
@@ -374,6 +377,12 @@
 	<string key="ui_metachievement_pve_mutate_dungeon_forge_title2" rel_version="Expedition_GreatCleave_01">Metal Head</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_forge_title2_SHE" rel_version="Expedition_GreatCleave_01">Metal Head</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_forge_title2_THEY" rel_version="Expedition_GreatCleave_01">Metal Head</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_crystalclaw_title1" rel_version="Expedition_FirstLight_01">Red in Tooth and Claw</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_crystalclaw_title1_SHE" rel_version="Expedition_FirstLight_01">Red in Tooth and Claw</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_crystalclaw_title1_THEY" rel_version="Expedition_FirstLight_01">Red in Tooth and Claw</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_crystalclaw_title2" rel_version="Expedition_FirstLight_01">Bestial Cunning</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_crystalclaw_title2_SHE" rel_version="Expedition_FirstLight_01">Bestial Cunning</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_crystalclaw_title2_THEY" rel_version="Expedition_FirstLight_01">Bestial Cunning</string>
 	<string key="ui_metachievement_pve_arenascompleted_title">Arena Fighting</string>
 	<string key="ui_metachievement_pve_arenascompleted_title_SHE">Arena Fighting</string>
 	<string key="ui_metachievement_pve_arenascompleted_title_THEY">Arena Fighting</string>
@@ -600,6 +609,15 @@
 	<string key="ui_metachievement_questarc_edengrove_title3">Ranger's Secrets</string>
 	<string key="ui_metachievement_questarc_edengrove_title3_SHE">Ranger's Secrets</string>
 	<string key="ui_metachievement_questarc_edengrove_title3_THEY">Ranger's Secrets</string>
+	<string key="ui_metachievement_questarc_v2_edengrove_title1">The Untamed Garden</string>
+	<string key="ui_metachievement_questarc_v2_edengrove_title1_SHE">The Untamed Garden</string>
+	<string key="ui_metachievement_questarc_v2_edengrove_title1_THEY">The Untamed Garden</string>
+	<string key="ui_metachievement_questarc_v2_edengrove_title2">On the Wizard's Trail</string>
+	<string key="ui_metachievement_questarc_v2_edengrove_title2_SHE">On the Wizard's Trail</string>
+	<string key="ui_metachievement_questarc_v2_edengrove_title2_THEY">On the Wizard's Trail</string>
+	<string key="ui_metachievement_questarc_v2_edengrove_title3">Shadows Fall</string>
+	<string key="ui_metachievement_questarc_v2_edengrove_title3_SHE">Shadows Fall</string>
+	<string key="ui_metachievement_questarc_v2_edengrove_title3_THEY">Shadows Fall</string>
 	<string key="ui_metachievement_questarc_everfall_title1">Fancy Pants</string>
 	<string key="ui_metachievement_questarc_everfall_title1_SHE">Fancy Pants</string>
 	<string key="ui_metachievement_questarc_everfall_title1_THEY">Fancy Pants</string>
@@ -633,6 +651,15 @@
 	<string key="ui_metachievement_questarc_greatcleave_title3">Remembering The Fallen</string>
 	<string key="ui_metachievement_questarc_greatcleave_title3_SHE">Remembering The Fallen</string>
 	<string key="ui_metachievement_questarc_greatcleave_title3_THEY">Remembering The Fallen</string>
+	<string key="ui_metachievement_quest_greatcleave_thorpe" rel_version="Quest_MSQ2_GreatCleave">Thwarting Thorpe</string>
+	<string key="ui_metachievement_quest_greatcleave_thorpe_SHE" rel_version="Quest_MSQ2_GreatCleave">Thwarting Thorpe</string>
+	<string key="ui_metachievement_quest_greatcleave_thorpe_THEY" rel_version="Quest_MSQ2_GreatCleave">Thwarting Thorpe</string>
+	<string key="ui_metachievement_quest_greatcleave_gatebreaker" rel_version="Quest_MSQ2_GreatCleave">Gate Breaker</string>
+	<string key="ui_metachievement_quest_greatcleave_gatebreaker_SHE" rel_version="Quest_MSQ2_GreatCleave">Gate Breaker</string>
+	<string key="ui_metachievement_quest_greatcleave_gatebreaker_THEY" rel_version="Quest_MSQ2_GreatCleave">Gate Breaker</string>
+	<string key="ui_metachievement_quest_greatcleave_rescue" rel_version="Quest_MSQ2_GreatCleave">To the Rescue</string>
+	<string key="ui_metachievement_quest_greatcleave_rescue_SHE" rel_version="Quest_MSQ2_GreatCleave">To the Rescue</string>
+	<string key="ui_metachievement_quest_greatcleave_rescue_THEY" rel_version="Quest_MSQ2_GreatCleave">To the Rescue</string>
 	<string key="ui_metachievement_questarc_monarchsbluffs_title1">Monarch's Edicts</string>
 	<string key="ui_metachievement_questarc_monarchsbluffs_title1_SHE">Monarch's Edicts</string>
 	<string key="ui_metachievement_questarc_monarchsbluffs_title1_THEY">Monarch's Edicts</string>
@@ -785,6 +812,8 @@
 	<string key="ui_metaachievement_leaderboard_brimstone_top10_score_title_THEY" rel_version="Feature_Leaderboards">Ennead Medalist</string>
 	<string key="ui_metaachievement_leaderboard_forge_top5_score_title" rel_version="Expedition_GreatCleave_01">Forge Victor</string>
 	<string key="ui_metaachievement_leaderboard_forge_top25_score_title" rel_version="Expedition_GreatCleave_01">Forge Medalist</string>
+	<string key="ui_metaachievement_leaderboard_divide_top5_score_title" rel_version="Expedition_FirstLight_01">Divide Victor</string>
+	<string key="ui_metaachievement_leaderboard_divide_top25_score_title" rel_version="Expedition_FirstLight_01">Divide Medalist</string>
 	<string key="ui_metaachievement_leaderboard_depths_top1_score_title" rel_version="Feature_Leaderboards">Depths Victor</string>
 	<string key="ui_metaachievement_leaderboard_depths_top1_score_title_SHE" rel_version="Feature_Leaderboards">Depths Victor</string>
 	<string key="ui_metaachievement_leaderboard_depths_top1_score_title_THEY" rel_version="Feature_Leaderboards">Depths Victor</string>
@@ -847,6 +876,8 @@
 	<string key="ui_metaachievement_leaderboard_starstone_top10_time_title_THEY" rel_version="Feature_Leaderboards">Starstone Speed Medalist</string>
 	<string key="ui_metaachievement_leaderboard_forge_top5_time_title" rel_version="Expedition_GreatCleave_01">Forge Speed Victor</string>
 	<string key="ui_metaachievement_leaderboard_forge_top25_time_title" rel_version="Expedition_GreatCleave_01">Forge Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_divide_top5_time_title" rel_version="Expedition_FirstLight_01">Divide Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_divide_top25_time_title" rel_version="Expedition_FirstLight_01">Divide Speed Medalist</string>
 	<string key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title" rel_version="Feature_Leaderboards">Siren Queen Victor</string>
 	<string key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title_SHE" rel_version="Feature_Leaderboards">Siren Queen Victor</string>
 	<string key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title_THEY" rel_version="Feature_Leaderboards">Siren Queen Victor</string>
@@ -975,6 +1006,8 @@
 	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Territory Control Medalist</string>
 	<string key="ui_metaachievement_all_territories_leaderboard_top1_trial_devourer_title" rel_version="Trial_Brimstone_Sandworm">The Devourer Victor</string>
 	<string key="ui_metaachievement_all_territories_leaderboard_top10_trial_devourer_title" rel_version="Trial_Brimstone_Sandworm">The Devourer Medalist</string>
+	<string key="ui_metaachievement_edengrove_leaderboard_top1_company_score_title">Edengrove Victor</string>
+	<string key="ui_metaachievement_edengrove_leaderboard_top10_company_score_title">Edengrove Victor</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1">Arcane Provisioner</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1_SHE">Arcane Provisioner</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1_THEY">Arcane Provisioner</string>
@@ -1778,6 +1811,9 @@
 	<string key="ui_metachievement_skilllevelarcana_title5">Master Arcanist</string>
 	<string key="ui_metachievement_skilllevelarcana_title5_SHE">Master Arcanist</string>
 	<string key="ui_metachievement_skilllevelarcana_title5_THEY">Master Arcanist</string>
+	<string key="ui_metachievement_skilllevelarcana_title6">Elysian Arcanist</string>
+	<string key="ui_metachievement_skilllevelarcana_title6_SHE">Elysian Arcanist</string>
+	<string key="ui_metachievement_skilllevelarcana_title6_THEY">Elysian Arcanist</string>
 	<string key="ui_metachievement_skilllevelarmoring_title1">Novice Armorer</string>
 	<string key="ui_metachievement_skilllevelarmoring_title1_SHE">Novice Armorer</string>
 	<string key="ui_metachievement_skilllevelarmoring_title1_THEY">Novice Armorer</string>
@@ -1793,6 +1829,9 @@
 	<string key="ui_metachievement_skilllevelarmoring_title5">Master Armorer</string>
 	<string key="ui_metachievement_skilllevelarmoring_title5_SHE">Master Armorer</string>
 	<string key="ui_metachievement_skilllevelarmoring_title5_THEY">Master Armorer</string>
+	<string key="ui_metachievement_skilllevelarmoring_title6">Elysian Armorer</string>
+	<string key="ui_metachievement_skilllevelarmoring_title6_SHE">Elysian Armorer</string>
+	<string key="ui_metachievement_skilllevelarmoring_title6_THEY">Elysian Armorer</string>
 	<string key="ui_metachievement_skilllevelcooking_title1">Novice Cook</string>
 	<string key="ui_metachievement_skilllevelcooking_title1_SHE">Novice Cook</string>
 	<string key="ui_metachievement_skilllevelcooking_title1_THEY">Novice Cook</string>
@@ -1808,6 +1847,9 @@
 	<string key="ui_metachievement_skilllevelcooking_title5">Master Cook</string>
 	<string key="ui_metachievement_skilllevelcooking_title5_SHE">Master Cook</string>
 	<string key="ui_metachievement_skilllevelcooking_title5_THEY">Master Cook</string>
+	<string key="ui_metachievement_skilllevelcooking_title6">Elysian Cook</string>
+	<string key="ui_metachievement_skilllevelcooking_title6_SHE">Elysian Cook</string>
+	<string key="ui_metachievement_skilllevelcooking_title6_THEY">Elysian Cook</string>
 	<string key="ui_metachievement_skilllevelengineering_title1">Novice Engineer</string>
 	<string key="ui_metachievement_skilllevelengineering_title1_SHE">Novice Engineer</string>
 	<string key="ui_metachievement_skilllevelengineering_title1_THEY">Novice Engineer</string>
@@ -1823,6 +1865,9 @@
 	<string key="ui_metachievement_skilllevelengineering_title5">Master Engineer</string>
 	<string key="ui_metachievement_skilllevelengineering_title5_SHE">Master Engineer</string>
 	<string key="ui_metachievement_skilllevelengineering_title5_THEY">Master Engineer</string>
+	<string key="ui_metachievement_skilllevelengineering_title6">Elysian Engineer</string>
+	<string key="ui_metachievement_skilllevelengineering_title6_SHE">Elysian Engineer</string>
+	<string key="ui_metachievement_skilllevelengineering_title6_THEY">Elysian Engineer</string>
 	<string key="ui_metachievement_skilllevelfurnishing_title1">Novice Woodworker</string>
 	<string key="ui_metachievement_skilllevelfurnishing_title1_SHE">Novice Woodworker</string>
 	<string key="ui_metachievement_skilllevelfurnishing_title1_THEY">Novice Woodworker</string>
@@ -1838,6 +1883,9 @@
 	<string key="ui_metachievement_skilllevelfurnishing_title5">Master Woodworker</string>
 	<string key="ui_metachievement_skilllevelfurnishing_title5_SHE">Master Woodworker</string>
 	<string key="ui_metachievement_skilllevelfurnishing_title5_THEY">Master Woodworker</string>
+	<string key="ui_metachievement_skilllevelfurnishing_title6">Elysian Woodworker</string>
+	<string key="ui_metachievement_skilllevelfurnishing_title6_SHE">Elysian Woodworker</string>
+	<string key="ui_metachievement_skilllevelfurnishing_title6_THEY">Elysian Woodworker</string>
 	<string key="ui_metachievement_skillleveljewelcraft_title1">Novice Jeweler</string>
 	<string key="ui_metachievement_skillleveljewelcraft_title1_SHE">Novice Jeweler</string>
 	<string key="ui_metachievement_skillleveljewelcraft_title1_THEY">Novice Jeweler</string>
@@ -1853,6 +1901,9 @@
 	<string key="ui_metachievement_skillleveljewelcraft_title5">Master Jeweler</string>
 	<string key="ui_metachievement_skillleveljewelcraft_title5_SHE">Master Jeweler</string>
 	<string key="ui_metachievement_skillleveljewelcraft_title5_THEY">Master Jeweler</string>
+	<string key="ui_metachievement_skillleveljewelcraft_title6">Elysian Jeweler</string>
+	<string key="ui_metachievement_skillleveljewelcraft_title6_SHE">Elysian Jeweler</string>
+	<string key="ui_metachievement_skillleveljewelcraft_title6_THEY">Elysian Jeweler</string>
 	<string key="ui_metachievement_skilllevelweaponsmith_title1">Novice Weaponsmith</string>
 	<string key="ui_metachievement_skilllevelweaponsmith_title1_SHE">Novice Weaponsmith</string>
 	<string key="ui_metachievement_skilllevelweaponsmith_title1_THEY">Novice Weaponsmith</string>
@@ -1868,6 +1919,9 @@
 	<string key="ui_metachievement_skilllevelweaponsmith_title5">Master Weaponsmith</string>
 	<string key="ui_metachievement_skilllevelweaponsmith_title5_SHE">Master Weaponsmith</string>
 	<string key="ui_metachievement_skilllevelweaponsmith_title5_THEY">Master Weaponsmith</string>
+	<string key="ui_metachievement_skilllevelweaponsmith_title6">Elysian Weaponsmith</string>
+	<string key="ui_metachievement_skilllevelweaponsmith_title6_SHE">Elysian Weaponsmith</string>
+	<string key="ui_metachievement_skilllevelweaponsmith_title6_THEY">Elysian Weaponsmith</string>
 	<string key="ui_metachievement_skilllevelleatherwork_title1">Novice Tanner</string>
 	<string key="ui_metachievement_skilllevelleatherwork_title1_SHE">Novice Tanner</string>
 	<string key="ui_metachievement_skilllevelleatherwork_title1_THEY">Novice Tanner</string>
@@ -1883,6 +1937,9 @@
 	<string key="ui_metachievement_skilllevelleatherwork_title5">Master Tanner</string>
 	<string key="ui_metachievement_skilllevelleatherwork_title5_SHE">Master Tanner</string>
 	<string key="ui_metachievement_skilllevelleatherwork_title5_THEY">Master Tanner</string>
+	<string key="ui_metachievement_skilllevelleatherwork_title6">Elysian Tanner</string>
+	<string key="ui_metachievement_skilllevelleatherwork_title6_SHE">Elysian Tanner</string>
+	<string key="ui_metachievement_skilllevelleatherwork_title6_THEY">Elysian Tanner</string>
 	<string key="ui_metachievement_skilllevelsmelt_title1">Novice Metallurgist</string>
 	<string key="ui_metachievement_skilllevelsmelt_title1_SHE">Novice Metallurgist</string>
 	<string key="ui_metachievement_skilllevelsmelt_title1_THEY">Novice Metallurgist</string>
@@ -1898,6 +1955,9 @@
 	<string key="ui_metachievement_skilllevelsmelt_title5">Master Metallurgist</string>
 	<string key="ui_metachievement_skilllevelsmelt_title5_SHE">Master Metallurgist</string>
 	<string key="ui_metachievement_skilllevelsmelt_title5_THEY">Master Metallurgist</string>
+	<string key="ui_metachievement_skilllevelsmelt_title6">Elysian Metallurgist</string>
+	<string key="ui_metachievement_skilllevelsmelt_title6_SHE">Elysian Metallurgist</string>
+	<string key="ui_metachievement_skilllevelsmelt_title6_THEY">Elysian Metallurgist</string>
 	<string key="ui_metachievement_skilllevelstonecutting_title1">Novice Stonemason</string>
 	<string key="ui_metachievement_skilllevelstonecutting_title1_SHE">Novice Stonemason</string>
 	<string key="ui_metachievement_skilllevelstonecutting_title1_THEY">Novice Stonemason</string>
@@ -1913,6 +1973,9 @@
 	<string key="ui_metachievement_skilllevelstonecutting_title5">Master Stonemason</string>
 	<string key="ui_metachievement_skilllevelstonecutting_title5_SHE">Master Stonemason</string>
 	<string key="ui_metachievement_skilllevelstonecutting_title5_THEY">Master Stonemason</string>
+	<string key="ui_metachievement_skilllevelstonecutting_title6">Elysian Stonemason</string>
+	<string key="ui_metachievement_skilllevelstonecutting_title6_SHE">Elysian Stonemason</string>
+	<string key="ui_metachievement_skilllevelstonecutting_title6_THEY">Elysian Stonemason</string>
 	<string key="ui_metachievement_skilllevelweaving_title1">Novice Weaver</string>
 	<string key="ui_metachievement_skilllevelweaving_title1_SHE">Novice Weaver</string>
 	<string key="ui_metachievement_skilllevelweaving_title1_THEY">Novice Weaver</string>
@@ -1928,6 +1991,9 @@
 	<string key="ui_metachievement_skilllevelweaving_title5">Master Weaver</string>
 	<string key="ui_metachievement_skilllevelweaving_title5_SHE">Master Weaver</string>
 	<string key="ui_metachievement_skilllevelweaving_title5_THEY">Master Weaver</string>
+	<string key="ui_metachievement_skilllevelweaving_title6">Elysian Weaver</string>
+	<string key="ui_metachievement_skilllevelweaving_title6_SHE">Elysian Weaver</string>
+	<string key="ui_metachievement_skilllevelweaving_title6_THEY">Elysian Weaver</string>
 	<string key="ui_metachievement_skilllevelwoodwork_title1">Novice Carpenter</string>
 	<string key="ui_metachievement_skilllevelwoodwork_title1_SHE">Novice Carpenter</string>
 	<string key="ui_metachievement_skilllevelwoodwork_title1_THEY">Novice Carpenter</string>
@@ -1943,6 +2009,9 @@
 	<string key="ui_metachievement_skilllevelwoodwork_title5">Master Carpenter</string>
 	<string key="ui_metachievement_skilllevelwoodwork_title5_SHE">Master Carpenter</string>
 	<string key="ui_metachievement_skilllevelwoodwork_title5_THEY">Master Carpenter</string>
+	<string key="ui_metachievement_skilllevelwoodwork_title6">Elysian Carpenter</string>
+	<string key="ui_metachievement_skilllevelwoodwork_title6_SHE">Elysian Carpenter</string>
+	<string key="ui_metachievement_skilllevelwoodwork_title6_THEY">Elysian Carpenter</string>
 	<string key="ui_metachievement_skilllevelharvest_title1">Novice Reaper</string>
 	<string key="ui_metachievement_skilllevelharvest_title1_SHE">Novice Reaper</string>
 	<string key="ui_metachievement_skilllevelharvest_title1_THEY">Novice Reaper</string>
@@ -1958,6 +2027,9 @@
 	<string key="ui_metachievement_skilllevelharvest_title5">Master Reaper</string>
 	<string key="ui_metachievement_skilllevelharvest_title5_SHE">Master Reaper</string>
 	<string key="ui_metachievement_skilllevelharvest_title5_THEY">Master Reaper</string>
+	<string key="ui_metachievement_skilllevelharvest_title6">Elysian Reaper</string>
+	<string key="ui_metachievement_skilllevelharvest_title6_SHE">Elysian Reaper</string>
+	<string key="ui_metachievement_skilllevelharvest_title6_THEY">Elysian Reaper</string>
 	<string key="ui_metachievement_skilllevellogging_title1">Novice Lumberjack</string>
 	<string key="ui_metachievement_skilllevellogging_title1_SHE">Novice Lumberjack</string>
 	<string key="ui_metachievement_skilllevellogging_title1_THEY">Novice Lumberjack</string>
@@ -1973,6 +2045,9 @@
 	<string key="ui_metachievement_skilllevellogging_title5">Master Lumberjack</string>
 	<string key="ui_metachievement_skilllevellogging_title5_SHE">Master Lumberjack</string>
 	<string key="ui_metachievement_skilllevellogging_title5_THEY">Master Lumberjack</string>
+	<string key="ui_metachievement_skilllevellogging_title6">Elysian Lumberjack</string>
+	<string key="ui_metachievement_skilllevellogging_title6_SHE">Elysian Lumberjack</string>
+	<string key="ui_metachievement_skilllevellogging_title6_THEY">Elysian Lumberjack</string>
 	<string key="ui_metachievement_skilllevelmining_title1">Novice Miner</string>
 	<string key="ui_metachievement_skilllevelmining_title1_SHE">Novice Miner</string>
 	<string key="ui_metachievement_skilllevelmining_title1_THEY">Novice Miner</string>
@@ -1988,6 +2063,9 @@
 	<string key="ui_metachievement_skilllevelmining_title5">Master Miner</string>
 	<string key="ui_metachievement_skilllevelmining_title5_SHE">Master Miner</string>
 	<string key="ui_metachievement_skilllevelmining_title5_THEY">Master Miner</string>
+	<string key="ui_metachievement_skilllevelmining_title6">Elysian Miner</string>
+	<string key="ui_metachievement_skilllevelmining_title6_SHE">Elysian Miner</string>
+	<string key="ui_metachievement_skilllevelmining_title6_THEY">Elysian Miner</string>
 	<string key="ui_metachievement_skillleveltracknskin_title1">Novice Hunter</string>
 	<string key="ui_metachievement_skillleveltracknskin_title1_SHE">Novice Huntress</string>
 	<string key="ui_metachievement_skillleveltracknskin_title1_THEY">Novice Hunter</string>
@@ -2003,6 +2081,9 @@
 	<string key="ui_metachievement_skillleveltracknskin_title5">Master Hunter</string>
 	<string key="ui_metachievement_skillleveltracknskin_title5_SHE">Master Huntress</string>
 	<string key="ui_metachievement_skillleveltracknskin_title5_THEY">Master Hunter</string>
+	<string key="ui_metachievement_skillleveltracknskin_title6">Elysian Hunter</string>
+	<string key="ui_metachievement_skillleveltracknskin_title6_SHE">Elysian Huntress</string>
+	<string key="ui_metachievement_skillleveltracknskin_title6_THEY">Elysian Hunter</string>
 	<string key="ui_metachievement_skilllevelfishing_title1">Fishing Novice</string>
 	<string key="ui_metachievement_skilllevelfishing_title1_SHE">Fishing Novice</string>
 	<string key="ui_metachievement_skilllevelfishing_title1_THEY">Fishing Novice</string>
@@ -2018,6 +2099,9 @@
 	<string key="ui_metachievement_skilllevelfishing_title5">Fishing Master</string>
 	<string key="ui_metachievement_skilllevelfishing_title5_SHE">Fishing Master</string>
 	<string key="ui_metachievement_skilllevelfishing_title5_THEY">Fishing Master</string>
+	<string key="ui_metachievement_skilllevelfishing_title6">Elysian Master</string>
+	<string key="ui_metachievement_skilllevelfishing_title6_SHE">Elysian Master</string>
+	<string key="ui_metachievement_skilllevelfishing_title6_THEY">Elysian Master</string>
 	<string key="ui_metachievement_skilllevelmusic_title1">Novice Musician</string>
 	<string key="ui_metachievement_skilllevelmusic_title1_SHE">Novice Musician</string>
 	<string key="ui_metachievement_skilllevelmusic_title1_THEY">Novice Musician</string>
@@ -2033,6 +2117,9 @@
 	<string key="ui_metachievement_skilllevelmusic_title5">Master Musician</string>
 	<string key="ui_metachievement_skilllevelmusic_title5_SHE">Master Musician</string>
 	<string key="ui_metachievement_skilllevelmusic_title5_THEY">Master Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title6">Elysian Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title6_SHE">Elysian Musician</string>
+	<string key="ui_metachievement_skilllevelmusic_title6_THEY">Elysian Musician</string>
 	<string key="ui_metachievement_skilllevelexpert_title1">Aptitude For The Trades</string>
 	<string key="ui_metachievement_skilllevelexpert_title1_SHE">Aptitude For The Trades</string>
 	<string key="ui_metachievement_skilllevelexpert_title1_THEY">Aptitude For The Trades</string>
@@ -2048,6 +2135,9 @@
 	<string key="ui_metachievement_skilllevelexpert_title5">Maximum Caliber</string>
 	<string key="ui_metachievement_skilllevelexpert_title5_SHE">Maximum Caliber</string>
 	<string key="ui_metachievement_skilllevelexpert_title5_THEY">Maximum Caliber</string>
+	<string key="ui_metachievement_skilllevelexpert_title6">Elysian Expert</string>
+	<string key="ui_metachievement_skilllevelexpert_title6_SHE">Elysian Expert</string>
+	<string key="ui_metachievement_skilllevelexpert_title6_THEY">Elysian Expert</string>
 	<string key="ui_metachievement_gearscoreprogression_title1">Packs A Bit More Of A Wallop</string>
 	<string key="ui_metachievement_gearscoreprogression_title1_SHE">Packs A Bit More Of A Wallop</string>
 	<string key="ui_metachievement_gearscoreprogression_title1_THEY">Packs A Bit More Of A Wallop</string>
@@ -2060,6 +2150,9 @@
 	<string key="ui_metachievement_gearscoreprogression_title4">It Has That Nice &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Devastation&lt;/font&gt; Smell!</string>
 	<string key="ui_metachievement_gearscoreprogression_title4_SHE">It Has That Nice &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Devastation&lt;/font&gt; Smell!</string>
 	<string key="ui_metachievement_gearscoreprogression_title4_THEY">It Has That Nice &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Devastation&lt;/font&gt; Smell!</string>
+	<string key="ui_metachievement_gearscoreprogression_title5">Epic Elysian</string>
+	<string key="ui_metachievement_gearscoreprogression_title5_SHE">Epic Elysian</string>
+	<string key="ui_metachievement_gearscoreprogression_title5_THEY">Epic Elysian</string>
 	<string key="ui_metachievement_gearsstatbonus_strength_title1">Easier Than Eating Spinach</string>
 	<string key="ui_metachievement_gearsstatbonus_strength_title1_SHE">Easier Than Eating Spinach</string>
 	<string key="ui_metachievement_gearsstatbonus_strength_title1_THEY">Easier Than Eating Spinach</string>
@@ -2162,6 +2255,18 @@
 	<string key="ui_metachievement_territorystanding_ebonscale_title4">Ebonscale Reach: When Everyone Knows Your Name</string>
 	<string key="ui_metachievement_territorystanding_ebonscale_title4_SHE">Ebonscale Reach: When Everyone Knows Your Name</string>
 	<string key="ui_metachievement_territorystanding_ebonscale_title4_THEY">Ebonscale Reach: When Everyone Knows Your Name</string>
+	<string key="ui_metachievement_territorystanding_edengrove_title1">Edengrove: Making Headway</string>
+	<string key="ui_metachievement_territorystanding_edengrove_title1_SHE">Edengrove: Making Headway</string>
+	<string key="ui_metachievement_territorystanding_edengrove_title1_THEY">Edengrove: Making Headway</string>
+	<string key="ui_metachievement_territorystanding_edengrove_title2">Edengrove: Earning A Good Reputation</string>
+	<string key="ui_metachievement_territorystanding_edengrove_title2_SHE">Edengrove: Earning A Good Reputation</string>
+	<string key="ui_metachievement_territorystanding_edengrove_title2_THEY">Edengrove: Earning A Good Reputation</string>
+	<string key="ui_metachievement_territorystanding_edengrove_title3">Edengrove: Helping Out Is Its Own Reward</string>
+	<string key="ui_metachievement_territorystanding_edengrove_title3_SHE">Edengrove: Helping Out Is Its Own Reward</string>
+	<string key="ui_metachievement_territorystanding_edengrove_title3_THEY">Edengrove: Helping Out Is Its Own Reward</string>
+	<string key="ui_metachievement_territorystanding_edengrove_title4">Edengrove: When Everyone Knows Your Name</string>
+	<string key="ui_metachievement_territorystanding_edengrove_title4_SHE">Edengrove: When Everyone Knows Your Name</string>
+	<string key="ui_metachievement_territorystanding_edengrove_title4_THEY">Edengrove: When Everyone Knows Your Name</string>
 	<string key="ui_metachievement_territorystanding_everfall_title1">Everfall: Making Headway</string>
 	<string key="ui_metachievement_territorystanding_everfall_title1_SHE">Everfall: Making Headway</string>
 	<string key="ui_metachievement_territorystanding_everfall_title1_THEY">Everfall: Making Headway</string>
@@ -2432,6 +2537,15 @@
 	<string key="ui_metachievement_weaponmastery_greatsword_title3">All Is Riven Asunder</string>
 	<string key="ui_metachievement_weaponmastery_greatsword_title3_SHE">All Is Riven Asunder</string>
 	<string key="ui_metachievement_weaponmastery_greatsword_title3_THEY">All Is Riven Asunder</string>
+	<string key="ui_metachievement_weaponmastery_flail_title1" rel_version="Weapon_Flail">Not a Total Flailure</string>
+	<string key="ui_metachievement_weaponmastery_flail_title1_SHE" rel_version="Weapon_Flail">Not a Total Flailure</string>
+	<string key="ui_metachievement_weaponmastery_flail_title1_THEY" rel_version="Weapon_Flail">Not a Total Flailure</string>
+	<string key="ui_metachievement_weaponmastery_flail_title2" rel_version="Weapon_Flail">I'm Getting Into the Swing</string>
+	<string key="ui_metachievement_weaponmastery_flail_title2_SHE" rel_version="Weapon_Flail">I'm Getting Into the Swing</string>
+	<string key="ui_metachievement_weaponmastery_flail_title2_THEY" rel_version="Weapon_Flail">I'm Getting Into the Swing</string>
+	<string key="ui_metachievement_weaponmastery_flail_title3" rel_version="Weapon_Flail">All Is Dust Before Me</string>
+	<string key="ui_metachievement_weaponmastery_flail_title3_SHE" rel_version="Weapon_Flail">All Is Dust Before Me</string>
+	<string key="ui_metachievement_weaponmastery_flail_title3_THEY" rel_version="Weapon_Flail">All Is Dust Before Me</string>
 	<string key="ui_metachievement_repairscount_title1">Handy With A Bit Of Tape</string>
 	<string key="ui_metachievement_repairscount_title1_SHE">Handy With A Bit Of Tape</string>
 	<string key="ui_metachievement_repairscount_title1_THEY">Handy With A Bit Of Tape</string>
@@ -2858,6 +2972,9 @@
 	<string key="ui_metachievement_firstnamedcraft_greatsword_title">Craft A Named Greatsword</string>
 	<string key="ui_metachievement_firstnamedcraft_greatsword_title_SHE">Craft A Named Greatsword</string>
 	<string key="ui_metachievement_firstnamedcraft_greatsword_title_THEY">Craft A Named Greatsword</string>
+	<string key="ui_metachievement_firstnamedcraft_flail_title">Craft A Named Flail</string>
+	<string key="ui_metachievement_firstnamedcraft_flail_title_SHE">Craft A Named Flail</string>
+	<string key="ui_metachievement_firstnamedcraft_flail_title_THEY">Craft A Named Flail</string>
 	<string key="ui_metachievement_craft_namedweaponcount_title1">It's More Luck Than Skill</string>
 	<string key="ui_metachievement_craft_namedweaponcount_title1_SHE">It's More Luck Than Skill</string>
 	<string key="ui_metachievement_craft_namedweaponcount_title1_THEY">It's More Luck Than Skill</string>
@@ -3126,6 +3243,7 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_isabellalair_desc" rel_version="Expedition_ShatterMtn_00">Defeat Isabella in Tempest's Heart.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_desc" rel_version="Expedition_CutlassKeys_00">Defeat Nereid in Barnacles And Black Powder.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_desc" rel_version="Expedition_BrimstoneSands_00">Defeat the Goliaths of Ennead in the Ennead.</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_crystalclaw_desc" rel_version="Expedition_FirstLight_01">Defeat Mahantaram in the Savage Divide.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Amrine Excavation, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_obelisk_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Starstone Barrows, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_depths_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete The Depths, difficulty {number}.</string>
@@ -3136,6 +3254,7 @@
 	<string key="ui_metachievement_pve_mutate_dungeon_barnacle_generic_desc" rel_version="Expedition_CutlassKeys_00">Complete Barnacles And Black Powder, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_ennead_generic_desc" rel_version="Expedition_BrimstoneSands_00">Complete the Ennead, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_forge_generic_desc" rel_version="Expedition_GreatCleave_01">Complete the Empyrean Forge, difficulty {number}.</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_crystalclaw_generic_desc" rel_version="Expedition_FirstLight_01">Complete the Savage Divide, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_arenascompleted_desc">Complete {number} arena battles.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_covenant_desc">Personally defeat {number} Covenant players.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_marauder_desc">Personally defeat {number} Marauder players.</string>
@@ -3147,7 +3266,7 @@
 	<string key="ui_metachievement_pvp_totalkills_generic_desc">Personally defeat {number} other players.</string>
 	<string key="ui_metachievement_pvp_outpostrushwin_first_desc">Win your first Outpost Rush teamplay battle.</string>
 	<string key="ui_metachievement_pvp_outpostrushwin_desc">Win {number} Outpost Rush teamplay battles.</string>
-	<string key="ui_metachievement_pvp_countrolpointcount_first_desc">Outside of War, capture a Control Point to claim the fort for your faction.</string>
+	<string key="ui_metachievement_pvp_countrolpointcount_first_desc">Outside of War, capture a Control Point at the fort or one of three Watch locations during an Influence Race.</string>
 	<string key="ui_metachievement_pvp_countrolpointcount_desc">Capture {number} Control Points to claim forts for your faction.</string>
 	<string key="ui_metachievement_questarc_brightwood_desc1">Complete the Brightwood arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Inquisitor's Legacy&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_brightwood_desc2">Complete the Brightwood arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Secrets of the Earth&lt;/font&gt;.</string>
@@ -3171,6 +3290,9 @@
 	<string key="ui_metachievement_questarc_edengrove_desc1">Complete the Edengrove arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Gates Of Edengrove&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_edengrove_desc2">Complete the Edengrove arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Gum in the Works&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_edengrove_desc3">Complete the Edengrove arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Fading Lights&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_v2_edengrove_desc1" rel_version="Quest_MSQ2_Edengrove">Complete the Edengrove arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;The Untamed Garden&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_v2_edengrove_desc2" rel_version="Quest_MSQ2_Edengrove">Complete the Edengrove arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;On the Wizard's Trail&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_v2_edengrove_desc3" rel_version="Quest_MSQ2_Edengrove">Complete the Edengrove arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;The Motherwell&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_everfall_desc1">Complete the Everfall arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Opening Supply Lines&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_everfall_desc2">Complete the Everfall arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Stars as Our Guide&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_everfall_desc3">Complete the Everfall arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Tainting the Tainted&lt;/font&gt;.</string>
@@ -3182,6 +3304,9 @@
 	<string key="ui_metachievement_questarc_greatcleave_desc1">Complete the Great Cleave arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Malice Aforethought&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_greatcleave_desc2">Complete the Great Cleave arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Shadows Cast a Final Salute&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_greatcleave_desc3">Complete the Great Cleave arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Travel to Tempest Lane&lt;/font&gt;.</string>
+	<string key="ui_metachievement_quest_greatcleave_thorpe_desc" rel_version="Quest_MSQ2_GreatCleave">Prevented Thorpe from carrying out his plans.</string>
+	<string key="ui_metachievement_quest_greatcleave_gatebreaker_desc" rel_version="Quest_MSQ2_GreatCleave">Destroyed all the Felportals in Great Cleave.</string>
+	<string key="ui_metachievement_quest_greatcleave_rescue_desc" rel_version="Quest_MSQ2_GreatCleave">Aided everyone who has run into trouble in Great Cleave.</string>
 	<string key="ui_metachievement_questarc_monarchsbluffs_desc1">Complete the Monarch's Bluffs arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Between Settlements&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_monarchsbluffs_desc2">Complete the Monarch's Bluffs arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Taste Of Honey&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_monarchsbluffs_desc3">Complete the Monarch's Bluffs arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Friends In Fashion&lt;/font&gt;.</string>
@@ -3216,42 +3341,46 @@
 	<string key="ui_metachievement_quest_windsward_mercy_desc">Convinced Medea to give Windsward a second chance.</string>
 	<string key="ui_metachievement_questarc_fishingtraining_desc">Complete the fishing quest arc that starts with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Fishing With Shields&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questtotals_generic_desc">Complete {number} quests.</string>
-	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Dynasty Shipyard Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Dynasty Shipyard Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Garden of Genesis Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Garden of Genesis Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Lazarus Instrumentality Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Lazarus Instrumentality Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Tempest Heart Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing in the Top 25 on the Tempest Heart Difficulty 10 Score Weekly Leaderboards.</string>
-	<string key="ui_metaachievement_leaderboard_barnacles_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Barnacles and Black Powder Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_barnacles_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Barnacles and Black Powder Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_brimstone_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on The Ennead Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_brimstone_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on The Ennead Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_depths_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on The Depths Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_depths_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on The Depths Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_starstone_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Starstone Barrows Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_starstone_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Starstone Barrows Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_forge_top5_score_desc" rel_version="Expedition_GreatCleave_01">Title earned by placing Top 5 on the Empyrean Forge Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_forge_top25_score_desc" rel_version="Expedition_GreatCleave_01">Title earned by placing Top 25 on the Empyrean Forge Difficulty 10 Score Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Dynasty Shipyard Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Dynasty Shipyard Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Garden of Genesis Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing in the Top 25 on the Garden of Genesis Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Lazarus Instrumentality Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Lazarus Instrumentality Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Tempest Heart Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Tempest Heart Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_barnacles_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Barnacles and Black Powder Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_barnacles_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Barnacles and Black Powder Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_brimstone_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on The Ennead Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_brimstone_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on The Ennead Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_depths_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on The Depths Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_depths_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on The Depths Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_starstone_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Starstone Barrows Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_starstone_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Starstone Barrows Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_forge_top5_time_desc" rel_version="Expedition_GreatCleave_01">Title earned by placing Top 5 on the Empyrean Forge Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string key="ui_metaachievement_leaderboard_forge_top25_time_desc" rel_version="Expedition_GreatCleave_01">Title earned by placing Top 25 on the Empyrean Forge Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of the Dynasty Shipyard Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of the Dynasty Shipyard Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of the Garden of Genesis Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of the Garden of Genesis Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of the Lazarus Instrumentality Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of the Lazarus Instrumentality Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of the Tempest Heart Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of the Tempest Heart Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of the Barnacles and Black Powder Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of the Barnacles and Black Powder Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of The Ennead Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of The Ennead Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of The Depths Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of The Depths Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of the Starstone Barrows Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of the Starstone Barrows Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_forge_top5_score_desc" rel_version="Expedition_GreatCleave_01">Title earned by placing Top 5 on the highest difficulty of The Empyrean Forge Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_forge_top25_score_desc" rel_version="Expedition_GreatCleave_01">Title earned by placing Top 25 on the highest difficulty of The Empyrean Forge Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_divide_top5_score_desc" rel_version="Expedition_FirstLight_01">Title earned by placing Top 5 on the highest difficulty of the Savage Divide Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_divide_top25_score_desc" rel_version="Expedition_FirstLight_01">Title earned by placing Top 25 on the highest difficulty of the Savage Divide Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of the Dynasty Shipyard Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of the Dynasty Shipyard Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of the Garden of Genesis Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of the Garden of Genesis Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of the Lazarus Instrumentality Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of the Lazarus Instrumentality Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of the Tempest Heart Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of the Tempest Heart Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of the Barnacles and Black Powder Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of the Barnacles and Black Powder Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of The Ennead Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of The Ennead Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of The Depths Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of The Depths Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of the Starstone Barrows Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of the Starstone Barrows Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_forge_top5_time_desc" rel_version="Expedition_GreatCleave_01">Title earned by placing Top 5 on the highest difficulty of the Empyrean Forge Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_forge_top25_time_desc" rel_version="Expedition_GreatCleave_01">Title earned by placing Top 25 on the highest difficulty of the Empyrean Forge Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_divide_top5_time_desc" rel_version="Expedition_FirstLight_01">Title earned by placing Top 5 on the highest difficulty of the Savage Divide Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_divide_top25_time_desc" rel_version="Expedition_FirstLight_01">Title earned by placing Top 5 on the highest difficulty of the Savage Divide Clear Time Weekly Leaderboard.</string>
 	<string key="ui_metaachievement_leaderboard_siren_queen_top1_completion_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 10 on The Siren Queen Seasonal Leaderboard.</string>
 	<string key="ui_metaachievement_leaderboard_siren_queen_top10_completion_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 50 on The Siren Queen Seasonal Leaderboard.</string>
 	<string key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 10 on the Eternal Pools Seasonal Leaderboard.</string>
@@ -3291,7 +3420,9 @@
 	<string key="ui_metaachievement_monarchs_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Monarch's Bluffs Days Governed Leaderboard.</string>
 	<string key="ui_metaachievement_monarchs_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Monarch's Bluffs Days Governed Leaderboard.</string>
 	<string key="ui_metaachievement_brimstone_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Brimstone Sands Days Governed Leaderboard.</string>
-	<string key="ui_metaachievement_brimstone_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Brimestone Sands Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_brimstone_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Brimstone Sands Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_edengrove_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Edengrove Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_edengrove_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Edengrove Days Governed Leaderboard.</string>
 	<string key="ui_metaachievement_all_territories_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Days Governed for All Territories.</string>
 	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Days Governed for All Territories.</string>
 	<string key="ui_metaachievement_all_territories_leaderboard_top1_trial_devourer_desc" rel_version="Trial_Brimstone_Sandworm">Title earned by placing Top 10 on the Devourer Elite Trial Leaderboard.</string>
@@ -3394,6 +3525,7 @@
 	<string key="ui_metachievement_weaponmastery_voidgauntlet_generic_desc">Reach Void Gauntlet Mastery level {number}.</string>
 	<string key="ui_metachievement_weaponmastery_blunderbuss_generic_desc">Reach Blunderbuss Mastery level {number}.</string>
 	<string key="ui_metachievement_weaponmastery_greatsword_generic_desc">Reach Greatsword Mastery level {number}.</string>
+	<string key="ui_metachievement_weaponmastery_flail_generic_desc">Reach Flail Mastery level {number}.</string>
 	<string key="ui_metachievement_repairscount_generic_desc">Repair {number} inventory items.</string>
 	<string key="ui_metachievement_craftcount_armoring_generic_desc">Craft {number} Armoring items.</string>
 	<string key="ui_metachievement_craftcount_cooking_generic_desc">Craft {number} Cooking items.</string>
@@ -3666,7 +3798,24 @@
 	<string key="ui_metachievement_hidden_windsward">Keep playing in Windsward to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_everfall">Keep playing in Everfall to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_weaversfen">Keep playing in Weaver's Fen to complete this hidden achievement.</string>
+	<string key="ui_metachievement_hidden_greatcleave">Keep playing in Great Cleave to complete this hidden achievement.</string>
 	<string key="ui_metaachievement_Music_Summer_GuitarHero_title" rel_version="Event_Summer2023_Perm">Guitar Hero</string>
-	<string key="ui_metaachievement_Music_Summer_GuitarHero_desc" rel_version="Event_Summer2023_Perm">Complete the Expert version of YAAAHHHH! with an Amazing score.</string>
+	<string key="ui_metaachievement_Music_Summer_GuitarHero_desc" rel_version="Event_Summer2023_Perm">Complete the Expert version of YAAAHHHH! with a perfect score.</string>
+	<string key="ui_metachievement_skilllevelRiding_title1" rel_version="Feature_Mounts">Yearling</string>
+	<string key="ui_metachievement_skilllevelRiding_title1_SHE" rel_version="Feature_Mounts">Yearling</string>
+	<string key="ui_metachievement_skilllevelRiding_title1_THEY" rel_version="Feature_Mounts">Yearling</string>
+	<string key="ui_metachievement_skilllevelRiding_title2" rel_version="Feature_Mounts">Apprentice Stablehand</string>
+	<string key="ui_metachievement_skilllevelRiding_title2_SHE" rel_version="Feature_Mounts">Apprentice Stablehand</string>
+	<string key="ui_metachievement_skilllevelRiding_title2_THEY" rel_version="Feature_Mounts">Apprentice Stablehand</string>
+	<string key="ui_metachievement_skilllevelRiding_title3" rel_version="Feature_Mounts">True Rider</string>
+	<string key="ui_metachievement_skilllevelRiding_title3_SHE" rel_version="Feature_Mounts">True Rider</string>
+	<string key="ui_metachievement_skilllevelRiding_title3_THEY" rel_version="Feature_Mounts">True Rider</string>
+	<string key="ui_metachievement_skilllevelRiding_title4" rel_version="Feature_Mounts">Expert Jockey</string>
+	<string key="ui_metachievement_skilllevelRiding_title4_SHE" rel_version="Feature_Mounts">Expert Jockey</string>
+	<string key="ui_metachievement_skilllevelRiding_title4_THEY" rel_version="Feature_Mounts">Expert Jockey</string>
+	<string key="ui_metachievement_skilllevelRiding_title5" rel_version="Feature_Mounts">Master Cavalier</string>
+	<string key="ui_metachievement_skilllevelRiding_title5_SHE" rel_version="Feature_Mounts">Master Cavalier</string>
+	<string key="ui_metachievement_skilllevelRiding_title5_THEY" rel_version="Feature_Mounts">Master Cavalier</string>
+	<string key="ui_metachievement_skilllevelRiding_generic_desc" rel_version="Feature_Mounts">Reach Riding skill level {number}.</string>
 </resources>
 

@@ -13,10 +13,10 @@
 	<string key="9900_attainlevel45" comment="DO NOT TRANSLATE" speaker="UI">Reach Level 45 to Unlock the Next Main Story Chapter</string>
 	<string key="9900_attainlevel50" comment="DO NOT TRANSLATE" speaker="UI">Reach Level 50 to Unlock the Next Main Story Chapter</string>
 	<string key="9900_attainlevel60" comment="DO NOT TRANSLATE" speaker="UI">Reach Level 60 to Unlock the Next Main Story Chapter</string>
-	<string key="9900_TravelToPOI_Alazar" comment="DO NOT TRANSLATE" speaker="UI">Report to Yonas at Fort Alazar</string>
+	<string key="9900_TravelToPOI_Alazar" comment="DO NOT TRANSLATE" speaker="UI">Report to Yonas at {POITags}</string>
 	<string key="9900_task_acquire_generic" comment="DO NOT TRANSLATE" speaker="UI" quest_id="s_corruption_resistance">Acquire {itemName}</string>
 	<string key="9900_task_craft_yourcamp_generic" comment="DO NOT TRANSLATE" speaker="UI" quest_id="s_corruption_resistance">Craft a Corruption Tincture at an Arcane Repository</string>
-	<string key="9900_task_unequip_azothstaff" comment="DO NOT TRANSLATE" speaker="UI" quest_id="s_corruption_resistance">Unequip your Azoth Staff and Report to Yonas at Fort Alazar</string>
+	<string key="9900_task_unequip_azothstaff" comment="DO NOT TRANSLATE" speaker="UI" quest_id="s_corruption_resistance">Unequip your Azoth Staff and Report to Yonas at Caer Dun</string>
 	<string key="0001_0101_CaptainThorpe_start_prompt" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">"What happened?"</string>
 	<string key="0001_0101_CaptainThorpe_proposal" comment="DO NOT TRANSLATE" speaker="Captain Thorpe" name="CaptainThorpe" gender="M" quest_id="S_getoffbeach" line_id="1" location="Beach" VO="0001_0101_CaptainThorpe_proposal" VO_Status="Recorded" dialogue-next="@0001_0101_CaptainThorpe_proposal_next">That devil storm… what in the nine hells was that about? \n\nAnd where's my box? I need my box… did you take it? You bilge rat!</string>
 	<string key="0001_0101_CaptainThorpe_proposal_prompt" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">"I don't have the box."</string>
@@ -451,23 +451,23 @@
 	<string key="9901_0036_masterofthetempest_solo_encounter4" speaker="UI" rel_version="Quest_MSQ_Update_4">Survive the Invading Swarm</string>
 	<string key="9901_0036_masterofthetempest_solo_encounter5" speaker="UI" rel_version="Quest_MSQ_Update_4">Defeat Commander Thorpe</string>
 	<string key="9901_0036_masterofthetempest_solo_all" speaker="UI" rel_version="Quest_MSQ_Update_4">Complete the Quest Encounter "Hounding the Master"</string>
-	<string key="9901_MSQ_TravelToPOI_Depths" speaker="UI">Enter the Depths Expedition and Confront Commander Thorpe [Group]</string>
+	<string key="9901_MSQ_TravelToPOI_Depths" speaker="UI">Enter the Depths Expedition and Confront Commander Thorpe</string>
 	<string key="9901_0036_d_00_container_partial_SoloQuest" rel_version="Quest_MSQ_Update_4">Challenge and Defeat Commander Thorpe:</string>
 	<string key="9901_0036_d_00_TalkToTitus" rel_version="Quest_MSQ_Update_4">Talk to Titus for Another Option [Solo]</string>
 	<string key="9901_0036_d_00_CompleteSolo" rel_version="Quest_MSQ_Update_4">Complete Quest: Hounding the Master [Solo]</string>
 	<string key="9901_0036_masterofthetempest_objective_title" speaker="UI - Quest Title">Into the Depths</string>
-	<string key="9901_0036_masterofthetempest_objective_desc" speaker="UI - Quest Description">Finally, the battle with Commander Thorpe has arrived. Make your way through the Depths and take him down.</string>
-	<string key="9901_0036_masterofthetempest_start_prompt" speaker="UI - Player Prompt">"So everyone else is dead?"</string>
-	<string key="9901_0036_masterofthetempest_proposal" speaker="Warden Scout Titus" name="WardenScoutTitus" gender="M" VO="9901_0036_masterofthetempest_start_prompt" VO_Status="Recorded" dialogue-next="@9901_0036_masterofthetempest_proposal_next">Dead or worse. Thorpe's Corrupted took them - they were torturing them.\n\nThe screaming only stopped this morning. The plan now is to retreat.</string>
+	<string key="9901_0036_masterofthetempest_objective_desc" speaker="UI - Quest Description">Chase after the retreating Commander Thorpe. Make your way through the Depths and take him down.</string>
+	<string key="9901_0036_masterofthetempest_start_prompt" speaker="UI - Player Prompt">"Were you able to track Thorpe?"</string>
+	<string key="9901_0036_masterofthetempest_proposal" speaker="Warden Scout Titus" name="WardenScoutTitus" gender="M" VO="9901_0036_masterofthetempest_start_prompt" VO_Status="Recorded" dialogue-next="@9901_0036_masterofthetempest_proposal_next">It was almost too easy. He took his frustration out on every village he passed by.\n\nAll I had to do was follow the trail of destruction, which lead to here.</string>
 	<string key="9901_0036_masterofthetempest_proposal_prompt" speaker="UI - Player Prompt">"New plan - I'm going in."</string>
 	<string key="9901_0036_masterofthetempest_proposal_next" speaker="Warden Scout Titus" name="WardenScoutTitus" gender="M" VO="9901_0036_masterofthetempest_proposal_prompt" VO_Status="Recorded" dialogue-prompt="@9901_0036_masterofthetempest_proposal_prompt">Wh-what? You're going in there? No army... no nothing? This is madness! \n\nBut I can see you're not changing your mind. Yonas said you were stubborn. Suit yourself then. Go. I guess I'll stay and cover your escape.</string>
-	<string key="9901_0036_masterofthetempest_incomplete" speaker="Warden Scout Titus" name="WardenScoutTitus" gender="M" VO="9901_0036_masterofthetempest_proposal_next" VO_Status="Recorded">If you do find Thorpe… make him suffer.\n\nIf I live six more centuries, I'll never forget those cries…</string>
+	<string key="9901_0036_masterofthetempest_incomplete" speaker="Warden Scout Titus" name="WardenScoutTitus" gender="M" VO="9901_0036_masterofthetempest_proposal_next" VO_Status="Recorded">If you do find Thorpe… make him suffer.\n\nIf I live six more centuries, I'll never forget what he did.</string>
 	<string key="9901_0036_masterofthetempest_complete_available_response" speaker="Warden Scout Titus" name="WardenScoutTitus" gender="M" VO="9901_0036_masterofthetempest_incomplete" VO_Status="Recorded" dialogue-next="@9901_0036_masterofthetempest_complete_available_response_next">You… you survived…? And your eyes, you're not even Corrupted.\n\nDid you find him? Did you actually defeat Thorpe?</string>
 	<string key="9901_0036_masterofthetempest_complete_available_response_prompt" speaker="UI - Player Prompt">"Yes, I did."</string>
 	<string key="9901_0036_masterofthetempest_complete_available_response_next" speaker="Warden Scout Titus" name="WardenScoutTitus" gender="M" VO="9901_0036_masterofthetempest_complete_available_response_prompt" VO_Status="Recorded" dialogue-prompt="@9901_0036_masterofthetempest_complete_available_response_prompt">That's wild… you're stronger than you look. No offense, of course. \n\nI suppose if he really was 'Master of the Tempest,' that would mean it's over, and we won. \nRight…?</string>
 	<string key="9901_035x_TravelToTitus" speaker="UI">Find Titus at the Entrance of the Depths in Restless Shore</string>
 	<string key="9919_0037_planb_objective_title" speaker="UI - Quest Title">Triumphant Return</string>
-	<string key="9919_0037_planb_objective_desc" speaker="UI - Quest Description">Return triumphantly to Fort Alazar with news of your victory over Thorpe.</string>
+	<string key="9919_0037_planb_objective_desc" speaker="UI - Quest Description">Return triumphantly to Caer Dun with news of your victory over Thorpe.</string>
 	<string key="9919_0037_planb_start_prompt" speaker="UI - Player Prompt">"What's going on there?"</string>
 	<string key="9919_0037_planb_proposal" speaker="Warden Scout Titus" name="WardenScoutTitus" gender="M" VO="9919_0037_planb_start_prompt" VO_Status="Recorded" dialogue-next="@9919_0037_planb_proposal_next">From the sound of things, nothing good. More Corrupted, stronger Corrupted, coming south from the Shattered Mountain. \n\nThe Wardens are losing their footing there as well.</string>
 	<string key="9919_0037_planb_proposal_prompt" speaker="UI - Player Prompt">"I should go."</string>
@@ -478,9 +478,9 @@
 	<string key="9905_0037_planb_complete_available_response_next" speaker="Rima Bahar" name="RimaBahar" gender="F" VO="9905_0037_planb_complete_available_response_prompt" VO_Status="Recorded" dialogue-prompt="@9905_0037_planb_complete_available_response_prompt">Sounds like you, at least... I'll tell you what happened. Hell. Hell happened here. \n\nWe came for the parley as you asked, but the moment you left, the Corruption struck.</string>
 	<string key="9919_0037_FindRima" speaker="UI - Quest Task">Search for Survivors</string>
 	<string key="9919_0037_FindRima_PutOutFires" speaker="UI - Quest Task">Extinguish the flames surrounding Rima</string>
-	<string key="9919_0037_PutOutFires" speaker="UI - Quest Task">Extinguish fires throughout Fort Alazar</string>
+	<string key="9919_0037_PutOutFires" speaker="UI - Quest Task">Extinguish fires throughout {POITags}</string>
 	<string key="9905_0038_itstrueface_objective_title" speaker="UI - Quest Title">Its True Face</string>
-	<string key="9905_0038_itstrueface_objective_desc" speaker="UI - Quest Description">Fort Alazar lies in ruins, but it might not be too late to save Yonas and Émile. Follow their trail northwest, into the mountains.</string>
+	<string key="9905_0038_itstrueface_objective_desc" speaker="UI - Quest Description">Caer Dun lies in ruins, but it might not be too late to save Yonas and Émile. Follow their trail northwest, into the mountains.</string>
 	<string key="9905_0038_itstrueface_start_prompt" speaker="UI - Player Prompt">"She destroyed the camp?"</string>
 	<string key="9905_0038_itstrueface_proposal" speaker="Rima Bahar" name="RimaBahar" gender="F" VO="9905_0038_itstrueface_start_prompt" VO_Status="Recorded" dialogue-next="@9905_0038_itstrueface_proposal_next">Not her. Your fellow Soulwardens - she enthralled them, drove them mad. They turned on us - she didn't even lift a finger. \n\nTheir rage… her smile… may I never see anything so terrible again.</string>
 	<string key="9905_0038_itstrueface_proposal_prompt" speaker="UI - Player Prompt">"Where is Yonas?"</string>
@@ -533,7 +533,7 @@
 	<string key="9900_InvestigateArclight2" speaker="UI">Isabella's Lover</string>
 	<string key="9900_InvestigateArclight3" speaker="UI">Isabella's Soul</string>
 	<string key="9905_0042_shecameback_objective_title" speaker="UI - Quest Title">She Came Back</string>
-	<string key="9905_0042_shecameback_objective_desc" speaker="UI - Quest Description">You didn't expect to see Rima again after the fall of Fort Alazar, yet here she is. Talk to her at the bar.</string>
+	<string key="9905_0042_shecameback_objective_desc" speaker="UI - Quest Description">You didn't expect to see Rima again after the fall of Caer Dun, yet here she is. Talk to her at the bar.</string>
 	<string key="9905_0042_shecameback_start_prompt" speaker="UI - Player Prompt">"Rima is here?"</string>
 	<string key="9905_0042_GreetRima" speaker="UI">Approach Rima in the Tavern</string>
 	<string key="9905_0042_shecameback_proposal" speaker="Émile d'Aquitane" name="Emile_d'Aquitane" gender="M" VO="9905_0042_shecameback_start_prompt" VO_Status="Recorded" dialogue-next="@9905_0042_shecameback_proposal_next">Yes, she is a very famous singer, you know? Her song about the moon…it can move the heart of any man, or woman. \n\nSometimes both at once, I've heard… but yes, you should go speak to her.</string>
@@ -787,7 +787,7 @@
 	<string key="9910_0057_insoulinstone_proposal_prompt" speaker="UI - Player Prompt">"No. I'm going into the Mountain."</string>
 	<string key="9910_0057_insoulinstone_proposal_next" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="9910_0057_insoulinstone_proposal_prompt" VO_Status="Recorded" dialogue-next="@9910_0057_insoulinstone_proposal_next2" dialogue-prompt="@9910_0057_insoulinstone_proposal_prompt">Well… I suppose you've earned that right. Of course, I have to say, it would be devastating to morale if you fell to Corruption.\n\nAnd besides, just getting in there will be insanely difficult.</string>
 	<string key="9910_0057_insoulinstone_proposal_prompt2" speaker="UI - Player Prompt">"What do I have to do?"</string>
-	<string key="9910_0057_insoulinstone_proposal_next2" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="9910_0057_insoulinstone_proposal_prompt2" VO_Status="Needs Re-Recording" dialogue-prompt="@9910_0057_insoulinstone_proposal_prompt2">The entrance is in Myrkgard, choked by Corruption.\n\nI can provide you with a key that will let you pass, but only once.\n\nIf you're sure you want to do this, then I wish you Godspeed.</string>
+	<string key="9910_0057_insoulinstone_proposal_next2" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="9910_0057_insoulinstone_proposal_prompt2" VO_Status="Recorded" dialogue-prompt="@9910_0057_insoulinstone_proposal_prompt2">The entrance is Myrkgard, but it's currently blocked by Corruption.\n\n Our theory is that if you seal the breaches there, you can get through. \n\nIf you're sure you want to do this, then I wish you Godspeed.</string>
 	<string key="9910_0057_insoulinstone_incomplete" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="9910_0057_insoulinstone_proposal_next2" VO_Status="Recorded">I'll say this much, you've got sand.\n\nGo on then - kick the Tempest's ass. The Soulwardens, those of us who remain,  we're behind you all the way.</string>
 	<string key="9910_0057_insoulinstone_complete_available_response" speaker="Warden Yseult" name="WardenYseult" gender="F" VO="9910_0057_insoulinstone_incomplete" VO_Status="Recorded" dialogue-next="@9910_0057_insoulinstone_complete_available_response_next">Wow, you look like hell. It must've been a fight for the ages. We saw the change in the Mountain.\n\nDoes that mean… I can't believe I'm saying this - is the Tempest destroyed?</string>
 	<string key="9910_0057_insoulinstone_complete_available_response_prompt" speaker="UI - Player Prompt">"Yes, and the main breach is sealed."</string>
