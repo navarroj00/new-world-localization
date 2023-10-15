@@ -980,6 +980,8 @@
 	<string key="ui_world_leave_world_confirm_message_season_pass">Your Season Pass progress and rewards will carry over</string>
 	<string key="ui_world_leave_world_confirm_message_houses">Your Houses will carry over</string>
 	<string key="ui_world_leave_world_confirm_message_end">Are you sure you want to leave {worldName}?\n\nOnce you leave this world, you may not be able to return until it is unlocked and can only select a world in this region.</string>
+	<string key="ui_world_leave_world_failed_header">Character Transfer Unavailable</string>
+	<string key="ui_world_leave_world_failed_message">Free Character Transfer is currently unavailable.</string>
 	<string key="ui_resolution_popup_title">Resolution</string>
 	<string key="ui_resolution_popup_title_message">Keep this resolution?</string>
 	<string key="ui_monitor_popup_title">Monitor</string>
