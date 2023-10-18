@@ -429,8 +429,8 @@
 	<string key="BS_Tour_2_Finish" speaker="UI" rel_version="Feature_Mounts">Ride to Shrine of Orion in Mourningdale</string>
 	<string key="BS_Tour_3_Finish" speaker="UI" rel_version="Feature_Mounts">Ride to Siren's Run in Reekwater</string>
 	<string key="EW_Tour_1_Finish" speaker="UI" rel_version="Feature_Mounts">Ride to Jochi's Stable in Everfall</string>
-	<string key="EW_Tour_2_Finish" speaker="UI" rel_version="Feature_Mounts">Ride to Place of Pillars in Brimstone Sands</string>
-	<string key="EW_Tour_3_Finish" speaker="UI" rel_version="Feature_Mounts">Ride to Shrine of Orion in Mourningdale</string>
+	<string key="EW_Tour_2_Finish" speaker="UI" rel_version="Feature_Mounts">Ride to Deadman's Shrine in Monarch's Bluffs</string>
+	<string key="EW_Tour_3_Finish" speaker="UI" rel_version="Feature_Mounts">Ride to Syndicate Enclave in Everfall</string>
 	<string key="9401_MountTutorial" speaker="UI" rel_version="Feature_Mounts">Mount up {$player.mount_summon$} and ride to the starting line</string>
 	<string key="9401_RaceContainerText" speaker="UI" rel_version="Feature_Mounts">Complete each course</string>
 	<string key="94_CircuitContainerText" speaker="UI" rel_version="Feature_Mounts">Complete each circuit</string>
@@ -460,8 +460,8 @@
 	<string key="9404_Rally_3_Proposal_2" speaker="Race Board" rel_version="Feature_Mounts">The great pyramid, the mercury pools, and the settlement - the ancient gods look over everything in eternal splendor.\n\nEnds at New Corsica in Brimstone Sands.</string>
 	<string key="9404_Rally_4_Proposal_2" speaker="Race Board" rel_version="Feature_Mounts">Make your way through gorgeous flora, a spirit filled graveyard, and a fortress of the corrupted.</string>
 	<string key="9405_Tour_1_Proposal_2" speaker="Race Board" rel_version="Feature_Mounts">Ride back to where your journey with beastkind began.\n\nEnds at Jochi's Stable in Everfall.</string>
-	<string key="9405_Tour_2_Proposal_2" speaker="Race Board" rel_version="Feature_Mounts">Island Tour - Test your true mettle with the fearlessness of a lion.\n\nEnds at Place of Pillars in Brimstone Sands.</string>
-	<string key="9405_Tour_3_Proposal_2" speaker="Race Board" rel_version="Feature_Mounts">Ponder the mysteries of Aeternum through to a final storming chaos.\n\nEnds at Shrine of Orion in Mourningdale.</string>
+	<string key="9405_Tour_2_Proposal_2" speaker="Race Board" rel_version="Feature_Mounts">Island Tour - Test your true mettle with the fearlessness of a lion.\n\nEnds at Deadman's Shrine in Monarch's Bluffs.</string>
+	<string key="9405_Tour_3_Proposal_2" speaker="Race Board" rel_version="Feature_Mounts">Ponder the mysteries of Aeternum through along a route wrought with clandestine whispers.\n\nEnds at Syndicate Enclave in Everfall.</string>
 	<string key="9405_Rally_1_Proposal_2" speaker="Race Board" rel_version="Feature_Mounts">Descend into the wild greens of Beast Lord stomping grounds, leap beyond the clutch of hungry teeth, and make your way back to Last Light.</string>
 	<string key="9405_Rally_2_Proposal_2" speaker="Race Board" rel_version="Feature_Mounts">Dash through green rolling hills and the tunnels of Tempestas Custodia for the ultimate test of your agility.</string>
 </resources>

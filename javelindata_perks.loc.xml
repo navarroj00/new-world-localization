@@ -2597,7 +2597,7 @@
 	<string key="PerkID_Artifact_Set1_Amulet1_Name">Stunny Gaze</string>
 	<string key="PerkID_Artifact_Set1_Amulet1_Desc">Activate Taunt Gems. Stuns last {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet1B.TargetStatusEffectDurationMult * 100]}% longer, but base damage is decreased by {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet1B.BaseDamage * -100]}%.</string>
 	<string key="PerkID_Artifact_Set1_Amulet2_Name">Center of Attention</string>
-	<string key="PerkID_Artifact_Set1_Amulet2_Desc">Incoming heals are {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Amulet2.NonConsumableHealMod * 100]}% stronger, consumable and outgoing heals are {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet2.HealScalingValueMultiplier * -100]}% weaker</string>
+	<string key="PerkID_Artifact_Set1_Amulet2_Desc">Incoming heals are {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Amulet2.NonConsumableHealMod * 100]}% stronger, consumables and outgoing heals are {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet2.HealScalingValueMultiplier * -100]}% weaker</string>
 	<string key="PerkID_Artifact_Set1_Ring1_Name">Ghouls Harmony</string>
 	<string key="PerkID_Artifact_Set1_Ring1_Desc">-{[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Ring1.BaseDamage * 100]}% damage, {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Ring1.DmgPctToHealth * 100]}% lifesteal</string>
 	<string key="PerkID_Artifact_Set1_Earring1_Name">The Thirst</string>
@@ -2605,9 +2605,9 @@
 	<string key="PerkID_Artifact_Set1_Flail_Name">Odo's Punishment</string>
 	<string key="PerkID_Artifact_Set1_Flail_Desc">You deal {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Flail.BaseDamage * 100]}% more damage to stunned foes. (works on both weapons)</string>
 	<string key="PerkID_Artifact_Set1_FlailPerk_Name">Odo's Defense</string>
-	<string key="PerkID_Artifact_Set1_FlailPerk_Desc">On Block: heal for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Flail.HealthModifierBasePercent * 100 * {perkMultiplier}]}% base health. ({[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Flailperk.ActivationCooldown]}s cooldown)</string>
+	<string key="PerkID_Artifact_Set1_FlailPerk_Desc">On Block: heal for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Flail.HealthModifierBasePercent * 100 * {perkMultiplier}]}% base health. ({[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Flailperk.ActivationCooldown]}s cooldown )</string>
 	<string key="PerkID_Artifact_Set1_HeavyHead_Name">Hard Head</string>
-	<string key="PerkID_Artifact_Set1_HeavyHead_Desc">PvP Only: Receive {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_HeavyHead.CritDamageReduction * 100]}% less damage from critical hits</string>
+	<string key="PerkID_Artifact_Set1_HeavyHead_Desc">PvP Only: Receive {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_HeavyHead.CritDamageReduction * 100]}% less damage from critical hits. This helm's weight is reduced by {[AffixStatDataTable.Affix_Artifact_Set1_HeavyHead.WeightMultiplier * -100]}%.</string>
 	<string key="PerkID_Artifact_Set1_HeavyChest_Name">Dark Reinforced</string>
 	<string key="PerkID_Artifact_Set1_HeavyChest_Desc">Your armor is increased by {[Type_StatusEffectData.Status_Perk_Artifact_Set1_HeavyChest.PhysicalArmor * 100]}%.</string>
 	<string key="PerkID_Artifact_Set1_HeavyHands_Name">Magnetic</string>
@@ -2622,7 +2622,7 @@
 	<string key="PerkID_Artifact_Set1_MediumHands_Desc">When you hit a foe that is below half health, transfer one debuff. ({[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_MediumHands.ActivationCooldown]}s cooldown)</string>
 	<string key="PerkID_Artifact_Set1_MediumLegs_Name">+25 Amplify (top 2 attributes):</string>
 	<string key="PerkID_Artifact_Set1_MediumLegs_SecondaryName">Well Rounded</string>
-	<string key="PerkID_Artifact_Set1_MediumLegs_Desc">+10 to all other attributes.</string>
+	<string key="PerkID_Artifact_Set1_MediumLegs_Desc">+10 to all attributes.</string>
 	<string key="PerkID_Artifact_Set1_LightHead_Name">Brilliance</string>
 	<string key="PerkID_Artifact_Set1_LightHead_Desc">+{[AffixStatDataTable.Affix_Artifact_Set1_LightHead.MaxManaMod * 100]}% max mana</string>
 	<string key="PerkID_Artifact_Set1_LightChest_Name">Weightless</string>

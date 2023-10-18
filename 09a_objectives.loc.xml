@@ -791,8 +791,11 @@
 	<string key="09A_S9_PowerOn" speaker="UI" rel_version="Territory_FirstLight">Activate the Ancient Device</string>
 	<string key="09A_S9_Container03" speaker="UI" rel_version="Territory_FirstLight">Assist Kievan with Breaching the Device</string>
 	<string key="09A_S9_StartHack" speaker="UI" rel_version="Territory_FirstLight">Initiate Sequence</string>
-	<string key="09A_S9_Container04" speaker="UI" rel_version="Territory_FirstLight">Keep the Oncoming Anubians from Kievan</string>
-	<string key="09A_S9_KillTask" speaker="UI" rel_version="Territory_FirstLight">Defend Kievan</string>
+	<string key="09A_S9_Container04" speaker="UI" rel_version="Territory_FirstLight">Complete the Quest Encounter "Breaching the System"</string>
+	<string key="09A_S9_KillTask" speaker="UI" rel_version="Territory_FirstLight">Complete the Quest Encounter "Breaching the System"</string>
+	<string key="09A_S9_Defense_Title" speaker="UI" rel_version="Territory_FirstLight">Breaching the System</string>
+	<string key="09A_S9_Defense_Description0" speaker="UI" rel_version="Territory_FirstLight">Initiate the Hack in the Quest "Factions United"</string>
+	<string key="09A_S9_Defense_Description1" speaker="UI" rel_version="Territory_FirstLight">Defend Kievan Sidorov from the Anubian Guardians</string>
 	<string key="fake_key_25" comment="THE HEART OF A BEAST" rel_version="Territory_FirstLight">THE HEART OF A BEAST</string>
 	<string key="09A_S10_Title" speaker="UI" rel_version="Territory_FirstLight">The Heart of a Beast</string>
 	<string key="09A_S10_Description" speaker="UI" rel_version="Territory_FirstLight">Pinned beneath a mysterious, rusted axe lies a note - addressed to you. It asks that you hold your judgment of the fabled Minotaur until you learn his story. Collect relics lost in the labyrinth, then speak with Marwa.</string>
