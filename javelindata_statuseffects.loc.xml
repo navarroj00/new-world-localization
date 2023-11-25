@@ -671,14 +671,6 @@
 	<string key="AI_Slime_Slow_Tooltip">Movement speed reduced by {[Type_StatusEffectData.AI_Slime_Slow.MoveSpeedMod * -100]}%.</string>
 	<string key="AI_PillarGoat_Buff_DisplayName" rel_version="Territory_Brimstone_Sands">Pushy</string>
 	<string key="AI_Fleeting_Buff_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Fleeting</string>
-	<string key="AI_HalloweenPlaguer_PumpkinPlague_DisplayName" rel_version="Event_Halloween_Temp">Pumpkin Plague</string>
-	<string key="AI_HalloweenPlaguer_PumpkinPlague_Tooltip" rel_version="Event_Halloween_Temp">Reduces healing taken by {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.HealMod * -100]}% for {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.StackMax]} times.</string>
-	<string key="AI_HalloweenBoss_PumpkinPlague_DisplayName" rel_version="Event_Halloween_Temp">Pumpkin Plague</string>
-	<string key="AI_HalloweenBoss_PumpkinPlague_Tooltip" rel_version="Event_Halloween_Temp">Reduces healing taken by {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.HealMod * -100]}% for {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.StackMax]} times.</string>
-	<string key="AI_HalloweenGourdspewer_HealPuddle_DisplayName" rel_version="Event_Halloween_Temp">Purifying Aura</string>
-	<string key="AI_HalloweenGourdspewer_HealPuddle_Tooltip" rel_version="Event_Halloween_Temp">Cures Pumpkin Plague and Heals for {[Type_StatusEffectData.AI_HalloweenGourdspewer_HealPuddle.HealthModifierPercent * 100]}% base health every {[Type_StatusEffectData.AI_HalloweenGourdspewer_HealPuddle.TickRate]} seconds.</string>
-	<string key="AI_HalloweenPlaguer_HealPuddle_DisplayName" rel_version="Event_Halloween_Temp">Purifying Aura</string>
-	<string key="AI_HalloweenPlaguer_HealPuddle_Tooltip" rel_version="Event_Halloween_Temp">Cures Pumpkin Plague and Heals for {[Type_StatusEffectData.AI_HalloweenPlaguer_HealPuddle.HealthModifierPercent * 100]}% base health every {[Type_StatusEffectData.AI_HalloweenPlaguer_HealPuddle.TickRate]} seconds.</string>
 	<string key="AI_HalloweenBoss_PutridAura_DisplayName">Baalphazu's Curse</string>
 	<string key="AI_HalloweenBoss_PutridAura_Tooltip">Take {[Type_StatusEffectData.HalloweenBoss_Putrid_Aura_DoT_Damage.HealthModifierDamageBased * -100]}% base health Nature damage every {[Type_StatusEffectData.HalloweenBoss_Putrid_Aura_DoT_Damage.TickRate * 6]} seconds.</string>
 	<string key="AI_HercyneRat_Disease_DisplayName" rel_version="Territory_FirstLight">Disease</string>
@@ -1327,6 +1319,8 @@
 	<string key="WeaponCoatingEffect_T4_AngryEarth_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingAngryEarthT4.DMGVitalsCategory * 100]}% damage to Angry Earth.</string>
 	<string key="WeaponCoatingEffect_T5_Beasts_DisplayName">Infused Beast Weapon Coating</string>
 	<string key="WeaponCoatingEffect_T5_Beasts_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingBeastT5.DMGVitalsCategory * 100]}% damage to Beasts.</string>
+	<string key="WeaponCoatingEffect_T5_BeastsTurkey_DisplayName" rel_version="Event_TurkeyTerror_Temp">Infused Turkey Weapon Coating</string>
+	<string key="WeaponCoatingEffect_T5_BeastsTurkey_Description" rel_version="Event_TurkeyTerror_Temp">While this weapon is active deal more 300% damage to Turkulon and 15% to Beasts.</string>
 	<string key="WeaponCoatingEffect_T5_Ancient_DisplayName">Infused Ancient Weapon Coating</string>
 	<string key="WeaponCoatingEffect_T5_Ancient_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingAncientT5.DMGVitalsCategory * 100]}% damage to Ancients.</string>
 	<string key="WeaponCoatingEffect_T5_Lost_DisplayName">Infused Lost Weapon Coating</string>
@@ -1556,7 +1550,7 @@
 	<string key="Status_VoidGauntlet_NullChamber_Empower_Description" rel_version="Weapon_Void_Gauntlet">Your damage is increased by {[Type_StatusEffectData.VoidGauntlet_NullChamber_Empower.DMGCorruption * 100]}%.</string>
 	<string key="Status_VoidGauntlet_NullChamber_Weaken_Description" rel_version="Weapon_Void_Gauntlet">Your damage is reduced by {[Type_StatusEffectData.VoidGauntlet_NullChamber_Weaken.DMGCorruption * -100]}%.</string>
 	<string key="Status_VoidGauntlet_Scream_Fortify_Description" rel_version="Weapon_Void_Gauntlet">Your armor is increased by {[Type_StatusEffectData.VoidGauntlet_Scream_Fortify.PhysicalArmor * 100]}%.</string>
-	<string key="Status_Perk_VoidGauntlet_Scream_Disease_Description" rel_version="Weapon_Void_Gauntlet">Incoming healing is reduced by {[Type_StatusEffectData.VoidGauntlet_Scream_Disease.HealMod * -100]}%.</string>
+	<string key="Status_Perk_VoidGauntlet_Scream_Disease_Description" rel_version="Weapon_Void_Gauntlet">Incoming healing is reduced by {[Type_StatusEffectData.VoidGauntlet_Scream_Disease.HealMod * -100 {perkMultiplier}]}% and outgoing healing by {[Type_StatusEffectData.VoidGauntlet_Scream_Disease.HealScalingValueMultiplier * -100 * {perkMultiplier}]}.</string>
 	<string key="Status_VoidGauntlet_DecayingOrb_Heal_Description" rel_version="Weapon_Void_Gauntlet">Heal for {[Type_StatusEffectData.VoidGauntlet_DecayingOrb_Heal.HealthModifierDamageBased * 100]}% weapon damage per second.</string>
 	<string key="Status_VoidGauntlet_DecayingOrb_SlowVsDebuff_Description" rel_version="Weapon_Void_Gauntlet">Your movement speed is reduced by {[Type_StatusEffectData.VoidGauntlet_DecayingOrb_SlowVsDebuff.MoveSpeedMod * -100]}%.</string>
 	<string key="Status_VoidGauntlet_DrainingTether_Empower_Description" rel_version="Weapon_Void_Gauntlet">Your damage is increased by {[Type_StatusEffectData.VoidGauntlet_DrainingTether_Empower.DMGCorruption * 100]}%.</string>
@@ -1705,8 +1699,8 @@
 	<string key="RoadTravel_SprintBoost_Description">Sprint Speed is increased by {[Type_StatusEffectData.Traversal_RoadSprintBoost_Haste.SprintSpeedMod * 100]}% while sprinting on roads</string>
 	<string key="OutOfCombat_PassiveRegen_Name">Peaceful Regen</string>
 	<string key="OutOfCombat_PassiveRegen_Description">Passive regeneration that grants healing over time, increased mana regen rate, and increases the effects of passive food healing while out of combat.</string>
-	<string key="Status_Weapon_DiseaseOnCrit_Description" rel_version="MorePerksV1">Healing efficiency is reduced by {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnCrit.HealMod * -100]}%.</string>
-	<string key="Status_Weapon_DiseaseOnHeavy_Description" rel_version="MorePerksV1">Healing efficiency is reduced by {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnHeavy.HealMod * -100]}%.</string>
+	<string key="Status_Weapon_DiseaseOnCrit_Description" rel_version="MorePerksV1">Incoming healing efficiency is reduced by {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnCrit.HealMod * -100]}% and outgoing healing by {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnCrit.HealScalingValueMultiplier * -100 * {perkMultiplier}]}%.</string>
+	<string key="Status_Weapon_DiseaseOnHeavy_Description" rel_version="MorePerksV1">Incoming healing efficiency is reduced by {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnHeavy.HealMod * -100]}% and outgoing healing by {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnHeavy.HealScalingValueMultiplier * -100 * {perkMultiplier}]}%.</string>
 	<string key="Status_Weapon_ChargedHeavyRend_Description" rel_version="MorePerksV1">Your armor is reduced by {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.PhysicalArmor * -100]}%.</string>
 	<string key="Status_Timer_ChargedHeavyRend_Description" rel_version="MorePerksV1">When this ends, you can trigger the Trenchant Rend perk again.</string>
 	<string key="Wispy_Wasp_Swarm_Tick_DisplayName">Bleeding</string>

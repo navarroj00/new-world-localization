@@ -982,6 +982,9 @@
 	<string key="ui_world_leave_world_confirm_message_end">Are you sure you want to leave {worldName}?\n\nOnce you leave this world, you may not be able to return until it is unlocked and can only select a world in this region.</string>
 	<string key="ui_world_leave_world_failed_header">Character Transfer Unavailable</string>
 	<string key="ui_world_leave_world_failed_message">Free Character Transfer is currently unavailable.</string>
+	<string key="ui_world_free_transfer_tooltip_transfer_unavailable">Character Transfer is currently unavailable.</string>
+	<string key="ui_world_free_transfer_tooltip_is_latent">Character is already set to transfer</string>
+	<string key="ui_world_free_transfer_tooltip_cooldown">Character Transfer\nAvailable after: {time}</string>
 	<string key="ui_resolution_popup_title">Resolution</string>
 	<string key="ui_resolution_popup_title_message">Keep this resolution?</string>
 	<string key="ui_monitor_popup_title">Monitor</string>

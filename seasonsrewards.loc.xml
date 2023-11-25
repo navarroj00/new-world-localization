@@ -503,7 +503,7 @@
 	<string key="ui_seasons_task_name_FlailMastery_1" rel_version="Season_3_Perm">Fellowship of the Flail I</string>
 	<string key="ui_seasons_task_name_FlailMastery_2" rel_version="Season_3_Perm">Fellowship of the Flail II</string>
 	<string key="ui_seasons_task_name_FlailMastery_3" rel_version="Season_3_Perm">Fellowship of the Flail III</string>
-	<string key="ui_seasons_task_description_FlailMastery" rel_version="Season_3_Perm">Reach Mastery {maxCount} with the Flail</string>
+	<string key="ui_seasons_task_description_FlailMastery" rel_version="Season_3_Perm">Gain {maxCount} Mastery levels with the Flail</string>
 	<string key="ui_seasons_task_name_EdengroveSettlement" rel_version="Season_3_Perm">Edengrove Settler</string>
 	<string key="ui_seasons_task_description_EdengroveSettlement" rel_version="Season_3_Perm">Discover Edengrove Settlement</string>
 	<string key="ui_seasons_task_name_AcquireMount" rel_version="Season_3_Perm">My First Mount</string>
@@ -577,7 +577,7 @@
 	<string key="ui_seasons_task_description_MountBuffs" rel_version="Season_3_Perm">Use {maxCount} Mount Consumables</string>
 	<string key="ui_seasons_task_name_MountRace_PathOfTheOldWarrior" rel_version="Season_3_Perm">Checkered Flag</string>
 	<string key="ui_seasons_task_description_MountRace_PathOfTheOldWarrior" rel_version="Season_3_Perm">Complete the Hermit's Rally race</string>
-	<string key="ui_seasons_task_name_FactionStory" rel_version="Season_3_Perm">Faction Famil</string>
+	<string key="ui_seasons_task_name_FactionStory" rel_version="Season_3_Perm">Faction Family</string>
 	<string key="ui_seasons_task_description_FactionStory" rel_version="Season_3_Perm">Complete your Faction's Story</string>
 	<string key="ui_seasons_task_name_FactionControlPointFirstLight" rel_version="Season_3_Perm">First Light Conquerer</string>
 	<string key="ui_seasons_task_description_FactionControlPointFirstLight" rel_version="Season_3_Perm">Capture {maxCount} Faction Control Points in First Light</string>

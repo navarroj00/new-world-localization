@@ -524,16 +524,15 @@
 	<string key="ui_Emote_Walk_Trex_description" rel_version="Emotes_Seance">Everybody do the dinosaur.</string>
 	<string key="Emote_Walk_Trex" rel_version="Emotes_Seance">{playerName} unleashes their inner T-rex.</string>
 	<string key="ui_Emote_WitchBroom_name" rel_version="Emotes_Seance">Witch's Broom</string>
-	<string key="ui_Emote_WitchBroom_description" rel_version="Emotes_Seance">"Fly, my pretty!"</string>
+	<string key="ui_Emote_WitchBroom_description" rel_version="Emotes_Seance">Fly, my pretty!\n\nAccess by triggering a Witch's Broom Emote Permit.</string>
 	<string key="Emote_WitchBroom" rel_version="Emotes_Seance">{playerName} hovers ominously.</string>
 	<string key="ui_Emote_WitchBroom">Witch's Broom</string>
 	<string key="ui_Emote_YouMeNow_name" rel_version="Season_3_Perm">You, Me, NOW!</string>
 	<string key="ui_Emote_YouMeNow_description" rel_version="Season_3_Perm">We are going to handle this right now!</string>
 	<string key="Emote_YouMeNow" rel_version="Season_3_Perm">{playerName} beckons to come handle business!</string>
 	<string key="ui_Emote_YouMeNow">You, Me, NOW!</string>
-	<string key="ui_Emote_CraneKick_description">Kick it with your buddies. Or just kick your buddies. Either works.</string>
-	<string key="Emote_CraneKick">{playerName} performs a flawless crane kick!</string>
-	<string key="ui_Emote_CraneKick">Crane Kick</string>
-	<string key="ui_Emote_BendtheKnee_description">Swearing fealty never looked so good.</string>
+	<string key="ui_Emote_CraneKick_description" rel_version="Emotes_Gothknight">Kick it with your buddies. Or just kick your buddies. Either works.</string>
+	<string key="Emote_CraneKick" rel_version="Emotes_Gothknight">{playerName} performs a flawless crane kick!</string>
+	<string key="ui_Emote_CraneKick" rel_version="Emotes_Gothknight">Crane Kick</string>
 </resources>
 

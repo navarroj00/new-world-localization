@@ -161,33 +161,33 @@
 	<string key="FallCaerDun11" start="60" end="65" dialogue-next="FallCaerDun12">She broke our fearless leader and dragged him away.</string>
 	<string key="FallCaerDun12" start="66" end="72" dialogue-next="FallCaerDun13">Our fortress in ruins... the Soulwardens, crushed.</string>
 	<string key="FallCaerDun13" start="72" end="80">We were too weak to stop them. There is nothing left.</string>
-	<string key="BeastLords01" start="1" end="7" dialogue-next="BeastLords02">At the dawn of time, the Beast Lords were among the Titans who roamed the Earth.</string>
-	<string key="BeastLords02" start="8" end="14" dialogue-next="BeastLords03">They existed in harmony, masters of the world in its natural state.</string>
-	<string key="BeastLords03" start="14" end="20" dialogue-next="BeastLords04">When the Ancients arrived, they sought dominion over all,</string>
-	<string key="BeastLords04" start="20" end="27" dialogue-next="BeastLords05">But the newcomers soon discovered Earth's primal children could not be tamed.</string>
-	<string key="BeastLords05" start="27" end="35" dialogue-next="BeastLords06">I walked among humans at that time and received the Ancients' immortal gifts.</string>
-	<string key="BeastLords06" start="35" end="40" dialogue-next="BeastLords07">I became their emissary to the primal world.</string>
-	<string key="BeastLords07" start="40" end="47" dialogue-next="BeastLords08">During the Ancients' Civil War, I fought alongside Artemis against the Corruption.</string>
+	<string key="BeastLords01" start="0" end="6" dialogue-next="BeastLords02">At the dawn of time, the Beast Lords were among the Titans who roamed the Earth.</string>
+	<string key="BeastLords02" start="6" end="12" dialogue-next="BeastLords03">They existed in harmony, masters of the world in its natural state.</string>
+	<string key="BeastLords03" start="12" end="18" dialogue-next="BeastLords04">When the Ancients arrived, they sought dominion over all,</string>
+	<string key="BeastLords04" start="18" end="27" dialogue-next="BeastLords05">But the newcomers soon discovered Earth's primal children could not be tamed.</string>
+	<string key="BeastLords05" start="27" end="34" dialogue-next="BeastLords06">I walked among humans at that time and received the Ancients' immortal gifts.</string>
+	<string key="BeastLords06" start="34" end="39" dialogue-next="BeastLords07">I became their emissary to the primal world.</string>
+	<string key="BeastLords07" start="39" end="47" dialogue-next="BeastLords08">During the Ancients' Civil War, I fought alongside Artemis against the Corruption.</string>
 	<string key="BeastLords08" start="47" end="54" dialogue-next="BeastLords09">But the Beast Lords stayed out of the fray, withdrawing to their underworld realm.</string>
-	<string key="BeastLords09" start="54" end="58" dialogue-next="BeastLords10">Taking with them the Tear of Gaea,</string>
-	<string key="BeastLords10" start="58" end="63" dialogue-next="BeastLords11">Safekeeping its potential to transform the Earth.</string>
-	<string key="BeastLords11" start="64" end="70" dialogue-next="BeastLords12">Millennia later, the Huntress called on me to fight at her side once again...</string>
-	<string key="BeastLords12" start="70" end="77" dialogue-next="BeastLords13">Promising to restore the natural order and the Beast Lords to their place.</string>
-	<string key="BeastLords13" start="78" end="84" dialogue-next="BeastLords14">But her powers seem to have inspired a strange fury...</string>
+	<string key="BeastLords09" start="54" end="57" dialogue-next="BeastLords10">Taking with them the Tear of Gaea,</string>
+	<string key="BeastLords10" start="57" end="62" dialogue-next="BeastLords11">Safekeeping its potential to transform the Earth.</string>
+	<string key="BeastLords11" start="63" end="70" dialogue-next="BeastLords12">Millennia later, the Huntress called on me to fight at her side once again...</string>
+	<string key="BeastLords12" start="70" end="76" dialogue-next="BeastLords13">Promising to restore the natural order and the Beast Lords to their place.</string>
+	<string key="BeastLords13" start="77" end="84" dialogue-next="BeastLords14">But her powers seem to have inspired a strange fury...</string>
 	<string key="BeastLords14" start="84" end="92">One I fear could become a destructive rage that threatens all Aeternum.</string>
 	<string key="NewEden01" start="0" end="6" dialogue-next="NewEden02">It began when the Ennead awakened, its power moving through the earth.</string>
 	<string key="NewEden02" start="6" end="13" dialogue-next="NewEden03">Its light erupting from the tower here in terrible glory.</string>
 	<string key="NewEden03" start="14" end="20" dialogue-next="NewEden04">Daring to investigate, they witnessed a hideous transformation...</string>
-	<string key="NewEden04" start="20" end="27" dialogue-next="NewEden05">Artemis created an ally, one whose gaze turned flesh to stone.</string>
-	<string key="NewEden05" start="28" end="33" dialogue-next="NewEden06">As the Ancient's terror spread, the people of the settlement staged a final stand...</string>
-	<string key="NewEden06" start="33" end="39" dialogue-next="NewEden07">But the flora of First Light twisted... and turned against them.</string>
-	<string key="NewEden07" start="39" end="44" dialogue-next="NewEden08">The defeated were told they had a greater purpose to serve...</string>
-	<string key="NewEden08" start="44" end="51" dialogue-next="NewEden09">Their fates and spirits would be bound... to the birthing of a new world.</string>
-	<string key="NewEden09" start="51" end="56" dialogue-next="NewEden10">It appears Artemis then called forth a beastly horde.</string>
-	<string key="NewEden10" start="56" end="61" dialogue-next="NewEden11">Primal creatures summoned from some abyssal realm.</string>
-	<string key="NewEden11" start="62" end="70" dialogue-next="NewEden12">What followed is madness... obscene acts to make amalgamations of people, beasts, and plants...</string>
-	<string key="NewEden12" start="71" end="77" dialogue-next="NewEden13">Our witness, in soulstruck horror, took flight in body... and in mind.</string>
-	<string key="NewEden13" start="77" end="83" dialogue-next="NewEden14">Her sanity is now shattered by this mad Ancient's vision for the future.</string>
+	<string key="NewEden04" start="20" end="26" dialogue-next="NewEden05">Artemis created an ally, one whose gaze turned flesh to stone.</string>
+	<string key="NewEden05" start="27" end="33" dialogue-next="NewEden06">As the Ancient's terror spread, the people of the settlement staged a final stand...</string>
+	<string key="NewEden06" start="33" end="37" dialogue-next="NewEden07">But the flora of First Light twisted... and turned against them.</string>
+	<string key="NewEden07" start="38" end="43" dialogue-next="NewEden08">The defeated were told they had a greater purpose to serve...</string>
+	<string key="NewEden08" start="43" end="50" dialogue-next="NewEden09">Their fates and spirits would be bound... to the birthing of a new world.</string>
+	<string key="NewEden09" start="50" end="55" dialogue-next="NewEden10">It appears Artemis then called forth a beastly horde.</string>
+	<string key="NewEden10" start="55" end="61" dialogue-next="NewEden11">Primal creatures summoned from some abyssal realm.</string>
+	<string key="NewEden11" start="61" end="68" dialogue-next="NewEden12">What followed is madness... obscene acts to make amalgamations of people, beasts, and plants...</string>
+	<string key="NewEden12" start="69" end="76" dialogue-next="NewEden13">Our witness, in soulstruck horror, took flight in body... and in mind.</string>
+	<string key="NewEden13" start="76" end="83" dialogue-next="NewEden14">Her sanity is now shattered by this mad Ancient's vision for the future.</string>
 	<string key="NewEden14" start="83" end="89">A savage Eden where humanity has no place.</string>
 	<string key="ShadowAwakens01" start="1" end="7" dialogue-next="ShadowAwakens02">Since the beginning, I have sacrificed to protect the Earth.</string>
 	<string key="ShadowAwakens02" start="7" end="16" dialogue-next="ShadowAwakens03">Watching my brothers and sisters yield their very essence to stem the first tide of evil.</string>

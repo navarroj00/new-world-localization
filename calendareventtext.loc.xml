@@ -20,11 +20,6 @@
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">REWARDS</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
 	<string key="ui_event_summer_progress_name" rel_version="Event_Summer_Perm">Event Reputation</string>
-	<string key="ui_event_halloween_rank_0" rel_version="Event_Halloween_Temp">Fledgling</string>
-	<string key="ui_event_halloween_rank_1" rel_version="Event_Halloween_Temp">Nightveil Sentinel</string>
-	<string key="ui_event_halloween_rank_2" rel_version="Event_Halloween_Temp">Nightveil Ghoul</string>
-	<string key="ui_event_halloween_shop_header" rel_version="Event_Halloween_Temp">Nightveil Hallow</string>
-	<string key="ui_event_halloween_progress_name" rel_version="Event_Halloween_Temp">Event Reputation</string>
 	<string key="ui_event_weapon_xp_tabname">XP Event</string>
 	<string key="ui_event_weapon_xp_title">WEAPON XP BONUS EVENT</string>
 	<string key="ui_event_weapon_xp_desc">Active bonuses:</string>
@@ -71,19 +66,25 @@
 	<string key="ui_event_returnem_message_title" rel_version="Feature_FreshStart">Fresh Start Worlds</string>
 	<string key="ui_event_returnem_message_description" rel_version="Feature_FreshStart">Fresh Start Worlds are now live! Only new characters can be a part of these worlds.</string>
 	<string key="ui_event_returnem_button_about" rel_version="Feature_FreshStart">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Return to Aeternum</string>
-	<string key="ui_event_brimstone_panel1_title" rel_version="Event_Halloween_Temp">First Anniversary Celebration</string>
-	<string key="ui_event_brimstone_panel1_subtitle" rel_version="Event_Halloween_Temp">Celebrate with new zones, quests, enemies, abilities, and rewards!</string>
-	<string key="ui_event_brimstone_panel1_bullet1_title" rel_version="Event_Halloween_Temp">New Content</string>
-	<string key="ui_event_brimstone_panel1_bullet1_text" rel_version="Event_Halloween_Temp">Arm yourself with the all-new Great Sword and Heartgem and journey to the deserts of Brimstone Sands, or start the new Main Story quest!</string>
-	<string key="ui_event_brimstone_panel1_bullet2_title" rel_version="Event_Halloween_Temp">New Event</string>
-	<string key="ui_event_brimstone_panel1_bullet2_text" rel_version="Event_Halloween_Temp">Salvatore the Mad Monk has taken up residence in the town squares of Aeternum to warn of a terrible danger.</string>
-	<string key="ui_event_brimstone_panel1_bullet3_title" rel_version="Event_Halloween_Temp">New Cosmetics</string>
-	<string key="ui_event_brimstone_panel1_bullet3_text" rel_version="Event_Halloween_Temp">Brimstone Sands, Great Sword, and Nightveil Hallow items are now available in the store. Don't forget to pickup your free anniversary skins!</string>
-	<string key="ui_event_brimstone_panel2_title" rel_version="Event_Halloween_Temp">Brimstone Sands</string>
-	<string key="ui_event_brimstone_panel2_subtitle" rel_version="Event_Halloween_Temp">With the new Great Sword and Heartgem ability runes, explore the new Brimstone Sands zone and the Ennead Expedition, or experience the revamped Main Story Quest with new locations, NPCs, challenges, and rewards.\n\nTo access the main storyline quests in Brimstone Sands, players must have completed the quest "A Selfless Nature" in Edengrove and the quest "Strider of the Sands," which can be picked up in multiple locations.</string>
-	<string key="ui_event_brimstone_panel3_title" rel_version="Event_Halloween_Temp">Nightveil Hallow</string>
-	<string key="ui_event_brimstone_panel3_subtitle" rel_version="Event_Halloween_Temp">Starts on 12:01am PST on 10/18/22 | Ends on 12:01 PST on 11/1/22\n\nShapes in the mist! Shrieks in the night! The demon Baalphazu, Marquis of Terror, and his horde of ghoulish Pumpkinites are spreading a living nightmare across Aeternum! Aid Salvatore the Mad in his quest to banish these foul terrors and collect a bounty of time-limited Nightveil Hallow rewards!\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;(Questline unlocks at level 35)&lt;/font&gt;</string>
-	<string key="ui_event_brimstone_button_about" rel_version="Event_Halloween_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Anniversary Celebration</string>
+	<string key="ui_event_turkulon_panel1_title" rel_version="Event_TurkeyTerror_Temp">Turkey Terror</string>
+	<string key="ui_event_turkulon_panel1_subtitle" rel_version="Event_TurkeyTerror_Temp">If you hear the gobbling, it’s already too late.</string>
+	<string key="ui_event_turkulon_panel1_bullet1_title" rel_version="Event_TurkeyTerror_Temp">New Event</string>
+	<string key="ui_event_turkulon_panel1_bullet1_text" rel_version="Event_TurkeyTerror_Temp">The great beast Turkulon rises once more. Put it down with extreme prejudice.</string>
+	<string key="ui_event_turkulon_panel1_bullet2_title1" rel_version="Event_TurkeyTerror_Temp">Return to Aeternum</string>
+	<string key="ui_event_turkulon_panel1_bullet2_text1" rel_version="Event_TurkeyTerror_Temp">Watch streamers compete in the Return to Aeternum event until 11/18 on Twitch.</string>
+	<string key="ui_event_turkulon_panel1_bullet2_title2" rel_version="Event_TurkeyTerror_Temp">New Worlds</string>
+	<string key="ui_event_turkulon_panel1_bullet2_text2" rel_version="Event_TurkeyTerror_Temp">Begin your journey in a fresh world with a fresh economy and level playing field.</string>
+	<string key="ui_event_turkulon_panel1_bullet3_title" rel_version="Event_TurkeyTerror_Temp">New Cosmetics</string>
+	<string key="ui_event_turkulon_panel1_bullet3_text" rel_version="Event_TurkeyTerror_Temp">New items are now available in the store.</string>
+	<string key="ui_event_turkulon_panel2_title" rel_version="Event_TurkeyTerror_Temp">Turkulon</string>
+	<string key="ui_event_turkulon_panel2_subtitle" rel_version="Event_TurkeyTerror_Temp">As the season grows colder, the turkeys of Aeternum grow restless. Get the recipe at Cooking Stations to skin and eat Turkulon’s famed leg while you can!</string>
+	<string key="ui_event_turkulon_panel3_title1" rel_version="Event_TurkeyTerror_Temp">Return to Aeternum</string>
+	<string key="ui_event_turkulon_panel3_subtitle1" rel_version="Event_TurkeyTerror_Temp">The Return to Aeternum event ends 11/18 on Twitch. Which of your favorite streamers will emerge victorious?\n\nhttp://www.twitch.tv/playnewworld</string>
+	<string key="ui_event_turkulon_panel3_title2" rel_version="Event_TurkeyTerror_Temp">Dusk Spirit</string>
+	<string key="ui_event_turkulon_panel3_subtitle2" rel_version="Event_TurkeyTerror_Temp">The new Dusk Spirit item skins are now available for a limited time! Featuring the deluxe Dark Scion apparel, plus additional apparel, weapon and tool skins.</string>
+	<string key="ui_event_turkulon_button_about" rel_version="Event_TurkeyTerror_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Turkulon</string>
+	<string key="ui_event_turkulon_panel3_title3" rel_version="Event_TurkeyTerror_Temp">Black Friday Deals!</string>
+	<string key="ui_event_turkulon_panel3_subtitle3" rel_version="Event_TurkeyTerror_Temp">Collect some of the finest cosmetics that Aeternum has to offer!\nBundles of player favorites are available for a limited time, along with a brand new apparel skin, the Jester's Smile.\nVisit the store today!</string>
 	<string key="ui_event_battle_for_new_world_panel1_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle For New World Panel 1 Title</string>
 	<string key="ui_event_battle_for_new_world_panel1_subtitle" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Subtitle.</string>
 	<string key="ui_event_battle_for_new_world_panel1_bullet1_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 1 Title</string>
@@ -314,8 +315,20 @@
 	<string key="ui_event_oct_mtx_title" rel_version="Entitlements_DeepSea">Umbral Rites</string>
 	<string key="ui_event_oct_mtx_description" rel_version="Entitlements_DeepSea">The barrier between the spirit world and the physical world is thin on Aeternum. Be careful what spirits you summon! They just may stay longer than you planned. Visit the Shop today for nightmarish new visions!</string>
 	<string key="ui_event_oct_mtx_about" rel_version="Entitlements_DeepSea">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Umbral Rites</string>
-	<string key="ui_event_turkulon_title" rel_version="Event_Halloween2023_Perm">Turkulon</string>
-	<string key="ui_event_turkulon_description" comment="DO NOT TRANSLATE" rel_version="Event_Halloween2023_Perm">Turkulon Description Placeholder</string>
-	<string key="ui_event_turkulon_about" rel_version="Event_Halloween2023_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Turkulon</string>
+	<string key="ui_event_turkulon_title" rel_version="Event_Halloween2023_Perm">Turkulon Returns!</string>
+	<string key="ui_event_turkulon_description" rel_version="Event_Halloween2023_Perm">The feathered fiend is back to terrorize the lands of Aeternum! And this time he’s amassed an army of his own. Evade explosive eggs and beak beams in monstrous combat!\n\nFace off against the gargantuan gobbler to collect rewards old and new.\n“Turkulon’s Claw” is now unbreakable, with skinning effects persisting after the event. Swing a Turkey Leg on a giant fork with the new Warhammer skin!</string>
+	<string key="ui_event_turkulon_about" rel_version="Event_Halloween2023_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Turkulon Returns</string>
+	<string key="ui_event_turkulon_bullet1" rel_version="Event_Halloween2023_Perm">Warhammer Skin</string>
+	<string key="ui_event_turkulon_bullet2" rel_version="Event_Halloween2023_Perm">Boots Skin</string>
+	<string key="ui_event_turkulon_bullet3" rel_version="Event_Halloween2023_Perm">Skinning Knife</string>
+	<string key="ui_event_nov_mtx_title" rel_version="Entitlements_Gothknight">Knightsbane Legion</string>
+	<string key="ui_event_nov_mtx_description" rel_version="Entitlements_Gothknight">Beware the threat on the horizon! The Dark Legion invades the store this month! Special item skins for those who have abandoned the code of chivalry are now available. Arm yourself for battle and smile as your opponents' blood runs cold at the sight of you!</string>
+	<string key="ui_event_nov_mtx_about" rel_version="Entitlements_Gothknight">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Knightsbane Legion</string>
+	<string key="ui_event_black_friday_2023_mtx_title" rel_version="Entitlements_Gothknight">Black Friday Deals!</string>
+	<string key="ui_event_black_friday_2023_mtx_description" rel_version="Entitlements_Gothknight">Do you bash your way through mobs or do you prefer to stand back and set them aflame? Or perhaps draw the perfect aim with your bow? Whatever your style, visit the store for special promo bundles featuring unvaulted content and brand new skins! Select housing items and tool skins are 50% for a limited time!</string>
+	<string key="ui_event_black_friday_2023_mtx_about" rel_version="Entitlements_Gothknight">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Black Friday Deals</string>
+	<string key="ui_event_black_friday_2023_mtx_bullet1" rel_version="Entitlements_Gothknight">Maulers &amp; Brawlers</string>
+	<string key="ui_event_black_friday_2023_mtx_bullet2" rel_version="Entitlements_Gothknight">Gladekeeper</string>
+	<string key="ui_event_black_friday_2023_mtx_bullet3" rel_version="Entitlements_Gothknight">Hunter's Instinct</string>
 </resources>
 

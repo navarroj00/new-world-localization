@@ -2875,6 +2875,7 @@
 	<string key="1hSwordT3_TransmogName">Steel Longsword</string>
 	<string key="1hSwordT4_TransmogName">Starmetal Longsword</string>
 	<string key="1hSwordT5_TransmogName">Orichalcum Longsword</string>
+	<string key="2hspearT1_TransmogName">Stone Spear</string>
 	<string key="2hspearT2_TransmogName">Iron Spear</string>
 	<string key="2hspearT3_TransmogName">Steel Spear</string>
 	<string key="2hspearT4_TransmogName">Starmetal Spear</string>
@@ -2913,6 +2914,7 @@
 	<string key="2hWarhammerT3_TransmogName">Steel Warhammer</string>
 	<string key="2hWarhammerT4_TransmogName">Starmetal Warhammer</string>
 	<string key="2hWarhammerT5_TransmogName">Orichalcum Warhammer</string>
+	<string key="1hHatchetT1_TransmogName">Stone Hatchet</string>
 	<string key="1hHatchetT2_TransmogName">Iron Hatchet</string>
 	<string key="1hHatchetT3_TransmogName">Steel Hatchet</string>
 	<string key="1hHatchetT4_TransmogName">Starmetal Hatchet</string>
@@ -3359,6 +3361,8 @@
 	<string key="1hLongSwordLostT3_TransmogName">Lost Steel Longsword</string>
 	<string key="1hSwordBLostT3_TransmogName">Lost Steel Rapier</string>
 	<string key="2hspearLostT3_TransmogName">Lost Steel Spear</string>
+	<string key="2hBlunderbussLostT3_TransmogName">Lost Steel Blunderbuss</string>
+	<string key="2hgreatswordLostT3_TransmogName">Lost Steel Greatsword</string>
 	<string key="2hVoidGauntletLostT4_TransmogName">Lost Starmetal Void Gauntlet</string>
 	<string key="2hicegauntletLostT4_TransmogName">Lost Starmetal Ice Gauntlet</string>
 	<string key="2hBlunderbussLostT4_TransmogName">Lost Starmetal Blunderbuss</string>
@@ -3665,6 +3669,7 @@
 	<string key="1hThrowingAxeEtherealT5_TransmogName">Ethereal Orichalcum Hatchet</string>
 	<string key="2hStaffFireEtherealT5_TransmogName">Ethereal Orichalcum Fire Staff</string>
 	<string key="1hKiteShieldEtherealT5_TransmogName">Ethereal Orichalcum Kite Shield</string>
+	<string key="1hRoundShieldEtherealT5_TransmogName">Ethereal Orichalcum Round Shield</string>
 	<string key="1hLongswordEtherealT5_TransmogName">Ethereal Orichalcum Longsword</string>
 	<string key="1hRapierEtherealT5_TransmogName">Ethereal Orichalcum Rapier</string>
 	<string key="2hspearEtherealT5_TransmogName">Ethereal Orichalcum Spear</string>
@@ -5282,5 +5287,6 @@
 	<string key="legendarylightchest2_chest_TransmogName" rel_version="Territory_FirstLight">Legendary Coat</string>
 	<string key="nagacorruptedmedium_hands_TransmogName" rel_version="Expedition_BrimstoneSands_00">Legendary Naga Gloves</string>
 	<string key="nagacorruptedmedium_legs_TransmogName" rel_version="Expedition_BrimstoneSands_00">Legendary Naga Pants</string>
+	<string key="wraithhunterlightnailst3_chest_TransmogName" rel_version="Feature_Artifacts">Wrathful Hunter Light Chestwear</string>
 </resources>
 

@@ -1168,7 +1168,7 @@
 	<string key="SeasonPass_HeadStart_Season_3_name" rel_version="Season_3_Perm">Premium Pass Head Start - Season 3</string>
 	<string key="reward_type_token_single" rel_version="Feature_Transmog">Token</string>
 	<string key="Token_PremiumEmote_WitchBroom_name" rel_version="Entitlements_Seance">Witch's Broom Permit</string>
-	<string key="Token_PremiumEmote_WitchBroom_description" rel_version="Entitlements_Seance">Fly, my pretty!</string>
+	<string key="Token_PremiumEmote_WitchBroom_description" rel_version="Entitlements_Seance">Fly, my pretty! \nPermit grants the use of Witch's Broom emote for 24 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
 	<string key="Bundle_PR_Seance_Masks_name" rel_version="Entitlements_Seance">Séance Mask Bundle</string>
 	<string key="Bundle_PR_Seance_Masks_description" rel_version="Entitlements_Seance">Spirits from beyond the grave roam more freely on Aeternum than the world at large. Best they don't know you too intimately.</string>
 	<string key="Bundle_PR_Elven_Timbersworn_name" rel_version="Entitlements_FirstLightMTX">Timbersworn Bundle</string>
@@ -1179,5 +1179,21 @@
 	<string key="Apparel_Seance_TheProphet_name">The Prophet</string>
 	<string key="Apparel_Seance_TheHayMan_name">The Hay Man</string>
 	<string key="Apparel_Seance_TheFerryman_name">The Ferryman</string>
+	<string key="Bundle_PR_BF_Gladekeeper_name" rel_version="Entitlements_Gothknight">Gladekeeper Bundle</string>
+	<string key="Bundle_PR_BF_Gladekeeper_description" rel_version="Entitlements_Gothknight">The glade remains peaceful and serene only due to your steadfast protection.</string>
+	<string key="Bundle_PR_BF_KnightofHonor_name" rel_version="Entitlements_Gothknight">Knight of Honor Bundle</string>
+	<string key="Bundle_PR_BF_KnightofHonor_description" rel_version="Entitlements_Gothknight">Chivalry isn't dead. Not as long as you're alive.</string>
+	<string key="Bundle_PR_BF_MaulersBrawlers_name" rel_version="Entitlements_Gothknight">Maulers and Brawlers Bundle</string>
+	<string key="Bundle_PR_BF_MaulersBrawlers_description" rel_version="Entitlements_Gothknight">Reach out and touch someone extremely forcefully with a deadly implement.</string>
+	<string key="Bundle_PR_BF_AzothArcana_name" rel_version="Entitlements_Gothknight">Azoth Arcana Bundle</string>
+	<string key="Bundle_PR_BF_AzothArcana_description" rel_version="Entitlements_Gothknight">For those who feel the threads of magic interwoven with their very being.</string>
+	<string key="Bundle_PR_BF_HuntersInstinct_name" rel_version="Entitlements_Gothknight">Hunter's Instinct Bundle</string>
+	<string key="Bundle_PR_BF_HuntersInstinct_description" rel_version="Entitlements_Gothknight">Your fingers are as sensitive to a bowstring as a bard's are to a lute. Yet your opponent hears no song, only a whistle from the arrow flying towards their heart.</string>
+	<string key="Dye_Black_name" rel_version="Entitlements_Gothknight">Wraith Black</string>
+	<string key="Dye_Black_description" rel_version="Entitlements_Gothknight">Consumable Dye Pack</string>
+	<string key="Dye_Red_name" rel_version="Entitlements_Gothknight">Heartrune Red</string>
+	<string key="Dye_Red_description" rel_version="Entitlements_Gothknight">Consumable Dye Pack</string>
+	<string key="Dye_White_name" rel_version="Entitlements_Gothknight">Virtuous White</string>
+	<string key="Dye_White_description" rel_version="Entitlements_Gothknight">Consumable Dye Pack</string>
 </resources>
 
