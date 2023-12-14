@@ -394,6 +394,7 @@
 	<string key="LootContainer_StoneTomb_DisplayName">Take Grave Offerings</string>
 	<string key="LootContainer_AnubianStoneTomb_DisplayName">Take Ancient Offerings</string>
 	<string key="LootContainer_WeaponPile_DisplayName">Weapon Pile</string>
+	<string key="LootContainer_Throne_DisplayName">Throne Stockpile</string>
 	<string key="Item_PotionHealT1_DisplayName">Distilled Healing Tincture</string>
 	<string key="Item_ClothT2_DisplayName">Cloth Scraps</string>
 	<string key="Darkness_Monolith_DisplayName">Corrupted Monolith</string>
@@ -796,6 +797,19 @@
 	<string key="AnubianBrute_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Anubian Automaton</string>
 	<string key="AnubianPanther_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Sphinx Automaton</string>
 	<string key="16BS_LootContainer_Elite_LegionStoneTomb_DisplayName" rel_version="Territory_Brimstone_Sands">Elite Grave Offerings</string>
+	<string key="WinterConv_Settlement_Tree_Master_DisplayName" rel_version="Event_WinterConvergence_Temp">Tree of Light</string>
+	<string key="WinterConv_Settlement_Tree_Master_Description" rel_version="Event_WinterConvergence_Temp">Complete Town Projects to upgrade the beauty and rewards granted by the Tree of Light!</string>
+	<string key="WinterConv_SettlementTree_T1_DisplayName" rel_version="Event_WinterConvergence_Temp">Forlorn Gift Pile</string>
+	<string key="WinterConv_SettlementTree_T2_DisplayName" rel_version="Event_WinterConvergence_Temp">Magnificent Gift Pile</string>
+	<string key="WinterConv_SettlementTree_T3_DisplayName" rel_version="Event_WinterConvergence_Temp">Exquisite Gift Pile</string>
+	<string key="WinterConv_Gleamite_Chunk_DisplayName" rel_version="Event_WinterConvergence_Temp">Gleamite Chunk</string>
+	<string key="WinterConv_Gleamite_Shard_DisplayName" rel_version="Event_WinterConvergence_Temp">Gleamite</string>
+	<string key="WinterConv_Village_GiftBag_DisplayName" rel_version="Event_WinterConvergence_Temp">Bountiful Gift Sack</string>
+	<string key="WinterConv_Village_GiftBag_Description" rel_version="Event_WinterConvergence_Temp">Collect a wonderful present each day to celebrate and revel in the merriment of the Winter Convergence!</string>
+	<string key="LostPresent00_DisplayName" rel_version="Event_WinterConvergence_Temp">Lost Present</string>
+	<string key="LostPresent01_DisplayName" rel_version="Event_WinterConvergence_Temp">Lost Present</string>
+	<string key="Season_04_IceGuardian_Icicle_DisplayName" rel_version="Season_4_Trial">Throwable Icicle</string>
+	<string key="Season_04_IceGuardian_BrokenRune_DisplayName" rel_version="Season_4_Trial">Gain Ancient Flame Empowerment</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">War Camp Chest</string>
 	<string key="1130_ArcaneFocus1_DisplayName">Arcane Focus</string>
 	<string key="1130_ArcaneFocus2_DisplayName">Arcane Focus</string>
@@ -1049,6 +1063,8 @@
 	<string key="16_Side_13_WormSpine_DisplayName" rel_version="Territory_Brimstone_Sands">Gather Strange Spine</string>
 	<string key="NPCRescue_Dryad_DisplayName" rel_version="Quest_MSQ2_Revamp">Free the Dryad</string>
 	<string key="Dungeon_BrimstoneSands00_TranslateGlyph" rel_version="Territory_Brimstone_Sands">Activate Glyph Console</string>
+	<string key="Yeti_2022_Fortify_Monolith_DisplayName" rel_version="Event_WinterConvergence_Temp">Rimestone Aura</string>
+	<string key="Yeti_2022_Empower_Monolith_DisplayName" rel_version="Event_WinterConvergence_Temp">Monolith of Bestial Strength</string>
 	<string key="Armadillo_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Armadillo</string>
 	<string key="Rat_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Rat</string>
 	<string key="HercyneRat_Base_DisplayName" rel_version="Territory_FirstLight">Hercyne Rat</string>
@@ -1112,6 +1128,9 @@
 	<string key="99B_MSQ_08_AzothTree_DisplayName" rel_version="Quest_MSQ2_Brightwood">Touch the Azoth Tree</string>
 	<string key="99B_MSQ_11_BrightwatchHistory_DisplayName" rel_version="Quest_MSQ2_Brightwood">Read the History</string>
 	<string key="Dungeon_GreatCleave_01_GemGather" rel_version="Expedition_GreatCleave_01">Amirite Cluster</string>
+	<string key="Dungeon_GreatCleave_00_IceGatherA" rel_version="Expedition_GreatCleave_00">Gather Ice Sample</string>
+	<string key="Dungeon_GreatCleave_00_IceGatherB" rel_version="Expedition_GreatCleave_00">Gather Ice Sample</string>
+	<string key="Dungeon_GreatCleave_00_IceGatherC" rel_version="Expedition_GreatCleave_00">Gather Ice Sample</string>
 	<string key="95_s01_05_ChurchFundCabinet" rel_version="Season_1_Perm">Collect Funds</string>
 	<string key="02A_Side08_CoffinA_DisplayName" rel_version="Quest_MSQ2_Brightwood">Open Coffin</string>
 	<string key="95_s01_06_TEMP_SupplyChain_Footprints">Investigate footprints</string>
@@ -1148,12 +1167,6 @@
 	<string key="95A_S02_MapRoom_Door_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Enter Portal</string>
 	<string key="95A_S02_RimasChestRoom_Door_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Enter Room</string>
 	<string key="LootContainer_Elite_Trial_DisplayName" rel_version="Season_2_Perm">Soul Trial Chest</string>
-	<string key="95A_S02_Mural1_DisplayName" rel_version="Season_2_Temp">Collect Mural Rubbing</string>
-	<string key="95A_S02_MarketStone_DisplayName" rel_version="Season_2_Temp">Take Market Tablet</string>
-	<string key="95A_S02_SharifCage_DisplayName" rel_version="Season_2_Temp">Open Cage</string>
-	<string key="95A_S02_WordOfWater_DisplayName" rel_version="Season_2_Temp">Take Word of Water</string>
-	<string key="95A_S02_GeyserDoorPedestal_DisplayName" rel_version="Season_2_Temp">Place the Word of Water</string>
-	<string key="95A_S02_RoyalEgg1_DisplayName" rel_version="Season_2_Temp">Take Mysterious Egg</string>
 	<string key="95A_S02_SatyrFlute_DisplayName" rel_version="Season_2_Perm">Take Satyr Flute</string>
 	<string key="95A_S02_LionMeatSpice_DisplayName" rel_version="Season_2_Perm">Harvest Spice</string>
 	<string key="95A_S02_LionDish_DisplayName" rel_version="Season_2_Perm">Place Zander's Lion Treat</string>
@@ -1164,13 +1177,6 @@
 	<string key="95A_S02_JackalSong_DisplayName" rel_version="Season_2_Perm">Collect the Jackal's Laugh</string>
 	<string key="95A_S02_OpenCaveSong_DisplayName" rel_version="Season_2_Perm">Play Song</string>
 	<string key="95A_S02_LuteChest_DisplayName" rel_version="Season_2_Perm">Open Chest</string>
-	<string key="95A_S02_EggAltarAmbush_DisplayName" rel_version="Season_2_Temp">Place a Decoy Egg</string>
-	<string key="95A_S02_MapRoomInteract_DisplayName" rel_version="Season_2_Temp">Place the Word of Stone</string>
-	<string key="95A_S02_RoyalEgg2_DisplayName" rel_version="Season_2_Temp">Take Mysterious Egg</string>
-	<string key="95A_S02_DroneEggshells_DisplayName" rel_version="Season_2_Temp">Inspect Drone Egg Remains</string>
-	<string key="95A_S02_DroneEggDestructible_DisplayName" rel_version="Season_2_Temp">Destroy Drone Egg</string>
-	<string key="95A_S02_RoyalEggDestructible_DisplayName" rel_version="Season_2_Temp">Destroy Royal Egg</string>
-	<string key="95A_S02_SharifEggBasket_DisplayName" rel_version="Season_2_Temp">Place Eggs</string>
 	<string key="95A_S02_Geyser_Puzzle_BoulderPile_DisplayName" rel_version="Season_2_Perm">Carry Rock</string>
 	<string key="95A_S02_Geyser_Puzzle_Boulder_Interact_DisplayName" rel_version="Season_2_Perm">Place Rock</string>
 	<string key="95A_S02_ExamineTracks" rel_version="Season_2_Perm">Examine Tracks</string>
@@ -1339,15 +1345,54 @@
 	<string key="09FL_BeastGlyphNearby_DisplayName" rel_version="Territory_FirstLight">A signet of a Beast Lord is nearby.</string>
 	<string key="09FL_Jungle_CorpseFlower_DisplayName" rel_version="Territory_FirstLight">Elysian Ambrosia</string>
 	<string key="Rafflebones_Portal_FOTB_DisplayName">Summon Rafflebones</string>
+	<string key="95_s04_ReadJournal_gatherable" rel_version="Season_4_Perm">Read Journal</string>
 	<string key="Halloween_Basket_Candy_DisplayName">Collect Treats</string>
 	<string key="98_S_Q5_RelicPileIO_DisplayName">Ancient Relics</string>
 	<string key="98_M_Q5_GoldStashIO_DisplayName">Labyrinth Chest</string>
+	<string key="95_S04_Q2_Buildfire_A_DisplayName" rel_version="Season_4_Perm">Build the Earth Seal</string>
+	<string key="95_S04_Q2_Buildfire_B_DisplayName" rel_version="Season_4_Perm">Build the Water Seal</string>
+	<string key="95_S04_Q2_Buildfire_C_DisplayName" rel_version="Season_4_Perm">Build the Fire Seal</string>
+	<string key="95_S04_Q2_Buildfire_D_DisplayName" rel_version="Season_4_Perm">Build the Wind Seal</string>
+	<string key="95_S04_Q2_CollectWood_DisplayName" rel_version="Season_4_Perm">Spirit Wood</string>
+	<string key="95_s04_03_Boat_DisplayName" rel_version="Season_4_Perm">Use Boat</string>
+	<string key="95_s04_03_round1_selectRook_DisplayName" rel_version="Season_4_Perm">Select Rook</string>
+	<string key="95_s04_03_round1_selectQueen_DisplayName" rel_version="Season_4_Perm">Select Queen</string>
+	<string key="95_s04_03_round1_selectPawn_DisplayName" rel_version="Season_4_Perm">Select Pawn</string>
+	<string key="95_s04_03_round1_moveRook_f1_DisplayName" rel_version="Season_4_Perm">Take Knight with Rook</string>
+	<string key="95_s04_03_round1_moveRook_d1_DisplayName" rel_version="Season_4_Perm">Capture Knight with Rook</string>
+	<string key="95_s04_03_round1_moveQueen_f1_DisplayName" rel_version="Season_4_Perm">Capture Knight with Queen</string>
+	<string key="95_s04_03_round1_moveQueen_g1_DisplayName" rel_version="Season_4_Perm">Move Queen to threaten King</string>
+	<string key="95_s04_03_round1_moveQueen_g2_DisplayName" rel_version="Season_4_Perm">Capture Bishop with Queen</string>
+	<string key="95_s04_03_round1_movePawn_h5_DisplayName" rel_version="Season_4_Perm">Move Pawn forward</string>
+	<string key="95_s04_03_round2_moveQueen_f1_DisplayName" rel_version="Season_4_Perm">Take Bishop with Queen</string>
+	<string key="95_s04_03_round2_moveQueen_g1_DisplayName" rel_version="Season_4_Perm">Move Queen to threaten King</string>
+	<string key="95_s04_03_round2_moveQueen_h2_DisplayName" rel_version="Season_4_Perm">Capture Pawn with Queen</string>
+	<string key="95_s04_03_Icewall_DisplayName" rel_version="Season_4_Perm">Ice Wall</string>
+	<string key="95_s04_03_Castledoor_DisplayName" rel_version="Season_4_Perm">Castle Door</string>
 	<string key="99E_Motherwell_MSQ_PlaceStaff_DisplayName" rel_version="Quest_MSQ2_Edengrove">Place Corrupted Headpiece</string>
 	<string key="99E_Motherwell_MSQ_PurifyStaff_DisplayName" rel_version="Quest_MSQ2_Edengrove">Draw out the Corruption</string>
 	<string key="99E_Motherwell_MSQ_FinalStaff_DisplayName" rel_version="Quest_MSQ2_Edengrove">Expel the Corruption</string>
 	<string key="Turkey_ChameleonNest_DisplayName" rel_version="Territory_FirstLight">Chameleon Nest</string>
 	<string key="Turkey_LizardEgg_DisplayName" rel_version="Territory_FirstLight">Giant Lizard Egg</string>
+	<string key="95_S04_Q2_Cyclic_Bonfire_1_DisplayName" rel_version="Season_4_Perm">Launch at Water Seal</string>
+	<string key="95_S04_Q2_Cyclic_Bonfire_2_DisplayName" rel_version="Season_4_Perm">Launch at Earth Seal</string>
+	<string key="95_S04_Q2_Cyclic_Bonfire_3_DisplayName" rel_version="Season_4_Perm">Launch at Wind Seal</string>
+	<string key="95_S04_Q2_Cyclic_Bonfire_4_DisplayName" rel_version="Season_4_Perm">Launch at Fire Seal</string>
+	<string key="95_S04_Q2_ShootRocket_DisplayName" rel_version="Season_4_Perm">Launch Rocket</string>
 	<string key="14_SQ_02_BadStatue" rel_version="Quest_Supplement_Edengrove">Destroy sculpture</string>
+	<string key="95_s04_MordredCinematic2D_DisplayName" rel_version="Season_4_Temp">Read Letter</string>
+	<string key="95_S04_03_RescueElsa_DisplayName" rel_version="Season_4_Temp">Thaw Explorer</string>
+	<string key="95_S04_03_RescueShen_DisplayName" rel_version="Season_4_Temp">Thaw Soldier</string>
+	<string key="95_S04_03_ChessExitKey_DisplayName" rel_version="Season_4_Temp">Retrieve Gem</string>
+	<string key="95_S04_03_SlotChessExitKey_DisplayName" rel_version="Season_4_Temp">Place Gem</string>
+	<string key="95_S04_05_WinterRune_DisplayName" rel_version="Season_4_Temp">Retrieve Rune</string>
+	<string key="95_S04_06_FirstRune_DisplayName" rel_version="Season_4_Temp">Capture Rune</string>
+	<string key="95_S04_06_SecondRune_DisplayName" rel_version="Season_4_Temp">Get Rune</string>
+	<string key="95_S04_04_DestroyWall_DisplayName" rel_version="Season_4_Temp">Destroy Wall</string>
+	<string key="95_s04_06_lizardStatues_DisplayName" rel_version="Season_4_Temp">Rotate Statue</string>
+	<string key="95_s04_04_TP_DoorInteract" rel_version="Season_4_Temp">Enter Door</string>
+	<string key="95_s04_04_MageDoor_DisplayName" rel_version="Season_4_Temp">Touch Orb</string>
+	<string key="S04_Q02_Daichi_Bow_DisplayName" rel_version="Season_4_Perm">Bow</string>
 	<string key="Gorilla_Boss_Rift_Fire_DisplayName" rel_version="Territory_FirstLight">Fire Glyph</string>
 	<string key="Gorilla_Boss_Rift_Ice_DisplayName" rel_version="Territory_FirstLight">Ice Glyph</string>
 	<string key="Gorilla_Boss_Rift_Nature_DisplayName" rel_version="Territory_FirstLight">Nature Glyph</string>

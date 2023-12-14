@@ -1,5 +1,7 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_compensation_forum_generic" rel_version="Feature_Make_Good">We have granted you compensation for a recent issue. Please see the forums for more information. https://forums.newworld.com</string>
 	<string key="ui_compensation_cs_generic" rel_version="Feature_Make_Good">We have granted you compensation for a recent issue. Please contact customer support if you need more information. https://www.amazongames.com/en-us/support</string>
+	<string key="ui_compensation_cs_discord_generic" rel_version="Feature_Make_Good">We have granted you compensation for a recent issue. Please see our official Discord for more information. https://discord.com/invite/playnewworld</string>
+	<string key="ui_compensation_cs_twitter_generic" rel_version="Feature_Make_Good">We have granted you compensation for a recent issue. Please see our official Twitter for more information. https://twitter.com/NWGameStatus</string>
 </resources>
 

@@ -776,7 +776,7 @@
 	<string key="ui_playertitle_notification_title">Title Unlocked</string>
 	<string key="ui_playertitle_notification_desc">You have unlocked &lt;font color={color}&gt;{title} &lt;/font&gt;</string>
 	<string key="ui_playertitle_notification_expired_title">Your Title Expired!</string>
-	<string key="ui_playertitle_notification_expired_desc">Your title &lt;font color={color}&gt;{title}&lt;/font&gt; has expired. Click View Detail to choose a new title.</string>
+	<string key="ui_playertitle_notification_expired_desc">Your title &lt;font color={color}&gt;{title}&lt;/font&gt; has expired. Select View Detail to choose a new title.</string>
 	<string key="ui_playertitle_meta_achievement_description">You earned achievement {title} ({description})</string>
 	<string key="ui_playertitle_meta_helper_help_description" rel_version="Feature_Titles">Found at the bottom of a supply crate.</string>
 	<string key="ui_playertitle_meta_helper_factions_description" rel_version="Feature_Titles">Unlocked when you joined your faction.</string>
@@ -1346,5 +1346,57 @@
 	<string key="ui_playertitle_season3_journeychallenge10_SHE" rel_version="Season_3_Perm">Beastly Treasure Hunter</string>
 	<string key="ui_playertitle_season3_journeychallenge10_THEY" rel_version="Season_3_Perm">Beastly Treasure Hunter</string>
 	<string key="ui_playertitle_season3_journeychallenge10_description" rel_version="Season_3_Perm">Earned by completing the Season 3 Challenge: Beastly Treasure Hunter</string>
+	<string key="ui_playertitle_season4journey" rel_version="Season_4_Perm">Frost Eternal</string>
+	<string key="ui_playertitle_season4journey_SHE" rel_version="Season_4_Perm">Frost Eternal</string>
+	<string key="ui_playertitle_season4journey_THEY" rel_version="Season_4_Perm">Frost Eternal</string>
+	<string key="ui_playertitle_season4journey_description" rel_version="Season_4_Perm">Earned for completing Chapter 4 of the Season 4 Season Journey.</string>
+	<string key="ui_playertitle_season4_journeychallenge1" rel_version="Season_4_Perm">Aptitude Aficionado</string>
+	<string key="ui_playertitle_season4_journeychallenge1_SHE" rel_version="Season_4_Perm">Aptitude Aficionado</string>
+	<string key="ui_playertitle_season4_journeychallenge1_THEY" rel_version="Season_4_Perm">Aptitude Aficionado</string>
+	<string key="ui_playertitle_season4_journeychallenge1_description" rel_version="Season_4_Perm">Earned by completing the Season 4 Challenge: Aptitude Aficionado</string>
+	<string key="ui_playertitle_season4_journeychallenge2" rel_version="Season_4_Perm">Mutation Maximizer</string>
+	<string key="ui_playertitle_season4_journeychallenge2_SHE" rel_version="Season_4_Perm">Mutation Maximizer</string>
+	<string key="ui_playertitle_season4_journeychallenge2_THEY" rel_version="Season_4_Perm">Mutation Maximizer</string>
+	<string key="ui_playertitle_season4_journeychallenge2_description" rel_version="Season_4_Perm">Earned by completing the Season 4 Challenge: Mutation Maximizer</string>
+	<string key="ui_playertitle_season4_journeychallenge3" rel_version="Season_4_Perm">Frost Fighter</string>
+	<string key="ui_playertitle_season4_journeychallenge3_SHE" rel_version="Season_4_Perm">Frost Fighter</string>
+	<string key="ui_playertitle_season4_journeychallenge3_THEY" rel_version="Season_4_Perm">Frost Fighter</string>
+	<string key="ui_playertitle_season4_journeychallenge3_description" rel_version="Season_4_Perm">Earned by completing the Season 4 Challenge: Frost Fighter</string>
+	<string key="ui_playertitle_season4_journeychallenge4" rel_version="Season_4_Perm">Resource Reaper</string>
+	<string key="ui_playertitle_season4_journeychallenge4_SHE" rel_version="Season_4_Perm">Resource Reaper</string>
+	<string key="ui_playertitle_season4_journeychallenge4_THEY" rel_version="Season_4_Perm">Resource Reaper</string>
+	<string key="ui_playertitle_season4_journeychallenge4_description" rel_version="Season_4_Perm">Earned by completing the Season 4 Challenge: Resource Reaper</string>
+	<string key="ui_playertitle_season4_journeychallenge5" rel_version="Season_4_Perm">God of Gear</string>
+	<string key="ui_playertitle_season4_journeychallenge5_SHE" rel_version="Season_4_Perm">God of Gear</string>
+	<string key="ui_playertitle_season4_journeychallenge5_THEY" rel_version="Season_4_Perm">God of Gear</string>
+	<string key="ui_playertitle_season4_journeychallenge5_description" rel_version="Season_4_Perm">Earned by completing the Season 4 Challenge: God of Gear</string>
+	<string key="ui_playertitle_season4_journeychallenge6" rel_version="Season_4_Perm">Eternal Frost Completionist</string>
+	<string key="ui_playertitle_season4_journeychallenge6_SHE" rel_version="Season_4_Perm">Eternal Frost Completionist</string>
+	<string key="ui_playertitle_season4_journeychallenge6_THEY" rel_version="Season_4_Perm">Eternal Frost Completionist</string>
+	<string key="ui_playertitle_season4_journeychallenge6_description" rel_version="Season_4_Perm">Earned by completing the Season 4 Challenge: Eternal Frost Completionist</string>
+	<string key="ui_playertitle_season4_journeychallenge7" rel_version="Season_4_Perm">Legend Slayer</string>
+	<string key="ui_playertitle_season4_journeychallenge7_SHE" rel_version="Season_4_Perm">Legend Slayer</string>
+	<string key="ui_playertitle_season4_journeychallenge7_THEY" rel_version="Season_4_Perm">Legend Slayer</string>
+	<string key="ui_playertitle_season4_journeychallenge7_description" rel_version="Season_4_Perm">Earned by completing the Season 4 Challenge: Legend Slayer</string>
+	<string key="ui_playertitle_season4_journeychallenge8" rel_version="Season_4_Perm">Glacial God</string>
+	<string key="ui_playertitle_season4_journeychallenge8_SHE" rel_version="Season_4_Perm">Glacial Goddess</string>
+	<string key="ui_playertitle_season4_journeychallenge8_THEY" rel_version="Season_4_Perm">Glacial God</string>
+	<string key="ui_playertitle_season4_journeychallenge8_description" rel_version="Season_4_Perm">Earned by completing the Season 4 Challenge: Glacial God</string>
+	<string key="ui_playertitle_season4_journeychallenge9" rel_version="Season_4_Perm">Boundless Spoils</string>
+	<string key="ui_playertitle_season4_journeychallenge9_SHE" rel_version="Season_4_Perm">Boundless Spoils</string>
+	<string key="ui_playertitle_season4_journeychallenge9_THEY" rel_version="Season_4_Perm">Boundless Spoils</string>
+	<string key="ui_playertitle_season4_journeychallenge9_description" rel_version="Season_4_Perm">Earned by completing the Season 4 Challenge: Boundless Spoils</string>
+	<string key="ui_playertitle_season4_journeychallenge10" rel_version="Season_4_Perm">Ice Cold Killer</string>
+	<string key="ui_playertitle_season4_journeychallenge10_SHE" rel_version="Season_4_Perm">Ice Cold Killer</string>
+	<string key="ui_playertitle_season4_journeychallenge10_THEY" rel_version="Season_4_Perm">Ice Cold Killer</string>
+	<string key="ui_playertitle_season4_journeychallenge10_description" rel_version="Season_4_Perm">Earned by completing the Season 4 Challenge: Ice Cold Killer</string>
+	<string key="ui_playertitle_leaderboard_glacialtarn_score_rank1" rel_version="Expedition_GreatCleave_00">Glacial Victor</string>
+	<string key="ui_playertitle_leaderboard_glacialtarn_score_rank1_description" rel_version="Expedition_GreatCleave_00">Title earned by placing in the top reward rank of the Glacial Tarn Score weekly leaderboard.</string>
+	<string key="ui_playertitle_leaderboard_glacialtarn_score_rank2" rel_version="Expedition_GreatCleave_00">Glacial Medalist</string>
+	<string key="ui_playertitle_leaderboard_glacialtarn_score_rank2_description" rel_version="Expedition_GreatCleave_00">Title earned by placing in the secondary reward rank in the Glacial Tarn Score weekly leaderboard.</string>
+	<string key="ui_playertitle_leaderboard_glacialtarn_time_rank1" rel_version="Expedition_GreatCleave_00">Glacial Speed Victor</string>
+	<string key="ui_playertitle_leaderboard_glacialtarn_time_rank1_description" rel_version="Expedition_GreatCleave_00">Title earned by placing in the top reward rank in the Glacial Tarn Clear Time weekly leaderboard.</string>
+	<string key="ui_playertitle_leaderboard_glacialtarn_time_rank2" rel_version="Expedition_GreatCleave_00">Glacial Speed Medalist</string>
+	<string key="ui_playertitle_leaderboard_glacialtarn_time_rank2_description" rel_version="Expedition_GreatCleave_00">Title earned by placing in the secondary reward rank in the Glacial Tarn Clear Time weekly leaderboard.</string>
 </resources>
 

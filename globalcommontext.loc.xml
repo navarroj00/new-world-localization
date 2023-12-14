@@ -52,6 +52,11 @@
 	<string key="print">Print</string>
 	<string key="pause">Pause</string>
 	<string key="ui_date">Date</string>
+	<string key="ui_columns">Columns</string>
+	<string key="ui_move_up">Move up</string>
+	<string key="ui_move_down">Move down</string>
+	<string key="ui_column_left">Left Column</string>
+	<string key="ui_column_right">Right Column</string>
 	<string key="interact_cyclePermissions">Cycle Permissions</string>
 	<string key="interact_demolish">Demolish Structure</string>
 	<string key="interact_pickup">Pickup Structure</string>
@@ -60,6 +65,7 @@
 	<string key="inv_drop">Drop</string>
 	<string key="inv_equip">Equip</string>
 	<string key="inv_repair">Repair</string>
+	<string key="inv_repair_kit">Repair Kit</string>
 	<string key="ui_repair_icon">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_repair" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Repair</string>
 	<string key="ui_repair_icon_noconfirm">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_repair" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Quick Repair</string>
 	<string key="ui_repair_kit_icon">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_repair" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Use Repair Kit</string>
@@ -69,6 +75,7 @@
 	<string key="ui_salvage_icon">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_salvage" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Salvage</string>
 	<string key="ui_salvage_icon_noconfirm">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_salvage" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Quick Salvage</string>
 	<string key="ui_salvage_lock_icon">Toggle Lock</string>
+	<string key="ui_salvage_all">Salvage All</string>
 	<string key="ui_inv_noNeedRepair">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_repair" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Repair not needed</string>
 	<string key="inv_salvage_confirm">Really salvage this item?</string>
 	<string key="inv_rarity_salvage_confirm">You are about to salvage a powerful item. Are you sure?</string>
@@ -210,13 +217,13 @@
 	<string key="ui_azoth_desc">Azoth can be used for fast travel between shrines and settlements and to craft more powerful items.\n\nAcquire Azoth by completing Quests and closing Corruption Breaches.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; Corruption Breaches, Quests&lt;/font&gt;</string>
 	<string key="ui_cards">Cards</string>
 	<string key="ui_leave_arena_coming_soon">Leaving Arena functionality Coming Soon</string>
-	<string key="ui_equipfishingpole">[{value}] to Fish</string>
+	<string key="ui_equipfishingpole">{$player.fishing_activate$} to Fish</string>
 	<string key="ui_castfishingline">: Cast fishing line</string>
 	<string key="ui_fishing_hotspot_nearby">Find the hotspot in the nearby area!</string>
 	<string key="ui_changekey">Change Key</string>
 	<string key="ui_changeweapon">change weapon</string>
 	<string key="ui_create_character_title_main_menu">Create a Character</string>
-	<string key="ui_create_character_message_main_menu">Click 'Play' to create a character in this world.</string>
+	<string key="ui_create_character_message_main_menu">Select Play to create a character in this world.</string>
 	<string key="ui_character_main_menu">Character</string>
 	<string key="ui_world_main_menu">World</string>
 	<string key="ui_charactername">Character Name</string>
@@ -243,7 +250,6 @@
 	<string key="ui_clickanywhere">Click Anywhere</string>
 	<string key="ui_close">Close</string>
 	<string key="ui_closedoor">Close Door</string>
-	<string key="ui_combat">combat</string>
 	<string key="ui_company_name">Company Name</string>
 	<string key="ui_company_name_input">Name Your Company</string>
 	<string key="ui_customize_company_information">These settings can be changed at any time</string>
@@ -259,7 +265,7 @@
 	<string key="ui_connecttogame">Connect to Game</string>
 	<string key="ui_contacts">Contacts</string>
 	<string key="ui_with">With:</string>
-	<string key="ui_into"> </string>
+	<string key="ui_into">Into:</string>
 	<string key="ui_purchase_slot_button">Purchase Slot</string>
 	<string key="ui_convertitem">Convert {numItems} Items</string>
 	<string key="ui_copperaxehead">copper axe head</string>
@@ -639,7 +645,7 @@
 	<string key="ui_secondary_attack">Secondary Attack</string>
 	<string key="ui_weaponcycleup">Cycle Weapon Up</string>
 	<string key="ui_weaponcycledown">Cycle Weapon Down</string>
-	<string key="ui_weaponcyclemod">Cycle Weapon Modifer</string>
+	<string key="ui_weaponcyclemod">Cycle Weapon Modifier</string>
 	<string key="ui_zoom_modifier">Zoom Modifier</string>
 	<string key="ui_weapon1">Weapon #1</string>
 	<string key="ui_weapon2">Weapon #2</string>
@@ -725,17 +731,17 @@
 	<string key="ui_quickslots">Quickslots</string>
 	<string key="ui_quillsquillshelloworld">quills (quills): Hello World. If anyone wants to join my company, you can for 50 dinars.</string>
 	<string key="ui_quillsrocket">quills (Rocket)</string>
-	<string key="ui_options_fov">Field of View (Vertical)</string>
-	<string key="ui_options_fov_desc">Adjust camera field of view</string>
+	<string key="ui_options_fov">Field of View</string>
+	<string key="ui_options_fov_desc">Set the field of view</string>
 	<string key="ui_options_gamma">Gamma</string>
-	<string key="ui_options_gamma_desc">Adjust gamma.</string>
+	<string key="ui_options_gamma_desc">Set the gamma</string>
 	<string key="ui_options_basic_settings">Basic Settings</string>
 	<string key="ui_options_brightness_setting">Brightness Setting</string>
 	<string key="ui_options_brightness_setting_desc">Adjust the brightness settings until the left New World logo is barely visible.\nYou can change this setting later in the Settings screen if necessary.</string>
 	<string key="ui_options_brightness">Brightness</string>
-	<string key="ui_options_brightness_desc">Adjust brightness</string>
+	<string key="ui_options_brightness_desc">Set the brightness</string>
 	<string key="ui_options_contrast">Contrast</string>
-	<string key="ui_options_contrast_desc">Adjust contrast</string>
+	<string key="ui_options_contrast_desc">Set the contrast</string>
 	<string key="ui_quit">Exit</string>
 	<string key="ui_randomize">Randomize</string>
 	<string key="ui_receivevolume">Receive Volume</string>
@@ -780,7 +786,6 @@
 	<string key="ui_sampletooltipnthistool">Sample tooltip\nThis tooltip is a simple box with a frame that just displays text.</string>
 	<string key="ui_save">Save</string>
 	<string key="ui_se">SE</string>
-	<string key="ui_binding_controller_reserved_key_multiple">Bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;img src="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?\n\nThe following actions will no longer be bound to any key:\n\n&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldAction}&lt;/font&gt;</string>
 	<string key="ui_binding_reserved_key_blocked">Unable to bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to {key}, which cannot be unbound.</string>
 	<string key="ui_binding_reserved_key_title_single">Change Binding</string>
 	<string key="ui_binding_reserved_key_message_single">Bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{key}&lt;/font&gt;?\n\n&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldAction}&lt;/font&gt; will no longer be bound to any key.</string>
@@ -832,7 +837,7 @@
 	<string key="ui_storageshed">STORAGE SHED</string>
 	<string key="ui_stowaway">Stowaway</string>
 	<string key="ui_enable_audio_window_unfocus">Play Audio in Background</string>
-	<string key="ui_enable_audio_window_unfocus_desc">If enabled, game audio will continue to play while the window is minimized or unfocused</string>
+	<string key="ui_enable_audio_window_unfocus_desc">Set whether the game audio will continue to play while the window is minimized or unfocused</string>
 	<string key="ui_submit">Submit</string>
 	<string key="ui_comma">,</string>
 	<string key="ui_sw">SW</string>
@@ -1071,6 +1076,7 @@
 	<string key="ui_navmenu_settings">Settings</string>
 	<string key="ui_navmenu_exit">EXIT / OPTIONS</string>
 	<string key="ui_navmenu_game_menu">Game Menu</string>
+	<string key="ui_navmenu_social_menu">Social Menu</string>
 	<string key="ui_navmenu_benchmark">BENCHMARK</string>
 	<string key="ui_navmenu_store">Store</string>
 	<string key="ui_navmenu_quit">Exit</string>
@@ -1136,6 +1142,7 @@
 	<string key="ui_constitution">Constitution</string>
 	<string key="ui_respec">Respec</string>
 	<string key="ui_respec_attributes">Refund All Attribute Points</string>
+	<string key="ui_cannot_respec_attributes_during_combat">Cannot respec Attributes while in Combat</string>
 	<string key="ui_respec_mastery">Refund All Mastery Points</string>
 	<string key="ui_base">Base</string>
 	<string key="ui_health">Health</string>
@@ -1228,7 +1235,7 @@
 	<string key="ui_corruption_tooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Void&lt;/font&gt; type damage is generally more effective against the uncorrupted.</string>
 	<string key="ui_siege_tooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Siege&lt;/font&gt; type damage is generally more effective against structures.</string>
 	<string key="ui_absorption_tooltip">The percentage reduction applied to incoming damage after it has been reduced by Defense.</string>
-	<string key="ui_click_to_choose_this_skin">Click to choose this skin.</string>
+	<string key="ui_click_to_choose_this_skin">Select to choose this skin.</string>
 	<string key="ui_housing_tooltip_placed_all">You have placed all of these items.</string>
 	<string key="ui_warning_cannot_build_on_claimed_land">You can't build on territory claimed by someone else.</string>
 	<string key="ui_warning_cannot_build_without_claim">You must claim this land before you can build on it.</string>
@@ -1550,7 +1557,7 @@
 	<string key="ui_claimmarker">Claim Point</string>
 	<string key="ui_claimstreak">Day {number}</string>
 	<string key="ui_random_location">Random Location</string>
-	<string key="ui_scroll_hint">(Scroll) Zoom</string>
+	<string key="ui_scroll_hint">Zoom</string>
 	<string key="ui_map_rotate_camera">(Hold) Rotate Camera</string>
 	<string key="ui_zoom_camera">&lt;img src="lyshineui/images/icons/misc/Icon_RightMouseButton" xPadding="0" scale="2.2" yOffset="8"&gt;&lt;/img&gt; + &lt;img src="lyshineui/images/icons/misc/Icon_MiddleMouseButton" xPadding="1" scale="2.3" yOffset="9"&gt;&lt;/img&gt; (Hold) Zoom</string>
 	<string key="ui_global_storage_description">Other players can not take or see items you leave here. You must return to this outpost to retrieve items.</string>
@@ -1609,9 +1616,11 @@
 	<string key="ui_tooltip_requires">Requires:</string>
 	<string key="ui_tooltip_attribute">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#FFFFFF"&gt;{value}&lt;/font&gt; {label}</string>
 	<string key="ui_tooltip_equip">Equip</string>
-	<string key="ui_tooltip_equip_requirements_not_met">Equip - Requirements Not Met</string>
+	<string key="ui_tooltip_equip_desc">Equip this item</string>
+	<string key="ui_tooltip_equip_requirements_not_met">Requirements not met</string>
 	<string key="ui_tooltip_equipasweapon">Equip as weapon</string>
 	<string key="ui_tooltip_unequip">Unequip</string>
+	<string key="ui_tooltip_unequip_desc">Unequip this item</string>
 	<string key="ui_tooltip_drop">Drop</string>
 	<string key="ui_tooltip_discard">Discard</string>
 	<string key="ui_tooltip_read">Read</string>
@@ -1628,6 +1637,7 @@
 	<string key="ui_tooltip_shiftclick">SHIFT + &lt;img src="lyshineui/images/icons/misc/Icon_LeftMouseButton" xPadding="0" scale="2.2" yOffset="5"&gt;&lt;/img&gt;</string>
 	<string key="ui_tooltip_ctrlclick">CTRL + &lt;img src="lyshineui/images/icons/misc/Icon_LeftMouseButton" xPadding="0" scale="2.2" yOffset="5"&gt;&lt;/img&gt;</string>
 	<string key="ui_tooltip_altclick">ALT + &lt;img src="lyshineui/images/icons/misc/Icon_LeftMouseButton" xPadding="0" scale="2.2" yOffset="5"&gt;&lt;/img&gt;</string>
+	<string key="ui_tooltip_hintclick">+  &lt;img src="lyshineui/images/icons/misc/Icon_LeftMouseButton" xPadding="0" scale="2.2" yOffset="5"&gt;&lt;/img&gt;</string>
 	<string key="ui_tooltip_repairclick">+  &lt;img src="lyshineui/images/icons/misc/Icon_LeftMouseButton" xPadding="0" scale="2.2" yOffset="5"&gt;&lt;/img&gt;</string>
 	<string key="ui_tooltip_repairkitclick">+  &lt;img src="lyshineui/images/icons/misc/Icon_LeftMouseButton" xPadding="0" scale="2.2" yOffset="5"&gt;&lt;/img&gt;</string>
 	<string key="ui_tooltip_salvageclick">+  &lt;img src="lyshineui/images/icons/misc/Icon_LeftMouseButton" xPadding="0" scale="2.2" yOffset="5"&gt;&lt;/img&gt;</string>
@@ -1663,7 +1673,7 @@
 	<string key="ui_repair_better_kit_warning">You have a lower tier repair kit capable of repairing this item. Repair item with that repair kit?</string>
 	<string key="ui_repair_all">Repair all</string>
 	<string key="ui_repair_all_armor">Your armor is damaged. Repair with Repair Parts or Repair Kits.</string>
-	<string key="ui_repair_all_tutorial">Click here to repair all equipped gear at once.</string>
+	<string key="ui_repair_all_tutorial">Select here to repair all equipped gear at once.</string>
 	<string key="ui_repair_all_disabled">You do not have enough Coin and/or Repair Parts or Repair Kits to repair all items.</string>
 	<string key="ui_repair_all_disabled_tutorial">&lt;font color="#f25d5d"&gt;You do not have enough Coin and/or Repair Parts or Repair Kits to repair all items.&lt;/font&gt;</string>
 	<string key="ui_repair_all_disabled_salvage">Salvage unused gear for Repair Parts.</string>
@@ -1694,7 +1704,7 @@
 	<string key="ui_tooltip_repair_requires">Repair with</string>
 	<string key="ui_tooltip_cannot_use_in_battle">Cannot use in combat.</string>
 	<string key="ui_tooltip_cannot_use_while_dismounted" rel_version="Feature_Mounts">Cannot use while dismounted.</string>
-	<string key="ui_tooltip_clickToLock">Click Item to Lock</string>
+	<string key="ui_tooltip_clickToLock">Select item to Lock</string>
 	<string key="ui_siege_damage_needed">Must use a siege weapon</string>
 	<string key="ui_tooltip_gatherspeed">Gather Speed</string>
 	<string key="ui_tooltip_gatherbonus">Gather Bonus</string>
@@ -1826,6 +1836,7 @@
 	<string key="ui_skin_available_single">1 Skin Available</string>
 	<string key="ui_skin_available_count">{count} Skins Available</string>
 	<string key="ui_skin_change_skin">Change Skin</string>
+	<string key="ui_skin_change_skins">Change Skins</string>
 	<string key="ui_added_to_inventory">Added to &lt;font color="#c0c0c0"&gt;Inventory&lt;/font&gt;</string>
 	<string key="ui_currency_added">Currency Added</string>
 	<string key="ui_xp_added">XP Added</string>
@@ -1837,8 +1848,8 @@
 	<string key="ui_qb_material_bonus">Material bonus</string>
 	<string key="ui_qb_no_equipment_bonus">No equipment bonus</string>
 	<string key="ui_unknown">Unknown</string>
-	<string key="ui_enable_hudShowAbilityRadials">Show Extra Ability Cooldowns</string>
-	<string key="ui_enable_hudShowAbilityRadials_description">Adds another hud display element near the center of the screen showing ability cooldowns in a radial format</string>
+	<string key="ui_enable_hudShowAbilityRadials">Radial Ability Cooldowns</string>
+	<string key="ui_enable_hudShowAbilityRadials_description">Set whether to display ability cooldowns in a radial format</string>
 	<string key="ui_qb_no_skill_bonus">No skill bonus</string>
 	<string key="ui_qb_no_material_bonus">No material bonus</string>
 	<string key="ui_resource_quantity">{resourceName} {qtyHave} / {qtyNeeded}</string>
@@ -1896,6 +1907,7 @@
 	<string key="ui_mapmenu_territorystandings_spendprompt">STANDING BONUSES AVAILABLE</string>
 	<string key="ui_mapmenu_territorystandings_unspent_tokens">&lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt;&lt;/font&gt; unspent Territory Standing Points</string>
 	<string key="ui_territory_tokens">{territory} Standing Points</string>
+	<string key="ui_territory_standing">Territory Standing</string>
 	<string key="ui_territory_standing_short" comment="one word version to show next to rewards in the banner">Standing</string>
 	<string key="ui_territory_standing_with_icon">{territoryName} Standing</string>
 	<string key="ui_redeem_a_reward">CLAIM YOUR REWARD</string>
@@ -1942,11 +1954,11 @@
 	<string key="ui_exit_dungeon_incombat_raidtrial">You cannot leave an Elite Trial when you have recently been in-combat. \nYou can leave in &lt;font color="#ffd45f"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_exit_dungeon_incombat_seasontrial" rel_version="Season_2_Trial">You cannot leave a Seasonal Trial when you have recently been in-combat. \nYou can leave in &lt;font color="#ffd45f"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_enable_newDamageNumbers">Floating Damage Numbers</string>
-	<string key="ui_enable_newDamageNumbers_description">When off, damage numbers will be docked to the enemy's health bar</string>
+	<string key="ui_enable_newDamageNumbers_description">Set whether damage numbers are not docked to the enemy's health bar</string>
 	<string key="ui_accept_duel_invites">Accept Duel Invites</string>
 	<string key="ui_accept_duel_invites_description">Allows players to send you Duel invites</string>
 	<string key="ui_auto_traverse">Auto-Traverse</string>
-	<string key="ui_auto_traverse_description">Automatically climb and vault over obstacles while moving</string>
+	<string key="ui_auto_traverse_description">Set whether to automatically climb and vault over obstacles while moving</string>
 	<string key="ui_chat_compact_view">Compact View</string>
 	<string key="ui_chat_enable_alerts">Alerts</string>
 	<string key="ui_chat_enable_alerts_options">Chat Alerts</string>
@@ -2130,7 +2142,6 @@
 	<string key="ui_current_level">Current Level</string>
 	<string key="ui_current_gear_score">Current Gear Score</string>
 	<string key="ui_next_milestone">Next Unlock</string>
-	<string key="ui_locked">LOCKED</string>
 	<string key="ui_unlocked">UNLOCKED</string>
 	<string key="ui_attribute_scale">&lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color={color}&gt;{name}&lt;/font&gt;\n{stat} scales with {attribute}</string>
 	<string key="ui_weapon_damage">Damage</string>
@@ -2363,7 +2374,7 @@
 	<string key="ui_common_uses">Common Uses :</string>
 	<string key="ui_governing_propertytax">The governing company can collect upkeep from houses in the settlement.</string>
 	<string key="ui_nameplate_slider">Player Nameplate Amount</string>
-	<string key="ui_nameplate_slider_desc">Increase or decrease the amount of nameplates shown on screen. WARNING: High amounts of nameplates can severely affect framerate</string>
+	<string key="ui_nameplate_slider_desc">Set the amount of nameplates shown on screen (lower values use less system resources)</string>
 	<string key="ui_stat_bonus_single_tooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;+{amount1}&lt;/font&gt; {attribute1}</string>
 	<string key="ui_stat_bonus_multiple_tooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;+{amount1}&lt;/font&gt; {attribute1}\n&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;+{amount2}&lt;/font&gt; {attribute2}</string>
 	<string key="ui_stat_bonus">+{amount} {attribute}</string>
@@ -2466,8 +2477,11 @@
 	<string key="tooltip_salvage_locked">Locked items cannot be salvaged.</string>
 	<string key="tooltip_salvage_remote">You cannot salvage items in remote locations.</string>
 	<string key="tooltip_salvage_cannot">This item cannot be salvaged.</string>
+	<string key="tooltip_salvage_desc">Salvaging this item returns:</string>
+	<string key="tooltip_repair_desc">Fully repair damaged item.</string>
 	<string key="tooltip_discard_locked">Locked items cannot be dropped.</string>
 	<string key="tooltip_move_storage">Move this item to the Storage Shed.</string>
+	<string key="tooltip_moving_multiple_locked">Cannot mass-transfer locked items.</string>
 	<string key="twitch_link_title">Connect Twitch Account To Amazon Games</string>
 	<string key="twitch_link_desc">Connect your Twitch account to participate in exclusive features.</string>
 	<string key="twitch_sub_army">Subscriber Army</string>
@@ -2617,33 +2631,33 @@
 	<string key="ui_cannot_use_shield_abilities">No Shield Equipped</string>
 	<string key="ui_tooltip_effect_duration">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#FFFFFF"&gt;{value}&lt;/font&gt; Effect Duration</string>
 	<string key="ui_cap_unfocused_fps">Cap FPS in Background</string>
-	<string key="ui_cap_unfocused_fps_desc">When enabled, limits framerate while minimized or unfocused.</string>
+	<string key="ui_cap_unfocused_fps_desc">Set whether to enable a frame rate limit while minimized or unfocused</string>
 	<string key="ui_Enable_Viewport_Scale">Dynamic Resolution Scaling</string>
-	<string key="ui_Enable_Viewport_Scale_desc">When enabled, automatically adjusts internal game resolution to maintain framerate performance.</string>
+	<string key="ui_Enable_Viewport_Scale_desc">Set whether to automatically adjust the game resolution to maintain frame rate</string>
 	<string key="ui_gathering_disabled">Gathering is Currently Disabled</string>
 	<string key="ui_linktochat_disabled">Link to Chat is Currently Disabled</string>
 	<string key="ui_autopinObjectivesMain">Auto-pin Main Story Quests</string>
-	<string key="ui_autopinobjectivesMain_desc">Automatically pin main story quests to the HUD when they are accepted.</string>
+	<string key="ui_autopinobjectivesMain_desc">Set whether to automatically pin main story quests to the HUD when they are accepted</string>
 	<string key="ui_autopinObjectivesFactionStory">Auto-pin Faction Story Quests</string>
-	<string key="ui_autopinobjectivesFactionStory_desc">Automatically pin faction story quests to the HUD when they are accepted.</string>
+	<string key="ui_autopinobjectivesFactionStory_desc">Set whether to automatically pin faction story quests to the HUD when they are accepted</string>
 	<string key="ui_autopinObjectivesSkillProgression">Auto-pin Skill Progression Quests</string>
-	<string key="ui_autopinobjectivesSkillProgression_desc">Automatically pin skill progression quests to the HUD when they are accepted.</string>
+	<string key="ui_autopinobjectivesSkillProgression_desc">Set whether to automatically pin skill progression quests to the HUD when they are accepted</string>
 	<string key="ui_autopinObjectivesMountQuest">Auto-pin Mount Quests</string>
-	<string key="ui_autopinobjectivesMountQuest_desc">Automatically pin mount quests to the HUD when they are accepted.</string>
+	<string key="ui_autopinobjectivesMountQuest_desc">Set whether to automatically pin mount quests to the HUD when they are accepted</string>
 	<string key="ui_autopinObjectivesEpicEquipment">Auto-pin Epic Equipment Quests</string>
-	<string key="ui_autopinobjectivesEpicEquipment_desc">Automatically pin epic equipment quests to the HUD when they are accepted.</string>
+	<string key="ui_autopinobjectivesEpicEquipment_desc">Set whether to automatically pin epic equipment quests to the HUD when they are accepted</string>
 	<string key="ui_autopinObjectivesSeasonQuest">Auto-pin Season Story Objectives</string>
-	<string key="ui_autopinobjectivesSeasonQuest_desc">Automatically pin season story quests to the HUD when they are accepted.</string>
+	<string key="ui_autopinobjectivesSeasonQuest_desc">Set whether to automatically pin season story quests to the HUD when they are accepted</string>
 	<string key="ui_autopinObjectivesSide">Auto-pin Side Story Quests</string>
-	<string key="ui_autopinobjectivesSide_desc">Automatically pin side story quests to the HUD when they are accepted.</string>
+	<string key="ui_autopinobjectivesSide_desc">Set whether to automatically pin side story quests to the HUD when they are accepted</string>
 	<string key="ui_autopinObjectivesFaction">Auto-pin Faction Missions</string>
-	<string key="ui_autopinobjectivesFaction_desc">Automatically pin faction missions to the HUD when they are accepted.</string>
+	<string key="ui_autopinobjectivesFaction_desc">Set whether to automatically pin faction missions to the HUD when they are accepted</string>
 	<string key="ui_autopinobjectivesEvent">Auto-pin Event Quests</string>
-	<string key="ui_autopinobjectivesEvent_desc">Automatically pin event quests to the HUD when they are accepted.</string>
+	<string key="ui_autopinobjectivesEvent_desc">Set whether to automatically pin event quests to the HUD when they are accepted</string>
 	<string key="ui_autopinObjectivesComm">Auto-pin Town Projects</string>
-	<string key="ui_autopinobjectivesComm_desc">Automatically pin town projects to the HUD when they are accepted.</string>
+	<string key="ui_autopinobjectivesComm_desc">Set whether to automatically pin town projects to the HUD when they are accepted</string>
 	<string key="ui_autopinObjectivesCrafting">Auto-pin Recipes</string>
-	<string key="ui_autopinobjectivesCrafting_desc">Automatically pin recipes to the HUD when a recipe is pinned from any crafting station.</string>
+	<string key="ui_autopinobjectivesCrafting_desc">Set whether to automatically pin recipes to the HUD when a recipe is pinned from any crafting station.</string>
 	<string key="ui_auto_pin_toggle_on">Auto-Pin On</string>
 	<string key="ui_auto_pin_toggle_off">Auto-Pin Off</string>
 	<string key="ui_auto_pin_toggle_label">Auto-Pin</string>
@@ -2705,9 +2719,9 @@
 	<string key="ui_freeweekend_guide_title3" rel_version="Feature_FreeWeekend">Session Times &amp; Queues</string>
 	<string key="ui_freeweekend_guide_title4" rel_version="Feature_FreeWeekend">Purchasing New World</string>
 	<string key="ui_freeweekend_guide_body1" rel_version="Feature_FreeWeekend">During the Free Weekend event, any player may download New World and create a character to play. Some worlds are restricted to players who have purchased New World. Free players may not transfer characters between worlds nor access the Store and Trading Post. Free player characters are also restricted to a maximum of 2,000 &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;.</string>
-	<string key="ui_freeweekend_guide_body2" rel_version="Feature_FreeWeekend">Use the Social Menu (default: [O]) to search for friends in the same world or respond to invites from other players. Participate and join multiplayer activities such as Arena and Outpost Rush from the Modes tab in the Escape Menu [ESC]. Find a party and embark on an Expedition by opening the Group Finder menu from the map by hovering over any Expedition’s icon.</string>
+	<string key="ui_freeweekend_guide_body2" rel_version="Feature_FreeWeekend">Use the Social Menu to search for friends in the same world or respond to invites from other players. Participate and join multiplayer activities such as Arena and Outpost Rush. Find a party and embark on an Expedition by opening the Group Finder menu from the map by hovering over any Expedition’s icon.</string>
 	<string key="ui_freeweekend_guide_body3" rel_version="Feature_FreeWeekend">For free players, New World periodically checks to see if there is a queue for their character’s world. Players may play as long as they like if their world has no queue when this session time check is made. If there is a queue at that time, the free player will be returned to the Main Menu and may queue to reenter the world. If there is no queue at that time, the free player’s session time will be extended until the next check. Players who have purchased New World do not have session time checks and have queue priority over free players.</string>
-	<string key="ui_freeweekend_guide_body4" rel_version="Feature_FreeWeekend">New World can be purchased through the Steam Store, which can be accessed from the Main Menu or the Menu button via the Escape Menu [ESC]. All characters, items, and progress earned as a free player will be carried forward after purchasing New World. However, only the total time played by all characters on an account after purchase will accrue towards unlocking features such as Player-to-Player Trading and access to the Store and Trading Post.</string>
+	<string key="ui_freeweekend_guide_body4" rel_version="Feature_FreeWeekend">New World can be purchased through the Steam Store. All characters, items, and progress earned as a free player will be carried forward after purchasing New World. However, only the total time played by all characters on an account after purchase will accrue towards unlocking features such as Player-to-Player Trading and access to the Store and Trading Post.</string>
 	<string key="ui_factions">Factions</string>
 	<string key="ui_factions_guide_1_header">Joining a Faction</string>
 	<string key="ui_factions_guide_1_body">Before joining a faction, you must prove yourself by completing a series of Faction Initiation Quests. Reach Level 17 and seek out the initial quest givers for each faction in or near the village of Oxboro in Everfall.</string>
@@ -2719,7 +2733,7 @@
 	<string key="ui_factions_guide_4_body">Companies have the potential to make their leader the Governor of a territory by winning a War against its current owners. See Declaring War in the Player versus Player (PvP) and War guide for more info on how to start and fight Wars.</string>
 	<string key="ui_pvp_guide">Player vs. Player (PvP) and Wars</string>
 	<string key="ui_pvp_guide_1_header">Open World PvP</string>
-	<string key="ui_pvp_guide_1_body">Once you are in a faction, you can choose to enable your PvP Flag. Enabling your PvP Flag allows you to participate in open world player vs. player combat. While your flag is enabled, you can attack and be attacked by other flagged players from the other factions.\n\nTo toggle your PvP Flag on or off, press the Toggle PvP button (default: U) while in a Settlement or any other sanctuary.</string>
+	<string key="ui_pvp_guide_1_body">Once you are in a faction, you can choose to enable your PvP Flag while in a Settlement or any other sanctuary. Enabling your PvP Flag allows you to participate in open world player vs. player combat. While your flag is enabled, you can attack and be attacked by other flagged players from the other factions.</string>
 	<string key="ui_pvp_guide_2_header">Fort Control</string>
 	<string key="ui_pvp_guide_2_body">Flagged players can battle at each Fort for its control.\n\nTo take part, flag for PvP then go to the Fort you wish to compete for and enter through any of the gates. Once inside, claim and hold your ground against players from the other factions.\n\nThe faction that holds the Fort gains bonuses in the territory like increased influence and XP gains for faction members. Owning a Fort does not affect overall control of the territory, but may be instrumental in declaring a war for ownership.</string>
 	<string key="ui_pvp_guide_3_header">Declaring War</string>
@@ -2744,21 +2758,22 @@
 	<string key="ui_event_item_disappears">&lt;font face="lyshineui/fonts/Nimbus_Medium.font" color="#cca000"&gt;This item will disappear at the end of the event.&lt;/font&gt;</string>
 	<string key="ui_event_time_left">&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Event ends in: &lt;font color="#cca000"&gt;{timeLeft} &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_event_time_left_compass">Event ends in &lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{timeLeft}&lt;/font&gt;</string>
-	<string key="attribution_WinterConvergence_2021" rel_version="Event_WinterConvergence_Perm">Winter Convergence 2021</string>
-	<string key="attribution_WinterConvergence_2022" rel_version="Event_WinterConvergence_Perm">Winter Convergence 2022</string>
-	<string key="attribution_SummerMedleyfaire_2022" rel_version="Event_Summer_Perm">Summer Medleyfaire 2022</string>
-	<string key="attribution_SummerMedleyfaire_2023" rel_version="Event_Summer_Perm">Summer Medleyfaire 2023</string>
-	<string key="attribution_NightveilHallow_2022" rel_version="Event_Halloween_Perm">Nightveil Hallow 2022</string>
-	<string key="attribution_NightveilHallow_2023" rel_version="Event_Halloween2023_Perm">Nightveil Hallow 2023</string>
+	<string key="attribution_WinterConvergence_2021" rel_version="Event_WinterConvergence_Perm">Winter Convergence</string>
+	<string key="attribution_WinterConvergence_2022" rel_version="Event_WinterConvergence_Perm">Winter Convergence</string>
+	<string key="attribution_SummerMedleyfaire_2022" rel_version="Event_Summer_Perm">Summer Medleyfaire</string>
+	<string key="attribution_SummerMedleyfaire_2023" rel_version="Event_Summer_Perm">Summer Medleyfaire</string>
+	<string key="attribution_NightveilHallow_2022" rel_version="Event_Halloween_Perm">Nightveil Hallow</string>
+	<string key="attribution_NightveilHallow_2023" rel_version="Event_Halloween2023_Perm">Nightveil Hallow</string>
 	<string key="attribution_Housing_SettlerSet_2021" rel_version="Housing_Settler_Set" comment="Housing Furniture Set">Aeternum Settler's Furniture</string>
 	<string key="attribution_Housing_PirateSet_2021" rel_version="Housing_Pirate_Set" comment="Housing Furniture Set">Reekwater Furniture</string>
 	<string key="attribution_Housing_DynastySet_2021" rel_version="Housing_Dynasty_Set" comment="Housing Furniture Set">Ebonscale Furniture</string>
 	<string key="attribution_Housing_LegionSet_2022" rel_version="Housing_Legion_Set" comment="Housing Furniture Set">Brimstone Furniture</string>
-	<string key="attribution_TurkeyTerror_2022" rel_version="Event_TurkeyTerror_Perm">Turkey Terror 2022</string>
-	<string key="attribution_TurkeyTerror_2023" rel_version="Event_TurkeyTerror2023_Perm">Turkey Terror 2023</string>
+	<string key="attribution_TurkeyTerror_2022" rel_version="Event_TurkeyTerror_Perm">Turkey Terror</string>
+	<string key="attribution_TurkeyTerror_2023" rel_version="Event_TurkeyTerror2023_Perm">Turkey Terror</string>
 	<string key="attribution_Season_1" rel_version="Season_1_Perm">Season 1</string>
 	<string key="attribution_Season_2" rel_version="Season_2_Perm">Season 2</string>
 	<string key="attribution_Season_3" rel_version="Season_3_Perm">Season 3</string>
+	<string key="attribution_Season_4" rel_version="Season_4_Perm">Season 4</string>
 	<string key="ui_reset_daily_time">Resets daily at {time}</string>
 	<string key="ui_reset_weekly_time">Resets weekly each {time}</string>
 	<string key="ui_buy_new_world">Buy New World</string>
@@ -2828,8 +2843,8 @@
 	<string key="ui_horse_slot_unlock_description" rel_version="Feature_Mounts">Unlocks the ability to equip and summon a mount.</string>
 	<string key="ui_ridingxp_description" rel_version="Feature_Mounts">Experience for the Riding skill.\n\nHigher levels unlock rewards and faster mount speeds.</string>
 	<string key="ui_emote_slot">Emote Slot #{slot}</string>
-	<string key="ui_emote_bind_to_slot">Bind to {slot} Slot</string>
-	<string key="ui_emote_unbind">Unbind</string>
+	<string key="ui_emote_bind_to_slot">Bind to {slot}</string>
+	<string key="ui_emote_unbind">Unbind from {slot}</string>
 	<string key="ui_emote_mounted_error">Unable to use emotes while mounted.</string>
 	<string key="generic_list_2">{item1} and {item2}</string>
 	<string key="generic_list_3">{item1}, {item2}, and {item3}</string>
@@ -2856,5 +2871,6 @@
 	<string key="ui_sort_by_price_low">Sort by Price: Low to High</string>
 	<string key="ui_sort_by_price_high">Sort by Price: High to Low</string>
 	<string key="ui_requirements">Requirements</string>
+	<string key="ui_external_rewards">External Rewards</string>
 </resources>
 

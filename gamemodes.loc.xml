@@ -279,8 +279,11 @@
 	<string key="ui_rounds_won">Rounds Won</string>
 	<string key="ui_see_through_label">See Through Mode</string>
 	<string key="ui_invasion_leave">Leave Activity</string>
+	<string key="ui_matchmaking_ready_accept_choice">Ready</string>
 	<string key="ui_matchmaking_ready_title">Match Ready</string>
+	<string key="ui_matchmaking_ready_title_dungeon">Group Found</string>
 	<string key="ui_matchmaking_ready_text">Your queued &lt;font color={color}&gt;match is ready to play&lt;/font&gt;. Teleport in now?</string>
+	<string key="ui_matchmaking_ready_text_dungeon">Waiting For Players ({numAccepted}/{numInvited})</string>
 	<string key="dungeon_how_to_raid">How to Form a Raid</string>
 	<string key="dungeon_entry_requirements">Entry Requirements</string>
 	<string key="ui_influence_tutorial_how_it_works" rel_version="Feature_Influence_V2">How Influence Races Work</string>
@@ -303,5 +306,7 @@
 	<string key="ui_pvp_balance_ability_damage_bonuses" rel_version="Feature_PvP_PvE_Split">Ability Damage Bonus Modifier:</string>
 	<string key="ui_pvp_balance_healing_category" rel_version="Feature_PvP_PvE_Split">Healing Modifiers:</string>
 	<string key="ui_pvp_balance_status_effect_potencies" rel_version="Feature_PvP_PvE_Split">Status Effect Potency:</string>
+	<string key="ui_gamemodeinvitedeclinesentmessage">Invite for &lt;font color="#ffffff"&gt;{gameModeName}&lt;/font&gt; declined.</string>
+	<string key="ui_gamemodeinvitedeclinesentmessage_withsource">Invite for &lt;font color="#ffffff"&gt;{gameModeName}&lt;/font&gt; declined by &lt;font color="#ffffff"&gt;{sourcePlayerName}&lt;/font&gt;.</string>
 </resources>
 

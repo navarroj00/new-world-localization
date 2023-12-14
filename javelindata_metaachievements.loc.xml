@@ -317,6 +317,9 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_crystalclaw_title" rel_version="Expedition_FirstLight_01">Stampede</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_crystalclaw_title_SHE" rel_version="Expedition_FirstLight_01">Stampede</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_crystalclaw_title_THEY" rel_version="Expedition_FirstLight_01">Stampede</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_tarn_title" rel_version="Expedition_greatcleave_00">IceBreaker</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_tarn_title_SHE" rel_version="Expedition_greatcleave_00">IceBreaker</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_tarn_title_THEY" rel_version="Expedition_greatcleave_00">IceBreaker</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1" rel_version="Feature_Dungeon_Mutators">Excavation Excitement</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1_SHE" rel_version="Feature_Dungeon_Mutators">Excavation Excitement</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1_THEY" rel_version="Feature_Dungeon_Mutators">Excavation Excitement</string>
@@ -383,6 +386,12 @@
 	<string key="ui_metachievement_pve_mutate_dungeon_crystalclaw_title2" rel_version="Expedition_FirstLight_01">Bestial Cunning</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_crystalclaw_title2_SHE" rel_version="Expedition_FirstLight_01">Bestial Cunning</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_crystalclaw_title2_THEY" rel_version="Expedition_FirstLight_01">Bestial Cunning</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_tarn_title1" rel_version="Expedition_greatcleave_00">Hail Broke Loose</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_tarn_title1_SHE" rel_version="Expedition_greatcleave_00">Hail Broke Loose</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_tarn_title1_THEY" rel_version="Expedition_greatcleave_00">Hail Broke Loose</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_tarn_title2" rel_version="Expedition_greatcleave_00">Glacial Recognition</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_tarn_title2_SHE" rel_version="Expedition_greatcleave_00">Glacial Recognition</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_tarn_title2_THEY" rel_version="Expedition_greatcleave_00">Glacial Recognition</string>
 	<string key="ui_metachievement_pve_arenascompleted_title">Arena Fighting</string>
 	<string key="ui_metachievement_pve_arenascompleted_title_SHE">Arena Fighting</string>
 	<string key="ui_metachievement_pve_arenascompleted_title_THEY">Arena Fighting</string>
@@ -2099,9 +2108,9 @@
 	<string key="ui_metachievement_skilllevelfishing_title5">Fishing Master</string>
 	<string key="ui_metachievement_skilllevelfishing_title5_SHE">Fishing Master</string>
 	<string key="ui_metachievement_skilllevelfishing_title5_THEY">Fishing Master</string>
-	<string key="ui_metachievement_skilllevelfishing_title6">Elysian Master</string>
-	<string key="ui_metachievement_skilllevelfishing_title6_SHE">Elysian Master</string>
-	<string key="ui_metachievement_skilllevelfishing_title6_THEY">Elysian Master</string>
+	<string key="ui_metachievement_skilllevelfishing_title6">Elysian Fishing Master</string>
+	<string key="ui_metachievement_skilllevelfishing_title6_SHE">Elysian Fishing Master</string>
+	<string key="ui_metachievement_skilllevelfishing_title6_THEY">Elysian Fishing Master</string>
 	<string key="ui_metachievement_skilllevelmusic_title1">Novice Musician</string>
 	<string key="ui_metachievement_skilllevelmusic_title1_SHE">Novice Musician</string>
 	<string key="ui_metachievement_skilllevelmusic_title1_THEY">Novice Musician</string>
@@ -3244,6 +3253,7 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_desc" rel_version="Expedition_CutlassKeys_00">Defeat Nereid in Barnacles And Black Powder.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_desc" rel_version="Expedition_BrimstoneSands_00">Defeat the Goliaths of Ennead in the Ennead.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_crystalclaw_desc" rel_version="Expedition_FirstLight_01">Defeat Mahantaram in the Savage Divide.</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_tarn_desc" rel_version="Expedition_GreatCleave_00">Defeat Ser Loth in the Glacial Tarn.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Amrine Excavation, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_obelisk_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete Starstone Barrows, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_depths_generic_desc" rel_version="Feature_Dungeon_Mutators">Complete The Depths, difficulty {number}.</string>
@@ -3255,6 +3265,7 @@
 	<string key="ui_metachievement_pve_mutate_dungeon_ennead_generic_desc" rel_version="Expedition_BrimstoneSands_00">Complete the Ennead, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_forge_generic_desc" rel_version="Expedition_GreatCleave_01">Complete the Empyrean Forge, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_crystalclaw_generic_desc" rel_version="Expedition_FirstLight_01">Complete the Savage Divide, difficulty {number}.</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_tarn_generic_desc" rel_version="Expedition_GreatCleave_00">Complete the Glacial Tarn, difficulty {number}.</string>
 	<string key="ui_metachievement_pve_arenascompleted_desc">Complete {number} arena battles.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_covenant_desc">Personally defeat {number} Covenant players.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_marauder_desc">Personally defeat {number} Marauder players.</string>

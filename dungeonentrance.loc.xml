@@ -33,10 +33,10 @@
 	<string key="ui_dungeon_level_requirement">Level Requirement: {level}</string>
 	<string key="ui_dungeon_elapsed_time">Time Elapsed:</string>
 	<string key="ui_dungeon_estimated_time_remaining">Estimated Wait Time:</string>
-	<string key="ui_dungeon_activate">Open</string>
-	<string key="ui_dungeon_activate_solo">Open</string>
-	<string key="ui_dungeon_activate_raidtrial">Open</string>
-	<string key="ui_dungeon_activate_seasontrial" rel_version="Season_2_Perm">Open</string>
+	<string key="ui_dungeon_activate">Enter</string>
+	<string key="ui_dungeon_activate_solo">Enter</string>
+	<string key="ui_dungeon_activate_raidtrial">Enter</string>
+	<string key="ui_dungeon_activate_seasontrial" rel_version="Season_2_Perm">Enter</string>
 	<string key="ui_dungeon_leave_group">Leave Group</string>
 	<string key="ui_dungeon_leave_group_sufficient_members">You will be kicked out of the queue if you leave the group.\nAre you sure?</string>
 	<string key="ui_dungeon_group_in_queue">Waiting for Expedition...</string>
@@ -140,10 +140,10 @@
 	<string key="ui_dungeon_full_header_raidtrial">Elite Trial is currently full. Join the queue to enter the Elite Trial.</string>
 	<string key="ui_dungeon_full_header_seasontrial" rel_version="Season_2_Perm">Seasonal Trial is currently full. Join the queue to enter the Seasonal Trial.</string>
 	<string key="ui_dungeon_player_average_gear_score">&lt;font color="#c3b79f"&gt;Average Gear Score: &lt;/font&gt; &lt;font color="#ebe3d6"&gt;{gearscore}&lt;/font&gt;</string>
-	<string key="ui_dungeon_queued_blocked">Open</string>
-	<string key="ui_dungeon_queued_blocked_solo">Open</string>
-	<string key="ui_dungeon_queued_blocked_raidtrial">Open</string>
-	<string key="ui_dungeon_queued_blocked_seasontrial" rel_version="Season_2_Perm">Open</string>
+	<string key="ui_dungeon_queued_blocked">Enter</string>
+	<string key="ui_dungeon_queued_blocked_solo">Enter</string>
+	<string key="ui_dungeon_queued_blocked_raidtrial">Enter</string>
+	<string key="ui_dungeon_queued_blocked_seasontrial" rel_version="Season_2_Perm">Enter</string>
 	<string key="ui_dungeon_outpost_rush">You are already in a queue for Outpost Rush.</string>
 	<string key="ui_dungeon_expiring">Leaving in</string>
 	<string key="ui_dungeon_expiring_solo">Leaving in</string>
@@ -243,8 +243,8 @@
 	<string key="ui_dungeon_mutator_inactive" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff9393"&gt;Inactive &lt;img src="LyShineUI/Images/icons/misc/icon_question_orange" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; &lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_rotation_notice" rel_version="Feature_Dungeon_Mutators">An Expedition is randomly selected every week to mutate. Only the selected Expedition can be played with raised difficulties.</string>
 	<string key="ui_dungeon_mutation_rewards_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Items&lt;/font&gt; have a chance to drop with these &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Perks:&lt;/font&gt;</string>
-	<string key="ui_dungeon_mutator_standard_reward_count" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Expedition Items</string>
-	<string key="ui_dungeon_mutator_difficulty_reward_count" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Difficulty Items</string>
+	<string key="ui_dungeon_mutator_standard_reward_count" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Expedition Rewards</string>
+	<string key="ui_dungeon_mutator_difficulty_reward_count" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Difficulty Rewards</string>
 	<string key="ui_dungeon_mutator_special_reward_tooltip" rel_version="Feature_Dungeon_Mutators">Umbral Shards are rewarded based on your rank when the Expedition is completed.\n\nUnlock the next Expedition difficulty with Silver rank or higher.</string>
 	<string key="ui_dungeon_mutator_hud_points_shorthand" rel_version="Feature_Dungeon_Mutators">&lt;font color="#aaaaaa" &gt;pt&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_difficulty_not_unlocked" rel_version="Feature_Dungeon_Mutators">This difficulty has not been unlocked yet.</string>
@@ -397,7 +397,7 @@
 	<string key="ui_howtofindraid_bullet2" rel_version="Season_2_Perm">ii.</string>
 	<string key="ui_howtofindraid_bullet3" rel_version="Season_2_Perm">iii.</string>
 	<string key="ui_howtofindraid_header1" rel_version="Season_2_Perm">Invite a player to a group</string>
-	<string key="ui_howtofindraid_header2" rel_version="Season_2_Perm">Click more options under group management</string>
+	<string key="ui_howtofindraid_header2" rel_version="Season_2_Perm">Select more options under group management</string>
 	<string key="ui_howtofindraid_header3" rel_version="Season_2_Perm">Convert to a raid</string>
 	<string key="ui_howtofindraid_body1" rel_version="Season_2_Perm">Raid is formed through an existing group. Invite at least one player to form a group.</string>
 	<string key="ui_howtofindraid_body2" rel_version="Season_2_Perm">Access "more options" under group members' portraits.</string>

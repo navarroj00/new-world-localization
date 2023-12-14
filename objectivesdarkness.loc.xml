@@ -94,8 +94,13 @@
 	<string key="objective_lostattack_piscarianfishery_title">Ancient Device:</string>
 	<string key="objective_lostattack_piscarianfishery_desc">Investigate the Ancient Device on the boardwalk.</string>
 	<string key="objective_lostattack_piscarianfishery_wave_01">Defend Ancient Device: {remainingCount}/1 \nTime Remaining:</string>
-	<string key="ui_boatencounter_scallywag_description" rel_version="Quest_MSQ2_Revamp">Brutal Captain Esteban and his crew are attacking the shore. Send the scurvy rats scurrying back to sea!</string>
 	<string key="event_completed">Event Completed</string>
+	<string key="ui_winterconv_worldboss_winterwarrior" rel_version="Event_WinterConvergence_Temp">The Forever Winter</string>
+	<string key="ui_winterconv_worldboss_winterwarrior_description" rel_version="Event_WinterConvergence_Temp">The Winter Warrior and his legion of Frigid Folk are spreading the beginnings of the Forever Winter across Aeternum!</string>
+	<string key="objective_worldboss_task_destroylink_title" rel_version="Event_WinterConvergence_Temp">Deactivate the Emanating Tempest</string>
+	<string key="objective_worldboss_task_destroylink_desc" rel_version="Event_WinterConvergence_Temp">Frostrime Pillar Aura's Remaining: {remainingCount}</string>
+	<string key="objective_worldboss_task_winterwarrior_title" rel_version="Event_WinterConvergence_Temp">Defeat the Winter Warrior</string>
+	<string key="objective_worldboss_task_winterwarrior_desc" rel_version="Event_WinterConvergence_Temp">Stop the Spread of the Forever Winter!</string>
 	<string key="ui_legion_outpost_attack" rel_version="Territory_Brimstone_Sands">Brimstone Under Siege</string>
 	<string key="ui_legion_outpost_attack_description" rel_version="Territory_Brimstone_Sands">The Legion are advancing! Stop them before they reach the outpost of Wikala al-Waha!</string>
 	<string key="objective_legion_outpost_attack_title" rel_version="Territory_Brimstone_Sands">Stop the Legion's Advance</string>
@@ -188,10 +193,10 @@
 	<string key="objective_motherwell_attack_wave_02_title" rel_version="Quest_MSQ2_Edengrove">Defend the Barrier:</string>
 	<string key="objective_motherwell_attack_wave_02_desc" rel_version="Quest_MSQ2_Edengrove">Time Remaining:</string>
 	<string key="ui_fl_worldboss_beast_01_Obj_Enc_Title" rel_version="Territory_FirstLight">Kol Ciron</string>
-	<string key="ui_fl_worldboss_beast_02_Obj_Enc_Title" rel_version="Territory_FirstLight">Bulrok the Burning</string>
-	<string key="ui_fl_worldboss_beast_03_Obj_Enc_Title" rel_version="Territory_FirstLight">Kondak the Frigid</string>
-	<string key="ui_fl_worldboss_beast_04_Obj_Enc_Title" rel_version="Territory_FirstLight">Mawthor, the Thundering</string>
-	<string key="ui_fl_worldboss_beast_05_Obj_Enc_Title" rel_version="Territory_FirstLight">Mosantar, the Earth Eater</string>
+	<string key="ui_fl_worldboss_beast_02_Obj_Enc_Title" rel_version="Territory_FirstLight">Bulrok The Burning</string>
+	<string key="ui_fl_worldboss_beast_03_Obj_Enc_Title" rel_version="Territory_FirstLight">Kondak The Frigid</string>
+	<string key="ui_fl_worldboss_beast_04_Obj_Enc_Title" rel_version="Territory_FirstLight">Mawthor, The Thundering</string>
+	<string key="ui_fl_worldboss_beast_05_Obj_Enc_Title" rel_version="Territory_FirstLight">Mosantar, The Earth Eater</string>
 	<string key="ui_fl_worldboss_beast_06_Obj_Enc_Title" rel_version="Territory_FirstLight">Zirash</string>
 	<string key="ui_fl_worldboss_beast_07_Obj_Enc_Title" rel_version="Territory_FirstLight">Kudzu</string>
 	<string key="ui_fl_worldboss_beast_01_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
@@ -202,11 +207,18 @@
 	<string key="ui_fl_worldboss_beast_06_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
 	<string key="ui_fl_worldboss_beast_07_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
 	<string key="objective_enc_darkness_Hunt_armored_dragon_wave_01_title" rel_version="Territory_FirstLight">Defeat Kol Ciron</string>
-	<string key="objective_enc_darkness_Hunt_Fire_Gorilla_wave_01_title" rel_version="Territory_FirstLight">Defeat Bulrok the Burning</string>
-	<string key="objective_enc_darkness_Hunt_Ice_Gorilla_wave_01_title" rel_version="Territory_FirstLight">Defeat Kondak the Frigid</string>
-	<string key="objective_enc_darkness_Hunt_Mammoth_Lightning_wave_01_title" rel_version="Territory_FirstLight">Defeat Mawthor, the Thundering</string>
-	<string key="objective_enc_darkness_Hunt_Mammoth_Nature_wave_01_title" rel_version="Territory_FirstLight">Defeat Mosantar, the Earth Eater</string>
-	<string key="objective_enc_darkness_Hunt_Primal_Lions_wave_01_title" rel_version="Territory_FirstLight">Defeat Zirash</string>
-	<string key="objective_enc_darkness_Hunt_Razro_Lotus_wave_01_title" rel_version="Territory_FirstLight">Defeat Kudzu</string>
+	<string key="objective_enc_darkness_Hunt_Fire_Gorilla_wave_01_title" rel_version="Territory_FirstLight">Defeat Bulrok The Burning</string>
+	<string key="objective_enc_darkness_Hunt_Ice_Gorilla_wave_01_title" rel_version="Territory_FirstLight">Defeat Kondak The Frigid</string>
+	<string key="objective_enc_darkness_Hunt_Mammoth_Lightning_wave_01_title" rel_version="Territory_FirstLight">Defeat Mawthor, The Thundering</string>
+	<string key="objective_enc_darkness_Hunt_Mammoth_Nature_wave_01_title" rel_version="Territory_FirstLight">Defeat Mosantar, The Earth Eater</string>
+	<string key="objective_enc_darkness_Hunt_Primal_Lions_wave_01_title" rel_version="Territory_FirstLight">Defeat The Pride</string>
+	<string key="objective_enc_darkness_Hunt_Primal_Lions_wave_01_description" rel_version="Territory_FirstLight">Lure out Zirash</string>
+	<string key="objective_enc_darkness_Hunt_Primal_Lions_wave_02_title" rel_version="Territory_FirstLight">Defeat Zirash</string>
+	<string key="objective_enc_darkness_Hunt_Primal_Lions_wave_02_description" rel_version="Territory_FirstLight">Finish The Hunt</string>
+	<string key="objective_enc_darkness_Hunt_Razro_Lotus_wave_01_title" rel_version="Territory_FirstLight">Defeat Kudzu Shoots</string>
+	<string key="objective_enc_darkness_Hunt_Razro_Lotus_wave_01_description" rel_version="Territory_FirstLight">Survive The Hedge of Razorleafs</string>
+	<string key="objective_enc_darkness_Hunt_Razro_Lotus_wave_02_title" rel_version="Territory_FirstLight">Defeat Kudzu</string>
+	<string key="objective_enc_darkness_Hunt_Razro_Lotus_wave_02_description" rel_version="Territory_FirstLight">Finish The Hunt</string>
+	<string key="objective_enc_darkness_Hunt_description" rel_version="Territory_FirstLight">Complete The Wild Hunt</string>
 </resources>
 

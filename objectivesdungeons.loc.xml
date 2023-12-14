@@ -187,8 +187,30 @@
 	<string key="dungeon_ebonscale00_task_find_empress">Find Empress Zhou at the palace.</string>
 	<string key="dungeon_ebonscale00_task_defeat_empress">Defeat Empress Zhou!</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Leave the Shipyard.</string>
+	<string key="dungeon_greatcleave00_title" rel_version="Expedition_GreatCleave_00">Glacial Tarn</string>
+	<string key="dungeon_greatcleave00_description" rel_version="Expedition_GreatCleave_00">Stop Ser Loth before he harnesses the Primoridal Power of the Forge</string>
+	<string key="dungeon_greatcleave00_task_explore" rel_version="Expedition_GreatCleave_00">Pursue Ser Loth through the secret entrance</string>
+	<string key="dungeon_greatcleave00_task_flame" rel_version="Expedition_GreatCleave_00">Destroy the Ancient Guardians and wield the Empyrean Flame to Destroy the Ice Wall</string>
+	<string key="dungeon_greatcleave00_task_upper" rel_version="Expedition_GreatCleave_00">Make your way to the upper bridge</string>
+	<string key="dungeon_greatcleave00_task_ice" rel_version="Expedition_GreatCleave_00">Extend the Ancient Bridge to delve deeper into the ruins</string>
+	<string key="dungeon_greatcleave00_task_further" rel_version="Expedition_GreatCleave_00">Travel deeper into Glacial Tarn's ice caverns</string>
+	<string key="dungeon_greatcleave00_task_troll" rel_version="Expedition_GreatCleave_00">Destroy the Troll Guardian</string>
+	<string key="dungeon_greatcleave00_task_cross" rel_version="Expedition_GreatCleave_00">Continue exploring the ice caverns for a path back into the Empyrean Forge</string>
+	<string key="dungeon_greatcleave00_task_break" rel_version="Expedition_GreatCleave_00">Defeat the Ancient Guardians protecting the bridge</string>
+	<string key="dungeon_greatcleave00_task_seal" rel_version="Expedition_GreatCleave_00">Activate the Ice Seal to reconstruct the central bridge and finish the ancient elemental portal</string>
+	<string key="dungeon_greatcleave00_task_bridge" rel_version="Expedition_GreatCleave_00">Continue into the Empyrean Forge</string>
+	<string key="dungeon_greatcleave00_task_together" rel_version="Expedition_GreatCleave_00">Work together to open a path into the Forge</string>
+	<string key="dungeon_greatcleave00_task_forge" rel_version="Expedition_GreatCleave_00">Defeat Ser Milosh and cross the lava flooded pathway</string>
+	<string key="dungeon_greatcleave00_task_amalgam" rel_version="Expedition_GreatCleave_00">Eliminate the remaining Varangian Guards</string>
+	<string key="dungeon_greatcleave00_task_magick" rel_version="Expedition_GreatCleave_00">Approach the Elemental Portal</string>
+	<string key="dungeon_greatcleave00_task_power" rel_version="Expedition_GreatCleave_00">Find Ser Loth</string>
+	<string key="dungeon_greatcleave00_task_loth" rel_version="Expedition_GreatCleave_00">Defeat Ser Loth and sever the Varangian Knight's connection to the Primordial Magic</string>
+	<string key="dungeon_greatcleave00_task_cutscene" rel_version="Expedition_GreatCleave_00">Return and report Ser Loth's defeat</string>
+	<string key="dungeon_greatcleave00_task_exit_dungeon" rel_version="Expedition_GreatCleave_00">Return and report Ser Loth's defeat</string>
+	<string key="dungeon_greatcleave00_required_equipment" rel_version="Expedition_GreatCleave_00">1 Azoth Staff</string>
 	<string key="dungeon_greatcleave01_title" rel_version="Expedition_GreatCleave_01">Empyrean Forge</string>
-	<string key="dungeon_greatcleave01_title" rel_version="Expedition_GreatCleave_01">Empyrean Forge</string>
+	<string key="dungeon_greatcleave00_task_victory_cutscene" rel_version="Expedition_GreatCleave_00">Return and report Ser Loth's defeat</string>
+	<string key="dungeon_greatcleave00_task_task_exit_dungeon" rel_version="Expedition_GreatCleave_00">Return and report Ser Loth's defeat</string>
 	<string key="dungeon_greatcleave01_required_equipment" rel_version="Expedition_GreatCleave_01">1 Azoth Staff</string>
 	<string key="dungeon_greatcleave01_description" rel_version="Expedition_GreatCleave_01">Pursue Ser Loth and eliminate the Varangian Presence in the Forge.</string>
 	<string key="dungeon_greatcleave01_task_explore" rel_version="Expedition_GreatCleave_01">Delve into the Empyrean Forge</string>
@@ -323,47 +345,47 @@
 	<string key="dungeon_firstlight01_task_uphill" rel_version="Expedition_FirstLight_01">Push up the hill to the den of the beast lord</string>
 	<string key="dungeon_firstlight01_task_secondcaptain" rel_version="Expedition_FirstLight_01">Defeat Mahantaram</string>
 	<string key="dungeon_firstlight01_task_exit" rel_version="Expedition_FirstLight_01">Exit the Savage Divide</string>
-	<string key="trial_season_02_q12_title" rel_version="Season_2_Temp">Break Some Eggs</string>
-	<string key="trial_season_02_q12_description" rel_version="Season_2_Temp">Stop Malek's plans to hatch the eggs of the Devourers.</string>
-	<string key="trial_season_02_q12_task_approach" rel_version="Season_2_Temp">Approach the center of the arena</string>
-	<string key="trial_season_02_q12_task_defeat_fodder01" rel_version="Season_2_Temp">Defeat Hadish's minions</string>
-	<string key="trial_season_02_q12_task_fodder02_grace" rel_version="Season_2_Temp">Prepare for Hadish's next attack</string>
-	<string key="trial_season_02_q12_task_defeat_fodder02" rel_version="Season_2_Temp">Defeat Hadish's officers</string>
-	<string key="trial_season_02_q12_task_boss_grace" rel_version="Season_2_Temp">Prepare to fight Hadish Azar</string>
-	<string key="trial_season_02_q12_task_defeat_boss" rel_version="Season_2_Temp">Defeat Hadish Azar, Keeper of Flame</string>
-	<string key="trial_season_02_q12_task_destroy_eggs" rel_version="Season_2_Temp">Destroy the corrupted devourer eggs</string>
-	<string key="trial_season_02_q12_task_leave" rel_version="Season_2_Temp">Exit the Soul Trial</string>
-	<string key="trial_season_02_q13_title" rel_version="Season_2_Temp">Legacy of the Sands</string>
-	<string key="trial_season_02_q13_description" rel_version="Season_2_Temp">Confront Malek and put an end to his plans.</string>
-	<string key="trial_season_02_q13_task_approach" rel_version="Season_2_Temp">Approach Malek</string>
-	<string key="trial_season_02_q13_task_defeat_boss" rel_version="Season_2_Temp">Defeat Malek</string>
-	<string key="trial_season_02_q13_task_leave" rel_version="Season_2_Temp">Exit the Soul Trial</string>
-	<string key="trial_hatchery_title" rel_version="Season_2_Temp">The Hatchery</string>
-	<string key="trial_hatchery_description" rel_version="Season_2_Temp">Gather your allies and stop Hadish Azar and the plans to hatch the eggs of the Devourers.</string>
-	<string key="trial_hatchery_approach_01" rel_version="Season_2_Temp">Approach the center of the arena</string>
-	<string key="trial_hatchery_defeat_fodder01" rel_version="Season_2_Temp">Survive the Dunewalker ambush</string>
-	<string key="trial_hatchery_defeat_fodder01_banner_title" rel_version="Season_2_Temp">Stage 1 of 5</string>
-	<string key="trial_hatchery_defeat_fodder01_banner_description" rel_version="Season_2_Temp">Survive the Dunewalker ambush</string>
-	<string key="trial_hatchery_fodder02_grace" rel_version="Season_2_Temp">Take a moment to collect yourself</string>
-	<string key="trial_hatchery_defeat_fodder02" rel_version="Season_2_Temp">Defeat Hadish's minions</string>
-	<string key="trial_hatchery_defeat_fodder02_banner_title" rel_version="Season_2_Temp">Stage 2 of 5</string>
-	<string key="trial_hatchery_defeat_fodder02_banner_description" rel_version="Season_2_Temp">Defeat Hadish's minions</string>
-	<string key="trial_hatchery_fodder03_grace" rel_version="Season_2_Temp">Take a moment to collect yourself</string>
-	<string key="trial_hatchery_defeat_fodder03" rel_version="Season_2_Temp">Defeat Hadish's officers</string>
-	<string key="trial_hatchery_defeat_fodder03_banner_title" rel_version="Season_2_Temp">Stage 3 of 5</string>
-	<string key="trial_hatchery_defeat_fodder03_banner_description" rel_version="Season_2_Temp">Defeat Hadish's officers</string>
-	<string key="trial_hatchery_minibosss_grace" rel_version="Season_2_Temp">Take a moment to breathe</string>
-	<string key="trial_hatchery_defeat_miniboss" rel_version="Season_2_Temp">Defeat Razhan the Hordemaster</string>
-	<string key="trial_hatchery_defeat_miniboss_banner_title" rel_version="Season_2_Temp">Stage 4 of 5</string>
-	<string key="trial_hatchery_defeat_miniboss_banner_description" rel_version="Season_2_Temp">Defeat Razhan the Hordemaster</string>
-	<string key="trial_hatchery_boss_grace" rel_version="Season_2_Temp">Take a moment to recover</string>
-	<string key="trial_hatchery_defeat_boss" rel_version="Season_2_Temp">Defeat Hadish Azar, Keeper of Flame</string>
-	<string key="trial_hatchery_defeat_boss_banner_title" rel_version="Season_2_Temp">Stage 5 of 5</string>
-	<string key="trial_hatchery_defeat_boss_banner_description" rel_version="Season_2_Temp">Defeat Hadish Azar, Keeper of Flame</string>
-	<string key="trial_hatchery_leave" rel_version="Season_2_Temp">Explore and then exit the Soul Trial</string>
-	<string key="Trial_Season_01_title" rel_version="Season_2_Temp">The Hatchery</string>
-	<string key="Trial_Season_01_description" rel_version="Season_2_Temp">Gather your allies and stop Hadish Azar and the plan to hatch the eggs of the Devourers.</string>
-	<string key="Trial_Season_01_required_equipment" rel_version="Season_2_Temp">1 Ranged Weapon</string>
+	<string key="trial_season_02_q12_title" rel_version="Season_2_Trial">Break Some Eggs</string>
+	<string key="trial_season_02_q12_description" rel_version="Season_2_Trial">Stop Malek's plans to hatch the eggs of the Devourers.</string>
+	<string key="trial_season_02_q12_task_approach" rel_version="Season_2_Trial">Approach the center of the arena</string>
+	<string key="trial_season_02_q12_task_defeat_fodder01" rel_version="Season_2_Trial">Defeat Hadish's minions</string>
+	<string key="trial_season_02_q12_task_fodder02_grace" rel_version="Season_2_Trial">Prepare for Hadish's next attack</string>
+	<string key="trial_season_02_q12_task_defeat_fodder02" rel_version="Season_2_Trial">Defeat Hadish's officers</string>
+	<string key="trial_season_02_q12_task_boss_grace" rel_version="Season_2_Trial">Prepare to fight Hadish Azar</string>
+	<string key="trial_season_02_q12_task_defeat_boss" rel_version="Season_2_Trial">Defeat Hadish Azar, Keeper of Flame</string>
+	<string key="trial_season_02_q12_task_destroy_eggs" rel_version="Season_2_Trial">Destroy the corrupted devourer eggs</string>
+	<string key="trial_season_02_q12_task_leave" rel_version="Season_2_Trial">Exit the Soul Trial</string>
+	<string key="trial_season_02_q13_title" rel_version="Season_2_Trial">Legacy of the Sands</string>
+	<string key="trial_season_02_q13_description" rel_version="Season_2_Trial">Confront Malek and put an end to his plans.</string>
+	<string key="trial_season_02_q13_task_approach" rel_version="Season_2_Trial">Approach Malek</string>
+	<string key="trial_season_02_q13_task_defeat_boss" rel_version="Season_2_Trial">Defeat Malek</string>
+	<string key="trial_season_02_q13_task_leave" rel_version="Season_2_Trial">Exit the Soul Trial</string>
+	<string key="trial_hatchery_title" rel_version="Season_2_Trial">The Hatchery</string>
+	<string key="trial_hatchery_description" rel_version="Season_2_Trial">Gather your allies and stop Hadish Azar and the plans to hatch the eggs of the Devourers.</string>
+	<string key="trial_hatchery_approach_01" rel_version="Season_2_Trial">Approach the center of the arena</string>
+	<string key="trial_hatchery_defeat_fodder01" rel_version="Season_2_Trial">Survive the Dunewalker ambush</string>
+	<string key="trial_hatchery_defeat_fodder01_banner_title" rel_version="Season_2_Trial">Stage 1 of 5</string>
+	<string key="trial_hatchery_defeat_fodder01_banner_description" rel_version="Season_2_Trial">Survive the Dunewalker ambush</string>
+	<string key="trial_hatchery_fodder02_grace" rel_version="Season_2_Trial">Take a moment to collect yourself</string>
+	<string key="trial_hatchery_defeat_fodder02" rel_version="Season_2_Trial">Defeat Hadish's minions</string>
+	<string key="trial_hatchery_defeat_fodder02_banner_title" rel_version="Season_2_Trial">Stage 2 of 5</string>
+	<string key="trial_hatchery_defeat_fodder02_banner_description" rel_version="Season_2_Trial">Defeat Hadish's minions</string>
+	<string key="trial_hatchery_fodder03_grace" rel_version="Season_2_Trial">Take a moment to collect yourself</string>
+	<string key="trial_hatchery_defeat_fodder03" rel_version="Season_2_Trial">Defeat Hadish's officers</string>
+	<string key="trial_hatchery_defeat_fodder03_banner_title" rel_version="Season_2_Trial">Stage 3 of 5</string>
+	<string key="trial_hatchery_defeat_fodder03_banner_description" rel_version="Season_2_Trial">Defeat Hadish's officers</string>
+	<string key="trial_hatchery_minibosss_grace" rel_version="Season_2_Trial">Take a moment to breathe</string>
+	<string key="trial_hatchery_defeat_miniboss" rel_version="Season_2_Trial">Defeat Razhan the Hordemaster</string>
+	<string key="trial_hatchery_defeat_miniboss_banner_title" rel_version="Season_2_Trial">Stage 4 of 5</string>
+	<string key="trial_hatchery_defeat_miniboss_banner_description" rel_version="Season_2_Trial">Defeat Razhan the Hordemaster</string>
+	<string key="trial_hatchery_boss_grace" rel_version="Season_2_Trial">Take a moment to recover</string>
+	<string key="trial_hatchery_defeat_boss" rel_version="Season_2_Trial">Defeat Hadish Azar, Keeper of Flame</string>
+	<string key="trial_hatchery_defeat_boss_banner_title" rel_version="Season_2_Trial">Stage 5 of 5</string>
+	<string key="trial_hatchery_defeat_boss_banner_description" rel_version="Season_2_Trial">Defeat Hadish Azar, Keeper of Flame</string>
+	<string key="trial_hatchery_leave" rel_version="Season_2_Trial">Explore and then exit the Soul Trial</string>
+	<string key="Trial_Season_01_title" rel_version="Season_2_Trial">The Hatchery</string>
+	<string key="Trial_Season_01_description" rel_version="Season_2_Trial">Gather your allies and stop Hadish Azar and the plan to hatch the eggs of the Devourers.</string>
+	<string key="Trial_Season_01_required_equipment" rel_version="Season_2_Trial">1 Ranged Weapon</string>
 	<string key="Quest_Motherwell_title" rel_version="Quest_MSQ2_Edengrove">Trespassing in the Motherwell</string>
 	<string key="Quest_Motherwell_description" rel_version="Quest_MSQ2_Edengrove">Gaea's most cherished grove, tilled by sacred vessels and tended by blessed divinity, yet through aeon's wake remains unprofane and sacrosanct. Adiana will not be pleased.</string>
 	<string key="quest_Motherwell_task_approach" rel_version="Quest_MSQ2_Edengrove">Follow the mysterious path</string>
@@ -373,14 +395,14 @@
 	<string key="quest_Motherwell_task_purify" rel_version="Quest_MSQ2_Edengrove">Complete the Purification Ritual</string>
 	<string key="quest_Motherwell_task_leave" rel_version="Quest_MSQ2_Edengrove">Return to the surface and Exit the Soul Trial</string>
 	<string key="Quest_Motherwell_required_equipment" rel_version="Quest_MSQ2_Edengrove">1 Azoth Staff, 1 Corrupted Headpiece</string>
-	<string key="Trial_Season_01_Objective_1" rel_version="Season_2_Temp">Defeat Hadish Hazar and his minions</string>
-	<string key="Trial_Season_01_Objective_2" rel_version="Season_2_Temp">Withstand the heat of The Hatchery</string>
-	<string key="Trial_Season_01_Objective_3" rel_version="Season_2_Temp">Claim the riches of the desert in victory</string>
+	<string key="Trial_Season_01_Objective_1" rel_version="Season_2_Trial">Defeat Hadish Hazar and his minions</string>
+	<string key="Trial_Season_01_Objective_2" rel_version="Season_2_Trial">Withstand the heat of The Hatchery</string>
+	<string key="Trial_Season_01_Objective_3" rel_version="Season_2_Trial">Claim the riches of the desert in victory</string>
 	<string key="Trial_Season_02_Objective_1" rel_version="Trial_Brimstone_Sandworm">Defeat Shah Neshen in the desert arena</string>
 	<string key="Trial_Season_02_Objective_2" rel_version="Trial_Brimstone_Sandworm">Withstand the brutal and acidic hazards</string>
 	<string key="Trial_Season_02_Objective_3" rel_version="Trial_Brimstone_Sandworm">Claim the riches of victory over the wurm</string>
 	<string key="Quest_mammoth_title" rel_version="Territory_FirstLight">Mahantaram's Court</string>
-	<string key="Trial_mammoth_description" rel_version="Territory_FirstLight">Enter and show humility, mortal, you who dares entreat with the Lord of all Mammoths, Eldest of the Tribunal.</string>
+	<string key="trial_mammoth_description" rel_version="Territory_FirstLight">Enter and show humility, mortal, you who dares entreat with the Lord of all Mammoths, Eldest of the Tribunal.</string>
 	<string key="Quest_mammoth_required_equipment" rel_version="Territory_FirstLight">1 Azoth Staff</string>
 	<string key="trial_mammoth_approach" rel_version="Territory_FirstLight">Speak with Mahantaram</string>
 	<string key="trial_mammoth_defeat_boss" rel_version="Territory_FirstLight">Win the contest of strength</string>
@@ -405,6 +427,11 @@
 	<string key="trial_medusa_defeat_boss_banner_title" rel_version="Territory_FirstLight">Defeat the Gorgon</string>
 	<string key="trial_medusa_defeat_boss_banner_description" rel_version="Territory_FirstLight">Defeat Medusa</string>
 	<string key="trial_medusa_leave" rel_version="Territory_FirstLight">Finish your tasks, and collect remaining loot. When you are ready, you may exit the Soul Trial</string>
+	<string key="trial_season_04_q02_title" rel_version="Season_4_Perm">Daichi Saito</string>
+	<string key="trial_season_04_q02_description" rel_version="Season_4_Perm">Accept Daichi's challenge, and defeat him in a duel.</string>
+	<string key="trial_season_04_q02_task_talk" rel_version="Season_4_Perm">Talk with Daichi Saito</string>
+	<string key="trial_season_04_q02_task_defeat_boss" rel_version="Season_4_Perm">Defeat Daichi Saito</string>
+	<string key="trial_season_04_q02_task_exit" rel_version="Season_4_Perm">Exit the Soul Trial</string>
 	<string key="Quest_Yonas_title" rel_version="Quest_MSQ2_GreatCleave">The Last Soulwarden</string>
 	<string key="Quest_Yonas_description" rel_version="Quest_MSQ2_GreatCleave">Whispers entwined with corruption have found this faithful heart.</string>
 	<string key="Quest_Yonas_required_equipment" rel_version="Quest_MSQ2_GreatCleave">1 Azoth Staff</string>
@@ -415,5 +442,43 @@
 	<string key="Quest_Nihilo_title" rel_version="Quest_MSQ2_GreatCleave">Beyond the Gates</string>
 	<string key="Quest_Nihilo_description" rel_version="Quest_MSQ2_GreatCleave">It is a place of horror and beauty intertwined, where the eye betrays the mind. A realm that we cannot comprehend. Leap, and know what is truly unknowable beyond the gates.</string>
 	<string key="Quest_Nihilo_required_equipment" rel_version="Quest_MSQ2_GreatCleave">1 Azoth Staff</string>
+	<string key="quest_Nihilo_task_approach" rel_version="Quest_MSQ2_GreatCleave">Venture into the Abyss</string>
+	<string key="quest_Nihilo_task_investigate" rel_version="Quest_MSQ2_GreatCleave">Investigate the crying woman</string>
+	<string key="quest_Nihilo_task_destroy_boss" rel_version="Quest_MSQ2_GreatCleave">Destroy the Corrupted Leviathan</string>
+	<string key="quest_Nihilo_task_leave" rel_version="Quest_MSQ2_GreatCleave">Leave the Abyss</string>
+	<string key="trial_season_04_q06_title" rel_version="Season_4_Perm">Eternal Frost</string>
+	<string key="trial_season_04_q06_description" rel_version="Season_4_Perm">Stop Mordred from bringing about an eternal winter.</string>
+	<string key="trial_season_04_q06_task_approach" rel_version="Season_4_Perm">Approach Mordred</string>
+	<string key="trial_season_04_q06_task_defeat_boss" rel_version="Season_4_Perm">Defeat Mordred</string>
+	<string key="trial_season_04_q06_task_exit" rel_version="Season_4_Perm">Exit the Soul Trial</string>
+	<string key="trial_season_04_q05_title" rel_version="Season_4_Perm">The Winter Rune Forge</string>
+	<string key="trial_season_04_q05_description" rel_version="Season_4_Perm">Descend into the ancient Rune Forge and claim victory over its guardians.</string>
+	<string key="Trial_Season_04_Objective_1" rel_version="Season_4_Perm">Align the runes to reactivate forge machination</string>
+	<string key="Trial_Season_04_Objective_2" rel_version="Season_4_Perm">Use the environment to your advantage</string>
+	<string key="Trial_Season_04_Objective_3" rel_version="Season_4_Perm">Defeat the ancient constructs</string>
+	<string key="trial_runeforge_title" rel_version="Season_4_Perm">The Winter Rune Forge</string>
+	<string key="trial_runeforge_description" rel_version="Season_4_Perm">Descend into the ancient Rune Forge with a team and claim victory over its guardians.</string>
+	<string key="Trial_Season_04_required_equipment" rel_version="Season_4_Perm">1 Azoth Staff</string>
+	<string key="trial_runeforge_approach_01" rel_version="Season_4_Perm">Align the runes to unlock the ancient machination</string>
+	<string key="trial_runeforge_defeat_fodder01" rel_version="Season_4_Perm">Defeat the forge guardians</string>
+	<string key="trial_runeforge_defeat_fodder01_banner_title" rel_version="Season_4_Perm">Stage I</string>
+	<string key="trial_runeforge_defeat_fodder01_banner_description" rel_version="Season_4_Perm">Strike the awakened guardians</string>
+	<string key="trial_runeforge_fodder02_grace" rel_version="Season_4_Perm">Get ready for the reinforcements</string>
+	<string key="trial_runeforge_defeat_fodder02" rel_version="Season_4_Perm">Defeat the guardians of the forge</string>
+	<string key="trial_runeforge_defeat_fodder02_banner_title" rel_version="Season_4_Perm">Stage II</string>
+	<string key="trial_runeforge_defeat_fodder02_banner_description" rel_version="Season_4_Perm">Defeat the forge's reinforcements</string>
+	<string key="trial_runeforge_fodder03_grace" rel_version="Season_4_Perm">Take some time to recover</string>
+	<string key="trial_runeforge_defeat_fodder03" rel_version="Season_4_Perm">Defeat the guardians of the forge</string>
+	<string key="trial_runeforge_defeat_fodder03_banner_title" rel_version="Season_4_Perm">Stage III</string>
+	<string key="trial_runeforge_defeat_fodder03_banner_description" rel_version="Season_4_Perm">Eliminate the rest of the defenders</string>
+	<string key="trial_runeforge_minibosss_grace" rel_version="Season_4_Perm">Keep your eyes on the beast in the cage</string>
+	<string key="trial_runeforge_defeat_miniboss" rel_version="Season_4_Perm">Defeat the Ophidian Construct</string>
+	<string key="trial_runeforge_defeat_miniboss_banner_title" rel_version="Season_4_Perm">Stage IV</string>
+	<string key="trial_runeforge_defeat_miniboss_banner_description" rel_version="Season_4_Perm">Ophidian Construct unleashed</string>
+	<string key="trial_runeforge_boss_grace" rel_version="Season_4_Perm">Descend to the depth of the forge</string>
+	<string key="trial_runeforge_defeat_boss" rel_version="Season_4_Perm">Defeat the Ice Guardian</string>
+	<string key="trial_runeforge_defeat_boss_banner_title" rel_version="Season_4_Perm">Stage V</string>
+	<string key="trial_runeforge_defeat_boss_banner_description" rel_version="Season_4_Perm">Ancient Ice Guardian awakened</string>
+	<string key="trial_runeforge_leave" rel_version="Season_4_Perm">Find your way to the Winter Rune</string>
 </resources>
 

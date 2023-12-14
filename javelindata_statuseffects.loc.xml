@@ -69,8 +69,6 @@
 	<string key="PotionBoostVoidAbsT4_Tooltip">Increases Void Absorption by {[Type_StatusEffectData.PotionBoostVoidAbsT4.ABSCorruption * 100]}%.</string>
 	<string key="PotionBoostVoidAbsT5_Tooltip">Increases Void Absorption by {[Type_StatusEffectData.PotionBoostVoidAbsT5.ABSCorruption * 100]}%.</string>
 	<string key="eating_DisplayName">Basic Health Recovery</string>
-	<string key="AI_Season_02_Malek_Sandstorm_DisplayName" rel_version="Season_2_Temp">Sandstorm</string>
-	<string key="AI_Season_02_Malek_Sandstorm_Tooltip" rel_version="Season_2_Temp">The fury of the sands rages, damaging you.</string>
 	<string key="drinking_DisplayName">Drinking</string>
 	<string key="feasting_DisplayName">Feasting</string>
 	<string key="ResetAI_DisplayName">Retreating</string>
@@ -233,10 +231,12 @@
 	<string key="FoodRecoveryT3_MasterName">Well Fed</string>
 	<string key="FoodRecoveryT4_MasterName">Well Fed</string>
 	<string key="FoodRecoveryT5_MasterName">Well Fed</string>
+	<string key="FoodRecoveryT52_MasterName">Well Fed</string>
 	<string key="FoodRecoveryT2_Description">Heal for {[Type_StatusEffectData.FoodRecoveryT2.HealthModifierPercent * 100]}% your max health every 2.5s</string>
 	<string key="FoodRecoveryT3_Description">Heal for {[Type_StatusEffectData.FoodRecoveryT3.HealthModifierPercent * 100]}% your max health every 2.5s</string>
 	<string key="FoodRecoveryT4_Description">Heal for {[Type_StatusEffectData.FoodRecoveryT4.HealthModifierPercent * 100]}% your max health every 2.5s</string>
 	<string key="FoodRecoveryT5_Description">Heal for {[Type_StatusEffectData.FoodRecoveryT5.HealthModifierPercent * 100]}% your max health every 2.5s</string>
+	<string key="FoodRecoveryT52_Description">Heal for {[Type_StatusEffectData.FoodRecoveryT52.HealthModifierPercent * 100]}% your max health every 2.5s</string>
 	<string key="FoodCorruptedT1_Effect_Tooltip">Provides a weak Ward against damage from The Corrupted. Provides 1 additional point of Constitution.</string>
 	<string key="FoodLostT1_Effect_Tooltip">Provides a weak Ward against damage from The Lost. Provides 1 additional point of Constitution.</string>
 	<string key="FoodAngryEarthT1_Effect_Tooltip">Provides a weak Ward against damage from Angry Earth creatures. Provides 1 additional point of Constitution.</string>
@@ -536,7 +536,6 @@
 	<string key="Mut_Ice_Curse1_Major_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Taking {[Type_StatusEffectData.Mut_Ice_Curse1_Major_Damage.HealthModifierDamageBased * -100]}% Ice damage every {[Type_StatusEffectData.Mut_Ice_Curse1_Major_Damage.TickRate]} seconds.</string>
 	<string key="Mut_Curse2_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Weary</string>
 	<string key="Mut_Curse2_Minor_SlowRend_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Weary</string>
-	<string key="Mut_Curse2_Minor_SlowRend_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Your movement speed is reduced by {[Type_StatusEffectData.Mut_Curse2_Minor_SlowRend.MoveSpeedMod * -100]}% and damage taken is increased by {[Type_StatusEffectData.Mut_Curse2_Minor_SlowRend.WKNStandard * 100]}%.</string>
 	<string key="Mut_Curse2_Fir_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Blood Offering</string>
 	<string key="Mut_Curse2_Fir_Major_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Bloody Singe</string>
 	<string key="Mut_Curse2_Fir_Major_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Taking {[Type_StatusEffectData.Mut_Curse2_Fir_Major_Damage.HealthModifierPercent * -100]}% max health Fire damage every {[Type_StatusEffectData.Mut_Curse2_Fir_Major_Damage.TickRate]} seconds.</string>
@@ -688,11 +687,23 @@
 	<string key="AI_Empress_DragonBurn_DisplayName">Burn</string>
 	<string key="AI_Empress_DragonBurn_Tooltip">Deals {[Type_StatusEffectData.AI_Empress_DragonBurn.HealthModifierDamageBased * -100]}% fire damage every {[Type_StatusEffectData.AI_Empress_DragonBurn.TickRate]} seconds for {[Type_StatusEffectData.AI_Empress_DragonBurn.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.AI_Empress_DragonBurn.StackMax]} times.</string>
 	<string key="AI_Torso_Boss_ArenaShrink_DisplayName">Arcane Burden</string>
-	<string key="AI_Torso_Boss_ArenaShrink_Tooltip">"You are burdened with arcane energy, silencing you and dealing damage over time."</string>
+	<string key="AI_Torso_Boss_ArenaShrink_Tooltip">You are burdened with arcane energy, silencing you and dealing damage over time.</string>
 	<string key="AI_Torso_Boss_Stun_Player_DisplayName">Arcane Overload</string>
-	<string key="AI_Torso_Boss_Stun_Player_Tooltip">You are overloaded with arcane energy, stunning you for 10s."</string>
+	<string key="AI_Torso_Boss_Stun_Player_Tooltip">You are overloaded with arcane energy, stunning you for 10s.</string>
 	<string key="AI_Torso_Boss_ArcaneOrb_DisplayName">Arcane Attunement</string>
-	<string key="AI_Torso_Boss_ArcaneOrb_Tooltip">"You are carrying an arcane orb, attuning you to the magical frequencies of the arcane conduits."</string>
+	<string key="AI_Torso_Boss_ArcaneOrb_Tooltip">You are carrying an arcane orb, attuning you to the magical frequencies of the arcane conduits.</string>
+	<string key="AI_Ice_Torso_Boss_Empower_Player_DisplayName" rel_version="Expedition_GreatCleave_00">Ancient Empower</string>
+	<string key="AI_Ice_Torso_Boss_Empower_Player_Tooltip" rel_version="Expedition_GreatCleave_00">Buffed by ancient power, increasing damage.</string>
+	<string key="AI_Ice_Torso_Boss_Energy_Charged_DisplayName" rel_version="Expedition_GreatCleave_00">Energy Overload</string>
+	<string key="AI_Ice_Torso_Boss_Energy_Charged_Tooltip" rel_version="Expedition_GreatCleave_00">Become overcharged dealing bonus Shield stamina damage.</string>
+	<string key="AI_Ice_Torso_Boss_FrozenAura_DisplayName" rel_version="Expedition_GreatCleave_00">Frozen Aura</string>
+	<string key="AI_Ice_Torso_Boss_FrozenAura_Tooltip" rel_version="Expedition_GreatCleave_00">Deal ice damage to near by characters. Will create a deadly ice zone after countdown!</string>
+	<string key="AI_Ice_Torso_Boss_FrostBite_DisplayName" rel_version="Expedition_GreatCleave_00">Frost Bite</string>
+	<string key="AI_Ice_Torso_Boss_FrostBite_Tooltip" rel_version="Expedition_GreatCleave_00">Frozen by Ancient Ice Magic, can't run or jump.</string>
+	<string key="AI_Ice_Torso_Boss_Deep_Frozen_DisplayName" rel_version="Expedition_GreatCleave_00">Deep Frozen</string>
+	<string key="AI_Ice_Torso_Boss_Deep_Frozen_Tooltip" rel_version="Expedition_GreatCleave_00">Deep Frozen from the Commander's attacks and will trigger frost bite in 5 stacks.</string>
+	<string key="AI_Ice_Torso_Boss_Ice_Ground_DisplayName" rel_version="Expedition_GreatCleave_00">Icy Ground</string>
+	<string key="AI_Ice_Torso_Boss_Ice_Ground_Tooltip" rel_version="Expedition_GreatCleave_00">Dealing damage and slow movement speed.</string>
 	<string key="AI_Hercyne_Bleed_DisplayName" rel_version="Territory_FirstLight">Bleed</string>
 	<string key="AI_Hercyne_Bleed_Tooltip" rel_version="Territory_FirstLight">Bleeding for {[Type_StatusEffectData.AI_Hercyne_Bleed.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Hercyne_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_Hercyne_Bleed.TickRate]} seconds for {[Type_StatusEffectData.AI_Hercyne_Bleed.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.AI_Hercyne_Bleed.StackMax]} times.</string>
 	<string key="AI_HercyneBoar_Thorn_Ally_DisplayName" rel_version="Territory_FirstLight">Thorny Hide</string>
@@ -725,8 +736,40 @@
 	<string key="AI_Evil_Knight_Fire_Champion_Overheat_Tooltip" rel_version="Expedition_GreatCleave_01">Overheating from the Commander's attacks and will explode at 10 stacks.  Also burning for {[Type_StatusEffectData.AI_Evil_Knight_Fire_Champion_Overheat.HealthModifierPercent * -100]}% base Fire damage every {[Type_StatusEffectData.AI_Evil_Knight_Fire_Champion_Overheat.TickRate]} seconds for {[Type_StatusEffectData.AI_Evil_Knight_Fire_Champion_Overheat.BaseDuration]} seconds.</string>
 	<string key="AI_Evil_Knight_Fire_Champion_DangerTick_DisplayName" rel_version="Expedition_GreatCleave_01">Lava Tide</string>
 	<string key="AI_Evil_Knight_Fire_Champion_DangerTick_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[Type_StatusEffectData.AI_Evil_Knight_Fire_Champion_DangerTick.HealthModifierPercent * -100]}% base health Fire damage every {[Type_StatusEffectDataAI_Evil_Knight_Fire_Champion_DangerTick.TickRate]} seconds for {[Type_StatusEffectData.AI_Evil_Knight_Fire_Champion_DangerTick.BaseDuration]} seconds.</string>
+	<string key="AI_Evil_Knight_Ice_Mace_Slow_4sec_DisplayName" rel_version="Season_4_Perm">Slow</string>
+	<string key="AI_Evil_Knight_Ice_Mace_Slow_4sec_Tooltip" rel_version="Season_4_Perm">Movement speed reduced by {[Type_StatusEffectData.AI_Evil_Knight_Ice_Mace_Slow_4sec.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_Evil_Knight_Ice_Mace_Slow_4sec.BaseDuration]} seconds.</string>
 	<string key="AI_Evil_Knight_Mine_Burn_DisplayName">Burning</string>
 	<string key="AI_Evil_Knight_Mine_Burn_Tooltip">Burning for {[Type_StatusEffectData.AI_Evil_Knight_Mine_Burn.HealthModifierPercent * -100]}% base Fire damage per stack every {[Type_StatusEffectData.AI_Evil_Knight_Mine_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_Evil_Knight_Mine_Burn.BaseDuration]} seconds.</string>
+	<string key="AI_Season_04_IceGuardian_AncientChill_DisplayName" rel_version="Season_4_Trial">Ancient Chill</string>
+	<string key="AI_Season_04_IceGuardian_AncientChill_Tooltip" rel_version="Season_4_Trial">Chilled to the bone by being the primary threat of the boss.  Stamina regeneration reduced by {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.StaminaRate * -100]}% and incoming damage increased by {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.WKNStandard * 100]}% per stack for {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.BaseDuration]} seconds.</string>
+	<string key="AI_Season_04_IceGuardian_DeepFreeze_DisplayName" rel_version="Season_4_Trial">Deep Freeze</string>
+	<string key="AI_Season_04_IceGuardian_DeepFreeze_Tooltip" rel_version="Season_4_Trial">Lingering frost from the feezing wave.  Mana regeneration reduced by {[Type_StatusEffectData.AI_Season_04_IceGuardian_DeepFreeze.ManaRate * -100]}% for {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.BaseDuration]} seconds.</string>
+	<string key="AI_Season_04_IceGuardian_Entomb_Root_DisplayName" rel_version="Season_4_Trial">Icy Tomb</string>
+	<string key="AI_Season_04_IceGuardian_Entomb_Root_Tooltip" rel_version="Season_4_Trial">Frozen in a block of ice.  Unable to move or attack and taking {[Type_StatusEffectData.AI_Season_04_IceGuardian_Entomb_Root.HealthModifierPercent * -100]}% base health Ice damage every {[Type_StatusEffectData.AI_Season_04_IceGuardian_Entomb_Root.TickRate]} seconds for {[Type_StatusEffectData.AI_Season_04_IceGuardian_Entomb_Root.BaseDuration]} seconds.</string>
+	<string key="AI_Season_04_IceGuardian_FrostNova_Root_DisplayName" rel_version="Season_4_Trial">Frozen Soles</string>
+	<string key="AI_Season_04_IceGuardian_FrostNova_Root_Tooltip" rel_version="Season_4_Trial">The soles of your shoes are frozen and attached to the floor.  Unable to move for {[Type_StatusEffectData.AI_Season_04_IceGuardian_FrostNova_Root.BaseDuration]} seconds.</string>
+	<string key="AI_Season_04_IceGuardian_RuneFireDamageBuff_DisplayName" rel_version="Season_4_Trial">Firey Rune Empowerment</string>
+	<string key="AI_Season_04_IceGuardian_RuneFireDamageBuff_Tooltip" rel_version="Season_4_Trial">Buzzing with firey empowerment.  {[Type_StatusEffectData.AI_Season_04_IceGuardian_RuneFireDamageBuff.DMGFire * 100]}% increase in outgoing Fire damage per stack for {[Type_StatusEffectData.AI_Season_04_IceGuardian_RuneFireDamageBuff.BaseDuration]} seconds.</string>
+	<string key="AI_Season_04_IceGuardian_Hypothermia_DisplayName" rel_version="Season_4_Trial">Hypothermia</string>
+	<string key="AI_Season_04_IceGuardian_Hypothermia_Tooltip" rel_version="Season_4_Trial">Taking {[Type_StatusEffectData.AI_Season_04_IceGuardian_Hypothermia.HealthModifierPercent * -100]}% base health damage every {[Type_StatusEffectData.AI_Season_04_IceGuardian_Hypothermia.TickRate]} seconds.  Also being slowed by {[Type_StatusEffectData.AI_Season_04_IceGuardian_Hypothermia.MoveSpeedMod * -100]}% with {[Type_StatusEffectData.AI_Season_04_IceGuardian_Hypothermia.WKNIce * 100]}% increased Ice weakness per stack.</string>
+	<string key="AI_Season_04_IceGuardian_Hypothermia_Solo_DisplayName" rel_version="Season_4_Trial">Hypothermia</string>
+	<string key="AI_Season_04_IceGuardian_Hypothermia_Solo_Tooltip" rel_version="Season_4_Trial">Taking {[Type_StatusEffectData.AI_Season_04_IceGuardian_Hypothermia_Solo.HealthModifierPercent * -100]}% base health damage every {[Type_StatusEffectData.AI_Season_04_IceGuardian_Hypothermia_Solo.TickRate]} seconds.  Also being slowed by {[Type_StatusEffectData.AI_Season_04_IceGuardian_Hypothermia_Solo.MoveSpeedMod * -100]}% with {[Type_StatusEffectData.AI_Season_04_IceGuardian_Hypothermia_Solo.WKNIce * 100]}% increased Ice weakness per stack.</string>
+	<string key="AI_Season_04_IceGuardian_AncientFlameBearer_DisplayName" rel_version="Season_4_Trial">Ancient Flame Bearer</string>
+	<string key="AI_Season_04_IceGuardian_AncientFlameBearer_Tooltip" rel_version="Season_4_Trial">Bearing the ancient flame.  The flame offers protection against Hypothermia to the surrounding area.</string>
+	<string key="AI_Season_04_IceGuardian_AncientFlame_DisplayName" rel_version="Season_4_Trial">Ancient Flame</string>
+	<string key="AI_Season_04_IceGuardian_AncientFlame_Tooltip" rel_version="Season_4_Trial">Protects against and removes stacks of Hypothermia while also taking {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientFlame.ABSIce * 100]}% decreased Ice per stack</string>
+	<string key="AI_Season_04_IceGuardian_AncientFlameLingering_DisplayName" rel_version="Season_4_Trial">Lingering Ancient Flame</string>
+	<string key="AI_Season_04_IceGuardian_AncientFlameLingering_Tooltip" rel_version="Season_4_Trial">Lingering remnants of warmth.  Short protection against Hypothermia and taking {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientFlameLingering.ABSIce * 100]}% decreased Ice per stack</string>
+	<string key="AI_Season_04_IceGuardian_AncientFlameCooldown_DisplayName" rel_version="Season_4_Trial">Ancient Flame Bearer Exhaustion</string>
+	<string key="AI_Season_04_IceGuardian_AncientFlameCooldown_Tooltip" rel_version="Season_4_Trial">Weary from holding the Ancient Flame.  Unable to hold the Flame again for {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientFlameCooldown.BaseDuration]} seconds.</string>
+	<string key="AI_Season_04_IceGuardian_AncientFlameBearer_Solo_DisplayName" rel_version="Season_4_Trial">Ancient Flame Bearer</string>
+	<string key="AI_Season_04_IceGuardian_AncientFlameBearer_Solo_Tooltip" rel_version="Season_4_Trial">Bearing the ancient flame.  The flame offers protection against Hypothermia to the surrounding area.</string>
+	<string key="AI_Season_04_IceGuardian_AncientFlame_Solo_DisplayName" rel_version="Season_4_Trial">Ancient Flame</string>
+	<string key="AI_Season_04_IceGuardian_AncientFlame_Solo_Tooltip" rel_version="Season_4_Trial">Protects against and removes stacks of Hypothermia while also taking {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientFlame_Solo.ABSIce * 100]}% decreased Ice per stack</string>
+	<string key="AI_Season_04_IceGuardian_AncientFlameLingering_Solo_DisplayName" rel_version="Season_4_Trial">Lingering Ancient Flame</string>
+	<string key="AI_Season_04_IceGuardian_AncientFlameLingering_Solo_Tooltip" rel_version="Season_4_Trial">Lingering remnants of warmth.  Short protection against Hypothermia and taking {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientFlameLingering_Solo.ABSIce * 100]}% decreased Ice per stack</string>
+	<string key="AI_Season_04_IceGuardian_AncientFlameCooldown_Solo_DisplayName" rel_version="Season_4_Trial">Ancient Flame Bearer Exhaustion</string>
+	<string key="AI_Season_04_IceGuardian_AncientFlameCooldown_Solo_Tooltip" rel_version="Season_4_Trial">Weary from holding the Ancient Flame.  Unable to hold the Flame again for {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientFlameCooldown_Solo.BaseDuration]} seconds.</string>
 	<string key="AI_Poison_55_DisplayName">Poisoned</string>
 	<string key="AI_Poison_55_Tooltip">Poisoned for {[Type_StatusEffectData.AI_Poison_55.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Poison_55.HealthModifierPercent * -100]}% base health Nature damage every {[Type_StatusEffectData.AI_Poison_55.TickRate]} seconds for {[Type_StatusEffectData.AI_Poison_55.BaseDuration]} seconds.</string>
 	<string key="AI_Poison_Pool_DisplayName">Poisoned</string>
@@ -824,10 +867,28 @@
 	<string key="AI_AdmiralBrute_Blackpowder_Burn_Tooltip" rel_version="Expedition_CutlassKeys_00">Burning for {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.HealthModifierPercent * -100]}% base health Fire damage every {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.BaseDuration]} seconds.</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_DisplayName" rel_version="Expedition_CutlassKeys_00">Cannon Burn</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_Tooltip" rel_version="Expedition_CutlassKeys_00">Burning for {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.TickRate]} seconds.</string>
+	<string key="AI_Yeti_2022_IceDome_Empower_DisplayName" rel_version="Event_WinterConvergence_Temp">Bestial Strength</string>
+	<string key="AI_Yeti_2022_IceDome_Empower_Tooltip" rel_version="Event_WinterConvergence_Temp">Winter Warrior's damage increased by {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Empower.DMGStandard * 100]}%.</string>
+	<string key="AI_Yeti_2022_IceDome_Fortify_DisplayName" rel_version="Event_WinterConvergence_Temp">Winter's Endurance</string>
+	<string key="AI_Yeti_2022_IceDome_Fortify_Tooltip" rel_version="Event_WinterConvergence_Temp">Winter Warrior's damage absorption increased by {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Fortify.ABSStandard * 100]}%.</string>
+	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_DisplayName" rel_version="Event_WinterConvergence_Temp">The Forever Winter's Sting</string>
+	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_Tooltip" rel_version="Event_WinterConvergence_Temp">You are slowed and taking cold damage from the sting of the Forever Winter's magic.</string>
 	<string key="AI_FireNaga_Flamethrower_DoT_DisplayName" rel_version="Expedition_GreatCleave_01">Burning</string>
 	<string key="AI_FireNaga_Flamethrower_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.HealthModifierPercent * -100]}% max health of Fire damage every {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.TickRate]} seconds for {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.BaseDuration]} seconds.</string>
 	<string key="AI_FireNaga_LavaPool_DoT_DisplayName" rel_version="Expedition_GreatCleave_01">Burning Lava</string>
 	<string key="AI_FireNaga_LavaPool_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[Type_StatusEffectData.AI_FireNaga_LavaPool_DoT.HealthModifierPercent * -100]}% max health of Fire damage every {[Type_StatusEffectData.AI_FireNaga_LavaPool_DoT.TickRate]} second.</string>
+	<string key="AI_IceGolem_Bleed_DisplayName" rel_version="Expedition_GreatCleave_00">Bleeding</string>
+	<string key="AI_IceGolem_Bleed_Tooltip" rel_version="Expedition_GreatCleave_00">Bleeding for {[Type_StatusEffectData.AI_IceGolem_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_IceGolem_Bleed.TickRate]} seconds for {[Type_StatusEffectData.AI_IceGolem_Bleed.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_IceGolem_Bleed.StackMax]} times.</string>
+	<string key="AI_IceGolem_Exhaust_DisplayName" rel_version="Expedition_GreatCleave_00">Exhausted</string>
+	<string key="AI_IceGolem_Exhaust_ToolTip" rel_version="Expedition_GreatCleave_00">Stamina regeneration reduced by {[Type_StatusEffectData.AI_IceGolem_Exhaust.StaminaRate * -100]}%.</string>
+	<string key="AI_IceGolem_Slow_DisplayName" rel_version="Expedition_GreatCleave_00">Slow</string>
+	<string key="AI_IceGolem_Slow_Tooltip" rel_version="Expedition_GreatCleave_00">Movement speed reduced by {[Type_StatusEffectData.AI_IceGolem_Slow.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_IceGolem_Slow.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_IceGolem_Slow.StackMax]} times.</string>
+	<string key="AI_IceGolem_Slow_FrostBreath_DisplayName" rel_version="Expedition_GreatCleave_00">Slow</string>
+	<string key="AI_IceGolem_Slow_FrostBreath_Tooltip" rel_version="Expedition_GreatCleave_00">Movement speed reduced by {[Type_StatusEffectData.AI_IceGolem_Slow_FrostBreath.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_IceGolem_Slow_FrostBreath.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_IceGolem_Slow_FrostBreath.StackMax]} times.</string>
+	<string key="AI_IceGolem_Hypothermia_DisplayName" rel_version="Expedition_GreatCleave_00">Hypothermia</string>
+	<string key="AI_IceGolem_Hypothermia_Tooltip" rel_version="Expedition_GreatCleave_00">Damaging {[Type_StatusEffectData.AI_IceGolem_Hypothermia.HealthModifierPercent * -100]}% base health Ice damage every {[Type_StatusEffectData.AI_IceGolem_Hypothermia.TickRate]} seconds for {[Type_StatusEffectData.AI_IceGolem_Hypothermia.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_IceGolem_Hypothermia.StackMax]} times.</string>
+	<string key="AI_AncientGuardian_Bowman_Frosty_Rapid_Shot_DisplayName" rel_version="Season_4_Perm">Ice cloud</string>
+	<string key="AI_AncientGuardian_Bowman_Frosty_Rapid_Shot_Tooltip" rel_version="Season_4_Perm">Movement speed reduced by {[Type_StatusEffectData.AI_AncientGuardian_Bowman_Frosty_Rapid_Shot.MoveSpeedMod * -100]}%.</string>
 	<string key="AI_MotherwellElk_SE_Slow_DisplayName" rel_version="Quest_MSQ2_Edengrove">Slow</string>
 	<string key="AI_MotherwellElk_SE_Slow_Tooltip" rel_version="Quest_MSQ2_Edengrove">Movement speed reduced by {[Type_StatusEffectData.AI_MotherwellElk_SE_Slow.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_MotherwellElk_SE_Slow.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_MotherwellElk_SE_Slow.StackMax]} times.</string>
 	<string key="AI_MotherwellElk_SE_Bleed_DisplayName" rel_version="Quest_MSQ2_Edengrove">Bleeding</string>
@@ -886,6 +947,10 @@
 	<string key="godModeHealth_DisplayName">God Mode</string>
 	<string key="godModeAll_DisplayName">God Mode</string>
 	<string key="godModeAll_Description">Look at you! Surviving and obtaining all them god mode benefits. Have fun not dying.</string>
+	<string key="Empyrean_Flame_Buff_DisplayName">Empyrean Flame Empowered</string>
+	<string key="Empyrean_Flame_Buff_Description">The Primordial Magic of the Empyrean Forge runs through your veins.</string>
+	<string key="Frozen_Wind_Debuff_DisplayName">Primordial Frost</string>
+	<string key="Frozen_Wind_Debuff_Buff_Description">The Glacial Tarn's magic will freeze you to your core!</string>
 	<string key="bleeding_DisplayName">Wounding</string>
 	<string key="injury_DisplayName">Injury</string>
 	<string key="ShipwreckedShock_DisplayName">Shocked</string>
@@ -1319,8 +1384,6 @@
 	<string key="WeaponCoatingEffect_T4_AngryEarth_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingAngryEarthT4.DMGVitalsCategory * 100]}% damage to Angry Earth.</string>
 	<string key="WeaponCoatingEffect_T5_Beasts_DisplayName">Infused Beast Weapon Coating</string>
 	<string key="WeaponCoatingEffect_T5_Beasts_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingBeastT5.DMGVitalsCategory * 100]}% damage to Beasts.</string>
-	<string key="WeaponCoatingEffect_T5_BeastsTurkey_DisplayName" rel_version="Event_TurkeyTerror_Temp">Infused Turkey Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T5_BeastsTurkey_Description" rel_version="Event_TurkeyTerror_Temp">While this weapon is active deal more 300% damage to Turkulon and 15% to Beasts.</string>
 	<string key="WeaponCoatingEffect_T5_Ancient_DisplayName">Infused Ancient Weapon Coating</string>
 	<string key="WeaponCoatingEffect_T5_Ancient_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingAncientT5.DMGVitalsCategory * 100]}% damage to Ancients.</string>
 	<string key="WeaponCoatingEffect_T5_Lost_DisplayName">Infused Lost Weapon Coating</string>
@@ -1396,6 +1459,10 @@
 	<string key="Status_Flail_AllyDamageSplit_Self_Description" rel_version="Weapon_Flail">While this effect is active, a portion of the damage a nearby ally takes is transferred to a you.</string>
 	<string key="Status_Flail_Ultimate_Healing_DisplayName">Better Together</string>
 	<string key="Status_Flail_Ultimate_Healing_Description">You heal for {[Type_StatusEffectData.Status_Flail_Ultimate_HealOverTime.HealthModifierDamageBased * 100]}% of the flail wielder's weapon damage.</string>
+	<string key="Status_StaticCharge">Static Charge</string>
+	<string key="Status_StaticCharge_Description">If hit by an enemy wielding Boltcaster with 3 stacks active, you'll trigger a static discharge taking bonus damage.</string>
+	<string key="Status_StaticDischarge">Static Discharge</string>
+	<string key="Status_StaticDischarge_Description">Deals {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Bow_StaticDischarge.HealthModifierDamageBased * -100]}% of attacker's weapon damage.</string>
 	<string key="BlockBreakerDebuffPerk_DisplayName">Exhaust</string>
 	<string key="BlockSpeedPerk1_Description">Your movement speed is increased by {[Type_StatusEffectData.BlockSpeedPerk1.MoveSpeedMod * 100]}</string>
 	<string key="BlockSpeedPerk2_Description">Your movement speed is increased by {[Type_StatusEffectData.BlockSpeedPerk2.MoveSpeedMod * 100]}</string>
@@ -1695,6 +1762,7 @@
 	<string key="AI_Evil_Knight_Flamekeeper_Burn_Tooltip">Burning for {[Type_StatusEffectData.AI_Evil_Knight_Flamekeeper_Burn.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_Evil_Knight_Flamekeeper_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_Evil_Knight_Flamekeeper_Burn.BaseDuration]} seconds.</string>
 	<string key="AI_Evil_Knight_Gruntmaster_LavaBurn_DisplayName">Lava Burn</string>
 	<string key="AI_Evil_Knight_Gruntmaster_LavaBurn_Tooltip">Burning for {[Type_StatusEffectData.AI_Evil_Knight_Gruntmaster_LavaBurn.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_Evil_Knight_Gruntmaster_LavaBurn.TickRate]} seconds for {[Type_StatusEffectData.AI_Evil_Knight_Gruntmaster_LavaBurn.BaseDuration]} seconds.</string>
+	<string key="AI_Evil_Knight_IceNova_DisplayName" rel_version="Season_4_Perm">Ice Freeze</string>
 	<string key="RoadTravel_SprintBoost">Haste On Roads</string>
 	<string key="RoadTravel_SprintBoost_Description">Sprint Speed is increased by {[Type_StatusEffectData.Traversal_RoadSprintBoost_Haste.SprintSpeedMod * 100]}% while sprinting on roads</string>
 	<string key="OutOfCombat_PassiveRegen_Name">Peaceful Regen</string>
@@ -1894,6 +1962,12 @@
 	<string key="AI_ExplosiveSprout_FireExplosion_Tooltip" rel_version="Territory_FirstLight">Deals {[Type_StatusEffectData.AI_ExplosiveSprout_FireExplosion.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_ExplosiveSprout_FireExplosion.TickRate]} seconds.</string>
 	<string key="AI_ExplosiveSprout_PoisonExplosion_DisplayName" rel_version="Territory_FirstLight">Poisoned</string>
 	<string key="AI_ExplosiveSprout_PoisonExplosion_Tooltip" rel_version="Territory_FirstLight">Deals {[Type_StatusEffectData.AI_ExplosiveSprout_PoisonExplosion.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.AI_ExplosiveSprout_PoisonExplosion.TickRate]} seconds.</string>
+	<string key="AI_Evil_Knight_Ice_Arrow_Root_2sec_DisplayName" rel_version="Season_4_Perm">Frozen Toes</string>
+	<string key="AI_Evil_Knight_Ice_Arrow_Root_2sec_Tooltip" rel_version="Season_4_Perm">Frozen in place and unable to move for {[Type_StatusEffectData.AI_Evil_Knight_Ice_Arrow_Root_2sec.BaseDuration]} seconds.</string>
+	<string key="AI_Evil_Knight_SeasonsBeatings_DisplayName" rel_version="Season_4_Perm">Chilled</string>
+	<string key="AI_Evil_Knight_SeasonsBeatings_Description" rel_version="Season_4_Perm">Slowed for {[Type_StatusEffectData.AI_Evil_Knight_SeasonsBeatings.BaseDuration]} seconds.</string>
+	<string key="AI_Ice_Knight_IceyPummel_Stomp_DisplayName" rel_version="Season_4_Perm">Chilled</string>
+	<string key="AI_Ice_Knight_IceyPummel_Stomp_Description" rel_version="Season_4_Perm">Slowed for {[Type_StatusEffectData.AI_Ice_Knight_IceyPummel_Stomp.BaseDuration]} seconds.</string>
 	<string key="SpringtideBloom_SpringtideDram_MasterName">Springtide Dram</string>
 	<string key="SpringtideBloom_SpringtideCrumble_MasterName">Springtide Crumble</string>
 	<string key="SpringtideBloom_SpringtideWafer_MasterName">Springtide Wafer</string>
@@ -1905,6 +1979,12 @@
 	<string key="AI_Medusa_Poison_Tooltip" rel_version="Territory_FirstLight">Damages {[Type_StatusEffectData.AI_Medusa_Poison.HealthModifierPercent * -100]}% health.</string>
 	<string key="AI_Medusa_Poison_Pool_DisplayName" rel_version="Territory_FirstLight">Medusa's Poison</string>
 	<string key="AI_Medusa_Poison_Pool_Tooltip" rel_version="Territory_FirstLight">Damages {[Type_StatusEffectData.AI_Medusa_Poison_Pool.HealthModifierPercent * -100]}% health.</string>
+	<string key="PotionBoostIceAbsT3_DisplayName" rel_version="IceAbsorbPot">Ice Absorption I</string>
+	<string key="PotionBoostIceAbsT4_DisplayName" rel_version="IceAbsorbPot">Ice Absorption II</string>
+	<string key="PotionBoostIceAbsT5_DisplayName" rel_version="IceAbsorbPot">Ice Absorption III</string>
+	<string key="PotionBoostIceAbsT3_Tooltip" rel_version="IceAbsorbPot">Increases Ice Absorption by {[Type_StatusEffectData.PotionBoostIceAbsT3.ABSIce * 100]}%.</string>
+	<string key="PotionBoostIceAbsT4_Tooltip" rel_version="IceAbsorbPot">Increases Ice Absorption by {[Type_StatusEffectData.PotionBoostIceAbsT4.ABSIce * 100]}%.</string>
+	<string key="PotionBoostIceAbsT5_Tooltip" rel_version="IceAbsorbPot">Increases Ice Absorption by {[Type_StatusEffectData.PotionBoostIceAbsT5.ABSIce * 100]}%.</string>
 	<string key="SporeSickness_Description" rel_version="Territory_FirstLight_Spores">You are Spore Drenched! You feel a strange, tingly effect from inhaling the spores. Maybe there's a potion you should drink for this.</string>
 	<string key="SporeSickness_MasterName" rel_version="Territory_FirstLight_Spores">Spore Drenched</string>
 	<string key="SE_ArtemisBoonPotionD1_T1_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[Type_StatusEffectData.SE_ArtemisBoonPotionD1_T1.BaseDuration / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," deal 12% more damage and gain increased loot from creatures in the Elysian Wilds for {[Type_StatusEffectData.SE_ArtemisBoonSecondaryD1_T1.BaseDuration]} seconds.</string>
@@ -1990,5 +2070,7 @@
 	<string key="SE_MeshChange_Lost_Monarch_MasterName" rel_version="Event_Halloween2023_Perm">Lost Monarch Costume</string>
 	<string key="Mammoth_Boss_IceStorm_Slow_Tooltip" rel_version="Territory_FirstLight">Movement speed reduced by {[Type_StatusEffectData.Mammoth_Boss_IceStorm_Slow.SprintSpeedMod * -100]}% per stack.</string>
 	<string key="Mammoth_Boss_IceStorm_Slow_DisplayName" rel_version="Territory_FirstLight">Slowed</string>
+	<string key="Chameleon_Sticky_Slow_6sec_DisplayName" rel_version="Territory_FirstLight">Sticky</string>
+	<string key="Chameleon_Sticky_Slow_6sec_Tooltip" rel_version="Territory_FirstLight">Movement speed reduced by {[Type_StatusEffectData.Chameleon_Sticky_Slow_6sec.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.Chameleon_Sticky_Slow_6sec.BaseDuration]} seconds.</string>
 </resources>
 

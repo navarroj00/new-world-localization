@@ -11,6 +11,7 @@
 	<string key="ui_mount_trail_vfx" rel_version="Feature_Mounts">Mount Trail VFX</string>
 	<string key="ui_mount_summon_vfx" rel_version="Feature_Mounts">Mount Summon VFX</string>
 	<string key="ui_mount_summon_started" rel_version="Feature_Mounts">Summoning...</string>
+	<string key="ui_mount_summon_started_name" rel_version="Feature_Mounts">Summoning {name}...</string>
 	<string key="ui_mount_summon_timer_error_default" rel_version="Feature_Mounts">Cannot summon now</string>
 	<string key="ui_mount_summon_failed_on_cooldown" rel_version="Feature_Mounts">Summon ready in {time}</string>
 	<string key="ui_mount_summon_failed_generic" rel_version="Feature_Mounts">Summoning Failed</string>
@@ -157,47 +158,57 @@
 	<string key="ui_mounts_leftattachment" rel_version="Feature_Mounts">Left Attachment</string>
 	<string key="ui_mounts_rightattachment" rel_version="Feature_Mounts">Right Attachment</string>
 	<string key="ui_mounts_speed_bonus" rel_version="Feature_Mounts">MOUNT SPEED</string>
-	<string key="ui_mounts_MTX_1_horse_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Mighty Gregorious</string>
-	<string key="ui_mounts_MTX_1_wolf_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Ira</string>
-	<string key="ui_mounts_MTX_1_lion_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Argus</string>
-	<string key="ui_mounts_MTX_2_horse_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Solomon</string>
-	<string key="ui_mounts_MTX_2_wolf_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Amani</string>
-	<string key="ui_mounts_MTX_2_lion_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Evania</string>
-	<string key="ui_mounts_MTX_3_horse_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Atlas</string>
-	<string key="ui_mounts_MTX_3_wolf_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Charaka</string>
-	<string key="ui_mounts_MTX_3_lion_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Beatrix</string>
-	<string key="ui_mounts_MTX_4_horse_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Snow</string>
-	<string key="ui_mounts_MTX_4_wolf_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Blanca</string>
-	<string key="ui_mounts_MTX_4_lion_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Albus</string>
-	<string key="ui_mounts_MTX_5_horse_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Midnight</string>
-	<string key="ui_mounts_MTX_5_wolf_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Blake</string>
-	<string key="ui_mounts_MTX_5_lion_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Kumba</string>
-	<string key="ui_mounts_MTX_6_horse_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Spectrum</string>
-	<string key="ui_mounts_MTX_6_wolf_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Iridiana</string>
-	<string key="ui_mounts_MTX_6_lion_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Ngan</string>
-	<string key="ui_mounts_horse_name_1" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Mighty Gregorious</string>
-	<string key="ui_mounts_horse_name_1a" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Mighty Gregorious (FREE)</string>
-	<string key="ui_mount_horse_name_2" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Moonshadow</string>
-	<string key="ui_mount_horse_name_3" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Bartholomew</string>
-	<string key="ui_mount_horse_name_4" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Linnea</string>
-	<string key="ui_mount_horse_name_5" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Ebba</string>
-	<string key="ui_mount_horse_name_6" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Astrid</string>
-	<string key="ui_mount_horse_name_7" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Spectrum</string>
-	<string key="ui_mount_horse_name_8" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Rusty</string>
-	<string key="ui_mount_horse_name_9" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Midnight</string>
-	<string key="ui_mount_horse_name_10" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Cinnamon</string>
-	<string key="ui_mount_horse_name_11" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Vinicius</string>
+	<string key="ui_mounts_MTX_1_horse_name" rel_version="Feature_Mounts">Mighty Gregorious</string>
+	<string key="ui_mounts_MTX_1_wolf_name" rel_version="Feature_Mounts">Ira</string>
+	<string key="ui_mounts_MTX_1_lion_name" rel_version="Feature_Mounts">Argus</string>
+	<string key="ui_mounts_MTX_2_horse_name" rel_version="Feature_Mounts">Solomon</string>
+	<string key="ui_mounts_MTX_2_wolf_name" rel_version="Feature_Mounts">Amani</string>
+	<string key="ui_mounts_MTX_2_lion_name" rel_version="Feature_Mounts">Evania</string>
+	<string key="ui_mounts_MTX_3_horse_name" rel_version="Feature_Mounts">Atlas</string>
+	<string key="ui_mounts_MTX_3_wolf_name" rel_version="Feature_Mounts">Charaka</string>
+	<string key="ui_mounts_MTX_3_lion_name" rel_version="Feature_Mounts">Beatrix</string>
+	<string key="ui_mounts_MTX_4_horse_name" rel_version="Feature_Mounts">Snow</string>
+	<string key="ui_mounts_MTX_4_wolf_name" rel_version="Feature_Mounts">Blanca</string>
+	<string key="ui_mounts_MTX_4_lion_name" rel_version="Feature_Mounts">Albus</string>
+	<string key="ui_mounts_MTX_5_horse_name" rel_version="Feature_Mounts">Midnight</string>
+	<string key="ui_mounts_MTX_5_wolf_name" rel_version="Feature_Mounts">Blake</string>
+	<string key="ui_mounts_MTX_5_lion_name" rel_version="Feature_Mounts">Kumba</string>
+	<string key="ui_mounts_MTX_6_horse_name" rel_version="Feature_Mounts">Spectrum</string>
+	<string key="ui_mounts_MTX_6_wolf_name" rel_version="Feature_Mounts">Iridiana</string>
+	<string key="ui_mounts_MTX_6_lion_name" rel_version="Feature_Mounts">Ngan</string>
+	<string key="ui_mounts_MTX_7_horse_name" rel_version="Season_4_Perm">Felix</string>
+	<string key="ui_mounts_MTX_7_wolf_name" rel_version="Season_4_Perm">Smokey</string>
+	<string key="ui_mounts_MTX_7_lion_name" rel_version="Season_4_Perm">Alacer</string>
+	<string key="ui_mounts_horse_description_7" rel_version="Season_4_Perm">Felix wears his horned helm proudly. It boasts his might and majesty.</string>
+	<string key="ui_mounts_wolf_description_7" rel_version="Season_4_Perm">Smokey's stealth poise earnt him much acclaim. Enemies do not see him coming.</string>
+	<string key="ui_mounts_lion_description_7" rel_version="Season_4_Perm">Alacer's boundless energy defies laws of nature. Sleep is for the weak.</string>
+	<string key="ui_mounts_horse_name_1" rel_version="Feature_Mounts">Mighty Gregorious</string>
+	<string key="ui_mounts_horse_name_1a" rel_version="Feature_Mounts">Mighty Gregorious (FREE)</string>
+	<string key="ui_mount_horse_name_2" rel_version="Feature_Mounts">Moonshadow</string>
+	<string key="ui_mount_horse_name_3" rel_version="Feature_Mounts">Bartholomew</string>
+	<string key="ui_mount_horse_name_4" rel_version="Feature_Mounts">Linnea</string>
+	<string key="ui_mount_horse_name_5" rel_version="Feature_Mounts">Ebba</string>
+	<string key="ui_mount_horse_name_6" rel_version="Feature_Mounts">Astrid</string>
+	<string key="ui_mount_horse_name_7" rel_version="Feature_Mounts">Spectrum</string>
+	<string key="ui_mount_horse_name_8" rel_version="Feature_Mounts">Rusty</string>
+	<string key="ui_mount_horse_name_9" rel_version="Feature_Mounts">Midnight</string>
+	<string key="ui_mount_horse_name_10" rel_version="Feature_Mounts">Cinnamon</string>
+	<string key="ui_mount_horse_name_11" rel_version="Feature_Mounts">Vinicius</string>
 	<string key="ui_mounts_horse_name_test" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">TestHorse</string>
 	<string key="ui_mounts_keybind_toggle" rel_version="Feature_Mounts">Summon/Dismiss Mount</string>
 	<string key="ui_mounts_keybind_summon" rel_version="Feature_Mounts">Summon Mount</string>
-	<string key="ui_mounts_keybind_dismount_cancel_summon" rel_version="Feature_Mounts">Cancel Summon/Dismiss Mount</string>
 	<string key="ui_mounts_keybind_dash" rel_version="Feature_Mounts">Dash</string>
 	<string key="ui_mounts_keybind_jump" rel_version="Feature_Mounts">Jump</string>
+	<string key="ui_section_mounts" rel_version="Feature_Mounts">Mounts</string>
 	<string key="ui_mount_auto_road_follow" rel_version="Feature_Mounts">Mount Road Following</string>
-	<string key="ui_mount_auto_road_follow_desc" rel_version="Feature_Mounts">Mounts will automatically follow roads while auto-running</string>
+	<string key="ui_mount_auto_road_follow_desc" rel_version="Feature_Mounts">Set whether mounts will automatically follow roads while auto-running</string>
+	<string key="ui_mount_dash_toggle" rel_version="Feature_Mounts">Toggle Mount Dash</string>
+	<string key="ui_mount_dash_toggle_desc" rel_version="Feature_Mounts">Set whether to enable dashing on and off with a button press</string>
+	<string key="ui_mount_walk_speed" rel_version="Feature_Mounts">Reduce Mount Walk Speed</string>
+	<string key="ui_mount_walk_speed_desc" rel_version="Feature_Mounts">Set whether mount speed is reduced further while walking</string>
 	<string key="ui_mount_level_requirement_long" rel_version="Feature_Mounts">Riding Rank Required</string>
 	<string key="ui_mount_customize_keybinds_description" rel_version="Feature_Mounts">Allows Mount navigation keybinds to be independent of your character</string>
-	<string key="ui_mount_paperdoll_button_unlock" rel_version="Feature_Mounts">Requires {expansion_name} to access mounts. \n\nClick to purchase.</string>
+	<string key="ui_mount_paperdoll_button_unlock" rel_version="Feature_Mounts">Requires {expansion_name} to access mounts. \n\nSelect to purchase.</string>
 	<string key="ui_mount_selection_screen_unlock" rel_version="Feature_Mounts">Requires {expansionName}</string>
 	<string key="ui_mount_selection_screen_unlock_markup" rel_version="Feature_Mounts">Requires &lt;font color={color}&gt;{expansionName}&lt;/font&gt;</string>
 	<string key="ui_mount_selection_screen_unlock_level" rel_version="Feature_Mounts">Reach Level {level} and complete "{questName}" to unlock mounts</string>
@@ -208,41 +219,41 @@
 	<string key="ui_mount_no_mount_equipped" rel_version="Feature_Mounts">No Mount Equipped</string>
 	<string key="ui_mount_previewing" rel_version="Feature_Mounts">Previewing</string>
 	<string key="ui_mount_map_icon_description" rel_version="Feature_Mounts">Buy Mounts to explore Aeternum.</string>
-	<string key="Mount_Horse_PatternA1_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Ebba</string>
-	<string key="Mount_Horse_PatternA2_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Rusty</string>
-	<string key="Mount_Horse_PatternA3_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Astrid</string>
-	<string key="Mount_Horse_PatternA4_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Benson</string>
+	<string key="Mount_Horse_PatternA1_Name" rel_version="Feature_Mounts">Ebba</string>
+	<string key="Mount_Horse_PatternA2_Name" rel_version="Feature_Mounts">Rusty</string>
+	<string key="Mount_Horse_PatternA3_Name" rel_version="Feature_Mounts">Astrid</string>
+	<string key="Mount_Horse_PatternA4_Name" rel_version="Feature_Mounts">Benson</string>
 	<string key="Mount_Horse_PatternA4_description" rel_version="Feature_Mounts">Sold by the horse vendor who assures Benson's good nature and faithfulness is second to none.</string>
-	<string key="Mount_Horse_PatternA5_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Cinnamon</string>
-	<string key="Mount_Horse_PatternA6_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Spectrum</string>
-	<string key="Mount_Horse_PatternA7_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Vinicius</string>
-	<string key="Mount_Horse_PatternA8_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Golda</string>
+	<string key="Mount_Horse_PatternA5_Name" rel_version="Feature_Mounts">Cinnamon</string>
+	<string key="Mount_Horse_PatternA6_Name" rel_version="Feature_Mounts">Spectrum</string>
+	<string key="Mount_Horse_PatternA7_Name" rel_version="Feature_Mounts">Vinicius</string>
+	<string key="Mount_Horse_PatternA8_Name" rel_version="Feature_Mounts">Golda</string>
 	<string key="Mount_Horse_PatternA8_description" rel_version="Feature_Mounts">Golda's high opinion of themself is justifiable. They're both powerful and beautiful.</string>
-	<string key="Mount_Horse_PatternA9_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Silvia</string>
-	<string key="Mount_Wolf_PatternA1_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Chocolate</string>
-	<string key="Mount_Wolf_PatternA2_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Fox</string>
-	<string key="Mount_Wolf_PatternA3_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Anubuti</string>
-	<string key="Mount_Wolf_PatternA4_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Togo</string>
-	<string key="Mount_Wolf_PatternA5_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Cooper</string>
-	<string key="Mount_Wolf_PatternA6_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Runa</string>
+	<string key="Mount_Horse_PatternA9_Name" rel_version="Feature_Mounts">Silvia</string>
+	<string key="Mount_Wolf_PatternA1_Name" rel_version="Feature_Mounts">Chocolate</string>
+	<string key="Mount_Wolf_PatternA2_Name" rel_version="Feature_Mounts">Fox</string>
+	<string key="Mount_Wolf_PatternA3_Name" rel_version="Feature_Mounts">Anubuti</string>
+	<string key="Mount_Wolf_PatternA4_Name" rel_version="Feature_Mounts">Togo</string>
+	<string key="Mount_Wolf_PatternA5_Name" rel_version="Feature_Mounts">Cooper</string>
+	<string key="Mount_Wolf_PatternA6_Name" rel_version="Feature_Mounts">Runa</string>
 	<string key="Mount_Wolf_PatternA6_description" rel_version="Feature_Mounts">Runa's mighty appetite keeps the food bill totting up. Perhaps that's why the vendor is willing to sell such a magnificent beast.</string>
-	<string key="Mount_Wolf_PatternA7_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Bloodfeast</string>
-	<string key="Mount_Wolf_PatternA8_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Bolt</string>
-	<string key="Mount_Wolf_PatternA9_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Ash</string>
-	<string key="Mount_Wolf_PatternA10_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Wolfgang</string>
+	<string key="Mount_Wolf_PatternA7_Name" rel_version="Feature_Mounts">Bloodfeast</string>
+	<string key="Mount_Wolf_PatternA8_Name" rel_version="Feature_Mounts">Bolt</string>
+	<string key="Mount_Wolf_PatternA9_Name" rel_version="Feature_Mounts">Ash</string>
+	<string key="Mount_Wolf_PatternA10_Name" rel_version="Feature_Mounts">Wolfgang</string>
 	<string key="Mount_Wolf_PatternA10_description" rel_version="Feature_Mounts">Wolfgang is the strong, silent type. Until they unleash their deafening howl.</string>
-	<string key="Mount_Lion_PatternA1_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Kodger</string>
+	<string key="Mount_Lion_PatternA1_Name" rel_version="Feature_Mounts">Kodger</string>
 	<string key="Mount_Lion_PatternA1_description" rel_version="Feature_Mounts">Kodger's sandy orange fur is their source of pride, hence they like to keep it clean.</string>
-	<string key="Mount_Lion_PatternA2_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Yae Hua</string>
-	<string key="Mount_Lion_PatternA3_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Nhalla</string>
-	<string key="Mount_Lion_PatternA4_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Raaj</string>
-	<string key="Mount_Lion_PatternA5_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Alexandre</string>
-	<string key="Mount_Lion_PatternA6_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Leon</string>
-	<string key="Mount_Lion_PatternA7_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Priscilla</string>
-	<string key="Mount_Lion_PatternA8_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Sebastian</string>
-	<string key="Mount_Lion_PatternA9_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Scurge</string>
+	<string key="Mount_Lion_PatternA2_Name" rel_version="Feature_Mounts">Yae Hua</string>
+	<string key="Mount_Lion_PatternA3_Name" rel_version="Feature_Mounts">Nhalla</string>
+	<string key="Mount_Lion_PatternA4_Name" rel_version="Feature_Mounts">Raaj</string>
+	<string key="Mount_Lion_PatternA5_Name" rel_version="Feature_Mounts">Alexandre</string>
+	<string key="Mount_Lion_PatternA6_Name" rel_version="Feature_Mounts">Leon</string>
+	<string key="Mount_Lion_PatternA7_Name" rel_version="Feature_Mounts">Priscilla</string>
+	<string key="Mount_Lion_PatternA8_Name" rel_version="Feature_Mounts">Sebastian</string>
+	<string key="Mount_Lion_PatternA9_Name" rel_version="Feature_Mounts">Scurge</string>
 	<string key="Mount_Lion_PatternA9_description" rel_version="Feature_Mounts">Scurge has a certain majestic quality making them the envy of the pride.</string>
-	<string key="Mount_Lion_PatternA10_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Godfrey</string>
+	<string key="Mount_Lion_PatternA10_Name" rel_version="Feature_Mounts">Godfrey</string>
 	<string key="Mount_Lion_PatternA10_description" rel_version="Feature_Mounts">Godfrey's always been lucky even as a cub. May their good fortune rub off on you.</string>
 </resources>
 

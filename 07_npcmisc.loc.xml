@@ -1,48 +1,48 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="0707_Commander" comment="female" gender="F">Gyorgyi Beluz</string>
+	<string key="0707_Commander" comment="female">Gyorgyi Beluz</string>
 	<string key="0707_Commander_Title">Marauder Commander</string>
-	<string key="0708_Alchemist" comment="male" gender="M">Quon Teo</string>
+	<string key="0708_Alchemist" comment="male">Quon Teo</string>
 	<string key="0708_Alchemist_Title">Syndicate Alchemist</string>
-	<string key="0709_Adjudicator" comment="female" gender="F">Zuzanna Maras</string>
+	<string key="0709_Adjudicator" comment="female">Zuzanna Maras</string>
 	<string key="0709_Adjudicator_Title">Covenant Adjudicator</string>
-	<string key="0712_Watcher" comment="male" gender="M">Tahir Fayed</string>
+	<string key="0712_Watcher" comment="male">Tahir Fayed</string>
 	<string key="0712_Watcher_Title">Soulwarden Watcher</string>
-	<string key="0713_Watcher" comment="female" gender="F">Nora Linch</string>
+	<string key="0713_Watcher" comment="female">Nora Linch</string>
 	<string key="0713_Watcher_Title">Soulwarden Watcher</string>
-	<string key="0714_Watcher" comment="male" gender="M">Leyson Reese</string>
+	<string key="0714_Watcher" comment="male">Leyson Reese</string>
 	<string key="0714_Watcher_Title">Soulwarden Watcher</string>
-	<string key="0715_Watcher" comment="female" gender="F">Charity Douglas</string>
+	<string key="0715_Watcher" comment="female">Charity Douglas</string>
 	<string key="0715_Watcher_Title">Soulwarden Watcher</string>
-	<string key="0716_Warden" comment="male" gender="M">Ndidi Tinibu</string>
+	<string key="0716_Warden" comment="male">Ndidi Tinibu</string>
 	<string key="0716_Warden_Title">Soulwarden Sentry</string>
-	<string key="0717_Warden" comment="female" gender="F">Yseult Meredith</string>
+	<string key="0717_Warden" comment="female">Yseult Meredith</string>
 	<string key="0717_Warden_Title">Soulwarden Sentry</string>
-	<string key="0718_Ranger" comment="male" gender="M">Girish Herath</string>
+	<string key="0718_Ranger" comment="male">Girish Herath</string>
 	<string key="0718_Ranger_Title">Ranger of Shattered Mountain</string>
-	<string key="0719_Ranger" comment="female" gender="F">Eintou Madaki</string>
+	<string key="0719_Ranger" comment="female">Eintou Madaki</string>
 	<string key="0719_Ranger_Title">Ranger of Shattered Mountain</string>
-	<string key="0720_Ranger" comment="male" gender="M">Leander Rochford</string>
+	<string key="0720_Ranger" comment="male">Leander Rochford</string>
 	<string key="0720_Ranger_Title">Ranger of Shattered Mountain</string>
-	<string key="0721_Ranger" comment="female" gender="F">Sidonie Demir</string>
+	<string key="0721_Ranger" comment="female">Sidonie Demir</string>
 	<string key="0721_Ranger_Title">Ranger of Shattered Mountain</string>
-	<string key="0722_Innkeep" comment="male" gender="M">Sadik Hamid</string>
+	<string key="0722_Innkeep" comment="male">Sadik Hamid</string>
 	<string key="0722_Innkeep_Title">Innkeeper of the Last Beacon</string>
-	<string key="0723_Innkeep" comment="female" gender="F">Nia Jelani</string>
+	<string key="0723_Innkeep" comment="female">Nia Jelani</string>
 	<string key="0723_Innkeep_Title">Innkeeper of the Riven Shield</string>
-	<string key="0724_Fisher" comment="male" gender="M">Konrad Bernard</string>
+	<string key="0724_Fisher" comment="male">Konrad Bernard</string>
 	<string key="0724_Fisher_Title">Master Fisher of Shattered Mountain</string>
-	<string key="0725_Prospector" comment="male" gender="M">Po-Chen Yang</string>
+	<string key="0725_Prospector" comment="male">Po-Chen Yang</string>
 	<string key="0725_Prospector_Title">Outpost Rush Prospector</string>
-	<string key="NPC_Heretic" comment="male" gender="M" rel_version="Expedition_ShatterMtn_00">Heretic</string>
+	<string key="NPC_Heretic" comment="male" rel_version="Expedition_ShatterMtn_00">Heretic</string>
 	<string key="NPC_Heretic_Title" rel_version="Expedition_ShatterMtn_00">Nedenyek's Old Vessel</string>
-	<string key="NPC_FatherRusso" comment="male" gender="M" rel_version="Expedition_ShatterMtn_00">Father Russo</string>
+	<string key="NPC_FatherRusso" comment="male" rel_version="Expedition_ShatterMtn_00">Father Russo</string>
 	<string key="NPC_FatherRusso_Title" rel_version="Expedition_ShatterMtn_00">Nedenyek's New Vessel</string>
-	<string key="0726_MaraRosa" comment="female" gender="F" rel_version="Expedition_ShatterMtn_00">Mara Rosa</string>
+	<string key="0726_MaraRosa" comment="female" rel_version="Expedition_ShatterMtn_00">Mara Rosa</string>
 	<string key="0726_MaraRosa_Title" rel_version="Expedition_ShatterMtn_00">Excommunicated Nun</string>
-	<string key="0727_BookOfIsabella" comment="UI" gender="UI" rel_version="Expedition_ShatterMtn_00">Book of Isabella</string>
+	<string key="0727_BookOfIsabella" comment="UI" rel_version="Expedition_ShatterMtn_00">Book of Isabella</string>
 	<string key="0727_BookOfIsabella_Title" rel_version="Expedition_ShatterMtn_00">Chronicles of Isabella De Leon</string>
 	<string key="0727_BookOfIsabella_Interact" rel_version="Expedition_ShatterMtn_00">Read</string>
-	<string key="0728_Kesava" comment="female" gender="F" rel_version="Expedition_ShatterMtn_00">Kesava Saraswati</string>
-	<string key="0728_Kesava_Title" rel_version="Expedition_ShatterMtn_00">Mystic</string>
+	<string key="0728_Kesava" comment="female">Kesava Saraswati</string>
+	<string key="0728_Kesava_Title">Mystic</string>
 </resources>
 

@@ -11,7 +11,7 @@
 	<string key="ui_receivedgroupinvite_hide" comment="">Hide</string>
 	<string key="ui_togglepvpblocked_title" comment="">PvP Flag Warning</string>
 	<string key="ui_togglepvpblocked_pvpinactive" rel_version="Feature_Alt_Character_Protection" comment="">You are currently not able to turn on your PvP flag because you are PvP inactive. You will be able to switch to PvP active in: {timeRemainingShorthand}.\nIf you have recently deleted your PvP active character, please wait 15 minutes and relog to made PvP active.</string>
-	<string key="ui_togglepvpblocked_pvpinactive_canswitch" rel_version="Feature_Alt_Character_Protection" comment="">You are currently not able to turn on your PvP flag because you are PvP inactive. Would you like to switch to PvP active? \n\n Doing so will remove your current PvP active character from any wars they are signed up for and fail any active PvP missions.</string>
+	<string key="ui_togglepvpblocked_pvpinactive_canswitch" rel_version="Feature_Alt_Character_Protection" comment="">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;This character is NOT currently PvP Active.&lt;/font&gt;\n\nWould you like to switch this character to PvP active?\n\nDoing so will remove your current PvP active character from any war rosters, fail any active PvP missions, and start a cooldown before you can switch PvP Active Characters again.</string>
 	<string key="ui_togglepvpblocked_ingroup" comment="">PvP and PvE players cannot be grouped together. Changing your PvP flagging will kick you from this group.\n\nAre you sure you want to change your PvP flag?</string>
 	<string key="ui_togglepvpblocked_pendinginvites" comment="">Changing your PvP flagging will rescind all of your pending group invites.\n\nAre you sure you want to change your PvP flag?</string>
 	<string rel_version="Feature_Group_Finder" key="ui_togglepvpblocked_ingroupfindergroup" comment="">PvP and PvE players cannot be in the same Lobby. Changing your PvP flagging will kick you from this Lobby.\n\nAre you sure you want to change your PvP flag?</string>
@@ -285,7 +285,6 @@
 	<string rel_version="Trial_Brimstone_Sandworm" key="ui_raidgroup_whatisraids_tooltip">A raid allows up to {maxRaidSize} players to group up for PvP and PvE activities and is required to enter Elite Trials.</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_raidgroup_whatisraids_tooltip_trimmed">A raid allows up to {maxRaidSize} players to group up for PvP and PvE activities.</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_pvp_raid" comment="">PvP Raid</string>
-	<string rel_version="Feature_Raid_Groups" key="ui_raid" comment="">Raid</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_raid_member" comment="">Group {groupNumber}, Raid Member</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_raid_manage_invite" comment="">Invite</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_leftraidmessage" comment="">Left Raid</string>

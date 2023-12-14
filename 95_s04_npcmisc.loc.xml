@@ -1,2 +1,35 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="95_s04_Quam" gender="Male" rel_version="Season_4_Temp">Quam Okpara</string>
+	<string key="95_s04_Quam_t" rel_version="Season_4_Temp">Village Headman</string>
+	<string key="95_s04_Elsa" gender="Female" rel_version="Season_4_Temp">Elsa Persson</string>
+	<string key="95_s04_Elsa_t" rel_version="Season_4_Temp">Prisoner</string>
+	<string key="95_s04_Elsaf" gender="Female" rel_version="Season_4_Temp">Frozen prisoner</string>
+	<string key="95_s04_Elsa_tf" rel_version="Season_4_Temp">Stranger</string>
+	<string key="95_s04_Shen" gender="Male" rel_version="Season_4_Temp">Shen Mao</string>
+	<string key="95_s04_Shen_t" rel_version="Season_4_Temp">Prisoner</string>
+	<string key="95_s04_Shenf" gender="Male" rel_version="Season_4_Temp">Frozen prisoner</string>
+	<string key="95_s04_Shen_tf" rel_version="Season_4_Temp">Stranger</string>
+	<string key="95_s04_Adolfo_t" rel_version="Season_4_Temp">Scholar</string>
+	<string key="95_s04_MagicDoor" gender="Male" rel_version="Season_4_Temp">Magic Door</string>
+	<string key="95_s04_MagicDoor_t" rel_version="Season_4_Temp">Ward</string>
+	<string key="95_s04_Ao" gender="Male" rel_version="Season_4_Perm">Ao Wei</string>
+	<string key="95_s04_Ao_t" rel_version="Season_4_Perm">Healer</string>
+	<string key="95_s04_Mordred" gender="Male" rel_version="Season_4_Temp">Ser Mordred</string>
+	<string key="95_s04_Mordred_t" rel_version="Season_4_Temp">Knight</string>
+	<string key="95_s04_Mordred_unknown" gender="Male" rel_version="Season_4_Temp">Varangian commander</string>
+	<string key="95_s04_Mordred_unknown_t" rel_version="Season_4_Temp">Stranger</string>
+	<string key="95_s04_Mordredguard1" gender="Male" rel_version="Season_4_Temp">Varangian brute</string>
+	<string key="95_s04_Mordredguard1_t" rel_version="Season_4_Temp">Stranger</string>
+	<string key="95_s04_Mordredguard2" gender="Male" rel_version="Season_4_Temp">Varangian spellcaster</string>
+	<string key="95_s04_Mordredguard2_t" rel_version="Season_4_Temp">Stranger</string>
+	<string key="95_s04_Daichi" gender="Male" rel_version="Season_4_Perm">Daichi Saito</string>
+	<string key="95_s04_Daichi_t" rel_version="Season_4_Perm">Warrior Monk</string>
+	<string key="95_s04_Daichi_t2" rel_version="Season_4_Perm">Silver Crow</string>
+	<string key="95_s04_Morgaine" gender="Female" rel_version="Season_4_Temp">Morgaine</string>
+	<string key="95_s04_Morgaine_t" rel_version="Season_4_Temp">Sorceress</string>
+	<string key="95_s04_Egilhard" gender="Female" rel_version="Season_4_Temp">Egilhard Frye</string>
+	<string key="95_s04_Egilhard_t" rel_version="Season_4_Temp">Villager</string>
+	<string key="95_s04_Cambria" gender="Female" rel_version="Season_4_Temp">Cambria Albus</string>
+	<string key="95_s04_Cambria_t" rel_version="Season_4_Temp">Villager</string>
+</resources>
 

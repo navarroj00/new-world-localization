@@ -63,8 +63,8 @@
 	<string key="tip_overworld_combat_weaponCoatings01-content">Weapon Coatings are powerful, short-term buffs that you apply to a weapon to give yourself an advantage against a certain family of enemies, such as the Corrupted or the Ancients. Coatings work on ranged and magical weapons, too!</string>
 	<string key="tip_overworld_combat_grit01-title">Grit</string>
 	<string key="tip_overworld_combat_grit01-content">If a character glows White during an attack, they can't be interrupted, except by Crowd Control Status Effects (Slow, Root, and Stun).</string>
-	<string key="tip_overworld_combat_swordAndShield01-title">The Sword and Shield</string>
-	<string key="tip_overworld_combat_swordAndShield01-content">The Shield's stats only benefit the player if a Sword is equipped.</string>
+	<string key="tip_overworld_combat_swordAndShield01-title">The Offhand Shield</string>
+	<string key="tip_overworld_combat_swordAndShield01-content">Shield perks are only active if the shield is unsheathed.</string>
 	<string key="tip_overworld_combat_rapier01-title">The Rapier</string>
 	<string key="tip_overworld_combat_rapier01-content">The Rapier's speedy cuts pair well with other Intelligence-based weapons such as Staves and Gauntlets.</string>
 	<string key="tip_overworld_combat_hatchet01-title">The Hatchet</string>
@@ -138,7 +138,7 @@
 	<string key="tip_overworld_equipment_equipmentLoad01-title">Equipment</string>
 	<string key="tip_overworld_equipment_equipmentLoad01-content">Your Equipment Load determines how you will Dodge. A LIGHT Equipment Load will allow you to roll out of danger when Dodging.</string>
 	<string key="tip_overworld_equipment_skins01-title">Item Skins</string>
-	<string key="tip_overworld_equipment_skins01-content">To equip a skin, Left-Click a weapon or piece of armor in your Inventory and select the "Change Skin" option to equip any skin you own for that item.</string>
+	<string key="tip_overworld_equipment_skins01-content">To equip a skin, select a weapon or piece of armor in your Inventory and select the "Change Skin" option to equip any skin you own for that item.</string>
 	<string key="tip_overworld_equipment_dyes01-title">Dyes</string>
 	<string key="tip_overworld_equipment_dyes01-content">Dye can be applied to different parts of each item. Make sure you try out different combinations before committing to a color scheme.</string>
 	<string key="tip_overworld_equipment_rarity01-title">Utility Determines Value</string>
@@ -154,7 +154,7 @@
 	<string key="tip_overworld_equipment_repairing01-title">Quick Repair and Salvage</string>
 	<string key="tip_overworld_equipment_repairing01-content">Press the Hotkey Shortcut to Repair or Salvage an item in one click. [{hint1}] + Left-Click for quick Repair and [{hint2}] + Left-Click for quick Salvage.</string>
 	<string key="tip_overworld_equipment_lockingItems01-title">Locking Items</string>
-	<string key="tip_overworld_equipment_lockingItems01-content">Prevent Salvaging items in your Inventory by clicking the item and selecting "Lock" [{hint1}]. A lock icon will appear on the item when it is locked.</string>
+	<string key="tip_overworld_equipment_lockingItems01-content">Prevent items from being salvaged by selecting the item in your Inventory and choosing "Lock" [{hint1}]. A lock icon will appear on the item when it is locked.</string>
 	<string key="tip_overworld_factions_types01-title">Syndicate</string>
 	<string key="tip_overworld_factions_types01-content">Clever disciples who fight with cunning for the sake of truth and progress.</string>
 	<string key="tip_overworld_factions_types02-title">Marauders</string>
@@ -216,7 +216,7 @@
 	<string key="tip_overworld_fishing_mechanics04-title">Fishing</string>
 	<string key="tip_overworld_fishing_mechanics04-content">Any Bait will decrease the time taken to get bites.</string>
 	<string key="tip_overworld_fishing_mechanics05-title">Fishing</string>
-	<string key="tip_overworld_fishing_mechanics05-content">Press [{hint1}] to enter Fishing Mode, then Left-Click to cast.</string>
+	<string key="tip_overworld_fishing_mechanics05-content">Press [{hint1}] to enter Fishing Mode.</string>
 	<string key="tip_overworld_fishing_poles01-title">Fishing</string>
 	<string key="tip_overworld_fishing_poles01-content">Better fishing poles can cast further, have higher durability, faster line tension recovery, and increased chance of catching rarer fish.</string>
 	<string key="tip_overworld_fishing_poles02-title">Fishing</string>
@@ -300,7 +300,7 @@
 	<string key="tip_overworld_movement_compass01-title">Tracking Resources</string>
 	<string key="tip_overworld_movement_compass01-content">Increasing certain Trade Skills will unlock higher levels of Resource Tracking on your Compass.</string>
 	<string key="tip_overworld_movement_map01-title">Waypoints</string>
-	<string key="tip_overworld_movement_map01-content">If you're headed somewhere specific, open the map [{hint1}] and Right-Click the destination to place a point. This will appear on the compass to help guide you.</string>
+	<string key="tip_overworld_movement_map01-content">If you're headed somewhere specific, open the map [{hint1}] to place a waypoint at your destination. This will appear on the compass to help guide you.</string>
 	<string key="tip_overworld_movement_lore01-title">Lore Pages</string>
 	<string key="tip_overworld_movement_lore01-content">Feed your head! Reading Lore Pages on Aeternum awards XP!</string>
 	<string key="tip_overworld_pings_contextualPings01-title">Contextual Pings</string>
@@ -502,7 +502,7 @@
 	<string key="tip_outpostRush_general02-title">Outpost Rush</string>
 	<string key="tip_outpostRush_general02-content">Gather infused wood, ore, and hides to upgrade your outposts by building gates and siege weapons. Build a command post to gain powerful offensive and defensive boosts for your team.</string>
 	<string key="tip_outpostRush_general03-title">Outpost Rush</string>
-	<string key="tip_outpostRush_general03-content">Use summoning stones to summon powerful allies at summoning circles. Summon a bear by buying a stone from the armory or gain an ultra-powerful brute ally by donating Azoth at the corrupted portal.</string>
+	<string key="tip_outpostRush_general03-content">Use summoning stones to summon powerful allies at summoning circles. Defeat key enemies to acquire Bear and Specter summons or gain an ultra-powerful Brute ally by clearing the corrupted portal.</string>
 	<string key="tip_outpostRush_general04-title">Outpost Rush</string>
 	<string key="tip_outpostRush_general04-content">Baroness Hain is the ghost of a long dead noble that haunts the island. Slay her to gain a powerful buff that increases the defense of your team and freezes the enemy score!</string>
 	<string key="tip_pvpArena_general01-title" rel_version="Feature_PVP_Arenas">Through the Fire and Flames</string>

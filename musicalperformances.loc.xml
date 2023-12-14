@@ -127,7 +127,7 @@
 	<string key="MusicBuff_FortunesFavor_Desc" rel_version="Feature_MusicalPerformances">Increases yield when gathering.</string>
 	<string key="MusicBuff_LucksLabor_Desc" rel_version="Feature_MusicalPerformances">Increases luck when gathering.</string>
 	<string key="MusicBuff_DecidedlyDexterous_Desc" rel_version="Feature_MusicalPerformances">Increases gathering speed.</string>
-	<string key="MusicBuff_NeverStopLearning_Desc" rel_version="Feature_MusicalPerformances">Increases XP gain for Mining, Logging, Skinning and Harvesting.</string>
+	<string key="MusicBuff_NeverStopLearning_Desc" rel_version="Feature_MusicalPerformances">Increases XP for non-Fishing gathering tradeskills.</string>
 	<string key="ui_casual" rel_version="Feature_MusicalPerformances">Casual</string>
 	<string key="ui_music" rel_version="Feature_MusicalPerformances">Music</string>
 	<string key="ui_unlocked_at" rel_version="Feature_MusicalPerformances">Unlocked at</string>

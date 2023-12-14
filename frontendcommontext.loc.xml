@@ -178,7 +178,7 @@
 	<string key="mm_rejected_No_Ghost_Client">Server error: Failed to start replication.</string>
 	<string key="mm_rejected_Server_Crash">Unexpectedly lost contact with gameplay server. Reconnecting...</string>
 	<string key="mm_rejected_Free_Session_Expired_Title">Free Play Time Expired.</string>
-	<string key="mm_rejected_Free_Session_Expired">Your free play time has come to an end. Click Ok to return to the Main Menu.</string>
+	<string key="mm_rejected_Free_Session_Expired">Your free play time has come to an end. You will be returned to the Main Menu.</string>
 	<string key="mm_rejected_Client_Kicked_Login_Ticket_Error">Login ticket is not valid for the world</string>
 	<string key="mm_rejected_Player_Not_Entitled_To_World">Access denied: Not entitled to this game world.</string>
 	<string key="mm_rejected_Matchmaking_Login">Log back in to join the match.</string>
@@ -187,7 +187,7 @@
 	<string key="mm_rejected_Client_Kicked_AFK">You have been kicked from the game for being away too long.</string>
 	<string key="mm_rejected_Client_Kicked_DuplicateSession">Your account has connected from another game session.</string>
 	<string key="mm_rejected_Client_Kicked_CharacterDeactivated">Your character has been removed.</string>
-	<string key="mm_rejected_Client_Kicked_Maintenance">The world is now under maintenance. While under maintenance, the world will be unavailable. Please click "OK" to return to the Main Menu.</string>
+	<string key="mm_rejected_Client_Kicked_Maintenance">The world is now under maintenance and will be unavailable. You will be returned to the Main Menu.</string>
 	<string key="mm_rejected_Client_Kicked_Abuse">Kicked because your behavior is bad, and you should feel bad.</string>
 	<string key="mm_rejected_Client_Kicked_Banned">You have been banned.</string>
 	<string key="mm_rejected_Client_Kicked_BannedHacking">Hacking</string>
@@ -305,6 +305,7 @@
 	<string key="loadingScreen_ingame_ancient08">LOADING</string>
 	<string key="ui_cantDropMissionItem">Cannot drop mission items</string>
 	<string key="ui_cantDropLockedItem">Cannot drop locked items</string>
+	<string key="ui_cantDropGameModeItem">Game mode items can only be dropped on death</string>
 	<string key="ui_navmenu_progression">CHARACTER</string>
 	<string key="ui_bio">Bio</string>
 	<string key="ui_attributes">Attributes</string>
@@ -465,7 +466,6 @@
 	<string key="ui_fishing_equip_action">Fishing Mode</string>
 	<string key="ui_fishing_action">Cast / Hook / Reel</string>
 	<string key="ui_fishing_reset_action">Reset Cast / Exit</string>
-	<string key="ui_riding" rel_version="Feature_Mounts">Riding</string>
 	<string key="ui_performances" rel_version="Feature_MusicalPerformances">Music</string>
 	<string key="ui_performances_toggle" rel_version="Feature_MusicalPerformances">Performance Mode</string>
 	<string key="ui_performances_start" rel_version="Feature_MusicalPerformances">Play</string>

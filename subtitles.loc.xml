@@ -151,15 +151,15 @@
 	<string key="Torment_Romanos_Defeat" speaker="Romanos Agallon" comment="Enc_Quest_99A_MSQ_09_Torment.slice " rel_version="Quest_MSQ2_Revamp">Stay... behind me...</string>
 	<string key="Torment_Soulwardens_Spawn" speaker="Torment of the Soulwardens" comment="Enc_Quest_99A_MSQ_09_Torment.slice " rel_version="Quest_MSQ2_Revamp">Soulwardens! To arms!</string>
 	<string key="Torment_Soulwardens_Defeat" speaker="Torment of the Soulwardens" comment="Enc_Quest_99A_MSQ_09_Torment.slice " rel_version="Quest_MSQ2_Revamp">Never... surrender...</string>
-	<string key="Heartforge_Guardian_CombatBark_01" speaker="Heartforge Guardian" comment="AI_Heartforge_Guardian.slice" rel_version="Quest_MSQ2_Revamp">You tread on sacred ground. Begone.</string>
-	<string key="Heartforge_Guardian_CombatBark_02" speaker="Heartforge Guardian" comment="AI_Heartforge_Guardian.slice" rel_version="Quest_MSQ2_Revamp">Turn back now. Only death awaits you here.</string>
-	<string key="Heartforge_Guardian_CombatBark_03" speaker="Heartforge Guardian" comment="AI_Heartforge_Guardian.slice" rel_version="Quest_MSQ2_Revamp">We see your strength. Approach the Forge and embrace your destiny.</string>
-	<string key="Overseer_Zane_CombatBark_01" speaker="Overseer Zane" comment="AI_Overseer_Zane.slice" rel_version="Quest_MSQ2_Revamp">PH TEXT: Your power shall be mine!</string>
-	<string key="Overseer_Zane_CombatBark_02" speaker="Overseer Zane" comment="AI_Overseer_Zane.slice" rel_version="Quest_MSQ2_Revamp">PH TEXT: Power...overwhelming....</string>
-	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_Spawn" speaker="Overseer Zane" comment="AI_Overseer_Zane.slice" rel_version="Quest_MSQ2_Revamp">Your arrogance will be your end.</string>
-	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_EngageTendrils" speaker="Overseer Zane" comment="AI_Overseer_Zane.slice" rel_version="Quest_MSQ2_Revamp">You will join us or be drained of life!</string>
-	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_EngageZane" speaker="Overseer Zane" comment="AI_Overseer_Zane.slice" rel_version="Quest_MSQ2_Revamp">Your resistance is...amusing.</string>
-	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_Defeat" speaker="Overseer Zane" comment="AI_Overseer_Zane.slice" rel_version="Quest_MSQ2_Revamp">You can not defeat us all...</string>
+	<string key="Heartforge_Guardian_CombatBark_01" speaker="@AncientGuardian_Mage_MSQ_Named_02_Encounter_Boss_VitalsName" comment="AI_Heartforge_Guardian.slice" rel_version="Quest_MSQ2_Revamp">You tread on sacred ground. Begone.</string>
+	<string key="Heartforge_Guardian_CombatBark_02" speaker="@AncientGuardian_Mage_MSQ_Named_02_Encounter_Boss_VitalsName" comment="AI_Heartforge_Guardian.slice" rel_version="Quest_MSQ2_Revamp">Turn back now. Only death awaits you here.</string>
+	<string key="Heartforge_Guardian_CombatBark_03" speaker="@AncientGuardian_Mage_MSQ_Named_02_Encounter_Boss_VitalsName" comment="AI_Heartforge_Guardian.slice" rel_version="Quest_MSQ2_Revamp">We see your strength. Approach the Forge and embrace your destiny.</string>
+	<string key="Overseer_Zane_CombatBark_01" speaker="@Damned_1H_Swordsman_M_Named_07_VitalsName" comment="AI_Overseer_Zane.slice" rel_version="Quest_MSQ2_Revamp">PH TEXT: Your power shall be mine!</string>
+	<string key="Overseer_Zane_CombatBark_02" speaker="@Damned_1H_Swordsman_M_Named_07_VitalsName" comment="AI_Overseer_Zane.slice" rel_version="Quest_MSQ2_Revamp">PH TEXT: Power...overwhelming....</string>
+	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_Spawn" speaker="@Damned_1H_Swordsman_M_Named_07_VitalsName" comment="AI_Overseer_Zane.slice" rel_version="Quest_MSQ2_Revamp">Your arrogance will be your end.</string>
+	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_EngageTendrils" speaker="@Damned_1H_Swordsman_M_Named_07_VitalsName" comment="AI_Overseer_Zane.slice" rel_version="Quest_MSQ2_Revamp">You will join us or be drained of life!</string>
+	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_EngageZane" speaker="@Damned_1H_Swordsman_M_Named_07_VitalsName" comment="AI_Overseer_Zane.slice" rel_version="Quest_MSQ2_Revamp">Your resistance is...amusing.</string>
+	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_Defeat" speaker="@Damned_1H_Swordsman_M_Named_07_VitalsName" comment="AI_Overseer_Zane.slice" rel_version="Quest_MSQ2_Revamp">You can not defeat us all...</string>
 	<string key="Helvan_CombatBark_01" speaker="@Undead_Navigator_Named_12MB01d_VitalsName" comment="AI_Helvan_the_Navigator.slice" rel_version="Quest_MSQ2_Revamp">PH TEXT: Ahoy there!</string>
 	<string key="Helvan_CombatBark_02" speaker="@Undead_Navigator_Named_12MB01d_VitalsName" comment="AI_Helvan_the_Navigator.slice" rel_version="Quest_MSQ2_Revamp">PH TEXT: Fire at them! Starboard!</string>
 	<string key="Helvan_CombatBark_03" speaker="@Undead_Navigator_Named_12MB01d_VitalsName" comment="AI_Helvan_the_Navigator.slice" rel_version="Quest_MSQ2_Revamp">PH TEXT: Fire at them! Port!</string>
@@ -256,7 +256,6 @@
 	<string key="Season_02_Assassin_Ambush_3" speaker="@Bog_Monster_Season_02_VitalsName" comment="Enc_Season_02_EggAmbush_03.slice" rel_version="Season_2_Perm">You are not welcome here! Go away now.</string>
 	<string key="Season_02_Assassin_Ambush_3a" speaker="@Bog_Monster_Season_02_VitalsName" comment="Enc_Season_02_EggAmbush_03.slice" rel_version="Season_2_Perm">You have come too close... Attack!</string>
 	<string key="Season_02_Assassin_Ambush_3b" speaker="@Bog_Monster_Season_02_VitalsName" comment="Enc_Season_02_EggAmbush_03.slice" rel_version="Season_2_Perm">Rise and protect it!</string>
-	<string key="Herikai_CombatBark_Intro" speaker="Herikai" comment="season_02_herikai.slice" rel_version="Season_2_Temp">Malek said you might come for the egg, too late blasphemer! It belongs to us now.</string>
 	<string key="VOX_BarkA" speaker="Yonas" comment="yonas_msq2_combat.slice" rel_version="Quest_MSQ2_Edengrove">I don’t want this… Stop me!</string>
 	<string key="VOX_BarkB" speaker="Yonas" comment="yonas_msq2_combat.slice" rel_version="Quest_MSQ2_Edengrove">The heartgem! Destroy it!</string>
 	<string key="VOX_BarkB_Quick" speaker="Yonas" comment="yonas_msq2_combat.slice" rel_version="Quest_MSQ2_Edengrove">The heartgem! Destroy it!</string>
@@ -274,5 +273,36 @@
 	<string key="VOX_Combat_1" speaker="Medusa" comment="ai_fl_medusa.slice" rel_version="Territory_FirstLight">Your defenses wont save you.</string>
 	<string key="VOX_Combat_2" speaker="Medusa" comment="ai_fl_medusa.slice" rel_version="Territory_FirstLight">Immortalize its beauty.</string>
 	<string key="VOX_Combat_3" speaker="Medusa" comment="ai_fl_medusa.slice" rel_version="Territory_FirstLight">The ancient gods will rise again.</string>
+	<string key="AncientIceGuardian_Intro" speaker="Ancient Ice Guardian" comment="Ancient_Ice_Guardian_Trial_Boss.slice" rel_version="Season_4_Perm">You are forbidden here, mortal!</string>
+	<string key="AncientIceGuardian_Death" speaker="Ancient Ice Guardian" comment="Ancient_Ice_Guardian_Trial_Boss.slice" rel_version="Season_4_Perm">No, I have failed the great ones! May the Curse of the Forge... be upon you...</string>
+	<string key="AncientIceGuardian_Transition_01" speaker="Ancient Ice Guardian" comment="Ancient_Ice_Guardian_Trial_Boss.slice" rel_version="Season_4_Perm">You are not ready for what comes next!</string>
+	<string key="AncientIceGuardian_Transition_02" speaker="Ancient Ice Guardian" comment="Ancient_Ice_Guardian_Trial_Boss.slice" rel_version="Season_4_Perm">My full power... Unleashed!</string>
+	<string key="AncientIceGuardian_Entomb" speaker="Ancient Ice Guardian" comment="Ancient_Ice_Guardian_Trial_Boss.slice" rel_version="Season_4_Perm">You cannot run.</string>
+	<string key="AncientIceGuardian_IcicleSmash" speaker="Ancient Ice Guardian" comment="Ancient_Ice_Guardian_Trial_Boss.slice" rel_version="Season_4_Perm">Be crushed upon the Anvil!</string>
+	<string key="AncientIceGuardian_DeepFreeze" speaker="Ancient Ice Guardian" comment="Ancient_Ice_Guardian_Trial_Boss.slice" rel_version="Season_4_Perm">I will freeze your magic trickery.</string>
+	<string key="AncientIceGuardian_FreezingGust" speaker="Ancient Ice Guardian" comment="Ancient_Ice_Guardian_Trial_Boss.slice" rel_version="Season_4_Perm">Bathe in cold fire!</string>
+	<string key="AncientIceGuardian_RunePuzzle_SetRune" speaker="Ancient Ice Guardian" comment="Ancient_Ice_Guardian_Trial_Boss.slice" rel_version="Season_4_Perm">I call on the power of the Runes!</string>
+	<string key="AncientIceGuardian_RunePuzzle_Success" speaker="Ancient Ice Guardian" comment="Ancient_Ice_Guardian_Trial_Boss.slice" rel_version="Season_4_Perm">Impossible! How can a mere mortal master the Runes?</string>
+	<string key="AncientIceGuardian_RunePuzzle_Failure" speaker="Ancient Ice Guardian" comment="Ancient_Ice_Guardian_Trial_Boss.slice" rel_version="Season_4_Perm">Ha! Your failure was expected.</string>
+	<string key="Runeforge_Fodder_CombatBark_01" speaker="Forge Guardians" comment="AncientGuardian_Spearman_IceVariant_Solo.slice" rel_version="Season_4_Perm">Arise, Forge warriors! To battle!</string>
+	<string key="Runeforge_Fodder_CombatBark_02" speaker="Forge Guardians" comment="AncientGuardian_Spearman_IceVariant_Solo.slice" rel_version="Season_4_Perm">Strike down the invader!</string>
+	<string key="Runeforge_Fodder_CombatBark_03" speaker="Forge Guardians" comment="AncientGuardian_Spearman_IceVariant_Solo.slice" rel_version="Season_4_Perm">Shatter under our might!</string>
+	<string key="Daichi_Bark_Death" speaker="Daichi" comment="Season_04_Daichi.slice" rel_version="Season_4_Perm">You- made me try. I will meet you at your Silver Crows camp.</string>
+	<string key="Daichi_Bark_Flameblossom" speaker="Daichi" comment="Season_04_Daichi.slice" rel_version="Season_4_Perm">The song of wind.</string>
+	<string key="Daichi_Bark_Kanjibomb" speaker="Daichi" comment="Season_04_Daichi.slice" rel_version="Season_4_Perm">The frog leaps in fire.</string>
+	<string key="Daichi_Bark_Phase1to2" speaker="Daichi" comment="Season_04_Daichi.slice" rel_version="Season_4_Perm">Well, you can fight. Let's see how you think.</string>
+	<string key="Daichi_Bark_Phase2to3" speaker="Daichi" comment="Season_04_Daichi.slice" rel_version="Season_4_Perm">Ah ha ha! You can take a little heat. Now, stand in the fire!</string>
+	<string key="Daichi_Bark_Stagger" speaker="Daichi" comment="Season_04_Daichi.slice" rel_version="Season_4_Perm">Good. You do not waste energy.</string>
+	<string key="Daichi_Bark_Victory" speaker="Daichi" comment="Season_04_Daichi.slice" rel_version="Season_4_Perm">It seams you Silver Crows are just talk, after all.</string>
+	<string key="Mordred_Bark_Intro" speaker="Mordred" comment="Season_04_Mordred_AI.slice" rel_version="Season_4_Perm">Ah- ha- Yes!</string>
+	<string key="Mordred_Bark_Phase1to2" speaker="Mordred" comment="Season_04_Mordred_AI.slice" rel_version="Season_4_Perm">The fury of the gods, within me!</string>
+	<string key="Mordred_Bark_Phase2to3" speaker="Mordred" comment="Season_04_Mordred_AI.slice" rel_version="Season_4_Perm">Taste the full might of Winter!</string>
+	<string key="Mordred_Bark_Death" speaker="Mordred" comment="Season_04_Mordred_AI.slice" rel_version="Season_4_Perm">Ah- ah- no- NOOOO!</string>
+	<string key="Mordred_Bark_Victory" speaker="Mordred" comment="Season_04_Mordred_AI.slice" rel_version="Season_4_Perm">At last you find your place. At my feet.</string>
+	<string key="Mordred_Bark_ManiFistAtion" speaker="Mordred" comment="Season_04_Mordred_AI.slice" rel_version="Season_4_Perm">Feel the might of Frost!</string>
+	<string key="Mordred_Bark_ArchimideanTrap" speaker="Mordred" comment="Season_04_Mordred_AI.slice" rel_version="Season_4_Perm">Such power! Such might at my command!</string>
+	<string key="EvilKnightLoth_Intro" speaker="Commander Loth" comment="evil_knight_heavy_commanderloth_boss.slice" rel_version="Season_4_Perm">I will put Shailyn to an end. But first, you.</string>
+	<string key="EvilKnightLoth_Death" speaker="Commander Loth" comment="evil_knight_heavy_commanderloth_boss.slice" rel_version="Season_4_Perm">No... You have doomed Aeternum!</string>
+	<string key="EvilKnightLoth_Victory" speaker="Commander Loth" comment="evil_knight_heavy_commanderloth_boss.slice" rel_version="Season_4_Perm">Tell Shailyn her pathetic attempt has failed.</string>
 </resources>
 

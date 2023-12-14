@@ -1,7 +1,7 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="ui_locationHudHeader" comment="header above event/location objectives on HUD while esc menu is open" speaker="UI">Location</string>
-	<string key="ui_pinnedHudHeader" comment="header above manually pinned objectives on HUD while esc menu is open" speaker="UI">Pinned</string>
-	<string key="ui_nearbyHudHeader" comment="header above auto-added nearby objectives on HUD while esc menu is open" speaker="UI">Nearby</string>
+	<string key="ui_locationHudHeader" speaker="UI" comment="header above event/location objectives on HUD while esc menu is open">Location</string>
+	<string key="ui_pinnedHudHeader" speaker="UI" comment="header above manually pinned objectives on HUD while esc menu is open">Pinned</string>
+	<string key="ui_nearbyHudHeader" speaker="UI" comment="header above auto-added nearby objectives on HUD while esc menu is open">Nearby</string>
 	<string key="journal_chapter_count" speaker="UI">Chapters Discovered:</string>
 	<string key="journal_chapter_title" speaker="UI">CHAPTER</string>
 	<string key="journal_chapters_completed" speaker="UI">Chapters Completed</string>
@@ -47,7 +47,7 @@
 	<string key="objective_craft" speaker="UI">Craft a {itemName}</string>
 	<string key="objective_craft_an" speaker="UI">Craft an {itemName}</string>
 	<string key="objective_craft_p" speaker="UI">Craft {itemAmount} {itemName}s</string>
-	<string key="objective_crafthealingdrops" speaker="UI">Craft {itemName} at your Camp (default: [Y])</string>
+	<string key="objective_crafthealingdrops" speaker="UI">Craft {itemName} at your Camp</string>
 	<string key="objective_crafthealthfood" speaker="UI">Cook Health Recovery at Watcher's campfire</string>
 	<string key="objective_crafting" speaker="UI">Crafting</string>
 	<string key="objective_craftsoverseersword" speaker="UI">Craft an {itemName} at the Forge</string>
@@ -158,10 +158,10 @@
 	<string key="objective_get_msq_message" speaker="UI">You currently have no active Main Story quests.\nSearch for this icon on the map to determine whether the next Main Story Quest is available.</string>
 	<string key="M_procurer_craft_workorder_items" speaker="UI">Crafting Mission</string>
 	<string key="objective_challenge" speaker="UI">Challenge</string>
-	<string key="objective_name_template" comment="Obsolete - Used to show above rewards on the conversation screen. {title} is the quest title." speaker="UI">Quest: "{title}"</string>
-	<string key="objective_name_and_rewards_template" comment="Shows above rewards on the conversation screen. {title} is the quest title" speaker="UI">"{title}" - Rewards</string>
-	<string key="objective_rewards_completion" comment="Rewards label when completing a quest" speaker="UI">Rewards for Completion</string>
-	<string key="objective_rewards_proposal" comment="Rewards label when accepting a quest" speaker="UI">Complete Quest to Receive</string>
+	<string key="objective_name_template" speaker="UI" comment="Obsolete - Used to show above rewards on the conversation screen. {title} is the quest title.">Quest: "{title}"</string>
+	<string key="objective_name_and_rewards_template" speaker="UI" comment="Shows above rewards on the conversation screen. {title} is the quest title">"{title}" - Rewards</string>
+	<string key="objective_rewards_completion" speaker="UI" comment="Rewards label when completing a quest">Rewards for Completion</string>
+	<string key="objective_rewards_proposal" speaker="UI" comment="Rewards label when accepting a quest">Complete Quest to Receive</string>
 	<string key="objective_objective" speaker="UI">Objective</string>
 	<string key="objective_objectives" speaker="UI">Objectives</string>
 	<string key="objectives_sort" speaker="UI">Sort by:</string>
@@ -193,7 +193,7 @@
 	<string key="objective_world" speaker="UI">World</string>
 	<string key="objective_onboarding_goToOutpost_task01_desc" speaker="UI">Investigate the Watchtower</string>
 	<string key="objective_onboarding_goToOutpost_task02_desc" speaker="UI">Travel to a watchtower</string>
-	<string key="objective_onboarding_goToOutpost_task03_desc" speaker="UI">Open the Map (default: [M])</string>
+	<string key="objective_onboarding_goToOutpost_task03_desc" speaker="UI">Open the Map</string>
 	<string key="objective_pin" speaker="UI">Pin</string>
 	<string key="objective_pinned" speaker="UI">Pinned</string>
 	<string key="objective_populatehere" speaker="UI">Your cards will populate here.</string>
@@ -201,11 +201,11 @@
 	<string key="objective_recipepinned" speaker="UI">Recipe Pinned</string>
 	<string key="objective_recipes" speaker="UI">Recipes</string>
 	<string key="objective_recipes_desc" speaker="UI">Add from any crafting station</string>
-	<string key="objective_recipetemplate" comment="How recipe names show in the HUD. Use {title} for the item name" speaker="UI">Recipe for {title}</string>
+	<string key="objective_recipetemplate" speaker="UI" comment="How recipe names show in the HUD. Use {title} for the item name">Recipe for {title}</string>
 	<string key="objective_recipe_abandontitle">Abandon Recipe</string>
 	<string key="objective_recipe_abandonbody">Are you sure you want to abandon your current recipe?</string>
-	<string key="objective_artifacts" rel_version="Feature_Artifacts" speaker="UI">Artifacts</string>
-	<string key="objective_artifacts_desc" rel_version="Feature_Artifacts" speaker="UI">Given from active artifact items.</string>
+	<string key="objective_artifacts" speaker="UI" rel_version="Feature_Artifacts">Artifacts</string>
+	<string key="objective_artifacts_desc" speaker="UI" rel_version="Feature_Artifacts">Given from active artifact items.</string>
 	<string key="objective_subtitle_locationwithcolor" speaker="UI">&lt;font color={color}&gt;{territoryName}&lt;/font&gt;</string>
 	<string key="objective_subtitle_locationanddifficulty" speaker="UI">{territory} - {difficulty}</string>
 	<string key="objective_recommendedgroup" speaker="UI">Group {group}</string>
@@ -246,24 +246,24 @@
 	<string key="objective_reset" speaker="UI">Reset</string>
 	<string key="objective_resetpopup_body" speaker="UI">Are you sure that you want to reset your current mission?\nResetting will result in the loss of all progress.</string>
 	<string key="ui_turn_in_to_npc" speaker="UI">Return objective here</string>
-	<string key="objective_gatherberrycorruption" speaker="UI" quest_id="s_corruption_resistance">Acquire {itemName}</string>
-	<string key="objective_gatherwatercorruption" speaker="UI" quest_id="s_corruption_resistance">Acquire {itemName}</string>
-	<string key="objective_story_craft_tincturecorruptionT2" speaker="UI" quest_id="s_corruption_resistance">Craft {itemName} at your camp</string>
-	<string key="objective_story_gather_flint" speaker="UI" quest_id="S_campandtools" location="Beach">Search the ground for {itemName}</string>
-	<string key="objective_story_gather_wood" speaker="UI" quest_id="S_campandtools" location="Beach">Gather {itemName} from a nearby Bush</string>
-	<string key="objective_story_craft_flintknife" speaker="UI" quest_id="S_campandtools" location="Beach">Craft a {itemName} at the Watcher's camp</string>
+	<string key="objective_gatherberrycorruption" speaker="UI">Acquire {itemName}</string>
+	<string key="objective_gatherwatercorruption" speaker="UI">Acquire {itemName}</string>
+	<string key="objective_story_craft_tincturecorruptionT2" speaker="UI">Craft {itemName} at your camp</string>
+	<string key="objective_story_gather_flint" speaker="UI">Search the ground for {itemName}</string>
+	<string key="objective_story_gather_wood" speaker="UI">Gather {itemName} from a nearby Bush</string>
+	<string key="objective_story_craft_flintknife" speaker="UI">Craft a {itemName} at the Watcher's camp</string>
 	<string key="objective_story_task_search_containers_1" speaker="UI">Search a crate near {POITags}</string>
 	<string key="objective_story_task_preciouscargo_01" speaker="UI">Investigate the {POITags}</string>
 	<string key="objective_mission_task_patrol_windsward" speaker="UI">Patrol Territory</string>
 	<string key="patrol_task_container_description" speaker="UI">Stand your ground, but stay alive.</string>
 	<string key="objective_mission_task_patrol_timer" speaker="UI">Hold {POITags} for {timeRemaining}</string>
-	<string key="objective_mission_task_control_point" speaker="UI">Capture Fort {TerritoryID} for the Marauders</string>
+	<string key="objective_mission_task_control_point" speaker="UI">Capture a Faction Control Point in {TerritoryID} for the Marauders</string>
 	<string key="task_choose_faction" speaker="UI">Choose a faction with {destinationName}</string>
-	<string key="complete_available_prompt_DEFAULT" comment="male" speaker="UI - Button">Complete the Quest</string>
+	<string key="complete_available_prompt_DEFAULT" speaker="UI - Button" comment="male">Complete the Quest</string>
 	<string key="prompt_DEFAULT" speaker="UI - Button">Accept the Quest</string>
-	<string key="desc_getoffbeach" comment="male" speaker="UI - Journal - Quest  Description" quest_id="S_getoffbeach">Investigate what looks to be a watchtower.</string>
-	<string key="title_getoffbeach" speaker="UI - Journal - Quest  Title" quest_id="S_getoffbeach">Sole Survivor</string>
-	<string key="task_getoffbeach_openmap">Open the Map (default: [M])</string>
+	<string key="desc_getoffbeach" speaker="UI - Journal - Quest  Description" comment="male">Investigate what looks to be a watchtower.</string>
+	<string key="title_getoffbeach" speaker="UI - Journal - Quest  Title">Sole Survivor</string>
+	<string key="task_getoffbeach_openmap">Open the Map</string>
 	<string key="have_berries">Have Berries</string>
 	<string key="objective_mission_kill_generic_at_POI">Defeat {targetName} at {POITags}</string>
 	<string key="objective_mission_loot_chests_generic_at_POI">Search chests for {itemName} at {POITags}</string>
@@ -311,8 +311,8 @@
 	<string key="objective_mission_kill_with_firestaff">Defeat {targetName} using Firestaff</string>
 	<string key="objective_mission_kill_with_lifestaff">Defeat {targetName} using Lifestaff</string>
 	<string key="objective_mission_kill_with_icegauntlet">Defeat {targetName} using Ice Gauntlet</string>
-	<string key="objective_mission_task_control_point_S">Capture Fort {TerritoryID} for the Syndicate</string>
-	<string key="objective_mission_task_control_point_C">Capture Fort {TerritoryID} for the Covenant</string>
+	<string key="objective_mission_task_control_point_S">Capture a Faction Control Point {TerritoryID} for the Syndicate</string>
+	<string key="objective_mission_task_control_point_C">Capture a Faction Control Point {TerritoryID} for the Covenant</string>
 	<string key="objective_mission_faction_corruption_breach" rel_version="Quest_FM_BreachMissions">Close a Corruption Breach</string>
 	<string key="objective_mission_rescue_npc_generic" rel_version="Quest_MSQ2_Revamp">Rescue Hostages</string>
 	<string key="objective_mission_boatencounter_obj_title" rel_version="Quest_MSQ2_Revamp">Destroy Boat</string>
@@ -327,7 +327,18 @@
 	<string key="objective_timetrial_addTime" speaker="UI">+ {secondsAdded} seconds</string>
 	<string key="objective_timetrial_tutorial" speaker="UI">[{key} to DASH]</string>
 	<string key="objective_timetrial_tourStart" speaker="UI">GO!</string>
+	<string key="objective_timetrial_timeout_teleport_prompt_title" speaker="UI">&lt;font color={color}&gt;Time Trial Failed&lt;/font&gt;</string>
+	<string key="objective_timetrial_timeout_teleport_prompt_description" speaker="UI">Would you like to teleport back to the start and try again?</string>
 	<string key="objective_multiple_active_races" speaker="UI">Only one race can be active at a time</string>
+	<string key="objective_encounter_stage1">Stage 1:</string>
+	<string key="objective_encounter_stage2">Stage 2:</string>
+	<string key="objective_encounter_stage3">Stage 3:</string>
+	<string key="objective_encounter_stage4">Stage 4:</string>
+	<string key="objective_encounter_stage5">Stage 5:</string>
+	<string key="objective_encounter_stage6">Stage 6:</string>
+	<string key="objective_encounter_stage7">Stage 7:</string>
+	<string key="objective_encounter_stage8">Stage 8:</string>
+	<string key="objective_encounter_stage9">Stage 9:</string>
 	<string key="objective_artifact_equip_to_view" rel_version="Feature_Artifacts">Equip artifact to view objectives.</string>
 	<string key="objective_artifact_max_reminder" rel_version="Feature_Artifacts">Too many artifact objectives in progress. Abandon an existing one to start another.</string>
 	<string key="objective_artifact_equip_reminder" rel_version="Feature_Artifacts">When Equipped:</string>
@@ -337,24 +348,31 @@
 	<string key="Objective_Artifact_Set1_HeavyChest" rel_version="Feature_Expansion_1">Artifact: Void Darkplate</string>
 	<string key="Objective_Artifact_Set1_HeavyHands" rel_version="Feature_Expansion_1">Artifact: Magnetic Gauntlets</string>
 	<string key="Objective_Artifact_Set1_HeavyLegs" rel_version="Feature_Expansion_1">Artifact: Freedom</string>
+	<string key="Objective_Artifact_Set1_HeavyFeet" rel_version="Feature_Artifacts_Set2">Artifact: The Unmoved</string>
 	<string key="Objective_Artifact_Set1_MediumHead" rel_version="Feature_Expansion_1">Artifact: Djinn Headwrap</string>
 	<string key="Objective_Artifact_Set1_MediumChest" rel_version="Feature_Expansion_1">Artifact: Nimble Coat</string>
 	<string key="Objective_Artifact_Set1_MediumHands" rel_version="Feature_Expansion_1">Artifact: Ghoul Gloves</string>
 	<string key="Objective_Artifact_Set1_MediumLegs" rel_version="Feature_Expansion_1">Artifact: Attuned Leather Pants</string>
+	<string key="Objective_Artifact_Set1_MediumFeet" rel_version="Feature_Artifacts_Set2">Artifact: Winged Shoes</string>
 	<string key="Objective_Artifact_Set1_LightHead" rel_version="Feature_Expansion_1">Artifact: Grey Wizard's Hat</string>
 	<string key="Objective_Artifact_Set1_LightChest" rel_version="Feature_Expansion_1">Artifact: Featherweight</string>
+	<string key="Objective_Artifact_Set1_LightHands" rel_version="Feature_Artifacts_Set2">Artifact: Quickdraw Gloves</string>
+	<string key="Objective_Artifact_Set1_LightLegs" rel_version="Feature_Artifacts_Set2">Artifact: Knee Guards</string>
 	<string key="Objective_Artifact_Set1_LightFeet" rel_version="Feature_Expansion_1">Artifact: Tumbler Feetwraps</string>
 	<string key="Objective_Artifact_Set1_1hLongsword" rel_version="Feature_Expansion_1">Artifact: The Butcher</string>
 	<string key="Objective_Artifact_Set1_1hThrowingAxe" rel_version="Feature_Expansion_1">Artifact: Freya's Francisca</string>
 	<string key="Objective_Artifact_Set1_2hWarhammer" rel_version="Feature_Expansion_1">Artifact: Mjölnir</string>
 	<string key="Objective_Artifact_Set1_2hGreatAxe" rel_version="Feature_Expansion_1">Artifact: The Abyss</string>
-	<string key="Objective_Artifact_Set1_2hBow" rel_version="Feature_Expansion_1">Artifact: Boltcaster</string>
+	<string key="Objective_Artifact_Set1_2hBow" rel_version="Feature_Artifacts_Set2">Artifact: Boltcaster</string>
 	<string key="Objective_Artifact_Set1_2hMusket" rel_version="Feature_Expansion_1">Artifact: The Mechanic</string>
+	<string key="Objective_Artifact_Set1_1hRoundShield" rel_version="Feature_Artifacts_Set2">Artifact: Gladiator</string>
 	<string key="Objective_Artifact_Set1_1hKiteShield" rel_version="Feature_Expansion_1">Artifact: Michael</string>
 	<string key="Objective_Artifact_Set1_1hTowerShield" rel_version="Feature_Expansion_1">Artifact: The Wall</string>
 	<string key="Objective_Artifact_Set1_2hStaffFire" rel_version="Feature_Expansion_1">Artifact: Inferno</string>
+	<string key="Objective_Artifact_Set1_2hStaffLife" rel_version="Feature_Artifacts_Set2">Artifact: Vengeance</string>
 	<string key="Objective_Artifact_Set1_2hSpear" rel_version="Feature_Expansion_1">Artifact: Scorpion's Sting</string>
 	<string key="Objective_Artifact_Set1_1hRapier" rel_version="Feature_Expansion_1">Artifact: Finisher</string>
+	<string key="Objective_Artifact_Set1_1hGauntletIce" rel_version="Feature_Artifacts_Set2">Artifact: The Frozen</string>
 	<string key="Objective_Artifact_Set1_1hGauntletVoid" rel_version="Feature_Expansion_1">Artifact: Lifetaker</string>
 	<string key="Objective_Artifact_Set1_2hBlunderbuss" rel_version="Feature_Expansion_1">Artifact: Pestilence</string>
 	<string key="Objective_Artifact_Set1_2hGreatSword" rel_version="Feature_Expansion_1">Artifact: Serenity</string>
@@ -362,6 +380,8 @@
 	<string key="Objective_Artifact_Set1_Earring1" rel_version="Feature_Expansion_1">Artifact: Endless Thirst</string>
 	<string key="Objective_Artifact_Set1_Ring1" rel_version="Feature_Expansion_1">Artifact: Blooddrinker</string>
 	<string key="Objective_Artifact_Set1_Amulet1" rel_version="Feature_Expansion_1">Artifact: Lost Stopwatch</string>
+	<string key="Objective_Artifact_Set1_Earring2" rel_version="Feature_Artifacts_Set2">Artifact: Ocean's Peace</string>
+	<string key="Objective_Artifact_Set1_Ring2" rel_version="Feature_Artifacts_Set2">Artifact: Mastermind</string>
 	<string key="Objective_Artifact_Set1_Amulet2" rel_version="Feature_Expansion_1">Artifact: Ankh</string>
 	<string key="Objective_Kill_Dungeon_DepthBoss" rel_version="Feature_Expansion_1">Defeat {targetName} at Depths Expedition</string>
 	<string key="Objective_Kill_in_FL" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Elysian Wilds</string>
@@ -375,6 +395,7 @@
 	<string key="Objective_Kill_Ennead" rel_version="Feature_Expansion_1">Defeat {targetName} in The Ennead</string>
 	<string key="Objective_Kill_Starstone" rel_version="Feature_Expansion_1">Defeat {targetName} in The Starstone Barrows</string>
 	<string key="Objective_Kill_Empyean" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Empyrean Forge</string>
+	<string key="Objective_Kill_GlacialTarn" rel_version="Feature_Artifacts_Set2">Defeat {targetName} enemies in Glacial Tarn</string>
 	<string key="Objective_Kill_OPR" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Outpost Rush</string>
 	<string key="Objective_Kill_Arena" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Arena</string>
 	<string key="Objective_Kill_OpenWorld" rel_version="Feature_Expansion_1">Defeat {targetName} enemies</string>

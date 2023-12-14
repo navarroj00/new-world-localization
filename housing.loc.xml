@@ -30,9 +30,9 @@
 	<string key="ui_fast_travel_error_description_inCooldown_with_time" comment="Fast Travel">This action is on cooldown.\nCan recall in {time}.</string>
 	<string key="ui_fast_travel_error_encumbered" comment="Fast Travel">You can't fast travel or recall when you are encumbered.</string>
 	<string key="ui_fast_travel_error_inCooldown" comment="Fast Travel">{time}</string>
-	<string key="ui_fast_travel_error_noDestination" comment="Fast Travel">You have to visit this Settlement first in order to fast travel.</string>
-	<string key="ui_fast_travel_error_noDestination_outpost" comment="Fast Travel">You have to visit this Outpost first in order to fast travel.</string>
-	<string key="ui_fast_travel_error_noDestination_shrine" comment="Fast Travel">You have to visit this Spirit Shrine first in order to fast travel.</string>
+	<string key="ui_fast_travel_error_noDestination" comment="Fast Travel">Visit this location first in order to fast travel here.</string>
+	<string key="ui_fast_travel_error_noDestination_outpost" comment="Fast Travel">Visit this location first in order to fast travel here.</string>
+	<string key="ui_fast_travel_error_noDestination_shrine" comment="Fast Travel">Visit this location first in order to fast travel here.</string>
 	<string key="ui_fast_travel_failed" comment="Fast Travel">Fast Travel Failed</string>
 	<string key="ui_fast_travel_mission_abandon_confirm" comment="Fast Travel">WARNING: Fast traveling will reset the active timed race and abandon all PvP faction missions.\n{timedRaceCount} timed race will be reset and {missionCount} mission will be abandoned.\n\nContinue?</string>
 	<string key="ui_fast_travel_popup_confirm" comment="Fast Travel">Would you like to fast travel to this location?</string>
@@ -268,5 +268,6 @@
 	<string key="ui_remove_all_furniture_confirm_title" comment="Remove All Furniture">Remove All</string>
 	<string key="ui_remove_all_furniture_confirm_message" comment="Remove All Furniture">All trophies and furniture in this house will be moved to the storage shed.</string>
 	<string key="ui_house_remove_all_furniture_confirm_button" comment="Remove All Furniture">Remove All</string>
+	<string key="ui_housing_territory_name" comment="UIC 2.0">{territoryName} Housing</string>
 </resources>
 

@@ -106,7 +106,7 @@
 	<string key="owg_factionwarinfo_title_5_desc_2_bullet_1" rel_version="PvP_Rewards_Track">Progress your track by defeating other players and engaging in PvP Missions, War, Outpost Rush, Capturing Forts, and 3v3 Arenas.</string>
 	<string key="owg_factionwarinfo_title_5_desc_3" rel_version="PvP_Rewards_Track">AZOTH SALT</string>
 	<string key="owg_factionwarinfo_title_5_desc_3_bullet_1" rel_version="PvP_Rewards_Track">Azoth Salt is the currency that gets you rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, PvP open world kills, and earning XP while flagged.</string>
-	<string key="owg_factionwarinfo_title_5_desc_4" rel_version="PvP_Rewards_Track">REWARDS</string>
+	<string key="owg_factionwarinfo_title_5_desc_4" rel_version="PvP_Rewards_Track">Rewards</string>
 	<string key="owg_factionwarinfo_title_5_desc_4_bullet_1" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
 	<string key="owg_failure_warning">Failing or abandoning this mission will result in a loss of {amount} {guildName} Tokens.</string>
 	<string key="owg_guildreputation_name">{guildName} Reputation</string>
@@ -171,7 +171,7 @@
 	<string key="owg_required_currency">{amount} Required Coin</string>
 	<string key="owg_required_influence">{amount} Required Tokens</string>
 	<string key="owg_required_player_level">Required Player Level {amount}</string>
-	<string key="owg_rewards_title">REWARDS</string>
+	<string key="owg_rewards_title">Rewards</string>
 	<string key="owg_rewardtype_currency">&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt;Coins</string>
 	<string key="owg_rewardtype_experience">&lt;img src="lyshineui/images/icons/misc/icon_xp" xPadding="0" scale="1.9" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;XP&lt;/font&gt;</string>
 	<string key="owg_rewardtype_azoth">&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.8" yOffset="3"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; Azoth</string>
@@ -432,10 +432,13 @@
 	<string key="FactionMission_C_EXPEDITIONLOOT_desc">Delve into {POITags} for the Covenant and collect each &lt;font color="#eaeaea"&gt;{itemName}&lt;/font&gt; within.\n\n  &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_ASSASSINATE_title">Bounty: {POITags}</string>
 	<string key="FactionMission_ASSASSINATE_desc">The Marauders need &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; removed from the theater.\n\nProve your valor by tracking them down in {POITags} and destroying them.</string>
+	<string key="FactionMission_M_ASSASSINATE_NIGHT_desc">The Marauders need &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; removed from the theater.\n\nProve your valor by tracking them down in {POITags} and destroying them.\n\n&lt;font color="#eaeaea"&gt;Can only be completed at Night.&lt;/font&gt;</string>
 	<string key="FactionMission_S_ASSASSINATE_title">Assassinate: {POITags}</string>
 	<string key="FactionMission_S_ASSASSINATE_desc">The Syndicate has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be a target for elimination.\n\nProve your cunning by tracking them down in {POITags} and destroying them.</string>
+	<string key="FactionMission_S_ASSASSINATE_NIGHT_desc">The Syndicate has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be a target for elimination.\n\nProve your cunning by tracking them down in {POITags} and destroying them.\n\n&lt;font color="#eaeaea"&gt;Can only be completed at Night.&lt;/font&gt;</string>
 	<string key="FactionMission_C_ASSASSINATE_title">Smite: {POITags}</string>
 	<string key="FactionMission_C_ASSASSINATE_desc">The Covenant has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be eliminated.\n\nProve your devotion by tracking them down in {POITags} and destroying them.</string>
+	<string key="FactionMission_C_ASSASSINATE_NIGHT_desc">The Covenant has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be eliminated.\n\nProve your devotion by tracking them down in {POITags} and destroying them.\n\n&lt;font color="#eaeaea"&gt;Can only be completed at Night.&lt;/font&gt;</string>
 	<string key="FactionMission_ASSASSINATE_ELITE_title">Bounty: {POITags} (Elite)</string>
 	<string key="FactionMission_ASSASSINATE_ELITE_desc">The Marauders need &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; removed from the theater.\n\nProve your valor by tracking them down in {POITags} and destroying them.\n&lt;font color="#eaeaea"&gt;(Elite)&lt;/font&gt;</string>
 	<string key="FactionMission_S_ASSASSINATE_ELITE_title">Assassinate: {POITags} (Elite)</string>
@@ -474,7 +477,7 @@
 	<string key="FactionMission_S_TROPHYHUNT_title">Specimen Hunt: {POITags}</string>
 	<string key="FactionMission_S_TROPHYHUNT_desc">We've identified a subject that merits closer study.\n\nHunt {POITags} for &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; and return with a tissue sample.</string>
 	<string key="FactionMission_C_TROPHYHUNT_title">Exalted Hunt: {POITags}</string>
-	<string key="FactionMission_C_TROPHYHUNT_desc">The Spark provides a great opportunity.\n\nSeize it by defeating &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; at {POITags} and return with its bountiful yield</string>
+	<string key="FactionMission_C_TROPHYHUNT_desc">(Hint: targets appear as part of an event)\n\nSeize it by defeating &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; at {POITags} and return with its bountiful yield</string>
 	<string key="FactionMission_TROPHYHUNT_ELITE_title">Trophy Hunt: {POITags} (Elite)</string>
 	<string key="FactionMission_TROPHYHUNT_ELITE_desc">Prove your hunting skill.\n\nTake down &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; at {POITags} and bring back proof of your dominance.\n &lt;font color="#eaeaea"&gt;(Elite)&lt;/font&gt;</string>
 	<string key="FactionMission_S_TROPHYHUNT_ELITE_title">Specimen Hunt: {POITags} (Elite)</string>
@@ -484,7 +487,7 @@
 	<string key="FactionMission_WARCAMP_LOOT_title">Enemy Intelligence (PvP)</string>
 	<string key="FactionMission_WARCAMP_LOOT_desc">Infiltrate the &lt;font color="#eaeaea"&gt;War Camp&lt;/font&gt; next to &lt;font color="#eaeaea"&gt;Fort {territoryID}&lt;/font&gt; and search for valuable intelligence.</string>
 	<string key="FactionMission_CONTROL_POINT_title">Conquer (PvP)</string>
-	<string key="FactionMission_CONTROL_POINT_desc">Take up arms to help the Marauders take control of the &lt;font color="#eaeaea"&gt;Fort&lt;/font&gt; at &lt;font color="#eaeaea"&gt;{territoryID}&lt;/font&gt; or any of the three watchtowers.\n\n(This mission may not be completable at all times)</string>
+	<string key="FactionMission_CONTROL_POINT_desc">Take up arms to help the Marauders take control of the &lt;font color="#eaeaea"&gt;Fort&lt;/font&gt; or an &lt;font color="#eaeaea"&gt;Influence Watch&lt;/font&gt; (during Influence Races) at &lt;font color="#eaeaea"&gt;{territoryID}&lt;/font&gt;\n\n(This mission may not be completable at all times)</string>
 	<string key="FactionMission_S_WARCAMP_LOOT_title">Enemy Reconnaissance (PvP)</string>
 	<string key="FactionMission_S_WARCAMP_LOOT_desc">Infiltrate the &lt;font color="#eaeaea"&gt;War Camp&lt;/font&gt; next to &lt;font color="#eaeaea"&gt;Fort {territoryID}&lt;/font&gt; and search for valuable intelligence.</string>
 	<string key="FactionMission_S_CONTROL_POINT_title">Seize (PvP)</string>
@@ -551,6 +554,17 @@
 	<string key="CMissionAcquireWoodWorker">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Woodshop.</string>
 	<string key="CMissionAcquireOutfitter">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from an Outfitting Station.</string>
 	<string key="CMissionAcquireEngineer">Acquire and deliver &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Workshop.</string>
+	<string key="CMissionAcquireBlock_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Stonemasons Needed</string>
+	<string key="CMissionAcquireTimber_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Carpenters Needed</string>
+	<string key="CMissionAcquireCloth_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Weavers Needed</string>
+	<string key="CMissionAcquireMetal_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Metalworkers Needed</string>
+	<string key="CMissionAcquireFibers_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Harvesters Needed</string>
+	<string key="CMissionAcquireFood_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Cooks Needed</string>
+	<string key="CMissionAcquirePotions_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Alchemists Needed</string>
+	<string key="CMissionAcquireGeneric_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Supplies Needed</string>
+	<string key="CMissionAcquireWood_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Lumberjacks Needed</string>
+	<string key="CMissionAcquireRawhide_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Hunters Needed</string>
+	<string key="CMissionAcquireLeather_Name_WC" rel_version="Event_WinterConvergence_Temp">Festive Tanners Needed</string>
 	<string key="ui_already_in_faction">You are already in this faction</string>
 	<string key="ui_cant_switch_faction_pvp">Cannot change factions while flagged for PvP</string>
 	<string key="ui_cant_switch_faction_azoth">Not enough Azoth</string>

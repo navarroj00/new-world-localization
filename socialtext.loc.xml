@@ -543,6 +543,15 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_button_confirm_disabled_tooltip">You must select a role.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_button_confirm_disabled_none_accepted_tooltip">You must accept at least 1 Role.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_button_confirm_disabled_tooltip_queue">You cannot request to join a Lobby while in a game mode queue.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_button_lock_in">Lock In</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_button_lock_in_disabled_tooltip">You must select a role that has not reached its maximum allowed.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_button_change_role">Change Role</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_button_decline">Decline</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_button_minimize">Minimize</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_bonus_label">Role Bonus</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_max_allowed">Max {amount}</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_players_locked_in">Players locked in - &lt;font color={numberColor}&gt; &lt;img src="LyShineUI/Images/icons/chat/channelgroup" scale="1.5" yOffset="5.5"&gt;&lt;/img&gt; {numLockedIn}&lt;/font&gt; / {numInGroup}</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_all_players_locked_in">All players locked in. Entering queue...</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_required_item_tooltip">You need to have {quantity} {item} to create a new Lobby for this expedition.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_current_roles_label">Current roles in this group</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_current_role_text">&lt;img src="{icon}" scale="2.5" yOffset="8.0"&gt;&lt;/img&gt;  {count} {role}</string>
@@ -580,7 +589,6 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_join_with_group">Open Expedition With Your Group</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_in_probation">Your account must be older than {accountProbationTimeRequired} with a playtime greater than {characterProbationTimeRequired} in order to create a lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_difficulty_locked">You must unlock this difficulty level to create a new Lobby.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_decline">Decline</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationaccepted">Invitation Accepted</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationdeclined">Invitation Declined</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_ingroup">Invite declined. Player already in Lobby.</string>

@@ -47,19 +47,19 @@
 	<string key="inv_instruments">Instruments</string>
 	<string key="inv_giveGold" comment="Currency name is Coin">Give Coin</string>
 	<string key="inv_tooltipMessageAxeActive">This tool is currently your active logging axe.</string>
-	<string key="inv_tooltipMessageAxeInactive">Click to make this your active logging axe.</string>
+	<string key="inv_tooltipMessageAxeInactive">Select to make this your active logging axe.</string>
 	<string key="inv_tooltipMessagePickActive">This tool is currently your active mining pick.</string>
-	<string key="inv_tooltipMessagePickInactive">Click to make this your active mining pick.</string>
+	<string key="inv_tooltipMessagePickInactive">Select to make this your active mining pick.</string>
 	<string key="inv_tooltipMessageSickleActive">This tool is currently your active harvesting sickle.</string>
-	<string key="inv_tooltipMessageSickleInactive">Click to make this your active harvesting sickle.</string>
+	<string key="inv_tooltipMessageSickleInactive">Select to make this your active harvesting sickle.</string>
 	<string key="inv_tooltipMessageKnifeActive">This tool is currently your active skinning knife.</string>
-	<string key="inv_tooltipMessageKnifeInactive">Click to make this your active skinning knife.</string>
+	<string key="inv_tooltipMessageKnifeInactive">Select to make this your active skinning knife.</string>
 	<string key="inv_tooltipMessageFishingPoleActive">This tool is currently your active fishing pole.</string>
-	<string key="inv_tooltipMessageFishingPoleInactive">Click to make this your active fishing pole.</string>
+	<string key="inv_tooltipMessageFishingPoleInactive">Select to make this your active fishing pole.</string>
 	<string key="inv_tooltipMessagePrimaryArrowActive">These arrows are currently set as your active bow ammunition.</string>
-	<string key="inv_tooltipMessagePrimaryArrowInactive">Click to make this your active bow ammunition.</string>
+	<string key="inv_tooltipMessagePrimaryArrowInactive">Select to make this your active bow ammunition.</string>
 	<string key="inv_tooltipMessagePrimaryShotActive">These cartridges are currently set as your active gun ammunition.</string>
-	<string key="inv_tooltipMessagePrimaryShotInactive">Click to make this your active gun ammunition.</string>
+	<string key="inv_tooltipMessagePrimaryShotInactive">Select to make this your active gun ammunition.</string>
 	<string key="inv_tooltipMessageToolLevelRequirement">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Level {level}&lt;/font&gt; is required to set this tool as a primary tool.</string>
 	<string key="inv_tooltipCommandToolLevelRequirement">Requires Lv.{level} to use</string>
 	<string key="inv_equipLoad">Equip Load</string>

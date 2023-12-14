@@ -38,7 +38,6 @@
 	<string key="ui_marks_of_fortune" rel_version="Feature_MTX">Marks of Fortune</string>
 	<string key="ui_entitlement_balance" rel_version="Feature_MTX">Current balance {balance}</string>
 	<string key="ui_dye_number" rel_version="Feature_MTX">Dye #{rewardId}</string>
-	<string key="ui_unlock" rel_version="Feature_MTX">Unlock</string>
 	<string key="ui_unlock_bundle" rel_version="Feature_MTX">Unlock Bundle</string>
 	<string key="ui_purchase" rel_version="Feature_MTX">Purchase</string>
 	<string key="ui_confirm_purchase" rel_version="Feature_MTX">Confirm Unlock</string>
@@ -87,7 +86,7 @@
 	<string key="ui_crest_color_description_default" rel_version="Feature_MTX">Crest color.</string>
 	<string key="ui_refund_policy" rel_version="Feature_MTX">Refund Policy</string>
 	<string key="ui_fixed_appearance" rel_version="Feature_MTX">Fixed Appearance</string>
-	<string key="ui_fixed_appearance_tooltip" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; are applied to your character and will be applied to any item equipped in the same slot until you change the appearance or remove it.\n\n&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; cannot be dyed.</string>
+	<string key="ui_fixed_appearance_tooltip" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; are applied to your character and will be applied to any item equipped in the same slot until you change its appearance or remove it.</string>
 	<string key="ui_transfer_requirement" rel_version="Feature_MTX">Transfer Requirements</string>
 	<string key="ui_transfer_requirement_tooltip_world_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;World Transfer Requirements&lt;/font&gt;</string>
 	<string key="ui_transfer_requirement_tooltip_region_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Additional Requirements for Region Transfers&lt;/font&gt;</string>
@@ -103,38 +102,38 @@
 	<string key="ui_transfer_no_transfer_tooltip" rel_version="Feature_MTX">Characters cannot currently transfer from this world.</string>
 	<string key="ui_transfer_no_transfer_tooltip_freshstart" rel_version="Feature_MTX">Characters cannot transfer from Fresh Start Worlds.</string>
 	<string key="ui_item_restrictions" rel_version="Feature_MTX">More Details</string>
-	<string key="ui_item_restrictions_item_skins" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; require the base item to be equipped in order to be visible. &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; cannot be dyed.</string>
+	<string key="ui_item_restrictions_item_skins" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; require the base item to be equipped in order to be visible.</string>
 	<string key="ui_item_restrictions_crests" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Company Crests&lt;/font&gt; can only be used if you are the governor (creator) of a company.</string>
 	<string key="ui_item_restrictions_housing_items" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Housing Items&lt;/font&gt; can only be used after you have unlocked housing and own a house.\n\nA limited number of &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Lighting and Animated Items&lt;/font&gt; can be displayed in a house at any time.</string>
-	<string key="ui_item_restrictions_dyes" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Dyes&lt;/font&gt; can only be applied on your armor. If the armor is traded or sold the dye will be removed and not returned. You cannot apply dyes on skins.</string>
+	<string key="ui_item_restrictions_dyes" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Dyes&lt;/font&gt; can only be applied on your armor. If the armor is traded or sold the dye will be removed and not returned.</string>
 	<string key="ui_item_restrictions_camp_skins" rel_version="Feature_Camp_Skins">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Camp Skins&lt;/font&gt; require camping to be unlocked.</string>
 	<string key="ui_non_returnable" rel_version="Feature_MTX">Item is non-refundable.</string>
 	<string key="ui_order_history_dec" rel_version="Feature_MTX">Displays your 10 most recent store unlocks.</string>
-	<string key="ui_expand_bundle" rel_version="Feature_MTX">Bundle (Click to Expand)</string>
-	<string key="ui_collapse_bundle" rel_version="Feature_MTX">Bundle (Click to Collapse)</string>
+	<string key="ui_expand_bundle" rel_version="Feature_MTX">Bundle (Select to Expand)</string>
+	<string key="ui_collapse_bundle" rel_version="Feature_MTX">Bundle (Select to Collapse)</string>
 	<string key="ui_type_none" rel_version="Feature_MTX">No type Data</string>
 	<string key="ui_mtx_unavailable" rel_version="Feature_MTX">Product not available</string>
 	<string key="ui_mtx_dye_description_default" rel_version="Feature_MTX">Used to dye parts of clothing and armor.</string>
 	<string key="ui_bundle_tooltip" rel_version="Feature_MTX">This product is a bundle.</string>
-	<string key="reward_type_tooltip_emote" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;EMOTES&lt;/font&gt; : You can use an emote in the Emotes menu. Press [{hintText}] to Open Emotes menu.</string>
-	<string key="reward_type_tooltip_itemskin" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;ITEM SKINS&lt;/font&gt; : You can apply a skin by clicking on armor, tools and weapons in your inventory and then selecting “Change Skin.”</string>
-	<string key="reward_type_tooltip_campskin" rel_version="Feature_Camp_Skins">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;CAMP SKINS&lt;/font&gt; : You can apply the skin by selecting “Change Skin” from your camp.</string>
-	<string key="reward_type_tooltip_itemdye" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;DYES&lt;/font&gt; : You can use a dye by clicking on armor in your inventory and then selecting “Dye Armor."</string>
-	<string key="reward_type_tooltip_token" rel_version="Feature_Seasons_Consumable_Tokens">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;BOOSTERS&lt;/font&gt; : You can use a booster by opening the Augments menu from your inventory.</string>
-	<string key="reward_type_tooltip_permit" rel_version="Feature_Seasons_Consumable_Tokens">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;EMOTE PERMITS&lt;/font&gt; : You can use an Emote Permit by opening the Augments menu from your inventory.</string>
-	<string key="reward_type_tooltip_guildcrest" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;CRESTS&lt;/font&gt; : You can apply crests in the Company screen.</string>
-	<string key="reward_type_tooltip_housing_item" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;HOUSING ITEMS&lt;/font&gt; : You can place housing items in Housing Decoration mode when you are in your house.</string>
-	<string key="reward_type_tooltip_player_title" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;TITLES&lt;/font&gt; : You can apply a title in the Bio tab of the Character menu and then “Change title.”</string>
+	<string key="reward_type_tooltip_emote" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;EMOTES&lt;/font&gt; : Use an emote in the Emotes menu. Press [{hintText}] to Open Emotes menu.</string>
+	<string key="reward_type_tooltip_itemskin" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;ITEM SKINS&lt;/font&gt; : Apply a skin by selecting equipped armor, tools and weapons and then choosing “Change Skin.”</string>
+	<string key="reward_type_tooltip_campskin" rel_version="Feature_Camp_Skins">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;CAMP SKINS&lt;/font&gt; : Apply the skin by selecting “Change Skin” from your camp.</string>
+	<string key="reward_type_tooltip_itemdye" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;DYES&lt;/font&gt; : Use a dye by selecting an equipped armor and then selecting “Dye."</string>
+	<string key="reward_type_tooltip_token" rel_version="Feature_Seasons_Consumable_Tokens">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;BOOSTERS&lt;/font&gt; : Use a booster by opening the Augments menu from your inventory.</string>
+	<string key="reward_type_tooltip_permit" rel_version="Feature_Seasons_Consumable_Tokens">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;EMOTE PERMITS&lt;/font&gt; : Use an Emote Permit by opening the Augments menu from your inventory.</string>
+	<string key="reward_type_tooltip_guildcrest" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;CRESTS&lt;/font&gt; : Apply crests in the Company screen.</string>
+	<string key="reward_type_tooltip_housing_item" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;HOUSING ITEMS&lt;/font&gt; : Place housing items in Housing Decoration mode when you are in your house.</string>
+	<string key="reward_type_tooltip_player_title" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;TITLES&lt;/font&gt; : Apply a title in the Bio tab of the Character menu and then “Change title.”</string>
 	<string key="reward_type_tooltip_inventory_item" rel_version="Feature_MTX">Use this item in Inventory.</string>
 	<string key="reward_type_tooltip_extra" rel_version="Feature_MTX">This product is an extra.</string>
 	<string key="reward_type_tooltip_entitlement" rel_version="Feature_MTX">This product is an entitlement.</string>
-	<string key="reward_type_tooltip_marks_of_fortune" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;MARKS OF FORTUNE&lt;/font&gt; : You can use this currency in the Store to purchase a product.</string>
+	<string key="reward_type_tooltip_marks_of_fortune" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;MARKS OF FORTUNE&lt;/font&gt; : Use this currency in the Store to purchase a product.</string>
 	<string key="reward_type_tooltip_service" rel_version="Feature_MTX">If your character fulfills all requirements to transfer, select a world and/or region to transfer to.</string>
-	<string key="reward_type_tooltip_loadout" rel_version="Feature_Gear_Set_Storage">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;GEAR SET&lt;/font&gt; : You can assign items to a new Gear Set slot from your inventory.</string>
-	<string key="reward_type_tooltip_transmog" rel_version="Season_2_Perm">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;TRANSMOG TOKEN&lt;/font&gt; : You can use this token to unlock appearances at the Stylemancer.</string>
-	<string key="reward_type_tooltip_mount" rel_version="Feature_Mounts">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;MOUNTS&lt;/font&gt; : You can use a mount to travel the world faster and level up your Riding skill.</string>
-	<string key="reward_type_tooltip_mountattachment" rel_version="Feature_Mounts">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;MOUNT ATTACHMENT SKINS&lt;/font&gt; : You can use mount attachments to decorate the sides of your mount.</string>
-	<string key="reward_type_tooltip_itemmountdye" rel_version="Feature_Mounts">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;MOUNT ARMOR DYE&lt;/font&gt; : You can use mount armor dye to dye parts of your mount's clothing and armor.</string>
+	<string key="reward_type_tooltip_loadout" rel_version="Feature_Gear_Set_Storage">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;GEAR SET&lt;/font&gt; : Assign items to a new Gear Set slot from your inventory.</string>
+	<string key="reward_type_tooltip_transmog" rel_version="Season_2_Perm">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;TRANSMOG TOKEN&lt;/font&gt; : Use this token to unlock appearances at the Stylemancer.</string>
+	<string key="reward_type_tooltip_mount" rel_version="Feature_Mounts">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;MOUNTS&lt;/font&gt; : Use a mount to travel the world faster and level up your Riding skill.</string>
+	<string key="reward_type_tooltip_mountattachment" rel_version="Feature_Mounts">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;MOUNT ATTACHMENT SKINS&lt;/font&gt; : Use mount attachments to decorate the sides of your mount.</string>
+	<string key="reward_type_tooltip_itemmountdye" rel_version="Feature_Mounts">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;MOUNT ARMOR DYE&lt;/font&gt; : Use mount armor dye to dye parts of your mount's clothing and armor.</string>
 	<string key="ui_crest_disclaimer" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Notice:&lt;/font&gt; Company Crests can only be used if you are the governor (creator) of the company.</string>
 	<string key="ui_disabled_default_title" rel_version="Feature_MTX">Content Unavailable</string>
 	<string key="ui_disabled_default_description" rel_version="Feature_MTX">This content is currently unavailable.</string>
@@ -729,6 +728,7 @@
 	<string key="reward_type_Weaponskin_IceGauntlet" rel_version="New_World_Launch">Ice Gauntlet Skin</string>
 	<string key="reward_type_Weaponskin_VoidGauntlet" rel_version="Weapon_Void_Gauntlet">Void Gauntlet Skin</string>
 	<string key="reward_type_Weaponskin_Blunderbuss" rel_version="Weapon_Blunderbuss">Blunderbuss Skin</string>
+	<string key="reward_type_Weaponskin_Flail" rel_version="Entitlements_FirstLightMTX">Flail Skin</string>
 	<string key="reward_type_Apparelskin" rel_version="New_World_Launch">Apparel Skin</string>
 	<string key="reward_type_Weaponskin_Spear" rel_version="New_World_Launch">Spear Skin</string>
 	<string key="reward_type_house_pet" rel_version="New_World_Launch">House Pet</string>
@@ -974,7 +974,7 @@
 	<string key="Bundle_PR_DarkFae_Weapon_name" rel_version="Entitlements_DarkFae_MTX">Dusk Spirit Weapon Bundle</string>
 	<string key="Bundle_PR_DarkFae_Weapon_description" rel_version="Entitlements_DarkFae_MTX">The results are both unpredictable and enchanting when using weapons blessed by the spirits of the wild.</string>
 	<string key="Additional_Loadout_name" rel_version="Feature_Gear_Set_Storage">Additional Gear Set Slot</string>
-	<string key="Additional_Loadout_description" rel_version="Feature_Gear_Set_Storage">A slot for holding a Gear Set for the activity of your choosing. A maximum of six slots can be purchased.\nGear Sets are not available for use until level 25.</string>
+	<string key="Additional_Loadout_description" rel_version="Feature_Gear_Set_Storage">A slot for holding a Gear Set for the activity of your choosing. A maximum of seven slots can be purchased, for a total of nine slots.\nGear Sets are not available for use until level 25.</string>
 	<string key="Bundle_PR_WinterConv2022_Apparel_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Winter Convergence Apparel Bundle</string>
 	<string key="Bundle_PR_WinterConv2022_Apparel_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Stave off forever winter in festive spirit with these seasonal outfits!</string>
 	<string key="Bundle_PR_WinterConv2022_Weapons_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Winter Convergence Weapon Bundle</string>
@@ -1050,15 +1050,15 @@
 	<string key="reward_type_Toolskin_harvestingsickle">Harvesting Sickle Skin</string>
 	<string key="reward_type_Toolskin_azothstaff">Azoth Staff Skin</string>
 	<string key="Token_PremiumEmote_Firework1_name" rel_version="Feature_Premium_Emotes">Flower Firework Emote Permit</string>
-	<string key="Token_PremiumEmote_Firework1_description" rel_version="Feature_Premium_Emotes">A dazzling blast of color! Allows use of the Flower Rocket Firework emote for 2 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
+	<string key="Token_PremiumEmote_Firework1_description" rel_version="Feature_Premium_Emotes">A dazzling blast of color! Allows use of the Flower Rocket Firework emote for 24 hours.\n\nUse an Emote Permit by opening the Augments menu from your inventory.</string>
 	<string key="Token_PremiumEmote_Firework2_name" rel_version="Feature_Premium_Emotes">Dynasty Firework Emote Permit</string>
-	<string key="Token_PremiumEmote_Firework2_description" rel_version="Feature_Premium_Emotes">Vibrant holiday fun! Allows use of the Dynasty Rocket Firework emote for 2 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
+	<string key="Token_PremiumEmote_Firework2_description" rel_version="Feature_Premium_Emotes">Vibrant holiday fun! Allows use of the Dynasty Rocket Firework emote for 24 hours.\n\nUse an Emote Permit by opening the Augments menu from your inventory.</string>
 	<string key="Token_PremiumEmote_Firework3_name" rel_version="Feature_Premium_Emotes">Dryad Firework Emote Permit</string>
-	<string key="Token_PremiumEmote_Firework3_description" rel_version="Feature_Premium_Emotes">An explosion of emerald! Allows use of the Dryad Rocket Firework emote for 2 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
+	<string key="Token_PremiumEmote_Firework3_description" rel_version="Feature_Premium_Emotes">An explosion of emerald! Allows use of the Dryad Rocket Firework emote for 24 hours.\n\nUse an Emote Permit by opening the Augments menu from your inventory.</string>
 	<string key="Token_PremiumEmote_Firework4_name" rel_version="Feature_Premium_Emotes">Ancient Firework Emote Permit</string>
-	<string key="Token_PremiumEmote_Firework4_description" rel_version="Feature_Premium_Emotes">Purple explosion! Allows use of the Ancient Rocket Firework emote for 2 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
+	<string key="Token_PremiumEmote_Firework4_description" rel_version="Feature_Premium_Emotes">Purple explosion! Allows use of the Ancient Rocket Firework emote for 24 hours.\n\nUse an Emote Permit by opening the Augments menu from your inventory.</string>
 	<string key="Token_PremiumEmote_Firework5_name" rel_version="Feature_Premium_Emotes">Shooting Star Firework Emote Permit</string>
-	<string key="Token_PremiumEmote_Firework5_description" rel_version="Feature_Premium_Emotes">Caution! May emit showers of sparks! Allows use of the Shooting Star Firework emote for 2 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
+	<string key="Token_PremiumEmote_Firework5_description" rel_version="Feature_Premium_Emotes">Caution! May emit showers of sparks! Allows use of the Shooting Star Firework emote for 24 hours.\n\nUse an Emote Permit by opening the Augments menu from your inventory.</string>
 	<string key="Token_Transmog_X1_name" rel_version="Season_2_Perm">Transmog Token</string>
 	<string key="Token_Transmog_X1_description" rel_version="Season_2_Perm">Each Transmog token allows you to capture one item appearance for use as a skin.</string>
 	<string key="Token_Transmog_X5_name" rel_version="Season_2_Perm">Transmog Token Pack</string>
@@ -1168,22 +1168,27 @@
 	<string key="SeasonPass_HeadStart_Season_3_name" rel_version="Season_3_Perm">Premium Pass Head Start - Season 3</string>
 	<string key="reward_type_token_single" rel_version="Feature_Transmog">Token</string>
 	<string key="Token_PremiumEmote_WitchBroom_name" rel_version="Entitlements_Seance">Witch's Broom Permit</string>
-	<string key="Token_PremiumEmote_WitchBroom_description" rel_version="Entitlements_Seance">Fly, my pretty! \nPermit grants the use of Witch's Broom emote for 24 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
+	<string key="Token_PremiumEmote_WitchBroom_description" rel_version="Entitlements_Seance">Fly, my pretty! \nPermit grants use of Witch's Broom emote for 24 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
 	<string key="Bundle_PR_Seance_Masks_name" rel_version="Entitlements_Seance">Séance Mask Bundle</string>
 	<string key="Bundle_PR_Seance_Masks_description" rel_version="Entitlements_Seance">Spirits from beyond the grave roam more freely on Aeternum than the world at large. Best they don't know you too intimately.</string>
 	<string key="Bundle_PR_Elven_Timbersworn_name" rel_version="Entitlements_FirstLightMTX">Timbersworn Bundle</string>
 	<string key="Bundle_PR_Elven_Silverswept_name" rel_version="Entitlements_FirstLightMTX">Silverswept Bundle</string>
 	<string key="Bundle_PR_Elven_VerdantDawn_name" rel_version="Entitlements_FirstLightMTX">Verdant Dawn Bundle</string>
-	<string key="reward_type_Weaponskin_Flail" rel_version="Entitlements_FirstLightMTX">Flail Skin</string>
-	<string key="Apparel_Seance_TheEffigy_name">The Effigy</string>
-	<string key="Apparel_Seance_TheProphet_name">The Prophet</string>
-	<string key="Apparel_Seance_TheHayMan_name">The Hay Man</string>
-	<string key="Apparel_Seance_TheFerryman_name">The Ferryman</string>
+	<string key="Emote_CanCanDance_name" rel_version="Entitlements_Ronin">Can-can Dance</string>
+	<string key="Emote_CanCanDance_description" rel_version="Entitlements_Ronin">Show off those high kicks. Higher. HIGHER!</string>
+	<string key="ui_effects">Effects</string>
+	<string key="ui_skins_and_effects">Skins &amp; Effects</string>
+	<string key="ui_emote_permits">Emote Permits</string>
+	<string key="ui_furniture">Furniture</string>
+	<string key="ui_house_pets">House Pets</string>
+	<string key="ui_miscellaneous">Miscellaneous</string>
+	<string key="ui_boosters">Boosters</string>
+	<string key="ui_mount_effects">Mount Effects</string>
 	<string key="Bundle_PR_BF_Gladekeeper_name" rel_version="Entitlements_Gothknight">Gladekeeper Bundle</string>
 	<string key="Bundle_PR_BF_Gladekeeper_description" rel_version="Entitlements_Gothknight">The glade remains peaceful and serene only due to your steadfast protection.</string>
 	<string key="Bundle_PR_BF_KnightofHonor_name" rel_version="Entitlements_Gothknight">Knight of Honor Bundle</string>
-	<string key="Bundle_PR_BF_KnightofHonor_description" rel_version="Entitlements_Gothknight">Chivalry isn't dead. Not as long as you're alive.</string>
-	<string key="Bundle_PR_BF_MaulersBrawlers_name" rel_version="Entitlements_Gothknight">Maulers and Brawlers Bundle</string>
+	<string key="Bundle_PR_BF_KnightofHonor_description" rel_version="Entitlements_Gothknight">Chivalry isn't dead. Not as long as your alive.</string>
+	<string key="Bundle_PR_BF_MaulersBrawlers_name" rel_version="Entitlements_Gothknight">Maulers and Brawler's Bundle</string>
 	<string key="Bundle_PR_BF_MaulersBrawlers_description" rel_version="Entitlements_Gothknight">Reach out and touch someone extremely forcefully with a deadly implement.</string>
 	<string key="Bundle_PR_BF_AzothArcana_name" rel_version="Entitlements_Gothknight">Azoth Arcana Bundle</string>
 	<string key="Bundle_PR_BF_AzothArcana_description" rel_version="Entitlements_Gothknight">For those who feel the threads of magic interwoven with their very being.</string>
@@ -1195,5 +1200,8 @@
 	<string key="Dye_Red_description" rel_version="Entitlements_Gothknight">Consumable Dye Pack</string>
 	<string key="Dye_White_name" rel_version="Entitlements_Gothknight">Virtuous White</string>
 	<string key="Dye_White_description" rel_version="Entitlements_Gothknight">Consumable Dye Pack</string>
+	<string key="Apparel_Seance_TheEffigy_name" rel_version="Entitlements_Seance">The Effigy</string>
+	<string key="SeasonPass_Premium_Season_4_name" rel_version="Season_4_Perm">Premium Pass - Season 4</string>
+	<string key="SeasonPass_HeadStart_Season_4_name" rel_version="Season_4_Perm">Premium Pass Head Start - Season 4</string>
 </resources>
 

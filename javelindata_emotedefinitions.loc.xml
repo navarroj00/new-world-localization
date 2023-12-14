@@ -142,7 +142,6 @@
 	<string key="ui_emote_Watching_description">"Eternal vigilance."</string>
 	<string key="ui_emote_No_description">No Emote Description</string>
 	<string key="ui_emote_Clap_description">Clap Emote Description</string>
-	<string key="ui_emote_surrender_description">Surrender Emote Description</string>
 	<string key="ui_emote_pray_description" rel_version="Emote_Pray">"Prostrate thyself before a higher power."</string>
 	<string key="ui_emote_nope_description">Nope Emote Description</string>
 	<string key="ui_emote_Beckon_description">Beckon Emote Description</string>
@@ -524,7 +523,7 @@
 	<string key="ui_Emote_Walk_Trex_description" rel_version="Emotes_Seance">Everybody do the dinosaur.</string>
 	<string key="Emote_Walk_Trex" rel_version="Emotes_Seance">{playerName} unleashes their inner T-rex.</string>
 	<string key="ui_Emote_WitchBroom_name" rel_version="Emotes_Seance">Witch's Broom</string>
-	<string key="ui_Emote_WitchBroom_description" rel_version="Emotes_Seance">Fly, my pretty!\n\nAccess by triggering a Witch's Broom Emote Permit.</string>
+	<string key="ui_Emote_WitchBroom_description" rel_version="Emotes_Seance">"Fly, my pretty!"\n\nAccess by triggering a Witch's Broom Emote Permit.</string>
 	<string key="Emote_WitchBroom" rel_version="Emotes_Seance">{playerName} hovers ominously.</string>
 	<string key="ui_Emote_WitchBroom">Witch's Broom</string>
 	<string key="ui_Emote_YouMeNow_name" rel_version="Season_3_Perm">You, Me, NOW!</string>
@@ -534,5 +533,36 @@
 	<string key="ui_Emote_CraneKick_description" rel_version="Emotes_Gothknight">Kick it with your buddies. Or just kick your buddies. Either works.</string>
 	<string key="Emote_CraneKick" rel_version="Emotes_Gothknight">{playerName} performs a flawless crane kick!</string>
 	<string key="ui_Emote_CraneKick" rel_version="Emotes_Gothknight">Crane Kick</string>
+	<string key="ui_Emote_PopTheBottle_name" rel_version="Event_WinterConvergence2023_Perm">Pop The Bottle</string>
+	<string key="ui_Emote_PopTheBottle_description" rel_version="Event_WinterConvergence2023_Perm">Celebrate your big victories! Or even your little ones.</string>
+	<string key="Emote_PopTheBottle" rel_version="Event_WinterConvergence2023_Perm">{playerName} pops a bottle in celebration.</string>
+	<string key="ui_Emote_Walk_IceSkate_name" rel_version="Event_WinterConvergence2023_Perm">Ice Skate</string>
+	<string key="ui_Emote_Walk_IceSkate_description" rel_version="Event_WinterConvergence2023_Perm">Ice skating looks so elegant, until you fall that is.</string>
+	<string key="Emote_Walk_IceSkate" rel_version="Event_WinterConvergence2023_Perm">{playerName} ice skates around gracefully.</string>
+	<string key="ui_Emote_JingleBell_name" rel_version="Event_WinterConvergence2023_Perm">Jingle Bell</string>
+	<string key="ui_Emote_JingleBell_description" rel_version="Event_WinterConvergence2023_Perm">Let everybody know that your sleigh is coming through. Wait, where's the sleigh?</string>
+	<string key="Emote_JingleBell" rel_version="Event_WinterConvergence2023_Perm">{playerName} jingles a little bell.</string>
+	<string key="ui_Emote_SnowballThrow_name">Snowball Throw</string>
+	<string key="ui_Emote_SnowballThrow_description">Snow way this is going to start a fight. Right?</string>
+	<string key="Emote_SnowballThrow">{playerName} lobs a snowball.</string>
+	<string key="ui_Emote_SnowballThrow" rel_version="Entitlements_Ronin">Snowball Throw</string>
+	<string key="ui_Emote_CanCanDance_name" rel_version="Entitlements_Ronin">Can-can dance</string>
+	<string key="ui_Emote_CanCanDance_description" rel_version="Entitlements_Ronin">Show off those high kicks. Higher. HIGHER!</string>
+	<string key="Emote_CanCanDance">{playerName} can do the can-can.</string>
+	<string key="ui_Emote_KneelingPraise_name">Kneeling Praise</string>
+	<string key="ui_Emote_KneelingPraise_description">Drop to your knees in reverence and praise… or in sarcasm. I won't tell.</string>
+	<string key="Emote_KneelingPraise">{playerName} dishes out lavish praise.</string>
+	<string key="ui_Emote_DanceSwing1_name">Aeternum Kick</string>
+	<string key="ui_Emote_DanceSwing1_description">Put on your fanciest pants and kick it Aeternum style.</string>
+	<string key="Emote_DanceSwing1">{playerName} does the Aeternum Kick.</string>
+	<string key="ui_Emote_DanceSwing2_name">Oxboro Step</string>
+	<string key="ui_Emote_DanceSwing2_description">No, Gary, that's - you're doing it all wrong, Gary. Are you even TRYING? Watch - it's like THIS, not whatever THAT was.</string>
+	<string key="Emote_DanceSwing2">{playerName} does the Oxboro Step.</string>
+	<string key="ui_Emote_DanceSwing3_name">Azoth Hop</string>
+	<string key="ui_Emote_DanceSwing3_description">Contrary to the dance's name, the Azoth Hop does not require any Azoth to perform.</string>
+	<string key="Emote_DanceSwing3">{playerName} does the Azoth Hop.</string>
+	<string key="ui_Emote_PlayDead_name">Play Dead</string>
+	<string key="ui_Emote_PlayDead_description">Clearly they are faking it... Right?!?!?</string>
+	<string key="Emote_PlayDead">{playerName} has died... Probably.</string>
 </resources>
 

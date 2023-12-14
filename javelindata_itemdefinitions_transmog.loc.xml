@@ -619,7 +619,6 @@
 	<string key="graverobberlight_legs_TransmogName">Desecrator Light Legwear</string>
 	<string key="graverobberlight_feet_TransmogName">Desecrator Light Footwear</string>
 	<string key="graverobberlight_hands_TransmogName">Desecrator Light Handwear</string>
-	<string key="graverobberlight_gloves_TransmogName">Desecrator Light Handwear</string>
 	<string key="graverobberlightt4_chest_TransmogName">Excavator Light Chestwear</string>
 	<string key="graverobberlightT4_Head_TransmogName">Excavator Light Headwear</string>
 	<string key="graverobberlightT4_Legs_TransmogName">Excavator Light Legwear</string>
@@ -1340,6 +1339,7 @@
 	<string key="Crassus_gloves_TransmogName">Golden Aureate Heavy Handwear</string>
 	<string key="crassusLegacy_chest_TransmogName">Decimus Heavy Chestwear</string>
 	<string key="crassusLegacy_head_TransmogName">Lucanus Heavy Headwear</string>
+	<string key="crassusLegacy_legs_TransmogName">Lucanus Heavy Legwear</string>
 	<string key="crassusLegacy_feet_TransmogName">Lucanus Heavy Footwear</string>
 	<string key="crassusLegacy_gloves_TransmogName">Decimus Heavy Handwear</string>
 	<string key="romansoldiert4_chest_TransmogName">Julian Medium Chestwear</string>
@@ -3603,7 +3603,6 @@
 	<string key="1hLongswordVinespunT4_TransmogName">Vinespun Starmetal Longsword</string>
 	<string key="1hRapierVinespunT4_TransmogName">Vinespun Starmetal Rapier</string>
 	<string key="2hspearVinespunT4_TransmogName">Vinespun Starmetal Spear</string>
-	<string key="2hBlunderbussVinespunT4_TransmogName">Vinespun Starmetal Blunderbuss</string>
 	<string key="2hVoidGauntletVoidbentT4_TransmogName">Voidbent Starmetal Void Gauntlet</string>
 	<string key="2hVoidicegauntletbentT4_TransmogName">Voidbent Starmetal Ice Gauntlet</string>
 	<string key="2hMusketVoidbentT4_TransmogName">Voidbent Starmetal Musket</string>
@@ -3705,7 +3704,7 @@
 	<string key="1hThrowingAxeViciousT5_TransmogName">Vicious Orichalcum Hatchet</string>
 	<string key="2hStaffLifeViciousT5_TransmogName">Vicious Orichalcum Life Staff</string>
 	<string key="2hStaffFireViciousT5_TransmogName">Vicious Orichalcum Fire Staff</string>
-	<string key="1hKiteShieldViciousT5_TransmogName">Elegant Orichalcum Kite Shield</string>
+	<string key="1hKiteShieldViciousT5_TransmogName">Vicious Orichalcum Kite Shield</string>
 	<string key="1hLongswordViciousT5_TransmogName">Vicious Orichalcum Longsword</string>
 	<string key="1hRapierViciousT5_TransmogName">Vicious Orichalcum Rapier</string>
 	<string key="2hspearViciousT5_TransmogName">Vicious Orichalcum Spear</string>
@@ -3723,7 +3722,6 @@
 	<string key="1hLongswordVinespunT5_TransmogName">Vinespun Orichalcum Longsword</string>
 	<string key="1hRapierVinespunT5_TransmogName">Vinespun Orichalcum Rapier</string>
 	<string key="2hspearVinespunT5_TransmogName">Vinespun Orichalcum Spear</string>
-	<string key="2hBlunderbussVinespunT5_TransmogName">Vinespun Orichalcum Blunderbuss</string>
 	<string key="2hVoidGauntletVoidbentT5_TransmogName">Voidbent Orichalcum Void Gauntlet</string>
 	<string key="2hVoidicegauntletbentT5_TransmogName">Voidbent Orichalcum Ice Gauntlet</string>
 	<string key="2hMusketVoidbentT5_TransmogName">Voidbent Orichalcum Musket</string>
@@ -3787,7 +3785,6 @@
 	<string key="1hFlailFirstLightT5_TransmogName" comment="DO NOT TRANSLATE" rel_version="Territory_FirstLight">TEMP Flail</string>
 	<string key="dynasty_sword_corrupted_TransmogName">Corrupted Dynasty Longsword</string>
 	<string key="dynasty_musket_corrupted_TransmogName">Corrupted Dynasty Musket</string>
-	<string key="Leaderboard_chest_TransmogName">Mantle of the Champion</string>
 	<string key="Leaderboard_chest_TransmogName">Mantle of the Champion</string>
 	<string key="LeaderboardAmrineStarStonecleartime_chest_TransmogName">Mantle of the Champion - Warrior of The Starstone Barrows</string>
 	<string key="LeaderboardAmrineStarStonescore_chest_TransmogName">Mantle of the Champion - Hero of The Starstone Barrows</string>
@@ -3963,24 +3960,24 @@
 	<string key="1hKiteShieldLostKnightTank_TransmogName" rel_version="Territory_FirstLight">Lost Knight Shield</string>
 	<string key="2hGreatAxeViking_TransmogName">Norse Great Axe</string>
 	<string key="1hRoundShieldVikingT3_TransmogName">Norse Round Shield</string>
-	<string key="2hBowCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Bow</string>
-	<string key="2hGreatAxeCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Great Axe</string>
-	<string key="1hKiteShieldCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Kite Shield</string>
-	<string key="1hSwordCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Longsword</string>
-	<string key="2hMusketCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Musket</string>
-	<string key="1hRapierCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Rapier</string>
-	<string key="1hRoundShieldCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Round Shield</string>
-	<string key="2hSpearCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Spear</string>
-	<string key="1hHatchetCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Hatchet</string>
-	<string key="2hWarhammerCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw War Hammer</string>
-	<string key="2hFireStaffCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Fire Staff</string>
-	<string key="2hLifeStaffCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Life Staff</string>
-	<string key="1hTowerShieldCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Tower Shield</string>
-	<string key="2hIceGauntletCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Ice Gauntlet</string>
-	<string key="2hVoidGauntletCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Void Gauntlet</string>
-	<string key="2hBlunderbussCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Blunderbuss</string>
-	<string key="2hGreatswordCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Greatsword</string>
-	<string key="1hFlailCrystalclawT5_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Flail</string>
+	<string key="2hBowCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Bow</string>
+	<string key="2hGreatAxeCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Great Axe</string>
+	<string key="1hKiteShieldCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Kite Shield</string>
+	<string key="1hSwordCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Longsword</string>
+	<string key="2hMusketCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Musket</string>
+	<string key="1hRapierCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Rapier</string>
+	<string key="1hRoundShieldCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Round Shield</string>
+	<string key="2hSpearCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Spear</string>
+	<string key="1hHatchetCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Hatchet</string>
+	<string key="2hWarhammerCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw War Hammer</string>
+	<string key="2hFireStaffCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Fire Staff</string>
+	<string key="2hLifeStaffCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Life Staff</string>
+	<string key="1hTowerShieldCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Tower Shield</string>
+	<string key="2hIceGauntletCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Ice Gauntlet</string>
+	<string key="2hVoidGauntletCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Void Gauntlet</string>
+	<string key="2hBlunderbussCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Blunderbuss</string>
+	<string key="2hGreatswordCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Greatsword</string>
+	<string key="1hFlailCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Flail</string>
 	<string key="robinHood_head_TransmogName">Robin Hood Helm - Light Headwear</string>
 	<string key="robinHood_chest_TransmogName">Robin Hood Coat - Light Chestwear</string>
 	<string key="robinHood_hands_TransmogName">Robin Hood Gloves - Light Handwear</string>
@@ -4969,7 +4966,6 @@
 	<string key="1hFlailAngryEarthT4_TransmogName">Angry Earth Starmetal Flail</string>
 	<string key="1hFlailAngryEarthT5_TransmogName">Angry Earth Orichalcum Flail</string>
 	<string key="1hFlailVarangianKnightsV3T5_TransmogName">Varangian Flail</string>
-	<string key="1hFlailWaterloggedSirenT5_TransmogName">Dark Tide Flail</string>
 	<string key="1hFlailBreachT5_TransmogName">Breach Flail</string>
 	<string key="1hFlailInvasionT5_TransmogName">Invasion Flail</string>
 	<string key="1hFlailWaterloggedSirenST5_TransmogName">Siren Flail</string>
@@ -5209,21 +5205,21 @@
 	<string key="1hshieldcetherealt5_TransmogName">Ethereal Orichalcum Tower Shield</string>
 	<string key="1hshieldcabyssalt4_TransmogName">Abyssal Starmetal Tower Shield</string>
 	<string key="1hshieldcabyssalt5_TransmogName">Abyssal Orichalcum Tower Shield</string>
-	<string key="CrystalclawL_chest_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Lion Light Chestwear</string>
-	<string key="CrystalclawL_head_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Lion Light Headwear</string>
-	<string key="CrystalclawL_legs_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Lion Light Legwear</string>
-	<string key="CrystalclawL_feet_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Lion Light Footwear</string>
-	<string key="CrystalclawL_gloves_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Lion Light Handwear</string>
-	<string key="CrystalclawM_Chest_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Gorilla Medium Chestwear</string>
-	<string key="CrystalclawM_head_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Gorilla Medium Headwear</string>
-	<string key="CrystalclawM_legs_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Gorilla Medium Legwear</string>
-	<string key="CrystalclawM_feet_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Gorilla Medium Footwear</string>
-	<string key="CrystalclawM_gloves_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Gorilla Medium Handwear</string>
-	<string key="CrystalclawH_chest_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Mammoth Heavy Chestwear</string>
-	<string key="CrystalclawH_head_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Mammoth Heavy Headwear</string>
-	<string key="CrystalclawH_legs_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Mammoth Heavy Legwear</string>
-	<string key="CrystalclawH_feet_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Mammoth Heavy Footwear</string>
-	<string key="CrystalclawH_gloves_TransmogName" rel_version="Expedition_firstlight_01">Crystalclaw Mammoth Heavy Handwear</string>
+	<string key="CrystalclawL_chest_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Lion Light Chestwear</string>
+	<string key="CrystalclawL_head_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Lion Light Headwear</string>
+	<string key="CrystalclawL_legs_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Lion Light Legwear</string>
+	<string key="CrystalclawL_feet_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Lion Light Footwear</string>
+	<string key="CrystalclawL_gloves_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Lion Light Handwear</string>
+	<string key="CrystalclawM_Chest_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Gorilla Medium Chestwear</string>
+	<string key="CrystalclawM_head_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Gorilla Medium Headwear</string>
+	<string key="CrystalclawM_legs_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Gorilla Medium Legwear</string>
+	<string key="CrystalclawM_feet_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Gorilla Medium Footwear</string>
+	<string key="CrystalclawM_gloves_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Gorilla Medium Handwear</string>
+	<string key="CrystalclawH_chest_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Mammoth Heavy Chestwear</string>
+	<string key="CrystalclawH_head_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Mammoth Heavy Headwear</string>
+	<string key="CrystalclawH_legs_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Mammoth Heavy Legwear</string>
+	<string key="CrystalclawH_feet_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Mammoth Heavy Footwear</string>
+	<string key="CrystalclawH_gloves_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Mammoth Heavy Handwear</string>
 	<string key="HeroicHeavy_chest_TransmogName" rel_version="Territory_FirstLight">Heroic Heavy Chestwear</string>
 	<string key="HeroicHeavy_head_TransmogName" rel_version="Territory_FirstLight">Heroic Heavy Headwear</string>
 	<string key="HeroicHeavy_legs_TransmogName" rel_version="Territory_FirstLight">Heroic Heavy Legwear</string>
@@ -5287,6 +5283,71 @@
 	<string key="legendarylightchest2_chest_TransmogName" rel_version="Territory_FirstLight">Legendary Coat</string>
 	<string key="nagacorruptedmedium_hands_TransmogName" rel_version="Expedition_BrimstoneSands_00">Legendary Naga Gloves</string>
 	<string key="nagacorruptedmedium_legs_TransmogName" rel_version="Expedition_BrimstoneSands_00">Legendary Naga Pants</string>
+	<string key="EternalFrostTrialsL_chest_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="EternalFrostTrialsL_head_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="EternalFrostTrialsL_legs_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="EternalFrostTrialsL_feet_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="EternalFrostTrialsL_gloves_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="EternalFrostTrialsH_chest_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="EternalFrostTrialsH_head_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="EternalFrostTrialsH_legs_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="EternalFrostTrialsH_feet_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="EternalFrostTrialsH_gloves_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="2hGreatAxeEternalFrostPassT5_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="2hMusketEternalFrostPassT5_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="1hRapierEternalFrostPassT5_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="1hHatchetEternalFrostPassT5_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="2hWarhammerEternalFrostPassT5_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="2hLifeStaffEternalFrostPassT5_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="2hIceGauntletEternalFrostPassT5_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="2hBlunderbussEternalFrostPassT5_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="Skin_EternalFrostPass_FishingPole_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="Skin_EternalFrostPass_AzothStaff_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="Skin_EternalFrostPass_LoggingAxe_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="Skin_EternalFrostPass_Pickaxe_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="Skin_EternalFrostPass_Sickle_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="Skin_EternalFrostPass_SkinningKnife_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="Skin_LegacyOfCrassus_FishingPole_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="Skin_LegacyOfCrassus_AzothStaff_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="Skin_LegacyOfCrassus_LoggingAxe_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="Skin_LegacyOfCrassus_Pickaxe_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="Skin_LegacyOfCrassus_Sickle_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
+	<string key="Skin_LegacyOfCrassus_SkinningKnife_TransmogName" comment="DO NOT TRANSLATE" rel_version="Season_4_Trial">TEMP TRANSMOG STRING BUGME</string>
 	<string key="wraithhunterlightnailst3_chest_TransmogName" rel_version="Feature_Artifacts">Wrathful Hunter Light Chestwear</string>
+	<string key="IceCommanderAIC_chest_TransmogName" rel_version="Expedition_GreatCleave_00">Frigid Dawn Heavy Chestwear</string>
+	<string key="IceCommanderAIC_head_TransmogName" rel_version="Expedition_GreatCleave_00">Frigid Dawn Heavy Headwear</string>
+	<string key="IceCommanderAIC_legs_TransmogName" rel_version="Expedition_GreatCleave_00">Frigid Dawn Heavy Legwear</string>
+	<string key="IceCommanderAIC_feet_TransmogName" rel_version="Expedition_GreatCleave_00">Frigid Dawn Heavy Footwear</string>
+	<string key="IceCommanderAIC_gloves_TransmogName" rel_version="Expedition_GreatCleave_00">Frigid Dawn Heavy Handwear</string>
+	<string key="GlacialTarnCaptain_chest_TransmogName" rel_version="Expedition_GreatCleave_00">Glacial Captain's Medium Chestwear</string>
+	<string key="GlacialTarnCaptain_head_TransmogName" rel_version="Expedition_GreatCleave_00">Glacial Captain's Medium Headwear</string>
+	<string key="GlacialTarnCaptain_legs_TransmogName" rel_version="Expedition_GreatCleave_00">Glacial Captain's Medium Legwear</string>
+	<string key="GlacialTarnCaptain_feet_TransmogName" rel_version="Expedition_GreatCleave_00">Glacial Captain's Medium Footwear</string>
+	<string key="GlacialTarnCaptain_gloves_TransmogName" rel_version="Expedition_GreatCleave_00">Glacial Captain's Medium Handwear</string>
+	<string key="GlacialTarnIceSteel_chest_TransmogName" rel_version="Expedition_GreatCleave_00">Icesteel Heavy Chestwear</string>
+	<string key="GlacialTarnIceSteel_head_TransmogName" rel_version="Expedition_GreatCleave_00">Icesteel Heavy Headwear</string>
+	<string key="GlacialTarnIceSteel_legs_TransmogName" rel_version="Expedition_GreatCleave_00">Icesteel Heavy Legwear</string>
+	<string key="GlacialTarnIceSteel_feet_TransmogName" rel_version="Expedition_GreatCleave_00">Icesteel Heavy Footwear</string>
+	<string key="GlacialTarnIceSteel_gloves_TransmogName" rel_version="Expedition_GreatCleave_00">Icesteel Heavy Handwear</string>
+	<string key="GlacialTarnPorcelain_chest_TransmogName" rel_version="Expedition_GreatCleave_00">Porcelain Light Chestwear</string>
+	<string key="GlacialTarnPorcelain_head_TransmogName" rel_version="Expedition_GreatCleave_00">Porcelain Light Headwear</string>
+	<string key="GlacialTarnPorcelain_legs_TransmogName" rel_version="Expedition_GreatCleave_00">Porcelain Light Legwear</string>
+	<string key="GlacialTarnPorcelain_feet_TransmogName" rel_version="Expedition_GreatCleave_00">Porcelain Light Footwear</string>
+	<string key="GlacialTarnPorcelain_gloves_TransmogName" rel_version="Expedition_GreatCleave_00">Porcelain Light Handwear</string>
+	<string key="unholyDepthsHIce_chest_TransmogName" rel_version="Expedition_GreatCleave_00">Black Ice Heavy Chestwear</string>
+	<string key="unholyDepthsHIce_head_TransmogName" rel_version="Expedition_GreatCleave_00">Black Ice Heavy Headwear</string>
+	<string key="unholyDepthsHIce_legs_TransmogName" rel_version="Expedition_GreatCleave_00">Black Ice Heavy Legwear</string>
+	<string key="unholyDepthsHIce_feet_TransmogName" rel_version="Expedition_GreatCleave_00">Black Ice Heavy Footwear</string>
+	<string key="unholyDepthsHIce_gloves_TransmogName" rel_version="Expedition_GreatCleave_00">Black Ice Heavy Handwear</string>
+	<string key="unholyDepthsMIce_chest_TransmogName" rel_version="Expedition_GreatCleave_00">Tarnished Excavator's Medium Chestwear</string>
+	<string key="unholyDepthsMIce_head_TransmogName" rel_version="Expedition_GreatCleave_00">Tarnished Excavator's Medium Headwear</string>
+	<string key="unholyDepthsMIce_legs_TransmogName" rel_version="Expedition_GreatCleave_00">Tarnished Excavator's Medium Legwear</string>
+	<string key="unholyDepthsMIce_feet_TransmogName" rel_version="Expedition_GreatCleave_00">Tarnished Excavator's Medium Footwear</string>
+	<string key="unholyDepthsMIce_gloves_TransmogName" rel_version="Expedition_GreatCleave_00">Tarnished Excavator's Medium Handwear</string>
+	<string key="unholyDepthsLIce_chest_TransmogName" rel_version="Expedition_GreatCleave_00">Cold Hearted Light Chestwear</string>
+	<string key="unholyDepthsLIce_head_TransmogName" rel_version="Expedition_GreatCleave_00">Cold Hearted Light Headwear</string>
+	<string key="unholyDepthsLIce_legs_TransmogName" rel_version="Expedition_GreatCleave_00">Cold Hearted Light Legwear</string>
+	<string key="unholyDepthsLIce_feet_TransmogName" rel_version="Expedition_GreatCleave_00">Cold Hearted Light Footwear</string>
+	<string key="unholyDepthsLIce_gloves_TransmogName" rel_version="Expedition_GreatCleave_00">Cold Hearted Light Handwear</string>
 </resources>
 

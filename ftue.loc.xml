@@ -140,8 +140,8 @@
 	<string key="TUT_Drink3">Consuming food and drink restores health.</string>
 	<string key="TUT_Drink4">Drinking increases your stamina recovery.\nThirst makes you exhausted and vulnerable in combat.</string>
 	<string key="TUT_Drink5">You can equip armor, weapons, and consumables.</string>
-	<string key="TUT_Equipping">Drag or double-click to equip the shield.</string>
-	<string key="TUT_Quickslots">Drag or double-click the Light Rations to equip to your Quickslots.</string>
+	<string key="TUT_Equipping">Drag to equip the shield.</string>
+	<string key="TUT_Quickslots">Drag the Light Rations to equip to your Quickslots.</string>
 	<string key="TUT_Looting">Open the container</string>
 	<string key="TUT_TakeAll">Take all of the items</string>
 	<string key="TUT_Compass1">You have reached Aeternum.\n\nAzoth lanterns introduce concepts which will help you survive.\n\nFollow the path.</string>
@@ -235,6 +235,9 @@
 	<string key="TUT_Mastery_Points">You have &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt;&lt;/font&gt; unspent Mastery Point.</string>
 	<string key="ui_mudflats_location">MUDFLATS</string>
 	<string key="TUT_Hold">(HOLD)</string>
+	<string key="TUT_Short_Hold">(SHORT HOLD)</string>
+	<string key="TUT_Medium_Hold">(MEDIUM HOLD)</string>
+	<string key="TUT_Long_Hold">(LONG HOLD)</string>
 	<string key="TUT_MultiTap">(TAP {tapNumber})</string>
 	<string key="ui_content_unavailable_title">Content Unavailable</string>
 	<string key="ui_content_unavailable_message">This content is currently not available.</string>

@@ -12,7 +12,6 @@
 	<string key="LeatherT2_Down_Name">Downgrade Rugged Leather to Coarse Leather</string>
 	<string key="LeatherT3_Down_Name">Downgrade Layered Leather to Rugged Leather</string>
 	<string key="LeatherT4_Down_Name">Downgrade Infused Leather to Layered Leather</string>
-	<string key="LeatherT4_Down_Name">Downgrade Infused Leather to Layered Leather</string>
 	<string key="ClothT2_Down_Name">Downgrade Sateen to Linen</string>
 	<string key="ClothT3_Down_Name">Downgrade Silk to Sateen</string>
 	<string key="ClothT4_Down_Name">Downgrade Infused Silk to Silk</string>
@@ -510,6 +509,9 @@
 	<string key="Procedural_PotionBoostVoidAbsT3">Strong Void Absorption Potion</string>
 	<string key="Procedural_PotionBoostVoidAbsT4">Powerful Void Absorption Potion</string>
 	<string key="Procedural_PotionBoostVoidAbsT5">Infused Void Absorption Potion</string>
+	<string key="Procedural_PotionBoostIceAbsT3" rel_version="IceAbsorbPot">Strong Ice Absorption Potion</string>
+	<string key="Procedural_PotionBoostIceAbsT4" rel_version="IceAbsorbPot">Powerful Ice Absorption Potion</string>
+	<string key="Procedural_PotionBoostIceAbsT5" rel_version="IceAbsorbPot">Infused Ice Absorption Potion</string>
 	<string key="Procedural_HealthRecoveryT1">Light Ration</string>
 	<string key="Procedural_HealthRecoveryT2">Travel Ration</string>
 	<string key="Procedural_HealthRecoveryT3">Light Meal</string>
@@ -1896,6 +1898,9 @@
 	<string key="Procedural_GauntletVoidT3_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
 	<string key="Procedural_GauntletVoidT4_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
 	<string key="Procedural_GauntletVoidT5_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
+	<string key="PresentToken" rel_version="Event_WinterConvergence_Temp">Winter Token - Presents</string>
+	<string key="GleamiteToken" rel_version="Event_WinterConvergence_Temp">Winter Token - Gleamite</string>
+	<string key="WarriorToken" rel_version="Event_WinterConvergence_Temp">Winter Token - Warrior Hailspike</string>
 	<string key="ScrapExtractMetalT2">Extract Metal - Iron</string>
 	<string key="ScrapExtractMetalT3">Extract Metal - Steel</string>
 	<string key="ScrapExtractMetalT4">Extract Metal - Starmetal</string>
@@ -1991,23 +1996,31 @@
 	<string key="CraftArtifact_Set1_HeavyChest_Name">Void Darkplate Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_HeavyHands_Name">Magnetic Gauntlets Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_HeavyLegs_Name">Freedom Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_HeavyFeet_Name" rel_version="Feature_Artifacts_Set2">The Unmoved Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_MediumHead_Name">Djinn Headwrap Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_MediumChest_Name">Nimble Coat Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_MediumHands_Name">Ghoul Gloves Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_MediumLegs_Name">Attuned Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_MediumFeet_Name" rel_version="Feature_Artifacts_Set2">Winged Shoes Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_LightHead_Name">Grey Wizard's Hat Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_LightChest_Name">Featherweight Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_LightHands_Name" rel_version="Feature_Artifacts_Set2">Quickdraw Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_LightLegs_Name" rel_version="Feature_Artifacts_Set2">Koya's Knee Guards Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_LightFeet_Name">Tumbler Feetwraps Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_1hLongsword_Name">The Butcher Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_1hThrowingAxe_Name">Freya's Francisa Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_2hWarhammer_Name">Spark of Mjölnir Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_2hGreatAxe_Name">The Abyss Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_2hBow_Name" rel_version="Feature_Artifacts_Set2">Boltcaster Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_2hMusket_Name">The Mechanic Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_1hRoundShield_Name" rel_version="Feature_Artifacts_Set2">Gladiator Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_1hKiteShield_Name">Michael Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_1hTowerShield_Name">The Wall Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_2hStaffFire_Name">Inferno Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_2hStaffLife_Name" rel_version="Feature_Artifacts_Set2">Vengence Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_2hSpear_Name">Scorpion's Sting Upgrade at the Gypsum Kiln</string>
-	<string key="CraftArtifact_Set1_1hRapier_Name">Domingo's Blade Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_1hRapier_Name">Finisher Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_1hGauntletIce_Name" rel_version="Feature_Artifacts_Set2">Deep Freeze Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_1hGauntletVoid_Name">Lifetaker Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_2hBlunderbuss_Name">Pestilence Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_2hGreatSword_Name">Serenity Upgrade at the Gypsum Kiln</string>
@@ -2015,6 +2028,8 @@
 	<string key="CraftArtifact_Set1_Earring1_Name">Endless Thirst Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_Ring1_Name">Blood Drinker Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_Amulet1_Name">Lost Stopwatch Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_Earring2_Name" rel_version="Feature_Artifacts_Set2">Ocean's Peace Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set1_Ring2_Name" rel_version="Feature_Artifacts_Set2">Mastermind Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_Amulet2_Name">Ankh Upgrade at the Gypsum Kiln</string>
 </resources>
 

@@ -81,8 +81,11 @@
 	<string key="@ui_faction_store_discount_modifier_desc">Decreases the cost of items in the faction store by {value}.</string>
 	<string key="@ui_free_camping_desc">Camping no longer costs resources.</string>
 	<string key="@ui_chance_consumable_not_used_desc">Increases the chance that a consumable isn't consumed on use by {value}.</string>
+	<string key="@ui_fcp_crowdcontrol_title">Crowd Control</string>
 	<string key="@ui_fcp_crowdcontrol_qualified_warning">There are too many players flagged or from your faction in the faction control point area. Teleporting in {TeleportSeconds} seconds.</string>
 	<string key="@ui_fcp_crowdcontrol_unqualified_warning">There are too many players in the faction control point area. Teleporting in {TeleportSeconds} seconds.</string>
+	<string key="@ui_fcp_crowdcontrol_banner_warning">There are too many players near the Faction Control Point. Move out of the area or you will be teleported.\n\n&lt;font color="#EDC63E"&gt;Teleporting in {TeleportSeconds} seconds.&lt;/font&gt;</string>
+	<string key="@ui_fcp_crowdcontrol_banner_teleported">There were too many players flagged or from your faction in the faction control point area. You have been teleported to the nearest settlement.</string>
 	<string key="@ui_fcp_fast_travel_discounts_title">Faction Control Discounts</string>
 	<string key="@ui_fcp_faction_mission_bonus_label">(+{value} from FCP)</string>
 </resources>
