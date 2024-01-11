@@ -556,11 +556,9 @@
 	<string key="Avalancher_Shivers_25_VitalsName" speaker="Vitals Sheet" comment="Level Variant" rel_version="Event_WinterConvergence_Perm">Avalancher</string>
 	<string key="Avalancher_Shivers_60_VitalsName" speaker="Vitals Sheet" comment="Level Variant" rel_version="Event_WinterConvergence_Perm">Avalancher</string>
 	<string key="Avalancher_Shivers_VitalsName" speaker="Vitals Sheet" comment="BASE" rel_version="Event_WinterConvergence_Perm">Avalancher</string>
-	<string key="Avalancher_Shivers_YetiEncounter_VitalsName" speaker="Vitals Sheet" comment="BASE" rel_version="Event_WinterConvergence_Temp">Avalancher</string>
 	<string key="Avalancher_Yeti_25_VitalsName" speaker="Vitals Sheet" comment="Level Variant" rel_version="Event_WinterConvergence_Perm">Avalancher</string>
 	<string key="Avalancher_Yeti_60_VitalsName" speaker="Vitals Sheet" comment="Level Variant" rel_version="Event_WinterConvergence_Perm">Avalancher</string>
 	<string key="Avalancher_Yeti_VitalsName" speaker="Vitals Sheet" comment="BASE" rel_version="Event_WinterConvergence_Perm">Avalancher</string>
-	<string key="Avalancher_YetiEncounter_VitalsName" speaker="Vitals Sheet" comment="BASE" rel_version="Event_WinterConvergence_Temp">Avalancher</string>
 	<string key="Barbary_Lion_60_VitalsName" speaker="Vitals Sheet" comment="BASE" rel_version="Territory_Brimstone_Sands">Barbary Lion</string>
 	<string key="Barbary_Lion_61_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Barbary Lion</string>
 	<string key="Barbary_Lion_62_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Barbary Lion</string>
@@ -1125,6 +1123,8 @@
 	<string key="CorruptedLegion_Cyclops_DG_BrimstoneSands_Crassus_Minion_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Corrupted Cyclops</string>
 	<string key="CorruptedLegion_Cyclops_DG_BrimstoneSands_Named_00_VitalsName" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Pluto</string>
 	<string key="CorruptedLegion_Cyclops_ELITE_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Elite Bloodfoot</string>
+	<string key="CorruptedLegion_Cyclops_LOC_BOSS_00_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Event_Legacy_Of_Crassus2024">Lucanus</string>
+	<string key="CorruptedLegion_Cyclops_LOC_BOSS_01_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Event_Legacy_Of_Crassus2024">Decimus</string>
 	<string key="CorruptedLegion_Cyclops_Named_00_VitalsName" speaker="Vitals Sheet" comment="Mission Target Display Name" rel_version="Territory_Brimstone_Sands">Titanic Saturninus</string>
 	<string key="CorruptedLegion_Cyclops_Named_01_VitalsName" speaker="Vitals Sheet" comment="Mission Target Display Name" rel_version="Territory_Brimstone_Sands">Breaker of Arta</string>
 	<string key="CorruptedLegion_Cyclops_Named_02_ELITE_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Monstrous Polyphemus</string>
@@ -3895,13 +3895,11 @@
 	<string key="IceDryad_Melee_Frostfang_62_VitalsName" speaker="Vitals Sheet" comment="Level Variant" rel_version="Event_WinterConvergence_Perm">Frostfang</string>
 	<string key="IceDryad_Melee_Frostfang_65_ELITE_VitalsName" speaker="Vitals Sheet" comment="Level Variant" rel_version="Event_WinterConvergence_Perm">Frostfang</string>
 	<string key="IceDryad_Melee_Frostfang_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Event_WinterConvergence_Perm">Ice Dryad Frostfang</string>
-	<string key="IceDryad_Melee_Frostfang_YetiEncounter_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Event_WinterConvergence_Temp">Ice Dryad Frostfang</string>
 	<string key="IceDryad_Range_Frostgrip_25_VitalsName" speaker="Vitals Sheet" comment="Level Variant" rel_version="Event_WinterConvergence_Perm">Frostgrip</string>
 	<string key="IceDryad_Range_Frostgrip_61_VitalsName" speaker="Vitals Sheet" comment="Level Variant" rel_version="Event_WinterConvergence_Perm">Frostgrip</string>
 	<string key="IceDryad_Range_Frostgrip_62_VitalsName" speaker="Vitals Sheet" comment="Level Variant" rel_version="Event_WinterConvergence_Perm">Frostgrip</string>
 	<string key="IceDryad_Range_Frostgrip_65_ELITE_VitalsName" speaker="Vitals Sheet" comment="Level Variant" rel_version="Event_WinterConvergence_Perm">Frostgrip</string>
 	<string key="IceDryad_Range_Frostgrip_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Event_WinterConvergence_Perm">Ice Dryad Frostgrip</string>
-	<string key="IceDryad_Range_Frostgrip_YetiEncounter_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Event_WinterConvergence_Temp">Ice Dryad Frostgrip</string>
 	<string key="IceGolem_VitalsName" speaker="Vitals Sheet" comment="BASE" rel_version="Expedition_GreatCleave_00">Ice Troll</string>
 	<string key="IceMagicBeast_VitalsName" speaker="Vitals Sheet" comment="BASE">Snow Beast</string>
 	<string key="IceMagicEntomb_VitalsName" speaker="Vitals Sheet" comment="BASE">Ice Tomb</string>
@@ -3968,15 +3966,18 @@
 	<string key="Legion_Legionnaire_DG_BrimstoneSands_Minion_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Corrupted Legionnaire</string>
 	<string key="Legion_Legionnaire_DG_BrimstoneSands_Crassus_Minion_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Corrupted Legionnaire</string>
 	<string key="Legion_Legionnaire_DG_BrimstoneSands_Named_00_VitalsName" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Scipio</string>
+	<string key="Legion_Legionnaire_Ethereal_LOC_BOSS_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Event_Legacy_Of_Crassus2024">Phantom Centurion of Crassus</string>
 	<string key="Legion_Legionnaire_Ethereal_ELITE_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Elite Phantom Centurion</string>
 	<string key="Legion_Legionnaire_Ethereal_Named_05_ELITE_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Godling Jupiterion</string>
 	<string key="Legion_Legionnaire_Ethereal_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Phantom Centurion</string>
+	<string key="Legion_Legionnaire_LOC_BOSS_VitalsName" speaker="Vitals Sheet" comment="BASE" rel_version="Event_Legacy_Of_Crassus2024">Legionnaire of Crassus</string>
 	<string key="Legion_Legionnaire_Named_00_VitalsName" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Centurion Magnus</string>
 	<string key="Legion_Legionnaire_Named_01_VitalsName" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Tribune Ursula the Gladiatrix</string>
 	<string key="Legion_Legionnaire_Named_02_VitalsName" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Primus Vespasian</string>
 	<string key="Legion_Legionnaire_Named_03_VitalsName" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Primus Galba</string>
 	<string key="Legion_Legionnaire_Named_04_16BS06c_VitalsName" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Aquilifer Scala</string>
 	<string key="Legion_Legionnaire_NoShield_ELITE_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Elite Prefect</string>
+	<string key="Legion_Legionnaire_NoShield_LOC_BOSS_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Event_Legacy_Of_Crassus2024">Legion Prefect of Crassus</string>
 	<string key="Legion_Legionnaire_NoShield_DG_BrimstoneSands_00_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Legion Prefect</string>
 	<string key="Legion_Legionnaire_NoShield_DG_BrimstoneSands_Crassus_Minion_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Legion Prefect</string>
 	<string key="Legion_Legionnaire_NoShield_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Legion Prefect</string>
@@ -3993,6 +3994,7 @@
 	<string key="Legion_Sagittarii_65_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Corrupted Sagittarii</string>
 	<string key="Legion_Sagittarii_66_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Corrupted Sagittarii</string>
 	<string key="Legion_Sagittarii_67_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Corrupted Sagittarii</string>
+	<string key="Legion_Sagittarii_LOC_BOSS_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Event_Legacy_Of_Crassus2024">Sagittarii of Crassus</string>
 	<string key="Legion_Sagittarii_DG_BrimstoneSands_00_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Corrupted Sagittarii</string>
 	<string key="Legion_Sagittarii_DG_BrimstoneSands_Minion_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Corrupted Sagittarii</string>
 	<string key="Legion_Sagittarii_ELITE_VitalsName" speaker="Vitals Sheet" comment="BASE" rel_version="Territory_Brimstone_Sands">Elite Sagittarii</string>
@@ -4014,6 +4016,7 @@
 	<string key="Legion_Signifer_DG_BrimstoneSands_Crassus_Minion_VitalsName" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Legion Signifer</string>
 	<string key="Legion_Signifer_DG_BrimstoneSands_Named_00_VitalsName" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Lucius</string>
 	<string key="Legion_Signifer_ELITE_VitalsName" speaker="Vitals Sheet" comment="BASE" rel_version="Territory_Brimstone_Sands">Elite Legion Signifer</string>
+	<string key="Legion_Signifer_LOC_BOSS_VitalsName" speaker="Vitals Sheet" comment="BASE" rel_version="Event_Legacy_Of_Crassus2024">Signifer Nerva</string>
 	<string key="Legion_Signifer_Named_00_VitalsName" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Alchemist Ignatius</string>
 	<string key="Legion_Signifer_Named_01_VitalsName" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Tribune Elias, Master of Hounds</string>
 	<string key="Legion_Signifer_Named_02_VitalsName" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Tribune Castor, Master of Hounds</string>
@@ -5345,6 +5348,7 @@
 	<string key="Totem_Withered_Nest_25_ELITE_VitalsName" speaker="Vitals Sheet" comment="ELITE Level Variant">Withered Nest</string>
 	<string key="Totem_Withered_Nest_DG_Windsward_00_Vitalsname" speaker="Vitals Sheet" comment="Generic Level Variant">Star Excavation Nest</string>
 	<string key="Totem_Withered_Nest_VitalsName" speaker="Vitals Sheet" comment="ELITE Level Variant">Withered Nest</string>
+	<string key="Totem_LOC_BOSS_VitalsName" speaker="Vitals Sheet" comment="Mission Target Display Name" rel_version="Event_Legacy_Of_Crassus2024">Legion Banner of Crassus</string>
 	<string key="Training_Dummy_VitalsName" speaker="Vitals Sheet" comment="BASE">Training Dummy</string>
 	<string key="Trap_VitalsName" speaker="Vitals Sheet" comment="BASE">Trap</string>
 	<string key="Trap_Bear_VitalsName" speaker="Vitals Sheet" comment="BASE">Bear Trap</string>
@@ -7452,6 +7456,8 @@
 	<string key="VC_CorruptedLegion_Cyclops_67" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Bloodfoot Cyclops</string>
 	<string key="VC_CorruptedLegion_Cyclops_DG_BrimstoneSands_00" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Corrupted Cyclops</string>
 	<string key="VC_CorruptedLegion_Cyclops_DG_BrimstoneSands_Named_00" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Pluto</string>
+	<string key="VC_CorruptedLegion_Cyclops_LOC_BOSS_00" speaker="VitalsCategory" comment="Mission Target Display Name" rel_version="Event_Legacy_Of_Crassus2024">Centurion Lucanus</string>
+	<string key="VC_CorruptedLegion_Cyclops_LOC_BOSS_01" speaker="VitalsCategory" comment="Mission Target Display Name" rel_version="Event_Legacy_Of_Crassus2024">Centurion Decimus</string>
 	<string key="VC_CorruptedLegion_Cyclops_Named_00" speaker="VitalsCategory" comment="Mission Target Display Name" rel_version="Territory_Brimstone_Sands">Titanic Saturninus</string>
 	<string key="VC_CorruptedLegion_Cyclops_Named_01" speaker="VitalsCategory" comment="Mission Target Display Name" rel_version="Territory_Brimstone_Sands">Breaker of Arta</string>
 	<string key="VC_CorruptedLegion_Cyclops_Named_02_ELITE" speaker="Vitals Sheet" comment="ELITE Named Variant - Mission Target Display Name" rel_version="Territory_Brimstone_Sands">Monstrous Polyphemus</string>
@@ -10233,8 +10239,10 @@
 	<string key="VC_Legion_Legionnaire_67" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Corrupted Legionnaire</string>
 	<string key="VC_Legion_Legionnaire_DG_BrimstoneSands_00" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">19th Legionnaire</string>
 	<string key="VC_Legion_Legionnaire_DG_BrimstoneSands_Named_00" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Scipio</string>
+	<string key="VC_Legion_Legionnaire_Ethereal_LOC_BOSS" speaker="Vitals Category Sheet" comment="Generic Level Variant" rel_version="Event_Legacy_Of_Crassus2024">Phantom Centurion of Crassus</string>
 	<string key="VC_Legion_Legionnaire_Ethereal_16BS08c" speaker="VitalsCategory" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Principle Phantom Centurion</string>
 	<string key="VC_Legion_Legionnaire_Ethereal_Named_05_ELITE" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Godling Jupiterion</string>
+	<string key="VC_Legion_Legionnaire_LOC_BOSS" speaker="Vitals Category Sheet" comment="Generic Level Variant" rel_version="Event_Legacy_Of_Crassus2024">Legionnaire of Crassus</string>
 	<string key="VC_Legion_Legionnaire_Named_00" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Centurion Magnus</string>
 	<string key="VC_Legion_Legionnaire_Named_01" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Tribune Ursula the Gladiatrix</string>
 	<string key="VC_Legion_Legionnaire_Named_02" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Primus Vespasian</string>
@@ -10245,6 +10253,7 @@
 	<string key="VC_Legion_Legionnaire_NamedSacrifice_16BS08c" speaker="VitalsCategory" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Willing Sacrifice</string>
 	<string key="VC_Legion_Legionnaire_NoShield_16BS08d" speaker="Vitals Category Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Auxilia Prefect</string>
 	<string key="VC_Legion_Legionnaire_NoShield_DG_BrimstoneSands_00" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Legion Prefect</string>
+	<string key="VC_Legion_Legionnaire_NoShield_LOC_BOSS" speaker="Vitals Category Sheet" comment="Generic Level Variant" rel_version="Event_Legacy_Of_Crassus2024">Legion Prefect of Crassus</string>
 	<string key="VC_Legion_Legionnaire_Physical_16BS08c" speaker="VitalsCategory" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Principle Legionnaire</string>
 	<string key="VC_Legion_Legionnaire_Physical_16BS08d" speaker="Vitals Category Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Auxilia Legionnaire</string>
 	<string key="VC_Legion_Sagittarii" speaker="Vitals Sheet" comment="BASE" rel_version="Territory_Brimstone_Sands">Corrupted Sagittarii</string>
@@ -10281,6 +10290,7 @@
 	<string key="VC_Legion_Sagittarii_DG_BrimstoneSands_00" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Legion Sagittarii</string>
 	<string key="VC_Legion_Sagittarii_Named_00" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Legatus Drusilla</string>
 	<string key="VC_Legion_Sagittarii_Named_01" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Legatus Drusilla</string>
+	<string key="VC_Legion_Sagittarii_LOC_BOSS" speaker="Vitals Category Sheet" comment="Generic Level Variant" rel_version="Event_Legacy_Of_Crassus2024">Legion Sagittarii of Crassus</string>
 	<string key="VC_Legion_Signifer" speaker="Vitals Sheet" comment="BASE" rel_version="Territory_Brimstone_Sands">Corrupted Signifer</string>
 	<string key="VC_Legion_Signifer_16BS01" speaker="VitalsCategory" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Wandering Pilgrim</string>
 	<string key="VC_Legion_Signifer_16BS02" speaker="VitalsCategory" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Wandering Pilgrim</string>
@@ -10314,6 +10324,7 @@
 	<string key="VC_Legion_Signifer_67" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Corrupted Signifer</string>
 	<string key="VC_Legion_Signifer_DG_BrimstoneSands_00" speaker="Vitals Sheet" comment="Generic Level Variant" rel_version="Territory_Brimstone_Sands">Legion Signifer</string>
 	<string key="VC_Legion_Signifer_DG_BrimstoneSands_Named_00" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Lucius</string>
+	<string key="VC_Legion_Signifer_LOC_BOSS" speaker="Vitals Sheet" comment="Named Variant" rel_version="Event_Legacy_Of_Crassus2024">Signifer Nerva</string>
 	<string key="VC_Legion_Signifer_Named_00" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Alchemist Ignatius</string>
 	<string key="VC_Legion_Signifer_Named_01" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Tribune Elias, Master of Hounds</string>
 	<string key="VC_Legion_Signifer_Named_02" speaker="Vitals Sheet" comment="Named Variant" rel_version="Territory_Brimstone_Sands">Tribune Castor, Master of Hounds</string>
@@ -12040,6 +12051,7 @@
 	<string key="VC_Totem_Withered_Nest" speaker="VitalsCategory Sheet" comment="Mission Target Display Name">Beetle Nest</string>
 	<string key="VC_Totem_Withered_Nest_25_ELITE" speaker="VitalsCategory Sheet" comment="Mission Target Display Name">Withered Nest</string>
 	<string key="VC_Totem_Withered_Nest_DG_Windsward_00" speaker="VitalsCategory Sheet" comment="Mission Target Display Name">Star Excavation Withered Nest</string>
+	<string key="VC_Totem_LOC_BOSS" speaker="VitalsCategory" comment="Mission Target Display Name" rel_version="Event_Legacy_Of_Crassus2024">Legion Banner of Crassus</string>
 	<string key="VC_Towerfall" speaker="VitalsCategory Sheet" comment="BASE">Towerfall</string>
 	<string key="VC_Trailstall" speaker="VitalsCategory Sheet" comment="BASE">Trailstall</string>
 	<string key="VC_training_dummy" speaker="VitalsCategory" comment="Mission Target Display Name">Training Dummy</string>

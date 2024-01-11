@@ -95,12 +95,6 @@
 	<string key="objective_lostattack_piscarianfishery_desc">Investigate the Ancient Device on the boardwalk.</string>
 	<string key="objective_lostattack_piscarianfishery_wave_01">Defend Ancient Device: {remainingCount}/1 \nTime Remaining:</string>
 	<string key="event_completed">Event Completed</string>
-	<string key="ui_winterconv_worldboss_winterwarrior" rel_version="Event_WinterConvergence_Temp">The Forever Winter</string>
-	<string key="ui_winterconv_worldboss_winterwarrior_description" rel_version="Event_WinterConvergence_Temp">The Winter Warrior and his legion of Frigid Folk are spreading the beginnings of the Forever Winter across Aeternum!</string>
-	<string key="objective_worldboss_task_destroylink_title" rel_version="Event_WinterConvergence_Temp">Deactivate the Emanating Tempest</string>
-	<string key="objective_worldboss_task_destroylink_desc" rel_version="Event_WinterConvergence_Temp">Frostrime Pillar Aura's Remaining: {remainingCount}</string>
-	<string key="objective_worldboss_task_winterwarrior_title" rel_version="Event_WinterConvergence_Temp">Defeat the Winter Warrior</string>
-	<string key="objective_worldboss_task_winterwarrior_desc" rel_version="Event_WinterConvergence_Temp">Stop the Spread of the Forever Winter!</string>
 	<string key="ui_legion_outpost_attack" rel_version="Territory_Brimstone_Sands">Brimstone Under Siege</string>
 	<string key="ui_legion_outpost_attack_description" rel_version="Territory_Brimstone_Sands">The Legion are advancing! Stop them before they reach the outpost of Wikala al-Waha!</string>
 	<string key="objective_legion_outpost_attack_title" rel_version="Territory_Brimstone_Sands">Stop the Legion's Advance</string>
@@ -177,6 +171,12 @@
 	<string key="ui_turkeyterror_worldboss_Turkulon_description">Turkulon has returned to avenge their fallen brethren</string>
 	<string key="ui_worldboss_defeated" rel_version="Event_February_Perm">{objective} Defeated</string>
 	<string key="ui_worldboss_daily_reset" rel_version="Event_February_Perm">Daily Reward Resets At {time}</string>
+	<string key="ui_worldboss_legacyofcrassus" rel_version="Event_Legacy_Of_Crassus2024">Legacy of Crassus</string>
+	<string key="ui_worldboss_legacyofcrassus_description" rel_version="Event_Legacy_Of_Crassus2024">The might of Rome threatens Aeternum! Hunt down Crassus's monstrous captains, Decimus and Lucanus, and banish the shadow of Roman tyranny. Collect daily rewards in addition to rewards for striking down these vicious brutes in Brightwood, Weavers Fen, Mourningdale, Ebonscale Reach, and Edengrove.\n\nContains &lt;font color="#ffe940"&gt;1&lt;/font&gt; Daily Reward. Resets at {time}</string>
+	<string key="objective_worldboss_task_legacyofcrassus_wave1_title" rel_version="Event_Legacy_Of_Crassus2024">Legacy of Crassus: Stage 1/2</string>
+	<string key="objective_worldboss_task_legacyofcrassus_wave1_desc" rel_version="Event_Legacy_Of_Crassus2024">Defeat the invaders: {remainingCount} remaining.</string>
+	<string key="objective_worldboss_task_legacyofcrassus_wave2_title" rel_version="Event_Legacy_Of_Crassus2024">Legacy of Crassus: Stage 2/2</string>
+	<string key="objective_worldboss_task_legacyofcrassus_wave2_desc" rel_version="Event_Legacy_Of_Crassus2024">Defeat the invaders: {remainingCount} remaining.</string>
 	<string key="objective_Season_02_PoolsOfOrcus_title_wave1" rel_version="Quest_MSQ_Update_4">Pools of Orcus</string>
 	<string key="objective_Season_02_PoolsOfOrcus_encounter1" rel_version="Quest_MSQ_Update_4">Stop the Geysers: {remainingCount}/3</string>
 	<string key="objective_Season_02_DancingPillars_title_wave1" rel_version="Quest_MSQ_Update_4">Dancing Pillars: Stage 1/5</string>
