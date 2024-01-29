@@ -2642,7 +2642,7 @@
 	<string key="PerkID_Artifact_Set1_MediumLegs_SecondaryName">Well Rounded</string>
 	<string key="PerkID_Artifact_Set1_MediumLegs_Desc">+10 to all attributes.</string>
 	<string key="PerkID_Artifact_Set1_MediumFeet_Name" rel_version="Feature_Artifacts_Set2">Speedy</string>
-	<string key="PerkID_Artifact_Set1_MediumFeet_Desc" rel_version="Feature_Artifacts_Set2">Base duration of hastes on you is increase by {[Type_StatusEffectData.Status_Perk_Artifact_Set1_MediumFeetHasteDuration.EffectDurationMods_Tooltip * 100]}%.</string>
+	<string key="PerkID_Artifact_Set1_MediumFeet_Desc" rel_version="Feature_Artifacts_Set2">Base duration of hastes on you is increased by {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_MediumFeet.StatusEffectDurationReduction * 100]}%.</string>
 	<string key="PerkID_Artifact_Set1_LightHead_Name">Brilliance</string>
 	<string key="PerkID_Artifact_Set1_LightHead_Desc">+{[AffixStatDataTable.Affix_Artifact_Set1_LightHead.MaxManaMod * 100]}% max mana.</string>
 	<string key="PerkID_Artifact_Set1_LightChest_Name">Weightless</string>
