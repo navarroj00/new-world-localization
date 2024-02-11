@@ -304,5 +304,8 @@
 	<string key="EvilKnightLoth_Intro" speaker="Commander Loth" comment="evil_knight_heavy_commanderloth_boss.slice" rel_version="Season_4_Perm">I will put Shailyn to an end. But first, you.</string>
 	<string key="EvilKnightLoth_Death" speaker="Commander Loth" comment="evil_knight_heavy_commanderloth_boss.slice" rel_version="Season_4_Perm">No... You have doomed Aeternum!</string>
 	<string key="EvilKnightLoth_Victory" speaker="Commander Loth" comment="evil_knight_heavy_commanderloth_boss.slice" rel_version="Season_4_Perm">Tell Shailyn her pathetic attempt has failed.</string>
+	<string key="LNY_tribute_intro" speaker="Dynasty Spearman" comment="LNY_Corrupted_Dynasty_Spearman_Fodder.slice" rel_version="Event_Lunar_NewYear2024_Perm">Take that blessing now!</string>
+	<string key="LNY_tribute_intro_maiden" speaker="Ying" comment="LNY_Corrupted_Dynasty_Maiden_Boss.slice" rel_version="Event_Lunar_NewYear2024_Perm">The blessing and your life is ours to claim!</string>
+	<string key="LNY_tribute_victory_maiden" speaker="Ying" comment="LNY_Corrupted_Dynasty_Maiden_Boss.slice" rel_version="Event_Lunar_NewYear2024_Perm">No! Are we truly... Unworthy?</string>
 </resources>
 

@@ -19,21 +19,32 @@
 	<string key="ui_dungeon_screen_header_solo">Soul Trial</string>
 	<string key="ui_dungeon_screen_header_raidtrial">Elite Trial</string>
 	<string key="ui_dungeon_screen_header_seasontrial" rel_version="Season_2_Perm">Seasonal Trial</string>
-	<string key="ui_dungeon_requirements">&lt;img src="LyShineUI/Images/icons/misc/icon_level_simple" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; Recommended Level: {level}   &lt;img src="LyShineUI/Images/icons/misc/icon_character" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; Minimum Players: {players}</string>
+	<string key="ui_dungeon_screen_subheader_localgroup">Local Group</string>
+	<string key="ui_dungeon_screen_subheader_matchmaking" rel_version="Feature_PUG_Finder">Matchmaking</string>
+	<string key="ui_dungeon_requirements">Recommended: &lt;img src="LyShineUI/Images/icons/misc/icon_level_simple" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; {level}   &lt;img src="LyShineUI/Images/icons/misc/icon_character" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; Minimum Players: {players}</string>
 	<string key="ui_dungeon_requirements_groupsize">Minimum Players: {players}</string>
-	<string key="ui_dungeon_requirements_groupsize_range">{minPlayers} - {maxPlayers} Players (Current: {currentPlayers})</string>
+	<string key="ui_dungeon_requirements_groupsize_range">Minimum Players: {minPlayers} - {maxPlayers} Players (Current: {currentPlayers})</string>
 	<string key="ui_dungeon_requirements_groupsize_single">Maximum Players: 1</string>
-	<string key="ui_dungeon_requirements_gearscore">Recommended Level: {level}</string>
+	<string key="ui_dungeon_requirements_gearscore">Recommended: &lt;img src="LyShineUI/Images/icons/misc/icon_level_simple" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; {level}</string>
+	<string key="ui_dungeon_requirements_matchmaking_gearscore" rel_version="Feature_Group_Finder">{gearscore}+</string>
+	<string key="ui_dungeon_requirements_matchmaking_level" rel_version="Feature_Group_Finder">{level}</string>
+	<string key="ui_dungeon_requirements_level_plus">{level}+</string>
+	<string key="ui_dungeon_requirements_gearscore_plus">{gearscore}+</string>
+	<string key="ui_dungeon_requirements_recommended_gearscore">{gearscoreLower}-{gearscoreUpper}</string>
+	<string key="ui_dungeon_requirements_recommended">Recommended:</string>
+	<string key="ui_dungeon_requirements_matchmaking_staff" rel_version="Feature_Group_Finder">Azoth Staff</string>
 	<string key="ui_flyout_recommended_groupsize">Recommended Players: {players}</string>
 	<string key="ui_dungeon_requirements_equipment_warning">Your group must have at least &lt;font color="#ebe3d6"&gt;{item}&lt;/font&gt;.</string>
 	<string key="ui_dungeon_requirements_equipment_warning_solo">You must have at least &lt;font color="#ebe3d6"&gt;{item}&lt;/font&gt;.</string>
 	<string key="ui_dungeon_requirements_equipment_warning_raidtrial">You must have at least &lt;font color="#ebe3d6"&gt;{item}&lt;/font&gt;.</string>
 	<string key="ui_dungeon_requirements_equipment_warning_seasontrial" rel_version="Season_2_Perm">You must have at least &lt;font color="#ebe3d6"&gt;{item}&lt;/font&gt;.</string>
 	<string key="ui_dungeon_reward_level">The quality of the overall loot increases as difficulty level increases.\n\nItems you find may vary from the listed items based on their Gear Score.</string>
+	<string key="ui_dungeon_reward_title_regular">Expedition Rewards</string>
+	<string key="ui_dungeon_reward_title_mutation">Mutator Rewards</string>
 	<string key="ui_dungeon_level_requirement">Level Requirement: {level}</string>
 	<string key="ui_dungeon_elapsed_time">Time Elapsed:</string>
 	<string key="ui_dungeon_estimated_time_remaining">Estimated Wait Time:</string>
-	<string key="ui_dungeon_activate">Enter</string>
+	<string key="ui_dungeon_activate">Enter With Group</string>
 	<string key="ui_dungeon_activate_solo">Enter</string>
 	<string key="ui_dungeon_activate_raidtrial">Enter</string>
 	<string key="ui_dungeon_activate_seasontrial" rel_version="Season_2_Perm">Enter</string>
@@ -127,14 +138,16 @@
 	<string key="dungeon_completed_solo">Soul Trial Completed</string>
 	<string key="dungeon_completed_raidtrial">Elite Trial Completed</string>
 	<string key="dungeon_completed_seasontrial" rel_version="Season_2_Perm">Seasonal Trial Completed</string>
-	<string key="ui_dungeon_find_group" rel_version="Feature_Group_Finder">Find Group</string>
+	<string key="ui_dungeon_find_group" rel_version="Feature_Group_Finder">View Lobbies</string>
+	<string key="ui_dungeon_local_group_tooltip" comment="HighPri">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Local Group&lt;/font&gt;\n\nInvestigate Lobbies to join groups, or invite Friends and Company members to conquor any challenge Aeternum has to offer.\n\nLocal Groups do not support Cross World Matchmaking.</string>
+	<string key="ui_dungeon_matchmaking_tooltip" rel_version="Feature_PUG_Finder">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Matchmaking&lt;/font&gt;\n\nEnter our Cross World Queue to be matched with players from your region. Groups will backfill automatically should the need arise.\n\nAll players MUST meet the requirements to be eligible for the content.</string>
 	<string key="ui_dungeon_manage_group" rel_version="Feature_Group_Finder">Manage My Lobby</string>
 	<string key="ui_dungeon_view_group" rel_version="Feature_Group_Finder">View My Lobby</string>
 	<string key="ui_dungeon_opened_pvpwarning_title">Abandon PvP to Enter</string>
-	<string key="ui_dungeon_enter_pvpwarning_info">Entering an Expedition will &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
-	<string key="ui_dungeon_enter_pvpwarning_info_solo">Entering Soul Trial will &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
-	<string key="ui_dungeon_enter_pvpwarning_info_raidtrial">Entering a Elite Trial will &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
-	<string key="ui_dungeon_enter_pvpwarning_info_seasontrial" rel_version="Season_2_Perm">Entering a Seasonal Trial will &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
+	<string key="ui_dungeon_enter_pvpwarning_info">Entering an Expedition will &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
+	<string key="ui_dungeon_enter_pvpwarning_info_solo">Entering Soul Trial will &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
+	<string key="ui_dungeon_enter_pvpwarning_info_raidtrial">Entering a Elite Trial will &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
+	<string key="ui_dungeon_enter_pvpwarning_info_seasontrial" rel_version="Season_2_Perm">Entering a Seasonal Trial will &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abandon all PvP missions&lt;/font&gt;. Continue?</string>
 	<string key="ui_dungeon_full_header">Expedition is currently full. Join the queue to enter the Expedition.</string>
 	<string key="ui_dungeon_full_header_solo">Soul Trial is currently full. Join the queue to enter the Soul Trial.</string>
 	<string key="ui_dungeon_full_header_raidtrial">Elite Trial is currently full. Join the queue to enter the Elite Trial.</string>
@@ -163,13 +176,13 @@
 	<string key="ui_dungeon_remaining_tooltip_seasontrial" rel_version="Season_2_Perm">You may enter up to {amount} Seasonal Trials per day.</string>
 	<string key="ui_dungeon_mutation_remaining_label" rel_version="Feature_Dungeon_Mutators">Mutated Expeditions Remaining</string>
 	<string key="ui_dungeon_mutation_remaining_tooltip" rel_version="Feature_Dungeon_Mutators">You may enter up to {amount} Mutated Expeditions per week.</string>
-	<string key="ui_dungeon_mutation_flyout_tooltip" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Weekly Mutation&lt;/font&gt;\nElemental Mutations, Promotions and Curses are randomized weekly for Mutated Expeditions.\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Mutation&lt;/font&gt;\nBattle through Elemental Mutations\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Promotion&lt;/font&gt;\nElite Promotions for Enemies\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Curses&lt;/font&gt;\nExpedition wide Effects</string>
+	<string key="ui_dungeon_mutation_flyout_tooltip" rel_version="Feature_Dungeon_Mutators">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Weekly Mutation&lt;/font&gt;\nElemental Mutations, Promotions and Curses are randomized weekly for Mutated Expeditions.\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Mutation&lt;/font&gt;\nBattle through Elemental Mutations\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Promotion&lt;/font&gt;\nElite Promotions for Enemies\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Curses&lt;/font&gt;\nExpedition wide Effects</string>
 	<string key="ui_dungeon_mutation_elemental" rel_version="Feature_Dungeon_Mutators">Mutation</string>
 	<string key="ui_dungeon_mutation_promotion" rel_version="Feature_Dungeon_Mutators">Promotion</string>
 	<string key="ui_dungeon_mutation_curse" rel_version="Feature_Dungeon_Mutators">Curse</string>
-	<string key="ui_dungeon_mutation_elemental_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff9393" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Enemies&lt;/font&gt; may have the following &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Perks:&lt;/font&gt;</string>
-	<string key="ui_dungeon_mutation_promotion_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff9393" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Enemies&lt;/font&gt; may have the following &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Buffs:&lt;/font&gt;</string>
-	<string key="ui_dungeon_mutation_curse_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Players&lt;/font&gt; receive the following &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Debuffs:&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutation_elemental_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff7171" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Enemies&lt;/font&gt; may have the following &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Perks:&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutation_promotion_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff7171" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Enemies&lt;/font&gt; may have the following &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Buffs:&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutation_curse_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Players&lt;/font&gt; receive the following &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Debuffs:&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_expiration_text" rel_version="Feature_Dungeon_Mutators">Changes in:</string>
 	<string key="ui_dungeon_mutator_recommended_gearscore" rel_version="Feature_Dungeon_Mutators">Recommended Minimum Gear Score: {score} - {gearScaling}</string>
 	<string key="ui_dungeon_mutator_gearscaling_low" rel_version="Feature_Dungeon_Mutators">Low Gear Score Scaling</string>
@@ -177,16 +190,20 @@
 	<string key="ui_dungeon_mutator_gearscaling_high" rel_version="Feature_Dungeon_Mutators">High Gear Score Scaling</string>
 	<string key="ui_dungeon_mutator_codex" rel_version="Feature_Dungeon_Mutators">Codex</string>
 	<string key="ui_dungeon_mutator_difficulty_default" rel_version="Feature_Dungeon_Mutators">Regular</string>
-	<string key="ui_dungeon_mutator_difficulty_1" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;  (Intermediate)</string>
-	<string key="ui_dungeon_mutator_difficulty_2" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;  (Hard)</string>
-	<string key="ui_dungeon_mutator_difficulty_3" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;  (Elite)</string>
-	<string key="ui_dungeon_mutator_difficulty_4" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;  (Intermediate)</string>
-	<string key="ui_dungeon_mutator_difficulty_5" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;  (Intermediate)</string>
-	<string key="ui_dungeon_mutator_difficulty_6" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;6&lt;/font&gt;  (Hard)</string>
-	<string key="ui_dungeon_mutator_difficulty_7" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;7&lt;/font&gt;  (Hard)</string>
-	<string key="ui_dungeon_mutator_difficulty_8" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;8&lt;/font&gt;  (Hard)</string>
-	<string key="ui_dungeon_mutator_difficulty_9" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;9&lt;/font&gt;  (Elite)</string>
-	<string key="ui_dungeon_mutator_difficulty_10" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;10&lt;/font&gt;  (Elite)</string>
+	<string key="ui_dungeon_mutator_difficulty_desc_1" rel_version="Feature_Dungeon_Mutators">M1</string>
+	<string key="ui_dungeon_mutator_difficulty_desc_2" rel_version="Feature_Dungeon_Mutators">M2</string>
+	<string key="ui_dungeon_mutator_difficulty_desc_3" rel_version="Feature_Dungeon_Mutators">M3</string>
+	<string key="ui_dungeon_mutator_difficulty_1" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;M1&lt;/font&gt;  (Intermediate)</string>
+	<string key="ui_dungeon_mutator_difficulty_2" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;M2&lt;/font&gt;  (Hard)</string>
+	<string key="ui_dungeon_mutator_difficulty_3" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;M3&lt;/font&gt;  (Elite)</string>
+	<string key="ui_dungeon_mutator_difficulty_3_M1_M2_Only_NoM3MM" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;M3&lt;/font&gt;  (Elite) Local Groups Only</string>
+	<string key="ui_dungeon_mutator_difficulty_4" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;M4&lt;/font&gt;  (Intermediate)</string>
+	<string key="ui_dungeon_mutator_difficulty_5" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;M5&lt;/font&gt;  (Intermediate)</string>
+	<string key="ui_dungeon_mutator_difficulty_6" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;M6&lt;/font&gt;  (Hard)</string>
+	<string key="ui_dungeon_mutator_difficulty_7" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;M7&lt;/font&gt;  (Hard)</string>
+	<string key="ui_dungeon_mutator_difficulty_8" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;M8&lt;/font&gt;  (Hard)</string>
+	<string key="ui_dungeon_mutator_difficulty_9" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;M9&lt;/font&gt;  (Elite)</string>
+	<string key="ui_dungeon_mutator_difficulty_10" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;M10&lt;/font&gt;  (Elite)</string>
 	<string key="ui_dungeon_mutator_string" rel_version="Feature_Dungeon_Mutators">Weekly Mutation</string>
 	<string key="ui_dungeon_mutator_multiplier_description" rel_version="Feature_Dungeon_Mutators">Multiplies the &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;total score&lt;/font&gt; by the &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;number of requirements&lt;/font&gt; met below.</string>
 	<string key="ui_dungeon_mutator_clear_time" rel_version="Feature_Dungeon_Mutators">Clear Time:</string>
@@ -239,14 +256,14 @@
 	<string key="ui_dungeon_mutator_appended_difficulty_bold" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Difficulty {difficulty}&lt;/font&gt;</string>
 	<string key="ui_dungeon_next_unlock_requirement" rel_version="Feature_Dungeon_Mutators">Complete this Expedition with &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{rank} Rank&lt;/font&gt; to unlock the &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;next difficulty&lt;/font&gt;.</string>
 	<string key="ui_dungeon_mutator_unlock_requirement" rel_version="Feature_Dungeon_Mutators">Complete this Expedition to unlock the &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;next difficulty&lt;/font&gt;.</string>
-	<string key="ui_dungeon_mutator_active" rel_version="Feature_Dungeon_Mutators">&lt;font color="#00ffa8"&gt;Active &lt;img src="LyShineUI/Images/icons/misc/icon_question_orange" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; &lt;/font&gt;</string>
-	<string key="ui_dungeon_mutator_inactive" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff9393"&gt;Inactive &lt;img src="LyShineUI/Images/icons/misc/icon_question_orange" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; &lt;/font&gt;</string>
+	<string key="ui_dungeon_mutator_active" rel_version="Feature_Dungeon_Mutators">&lt;font color="#00ffb4"&gt;Active &lt;img src="LyShineUI/Images/icons/misc/icon_question_orange" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; &lt;/font&gt;</string>
+	<string key="ui_dungeon_mutator_inactive" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff7171"&gt;Inactive &lt;img src="LyShineUI/Images/icons/misc/icon_question_orange" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; &lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_rotation_notice" rel_version="Feature_Dungeon_Mutators">An Expedition is randomly selected every week to mutate. Only the selected Expedition can be played with raised difficulties.</string>
-	<string key="ui_dungeon_mutation_rewards_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Items&lt;/font&gt; have a chance to drop with these &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Perks:&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutation_rewards_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Items&lt;/font&gt; have a chance to drop with these &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Perks:&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_standard_reward_count" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Expedition Rewards</string>
 	<string key="ui_dungeon_mutator_difficulty_reward_count" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Difficulty Rewards</string>
 	<string key="ui_dungeon_mutator_special_reward_tooltip" rel_version="Feature_Dungeon_Mutators">Umbral Shards are rewarded based on your rank when the Expedition is completed.\n\nUnlock the next Expedition difficulty with Silver rank or higher.</string>
-	<string key="ui_dungeon_mutator_hud_points_shorthand" rel_version="Feature_Dungeon_Mutators">&lt;font color="#aaaaaa" &gt;pt&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutator_hud_points_shorthand" rel_version="Feature_Dungeon_Mutators">&lt;font color="#b2aea1" &gt;pt&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_difficulty_not_unlocked" rel_version="Feature_Dungeon_Mutators">This difficulty has not been unlocked yet.</string>
 	<string key="ui_dungeon_mutator_level_not_met" rel_version="Feature_Dungeon_Mutators">You do not meet the level requirement for this Expedition.</string>
 	<string key="Mut_Disease_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies apply a stacking Disease on hit, reducing incoming healing by {[Type_StatusEffectData.Mut_Disease_1.HealMod * -100]}% per stack.</string>
@@ -350,9 +367,9 @@
 	<string key="ui_dungeon_possible_rewards_header" rel_version="Feature_Dungeon_Mutators">Available Rewards</string>
 	<string key="ui_dungeon_no_possible_rewards" rel_version="Feature_Dungeon_Mutators">No Available Rewards</string>
 	<string key="ui_dungeon_orb_explanation" rel_version="Feature_Dungeon_Mutators">A one time reward. Mutated Expedition Tuning Orbs are also available through the Faction Shop.</string>
-	<string key="ui_dungeon_gearscore_recommendation_tooltip" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Recommended Gear Score&lt;/font&gt;\n\nCombat calculations are affected by the difference between your average Gear Score and the Recommended Gear Score.\n\n&lt;font color="#ff9393"&gt;Lower&lt;/font&gt; than the Recommended Minimum Gear Score results in &lt;font color="#ebe3d6"&gt;doing less damage&lt;/font&gt;, and &lt;font color="#ebe3d6"&gt;taking more damage&lt;/font&gt; from enemies in the Expedition.</string>
-	<string key="ui_dungeon_gearscore_recommendation_tooltip_raidtrial" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Recommended Gear Score&lt;/font&gt;\n\nCombat calculations are affected by the difference between your average Gear Score and the Recommended Gear Score.\n\n&lt;font color="#ff9393"&gt;Lower&lt;/font&gt; than the Recommended Minimum Gear Score results in &lt;font color="#ebe3d6"&gt;doing less damage&lt;/font&gt;, and &lt;font color="#ebe3d6"&gt;taking more damage&lt;/font&gt; from enemies in the Elite Trial.</string>
-	<string key="ui_dungeon_gearscore_recommendation_tooltip_seasontrial" rel_version="Season_2_Perm">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Recommended Gear Score&lt;/font&gt;\n\nCombat calculations are affected by the difference between your average Gear Score and the Recommended Gear Score.\n\n&lt;font color="#ff9393"&gt;Lower&lt;/font&gt; than the Recommended Minimum Gear Score results in &lt;font color="#ebe3d6"&gt;doing less damage&lt;/font&gt;, and &lt;font color="#ebe3d6"&gt;taking more damage&lt;/font&gt; from enemies in the Seasonal Trial.</string>
+	<string key="ui_dungeon_gearscore_recommendation_tooltip" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Recommended Gear Score&lt;/font&gt;\n\nCombat calculations are affected by the difference between your average Gear Score and the Recommended Gear Score.\n\n&lt;font color="#ff7171"&gt;Lower&lt;/font&gt; than the Recommended Minimum Gear Score results in &lt;font color="#ebe3d6"&gt;doing less damage&lt;/font&gt;, and &lt;font color="#ebe3d6"&gt;taking more damage&lt;/font&gt; from enemies in the Expedition.</string>
+	<string key="ui_dungeon_gearscore_recommendation_tooltip_raidtrial" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Recommended Gear Score&lt;/font&gt;\n\nCombat calculations are affected by the difference between your average Gear Score and the Recommended Gear Score.\n\n&lt;font color="#ff7171"&gt;Lower&lt;/font&gt; than the Recommended Minimum Gear Score results in &lt;font color="#ebe3d6"&gt;doing less damage&lt;/font&gt;, and &lt;font color="#ebe3d6"&gt;taking more damage&lt;/font&gt; from enemies in the Elite Trial.</string>
+	<string key="ui_dungeon_gearscore_recommendation_tooltip_seasontrial" rel_version="Season_2_Perm">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Recommended Gear Score&lt;/font&gt;\n\nCombat calculations are affected by the difference between your average Gear Score and the Recommended Gear Score.\n\n&lt;font color="#ff7171"&gt;Lower&lt;/font&gt; than the Recommended Minimum Gear Score results in &lt;font color="#ebe3d6"&gt;doing less damage&lt;/font&gt;, and &lt;font color="#ebe3d6"&gt;taking more damage&lt;/font&gt; from enemies in the Seasonal Trial.</string>
 	<string key="ui_dungeon_gearscore_underlevel_warning" rel_version="Feature_Dungeon_Mutators">&lt;font color={color} face="lyshineui/fonts/Nimbus_Bold.font"&gt;WARNING:&lt;/font&gt; Your Average Gear Score is too low to perform well in this Expedition.</string>
 	<string key="ui_dungeon_gearscore_underlevel_warning_raidtrial" rel_version="Feature_Dungeon_Mutators">&lt;font color={color} face="lyshineui/fonts/Nimbus_Bold.font"&gt;WARNING:&lt;/font&gt; Your Average Gear Score is too low to perform well in this Elite Trial.</string>
 	<string key="ui_dungeon_gearscore_underlevel_warning_seasontrial" rel_version="Season_2_Perm">&lt;font color={color} face="lyshineui/fonts/Nimbus_Bold.font"&gt;WARNING:&lt;/font&gt; Your Average Gear Score is too low to perform well in this Seasonal Trial.</string>

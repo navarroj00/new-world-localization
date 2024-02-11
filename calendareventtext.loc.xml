@@ -338,5 +338,21 @@
 	<string key="ui_event_jan_2024_mtx_title" rel_version="Entitlements_Ronin">Ronin Part II</string>
 	<string key="ui_event_jan_2024_mtx_description" rel_version="Entitlements_Ronin">Ronin's Shadow stretches longer over the land! Visit the shop for new samurai-themed items!</string>
 	<string key="ui_event_jan_2024_mtx_about" rel_version="Entitlements_Ronin">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Ronin Part II</string>
+	<string key="ui_event_year_of_the_dragon_title" rel_version="Event_Lunar_NewYear2024_Perm">Year of the Dragon</string>
+	<string key="ui_event_year_of_the_dragon_description" rel_version="Event_Lunar_NewYear2024_Perm">Celebrate the Lunar New Year with the denizens of Ebonscale Reach. Cook up delicious food at the hot pot, take in the spectacular fireworks in the evening, and complete tribute runs to gain the Dragon's blessing during the Year of the Dragon.</string>
+	<string key="ui_event_year_of_the_dragon_bullet2" rel_version="Event_Lunar_NewYear2024_Perm">Dark Matter</string>
+	<string key="ui_event_year_of_the_dragon_bullet3" rel_version="Event_Lunar_NewYear2024_Perm">Hotpot</string>
+	<string key="ui_event_year_of_the_dragon_about" rel_version="Event_Lunar_NewYear2024_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Year of the Dragon</string>
+	<string key="ui_event_feb_2024_mtx_title" rel_version="Entitlements_WinterMerc">Winter Mercenary</string>
+	<string key="ui_event_feb_2024_mtx_description" rel_version="Entitlements_WinterMerc">With a heart as cold as the frozen landscape and a willingness to fight in conditions unbearable for others, the Winter Mercenary is a fearsome foe! Outfit yourself for the winter months with new items available in the Store!</string>
+	<string key="ui_event_feb_2024_mtx_about" rel_version="Entitlements_WinterMerc">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Mercenary</string>
+	<string key="ui_event_activity_finder_tabname" rel_version="Feature_PUG_Finder">Activities</string>
+	<string key="ui_event_activity_finder_title" rel_version="Feature_PUG_Finder">Activity Finder</string>
+	<string key="ui_event_activity_finder_description" rel_version="Feature_PUG_Finder">The new Activity Finder adds Cross World Expeditions alongside an improved Group Finding experience. Check out the new Activities Menu to find it.\n\nNew stuff includes:</string>
+	<string key="ui_event_activity_finder_description_bullet1" rel_version="Feature_PUG_Finder">Cross World Expedition Finder</string>
+	<string key="ui_event_activity_finder_description_bullet2" rel_version="Feature_PUG_Finder">Cross World matchmaker will fill groups for Normal and Mutated Expeditions (M1 and M2 only)</string>
+	<string key="ui_event_activity_finder_description_bullet3" rel_version="Feature_PUG_Finder">Bonus rewards when queuing for Random and for playing as healer or tank</string>
+	<string key="ui_event_activity_finder_description_bullet4" rel_version="Feature_PUG_Finder">Automatic backfill of Cross-World groups</string>
+	<string key="ui_event_activity_finder_about" rel_version="Feature_PUG_Finder">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Activities</string>
 </resources>
 

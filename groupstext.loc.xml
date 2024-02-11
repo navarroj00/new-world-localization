@@ -76,6 +76,7 @@
 	<string key="ui_cannotleavegroup_in_dungeon" comment="">You cannot leave your group while in an Expedition.</string>
 	<string key="ui_cannotjoingroup_in_arena" comment="">You cannot join a different group while in an Arena.</string>
 	<string key="ui_cannotjoingroup_in_dungeon" comment="">You cannot join a different group while in an Expedition.</string>
+	<string key="ui_cannotjoingroup_at_this_time" comment="">You cannot join a different group at this time.</string>
 	<string key="ui_pvp_group" comment="">PvP Group</string>
 	<string key="ui_groupedalreadyerrormessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; is already in a group.</string>
 	<string key="ui_groupalreadyinvitederrortitle" comment="">Invite Already Sent</string>
@@ -220,6 +221,25 @@
 	<string key="ui_raid_kick_confirmation_no">Cancel</string>
 	<string key="ui_raid_ban_confirmation_title">Banning {player}</string>
 	<string key="ui_raid_ban_confirmation_message">Are you sure you want to kick and ban &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{player}&lt;/font&gt;?</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_abandon_error_too_frequent" comment="">A vote was started too recently. Try again later.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_abandon_error_already_voted" comment="">You have already voted.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_vote_decline_vote">Remain</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_vote_accept_vote">Abandon</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_vote_to_abandon">Abandon Expedition</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_vote_to_abandon_cast_vote">Vote To Abandon</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_abandon_vote_started_initiator" comment="">You initiated a vote to leave your current game mode.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_abandon_vote_started_title" comment="">Vote To Abandon Game Mode</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_abandon_vote_started_text" comment="">&lt;font color={color}&gt;{fromPlayerName}&lt;/font&gt; started a vote to abandon the current game mode and leave as a group. Do you agree?</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_abandon_vote_successful">Abandon vote succeeded, Expedition closing in: {timeToClose} seconds...</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_abandon_vote_successful_last_second">Abandon vote succeeded, Expedition closing in: {timeToClose} second...</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_abandon_vote_fail">Abandon vote failed to get enough votes</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_abandon_vote_timed_out">Abandon vote timed out</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_abandon_vote_in_progress">Abandon vote already in progress</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_abandon_vote_not_available">Vote to Abandon is only available when using matchmaking to form your group. You can leave this expedition without penalty.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_cannot_start_abandon_vote_while_active">Cannot initiate a vote to abandon Expedition while there is already another vote in progress</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_cannot_start_abandon_vote_while_on_cooldown">Cannot initiate a vote to abandon Expedition while on cooldown</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_cannot_start_abandon_dungeon_complete">Cannot initiate a vote to abandon after the Expedition is complete.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_abandon_vote_tooltip">Trigger a Vote to exit this Expedition as a group and avoid the Deserter Penalty.\n\nPenalty is only applied when using the Leave option within the first 10 minutes of the Expedition.\n\nYou need a Majority to pass the vote.</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_invitetoraid">Invite to Raid</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_invitetoraid_groupprioritysubtext">Invited Players will fill Group {groupIndex} first.</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_invitetopveraid_tooltip" comment="">Invite players to a PvE Raid\n\n- You can invite players outside of your Faction who are also not flagged for PvP\n- You cannot mix PvP and PvE players within a raid</string>

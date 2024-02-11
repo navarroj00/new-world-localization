@@ -400,5 +400,47 @@
 	<string key="Objective_Kill_Arena" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Arena</string>
 	<string key="Objective_Kill_OpenWorld" rel_version="Feature_Expansion_1">Defeat {targetName} enemies</string>
 	<string key="Objective_CraftArtifact" rel_version="Feature_Expansion_1">Upgrade this item at the Gypsum Kiln</string>
+	<string key="LNY_tribute_table" rel_version="Event_Lunar_NewYear_Temp">Tribute to the Dragon</string>
+	<string key="LNY_tribute_table_description" rel_version="Event_Lunar_NewYear_Temp">Retrieve Heirlooms from the corrupted and cook a traditional tribute dish to call for the Dragon's Blessing. This event rotates between locations in Ebonscale Reach.</string>
+	<string key="Objective_lny_tribute_wave_00_title" rel_version="Event_Lunar_NewYear_Temp">Collect Heirlooms</string>
+	<string key="Objective_lny_tribute_wave_00_desc" rel_version="Event_Lunar_NewYear_Temp">Retrieve items from the corrupted</string>
+	<string key="Objective_lny_tribute_heirloom_01_title" rel_version="Event_Lunar_NewYear_Temp">Commune with the Dragon</string>
+	<string key="Objective_lny_tribute_heirloom_01_desc" rel_version="Event_Lunar_NewYear_Temp">Retrieve Century Wine and place it on the side table</string>
+	<string key="Objective_lny_tribute_heirloom_02_title" rel_version="Event_Lunar_NewYear_Temp">Commune with the Dragon</string>
+	<string key="Objective_lny_tribute_heirloom_02_desc" rel_version="Event_Lunar_NewYear_Temp">Retrieve Jade Green Tea and place it on the side table</string>
+	<string key="Objective_lny_tribute_heirloom_03_title" rel_version="Event_Lunar_NewYear_Temp">Commune with the Dragon</string>
+	<string key="Objective_lny_tribute_heirloom_03_desc" rel_version="Event_Lunar_NewYear_Temp">Retrieve Ancient Scroll and place it on the side table</string>
+	<string key="Objective_lny_tribute_wave_03_title" rel_version="Event_Lunar_NewYear_Temp">Commune with the Dragon</string>
+	<string key="Objective_lny_tribute_wave_03_desc" rel_version="Event_Lunar_NewYear_Temp">Prepare Blooming Fish and place it on the altar</string>
+	<string key="Objective_lny_tribute_wave_04_title" rel_version="Event_Lunar_NewYear_Temp">Complete The Ritual</string>
+	<string key="Objective_lny_tribute_wave_04_desc" rel_version="Event_Lunar_NewYear_Temp">Approach the energy eruption</string>
+	<string key="Objective_lny_tribute_wave_04B_desc" rel_version="Event_Lunar_NewYear_Temp">Attune to the Dragon's blessing</string>
+	<string key="Objective_lny_tribute_wave_05_title" rel_version="Event_Lunar_NewYear_Temp">The Unworthy Ones</string>
+	<string key="Objective_lny_tribute_wave_05_desc" rel_version="Event_Lunar_NewYear_Temp">Defeat the dynasty's robbers</string>
+	<string key="Objective_lny_tribute_wave_06A_title" rel_version="Event_Lunar_NewYear_Temp">The Unworthy Ones</string>
+	<string key="Objective_lny_tribute_wave_06A_desc" rel_version="Event_Lunar_NewYear_Temp">Defeat Dynasty Heavy</string>
+	<string key="Objective_lny_tribute_wave_06B_title" rel_version="Event_Lunar_NewYear_Temp">The Unworthy Ones</string>
+	<string key="Objective_lny_tribute_wave_06B_desc" rel_version="Event_Lunar_NewYear_Temp">Defeat Dynasty Musketeers</string>
+	<string key="Objective_lny_tribute_wave_07A_title" rel_version="Event_Lunar_NewYear_Temp">The Unworthy Ones</string>
+	<string key="Objective_lny_tribute_wave_07A_desc" rel_version="Event_Lunar_NewYear_Temp">Defeat dynasty maiden Ying</string>
+	<string key="Objective_lny_tribute_wave_07B_title" rel_version="Event_Lunar_NewYear_Temp">The Unworthy Ones</string>
+	<string key="Objective_lny_tribute_wave_07B_desc" rel_version="Event_Lunar_NewYear_Temp">Defeat the Corrupted Tigers</string>
+	<string key="Objective_lny_tribute_get" rel_version="Event_Lunar_NewYear_Temp">Retrieve Dynasty Heirlooms</string>
+	<string key="Objective_lny_tribute_get_heirloom_01" rel_version="Event_Lunar_NewYear_Temp">Find and retrieve Century Wine</string>
+	<string key="Objective_lny_tribute_get_heirloom_02" rel_version="Event_Lunar_NewYear_Temp">Find and retrieve Jade Green Tea</string>
+	<string key="Objective_lny_tribute_get_heirloom_03" rel_version="Event_Lunar_NewYear_Temp">Find and retrieve Ancient Scroll</string>
+	<string key="Objective_lny_tribute_fish" rel_version="Event_Lunar_NewYear_Temp">Prepare the tribute</string>
+	<string key="Objective_lny_tribute_get_fish" rel_version="Event_Lunar_NewYear_Temp">Cook Blooming Fish in the wok on the food cart nearby</string>
+	<string key="Objective_lny_tribute_place" rel_version="Event_Lunar_NewYear_Temp">Begin The Ritual</string>
+	<string key="Objective_lny_tribute_place_heirloom_01" rel_version="Event_Lunar_NewYear_Temp">Place Century Wine on the altar</string>
+	<string key="Objective_lny_tribute_place_heirloom_02" rel_version="Event_Lunar_NewYear_Temp">Place Jade Green Tea on the altar</string>
+	<string key="Objective_lny_tribute_place_heirloom_03" rel_version="Event_Lunar_NewYear_Temp">Place Ancient Scroll on the altar</string>
+	<string key="Objective_lny_tribute_place_fish" rel_version="Event_Lunar_NewYear_Temp">Place Blooming Fish and commune with the Dragon</string>
+	<string key="Objective_lny_tribute_wave_3_1_desc" rel_version="Event_Lunar_NewYear_Temp">Defeat the Corrupted Dynasty forces</string>
+	<string key="Objective_lny_tribute_wave_3_2_desc" rel_version="Event_Lunar_NewYear_Temp">Survive the corruption's siege</string>
+	<string key="Objective_lny_tribute_wave_3_3_desc" rel_version="Event_Lunar_NewYear_Temp">Defeat Dynasty Heavy and Musketeers</string>
+	<string key="Objective_lny_tribute_wave_3_4_desc" rel_version="Event_Lunar_NewYear_Temp">Defeat Ying and her pets</string>
+	<string key="Objective_lny_tribute_reward" rel_version="Event_Lunar_NewYear_Temp">Finish the Ritual</string>
+	<string key="Objective_lny_tribute_reward_break_core" rel_version="Event_Lunar_NewYear_Temp">Break the corrupted core and reveal the Dragon's Blessing</string>
 </resources>
 

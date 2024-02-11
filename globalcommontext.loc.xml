@@ -578,9 +578,9 @@
 	<string key="ui_okay">Okay</string>
 	<string key="ui_on">On</string>
 	<string key="ui_online">Online</string>
-	<string key="ui_online_inopr">Cross World OPR</string>
+	<string key="ui_online_inopr" comment="HighPri">Cross World Mode</string>
 	<string key="ui_onlineactivity">Online Activity</string>
-	<string key="ui_in_cross_world_opr">Cross World OPR</string>
+	<string key="ui_in_cross_world_opr" comment="HighPri">Cross World Mode</string>
 	<string key="ui_opendoor">Open Door</string>
 	<string key="ui_openjournal">Open Journal</string>
 	<string key="ui_openmap">Open Map</string>
@@ -1070,6 +1070,7 @@
 	<string key="ui_killfeed_tradeskill_val">+ {amount}</string>
 	<string key="ui_navmenu_friends">FRIENDS</string>
 	<string key="ui_navmenu_modes">Modes</string>
+	<string key="ui_navmenu_activities" rel_version="Feature_PUG_Finder">Activities</string>
 	<string key="ui_navmenu_guild">Company</string>
 	<string key="ui_navmenu_map">Map</string>
 	<string key="ui_navmenu_journal">Journal</string>

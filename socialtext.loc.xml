@@ -448,7 +448,7 @@
 	<string key="group_member_cannot_join_expedition">{playerName} is not eligible to enter this Expedition</string>
 	<string key="self_cannot_join_expedition">Cannot Join Expedition</string>
 	<string key="required_level_warning">Requires Level {level}</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_findtabtitle">Find Group</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_findtabtitle">View Lobbies</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_managetabtitle">My Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_creategroup">Create Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pvp_lobby">PVP Lobby</string>
@@ -565,7 +565,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_dps_recommended">Blunderbuss, Bow, Fire Staff, Greataxe, Hatchet, Ice Gauntlet, Musket, Rapier, Spear, Void Gauntlet</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_healer_name">Healer</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_healer_description">Healers are responsible for keeping the party alive utilizing healing and mitigation buffs such as fortify. Healers can also be responsible for removing harmful debuffs from their allies such as bleeding or poison. Healers should invest in the Focus stat to maximize their healing effectiveness.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_healer_recommended">Life Staff, Void Gauntlet</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_healer_recommended">Life Staff, Void Gauntlet, Flail</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_groupcreated">Lobby Created</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_groupupdated">Lobby Updated</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_groupremoved">Lobby Removed</string>
@@ -678,5 +678,135 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_limit_refresh">(Resets {date})</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_invites_single">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;1&lt;/font&gt; Pending Invite</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_invites">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{amount}&lt;/font&gt; Pending Invites</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_header">Activity Finder</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_leaderboards">Leaderboards</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_pve">PvE</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_pvp">PvP</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_expeditions_name">Expeditions</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_expeditions_desc" comment="">Explore long-forgotten locales (with up to 4 teammates) to unlock and find unique rewards so that you can grow in strength to crush your enemies.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_mutations_name">Mutated Expeditions</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_mutations_desc" comment="">With 3 new difficulty levels, revisit past Expeditions with new, dangerous challenges. You'll need to work together closely, but if you can survive you will earn the most valuable rewards.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_season_trials_name">Season Trials</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_season_trials_desc" comment="">Face a new and fearsome challenge each with each new season.\n\nMinimum Of 6 Players\nLocal Groups Only</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_elite_trials_name">Elite Trials</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_elite_trials_desc" comment="">Battle the colossal "Shah Neshen the Devourer" with up to 20 players in this Elite Trial.\n\nMinimum Of 12 Players\nLocal Groups Only</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_opr_desc" comment="">Be the first to 1000 points in this fast paced, 20v20 PvP experience. Capture control points while gathering resources to build your defenses and unlock tactical benefits for your team.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_pvp_arena_desc" comment="">Battle other players in this 3v3 Arena to earn special PvP rewards.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_daily_bonus">Daily Bonus</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_fastest_experience">Fastest Experience</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_remaining_attempts">Remaining Attempts</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_highest_shared_dificutly_label">All Shared Difficulties</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_highest_shared_dificutly_description">Queues your group for all difficulties (M1-M3) that you have in common. You will receive a Carry Bonus if you are matched into a lower difficulty and complete it. \n\n Daily Limit: {currentCount}/{dailyLimit}   &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass.png" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; Resets In: {resetTime}</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_highest_shared_dificutly_description_M1_M2_Only">Queues your group for all available M1 and M2s that you have in common. You will receive a Carry Bonus if you are matched into a lower difficulty and complete it. \n\n Daily Limit: {currentCount}/{dailyLimit}   &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass.png" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; Resets In: {resetTime}</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_join_in_progress_label">Allow Join In-Progress?</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_button_random">Random</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_button_queue">Queue</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_random_expedition_name">Random Expedition</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_random_expedition_description" comment="">Queues for all content where you meet requirements to quickly create matches.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_random_expedition_rewards_label" comment="DO NOT TRANSLATE - UNUSED">Random Expedition Rewards:</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_random_mutation_name">Random Mutated</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_random_mutation_description" comment="">Queues for all Mutator difficulties where requirements are met to quickly create matches.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_random_mutation_description_M1_M2_Only" comment="">Queues for all M1 and M2 Expeditions where requirements are met to quickly create matches. </string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_random_mutation_rewards_label" comment="DO NOT TRANSLATE - UNUSED">Random Mutated Rewards:</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_random_reward">{rewardValue} {rewardName}</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_random_xp_reward_tooltip">{xpPercent}% XP of current level.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_none_checked_tooltip">Check any box to select at least one Activity from the list above.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_all_checked_tooltip">All available Activities are selected. Select Random to queue for all Activities so you don't miss out on daily bonuses.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_none_available_tooltip">You are not currently eligible for any Activities.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_none_available_for_group_tooltip">Your group is not currently eligible for any Activities.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_lobby_tooltip">There are {lobbyCount} Groups recruiting for this Activity in the Group Finder. Select View Lobbies on the Activity's info screen to browse them.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_lobby_tooltip_single">There is 1 Group recruiting for this Activity in the Group Finder. Select View Lobbies on the Activity's info screen to browse them.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_your_mutation_level">Your Mutation Level:</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_Mutated_Click_To_Enter_With_Local_Group" comment="">Click here for option to ENTER WITH GROUP</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_Mutated_Click_To_Enter_With_Local_Group_M1_M2_Only" comment="">Click here to join M3s using ENTER WITH GROUP</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_available_rewards">Available Rewards</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_dungeon_mode_regular">Regular</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_dungeon_mode_mutated">Mutated</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_inacive_mutation_tooltip">&lt;font color={nameColor}&gt;{name}&lt;/font&gt; isn't currently Mutated.\n\n&lt;font color={activeLabelColor}&gt;Active Mutated Expeditions&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_active_mutation_tooltip">\n\n&lt;img src="{iconPath}" scale="4" yOffset="12"&gt;&lt;/img&gt;&lt;font color={nameColor}&gt;{name}&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_join_in_prgress_status">Join In-Progress: &lt;font color={statusColor}&gt;{status}&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_join_in_prgress_status_enabled">Enabled</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_join_in_prgress_status_disabled">Disabled</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_join_in_prgress_tooltip_enabled">&lt;font color={statusColor}&gt;Enabled:&lt;/font&gt; You may be grouped with players who are already inside an Activity.\n\nJoin In-Progress can be disabled before searching for Activities.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_join_in_prgress_tooltip_disabled">&lt;font color={statusColor}&gt;Disabled:&lt;/font&gt; You will not be grouped with players who are already inside an Activity.\n\nJoin In-Progress can be enabled before searching for Activities.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_searching_for_label">Searching For</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_searching_for_activities">Searching For &lt;font color={activitiesColor}&gt;{activitiesText}&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_searching_for_random_expedition">Random Expedition</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_searching_for_expedition">1 Expedition</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_searching_for_expeditions">{numActivites} Expeditions</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_searching_for_random_mutation">Random Mutated Expedition</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_searching_for_mutation">1 Mutated Expedition</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_searching_for_mutations">{numActivites} Mutated Expeditions</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_searching_for_outpost_rush">Outpost Rush</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_searching_for_3v3arenas">3v3 Arenas</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_selection_in_progress_label">Role selection in progress</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_bonus_reached">Role Bonus Limit: {count}/{dailyLimit}</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_selection_in_progress">Role selection in progress - {playersLockedInText}</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_selection_players_locked_in">&lt;font color={numberColor}&gt; &lt;img src="LyShineUI/Images/icons/chat/channelgroup" scale="1.5" yOffset="5.5"&gt;&lt;/img&gt; {numLockedIn}&lt;/font&gt; / {numInGroup}</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_deserter_penalty_label">Under Deserter's Penalty</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_deserter_tooltip">You have the &lt;font color={penaltyColor}&gt;Deserter Penalty&lt;/font&gt;.\n\nThis was applied because you left a Cross World group within the first 10 minutes. While under penalty, you can not queue for this mode.\n\nHowever, you can still create premade groups to enjoy content by using the &lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Enter With Group&lt;/font&gt; button in the Dungeon Entrance.\n\nIf you wish to avoid this penalty in the future, try to complete the content with your group before leaving, or use the new &lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Vote To Abandon&lt;/font&gt; feature in the Group Settings.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_in_queue_tooltip">You cannot request to join a matchmaking queue because you are currently signed up for {matchname}.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_in_role_select_tooltip">You cannot request to join a matchmaking queue because you are currently signed up for {matchname}. Group members are selecting roles.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_war_tooltip">You cannot request to join a matchmaking queue because you are already signed up for an upcoming war that starts within the next hour.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_at_limit">You have reached your limit for this type of activity.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_group_at_limit">One or more of your group members have reached their limit for this type of activity.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_premade_group_dungeon_tooltip">You cannot request to join a matchmaking queue because you are currently in queue for an Expedition or Elite Trial.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_group_finder_lobby_tooltip">You cannot request to join a matchmaking queue while in a Lobby.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_group_invite_tooltip">You cannot request to join a matchmaking queue because you currently have a pending invite.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_in_event_tooltip">You cannot request to join a matchmaking queue because you are currently in an event.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_group_member_in_event_tooltip">You cannot request to join a matchmaking queue because one or more of your group members are signed up for another event.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_too_many_items_tooltip">You cannot request to join a matchmaking queue because you have too many unique items in your inventory. Reduce your inventory by {numItemsToRemove} item(s).</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_raid_group_tooltip">You cannot request to join a matchmaking queue while in a Raid Group.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_no_azoth_staff">You must equip an azoth staff in order to queue for this game mode.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_no_azoth_staff_simple">&lt;img src="LyShineUI/Images/Icons/Misc/icon_exclamation" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Azoth Staff Not Equipped&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_group_full_tooltip">You cannot request to join a matchmaking queue while your group is full.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_ineligible_unhandled_tooltip">You cannot request to join a matchmaking queue at this time.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_M3s_disabled_tooltip">Elite Mutations (M3) are only available for Local Groups.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_button_cancel_queue">Leave Queue</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_button_select_role">Select Role</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_button_decline">Decline</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_azoth_staff">&lt;img src="{icon}" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Azoth Staff Equipped&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_level">&lt;img src="{icon}" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Reach Level {minLevel}&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_mutation">&lt;img src="{icon}" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Complete {name}&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_group_size">&lt;img src="LyShineUI/Images/icons/chat/channelgroup" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; {minPlayers} - {maxPlayers} Players</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_gear_score_range">&lt;img src="LyShineUI/Images/Icons/Misc/icon_gearscore" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; {minGearScore} - {maxGearScore}</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_gear_score_mutation">M{difficulty} {gearScore}</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_click_here_join_group">Click here for option to enter M3 with group</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_gear_score">{gearScore}</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_deserter_penalty">&lt;img src="LyShineUI/Images/Icons/Misc/icon_exclamation" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Currently under Deserter's Penalty and cannot join this matchmaking queue.&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_group_ineligible">&lt;img src="LyShineUI/Images/Icons/Misc/icon_exclamation" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; &lt;font color={color}&gt; At least one member of your group doesn't meet these requirements or is currently under a Deserter's Penalty.&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_group_too_big">&lt;img src="LyShineUI/Images/Icons/Misc/icon_exclamation" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Your group is too large.&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_level_requirement_not_met">You do not meet the level requirement for this Expedition.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_gearscore_requirement_not_met">You do not meet the gear score requirement for this Expedition.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_cancel_queue_title">Leave Queue</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_cancel_queue_expedition_desc">Are you sure you want to leave the Expedition(s) queue?</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_cancel_queue_mutation_desc">Are you sure you want to leave the Mutated Expedition(s) queue?</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_cancel_queue_enter_dungeon">You are attempting to enter this expedition with your current group. Are you sure you want to leave the matchmaking queue to enter?</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_backfilling_group">Backfilling Group</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_select_started_title">Joining Matchmaking Queue</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_select_started_info">Role Selection Required</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_select_started_accept">Select Role</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_select_canceled">Queueing Canceled</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_selecting_roles">Selecting Roles: &lt;font color={numberColor}&gt;{numLockedIn}&lt;/font&gt; / {numInGroup}</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_disabled">You have already locked in a role. Click Change Role to change it.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_requirement_damage">&lt;font color={color}&gt;Any Weapon&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_requirement_tank">&lt;font color={weaponColor}&gt;Any Weapon&lt;/font&gt; &lt;font color={color}&gt; with a &lt;/font&gt; &lt;font color={gemColor}&gt;Carnelian Gem&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_requirement_healer">&lt;font color={weaponColor}&gt;Lv. {masteryLevel} Life Staff&lt;/font&gt; &lt;font color={color}&gt; and &lt;/font&gt; &lt;font color={focusColor}&gt;{focusLevel} {focusText}&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_description_damage">- Deal as much damage as possible\n- Kill foes before they can overwhelm you</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_recommended_damage">- Blunderbuss, Bow, Fire Staff, Greataxe, Hatchet, Ice Gauntlet, Musket, Rapier, Spear, Void Gauntlet\n- Invest in skills and attributes that focus on high damage\n- Area of Effect attacks</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_description_healer">- Keep the party alive with healing and mitigation\n- Remove harmful debuffs from allies</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_recommended_healer">- Life Staff, Void Gauntlet, Flail\n- Invest in the Focus stat</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_description_tank">- Absorb damage\n- Taunt enemies</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_recommended_tank">- Sword and Shield, Greataxe, Warhammer\n- Heavy Armor\n- Carnelian Gems\n- Crowd Control (stun, root, flatten)</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_ready_check_decline_popup_title">Confirm Decline</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_ready_check_decline_popup_message">Are you sure you want to decline the Ready Check? You or your group will be removed from the queue and will need to re-queue.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_exit_dungeon_desc">Are you sure you want to leave? You will be teleported outside of the Expedition and will not be able to rejoin.\n\n&lt;font color={penaltyColor}&gt;Using Leave applies a Deserter Penalty (20 minutes) if used within the first 10 minutes of the expedition.&lt;/font&gt;\n\nTo guarantee you won't receive the Deserter Penalty, use the Vote To Abandon option in the Group Settings.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_exit_dungeon_desc_no_penalty">Are you sure you want to leave? You will be teleported outside of the Expedition and will not be able to rejoin.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_expedition_activity_disabled">Expedition matchmaking is currently disabled. Please try again later.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_mutation_activity_disabled">Mutated Expedition matchmaking is currently disabled. Please try again later.</string>
+	<string rel_version="Feature_PUG_Finder" key="matchmaking_dungeon_activity">Expedition(s)</string>
+	<string rel_version="Feature_PUG_Finder" key="matchmaking_mutation_activity">Mutated Expedition(s)</string>
+	<string rel_version="Feature_PUG_Finder" key="matchmaking_requirements_replacement_when_M3s_disabled">Cannot matchmake with M3s. Use Enter With Group above.</string>
+	<string rel_version="Feature_PUG_Finder" key="matchmaking_queue_hud_already_accepted_match_tooltip">You are unable to leave the queue once a match invite has been accepted.</string>
 </resources>
 
